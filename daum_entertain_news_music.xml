@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-09-22T14:20:25.638Z</updated>
+    <updated>2021-09-22T15:17:47.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소명 '빠이빠이야',  24년 무명 벗은 '역발상']]></title>
+        <id>https://entertain.v.daum.net/v/20210923000010708</id>
+        <link href="https://entertain.v.daum.net/v/20210923000010708"/>
+        <updated>2021-09-22T15:17:04.859Z</updated>
+        <content type="html"><![CDATA[소유찬 소유미 남매와 아내 한영애까지 '트로트 음악가족' [더팩트｜강일홍 기자] 트로트 가수 중에는 오랜 담금질을 거쳐 늦깎이 스타가 된 경우가 많다. 가수로 실력을 인정받고도 좀처럼 기회를 잡지 못하다 뒤늦게 대중적 관심을 받는 케이스다. 가수 소명은 '빠이빠이야'의 히트와 함께 '24년 무명생활'을 청산했다. "2002년 발표한 '빠이빠이야'가 3년만]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지민 1위, 키워드는 '소통 감동 기부']]></title>
         <id>https://entertain.v.daum.net/v/20210922165411719</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20210922104225453"/>
         <updated>2021-09-22T02:05:20.917Z</updated>
         <content type="html"><![CDATA[[스포츠조선 조지영 기자] 투모로우바이투게더가 '빌보드 200'에서 통산 13주 차트인에 성공하며 장기 흥행을 이어갔다. 21일(현지시각) 미국 음악 전문 매체 빌보드가 발표한 최신 차트(9월 25일 자)에 따르면,  투모로우바이투게더(수빈, 연준, 범규, 태현, 휴닝카이)의 정규 2집 앨범 '혼돈의 장: FREEZE'는 메인 앨범 차트인 ']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[샤이니 키, 27일 첫 미니앨범 'BAD LOVE' 발매 기념 생방송 진행..스포일러 대방출]]></title>
-        <id>https://entertain.v.daum.net/v/20210922103246296</id>
-        <link href="https://entertain.v.daum.net/v/20210922103246296"/>
-        <updated>2021-09-22T02:05:20.920Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 조지영 기자] 샤이니 키(에스엠엔터테인먼트 소속)가 첫 미니앨범 'BAD LOVE'(배드 러브) 발매 기념 카운트다운 생방송을 펼친다. 키는 새 앨범 공개 한 시간 전인 27일 오후 5시부터 유튜브 SHINee 채널을 통해 생방송 "KEY's 'BAD LOVE' ODYSSEY"(키's '배드 러브' 오디세이)를 진행해, 글로벌 팬]]></content>
     </entry>
 </feed>
