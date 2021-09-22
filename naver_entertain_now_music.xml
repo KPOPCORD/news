@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-09-22T10:23:56.395Z</updated>
+    <updated>2021-09-22T11:18:31.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이찬원, 냉미남도 되는 찬또배기]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001351176</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001351176"/>
+        <updated>2021-09-22T11:18:17.540Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 이찬원의 비주얼이 눈길을 끈다 22일 ‘미스터트롯’ 인스타그램에는 “뽕상예술대상 후보작들이 너무 쟁쟁해서 떨리는 순간. 연기도 대박인 TOP6. #뽕숭아학당 #뽕상예술대상 오늘(9/22)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이티즈, '데자뷰' 컴백 동시 '쇼챔' 1위 "꼭 보답할게요"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004478849</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004478849"/>
+        <updated>2021-09-22T11:18:17.541Z</updated>
+        <content type="html"><![CDATA[[OSEN=김나연 기자] 에이티즈(ATEEZ)가 새 앨범 컴백 후 ‘음악 방송 첫 1위’를 거머쥐었다. 22일 방송된 MBC M ‘쇼! 챔피언’에는 지난 13일 미니 7집 ‘제로 : 피버 파트 3(ZERO : FEV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단 UN 잔디광장 퍼포먼스]]></title>
         <id>https://entertain.naver.com/now/read?oid=438&amp;aid=0000039015</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004478696"/>
         <updated>2021-09-22T06:25:54.832Z</updated>
         <content type="html"><![CDATA[[OSEN=지민경 기자] 에이티즈(ATEEZ)가 빌보드 7개 차트에 진입하며 막강한 글로벌 파워를 증명했다. 지난 21일(현지시간) 발표된 빌보드 최신 차트에 따르면 에이티즈는 앨범 판매량과 스트리밍 실적 및 음원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퍼플키스, ‘Zombie’ 퍼포먼스 영상 공개…돋보이는 팬사랑 ‘훈훈’]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000818048</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000818048"/>
-        <updated>2021-09-22T06:25:54.833Z</updated>
-        <content type="html"><![CDATA[퍼플키스(PURPLE KISS)가 추석을 맞아 신곡 퍼포먼스 영상을 깜짝 공개하며 팬들에게 선물을 안겼다. 퍼플키스는 지난 21일 오후 8시, 공식 SNS를 통해 두 번째 미니앨범 'HIDE &amp; SEEK'(하이드 앤]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[있지, 타이틀곡 '로꼬' 뮤직비디오 티저 첫 공개…당찬 에너지 눈길]]></title>
-        <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000320129</id>
-        <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000320129"/>
-        <updated>2021-09-22T06:25:54.835Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=김원겸 기자]컴백을 앞둔 있지(ITZY)가 신곡 '로꼬' 뮤직비디오 티저를 최초 공개했다. 있지는 오는 24일 첫 번째 정규 앨범 '크레이지 인 러브' 발매에 앞서 22일 0시 공식 SNS 채널에 당찬]]></content>
     </entry>
 </feed>
