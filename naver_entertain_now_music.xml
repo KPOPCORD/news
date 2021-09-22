@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-09-22T11:18:31.456Z</updated>
+    <updated>2021-09-22T12:34:53.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔하이픈 선우, 후즈팬 선정 송편 잘 빚을 것 같은 아이돌 1위 등극]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001351185</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001351185"/>
+        <updated>2021-09-22T12:34:40.896Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 엔하이픈의 선우가 '송편 가장 잘 빚을 것 같은 손재주 甲 아이돌'로 선정됐다. 글로벌 케이팝 팬덤 플랫폼 '후즈팬(Whosfan)'은 지난 9월 14일부터 20일까지 진행된 '추석 특집]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정동원, 고급스러운 삐약 왕자]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001351184</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001351184"/>
+        <updated>2021-09-22T12:34:40.904Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 정동원의 비주얼이 눈길을 끈다 22일 ‘미스터트롯’ 인스타그램에는 “뽕상예술대상 후보작들이 너무 쟁쟁해서 떨리는 순간. 연기도 대박인 TOP6. #뽕숭아학당 #뽕상예술대상 오늘(9/22)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이찬원, 냉미남도 되는 찬또배기]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001351176</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002990531"/>
         <updated>2021-09-22T07:20:31.827Z</updated>
         <content type="html"><![CDATA[그룹 이달의 소녀(LOONA)가 추석를 맞아 팬들에게 인사를 전했다. 이달의 소녀는 21일 스타뉴스 유튜브 채널 등을 통해 "민족 대명절 추석이 다가왔다"며 인사를 전했다. 이어 "이번 추석도 집에서 맛있는 거 많이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단 UN 연설 이어 퍼포먼스에 관심 폭발…'확장 버전' 공개]]></title>
-        <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000320132</id>
-        <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000320132"/>
-        <updated>2021-09-22T06:25:54.831Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=김원겸 기자]그룹 방탄소년단이 제76차 유엔총회에서 선보인 '퍼미션 투 댄스'(Permission to Dance) 퍼포먼스의 '확장(Extended) 버전'을 공개, 전 세계적으로 뜨거운 반응을 얻고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이티즈, 美 빌보드 7개 차트 진입..월드 앨범·이머징 아티스트 1위]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004478696</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004478696"/>
-        <updated>2021-09-22T06:25:54.832Z</updated>
-        <content type="html"><![CDATA[[OSEN=지민경 기자] 에이티즈(ATEEZ)가 빌보드 7개 차트에 진입하며 막강한 글로벌 파워를 증명했다. 지난 21일(현지시간) 발표된 빌보드 최신 차트에 따르면 에이티즈는 앨범 판매량과 스트리밍 실적 및 음원]]></content>
     </entry>
 </feed>
