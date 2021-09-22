@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-09-22T09:15:59.033Z</updated>
+    <updated>2021-09-22T09:21:34.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오징어 게임'의 시대 역행, 미쳐버린 혐오 표현]]></title>
+        <id>https://entertain.v.daum.net/v/20210922181915025</id>
+        <link href="https://entertain.v.daum.net/v/20210922181915025"/>
+        <updated>2021-09-22T09:21:00.497Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 최하나 기자] 기대 속에 베일을 벗은 '오징어 게임'을 향한 비난 여론이 거세지고 있다. 작품의 완성도를 차지하고, 곳곳에 배치된 혐오 표현이 시청자들의 반감을 불러일으키고 있다. 현재 한국 작품 창작 방향성과 시대 상황을 역행하는 '오징어 게임'이다. 지난 17일 공개된 넷플릭스 오리지널 시리즈 '오징어 게임'(감독 황동혁)은 456억 원]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['개와 고양이의 시간' 니엘, 제 옷 잘 찾아 입었다]]></title>
         <id>https://entertain.v.daum.net/v/20210922175630677</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20210922155018628"/>
         <updated>2021-09-22T07:20:17.024Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김현정 기자) (인터뷰②에 이어) 가수 세븐은 고 김현식의 명곡으로 만든 뮤지컬 ‘사랑했어요’에서 윤기철 역을 맡아 열연하고 있다.&nbsp; 기철은 준혁(현재: 조장혁·정세훈·성기윤, 현재: 고유진·홍경인·김용진 분)의 절친한 동생으로 음악을 사랑하는 경영학도이자 영혼을 사로잡는 사랑 앞에 인생의 모든 걸 거는 인물이다. 절친한 형 준혁의 아이를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑했어요' 세븐 "띠동갑 업텐션 선율과 같은 역, 연륜이 강점이죠"]]></title>
-        <id>https://entertain.v.daum.net/v/20210922155012626</id>
-        <link href="https://entertain.v.daum.net/v/20210922155012626"/>
-        <updated>2021-09-22T07:20:17.025Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김현정 기자) (인터뷰①에 이어) 데뷔 19년 차 가수 세븐은 요즘 막내 취급을 받고 있단다. 기분이 좋다며 너스레를 떨었다.&nbsp; 그도 그럴 것이 세븐이 열연 중인 뮤지컬 ‘사랑했어요’에는 조장혁, 정세훈, 성기윤, 고유진, 홍경인, 김용진, 위양호, 고혜성 등 선배들이 즐비하다. “조장혁 선배님을 비롯해 선배님들이 많이 나오시잖아요. 제게도]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-09-22T09:15:59.110Z</updated>
+    <updated>2021-09-22T09:21:34.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['50세' 고소영, 핫팬츠로 늘씬 각선미 자랑...세월 거스른 미모+몸매]]></title>
+        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003781326</id>
+        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003781326"/>
+        <updated>2021-09-22T09:21:25.925Z</updated>
+        <content type="html"><![CDATA[[스포츠조선닷컴 정안지 기자] 배우 고소영이 늘씬한 각선미를 자랑했다. 고소영은 22일 자신의 인스타그램을 통해 "연휴 마지막 날 옷 정리하다 옷 입어보기로 끝나버린 #빈티지 #90년대 패션"이라며 사진을 게재했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["옆모습이 살짝 남자같아" 아유미, 이렇게 예쁜데 외모 망언]]></title>
         <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003781325</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005615822"/>
         <updated>2021-09-22T09:08:43.461Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 올가을 조던 필 유니버스의 새로운 탄생을 알리는 영화 '캔디맨'이 22일 개봉한다. '캔디맨'은 이번 주 외화 개봉작 전체 예매율 1위에 등극했다. '캔디맨'은 영화진흥위원회 통합전산]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백아연, 청량 음색 이 정도면 특허네]]></title>
-        <id>https://entertain.naver.com/now/read?oid=396&amp;aid=0000592577</id>
-        <link href="https://entertain.naver.com/now/read?oid=396&amp;aid=0000592577"/>
-        <updated>2021-09-22T09:08:43.462Z</updated>
-        <content type="html"><![CDATA[가수 백아연이 독보적인 청량 음색을 선사했다. 딩고 뮤직은 지난 21일 오후 7시 공식 유튜브 채널을 통해 백아연의 '킬링 보이스' 영상을 공개했다. 공개된 영상에서 백아연은 "오랜만에 들려드릴 수 있는 노래들도 많]]></content>
     </entry>
 </feed>
