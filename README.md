@@ -15,3 +15,9 @@
   ### 스타★연예
   - 음악: https://kpopcord.github.io/news/kbs_kstar_music.xml  
   - 연예: https://kpopcord.github.io/news/kbs_kstar_star.xml  
+---
+
+
+
+
+▶️ [영화 뉴스로 이동하기](https://github.com/MOVIECORD/news)
