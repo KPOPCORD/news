@@ -8,4 +8,6 @@
 
 # 네이버 TV연예
 - **최신 뉴스**
+   - 연예가화제: https://kpopcord.github.io/news/naver_entertain_now_hot.xml  
    - 음악: https://kpopcord.github.io/news/naver_entertain_now_music.xml  
+   - 해외연예: https://kpopcord.github.io/news/naver_entertain_now_abroad.xml  
