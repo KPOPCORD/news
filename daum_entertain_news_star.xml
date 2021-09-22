@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-09-22T12:34:53.949Z</updated>
+    <updated>2021-09-22T12:44:45.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["우결 아니에요?"..허웅·허훈 형제X이지훈 남매, 비현실적 '호적메이트']]></title>
+        <id>https://entertain.v.daum.net/v/20210922213700704</id>
+        <link href="https://entertain.v.daum.net/v/20210922213700704"/>
+        <updated>2021-09-22T12:44:10.693Z</updated>
+        <content type="html"><![CDATA[[TV리포트=김은정 기자] 허웅-허훈 형제와 이지훈 남매가 남다른 애정을 드러냈다. 22일 오후 방송된&nbsp;MBC '호적 메이트'에서는 배우 김정은 자매, 농구선수 허웅-허훈 형제, 그리고&nbsp;배우 이지훈의 남매 일상이 공개됐다. 이날 김정은은 동생 김정민에게 끊임없이 잔소리를 퍼부으면서도 동생을 아끼는 K-장녀의 모습을 드러냈다.&nbsp;'호적메이트에게 듣기 싫은 잔소]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[통 큰 박원숙 "옥수수 밭 500평 사겠다"]]></title>
         <id>https://entertain.v.daum.net/v/20210922212811639</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20210922200215017"/>
         <updated>2021-09-22T11:17:58.438Z</updated>
         <content type="html"><![CDATA[[스포츠투데이 현혜선 기자] '호적 메이트' 김정은이 큰 사랑을 받았던 '파리의 연인' 이후 차기작 선택에 대해 전했다. 22일 저녁 방송된 MBC 예능프로그램 '호적 메이트'에서는 배우 김정은 김정민 자매의 일상이 그려졌다. 이날 방송에서 김정민은 김정은의 영화 '사랑니' 인터뷰를 진행했다. 김정민의 영화 리뷰를 본 김정은은 "정말 놀랐다. 너무 디테일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['편먹고 공치리' 소이현 "골프광 인교진, 부부싸움 후에 봐도 멋져"]]></title>
-        <id>https://entertain.v.daum.net/v/20210922194530900</id>
-        <link href="https://entertain.v.daum.net/v/20210922194530900"/>
-        <updated>2021-09-22T11:17:58.439Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 배우 소이현이 남편 인교진의 골프하는 모습에 매료됐다며 각별한 애정을 고백했다. 22일 방송된 SBS ‘편먹고 공치리 with 동상이몽’에선 장신영 강경준 부부, 소이현 인교진 부부의 라이딩이 공개됐다. 이날 인교진은 “명절문화가 바뀌어서 가족끼리 골프를 치는 게 꿈인 부모님들이 있다고 한다”는 이승기의 말에 “나도 그렇다. 아이]]></content>
     </entry>
 </feed>
