@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-09-22T15:57:09.991Z</updated>
+    <updated>2021-09-22T16:05:57.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘정경호♥’ 최수영, 친언니 최수진과 다정 케미…특급 조언까지[M+★SNS]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001609219</id>
+        <link href="https://entertain.naver.com/now/read?oid=057&amp;aid=0001609219"/>
+        <updated>2021-09-22T16:05:49.222Z</updated>
+        <content type="html"><![CDATA[소녀시대 최수영이 친언니이자 뮤지컬 배우 최수진과의 다정한 투샷을 공개했다. 최수영은 지난 22일 오후 자신의 인스타그램에 “언니 둔 동생 애송이들 잘들어”라는 글과 사진을 게재했다. 그는 “언니랑 셀카 찍을 때는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이다희, 붉은 립으로 고혹美…도발적 눈빛[M+★SNS]]]></title>
         <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001609218</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000934320"/>
         <updated>2021-09-22T12:34:47.070Z</updated>
         <content type="html"><![CDATA[가수 지누의 아내 임사라 변호사가 생후 한 달된 아들을 공개했다. 임사라 변호사는 22일 자신의 인스타그램에 "자는게 제일 예뻐. 김무명씨 이름 아직 없어요"라는 글을 게재했다. 함께 공개한 영상 속 지누-임사라 부]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['돌싱' 김새롬, 재혼 계획? "2세 생기면 '하늘'이라 지을 것" [스타IN★]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002990563</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002990563"/>
-        <updated>2021-09-22T12:34:47.070Z</updated>
-        <content type="html"><![CDATA[방송인 김새롬이 아름다운 하늘을 바라보며 2세에 대한 기대를 나타냈다. 김새롬은 22일 자신의 인스타그램 스토리에 한 장의 사진을 올렸다. 이날 공개된 사진에는 '나중에 아기 생기면 하늘이라 지을거야'라는 문구와 함]]></content>
     </entry>
 </feed>
