@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-09-22T09:08:50.837Z</updated>
+    <updated>2021-09-22T09:15:07.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[졸리, 피트 몰래 '1941억 호화 부동산' 매각 의혹.."결혼식했던 곳"[Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004478831</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004478831"/>
+        <updated>2021-09-22T09:15:06.859Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 할리우드 배우 안젤리나 졸리가 전 남편인 배우 브래드 피트 몰래 프랑스에서 공동 소유했던 호화 부동산을 처리하려고 교활한 수단을 썼다는 의혹이 제기됐다. 21일(현지시간) 페이지식스의 보도에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[벨라 하디드, 브라톱 입고 뉴욕 활보…탄탄한 '워너비 몸매' [N해외연예]]]></title>
         <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005615826</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004478306"/>
         <updated>2021-09-22T09:08:50.151Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 할리우드 배우 벤 애플렉이 거의 20년 만에 다시 옛 연인과 로맨스를 시작한 이후 처음으로 여자친구 제니퍼 로페즈에 대해 공개적으로 자랑을 늘어놓았다. 벤 애플렉은 18일(현지시간) 애드위크]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[슈퍼주니어-D&E, 하트 포즈는 커다랗게~ [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000817806</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000817806"/>
-        <updated>2021-09-22T09:08:50.154Z</updated>
-        <content type="html"><![CDATA[슈퍼주니어-D&amp;E가 21일 추석 인사를 전했다. 동해와 은혁은 파스텔톤 한복을 입고 포즈를 취하고 있다. 한편 슈퍼주니어-D&amp;E는 오는 10월 말 발매 예정인 국내 첫 번째 정규 앨범 준비에 박차를 가하고 있다. 사]]></content>
     </entry>
 </feed>
