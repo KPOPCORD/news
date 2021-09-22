@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-09-22T05:19:45.212Z</updated>
+    <updated>2021-09-22T06:25:55.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임영웅 '바보 같지만' 무대 영상 800만뷰 돌파..뜨거운 인기]]></title>
+        <id>https://entertain.v.daum.net/v/20210922150041705</id>
+        <link href="https://entertain.v.daum.net/v/20210922150041705"/>
+        <updated>2021-09-22T06:25:26.182Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 임영웅이 '사랑의 콜센타'에서 부른 '바보 같지만' 무대 영상이 800만 뷰를 돌파했다. 지난 4월 16일 임영웅 공식 유튜브 채널 '임영웅'에는 그가 TV조선 '사랑의 콜센타'에서 부른 '바보 같지만' 무대 영상이 게재됐다. 해당 영상은 9월 22일 기준 유튜브 조회수 800만 뷰를 넘어선 상태. 임영웅의 뜨거운 인기를 실감할 수]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단, UN본부 누빈 'PTD' 퍼포먼스 관심 폭발..확장 버전 공개]]></title>
         <id>https://entertain.v.daum.net/v/20210922141234731</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20210922100349781"/>
         <updated>2021-09-22T02:05:20.922Z</updated>
         <content type="html"><![CDATA[[OSEN=지민경 기자]&nbsp;샤이니 키가 첫 미니앨범 ‘BAD LOVE’(배드 러브)&nbsp;발매 기념 카운트다운 생방송을 펼친다. 키는 새 앨범 공개 한 시간 전인&nbsp;9월&nbsp;27일 오후&nbsp;5시부터 유튜브&nbsp;SHINee&nbsp;채널을 통해 생방송 “KEY’s&nbsp;‘BAD LOVE’&nbsp;ODYSSEY”(키’s&nbsp;‘배드 러브’ 오디세이)를 진행해,&nbsp;글로벌 팬들의 높은 관심을 얻을 것으로 기대된]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[액티브 시니어가 뜬다..트로트, 여전히 무궁무진한 가능성]]></title>
-        <id>https://entertain.v.daum.net/v/20210922100002627</id>
-        <link href="https://entertain.v.daum.net/v/20210922100002627"/>
-        <updated>2021-09-22T02:05:20.925Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이덕행 기자] 트로트는 이제 한국 가요계를 논할 때 빠질 수 없는 주제가 됐다. 일각에서는 '지루하다'는 비판이 나오기도 하지만 트로트는 여전히 무궁무진한 가능성을 가지고 있다.━걸어다니는 중소기업으로 성장한 임영웅━가수 임영웅이 15일 오후 서울 영등포구 여의도동 글래드 호텔에서 열린 머니투데이방송 주최 '2020 MTN 방송광고 페스티벌' 시]]></content>
     </entry>
 </feed>
