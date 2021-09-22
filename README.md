@@ -15,6 +15,9 @@
   ### 스타★연예
   - 음악: https://kpopcord.github.io/news/kbs_kstar_music.xml  
   - 연예: https://kpopcord.github.io/news/kbs_kstar_star.xml  
+## MBC 연예
+  ### 아이돌 
+  - https://kpopcord.github.io/news/mbc_enews_idol.xml
 ---
 
 
