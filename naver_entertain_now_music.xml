@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-09-22T12:44:45.264Z</updated>
+    <updated>2021-09-22T12:58:03.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장민호, ‘트롯신사’라는 별명다운 훈남 비주얼]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001351189</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001351189"/>
+        <updated>2021-09-22T12:57:49.715Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 장민호의 비주얼이 눈길을 끈다 22일 ‘미스터트롯’ 인스타그램에는 “뽕상예술대상 후보작들이 너무 쟁쟁해서 떨리는 순간. 연기도 대박인 TOP6. #뽕숭아학당 #뽕상예술대상 오늘(9/22)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엔하이픈 선우, 후즈팬 선정 송편 잘 빚을 것 같은 아이돌 1위 등극]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001351185</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000790363"/>
         <updated>2021-09-22T07:20:31.827Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 정하은기자]미래소년이 ‘비밀’ 한복 버전 안무로 추석 연휴 마지막 날 색다른 명절 선물을 전한다. DSP미디어는 22일 오후 6시 공식 SNS 채널에 미래소년의 두 번째 미니앨범 ‘Splash - M]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이달의 소녀 "행복한 추석, 'PPT' 들으며 강렬하게 물들이세요"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002990531</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002990531"/>
-        <updated>2021-09-22T07:20:31.827Z</updated>
-        <content type="html"><![CDATA[그룹 이달의 소녀(LOONA)가 추석를 맞아 팬들에게 인사를 전했다. 이달의 소녀는 21일 스타뉴스 유튜브 채널 등을 통해 "민족 대명절 추석이 다가왔다"며 인사를 전했다. 이어 "이번 추석도 집에서 맛있는 거 많이]]></content>
     </entry>
 </feed>
