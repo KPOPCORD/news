@@ -17,7 +17,7 @@ imageSelector = "span.img-thum span.img-center img"
 [mbc_enews_idol]
 title = "MBC 연예 ─ 아이돌"
 url = "http://enews.imbc.com/ThemeIdol"
-entrySelector = "ul.news-list.list-square.list-latest li"
+entrySelector = "ul.news-list.list-square.list-latest li:not(li.ad)"
 titleSelector = "div.text-box p.summary"
 linkSelector = "a"
 imageSelector = "a img"
