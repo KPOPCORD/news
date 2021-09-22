@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-09-22T07:20:32.566Z</updated>
+    <updated>2021-09-22T08:25:08.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지민 1위, 키워드는 '소통 감동 기부']]></title>
+        <id>https://entertain.v.daum.net/v/20210922165411719</id>
+        <link href="https://entertain.v.daum.net/v/20210922165411719"/>
+        <updated>2021-09-22T08:24:38.632Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 방탄소년단 지민. 사진제공｜빅히트 그룹 방탄소년단 지민이 아이돌 개인 브랜드 평판 1위를 차지했다. 한국기업평판연구소는 아이돌 개인 브랜드평판 빅데이터 분석을 위해 2021년 8월 22일부터 2021년 9월 22일까지 1453명 아이돌 개인 브랜드 빅데이터 1억 2920만 8295개를 추출하여 아이돌 개인 브랜드에 대한 소비자들의 참여지수,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단, UN 연설 이어 퍼포먼스도 관심..확장 버전 공개]]></title>
         <id>https://entertain.v.daum.net/v/20210922161251045</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20210922103246296"/>
         <updated>2021-09-22T02:05:20.920Z</updated>
         <content type="html"><![CDATA[[스포츠조선 조지영 기자] 샤이니 키(에스엠엔터테인먼트 소속)가 첫 미니앨범 'BAD LOVE'(배드 러브) 발매 기념 카운트다운 생방송을 펼친다. 키는 새 앨범 공개 한 시간 전인 27일 오후 5시부터 유튜브 SHINee 채널을 통해 생방송 "KEY's 'BAD LOVE' ODYSSEY"(키's '배드 러브' 오디세이)를 진행해, 글로벌 팬]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빅톤 도한세, 첫 솔로앨범 하이라이트 메들리+작업 비하인드 공개]]></title>
-        <id>https://entertain.v.daum.net/v/20210922102325145</id>
-        <link href="https://entertain.v.daum.net/v/20210922102325145"/>
-        <updated>2021-09-22T02:05:20.920Z</updated>
-        <content type="html"><![CDATA[[OSEN=지민경 기자]&nbsp;그룹 빅톤(VICTON) 도한세가 솔로 앨범 미리듣기 영상 공개로 컴백 분위기를 고조시켰다. 플레이엠엔터테인먼트 측은 지난 21일 오후 11시 빅톤 공식 SNS 및 유튜브 채널을 통해 도한세 첫 솔로 앨범 'BLAZE(블레이즈)'의 하이라이트 메들리를 공개했다. 공개된 6분 30초 가량의 영상에서는 타이틀곡 'TAKE OVER(테이]]></content>
     </entry>
 </feed>
