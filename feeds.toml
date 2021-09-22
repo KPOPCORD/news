@@ -14,6 +14,15 @@ titleSelector = "span.max-progtit"
 linkSelector = "a"
 imageSelector = "span.img-thum span.img-center img"
 
+[mbc_enews_idol]
+title = "iMBC 연예 ─ 아이돌"
+url = "http://enews.imbc.com/ThemeIdol"
+entrySelector = "ul.news-list.list-square.list-latest li"
+titleSelector = "p.summary"
+linkSelector = "a"
+imageSelector = "a img"
+waitUntil = "networkidle"
+
 [daum_entertain_news_music]
 title = "다음 연예 ─ 뉴스 ─ 뮤직"
 url = "https://entertain.daum.net/news/music"
