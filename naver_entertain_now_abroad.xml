@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-09-23T11:19:08.884Z</updated>
+    <updated>2021-09-23T13:29:43.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['흑인 영화 대부' 멜빈 반 피블스 별세, 향년 89세]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010733881</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010733881"/>
+        <updated>2021-09-23T13:29:42.508Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = '흑인 영화계의 대부'로 통하는 미국 영화 감독 겸 제작자 그리고 음악가인 멜빈 반 피블스가 별세했다. 향년 89세. AP통신 등 외신에 따르면 피블스는 21일(현지시간) 미국 뉴욕 맨]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['조니 뎁에 승소' 엠버 허드, 아기 키우며 근육질 팔뚝..밝은 근황[Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004479288</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004479288"/>
+        <updated>2021-09-23T13:29:42.508Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 할리우드 배우 엠버 허드가 엄마가 된 후 밝은 근황을 전했다. 엠버 허드는 23일(한국시간) 자신의 SNS에 "Timeout with Pablo"란 글과 함께 사진을 게재했다. 공개된 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이혼' 안젤리나 졸리, 피트 몰래 '1941억' 대저택 팔려다 들켜]]></title>
         <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004648124</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005615826"/>
         <updated>2021-09-22T09:08:50.128Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 미국 모델 벨라 하디드가 군살 하나 없는 '워너비 몸매'를 뽐냈다. 벨라 하디드는 21일(현지시간) 미국 매체 스플래시가 공개한 사진에서 운동을 막 마친 후의 탄탄한 몸매를 자랑했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['섹스 앤 더 시티' 캐리 절친 役 윌리 가슨 사망 "밝은 빛을 준 사람"(종합)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000490848</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000490848"/>
-        <updated>2021-09-22T09:08:50.131Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김노을 기자] 배우 윌리 가슨이 암 투병 끝에 사망했다. 향년 57세. 9월 22일(현지시간) CNN 등에 따르면 미국 드라마 '섹스 앤 더 시티' 주인공 캐리(사라 제시카 파커 분)의 절친 스탠포트 블래치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제이크 질렌할, 목욕 위생논란에 "불행히도 씻고 왔다..죄송"[Oh!llywood]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004478747</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004478747"/>
-        <updated>2021-09-22T09:08:50.132Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 영화 '나이트 크롤러', '조디악' 등으로 유명한 할리우드 배우 제이크 질렌할이 때아닌 목욕 위생 논란에 휩싸였던 것에 대해 입을 열었다. 질렌할은 최근 넷플릭스 영화 '더 길티(The Gu]]></content>
     </entry>
 </feed>
