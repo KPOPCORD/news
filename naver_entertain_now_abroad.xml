@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-09-23T03:22:59.233Z</updated>
+    <updated>2021-09-23T04:29:25.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BTS·에드시런 등 팝스타, 기후위기·코로나·기근 극복 위해 콘서트]]></title>
+        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005617025</id>
+        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005617025"/>
+        <updated>2021-09-23T04:29:24.925Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 정윤미 기자 = 방탄소년단(BTS)부터 엘튼 존까지 전 세계 유명 팝스타들이 기후 변화, 신종 코로나바이러스 감염증(코로나19) 백신 균등 그리고 기근에 대한 인식 제고를 위해 한 뜻을 모은다고 AF]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안젤리나 졸리, 브래드 피트 동의없이 1941억 부동산 매각하려 했나]]></title>
         <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000491017</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001350984"/>
         <updated>2021-09-22T09:08:50.141Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김미지 기자) '섹스앤더시티' 시리즈에 스탠포드 블래치 역으로 출연한 할리우드 배우 윌리 가슨이 사망했다. CNN 등 현지 매체는 21일(현지시각) 윌리 가슨이 사망했다고 보도했다. 향년 57세. 윌리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['섹스 앤 더 시티' 스탠포드 役 윌리 가슨, 세상 떠났다…향년 57세 [N해외연예]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005615251</id>
-        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005615251"/>
-        <updated>2021-09-22T09:08:50.142Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 유명 미국 드라마 '섹스 앤 더 시티'에서 주인공 캐리의 절친 스탠포드를 연기했던 배우 윌리 가슨(Willie Garson)이 세상을 떠났다. 향년 57세다. 22일 CNN 등 미국]]></content>
     </entry>
 </feed>
