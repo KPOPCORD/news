@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Sep 2021 16:05:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Sep 2021 02:08:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[11월, 단 3주간 울리는 프렌치 뮤지컬 ‘노트르담 드 파리’]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=161933</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=161933</guid>
+            <pubDate>Thu, 23 Sep 2021 02:07:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=161933">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210923105328_212a394a8678fabf7d80a412776b781c.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=161933">11월, 단 3주간 울리는 프렌치 뮤지컬 ‘노트르담 드 파리’</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210923105328_212a394a8678fabf7d80a412776b781c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[몬스타엑스의 추석 인사 "편히 쉬는 추석을 보냈으면"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=161629</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=159832">반전과 반전의 러브 게임 '러브캐처'의 귀환!</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210910170256_f2174ab771660fb675a2fe699370e164_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['환승연애' 전 애인 공개, 비밀을 알게된 출연자들의 결정은?]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=159812</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=159812</guid>
-            <pubDate>Wed, 22 Sep 2021 12:43:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=159812">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210910164658_3c6155841ba817199d6730cc97e5039b.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=159812">'환승연애' 전 애인 공개, 비밀을 알게된 출연자들의 결정은?</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210910164658_3c6155841ba817199d6730cc97e5039b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
