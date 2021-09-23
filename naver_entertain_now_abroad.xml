@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-09-23T10:24:59.078Z</updated>
+    <updated>2021-09-23T11:19:08.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이혼' 안젤리나 졸리, 피트 몰래 '1941억' 대저택 팔려다 들켜]]></title>
+        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004648124</id>
+        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004648124"/>
+        <updated>2021-09-23T11:19:08.160Z</updated>
+        <content type="html"><![CDATA[안젤리나 졸리와 브래드 피트의 법정 다툼이 더욱 지저분한 싸움으로 번지고 있다. 이번에는 안젤리나 졸리가 전 남편 브래드 피트와 공동 소유했던 프랑스 땅의 부동산을 몰래 매각하려다 발각됐다. 지난 21일(현지시간)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마돈나 딸, 파격적 속옷 패션…母 닮아 패왕색 [Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004479136</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004478747"/>
         <updated>2021-09-22T09:08:50.132Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 영화 '나이트 크롤러', '조디악' 등으로 유명한 할리우드 배우 제이크 질렌할이 때아닌 목욕 위생 논란에 휩싸였던 것에 대해 입을 열었다. 질렌할은 최근 넷플릭스 영화 '더 길티(The Gu]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[곽부성, 23세 연하 아내·두 딸과 달맞이.."온 가족이 즐겁게" [Oh! 차이나]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004478730</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004478730"/>
-        <updated>2021-09-22T09:08:50.133Z</updated>
-        <content type="html"><![CDATA[[OSEN=지민경 기자] 중화권 톱스타 곽부성이 아내와 두 딸과 함께 행복한 명절을 보냈다. 곽부성의 아내 팡위안은 지난 21일 자신의 SNS에 "여러분 행복한 추석 보내세요"라는 글과 함께 여러 장의 사진을 게재했]]></content>
     </entry>
 </feed>
