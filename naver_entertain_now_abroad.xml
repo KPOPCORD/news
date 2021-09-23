@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-09-23T06:26:47.696Z</updated>
+    <updated>2021-09-23T07:21:20.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[저스틴 비버, '♥︎헤일리' 비키니 사진 올리며 "달콤하고 섹시해" [Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004479083</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004479083"/>
+        <updated>2021-09-23T07:21:19.577Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 가수 저스틴 비버와 모델 헤일리 비버(헤일리 볼드윈)가 남다른 부부애를 과시하고 있다. 저스틴 비버는 지난 22일(현지 시간) 자신의 SNS에 아내 헤일리 비버의 사진을 게재하며 “달콤하고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JTBC스튜디오가 인수한 美 제작사 윕, 에미상 4관왕]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010733310</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000490818"/>
         <updated>2021-09-22T09:08:50.137Z</updated>
         <content type="html"><![CDATA[[뉴스엔 김노을 기자] 할리우드 배우 우마 서먼이 10대 후반에 낙태를 했다고 고백했다. 9월 21일(현지시간) 뉴욕포스트는 "우마 서먼이 최근 발행된 워싱턴 포스트의 사설을 통해 '나의 가장 어두운 비밀'을 밝혔다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['섹스 앤 더 시티' 윌리 가슨 사망, 향년 57세...子·동료 추모]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003781204</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003781204"/>
-        <updated>2021-09-22T09:08:50.138Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 이게은기자] 미국 유명 드라마 '섹스 앤 더 시티'로 이름을 알린 배우 윌리 가슨이 사망했다. 향년 57세. 22일 뉴욕포스트, 버라이어티 등 외신에 따르면 윌리 가슨의 아들은 이날 자신의 인스타그램]]></content>
     </entry>
 </feed>
