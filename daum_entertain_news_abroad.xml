@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-09-24T09:21:42.670Z</updated>
+    <updated>2021-09-24T10:24:43.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['말포이' 톰 펠튼, 골프장에서 쓰러져 병원 이송.."상태 불명"]]></title>
+        <id>https://entertain.v.daum.net/v/20210924190334034</id>
+        <link href="https://entertain.v.daum.net/v/20210924190334034"/>
+        <updated>2021-09-24T10:24:22.253Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) '해리포터' 시리즈의 드레이코 말포이 역으로 유명한 배우 톰 펠튼이 골프장에서 쓰러져 충격을 안긴다. 23일(현지시간) CNN 등 다수 매체는&nbsp;톰 펠튼은 이날 미국 위스콘신주에 위치한 골프장에서 라이더컵을 앞두고 열린 이벤트 행사에서 갑자기 쓰러져 병원으로 이송됐다고 보도했다. 톰 펠튼은 쓰러진 이후 골프 카트에 실려 경기장을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['해리포터' 말포이 役 톰 펠튼, 골프장서 쓰러져 병원 이송]]></title>
         <id>https://entertain.v.daum.net/v/20210924160504939</id>

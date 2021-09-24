@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-09-24T09:21:42.726Z</updated>
+    <updated>2021-09-24T10:24:43.214Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['말포이' 톰 펠튼, 골프장에서 쓰러져 병원 이송…"상태 불명" [엑's 할리우드]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001352160</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001352160"/>
+        <updated>2021-09-24T10:24:42.485Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) '해리포터' 시리즈의 드레이코 말포이 역으로 유명한 배우 톰 펠튼이 골프장에서 쓰러져 충격을 안긴다. 23일(현지시간) CNN 등 다수 매체는 톰 펠튼은 이날 미국 위스콘신주에 위치한 골]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[63세 마돈나, 엄마랑 아들 아닙니다..27살 연하남친 껌딱지 [Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004479683</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000818474</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000818474"/>
         <updated>2021-09-24T05:20:07.958Z</updated>
-        <content type="html"><![CDATA[24일 오후 KBS 2TV 새 주말드라마 &lt;신사와 아가씨&gt; 온라인 제작발표회가 열렸다. 이날 제작발표회에는 신창석 감독, 지현우, 이세희, 강은탁, 박하나, 이종원, 오현경, 이일화, 차화연, 윤진이, 안우연, 서우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강은탁 '싱글벙글 포토타임' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000818471</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000818471"/>
-        <updated>2021-09-24T05:20:07.959Z</updated>
         <content type="html"><![CDATA[24일 오후 KBS 2TV 새 주말드라마 &lt;신사와 아가씨&gt; 온라인 제작발표회가 열렸다. 이날 제작발표회에는 신창석 감독, 지현우, 이세희, 강은탁, 박하나, 이종원, 오현경, 이일화, 차화연, 윤진이, 안우연, 서우]]></content>
     </entry>
 </feed>
