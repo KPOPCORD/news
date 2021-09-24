@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Sep 2021 06:26:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 07:21:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[샤이니 키, 분위기 압도하는 강렬한 눈빛 [화보]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/326112</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/326112</guid>
+            <pubDate>Fri, 24 Sep 2021 07:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/326112">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/24/GfMqEQrOzkk3637680946719217657.jpg" alt="샤이니 키, 분위기 압도하는 강렬한 눈빛 [화보]">        <div class="text-box">            <p class="summary">샤이니 키, 분위기 압도하는 강렬한 눈빛 [화보]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/24/GfMqEQrOzkk3637680946719217657.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이달의 소녀 츄×희진, 숙소 언급 “12명이 한 집에 살아” (구해줘! 홈즈)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/326108</link>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 24 Sep 2021 02:03:34 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/326052">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/24/nHaBGHAVuQVX637680660930037165.jpg" alt="백퍼센트 록현·종환·찬용·혁진, 해체 [공식입장 전문]">        <div class="text-box">            <p class="summary">백퍼센트 록현·종환·찬용·혁진, 해체 [공식입장 전문]</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/24/nHaBGHAVuQVX637680660930037165.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 로제, 시크+러블리 공존하는 대세 비주얼 [인스타]]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/326032</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/326032</guid>
-            <pubDate>Fri, 24 Sep 2021 02:03:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/326032">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/24/q1s15M7Q1Z8f637680432498566299.jpg" alt="블랙핑크 로제, 시크+러블리 공존하는 대세 비주얼 [인스타] ">        <div class="text-box">            <p class="summary">블랙핑크 로제, 시크+러블리 공존하는 대세 비주얼 [인스타] </p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/24/q1s15M7Q1Z8f637680432498566299.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-09-24T06:26:22.266Z</updated>
+    <updated>2021-09-24T07:21:18.961Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['해리포터' 말포이 役 톰 펠튼, 골프장서 쓰러져 병원 이송]]></title>
+        <id>https://entertain.v.daum.net/v/20210924160504939</id>
+        <link href="https://entertain.v.daum.net/v/20210924160504939"/>
+        <updated>2021-09-24T07:20:55.744Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 김노을 기자] 영화 '해리포터' 시리즈의 말포이 역으로 유명한 배우 톰 펠튼이 골프장에서 쓰러졌다. 9월 23일(현지시간) BBC 등 외신 보도에 따르면 톰  펠튼은 이날 미국 위스콘신주에 위치한 골프장에서 열린 대회에 참가, 경기 도중 갑자기 쓰려져 병원으로 긴급 이송됐다. 톰 펠튼은 쓰러진 이후 골프 카트에 실려 경기장을 떠났으며 다행히 의식]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['해리포터 말포이' 배우, 골프장서 쓰러졌다 '충격']]></title>
         <id>https://entertain.v.daum.net/v/20210924144554675</id>
@@ -18,12 +25,5 @@
         <link href="https://entertain.v.daum.net/v/20210923180927103"/>
         <updated>2021-09-23T09:22:02.874Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자)&nbsp;불륜 논란에 휩싸인 일본의 성우 겸 가수 스즈키 타츠히사의 복귀가 무산됐다. 지난 22일 일본의 TV아사히 등 다수 매체는 12월에 열릴 예정이었던 영화 '도쿄 리벤저스'의 이벤트에&nbsp;스즈키 타츠히사가 불참하게 됐다고 보도했다. 앞서&nbsp;지난 7월 30일 일본의 주간문춘은 스즈키 타츠히사가 20대 여성 A씨와 호텔에서 밀회를 즐겼다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우마 서먼, 낙태 경험 고백 "낙태금지법은 악법"]]></title>
-        <id>https://entertain.v.daum.net/v/20210923153503512</id>
-        <link href="https://entertain.v.daum.net/v/20210923153503512"/>
-        <updated>2021-09-23T07:20:59.161Z</updated>
-        <content type="html"><![CDATA[미국의 영화 배우 우마 서먼(Uma Thurman)이 최근 텍사스 주 의회가 통과시킨 '낙태금지법'에 반대하는 목소리를 냈다. 22일(현지시간) 우마 서먼은 미국 워싱턴포스터를 통해 '텍사스의 낙태금지법은 폐지돼야 한다'는 내용의 글을 기고했다. 해당 글에서 우마 서먼은 자신 역시 10대 후반에 낙태를 경험했다고 고백하며, '낙태금지법'이 취약 계층 여]]></content>
     </entry>
 </feed>
