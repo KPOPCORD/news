@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-09-24T05:20:08.660Z</updated>
+    <updated>2021-09-24T06:26:22.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["가수가 UN에 왜 가?" 비판에..방탄소년단 슈가가 날린 일침]]></title>
+        <id>https://entertain.v.daum.net/v/20210924144156565</id>
+        <link href="https://entertain.v.daum.net/v/20210924144156565"/>
+        <updated>2021-09-24T06:25:42.347Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 공미나 기자] 방탄소년단(BTS) 슈가가 21일 오후 서울 송파구 방이동 올림픽홀에서 진행된 새 싱글앨범 'Butter' 발매 기념 쇼케이스에서 포즈를 취하고 있다.  'Butter'에는 버터처럼 부드럽게 녹아들어 너를 사로잡겠다는 방탄소년단의 귀여운 고백이 담겨있다.  방탄소년단은 'Butter'를 사실상의 선 공개 싱글로 스타트를 끊고 6월]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장민호, 첫 단독 콘서트 '드라마' 10월 부산 개최..28일 티켓 오픈]]></title>
         <id>https://entertain.v.daum.net/v/20210924141320601</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20210924132555260"/>
         <updated>2021-09-24T04:28:07.661Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 가수 임창정이 돌아온다.24일 ‘스포츠경향’ 취재 결과 임창정은 11월 초 컴백을 앞두고 정규 17집 후반 작업에 박차를 가하고 있다. 임창정은 지난해 10월 정규16집 타이틀곡 ‘힘든 건 사랑이 아니다’로 ‘임창정표 발라드’를 내놓으며 사랑을 받았다. 이번 정규 17집 앨범은 1년 여만에 발매하는 것으로, 자신만의 색깔을 공고히 해온 임창]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조유리, 10월 7일 솔로 데뷔 확정]]></title>
-        <id>https://entertain.v.daum.net/v/20210924132457244</id>
-        <link href="https://entertain.v.daum.net/v/20210924132457244"/>
-        <updated>2021-09-24T04:28:07.662Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] 조유리, 10월 7일 솔로 데뷔 확정 [공식] 가수 조유리가 솔로 데뷔일을 확정했다. 24일 소속사 웨이크원은 “가수 조유리가 오는 10월 7일 첫 번째 싱글 ‘GLASSY (글래시)’를 발매하고 본격적인 솔로 활동을 펼친다”고 밝혔다. 이와 함께 공식 SNS 채널을 통해 콘셉트 포스터를 공개하며 컴백 예열에 나섰다. 공개된 사진에는 목선과]]></content>
     </entry>
 </feed>
