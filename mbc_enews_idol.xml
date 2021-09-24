@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Sep 2021 02:04:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 03:23:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[브레이브걸스 유정, 러블리+섹시 '꼬북좌' 다양한 매력 자랑 [인스타]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/326089</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/326089</guid>
+            <pubDate>Fri, 24 Sep 2021 03:22:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/326089">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/24/Kti8kjI9ii4o637680810684335999.jpg" alt="브레이브걸스 유정, 러블리+섹시 '꼬북좌' 다양한 매력 자랑 [인스타] ">        <div class="text-box">            <p class="summary">브레이브걸스 유정, 러블리+섹시 '꼬북좌' 다양한 매력 자랑 [인스타] </p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/24/Kti8kjI9ii4o637680810684335999.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김성규, ‘야생돌’ MC+보컬 프로 맹활약! 넬 김종완과 남다른 케미 발산]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/326081</link>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 24 Sep 2021 02:03:34 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/326048">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/24/20ee9220-174b-4ffa-bdb1-9ef2c609c093.jpg" alt="[포토] 방탄소년단 뷔, '잘생긴 태태'">        <div class="text-box">            <p class="summary">[포토] 방탄소년단 뷔, '잘생긴 태태'</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/24/20ee9220-174b-4ffa-bdb1-9ef2c609c093.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 방탄소년단 정국-뷔-진-지민, '누가 봐도 BTS']]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/326047</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/326047</guid>
-            <pubDate>Fri, 24 Sep 2021 02:03:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/326047">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/24/e1af1c1e-f156-4643-8cf2-3a485423bddb.jpg" alt="[포토] 방탄소년단 정국-뷔-진-지민, '누가 봐도 BTS'">        <div class="text-box">            <p class="summary">[포토] 방탄소년단 정국-뷔-진-지민, '누가 봐도 BTS'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/24/e1af1c1e-f156-4643-8cf2-3a485423bddb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
