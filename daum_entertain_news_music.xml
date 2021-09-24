@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-09-24T10:24:43.258Z</updated>
+    <updated>2021-09-24T11:19:58.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["이영애, 남친 위해 손가락 절단?"..조성모 '가시나무' 뮤비 비하인드 대방출]]></title>
+        <id>https://entertain.v.daum.net/v/20210924195920029</id>
+        <link href="https://entertain.v.daum.net/v/20210924195920029"/>
+        <updated>2021-09-24T11:19:23.783Z</updated>
+        <content type="html"><![CDATA[[OSEN=이승훈 기자] '이십세기 힛트쏭'이 외롭고 쓸쓸한 사람들에게 공감과 위로를 해줄 노래들을 추천한다. 오늘(24일) 오후 8시 방송되는 KBS Joy '이십세기 힛트쏭'(이하 '힛트쏭')은 '너도 슬프냐? 나도 슬프다! 남자 솔로 보컬 힛트쏭'을 주제로 시청자들을 찾아간다. 이날 '힛트쏭'은 서러움과 애절함이 폭발하는 이별 초기 순간부터 담담한 극]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['뮤직뱅크' NCT 127, 에이티즈 꺾고 1위 "시즈닝 감사"]]></title>
         <id>https://entertain.v.daum.net/v/20210924183111491</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20210924162303341"/>
         <updated>2021-09-24T08:25:10.462Z</updated>
         <content type="html"><![CDATA[[OSEN=선미경 기자] 그룹 빅톤(VICTON) 멤버 도한세가 오는 25일 단독 스페셜 라이브를 개최하며 솔로 데뷔곡 무대를 최초 공개한다. 플레이엠엔터테인먼트 측은 24일 “빅톤&nbsp;도한세가 오는&nbsp;25일 오후 7시에 단독 스페셜 라이브 ‘BLAZE(블레이즈)’를 개최한다”고 밝혔다. 앞서 소속사 측은 23일 오후 6시 빅톤 공식 SNS 등지를 통해&nbsp;도한세의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쉴 틈이 없어요 쭉쭉쭉~방탄소년단, 유엔총회→콜드플레이 콜라보]]></title>
-        <id>https://entertain.v.daum.net/v/20210924161341145</id>
-        <link href="https://entertain.v.daum.net/v/20210924161341145"/>
-        <updated>2021-09-24T07:20:35.921Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] 유엔 마이크를 잡았던 방탄소년단이 귀국 후에도 바쁜 나날을 보내고 있다. 어나더 월드 클래스 BTS이기에 가능한 일이다.&nbsp; 방탄소년단은 24일 오전 문재인 대통령의 특별사절(특사) 자격으로 제76차 유엔총회에 참석한 후 인천국제공항을 통해 귀국했다. 4일 전 붉은 외교관 여권을 들고 미국으로 출국했던 이들은 역시나 특별한 여권을 꼭]]></content>
     </entry>
 </feed>

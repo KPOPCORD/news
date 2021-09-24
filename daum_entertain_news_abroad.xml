@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-09-24T10:24:43.162Z</updated>
+    <updated>2021-09-24T11:19:58.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 '슈퍼 마리오', 2022년 12월 21일 개봉..크리스 프랫 출연 확정]]></title>
+        <id>https://entertain.v.daum.net/v/20210924201607293</id>
+        <link href="https://entertain.v.daum.net/v/20210924201607293"/>
+        <updated>2021-09-24T11:19:39.103Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 닌텐도의 유명 게임을 원작으로 하는 애니메이션 영화 '슈퍼 마리오'의 캐스팅이 공개되면서 많은 관심을 모으고 있다. 24일 닌텐도는 '닌텐도 다이렉트'를 통해 '슈퍼 마리오'의 개봉일과 캐스팅을 공개했다. 공개된 내용에 따르면 마리오의 성우는 '레고 무비'와 '쥬라기 월드', '가디언즈 오브 더 갤럭시' 시리즈로 유명한 크리스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['말포이' 톰 펠튼, 골프장에서 쓰러져 병원 이송.."상태 불명"]]></title>
         <id>https://entertain.v.daum.net/v/20210924190334034</id>
