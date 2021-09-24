@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-09-24T12:34:23.838Z</updated>
+    <updated>2021-09-24T13:25:40.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노사연 "외모 스트레스로 우울증…인형들이 손가락질 해"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010735599</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010735599"/>
+        <updated>2021-09-24T13:25:26.178Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]전재경 인턴 기자 = 가수 노사연의 아팠던 과거가 전해졌다. 24일 방송된 KBS 2TV 예능프로그램 '연중라이브'에선 올타임 레전드 노사연의 옛 이야기가 방송됐다. 노사연은 성악과 재학 중 대학가요제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘이별전문 사이다 가사 1인자’ 메이 뮬러, 새 싱글 ‘Better Days’ 발매…네이키드·폴로 지와 협업]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000763462</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010735382"/>
         <updated>2021-09-24T08:25:39.366Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = "너는 내 별이자 나의 우주니까 / 지금 이 시련도 결국엔 잠시니까 / 너는 언제까지나 지금처럼 밝게만 빛나줘." 세계적인 브릿팝 밴드 '콜드플레이(Coldplay)'와 글로벌 K팝 그]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['슈퍼주니어' 동해 "2차 접종…속 미식거리고 머리 아파"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010735380</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010735380"/>
-        <updated>2021-09-24T08:25:39.367Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]안소윤 인턴 기자 = 그룹 '슈퍼주니어' 동해가 코로나19 백신 2차 접종 후기를 공유했다. 24일 동해는 자신의 인스타그램 계정 스토리를 통해 "백신 2차 증상. 머리 아프고 열나고 속이 미식거리고]]></content>
     </entry>
 </feed>
