@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-09-24T11:19:58.985Z</updated>
+    <updated>2021-09-24T12:34:23.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘이별전문 사이다 가사 1인자’ 메이 뮬러, 새 싱글 ‘Better Days’ 발매…네이키드·폴로 지와 협업]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000763462</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000763462"/>
+        <updated>2021-09-24T12:34:10.910Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 영국 싱어송라이터 메이 뮬러(Mae Muller)가 24일 정오 새 싱글 ‘Better Days (베터 데이즈)’를 발매했다. ‘Better Days’는 메이 뮬러가 오랜만에 발매하는 신곡으로, 네이키]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단 덕분에..상반기 지식재산권 무역흑자 8.5억 달러 '사상 최대']]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002991075</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010735380"/>
         <updated>2021-09-24T08:25:39.367Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]안소윤 인턴 기자 = 그룹 '슈퍼주니어' 동해가 코로나19 백신 2차 접종 후기를 공유했다. 24일 동해는 자신의 인스타그램 계정 스토리를 통해 "백신 2차 증상. 머리 아프고 열나고 속이 미식거리고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이찬원, 올림픽공원서 첫 번째 팬콘서트]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010735378</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010735378"/>
-        <updated>2021-09-24T08:25:39.368Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]안소윤 인턴 기자 = 가수 이찬원이 팬콘서트를 통해 팬들과 소통한다. 소속사 블리스엔터테인먼트에 따르면, 이찬원이 10월 23일부터 24일 양일간 올림픽공원 올림픽홀에서 첫 번째 팬콘서트 '찬스 타임(]]></content>
     </entry>
 </feed>

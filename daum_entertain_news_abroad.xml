@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-09-24T11:19:58.988Z</updated>
+    <updated>2021-09-24T12:34:23.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['말포이' 톰 펠튼, 골프장서 쓰러져 병원 이송]]></title>
+        <id>https://entertain.v.daum.net/v/20210924202334435</id>
+        <link href="https://entertain.v.daum.net/v/20210924202334435"/>
+        <updated>2021-09-24T12:33:59.828Z</updated>
+        <content type="html"><![CDATA[영화 '해리포터' 시리즈의 '드레이코 말포이' 역으로 유명한 영국 배우 톰 펠튼(Tom Felton)이 골프장에서 쓰러져 팬들의 걱정을 샀다. 23일(현지시간) BBC 등 다수의 해외 매체의 보도에 따르면 톰 펠튼이 미국 위스콘신주에서 열린 한 골프 대회에 참여했다가 행사 도중 갑자기 쓰러져 병원으로 이송됐다. 펠튼은 쓰러진 직후 골프 카트에 실려 경]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 '슈퍼 마리오', 2022년 12월 21일 개봉..크리스 프랫 출연 확정]]></title>
         <id>https://entertain.v.daum.net/v/20210924201607293</id>
