@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-09-24T07:21:18.968Z</updated>
+    <updated>2021-09-24T08:25:54.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[63세 마돈나, 엄마랑 아들 아닙니다..27살 연하남친 껌딱지 [Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004479683</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004479683"/>
+        <updated>2021-09-24T08:25:53.873Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 팝스타 마돈나가 36살 어린 연하 남자친구의 껌딱지가 됐다. 마돈나는 24일(한국시각) 자신의 인스타그램 스토리에 여러 장의 사진을 올렸다. 그중 단연 눈길을 끄는 건 남자친구와 함께 찍은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['해리포터' 말포이 役 톰 펠튼, 골프장서 쓰러져 병원 이송[할리우드비하인드]]]></title>
         <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000491416</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000818471"/>
         <updated>2021-09-24T05:20:07.959Z</updated>
         <content type="html"><![CDATA[24일 오후 KBS 2TV 새 주말드라마 &lt;신사와 아가씨&gt; 온라인 제작발표회가 열렸다. 이날 제작발표회에는 신창석 감독, 지현우, 이세희, 강은탁, 박하나, 이종원, 오현경, 이일화, 차화연, 윤진이, 안우연, 서우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['007 시리즈' 대니얼 크레이그, 英 해군 명예사령관 됐다]]></title>
-        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005619181</id>
-        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005619181"/>
-        <updated>2021-09-24T05:20:07.960Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정윤미 기자 = 세계 최장수 시리즈물 영화 '007'에서 해군 장교인 제임스 본드 역을 맡아온 대니엘 크레이그(53)가 실제 영국 해군의 명예사령관에 임명됐다. AFP통신은 23일(현지시간) 크레이그]]></content>
     </entry>
 </feed>
