@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-09-25T13:25:05.273Z</updated>
+    <updated>2021-09-25T14:20:09.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[골든차일드, '럭셔리 시크' 갬블러 변신]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002991253</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002991253"/>
+        <updated>2021-09-25T14:19:54.123Z</updated>
+        <content type="html"><![CDATA[그룹 골든차일드(Golden Child)가 '럭셔리 시크' 무드의 갬블러로 돌아온다. 소속사 울림엔터테인먼트는 지난 24일 오후 6시 공식 SNS를 통해 골든차일드 정규 2집 리패키지 '따라(DDARA)'의 첫 번째]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[식보이, 오늘(25일) 새 EP '르네상스' 발매]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002991250</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002991250"/>
+        <updated>2021-09-25T14:19:54.123Z</updated>
+        <content type="html"><![CDATA[드림라이프 레코즈 대표 아티스트 식보이(Sikboy)가 25일 두 번째 EP 'RENAISSANCE (르네상스)'를 발표했다. 총 7곡으로 채워진 이번 EP는 '드릴'이란 음악 장르를 활용, 기존 스타일에서 벗어난]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘메타버스 걸그룹’ 에스파, ‘Savage’ 티저 이미지]]></title>
         <id>https://entertain.naver.com/now/read?oid=438&amp;aid=0000039090</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000491664"/>
         <updated>2021-09-25T07:20:43.731Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이하나 기자] 레드벨벳, AKMU(악뮤), NCT 127이 1위 후보로 만났다. 9월 25일 방송된 MBC ‘쇼! 음악중심’에서는 9월 마지막 주 1위 후보가 공개 됐다. 이날 방송에는 레드벨벳의 ‘퀸덤(Q]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소프라노 이해원, 단독 공연 티켓 추가 오픈]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000763534</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000763534"/>
-        <updated>2021-09-25T07:20:43.731Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 소프라노 이해원이 단독 콘서트 추가 좌석을 오픈한다. 25일 이해원의 소속사 뉴에라프로젝트는 “지난 24일 정오 열린 이해원의 단독 콘서트 ‘위드(WITH)’의 티켓이 예매 오픈 10분 만에 전석 매진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우즈 조승연, 시크함 장착..미니 3집 두번째 콘셉트 포토]]></title>
-        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003479969</id>
-        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003479969"/>
-        <updated>2021-09-25T07:20:43.731Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=이미지 기자] 아티스트 우즈(WOODZ, 조승연)가 이번에는 시크함을 장착했다. 우즈는 지난 24일 오후 공식 SNS를 통해 세 번째 미니 앨범 'ONLY LOVERS LEFT (온리 러버스 레프트)']]></content>
     </entry>
 </feed>

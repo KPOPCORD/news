@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-09-25T13:25:05.245Z</updated>
+    <updated>2021-09-25T14:20:09.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단, 美 ABC ‘굿모닝 아메리카’·‘나이트라인’ 출연]]></title>
+        <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001609911</id>
+        <link href="https://entertain.naver.com/now/read?oid=057&amp;aid=0001609911"/>
+        <updated>2021-09-25T14:20:01.399Z</updated>
+        <content type="html"><![CDATA[그룹 방탄소년단이 미래세대와 문화를 위한 대통령 특별사절 자격으로 미국 유수의 TV 프로그램에 출연해 코로나19 팬데믹 극복, 미래세대와의 소통 등에 대해 이야기를 나누었다. 방탄소년단은 24일(이하 현지시간) 방송]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[팝핀현준, 母 위한 엘베+골프 연습장 갖춘 새집 공개..."목표=집 선물" ('살림남2')[종합]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003782350</id>
+        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003782350"/>
+        <updated>2021-09-25T14:20:01.399Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 조윤선 기자] 팝핀현준이 새롭게 단장한 집을 공개했다. 25일 방송된 KBS 2TV '살림하는 남자들 시즌2'에서는 팝핀현준 가족의 새로운 보금자리 공개됐다. 팝핀현준은 장장 5개월 동안의 대형 공사를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이하늬, 땅에 묻힌 채 얼굴만 빼꼼...넋 나간 표정 "누가 밟고 갈까 봐"]]></title>
         <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003782346</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000502085"/>
         <updated>2021-09-25T09:20:38.003Z</updated>
         <content type="html"><![CDATA[[텐아시아=서예진 기자] 그룹 AOA 멤버 설현이 특별한 취미 생활을 공개했다. 설현은 25일 자신의 인스타그램 스토리에 별다른 멘트 없이 한 장의 사진을 게재했다. 공개된 사진에는 아찔한 높이에서 실내 암벽등반을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단, 美 ABC 뉴스 출연 "유엔총회 퍼포먼스 믿기지 않아"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=009&amp;aid=0004856227</id>
-        <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0004856227"/>
-        <updated>2021-09-25T09:20:38.004Z</updated>
-        <content type="html"><![CDATA[그룹 방탄소년단이 '미래세대와 문화를 위한 대통령 특별사절' 자격으로 미국 유수의 TV 프로그램에 출연해 코로나19 팬데믹 극복, 미래세대와의 소통 등에 대해 이야기를 나누었다. 방탄소년단은 24일(이하 현지시간)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이필모 11살 연하♥' 서수연, 머리 자르니 여고생 된 애엄마 "시원하다" [TEN★]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000502084</id>
-        <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000502084"/>
-        <updated>2021-09-25T08:24:33.755Z</updated>
-        <content type="html"><![CDATA[[텐아시아=김지원 기자] 배우 이필모의 아내 서수연이 동안 비주얼을 뽐냈다. 서수연은 25일 자신의 인스타그램에 "드디어 머리 잘랐어요. 톤 다운하고, 허리까지 가기 전에 미용했어요. 시원하다"고 글을 올렸다. 함께]]></content>
     </entry>
 </feed>
