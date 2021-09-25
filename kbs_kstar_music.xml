@@ -4,7 +4,7 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Sep 2021 08:24:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Sep 2021 09:20:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -233,7 +233,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=161027</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=161027</guid>
             <pubDate>Wed, 22 Sep 2021 12:43:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=161027">	<span class="img-box hh">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=161027">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210916140840_d37327ec0b430a282b4574682ea2cb6d.jpg" alt="대체 텍스트">
