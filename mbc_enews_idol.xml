@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Sep 2021 03:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Sep 2021 05:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정준하→미주, ‘물공 헤딩’ 도전! 대환장 비주얼 잔치 (놀면)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/326146</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/326146</guid>
+            <pubDate>Sat, 25 Sep 2021 05:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/326146">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/25/f0C2hkGM99bu637681736126285668.jpg" alt="정준하→미주, ‘물공 헤딩’ 도전! 대환장 비주얼 잔치 (놀면)">        <div class="text-box">            <p class="summary">정준하→미주, ‘물공 헤딩’ 도전! 대환장 비주얼 잔치 (놀면)</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/25/f0C2hkGM99bu637681736126285668.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전현무-샤이니 키, 같은 옷 다른 느낌 “사람이 문제” (나혼산)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/326127</link>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 24 Sep 2021 02:03:34 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/326081">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/24/9WLYrdFpyUJ1637680773793987803.jpg" alt="김성규, ‘야생돌’ MC+보컬 프로 맹활약! 넬 김종완과 남다른 케미 발산">        <div class="text-box">            <p class="summary">김성규, ‘야생돌’ MC+보컬 프로 맹활약! 넬 김종완과 남다른 케미 발산</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/24/9WLYrdFpyUJ1637680773793987803.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브레이브걸스 유나, 키 165cm에서 줄었나? 꼬마 비주얼 자랑 [인스타]]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/326036</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/326036</guid>
-            <pubDate>Fri, 24 Sep 2021 02:03:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/326036">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/24/09yCi3Ygihkb637680436433011825.JPG" alt="브레이브걸스 유나, 키 165cm에서 줄었나? 꼬마 비주얼 자랑 [인스타]">        <div class="text-box">            <p class="summary">브레이브걸스 유나, 키 165cm에서 줄었나? 꼬마 비주얼 자랑 [인스타]</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/24/09yCi3Ygihkb637680436433011825.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
