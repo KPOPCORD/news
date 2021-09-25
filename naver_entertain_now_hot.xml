@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-09-25T12:33:22.963Z</updated>
+    <updated>2021-09-25T13:25:05.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이하늬, 땅에 묻힌 채 얼굴만 빼꼼...넋 나간 표정 "누가 밟고 갈까 봐"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003782346</id>
+        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003782346"/>
+        <updated>2021-09-25T13:24:54.836Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 조윤선 기자] 배우 이하늬가 드라마 촬영 비하인드를 공개했다. 이하늬는 25일 자신의 인스타그램에 "연주 고시생 시절. 무지하게 더운 날. 묻힌 날. 누가 밟고 갈까 봐 휴우 (오디오 째짐 주의 ㅎ) 오]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[황민현부터 트와이스까지 참석한 젠틀몬스터 몽클레르 지니어스 쇼 성료]]></title>
         <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000502104</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000502084"/>
         <updated>2021-09-25T08:24:33.755Z</updated>
         <content type="html"><![CDATA[[텐아시아=김지원 기자] 배우 이필모의 아내 서수연이 동안 비주얼을 뽐냈다. 서수연은 25일 자신의 인스타그램에 "드디어 머리 잘랐어요. 톤 다운하고, 허리까지 가기 전에 미용했어요. 시원하다"고 글을 올렸다. 함께]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['박성광♥' 이솔이, 단독주택 얼마나 넓길래…집마당=극장 "우리 공간" [TEN★]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000502083</id>
-        <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000502083"/>
-        <updated>2021-09-25T08:24:33.756Z</updated>
-        <content type="html"><![CDATA[[텐아시아=김지원 기자] 개그맨 박성광의 아내 이솔이가 전원주택 생활에 만족감을 드러냈다. 이솔이는 25일 자신의 인스타그램에 "미팅과 약속이 있으면 아주 큰 맘 먹고 나서야 하지만 그래도 이곳 저곳 손때 묻은 우리]]></content>
     </entry>
 </feed>
