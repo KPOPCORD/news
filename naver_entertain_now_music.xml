@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-09-26T08:25:35.526Z</updated>
+    <updated>2021-09-26T09:20:56.743Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BTS, 숭례문 배경으로 역대급 퍼포먼스 [종합]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000763681</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000763681"/>
+        <updated>2021-09-26T09:20:41.809Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 방탄소년단(BTS)이 국보 숭례문에서 촬영한 퍼포먼스로 전 지구적 자선 콘서트 ‘글로벌 시티즌 라이브’의 오프닝을 화려하게 장식했다. BTS는 26일 오전(한국시간)부터 장장 24시간 동안 유튜브로 생]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘고민은 배송만 늦출 뿐’으로 돌아온 노라조, 명실상부 콘셉트 왕 (인기가요)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000818993</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000818993"/>
+        <updated>2021-09-26T09:20:41.818Z</updated>
+        <content type="html"><![CDATA[노라조가 전 국민의 고민 해결사로 등극했다. 노라조(조빈, 원흠)는 26일 오후 방송된 SBS ‘인기가요’에 출연해 새 디지털 싱글 ‘고민은 배송만 늦출 뿐’ 무대를 선보였다. 늘 유쾌하고 기분 좋은 에너지를 선사하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[솔로도 ‘만능열쇠’… 키, 혼자서도 꽉 채운 콘서트 [스경X현장]]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000763672</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003782530"/>
         <updated>2021-09-26T06:25:03.761Z</updated>
         <content type="html"><![CDATA[[스포츠조선 고재완 기자] 트로트 음악계를 '미스터트롯' 출신들이 평정하고 있다. 트로트 가수 브랜드평판 2021년 9월 빅데이터 분석 결과 1위에 임영웅이 올랐고, 2위에 이찬원, 3위에 영탁를 영탁이 차지했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임영웅, 추석 연휴에 크게 효도했을 것 같은 스타 1위]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001352736</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001352736"/>
-        <updated>2021-09-26T06:25:03.761Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 임영웅이 “부모님께 통 크게 추석 용돈 드릴 것 같은 스타” 투표 1위에 올랐다. 최근 커뮤니티 포털사이트 디시인사이드와 취향 검색 기업 마이셀럽스가 운영 중인 익사이팅디시에서는 “부모님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트와이스, 데뷔 첫 영어 싱글 'The Feels' 개인 포토 공개…청량한 비주얼]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001352723</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001352723"/>
-        <updated>2021-09-26T06:25:03.761Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 그룹 트와이스가 데뷔 첫 영어 싱글 'The Feels'(더 필스)의 개인 이미지를 첫 공개했다. JYP엔터테인먼트는 25일 오후 1시 공식 SNS 채널에 'The Feels' 개인 티저]]></content>
     </entry>
 </feed>
