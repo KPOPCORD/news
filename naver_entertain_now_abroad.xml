@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-09-26T02:05:05.099Z</updated>
+    <updated>2021-09-26T03:22:52.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에스파 '파격적인 여전사 패션' [MK화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000818879</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000818879"/>
+        <updated>2021-09-26T03:22:51.817Z</updated>
+        <content type="html"><![CDATA[제12회 INK 콘서트가 25일 오후 온라인으로 진행됐다. 에스파가 멋진 무대를 선보이고 있다. 프로미스나인 지헌, NCT DREAM 제노가 MC를 맡은 이번 콘서트는 NCT 127, 에스파, 더보이즈, 프로미스나인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이키 '탄탄한 복근 과시' [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000818875</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000818875"/>
+        <updated>2021-09-26T03:22:51.818Z</updated>
+        <content type="html"><![CDATA[25일 K-컬쳐 페스티벌 ‘KCON:TACT(이하 케이콘택트)’의 다섯 번째 시즌 ‘KCON:TACT HI 5(케이콘택트 하이 파이브)’가 열렸다. 아이키가 멋진 무대를 선보이고 있다. 사진=엠넷]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[63세 샤론 스톤, 금빛 드레스 입고 환한 미소…"골든 아이콘, 감사" [N해외연예]]]></title>
         <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005620789</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000818789"/>
         <updated>2021-09-25T14:20:08.617Z</updated>
         <content type="html"><![CDATA[제12회 INK 콘서트가 25일 오후 온라인으로 진행됐다. 에스파 카리나가 멋진 무대를 선보이고 있다. 프로미스나인 지헌, NCT DREAM 제노가 MC를 맡은 이번 콘서트는 NCT 127, 에스파, 더보이즈, 프로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제노-백지헌 '비주얼 완벽한 MC 커플' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000818788</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000818788"/>
-        <updated>2021-09-25T14:20:08.617Z</updated>
-        <content type="html"><![CDATA[제12회 INK 콘서트가 25일 오후 온라인으로 진행됐다. 제노, 백지헌이 진행을 하고 있다. 프로미스나인 지헌, NCT DREAM 제노가 MC를 맡은 이번 콘서트는 NCT 127, 에스파, 더보이즈, 프로미스나인,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제노-백지헌 '찰떡궁합' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000818787</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000818787"/>
-        <updated>2021-09-25T14:20:08.619Z</updated>
-        <content type="html"><![CDATA[제12회 INK 콘서트가 25일 오후 온라인으로 진행됐다. 제노, 백지헌이 진행을 하고 있다. 프로미스나인 지헌, NCT DREAM 제노가 MC를 맡은 이번 콘서트는 NCT 127, 에스파, 더보이즈, 프로미스나인,]]></content>
     </entry>
 </feed>

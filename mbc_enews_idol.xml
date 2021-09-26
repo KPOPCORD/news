@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Sep 2021 02:05:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Sep 2021 03:22:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['신세계로부터' 이승기X은지원X김희철X조보아X박나래X카이, 예능 혁명 예고]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/326183</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/326183</guid>
+            <pubDate>Sun, 26 Sep 2021 03:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/326183">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/26/b356a7cb-f670-479d-86bb-4439a40d3147.png" alt="'신세계로부터' 이승기X은지원X김희철X조보아X박나래X카이, 예능 혁명 예고">        <div class="text-box">            <p class="summary">'신세계로부터' 이승기X은지원X김희철X조보아X박나래X카이, 예능 혁명 예고</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/26/b356a7cb-f670-479d-86bb-4439a40d3147.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단, '글로벌 시티즌 라이브' 오프닝...전 세계에 한국의 美 알렸다]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/326174</link>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 24 Sep 2021 06:25:32 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/326100">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/24/eMwXIfVZAxlM637680905061395054.jpg" alt="‘복면가왕’ 양요섭 멘탈 흔든 겁 없는 복면가수 정체는?">        <div class="text-box">            <p class="summary">‘복면가왕’ 양요섭 멘탈 흔든 겁 없는 복면가수 정체는?</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/24/eMwXIfVZAxlM637680905061395054.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이채연, '스트릿 우먼 파이터' 지우고 세련미 장착]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/326095</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/326095</guid>
-            <pubDate>Fri, 24 Sep 2021 05:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/326095">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/24/z586zfpAxO6G637680890813736543.jpg" alt="이채연, '스트릿 우먼 파이터' 지우고 세련미 장착">        <div class="text-box">            <p class="summary">이채연, '스트릿 우먼 파이터' 지우고 세련미 장착</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/24/z586zfpAxO6G637680890813736543.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
