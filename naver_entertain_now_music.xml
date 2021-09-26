@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-09-26T13:25:18.714Z</updated>
+    <updated>2021-09-26T14:20:10.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[위아이, 신곡 ‘반 고흐의 밤’ 콘셉트 포토 공개... 몽환적 매력]]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001195540</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001195540"/>
+        <updated>2021-09-26T14:19:54.501Z</updated>
+        <content type="html"><![CDATA[글로벌 팬덤 플랫폼 유니버스(UNIVERSE)가 그룹 위아이(WEi)의 콘셉트 포토를 공개해 화제다. 지난 25일 유니버스(UNIVERSE)는 앱과 공식 SNS 채널을 통해 위아이(장대현, 김동한, 유용하, 김요한,]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[송가인이 곧 브랜드... 9월 브랜드 평판 1위 등극]]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001195538</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001195538"/>
+        <updated>2021-09-26T14:19:54.507Z</updated>
+        <content type="html"><![CDATA[가수 송가인이 9월 트로트 가수 브랜드 평판에서 트로트 가수 여성 부문 1위를 차지했다. 송가인은 지난 26일 한국 기업 평판 연구소에서 발표한 ‘9월 트로트 가수 브랜드 평판’여자 부문에서 1위에 이름을 올리며 송]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[골든차일드, 독보적 비주얼…정규 2집 리패키지 ‘DDARA’ 새 재킷 이미지 공개]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000819006</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=025&amp;aid=0003137447"/>
         <updated>2021-09-26T06:25:03.728Z</updated>
         <content type="html"><![CDATA[방탄소년단(BTS)과 세계적인 록밴드 콜드플레이의 협업곡 '마이 유니버스'(My Universe)가 각국 아이튠즈 차트 정상에 올랐다. 24일 발매된 '마이 유니버스'는 미국, 프랑스, 독일, 캐나다, 스페인, 호주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트와이스, 첫 영어 싱글 '더 필스' 개인 포토 공개…콘셉트 소화력 과시]]></title>
-        <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000320691</id>
-        <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000320691"/>
-        <updated>2021-09-26T06:25:03.728Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=김원겸 기자]트와이스가 데뷔 첫 영어 싱글 '더 필스'(The Feels)의 개인 이미지를 첫 공개하고 콘셉트 소화력을 과시했다. JYP엔터테인먼트는 25일 오후 1시 공식 SNS 채널에 '더 필스']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송가인, 광주에 뜬 시구여신…유니폼도 찰떡[★SNS]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000790971</id>
-        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000790971"/>
-        <updated>2021-09-26T06:25:03.728Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 정하은기자]가수 송가인이 시구 여신으로 변신했다. 송가인은 26일 자신의 인스타그램에 “오늘 첫 시구하러 광주에 왔어요! 기아타이거즈 ! 두근 두근 2시 경기 많은 시청 바랍니다 !”라는 글과 함께]]></content>
     </entry>
 </feed>
