@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Sep 2021 14:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Sep 2021 02:05:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단, '글로벌 시티즌 라이브' 오프닝...전 세계에 한국의 美 알렸다]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/326174</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/326174</guid>
+            <pubDate>Sun, 26 Sep 2021 02:04:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/326174">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/26/AJP74H3Jk1hJ637682457066855611.jpg" alt="방탄소년단, '글로벌 시티즌 라이브' 오프닝...전 세계에 한국의 美 알렸다">        <div class="text-box">            <p class="summary">방탄소년단, '글로벌 시티즌 라이브' 오프닝...전 세계에 한국의 美 알렸다</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/26/AJP74H3Jk1hJ637682457066855611.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스테이씨, ‘하이틴 드라마’ 그 자체! ‘음악중심’ 물들인 틴프레시 에너지]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/326153</link>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 24 Sep 2021 05:19:20 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/326095">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/24/z586zfpAxO6G637680890813736543.jpg" alt="이채연, '스트릿 우먼 파이터' 지우고 세련미 장착">        <div class="text-box">            <p class="summary">이채연, '스트릿 우먼 파이터' 지우고 세련미 장착</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/24/z586zfpAxO6G637680890813736543.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기안84, ‘일일 코디’ 샤이니 키에 힘입어 쇼핑계 샛별 변신 (나 혼자 산다)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/326094</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/326094</guid>
-            <pubDate>Fri, 24 Sep 2021 05:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/326094">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/24/LhMmvNM7OfrC637680879109084299.jpg" alt="기안84, ‘일일 코디’ 샤이니 키에 힘입어 쇼핑계 샛별 변신 (나 혼자 산다)">        <div class="text-box">            <p class="summary">기안84, ‘일일 코디’ 샤이니 키에 힘입어 쇼핑계 샛별 변신 (나 혼자 산다)</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/24/LhMmvNM7OfrC637680879109084299.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
