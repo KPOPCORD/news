@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-09-26T11:18:48.104Z</updated>
+    <updated>2021-09-26T13:25:18.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['복면가왕' 홍지윤·홍주현→윤형빈·정경미, 듀엣 대전 출격]]></title>
+        <id>https://entertain.v.daum.net/v/20210926211310313</id>
+        <link href="https://entertain.v.daum.net/v/20210926211310313"/>
+        <updated>2021-09-26T13:24:34.577Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 황서연 기자]  '복면가왕'에서 형제의 난, 용감한 형제 팀이 3라운드에 진출했다. 홍지윤 홍주현 자매, 윤형빈 정경미 부부가 가면을 벗어 화제를 모았다. 26일 방송된 MBC 예능프로그램 '복면가왕'에서는 듀엣 대전 특집이 펼쳐졌다. 1라운드 마지막 대결은 로열 패밀리 대 형제의 난 팀이 펼쳤다. 로열 패밀리가 패배해 가면을 벗었고, 이들은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[땀이 비 오듯..키, 민호도 걱정한 열정만렙 "콘서트 이겨내"]]></title>
         <id>https://entertain.v.daum.net/v/20210926185003932</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20210926154724376"/>
         <updated>2021-09-26T07:19:56.611Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 가수 이무진과 에스파, 리사가 1위 트로피를 놓고 경쟁한다. 9월 26일 방송된 '인기가요' 1110회에서 에스파, 이무진, 블랙핑크 리사가 1위 후보에 올랐다. 1위의 주인공은 이날 방송 말미 공개된다. 한편 이날 방송된 '인기가요'에는 신곡 'LOCO'(로꼬)로 화려하게 돌아온 그룹 ITZY(있지)의 유나가 스페셜 MC로 등장해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[샤이니 키 "2년 7개월 만의 솔로 공연..이렇게라도 만나 행복"]]></title>
-        <id>https://entertain.v.daum.net/v/20210926153613219</id>
-        <link href="https://entertain.v.daum.net/v/20210926153613219"/>
-        <updated>2021-09-26T07:19:56.611Z</updated>
-        <content type="html"><![CDATA[[OSEN=지민경 기자] 그룹 샤이니의 키가 새 앨범 수록곡 무대를 최초 공개했다. 키는 26일 네이버&nbsp;V LIVE의&nbsp;Beyond LIVE&nbsp;채널을 통해 솔로 콘서트 ‘Beyond LIVE - KEY : GROKS IN THE KEYLAND’(비욘드 라이브&nbsp;-&nbsp;키&nbsp;:&nbsp;그록스 인 더 키랜드)를 개최하고 전 세계 팬들과 만났다. 오는 27일 첫 미니앨범 ‘BAD]]></content>
     </entry>
 </feed>

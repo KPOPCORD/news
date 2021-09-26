@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-09-26T11:18:48.157Z</updated>
+    <updated>2021-09-26T13:25:18.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[골든차일드, 독보적 비주얼…정규 2집 리패키지 ‘DDARA’ 새 재킷 이미지 공개]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000819006</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000819006"/>
+        <updated>2021-09-26T13:25:03.420Z</updated>
+        <content type="html"><![CDATA[그룹 골든차일드(Golden Child)가 독보적인 비주얼과 아우라로 시선을 압도했다. 소속사 울림엔터테인먼트는 지난 25일 오후 6시 공식 SNS를 통해 골든차일드 정규 2집 리패키지 ‘따라(DDARA)’의 두 번]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세븐틴, 미니 9집 ‘Attacca’ 예약 판매 하루 만에 선주문량 141만 장 돌파]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000819005</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000819005"/>
+        <updated>2021-09-26T13:25:03.423Z</updated>
+        <content type="html"><![CDATA[그룹 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)의 미니 9집 ‘Attacca’가 벌써부터 뜨거운 반응을 얻고 있다. 오는 10월 22일 발매 되는 세븐틴]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세븐틴, 미니앨범 선주문 141만 장 돌파... 자체 최고 기록]]></title>
         <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001195529</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000790971"/>
         <updated>2021-09-26T06:25:03.728Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 정하은기자]가수 송가인이 시구 여신으로 변신했다. 송가인은 26일 자신의 인스타그램에 “오늘 첫 시구하러 광주에 왔어요! 기아타이거즈 ! 두근 두근 2시 경기 많은 시청 바랍니다 !”라는 글과 함께]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진심이 만든 기적의 노래, 이찬원 ‘공항의 이별’ 100만 뷰 돌파]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001352743</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001352743"/>
-        <updated>2021-09-26T06:25:03.731Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 이찬원의 ‘공항의 이별’ 영상이 유튜브 조회 수 100만 뷰를 넘어섰다. 지난 5월 14일 미스&amp;미스터트롯 공식계정에는 "(클린버전) 이찬원 - 공항의 이별 --사랑의 콜센타 55화, T]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[샤이니 키 솔로 콘서트, 오늘(26일) 'Beyond LIVE' 개최]]></title>
-        <id>https://entertain.naver.com/now/read?oid=052&amp;aid=0001644624</id>
-        <link href="https://entertain.naver.com/now/read?oid=052&amp;aid=0001644624"/>
-        <updated>2021-09-26T06:25:03.761Z</updated>
-        <content type="html"><![CDATA[샤이니 키가 오늘(26일) 'Beyond LIVE'를 통해 솔로 콘서트를 개최한다. 'Beyond LIVE - KEY : GROKS IN THE KEYLAND'(비욘드 라이브 - 키 : 그록스 인 더 키랜드)는 오늘]]></content>
     </entry>
 </feed>
