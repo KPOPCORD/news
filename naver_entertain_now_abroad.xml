@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-09-27T08:26:28.951Z</updated>
+    <updated>2021-09-27T09:22:16.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[니콜라스 케이지, 만취 상태로 식당서 쫓겨나…"노숙자인 줄" [N해외연예]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005623814</id>
+        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005623814"/>
+        <updated>2021-09-27T09:22:15.646Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 안태현 기자 = 할리우드 배우 니콜라스 케이지(57)가 만취한 상태로 라스베가스의 고급 레스토랑에서 쫓겨난 소식이 전해졌다. 23일(현지시간) 더 선은 최근 니콜라스 케이지가 만취 상태로 미국 라스베]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['오징어게임' 해외서 더 호응…블룸버그 "美 할리우드 위협"(종합)[Oh!쎈 초점]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004481287</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004481287"/>
+        <updated>2021-09-27T09:22:15.646Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 해외에서 한국산 드라마 ‘오징어 게임’에 높은 관심을 보이고 있다. 27일 오전(현지 시간) 경제 전문지 블룸버그는 “‘오징어 게임’이 미국 할리우드에 심각한 경쟁 위협을 주고 있다”고 분석]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CJ ENM 제작 뮤지컬 '물랑루즈', 토니상 10개 부문 석권]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010738640</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001353037"/>
         <updated>2021-09-27T03:23:16.229Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 마블 시네마틱 유니버스(MCU) 영화 '샹치와 텐 링즈의 전설'(이하 '샹치')이 4주 연속 북미 박스오피스 1위를 달성했다. 26일(현지시간) 미국 박스오피스 모조의 발표에 따르면 '샹]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[INI '화려한 칼 군무' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000819064</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000819064"/>
-        <updated>2021-09-27T03:23:16.230Z</updated>
-        <content type="html"><![CDATA[26일 K-컬쳐 페스티벌 'KCON:TACT(이하 케이콘택트)'의 다섯 번째 시즌 'KCON:TACT HI 5(케이콘택트 하이 파이브)'가 열렸다. 보이그룹 INI가 화려한 공연을 펼치고 있다. 사진제공=엠넷]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘케서방’ 니콜라스 케이지, 만취 상태로 술집에서 쫓겨나…“노숙자인줄”[해외이슈]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003539911</id>
-        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003539911"/>
-        <updated>2021-09-27T03:23:16.231Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]한국에서 ‘케서방’으로 널리 알려진 할리우드 스타 니콜라스 케이지(57)가 만취 상태로 술집에서 쫓겨난 영상이 화제다. 영국의 ‘더 선’은 26일(현지시간) 니콜라스 케이지가 미국 라스베]]></content>
     </entry>
 </feed>
