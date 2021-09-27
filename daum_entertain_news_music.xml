@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-09-27T12:36:15.997Z</updated>
+    <updated>2021-09-27T13:27:51.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['슈퍼밴드2' 양장세민 팀 더 웨일즈, 여심 홀렸다]]></title>
+        <id>https://entertain.v.daum.net/v/20210927221007211</id>
+        <link href="https://entertain.v.daum.net/v/20210927221007211"/>
+        <updated>2021-09-27T13:27:10.270Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 이기은 기자] ‘슈퍼밴드2’ 양장세민 팀이 팬들을 압도했다. 27일 밤 방송된 JTBC 예능프로그램 ‘슈퍼밴드2’에서는 참가자들의 팀 데뷔 결선 무대가 공개됐다. 이날 올라운더 플레이어, 더 웨일즈 팀이 출격했다. 양장세민, 김준서, 김한겸, 정석훈, 조기훈 등으로 이루어진 ‘테크니션’ 팀이었다. 엄청난 여성 팬덤을 보유한 이들은 프론트맨 양]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[샤이니 키, 레트로로 포장한 비극적 사랑 노래 'BAD LOVE']]></title>
         <id>https://entertain.v.daum.net/v/20210927180058555</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20210927170616852"/>
         <updated>2021-09-27T08:25:46.616Z</updated>
         <content type="html"><![CDATA[11인조 한일 합작 보이그룹 니크(NIK)가 가요계에 출사표를 던졌다. 니크(건민, 현수, 박하, 고건, 윤솔, 태훈, 류타, 후미야, 타이치, 료, 히나타)는 27일 오후 4시 유튜브 채널을 통해 데뷔 싱글 ‘산타 모니카/유니버스(Santa Monica/Universe)’ 발매 기념 쇼케이스를 열고, 신곡을 공개했다. 이날 건민은 데뷔 소감을 묻자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백' AB6IX "'체리' 귀여운 포인트 안무에 주목해주세요"]]></title>
-        <id>https://entertain.v.daum.net/v/20210927170310737</id>
-        <link href="https://entertain.v.daum.net/v/20210927170310737"/>
-        <updated>2021-09-27T08:25:46.624Z</updated>
-        <content type="html"><![CDATA[AB6IX(에이비식스)가 오늘(27일), 지난 2년간의 쉼 없는 여정을 통해 얻은 값진 성장을 증명할 두 번째 정규 앨범 ‘MO’ COMPLETE(모어 컴플릿)’을 공개한다. AB6IX의 새 앨범 ‘MO’ COMPLETE’은 데뷔 앨범 ‘B:COMPLETE’을 잇는 2부작 연작 앨범의 마지막 작품으로 그동안 시도해 온 다양한 음악적 접근들을 모아 오롯이 A]]></content>
     </entry>
 </feed>
