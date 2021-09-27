@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-09-27T11:19:01.929Z</updated>
+    <updated>2021-09-27T12:36:16.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비아이, 美 LXL와 온라인 콘서트…핑크 스웨츠·에픽하이 등 출연]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010739046</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010739046"/>
+        <updated>2021-09-27T12:36:15.281Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 강진아 기자 = 가수 비아이가 해외 유명 아티스트들과 함께 온라인 콘서트를 한다. 소속사 아이오케이컴퍼니는 27일 비아이가 미국 유명 미디어업체인 '라이브X라이브(LiveXLive·LXL)'와 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[니콜라스 케이지, 만취 상태로 식당서 쫓겨나…"노숙자인 줄" [N해외연예]]]></title>
         <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005623814</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000819065"/>
         <updated>2021-09-27T03:23:16.227Z</updated>
         <content type="html"><![CDATA[26일 K-컬쳐 페스티벌 'KCON:TACT(이하 케이콘택트)'의 다섯 번째 시즌 'KCON:TACT HI 5(케이콘택트 하이 파이브)'가 열렸다. 보이그룹 INI가 화려한 공연을 펼치고 있다. 사진제공=엠넷]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['샹치', 美 박스오피스 4주 연속 1위…2021년 첫 기록]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001353037</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001353037"/>
-        <updated>2021-09-27T03:23:16.229Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 마블 시네마틱 유니버스(MCU) 영화 '샹치와 텐 링즈의 전설'(이하 '샹치')이 4주 연속 북미 박스오피스 1위를 달성했다. 26일(현지시간) 미국 박스오피스 모조의 발표에 따르면 '샹]]></content>
     </entry>
 </feed>
