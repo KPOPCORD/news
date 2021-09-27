@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-09-27T03:23:17.014Z</updated>
+    <updated>2021-09-27T05:22:34.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[니콜라스 케이지, 노숙자 전락? 고급 레스토랑서 맨발로 술주정하다 쫓겨나[할리우드비하인드]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000492187</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000492187"/>
+        <updated>2021-09-27T05:22:32.798Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 할리우드 배우 니콜라스 케이지가 노숙자 행색을 하고 술집에서 쫓겨났다는 보도가 나왔다. 9월 23일(현지시간) 외신 더 선은 니콜라스 케이지가 미국 라스베이거스의 한 고급 레스토랑에서 노숙자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사이먼 페그, BTS 진 판넬과 '오징어 게임' 인증샷…넷플릭스도 놀랐다 [엑's 할리우드]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001353145</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001353145"/>
+        <updated>2021-09-27T05:22:32.801Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 배우 사이먼 페그가 넷플릭스 오리지널 시리즈 '오징어 게임'에 대한 애정을 표했다. 지난 26일 넷플릭스 코리아는 공식 인스타그램 스토리에 "이 사진이 놀라운 이유"라고 시작되는 글과 함]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美감독, 동갑내기 음악가와 결혼…"만난 남자 중 가장 좋아"[Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004481070</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004481016"/>
         <updated>2021-09-27T03:23:16.232Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] 배우 K.J. 아파가 아빠가 됐다. K.J. 아파의 아내 클라라 베리가 출산한 것으로 26일(현지 시간) 보도됐다. 베리는 아파보다 3살 연상녀다. 이날 클라라 베리는 자신의 인스타그램을 통]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기네스 펠트로, 크리스마틴과 낳은 딸..아빠 얼굴도 보이네 [Oh!llywood]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004480991</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004480991"/>
-        <updated>2021-09-27T03:23:16.233Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 할리우드 배우 기네스 펠트로가 딸 애플과 함께한 근황을 공개했다. 기네스 펠트로는 26일(한국시간) 자신의 인스타그램에 "Oh man do I love you #nationaldaughter]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[릴리 레이브♥︎해미쉬 링클레이터, 셋째 아이 가졌다 [Oh!llywood]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004480788</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004480788"/>
-        <updated>2021-09-26T08:25:34.655Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 배우 릴리 레이브가 셋째 아이를 임신했다. 지난 25일(현지 시간) 릴리 레이브가 배우 해미쉬 링클레이터의 아이를 가진 것으로 현지 매체를 통해 보도됐다. 두 사람 사이에는 이미 두 명의 아]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-09-27T03:23:16.926Z</updated>
+    <updated>2021-09-27T05:22:34.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[니콜라스 케이지, 노숙자 전락? 고급 레스토랑서 맨발로 술주정하다 쫓겨나]]></title>
+        <id>https://entertain.v.daum.net/v/20210927133247570</id>
+        <link href="https://entertain.v.daum.net/v/20210927133247570"/>
+        <updated>2021-09-27T05:21:56.038Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 할리우드 배우 니콜라스 케이지가 노숙자 행색을 하고 술집에서 쫓겨났다는 보도가 나왔다. 9월 23일(현지시간) 외신 더 선은 니콜라스 케이지가 미국 라스베이거스의 한 고급 레스토랑에서 노숙자 취급을 받고 쫓겨나는 모습을 담은 영상을 공개했다. 영상 속 맨발의 니콜라스 케이지는 술에 만취한 모습이다. 또한, 직원이 그를 쫓아내는 것도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美감독, 동갑내기 음악가와 결혼.."만난 남자 중 가장 좋아"]]></title>
         <id>https://entertain.v.daum.net/v/20210927105835957</id>
@@ -18,12 +25,5 @@
         <link href="https://entertain.v.daum.net/v/20210927085503563"/>
         <updated>2021-09-27T03:22:55.350Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]한국에서 ‘케서방’으로 널리 알려진 할리우드 스타 니콜라스 케이지(57)가 만취 상태로 술집에서 쫓겨난 영상이 화제다. 영국의 ‘더 선’은 26일(현지시간) 니콜라스 케이지가 미국 라스베이거스의 레스토랑 로리스 더 프라임 립(Lawry's The Prime Rib)에서 맨발로 쫓겨나는 영상이 인터넷에 공개됐다고 전했다. 호]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['세계부자 1위' 일론 머스크, 17살 연하와 3년만에 결별 "자녀 6명"]]></title>
-        <id>https://entertain.v.daum.net/v/20210926140917321</id>
-        <link href="https://entertain.v.daum.net/v/20210926140917321"/>
-        <updated>2021-09-26T06:24:52.028Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;미국 전기차 업체 테슬라의 최고경영자(CEO)&nbsp;일론&nbsp;머스크가 17세 연하인 가수 그라임스와 3년 만에 결별했다고 페이지 식스가 24일(현지시간) 전했다. 보도에 따르면&nbsp;두 사람은 별거 중으로 사실상 결별했다. 그러나 여전히 좋은 관계를 유지하고 있으면 1살 난 아들 엑스 애쉬 에이 트웰브를&nbsp;공동 양육하고 있다. 머스크는 페이지식스에]]></content>
     </entry>
 </feed>
