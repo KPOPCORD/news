@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Sep 2021 06:26:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Sep 2021 07:21:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘과자러버’ ITZY 예지, 눈 감고 과자 맞히기 도전 (주간아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/326392</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/326392</guid>
+            <pubDate>Tue, 28 Sep 2021 07:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/326392">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/28/J0NQ4xzWZQrB637684396693454179.jpg" alt="‘과자러버’ ITZY 예지, 눈 감고 과자 맞히기 도전 (주간아이돌)">        <div class="text-box">            <p class="summary">‘과자러버’ ITZY 예지, 눈 감고 과자 맞히기 도전 (주간아이돌)</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/28/J0NQ4xzWZQrB637684396693454179.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단, 2년 만에 오프라인 공연 연다… 11·12월 美 LA 콘서트 개최 [공식]]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/326389</link>
@@ -86,14 +94,6 @@
             <pubDate>Tue, 28 Sep 2021 02:05:09 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/326337">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/28/413accba-fc0b-461a-95b9-d1768d29ab19.jpg" alt="블랙핑크 리사 ‘라리사’ 뮤비 3주 연속 케이팝 레이더 차트 1위!">        <div class="text-box">            <p class="summary">블랙핑크 리사 ‘라리사’ 뮤비 3주 연속 케이팝 레이더 차트 1위!</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/28/413accba-fc0b-461a-95b9-d1768d29ab19.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘빽투더아이돌2’ 미래소년이 밝힌 활동기 아이돌 다이어트 비법]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/326330</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/326330</guid>
-            <pubDate>Tue, 28 Sep 2021 02:05:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/326330">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/28/wPNWvEHxXRc4637684175513623450.jpg" alt="‘빽투더아이돌2’ 미래소년이 밝힌 활동기 아이돌 다이어트 비법">        <div class="text-box">            <p class="summary">‘빽투더아이돌2’ 미래소년이 밝힌 활동기 아이돌 다이어트 비법</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/28/wPNWvEHxXRc4637684175513623450.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
