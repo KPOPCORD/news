@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Sep 2021 05:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Sep 2021 06:26:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단, 2년 만에 오프라인 공연 연다… 11·12월 美 LA 콘서트 개최 [공식]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/326389</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/326389</guid>
+            <pubDate>Tue, 28 Sep 2021 06:25:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/326389">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/28/2ABuKL3K4dZN637684393138882392.jpg" alt="방탄소년단, 2년 만에 오프라인 공연 연다… 11·12월 美 LA 콘서트 개최 [공식]">        <div class="text-box">            <p class="summary">방탄소년단, 2년 만에 오프라인 공연 연다… 11·12월 美 LA 콘서트 개최 [공식]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/28/2ABuKL3K4dZN637684393138882392.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아스트로 문빈&산하, 시크+나른 가을 분위기 [화보]]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/326373</link>
@@ -86,14 +94,6 @@
             <pubDate>Tue, 28 Sep 2021 02:05:09 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/326330">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/28/wPNWvEHxXRc4637684175513623450.jpg" alt="‘빽투더아이돌2’ 미래소년이 밝힌 활동기 아이돌 다이어트 비법">        <div class="text-box">            <p class="summary">‘빽투더아이돌2’ 미래소년이 밝힌 활동기 아이돌 다이어트 비법</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/28/wPNWvEHxXRc4637684175513623450.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브레이브걸스 유나, 필라테스 고수 '단발좌' [인스타]]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/326324</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/326324</guid>
-            <pubDate>Tue, 28 Sep 2021 02:05:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/326324">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/28/a1ARsa8riyKu637683882050020498.jpg" alt="브레이브걸스 유나, 필라테스 고수 '단발좌' [인스타] ">        <div class="text-box">            <p class="summary">브레이브걸스 유나, 필라테스 고수 '단발좌' [인스타] </p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/28/a1ARsa8riyKu637683882050020498.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
