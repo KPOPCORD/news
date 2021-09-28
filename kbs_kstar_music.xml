@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Sep 2021 15:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Sep 2021 02:06:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[컴백 싸이퍼, 밝고 경쾌한 에너지 선사!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=162728</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=162728</guid>
+            <pubDate>Tue, 28 Sep 2021 02:04:49 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=162728">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210928091059_36ad9b6ee6b65611284abb768146375e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=162728">컴백 싸이퍼, 밝고 경쾌한 에너지 선사!</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210928091059_36ad9b6ee6b65611284abb768146375e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 엔딩 요정 샤이니 키 "후회하기 전에 열정적으로 제작해 본 앨범"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=162643</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=161384">블랙핑크, UN 지속가능개발목표 홍보대사 위촉</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210918082211_6b2131f9a1806567032e5c53b22694eb_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 ‘Sticker’, 제임스 코든쇼 무대]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=161400</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=161400</guid>
-            <pubDate>Wed, 22 Sep 2021 12:43:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=161400">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210918083633_eac980f1896a928079c8103c6c491f57_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=161400">NCT 127 ‘Sticker’, 제임스 코든쇼 무대</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210918083633_eac980f1896a928079c8103c6c491f57_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
