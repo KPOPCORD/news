@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Sep 2021 08:25:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Sep 2021 09:21:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트와이스 나연, 브랜드+옷도 가려버리는 귀여움극한치]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/326402</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/326402</guid>
+            <pubDate>Tue, 28 Sep 2021 09:20:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/326402">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/28/a6e7db83-56c6-466f-979c-6ee3612d38e9.jpg" alt="트와이스 나연, 브랜드+옷도 가려버리는 귀여움극한치">        <div class="text-box">            <p class="summary">트와이스 나연, 브랜드+옷도 가려버리는 귀여움극한치</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/28/a6e7db83-56c6-466f-979c-6ee3612d38e9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[움짤] 있지(ITZY) 완전체 컴백, '퀸덤 LOCO' 출근길 종합]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/326398</link>
@@ -86,14 +94,6 @@
             <pubDate>Tue, 28 Sep 2021 02:05:09 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/326351">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/28/ee4b2160-747e-4793-8dfa-5a637f99d3ae.jpg" alt="[포토] 있지 류진, '로코' 미소~">        <div class="text-box">            <p class="summary">[포토] 있지 류진, '로코' 미소~</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/28/ee4b2160-747e-4793-8dfa-5a637f99d3ae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 있지 예지, '라이트퓨리' 왔지~]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/326349</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/326349</guid>
-            <pubDate>Tue, 28 Sep 2021 02:05:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/326349">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/28/36357342-d2ed-4328-a625-7b078d2ee18c.jpg" alt="[포토] 있지 예지, '라이트퓨리' 왔지~">        <div class="text-box">            <p class="summary">[포토] 있지 예지, '라이트퓨리' 왔지~</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/28/36357342-d2ed-4328-a625-7b078d2ee18c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

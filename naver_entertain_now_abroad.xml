@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-09-28T08:25:50.877Z</updated>
+    <updated>2021-09-28T09:21:12.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['日 국민 아이돌' 아라시 사쿠라이 쇼·아이바 마사키 각각 결혼 발표]]></title>
+        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005626212</id>
+        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005626212"/>
+        <updated>2021-09-28T09:21:11.792Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 윤효정 기자 = 일본 국민그룹 아라시 멤버 사쿠라이 쇼(39)와 아이바 마사키(39)가 결혼 소식을 전했다. 28일 일본 매체들은 아라시 멤버 사쿠라이 쇼와 아이바 마사키가 각각 공식 팬클럽 사이트를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기네스 펠트로, 생일기념 야외 욕조서 여유..가을밤 힐링[Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004481745</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000492672"/>
         <updated>2021-09-28T04:29:50.340Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] '7억 전신 성형'으로 유명한 데미 무어가 근황을 공개했다. 할리우드 배우 데미 무어는 9월 27일(현지시간) 자신의 인스타그램을 통해 한 행사에 참석한 모습을 담은 사진을 올렸다. 데미 무어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스 CEO "오징어 게임 역대 최고 드라마 될 수도"(상보)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005625068</id>
-        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005625068"/>
-        <updated>2021-09-28T04:29:50.341Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 박형기 기자,윤효정 기자 = 넷플릭스 최고경영자(CEO)가 한국의 ‘오징어 게임’이 역대 최고 인기 드라마가 될 수 있다고 말했다고 미국의 경제전문지 배런스가 27일(현지시간) 보도했다. 테드 서랜도]]></content>
     </entry>
 </feed>
