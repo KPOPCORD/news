@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-09-28T11:19:10.865Z</updated>
+    <updated>2021-09-28T12:34:51.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임영웅, 28일 '별빛 같은 나의 사랑아' 네캐 TOP100 1위 등극]]></title>
+        <id>https://entertain.v.daum.net/v/20210928210010770</id>
+        <link href="https://entertain.v.daum.net/v/20210928210010770"/>
+        <updated>2021-09-28T12:34:11.212Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 임영웅의 ‘별빛 같은 나의 사랑아’ 무대가 28일 네캐 1위를 차지했다. 9월 28일 기준, 네이버 티비캐스트(네캐)에서 임영웅의 무대들이 남다른 존재감을 과시하고 있다. 최근 ‘사랑의 콜센타’에서 선보인 ‘별빛 같은 나의 사랑아’ 무대가 최고 순위 1위, ‘사랑의 트위스트’ 무대가 최고 순위 3위를 기록한 것. TOP3에 무대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한 발 물러선 '비버지', 비 없어도 '안 꿀리는' 싸이퍼]]></title>
         <id>https://entertain.v.daum.net/v/20210928195002618</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20210928164609670"/>
         <updated>2021-09-28T08:25:13.938Z</updated>
         <content type="html"><![CDATA[[티브이데일리 박상후 기자] 그룹 싸이퍼(Ciipher)가 자체 제작돌의 명성을 잇는다. 싸이퍼(현빈, 탄, 휘, 케이타, 태그, 도환, 원)의 두 번째 미니앨범 '블라인드(BLIND)' 발매 기념 온라인 미디어 쇼케이스가 28일 유튜브 채널을 통해 생중계됐다. 'BLIND'는 지난 3월 발표한 데뷔 앨범 ‘안꿀려’ 이후 싸이퍼가 약 6개월 만에 공개하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["블라인드 테스트 후 우리가 쓴 곡으로.." 싸이퍼, '자체제작돌'의 자신감]]></title>
-        <id>https://entertain.v.daum.net/v/20210928164551656</id>
-        <link href="https://entertain.v.daum.net/v/20210928164551656"/>
-        <updated>2021-09-28T08:25:13.939Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 그룹 싸이퍼가 앨범 전곡 작사, 작곡에 참여한 앨범으로 돌아왔다.&nbsp; 싸이퍼(현빈, 탄, 휘, 케이타, 태그, 도환, 원) 두 번째 미니앨범 'BLIND(블라인드)' 발매 기념 온라인 쇼케이스가 28일 오후 진행됐다. 'BLIND'는 지난 3월 발표한 데뷔 앨범 '안꿀려' 이후 싸이퍼가 약 6개월 만에 공개하는 신보다.&nbsp;음악뿐만]]></content>
     </entry>
 </feed>

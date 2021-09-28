@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-09-28T11:19:10.990Z</updated>
+    <updated>2021-09-28T12:34:51.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제시카 회사, 채무불이행으로 홍콩서 80억대 피소]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010741204</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010741204"/>
+        <updated>2021-09-28T12:34:50.645Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 김지은 기자 = 그룹 '소녀시대' 출신 제시카가 세운 패션 브랜드가 홍콩에서 수십억대 소송에 휘말렸다. 홍콩 영자 매체 '더 스탠더드'는 27일 제시카가 설립한 글로벌 패션 브랜드 '블랑 앤 에클레어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日 인기그룹 아라시 사쿠라이 쇼·아이바 마사키, 동시 결혼 발표 [엑's 재팬]]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001353661</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000492716"/>
         <updated>2021-09-28T05:20:22.879Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 미국 가수 알 켈리(R. Kelly, Robert Sylvester Kelly)가 미성년자 성매매 혐의 관련 유죄 판결을 받았다. 미국 뉴욕타임스(Newyork Times)는 9월 27일(현지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日 유명 만화가 "'오징어게임' 일본 콘텐츠서 영감 받은 듯"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=052&amp;aid=0001645499</id>
-        <link href="https://entertain.naver.com/now/read?oid=052&amp;aid=0001645499"/>
-        <updated>2021-09-28T05:20:22.879Z</updated>
-        <content type="html"><![CDATA['간츠' 등을 집필한 일본 만화가 오쿠 히로야가 전 세계적인 인기를 끌고 있는 넷플릭스 오리지널 드라마 '오징어게임'을 언급했다. 오쿠 히로야는 지난 27일 자신의 트위터 계정을 통해 "넷플릭스의 '오징어게임'을 보]]></content>
     </entry>
 </feed>

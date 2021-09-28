@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-09-28T11:19:10.868Z</updated>
+    <updated>2021-09-28T12:34:51.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(사)대한가수협회 제7대 이자연 회장, 24일 공식 취임식 성료 “솔선수범할 것‘]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001353721</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001353721"/>
+        <updated>2021-09-28T12:34:37.785Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) (사)대한가수협회 제7대 회장 이자연의 공식 취임식이 지난 24일 성료됐다. 또한 대한가수협회(회장 이자연)는 이날 지명직 이사 5인(김광진, 이세준, 정훈희, 주현미, 최백호)과 지명직]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임영웅, 28일 ‘별빛 같은 나의 사랑아’ 네캐 TOP100 1위 등극]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001353710</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001353710"/>
+        <updated>2021-09-28T12:34:37.785Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 임영웅의 ‘별빛 같은 나의 사랑아’ 무대가 28일 네캐 1위를 차지했다. 9월 28일 기준, 네이버 티비캐스트(네캐)에서 임영웅의 무대들이 남다른 존재감을 과시하고 있다. 최근 ‘사랑의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['무면허 운전·경찰폭행' 노엘, 1인 소속사와 계약 해지]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010741186</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001353591"/>
         <updated>2021-09-28T08:25:37.938Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 그룹 싸이퍼가 앨범 전곡 작사, 작곡에 참여한 앨범으로 돌아왔다. 싸이퍼(현빈, 탄, 휘, 케이타, 태그, 도환, 원) 두 번째 미니앨범 'BLIND(블라인드)' 발매 기념 온라인 쇼케이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[있지, 신곡 '로꼬'로 美 '켈리 클락슨 쇼' 장악]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010740937</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010740937"/>
-        <updated>2021-09-28T08:25:37.939Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]백승훈 인턴 기자 = 있지(ITZY)가 미국 유명 TV 프로그램 '켈리 클락슨 쇼'에 첫 출연해 글로벌 팬심을 사로잡았다. 27일 오후 (현지 시각) 방송된 미국 NBC의 '켈리 클락슨 쇼'(The K]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["신인상·빌보드 목표" 싸이퍼, 비 후광 벗고 자작곡으로 정면 승부 [종합]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004481727</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004481727"/>
-        <updated>2021-09-28T08:25:37.940Z</updated>
-        <content type="html"><![CDATA[[OSEN=지민경 기자] 그룹 싸이퍼(현빈, 탄, 휘, 케이타, 태그, 도환, 원)가 리스너들에게 '콩깍지'를 씌우고 싶다는 포부를 전했다. 싸이퍼는 28일 오후 온라인 생중계를 통해 두 번째 미니앨범 ‘BLIND(]]></content>
     </entry>
 </feed>
