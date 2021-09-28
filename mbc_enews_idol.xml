@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Sep 2021 04:29:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Sep 2021 05:20:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아스트로 문빈&산하, 시크+나른 가을 분위기 [화보]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/326373</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/326373</guid>
+            <pubDate>Tue, 28 Sep 2021 05:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/326373">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/28/B1XtEJDyrCEo637684332121248877.jpg" alt="아스트로 문빈&amp;산하, 시크+나른 가을 분위기 [화보]">        <div class="text-box">            <p class="summary">아스트로 문빈&amp;산하, 시크+나른 가을 분위기 [화보]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/28/B1XtEJDyrCEo637684332121248877.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[포토] 있지, '퀸덤' 포인트~]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/326359</link>
@@ -86,14 +94,6 @@
             <pubDate>Tue, 28 Sep 2021 02:05:09 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/326324">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/28/a1ARsa8riyKu637683882050020498.jpg" alt="브레이브걸스 유나, 필라테스 고수 '단발좌' [인스타] ">        <div class="text-box">            <p class="summary">브레이브걸스 유나, 필라테스 고수 '단발좌' [인스타] </p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/28/a1ARsa8riyKu637683882050020498.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[권은비, 27번째 생일 행복 모먼트 [인스타]]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/326323</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/326323</guid>
-            <pubDate>Tue, 28 Sep 2021 02:05:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/326323">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/28/MYiux8rn0hHz637683881304692230.jpg" alt="권은비, 27번째 생일 행복 모먼트 [인스타] ">        <div class="text-box">            <p class="summary">권은비, 27번째 생일 행복 모먼트 [인스타] </p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/28/MYiux8rn0hHz637683881304692230.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
