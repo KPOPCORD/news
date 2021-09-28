@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-09-28T13:36:00.036Z</updated>
+    <updated>2021-09-28T14:20:22.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정청래 의원 “한국영화 필름 디지털화 15년간 8%, 앞으로 170년 걸려”]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000764219</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000764219"/>
+        <updated>2021-09-28T14:20:09.942Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 한국영상자료원에서 보유한 모든 필름 자료를 디지털화하는 데 앞으로도 170년 이상이 걸릴 것으로 보인다. 더불어민주당 정청래 의원(서울 마포을, 국회 문화체육관광위원회)이 9월 28일(수), 한국영상자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엘라 피츠제럴드, 빌리 홀리데이, 사라 본, 등 재즈 레전드 사운드 담긴 ‘Masters of jazz’ 시리즈 2LP, 12종 출시]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000764218</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000764218"/>
+        <updated>2021-09-28T14:20:09.942Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 엘라 피츠제럴드, 빌리 홀리데이, 사라 본, 등 재즈 레전드 사운드 담긴 ‘Masters of jazz’ 시리즈 2LP, 12종 출시 아날로그 시절, 시대를 풍미한 전설의 재즈 거장들의 명곡을 담은 ‘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단 'Butter' 빌보드 핫100 24위 18주 차트인[공식]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002992004</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=629&amp;aid=0000108026"/>
         <updated>2021-09-28T08:25:37.930Z</updated>
         <content type="html"><![CDATA[강렬 눈빛+신비로운 아우라 발산 유니버스 뮤직이 그룹 위아이(WEi)의 신곡 뮤직비디오 티저 영상을 공개했다. 27일 글로벌 팬덤 플랫폼 유니버스(UNIVERSE)는 앱과 공식 SNS 채널을 통해 위아이(WEi)의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['슈퍼밴드2', 우승팀 직접 뽑는다…온라인 사전투표 시작]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010740968</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010740968"/>
-        <updated>2021-09-28T08:25:37.931Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스] 강진아 기자 = 제2대 슈퍼밴드를 시청자들이 직접 뽑는다. 28일 JTBC에 따르면 지난 27일 오후 11시부터 '슈퍼밴드2'에서 우승자를 가리는 온라인 사전투표가 시작됐다. 두 번째 슈퍼밴드 탄생의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘멜론’ 저스틴 비버, 4주 1위… BTSX콜드플레이 ‘차트인’]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000764163</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000764163"/>
-        <updated>2021-09-28T08:25:37.932Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 지난 9월 1주차 주간차트에서 첫 1위를 기록한 더 키드 라로이(The Kid LAROI), 저스틴 비버(Justin Bieber)의 곡 ‘스테이’(STAY)가 4주 연속 정상을 차지했다. 28일 멜론]]></content>
     </entry>
 </feed>
