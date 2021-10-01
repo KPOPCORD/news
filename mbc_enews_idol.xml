@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Oct 2021 04:28:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Oct 2021 05:20:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화사 독보적 패션 감각에 전현무-박재정 ‘감탄’ (나 혼자 산다)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/326644</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/326644</guid>
+            <pubDate>Fri, 01 Oct 2021 05:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/326644">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/01/Q6TiKndjPMlZ637686933444456092.jpg" alt="화사 독보적 패션 감각에 전현무-박재정 ‘감탄’ (나 혼자 산다)">        <div class="text-box">            <p class="summary">화사 독보적 패션 감각에 전현무-박재정 ‘감탄’ (나 혼자 산다)</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/01/Q6TiKndjPMlZ637686933444456092.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 진, 전지현-주지훈 주연 ‘지리산’ OST 가창 [공식]]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/326635</link>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 01 Oct 2021 02:11:05 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/326569">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/01/93b89af7-7860-4b4e-a5ec-9563c5cd2910.jpg" alt="브레이브걸스, 뮤콘 10주년 '롤린, 치맛바람으로 시원한 무대 선사' ">        <div class="text-box">            <p class="summary">브레이브걸스, 뮤콘 10주년 '롤린, 치맛바람으로 시원한 무대 선사' </p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/01/93b89af7-7860-4b4e-a5ec-9563c5cd2910.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[솔로앨범 'BAD LOVE' 낸 키 "태연에게 피처링 부탁하려고 겉절이 담궈가", 써니 "그러니까 된 것, 겉절이 파워" (컬투쇼)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/326554</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/326554</guid>
-            <pubDate>Thu, 30 Sep 2021 14:21:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/326554">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/30/d774cd1b-e591-4ac8-90ed-325740f1952b.jpg" alt="솔로앨범 'BAD LOVE' 낸 키 " 태연에게="" 피처링="" 부탁하려고="" 겉절이="" 담궈가",="" 써니="" "그러니까="" 된="" 것,="" 파워"="" (컬투쇼)"="">        <div class="text-box">            <p class="summary">솔로앨범 'BAD LOVE' 낸 키 "태연에게 피처링 부탁하려고 겉절이 담궈가", 써니 "그러니까 된 것, 겉절이 파워" (컬투쇼)</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/30/d774cd1b-e591-4ac8-90ed-325740f1952b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
