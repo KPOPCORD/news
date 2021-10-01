@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-01T11:19:16.287Z</updated>
+    <updated>2021-10-01T13:27:01.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[출산 1달도 안 된 카디비, 볼륨 드러낸 드레스 룩 "대단해"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004651714</id>
+        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004651714"/>
+        <updated>2021-10-01T13:27:00.976Z</updated>
+        <content type="html"><![CDATA[가수 카디비(Cardi B)가 출산한지 채 한달이 되지 않았음에도 파격 드레스를 착용하고 공식석상에 참석해 눈길을 끌었다. 지난 28일(현지시간) 카디비는 프랑스 파리의 파인아트뮤지엄에서 열린 '티에리 뮈글러:퀴티리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스칼릿 조핸슨, 디즈니와 '블랙위도우' 출연료 소송 취하 합의]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010748151</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000494047"/>
         <updated>2021-10-01T06:26:46.471Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 이병헌, 이민정 부부가 미국에서 포착됐다. 이병헌, 이민정 부부는 9월 29일(현지시간) 미국 캘리포니아 로스앤젤레스에서 포착됐다. 두 사람은 이날 미국 아카데미 영화 박물관에서 열린 아카데미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제이크 질렌할, 15세 연하 모델 여친 손 꼭 잡고[파파라치컷]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000494024</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000494024"/>
-        <updated>2021-10-01T05:20:06.397Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 제이크 질렌할이 여자친구와 포착됐다. 미국 스플래쉬닷컴은 9월 30일(현지시간) 배우 제이크 질렌할과 여자친구 잔느 카디유의 근황을 공개했다. 제이크 질렌할과 잔느 카디유는 이날 뉴욕시에서 진]]></content>
     </entry>
 </feed>

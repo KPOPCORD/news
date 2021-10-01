@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Oct 2021 11:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Oct 2021 13:27:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -776,6 +776,13 @@
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/01/1301dd92-70db-4233-8cc2-a93c3136a2a4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[양요섭, 정규 1집 '초콜릿 박스' 초동 4만장 돌파..자체 최고 기록 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211001202106679</link>
+            <guid>https://entertain.v.daum.net/v/20211001202106679</guid>
+            <pubDate>Fri, 01 Oct 2021 13:26:26 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 박예진 인턴기자) 양요섭이 다양한 기록과 함께 'BRAIN' 활동을 이어가고 있다. 지난달 20일 첫 번째 솔로 정규앨범 'Chocolate Box'를 발매한 양요섭은 각종 음악 방송에서 타이틀곡 'BRAIN'으로 컴백 무대에 오르며 새로운 활동을 성공적으로 시작했다. 'Chocolate Box'는 영화 '포레스트 검프'에 나오는 유명한 대]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[러블리즈 류수정, 독보적 음색 빛난 Lizzo 'Jucie' 커버 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
             <link>https://entertain.v.daum.net/v/20211001194042051</link>
             <guid>https://entertain.v.daum.net/v/20211001194042051</guid>
@@ -874,11 +881,95 @@
             <content:encoded><![CDATA[[스타뉴스 이덕행 기자] 방탄소년단(BTS) 정국이 21일 오후 서울 송파구 방이동 올림픽홀에서 진행된 새 싱글앨범 'Butter' 발매 기념 쇼케이스에서 포즈를 취하고 있다.  'Butter'에는 버터처럼 부드럽게 녹아들어 너를 사로잡겠다는 방탄소년단의 귀여운 고백이 담겨있다.  방탄소년단은 'Butter'를 사실상의 선 공개 싱글로 스타트를 끊고 6월]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[위아영→나루, 음레협이 추천하는 '가을 감성' 플레이리스트 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211001161217698</link>
-            <guid>https://entertain.v.daum.net/v/20211001161217698</guid>
-            <pubDate>Fri, 01 Oct 2021 07:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 조혜진 기자) 한국음악레이블산업협회(이하 음레협)가 가을을 맞아 계절과 어울리는 협회원사 아티스트 신보들을 소개했다. 지난달 10일 발매된 엠와이뮤직 소속 남성 2인조 밴드 위아영의 싱글 '너를 위해'는 시간이 흘러서야 지난 시간들이 소중하고 행복했음을 알고, 오랜 시간 기다려준 사람들에게 감사한 마음을 노래로 대신 전하는 곡이다. 루비레코드]]></content:encoded>
+            <title><![CDATA['속아도 꿈결', 그리고 행복하게 살았답니다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211001222206269</link>
+            <guid>https://entertain.v.daum.net/v/20211001222206269</guid>
+            <pubDate>Fri, 01 Oct 2021 13:26:34 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 황서연 기자] '속아도 꿈결'이 해피 엔딩을 맞았다. 1일 저녁 KBS1 일일드라마 '속아도 꿈결'(극본 여명재·연출 김정규) 마지막 회가 방송됐다. 이날 방송에서는 강모란(박준금)이 항암 치료를 극복하고 다시 건강해졌으며, 황혼 재혼한 금종화(최정우)와 가족들과 함께 행복한 삶을 영위하는 모습이 그려졌다. 금종화는 강모란의 완치 소식을 가족]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['검은태양' 남궁민, 박하선 목 조르고 총 겨눴다 "이춘길 알지?" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211001222100262</link>
+            <guid>https://entertain.v.daum.net/v/20211001222100262</guid>
+            <pubDate>Fri, 01 Oct 2021 13:26:34 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=김은정 기자] 남궁민이 박하선을 의심했다. 1일 오후 방송된 MBC '검은 태양'에서는 한지혁(남궁민 분)이 서수현(박하선 분)에게 총을 겨눴다. 이날 한지혁은 최상균(안지호 분)에게 "마지막으로 온 연락을 받은 사람이 서수연(박하선 분)"이라는 말을 전해들었다. 그때 마침 수연이 돌아왔고, 지혁은 두통에 시달렸다. 곧 지혁은 수연의 목을 조르]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['원더우먼' 이하늬 "나 검사 사칭하고 다닌 거 아냐?"..정체 의심 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211001220747162</link>
+            <guid>https://entertain.v.daum.net/v/20211001220747162</guid>
+            <pubDate>Fri, 01 Oct 2021 13:26:34 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 박하나 기자 = '원 더 우먼' 이하늬가 자신의 정체가 사기꾼일지도 모른다고 의심했다. 1일 오후 방송된 SBS 금토드라마 '원 더 우먼'(극본 김윤/연출 최영훈)에서는 자신이 진짜 강미나(이하늬 분)가 아니라는 사실을 자각한 조연주(이하늬 분)의 모습이 담겼다. 조연주는 임기응변에 뛰어나며 검찰청에 아는 사람이 있는 자신의 모습에 "검]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오은영 박사 "만5세 이상, 이성 부모와 목욕시 속옷 착용해야" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211001214725903</link>
+            <guid>https://entertain.v.daum.net/v/20211001214725903</guid>
+            <pubDate>Fri, 01 Oct 2021 13:26:34 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 오은영 박사가 이성과 신체적으로 구분을 두는 나이를 만5세 이상으로 뒀다. 10월 1일 방송된 MBC 시사 교양 프로그램 '다큐플렉스-오은영 리포트'(이하 '오은영 리포트') 1부 '어쩌다 마주친 내 아이의 성(性)'에서는 오은영 박사가 유아의 성과 관련된 부모들의 의문과 고민에 답하는 시간을 가졌다. 이날 오은영 박사는 남매가]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['연중' 구교환♥이옥섭→류준열♥혜리, 연예계 대표 장수 커플 TOP5 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211001214500868</link>
+            <guid>https://entertain.v.daum.net/v/20211001214500868</guid>
+            <pubDate>Fri, 01 Oct 2021 13:26:34 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=김은정 기자] 몇 년째 변함없이 사랑 중인 연예계 대표 커플들이 있다. 1일 오후 방송된 KBS 2TV 생방송 '연중 라이브'에서는 연예계 대표 장수 커플 TOP5가 공개됐다. 이날 8년째 연애 중인 배우 구교환♥이옥섭 영화감독이 연예계 장수 커플 1위에 등극했다. 배우와 감독으로 처음 만나 연인으로 발전하게 된 두 사람. 구교환은 "우리는 ']]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["공유, 강동원은 사돈 관계"..연예계 반전 스타 패밀리 TOP8 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211001213132673</link>
+            <guid>https://entertain.v.daum.net/v/20211001213132673</guid>
+            <pubDate>Fri, 01 Oct 2021 13:26:34 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 이지현 기자 = 연예계 반전 스타 패밀리가 공개됐다. 1일 오후 방송된 KBS 2TV 예능 프로그램 '연중 라이브'에서는 모두가 놀랄 연예계 반전 스타 패밀리 TOP8 차트가 공개되며 시선을 모았다. 8위부터 공개됐다. 가수 육중완과 비투비 육성재였다. 육씨는 본관이 옥천 육씨 하나라고 전해졌다. 부모님은 "성재가 중완이한테 아재(아]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[종영 '속아도 꿈결' 최정우X박준금, 황혼 재혼의 해피엔딩 "사랑한다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211001210700345</link>
+            <guid>https://entertain.v.daum.net/v/20211001210700345</guid>
+            <pubDate>Fri, 01 Oct 2021 13:26:34 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=김은정 기자] 황혼 재혼으로 만나 한 가족이 됐다. 1일 오후 방송된 KBS 1TV '속아도 꿈결' 마지막회에서는 금종화(최정우 분)과 강모란(박준금 분)이 가족들을 보며 행복해했다. 이날 강모란은 암 치료를 이겨내고 건강을 되찾았다. 가족들이 모두 모인자리에서 금종화는 반가운 소식을 전했고 가족 모두 안도하며 기뻐했다. 종화는 케이크에 초를]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['백반기행' 김유미 "남편 정우와 영화 찍으며 만나..나보다 요리 더 잘해" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211001210130255</link>
+            <guid>https://entertain.v.daum.net/v/20211001210130255</guid>
+            <pubDate>Fri, 01 Oct 2021 13:26:34 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트 = 하수나 기자] 배우 김유미가 남편 정우와의 첫 만남과 키스신에 대한 쿨한 입장을 언급하며 입담을 과시했다.&nbsp; 1일 방송된 TV조선 ‘식객 허영만의 백반기행’에선 서해 보령밥상 편으로 방송된 가운데 배우 김유미가 함께 했다.&nbsp; 1999년 데뷔해 20년 동안 다양한 작품에서 활약한 김유미는 기억에 남는 상대 배우를 꼽아달라는 질문에 “지금 하는]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김유미 "결혼하면서 요리 시작, ♥정우가 나보다 더 잘해" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211001204851067</link>
+            <guid>https://entertain.v.daum.net/v/20211001204851067</guid>
+            <pubDate>Fri, 01 Oct 2021 13:26:34 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이하나 기자] 배우 김유미가 남편 정우의 요리 실력을 공개했다. 10월 1일 방송된 TV조선 ‘식객 허영만의 백반기행’에서는 배우 김유미가 보령에서 제철 해산물 기행을 했다. 전어 요리에 이어 새우 소금구이를 먹은 김유미는 버터에 볶은 새우 대가리를 먹고 “고소하면서 단맛도 있고 바삭바삭하다”고 감탄했다. 허영만이 “요리하는 것 좋아하나”라]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['빨강 구두' 소이현, 父 죽음 외면한 김광영-경인선에 분노 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211001203745921</link>
+            <guid>https://entertain.v.daum.net/v/20211001203745921</guid>
+            <pubDate>Fri, 01 Oct 2021 13:26:34 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] ‘빨강 구두’ 모든 사실을 알게 된 소이현이 본격적으로 움직이기 시작했다.1일 오후 방송된 KBS2 일일드라마 ‘빨강 구두’에서는 소이현이 선우재덕과 최명길에게 식사 자리를 제안하는 장면이 전파를 탔다.이날 김젬마(소이현)과 차를 마시던 권혁상(선우재덕)은 자신에게 온 사진을 보고 당황했다. 김젬마가 나간 후 확인한 사진에는 권혁상이 22년]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['빨강구두' 소이현, 뺑소니 범인 알고도 숨긴 김광영X경인선에 분노 "살인자들!" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211001203331849</link>
+            <guid>https://entertain.v.daum.net/v/20211001203331849</guid>
+            <pubDate>Fri, 01 Oct 2021 13:26:34 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=김은정 기자] 소이현이 분노했다. 1일 오후 방송된 KBS 2TV '빨강 구두'에서는 김젬마(소이현 분)이 소태길(김광영 분)과 소옥경(경인선 분)이 父뺑소니 범인을 알면서도 숨겼다는 걸 알고 분노했다. 이날 김젬마는&nbsp;권혁상(선우재덕 분)에게 뺑소니 관련 사진을 보내 범인인 걸 확신했다. 소태길의 핸드폰으로 혁상에게 전화를 걸어 그도 사건에 연]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김유미 "남편 정우 영화 찍으면서 만나, 기억에 남는 파트너" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211001202956794</link>
+            <guid>https://entertain.v.daum.net/v/20211001202956794</guid>
+            <pubDate>Fri, 01 Oct 2021 13:26:34 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이하나 기자] 배우 김유미가 남편 정우를 영화 촬영 중 만났다고 전했다. 10월 1일 방송된 TV조선 ‘식객 허영만의 백반기행’에서는 배우 김유미가 게스트로 출연했다. 허영만은 김유미와 함께 보령의 모창포 해수욕장을 방문했다. 가을 제철 해산물을 먹기 위해 식당에 들른 허영만은 김유미에게 회를 좋아하는지 물었다. 김유미는 “너무 좋아한다. 해]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['빨강 구두' 소이현, 경인선·김광영에 배신감.."다 공범들" 오열 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211001202623744</link>
+            <guid>https://entertain.v.daum.net/v/20211001202623744</guid>
+            <pubDate>Fri, 01 Oct 2021 13:26:34 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 박하나 기자 = '빨강 구두' 소이현이 경인선, 김광영이 뺑소니 사고의 범인이 선우재덕이라는 걸 알고도 숨긴 사실을 알게 됐다. 1일 오후 7시 50분에 방송된 KBS 2TV 일일드라마 '빨강 구두'(극본 황순영/연출 박기현)에서는 권혁상(선우재덕 분)이 뺑소니 사고의 진범이란 사실을 알게 된 김젬마(김진아, 소이현 분)의 모습이 담겼다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['빨강구두' 소이현, 父 뺑소니 사건 진실 알고 분노 "살인마들.." (다음 연예 ─ 뉴스 ─ 스타)]]></title>
@@ -893,97 +984,6 @@
             <guid>https://entertain.v.daum.net/v/20211001201006524</guid>
             <pubDate>Fri, 01 Oct 2021 11:18:43 GMT</pubDate>
             <content:encoded><![CDATA[[티브이데일리 이기은 기자] ‘환승연애’가 최종 선택 결말을 알렸다. 누군가는 새로운 감정을 택했고, 누군가는 지난 여운에 목이 잠겼다. 인생이란 관계 맺기의 지난한 과정일까. 1일 공개된 티빙 웹 예능프로그램 ‘환승연애’ 마지막회 15회에서는 보현 호민, 주휘 민영 등 지난 커플들의 최종 선택 결과가 공개됐다. 이날 민영은 주휘를 선택했고, 코코 역시 민]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['빨강 구두' 경인선 "지상윤 살려야겠다는 생각뿐"..진실 고백 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211001200748495</link>
-            <guid>https://entertain.v.daum.net/v/20211001200748495</guid>
-            <pubDate>Fri, 01 Oct 2021 11:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 박하나 기자 = '빨강 구두' 경인선이 지상윤을 살리기 위해 뺑소니 사고 진범을 밝히지 않았다고 고백했다. 1일 오후 7시 50분에 방송된 KBS 2TV 일일드라마 '빨강 구두'(극본 황순영/연출 박기현)에서는 뺑소니 사건의 진범이 권혁상(선우재덕 분)임을 알고도 숨긴 소옥경(경인선 분)이 모든 사실을 털어놨다. 권혁상이 뺑소니 사건의]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[스칼렛 요한슨, 디즈니 소송 취하..합의금 475억↑ (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211001195550309</link>
-            <guid>https://entertain.v.daum.net/v/20211001195550309</guid>
-            <pubDate>Fri, 01 Oct 2021 11:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴]   [DA:할리우드] 스칼렛 요한슨, 디즈니 소송 취하…합의금 475억↑ (종합) 할리우드 배우 스칼렛 요한슨이 디즈니와 극적 합의했다. 지난 7월 스칼렛 요한슨은 직접 제작에 참여하고 출연한 영화 ‘블랙 위도우’를 자사 OTT 스트리밍 서비스 디즈니플러스에 출시한 것에 따른 손해에 책임을 물으며 디즈니를 상대로 소송을 제기했다. 당시 스칼렛]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['전참시' 유세윤, 판박이 아들 깜짝 출연 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211001193031877</link>
-            <guid>https://entertain.v.daum.net/v/20211001193031877</guid>
-            <pubDate>Fri, 01 Oct 2021 11:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] ‘전참시’ 유세윤, 판박이 아들 깜짝 출연 '전지적 참견 시점’ 유세윤이 모닝 루틴을 공개한다. 10월 2일 방송되는 MBC '전지적 참견 시점'(기획 박정규 / 연출 노시용, 채현석 / 이하 '전참시') 172회에서는 배우 송진우 매니저 유세윤의 수상한 모닝 루틴이 그려진다. 이날 유세윤은 아침에 눈을 뜨자마자 요가를 시작한다. 발가락 요]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BTS 정국, 친형 회사 사내이사 사임..'뒷광고' 의혹 때문이었나 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211001190002423</link>
-            <guid>https://entertain.v.daum.net/v/20211001190002423</guid>
-            <pubDate>Fri, 01 Oct 2021 10:24:22 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=정유진 기자] 방탄소년단 정국(전정국, 24)이 친형이 운영하는 의류회사 사내이사로 이름을 올렸다가 최근 사임했다는 이유로 '뒷광고' 의혹을 받고 있다. 법인 등기부등본에 따르면, 정국은 친형 전정현 씨가 대표이사로 있는 의류회사 식스가이즈 사내이사로 이름을 올렸다가 지난달 14일 사임했다. 이와 관련해 정국이 최근 일각에서 제기된 ']]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['아이돌 출신' 편수지 "父 편승엽, 판결 나면 괜찮을 줄..나쁜 사람 이미지 각인돼" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211001185407305</link>
-            <guid>https://entertain.v.daum.net/v/20211001185407305</guid>
-            <pubDate>Fri, 01 Oct 2021 10:24:22 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 서지현 기자] 그룹 비비팝 출신 편수지가 아버지 편승엽을 둘러싼 논란들에 속상함을 토로했다. 9월 30일 방송된 MBN '현장르포 특종세상'에서는 가수 편승엽과 가족들이 출연했다. 이날 편승엽은 故 길은정과 법정다툼을 언급했다. 앞서 편승엽은 지난 1996년 대장암 선고를 받았던 故 길은정과 결혼했으나 7개월 만에 이혼했다. 이후 길은정은 사기결]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['맛있는 녀석들' 유민상 "김민경은 가족, 실제 친동생보다 더 친하다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211001184905203</link>
-            <guid>https://entertain.v.daum.net/v/20211001184905203</guid>
-            <pubDate>Fri, 01 Oct 2021 10:24:22 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 백지연 기자] '맛있는 녀석들' 유민상, 김민경이 친남매 같은 케미스트리를 뽐낸다. 1일 방송되는 채널 IHQ 예능프로그램 '맛있는 녀석들'에서는 경상북도 구미시를 방문하는 뚱3(유민상, 김민경, 문세윤)의모습이 공개된다. 뚱3은 최근 진행된 녹화에서 구미식 선산곱창전골 맛집을 찾아 먹방을 시작했다. 연신 "맛있다"를외치며 마지막 국물까지]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['오징어 게임' 정호연 "이정재, 흔들리지 않는 든든 버팀목" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211001183903033</link>
-            <guid>https://entertain.v.daum.net/v/20211001183903033</guid>
-            <pubDate>Fri, 01 Oct 2021 10:24:22 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스 시리즈 '오징어 게임(황동혁 감독)'의 배우 정호연이 이정재를 향한 신뢰와 존경의 마음을 전했다. 정호연은 1일 오후 진행된 화상 인터뷰에서 "이정재 선배는 진짜 든든했다. 방향성을 잘 못 잡고 있을 때도, 서툴었을 때도, 선배는 흔들리지 않고 기다려주셨다"고 말했다. 이어 "그게 얼마나 큰 일인지 촬영하며 더 느꼈다"며 "끝나고 나서 선]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['스우파' 원트 로잘린, '먹튀' 인정+사과했지만.."습관성 사기범" 폭로 ing (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211001183455962</link>
-            <guid>https://entertain.v.daum.net/v/20211001183455962</guid>
-            <pubDate>Fri, 01 Oct 2021 10:24:22 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 엠넷 '스트릿 우먼 파이터'(이하 '스우파')에 출연 중인 원트 멤버 로잘린이 '먹튀 논란'을 인정하고 사과했으나, 그를 둘러싼 의혹이 계속되고 있다. 로잘린은 1일 오후 자신의 인스타그램에 장문의 사과문을 올렸다. 레슨비 290만 원, 협찬 물품 등 '먹튀 논란'이 터진 뒤 3일 만에 입장을 밝힌 것. 로잘린은 "먼저 저의]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['오징어 게임' 정호연 "글로벌 인기? 너무 큰 일이 갑자기 일어났다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211001183432958</link>
-            <guid>https://entertain.v.daum.net/v/20211001183432958</guid>
-            <pubDate>Fri, 01 Oct 2021 10:24:22 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스 시리즈 '오징어 게임(황동혁 감독)'의 배우 정호연이 작품과 자신을 향한 글로벌 인기에 대해 자신의 생각을 전했다. 정호연은 1일 오후 진행된 화상 인터뷰에서 "너무 큰 일이 한번에 일어났다. 정리가 되지 않고 들어오는 기간이다. 정신이 없다"라며 웃었다. 이어 "잘 정리해나가고 싶다. 하나하나 실감해가고 있다"면서 "최대한 지금 할 수 있]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[정호연 "'오징어 게임'의 높은 인기, 기대하지 않아 놀랐다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211001183103902</link>
-            <guid>https://entertain.v.daum.net/v/20211001183103902</guid>
-            <pubDate>Fri, 01 Oct 2021 10:24:22 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스 시리즈 '오징어 게임(황동혁 감독)'의 배우 정호연이 지금의 높은 인기를 기대하지 못했다고 밝혔다. 정호연은 1일 오후 진행된 화상 인터뷰에서 "개인적으로 새벽이를 너무 사랑한다. 새벽이라는 친구에게 큰 애정이 있지만, 많은 분들이 이렇게 큰 사랑을 주실 거라고 예상은 못했다"고 말했다. 이어 "정말 감사하고, 더 열심히 해야겠다고 생각하고]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['50세' 미나, 6살 어리게 데뷔.."30대=아줌마, 시집이나 가라고" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211001183002871</link>
-            <guid>https://entertain.v.daum.net/v/20211001183002871</guid>
-            <pubDate>Fri, 01 Oct 2021 10:24:22 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이슬 기자) 올해 50세가 된 가수 미나가 과거 나이를 속일 수밖에 없었던 이유를 털어놨다. 지난달 30일 미나, 류필립의 유튜브 채널 '필미커플 - 기막힌 가족이야기'에는 '미나가 나이를 속인 진짜 이유'라는 제목의 영상을 게재됐다.  이날 공개된 영상에서 미나는 '나이 속인 연예인 1위'를 차지했던 과거를 언급했다. 그는 "예전에는 나이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['그것이 알고싶다' 제주 이승용 변호사 살인사건의 실체적 진실 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211001182410752</link>
-            <guid>https://entertain.v.daum.net/v/20211001182410752</guid>
-            <pubDate>Fri, 01 Oct 2021 10:24:22 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 서지현 기자] 제주 이승용 변호사 살인사건 3부가 공개된다. 10월 2일 방송되는 SBS ‘그것이 알고싶다’ 7958일만의 검거-제주 이승용 변호사 살인사건 3부 편에서는 캄보디아 현지 취재 및 주변 탐문을 통해 피의자 김 모 씨의 행적을 파헤치고, 제보자들의 증언을 토대로 김 씨의 범행을 입증할 증거는 무엇인지 고민한다. 또한 3D 애니메이션과]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['SNL 코리아' 조여정, 우주급 하이클래스 호스트 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211001180728341</link>
-            <guid>https://entertain.v.daum.net/v/20211001180728341</guid>
-            <pubDate>Fri, 01 Oct 2021 09:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 'SNL 코리아'가 호스트 조여정과 함께하는 5회를 예고하며 기대감을 고조시키고 있다. 쿠팡플레이 'SNL 코리아'가 2일 5회 호스트 조여정과 함께 안방 극장에 신선한 웃음을 배송한다. 대체불가 배우 조여정은 탁월한 연기력으로 다채로운 코믹 콩트 연기에 도전, 팔색조 같은 매력을 뽐낼 예정이다. 밝은 에너지와 남다른 열정으로]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[샤키라, 아들과 산책 중 '야생 멧돼지 습격' 봉변 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
@@ -1040,6 +1040,48 @@
             <guid>https://entertain.v.daum.net/v/20211001061402443</guid>
             <pubDate>Fri, 01 Oct 2021 02:11:43 GMT</pubDate>
             <content:encoded><![CDATA[브리트니 스피어스가 후견인 지위 법적 다툼에서 지난 29일(현지시각) 승리했다. 사진은 지난 2016년 뉴욕에서 열린 MTV 비디오 뮤직 어워드를 찾은 스피어스. /사진=로이터팝스타 브리트니 스피어스가 친부 제이미 스피어스와의 후견인 지위 법적 다툼에서 승리했다. 이로써 스피어스는 13년 만에 아버지로부터 자유의 몸이 됐다. 지난달 29일(현지시각) CNN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['방과후 설렘' 3학년 연습생, 내일(2일) '음악중심' 무대 선다 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0002992854</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0002992854</guid>
+            <pubDate>Fri, 01 Oct 2021 13:26:48 GMT</pubDate>
+            <content:encoded><![CDATA['방과후 설렘' 3학년 연습생들이 '음악중심'을 통해 처음으로 글로벌 팬들과 만난다. 1일 오후 7시 네이버 NOW.에서 방송된 방과후 설렘 프리퀄 '등교전 망설임'에서는 MBC '쇼! 음악중심' 출연을 하루 앞두고]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[구만(9.10000)의 ‘나 혼자 남은 지구’, 10월 3일 정오 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001355042</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001355042</guid>
+            <pubDate>Fri, 01 Oct 2021 13:26:48 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이정범 기자) 레트로 포크 싱어송라이터 구만(9.10000)이 싱글 ‘나 혼자 남은 지구’를 발매한다. 스푼 광고 음악으로 화제가 되었던 구만의 ‘나 혼자 남은 지구’가 10월 3일 정오에 정식 발매된]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[비아이, 글로벌 싱글 'Lost At Sea' 발매…美 프로듀서와 협업 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004483885</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004483885</guid>
+            <pubDate>Fri, 01 Oct 2021 13:26:48 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자] 가수 비아이(B.I)가 해외 아티스트들과 함께한 글로벌 싱글을 선보였다. 비아이는 1일 오후 1시(한국 시간) 전 세계 온라인 음원 사이트를 통해 글로벌 싱글 'Lost At Sea (로스트]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['5일 입대' 우디 고차일드, 신곡 'Feather's letter' 깜짝 발표 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0002992843</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0002992843</guid>
+            <pubDate>Fri, 01 Oct 2021 13:26:48 GMT</pubDate>
+            <content:encoded><![CDATA[가수 우디 고차일드(Woodie Gochild)가 입대 전 마지막 신곡을 발매한다. 우디 고차일드는 오는 2일 오후 6시 온라인 음원 사이트를 통해 새 싱글 'Feather's letter (피더스 레터)'를 발매한]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우디 고차일드, 입대 전 마지막 신곡 ‘Feather’s letter’ 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000764991</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000764991</guid>
+            <pubDate>Fri, 01 Oct 2021 13:26:48 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 아티스트 우디 고차일드(Woodie Gochild)가 입대 전 마지막 신곡을 발매한다. 우디 고차일드는 오는 2일 오후 6시 온라인 음원 사이트를 통해 새 싱글 ‘Feather’s letter (피더스]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[양요섭, 정규 1집 '초콜릿 박스' 초동 4만장 돌파…자체 최고 기록 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001355027</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001355027</guid>
+            <pubDate>Fri, 01 Oct 2021 13:26:48 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 박예진 인턴기자) 양요섭이 다양한 기록과 함께 'BRAIN' 활동을 이어가고 있다. 지난달 20일 첫 번째 솔로 정규앨범 'Chocolate Box'를 발매한 양요섭은 각종 음악 방송에서 타이틀곡 'B]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[블랙핑크 로제X수주, 프랑스 파리에 핀 두 송이 장미[스타IN★] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
@@ -1175,46 +1217,109 @@
             <content:encoded><![CDATA[그룹 엘라스트(E'LAST)가 다채로운 콘셉트 및 소화력을 보여주며 '만능 콘셉트돌'의 행보를 이어가고 있다. 엘라스트(라노, 최인, 승엽, 백결, 로민, 원혁, 예준, 원준)는 지난해 6월 첫 번째 미니앨범 '데이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘틱톡 스테이지 Discover Your Own Joy’ 지난 30일 성료 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000764971</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000764971</guid>
-            <pubDate>Fri, 01 Oct 2021 09:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 틱톡이 9월 30일 국내 인기 아티스트들과 함께 하는 언택트 라이브 공연 ‘틱톡 스테이지 Discover Your Own Joy’를 틱톡 앱 내 틱톡 스테이지 계정을 통해 라이브로 진행, 123만 명의]]></content:encoded>
+            <title><![CDATA[미스트롯2 전유진, 장윤정 코칭에 자신감 회복 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000936113</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000936113</guid>
+            <pubDate>Fri, 01 Oct 2021 13:26:55 GMT</pubDate>
+            <content:encoded><![CDATA[미스트롯2 전유진, 장윤정 코칭에 자신감 회복 ‘장윤정의 도장깨기’에 출연한 ‘미스트롯2 인기원탑’ 전유진이 장윤정의 원포인트 레슨을 통해 노래에 대한 자신감을 되찾았다. 지난 9월 30일(목) 방송된 LG헬로비전]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[권영찬, 3년 만의 신곡…'그렇게 우리는' 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010748130</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010748130</guid>
-            <pubDate>Fri, 01 Oct 2021 09:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]이수진 인턴 기자 = 싱어송라이터 겸 음악감독 권영찬이 1일 디지털 싱글 '그렇게 우리는'를 발매했다. 지난 2018년 발매한 앨범 '컬러리스(Colorless)' 이후 3년 만의 신곡이다. 가수 프롬]]></content:encoded>
+            <title><![CDATA['원조 뇌섹남' 김정훈, 유튜버 변신 "아저씨로 돌아왔다" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004859267</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004859267</guid>
+            <pubDate>Fri, 01 Oct 2021 13:26:55 GMT</pubDate>
+            <content:encoded><![CDATA[가수 김정훈이 유튜버로 변신한다. 김정훈은 1일 자신의 인스타그램에 “오래전 이야기했던 유튜브 드디어 시작했다. 오늘은 티저부터 시작한다”며 유튜브 오픈 소식을 알렸다. 김정훈은 “새로운 도전! 많이들 보러오시기 바]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방탄소년단 외교관 여권, 하루만 유료 전시 종료.."혼선 죄송" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0002992825</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0002992825</guid>
-            <pubDate>Fri, 01 Oct 2021 09:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 방탄소년단(BTS) 소속사 하이브(HYBE)가 대통령 특별사절 자격으로 받은 외교관 여권을 유료 전시했다가 하루 만에 조기 종료했다. 하이브가 운영하는 전시관 하이브 인사이트는 29일 "방탄소년단 외교관 여권]]></content:encoded>
+            <title><![CDATA[‘살림남2’ 홍성흔, 19년 만에 처가 ‘추석 방문’ (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000936112</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000936112</guid>
+            <pubDate>Fri, 01 Oct 2021 13:26:55 GMT</pubDate>
+            <content:encoded><![CDATA[‘살림남2’ 홍성흔, 19년 만에 처가 ‘추석 방문’ 자타공인 1등 사윗감 홍성흔이 장모의 마음에 들지 않았던 이유는 무엇일까. 2일 방송되는 KBS2 ‘살림하는 남자들 시즌2’(이하 ‘살림남2′)에서는 홍성흔의 처]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[비아이, 글로벌 싱글 'Lost At Sea' 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003482281</link>
-            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003482281</guid>
-            <pubDate>Fri, 01 Oct 2021 09:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드POP=임의정 기자]가수 비아이(B.I)가 해외 아티스트들과 함께 한 글로벌 싱글을 선보였다. 비아이는 1일 오후 1시(한국 시간) 전 세계 온라인 음원 사이트를 통해 글로벌 싱글 'Lost At Sea (로]]></content:encoded>
+            <title><![CDATA[이세영, 성형+다이어트 보람 있네…달라진 볼륨감에 물오른 비주얼 [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000503270</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000503270</guid>
+            <pubDate>Fri, 01 Oct 2021 13:26:55 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=우빈 기자] 개그우먼 이세영이 물광 피부와 볼륨감 있는 몸매를 자랑했다. 이세영은 최근 자신의 인스타그램에 글래머스한 몸매를 자랑해 눈길을 끌었다. 사진 속 이세영은 수영장이 있는 풀빌라는 빌려 남자친구와]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스카이리, 'DADADA' 4인4색 로맨틱 걸크러시(뮤뱅) (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004483711</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004483711</guid>
-            <pubDate>Fri, 01 Oct 2021 09:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자] 걸그룹 스카이리가 로맨틱 걸크러시로 K팝 팬들을 사로잡았다. 스카이리는 1일 방송된 KBS 2TV ‘뮤직뱅크’에서 ‘DA DA DA’(다다다)로 K팝 팬들을 만났다. ‘DA DA DA’는 데]]></content:encoded>
+            <title><![CDATA[[DA★] 김정훈 유튜버 컴백 “원조 뇌섹남, 아저씨로 돌아왔다” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000936111</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000936111</guid>
+            <pubDate>Fri, 01 Oct 2021 13:26:55 GMT</pubDate>
+            <content:encoded><![CDATA[[DA★] 김정훈 유튜버 컴백 “원조 뇌섹남, 아저씨로 돌아왔다” 가수 김정훈이 유튜버로 돌아온다. 김정훈은 1일 자신의 인스타그램을 통해 유튜브 채널 오픈 소식을 전했다. 그는 “오래전 이야기했던 유튜브 드디어 시]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[감미로움과 샤우팅 오가는 정홍일, 이래서 '싱어게인' 스타[들어보고서] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000494110</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000494110</guid>
-            <pubDate>Fri, 01 Oct 2021 09:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 가수 정홍일이 신곡을 선보인다. 정홍일은 10월 1일 오후 6시 디지털 싱글 '손에 닿지 않는 기억'을 발매한다. JTBC '싱어게인' 준우승 후 처음 선보이는 신곡이다. '손에 닿지 않는 기]]></content:encoded>
+            <title><![CDATA[백신 맞은 이승연, "근육통+오한..눈이 팅팅" 후유증 호소 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0002992849</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0002992849</guid>
+            <pubDate>Fri, 01 Oct 2021 13:26:55 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이승연이 코로나19 백신 2차 접종 후유증을 호소햇다. 이승연은 1일 개인 인스타그램에 "어젯밤 라방 끝나자마자 근육통 오한에 몸살 증세. 약 먹고 앓다가 자고 일어남. 눈 팅팅 붓고 몸도 띵띵"이라며 백신 접]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘원 더 우먼’ 이원근, 현장 비하인드 공개 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000936110</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000936110</guid>
+            <pubDate>Fri, 01 Oct 2021 13:26:55 GMT</pubDate>
+            <content:encoded><![CDATA[‘원 더 우먼’ 이원근, 현장 비하인드 공개 배우 이원근의 ‘원 더 우먼’을 향한 ‘찐’ 열정과 애정이 담긴 현장 비하인드 사진이 공개됐다. 회를 거듭하며 뜨거운 반응을 얻고 있는 SBS 금토드라마 ‘원 더 우먼’(]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[DA★] 신봉선, 故 박지선 향한 그리움…선물함에 남은 온기 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000936109</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000936109</guid>
+            <pubDate>Fri, 01 Oct 2021 13:26:55 GMT</pubDate>
+            <content:encoded><![CDATA[[DA★] 신봉선, 故 박지선 향한 그리움…선물함에 남은 온기 개그우먼 신봉선이 후배 故 박지선을 향한 그리움을 전했다. 신봉선은 1일 자신의 인스타그램을 통해 생전 박지선에게 받은 선물을 공개하며 “선물 연장 알림]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[비투비 육성재, 미복귀 전역 전 마지막 휴가 中 "빨리 보고파" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004859255</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004859255</guid>
+            <pubDate>Fri, 01 Oct 2021 13:26:55 GMT</pubDate>
+            <content:encoded><![CDATA[비투비 육성재가 전역 전 마지막 휴가를 통해 근황을 전했다. 육성재는 1일 인스타그램 라이브를 통해 팬들과 소통했다. 지난 달 26일 전역 휴가를 나왔다는 그는 "정말 건강하게 잘 하고 나왔다"면서 "그동안 아팠던]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["마약 논란 덮을까" 비아이, 오늘(1일) 글로벌 싱글 '로스트 앳 씨' 발매 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000792062</link>
+            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000792062</guid>
+            <pubDate>Fri, 01 Oct 2021 13:26:55 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 안은재기자]가수 비아이(B.I)가 해외 아티스트들과 함께 한 글로벌 싱글을 선보였다. 비아이는 1일 오후 1시(한국 시간) 전 세계 온라인 음원 사이트를 통해 글로벌 싱글 ‘Lost At Sea (로]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2021년 10월 2·3일 [TV하이라이트] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=032&amp;aid=0003101216</link>
+            <guid>https://entertain.naver.com/now/read?oid=032&amp;aid=0003101216</guid>
+            <pubDate>Fri, 01 Oct 2021 13:26:55 GMT</pubDate>
+            <content:encoded><![CDATA[[경향신문] 천편일률 차에 개성을 심는 사람들 ■극한직업(EBS1 토 오후 9시5분) = 국내 등록 차량 3000만 시대를 앞둔 지금, 자동차는 생활필수품이 되었다. 운전자가 많아진 만큼 차와 관련된 직업 또한 늘어]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2021년 10월 2·3일 [볼만한 주말영화] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=032&amp;aid=0003101215</link>
+            <guid>https://entertain.naver.com/now/read?oid=032&amp;aid=0003101215</guid>
+            <pubDate>Fri, 01 Oct 2021 13:26:55 GMT</pubDate>
+            <content:encoded><![CDATA[[경향신문] 형사와 택시 운전사의 ‘은밀한 거래’ 시네마 &lt;뤽 베송의 택시&gt;(OBS 토 오후 2시40분) = 프랑스에서 가장 빠른 피자 배달부 다니엘(사미 나세리)은 마침내 그의 꿈을 이룬다. 택시 면허증을 딴 것이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[장민호, 서울 콘서트 매진→4개 도시 추가 확정…6일 티켓 오픈 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000503264</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000503264</guid>
+            <pubDate>Fri, 01 Oct 2021 13:26:55 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=차혜영 기자] 가수 장민호가 전국 각지의 팬들을 만난다. 장민호는 오는 30일, 31일 창원을 시작으로 대구, 인천, 울산에서 첫 단독 콘서트 '드라마'를 열고 관객들을 만난다. 앞서 서울과 부산 공연 개]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[구본길→오상욱 홈파티 등장한 펜싱 F4 [화보] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000936108</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000936108</guid>
+            <pubDate>Fri, 01 Oct 2021 13:26:55 GMT</pubDate>
+            <content:encoded><![CDATA[구본길→오상욱 홈파티 등장한 펜싱 F4 [화보] 2020 도쿄올림픽 펜싱 금메달리스트 김정환, 구본길, 김준호, 오상욱 4명의 어펜저스가 남성 패션 라이프스타일 매거진 &lt;에스콰이어&gt;와 함께한 화보를 공개해 눈길을 끈]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[장예원, 파격 새 프로필 공개 '예쁨주의'[★SNS] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000792061</link>
+            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000792061</guid>
+            <pubDate>Fri, 01 Oct 2021 13:26:55 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 안은재기자]SBS를 퇴사했던 장예원이 파격적인 새 프로필을 선보였다. 1일 장예원은 자신의 사회관계망서비스에 “Final!(최종!)”이라는 글과 함께 새 프로필 사진 두 장을 공개했다. 공개된 사진에]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[‘너를 닮은 사람’ 김재영, 매혹적인 비주얼…조각가 변신 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
@@ -1287,109 +1392,11 @@
             <content:encoded><![CDATA[(서울=뉴스1) 권현진 기자 = 배우 현빈이 지난 30일 서울 성수동에서 진행된 스위스 럭셔리 워치 메이킹 브랜드 오메가(OMEGA)의 ‘007 노 타임 투 다이’ 팝업 전시회에 참석해 포즈를 취하고 있다. (오메가]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[비아이, 영어 싱글 발매→3일 온라인 콘서트 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000936105</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000936105</guid>
-            <pubDate>Fri, 01 Oct 2021 11:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[비아이, 영어 싱글 발매→3일 온라인 콘서트 가수 비아이(B.I)가 해외 아티스트들과 함께 한 글로벌 싱글을 선보였다. 비아이는 1일 오후 1시(한국 시간) 전 세계 온라인 음원 사이트를 통해 글로벌 싱글 'Lost]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘전참시’ 유세윤, 판박이 아들 깜짝 출연 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000936104</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000936104</guid>
-            <pubDate>Fri, 01 Oct 2021 11:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[‘전참시’ 유세윤, 판박이 아들 깜짝 출연 '전지적 참견 시점’ 유세윤이 모닝 루틴을 공개한다. 10월 2일 방송되는 MBC '전지적 참견 시점'(기획 박정규 / 연출 노시용, 채현석 / 이하 '전참시') 172회에]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아이유, 명품회사에 명품 케이크 선물 받아 "Thank you"[스타IN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0002992832</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0002992832</guid>
-            <pubDate>Fri, 01 Oct 2021 11:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[가수 아이유가 명품 회사로부터 명품 케이크를 선물 받았다. 아이유는 30일 자신의 인스타그램에 "Thank you"라는 글과 함께 한 장의 사지능ㄹ 게재했다. 사진 속에는 아이유가 명품 회사로부터 다양한 꽃과 보석이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우디 고차일드, 입대 전 마지막 신곡 발매 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000936103</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000936103</guid>
-            <pubDate>Fri, 01 Oct 2021 11:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[우디 고차일드, 입대 전 마지막 신곡 발매 아티스트 우디 고차일드(Woodie Gochild)가 입대 전 마지막 신곡을 발매한다. 우디 고차일드는 오는 2일 오후 6시 온라인 음원 사이트를 통해 새 싱글 'Feath]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[장민호, 홀로서기 시작..혼자서도 빛나는 조각 비주얼[스타IN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0002992831</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0002992831</guid>
-            <pubDate>Fri, 01 Oct 2021 10:24:50 GMT</pubDate>
-            <content:encoded><![CDATA[가수 장민호가 KBS 2TV '갓파더' 출연을 알렸다. 장민호는 1일 자신의 인스타그램에 "KBS 2TV '갓파더'. 잠시 후 11시 제작발표회 시작 뚜둥"이라는 글과 함께 사진을 게재했다. 사진 속 장민호는 '갓파]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 제니X지수, 파리 길거리 데이트..훈훈 투샷[스타IN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0002992830</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0002992830</guid>
-            <pubDate>Fri, 01 Oct 2021 10:24:50 GMT</pubDate>
-            <content:encoded><![CDATA[블랙핑크 제니와 지수가 프랑스 파리 길거리에서 보낸 일상을 공개했다. 지수는 1일 자신의 인스타그램에 "데이트"라는 글과 함께 사진을 게재했다. 사진 속 지수와 제니는 파리 곳곳에서 시간을 보내고 있다. 두 사람은]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 드림노트 라라 '마스크 착용하고 축하 공연' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003784521</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003784521</guid>
-            <pubDate>Fri, 01 Oct 2021 10:24:50 GMT</pubDate>
-            <content:encoded><![CDATA[1일 광주 기아챔피언스필드에서 KIA와 키움의 경기가 열린다. 경기를 앞두고 걸그룹 '드림노트' 멤버들이 축하 공연을 선보이고 있다. 화려한 무대를 펼치고 있는 드림노트. 광주=송정헌 기자 songs@sportsch]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 드림노트 라라 '야구팬들 앞에서 깜찍한 축하 공연' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003784520</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003784520</guid>
-            <pubDate>Fri, 01 Oct 2021 10:24:50 GMT</pubDate>
-            <content:encoded><![CDATA[1일 광주 기아챔피언스필드에서 KIA와 키움의 경기가 열린다. 경기를 앞두고 걸그룹 '드림노트' 멤버들이 축하 공연을 선보이고 있다. 화려한 무대를 펼치고 있는 드림노트. 광주=송정헌 기자 songs@sportsch]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 드림노트 '야구팬들 앞에서 파워풀한 무대' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003784519</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003784519</guid>
-            <pubDate>Fri, 01 Oct 2021 10:24:50 GMT</pubDate>
-            <content:encoded><![CDATA[1일 광주 기아챔피언스필드에서 KIA와 키움의 경기가 열린다. 경기를 앞두고 걸그룹 '드림노트' 멤버들이 축하 공연을 선보이고 있다. 화려한 무대를 펼치고 있는 드림노트. 광주=송정헌 기자 songs@sportsch]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 드림노트 은조 '야구팬들 앞에서 기분 좋은 축하무대' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003784518</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003784518</guid>
-            <pubDate>Fri, 01 Oct 2021 10:24:50 GMT</pubDate>
-            <content:encoded><![CDATA[1일 광주 기아챔피언스필드에서 KIA와 키움의 경기가 열린다. 경기를 앞두고 걸그룹 '드림노트' 멤버들이 축하 공연을 선보이고 있다. 화려한 무대를 펼치고 있는 드림노트. 광주=송정헌 기자 songs@sportsch]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 드림노트 수민-은조 '기분 짜릿한 시구 시타' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003784515</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003784515</guid>
-            <pubDate>Fri, 01 Oct 2021 10:24:50 GMT</pubDate>
-            <content:encoded><![CDATA[1일 광주 기아챔피언스필드에서 KIA와 키움의 경기가 열린다. 경기를 앞두고 걸그룹 '드림노트' 멤버들이 시구 시타 행사를 했다. 시구 시타를 하고 있는 수민-은조. 광주=송정헌 기자 songs@sportschosu]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 드림노트 은조 '저 시타 잘했나요?' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003784514</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003784514</guid>
-            <pubDate>Fri, 01 Oct 2021 10:24:50 GMT</pubDate>
-            <content:encoded><![CDATA[1일 광주 기아챔피언스필드에서 KIA와 키움의 경기가 열린다. 경기를 앞두고 걸그룹 '드림노트' 멤버들이 시구 시타 행사를 했다. 시타를 하고 있는 은조. 광주=송정헌 기자 songs@sportschosun.com/]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 드림노트 은조 '가슴 떨리는 야구장 나들이' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003784513</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003784513</guid>
-            <pubDate>Fri, 01 Oct 2021 10:24:50 GMT</pubDate>
-            <content:encoded><![CDATA[1일 광주 기아챔피언스필드에서 KIA와 키움의 경기가 열린다. 경기를 앞두고 걸그룹 '드림노트' 멤버들이 시구 시타 행사를 했다. 시타를 하고 있는 은조. 광주=송정헌 기자 songs@sportschosun.com/]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 드림노트 수민-은조 '즐거운 야구장 나들이' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003784512</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003784512</guid>
-            <pubDate>Fri, 01 Oct 2021 10:24:50 GMT</pubDate>
-            <content:encoded><![CDATA[1일 광주 기아챔피언스필드에서 KIA와 키움의 경기가 열린다. 경기를 앞두고 걸그룹 '드림노트' 멤버들이 시구 시타 행사를 했다. 시구 시타를 하고 있는 수민-은조. 광주=송정헌 기자 songs@sportschosu]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 드림노트 수민-은조 '호랑이 유니폼 입고 시구 시타' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003784510</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003784510</guid>
-            <pubDate>Fri, 01 Oct 2021 10:24:50 GMT</pubDate>
-            <content:encoded><![CDATA[1일 광주 기아챔피언스필드에서 KIA와 키움의 경기가 열린다. 경기를 앞두고 걸그룹 '드림노트' 멤버들이 시구 시타 행사를 했다. 시구 시타를 하고 있는 수민, 은조. 광주=송정헌 기자 songs@sportschos]]></content:encoded>
+            <title><![CDATA[출산 1달도 안 된 카디비, 볼륨 드러낸 드레스 룩 "대단해" (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=008&amp;aid=0004651714</link>
+            <guid>https://entertain.naver.com/now/read?oid=008&amp;aid=0004651714</guid>
+            <pubDate>Fri, 01 Oct 2021 13:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[가수 카디비(Cardi B)가 출산한지 채 한달이 되지 않았음에도 파격 드레스를 착용하고 공식석상에 참석해 눈길을 끌었다. 지난 28일(현지시간) 카디비는 프랑스 파리의 파인아트뮤지엄에서 열린 '티에리 뮈글러:퀴티리]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[스칼릿 조핸슨, 디즈니와 '블랙위도우' 출연료 소송 취하 합의 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
@@ -1558,13 +1565,6 @@
             <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000494047</guid>
             <pubDate>Fri, 01 Oct 2021 06:26:46 GMT</pubDate>
             <content:encoded><![CDATA[[뉴스엔 이민지 기자] 이병헌, 이민정 부부가 미국에서 포착됐다. 이병헌, 이민정 부부는 9월 29일(현지시간) 미국 캘리포니아 로스앤젤레스에서 포착됐다. 두 사람은 이날 미국 아카데미 영화 박물관에서 열린 아카데미]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[제이크 질렌할, 15세 연하 모델 여친 손 꼭 잡고[파파라치컷] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000494024</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000494024</guid>
-            <pubDate>Fri, 01 Oct 2021 05:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 제이크 질렌할이 여자친구와 포착됐다. 미국 스플래쉬닷컴은 9월 30일(현지시간) 배우 제이크 질렌할과 여자친구 잔느 카디유의 근황을 공개했다. 제이크 질렌할과 잔느 카디유는 이날 뉴욕시에서 진]]></content:encoded>
         </item>
     </channel>
 </rss>
