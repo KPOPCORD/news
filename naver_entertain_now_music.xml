@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-01T14:20:55.139Z</updated>
+    <updated>2021-10-01T15:23:38.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘사랑의 콜센타’ 영탁, 1화 ‘막걸리 한잔’ 무대로 전시즌 최고 1분 시청률 등극]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001355066</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001355066"/>
+        <updated>2021-10-01T15:23:24.852Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 성황리에 종영한 ‘사랑의 콜센타’ 전체 최고 1분 시청률의 주인공은 영탁이었다. 시청률전문기업 TNMS는 ‘사랑의콜센타’ 종영 이후 “‘사랑의 콜센타’는 2020년 4월 2일 첫 방송에서]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘음색 여신’ 러블리즈 류수정, Lizzo ‘Juice’ 완벽 커버…글로벌 팬심 저격]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001355064</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001355064"/>
+        <updated>2021-10-01T15:23:24.856Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 그룹 러블리즈(Lovelyz)의 류수정이 '레트로 여신'으로 변신했다. 소속사 울림엔터테인먼트는 지난 9월 30일 오후 8시 '울림 더 라이브' 공식 유튜브 채널을 통해 류수정이 부른 리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[싱어송라이터 엘던(eldon), 신보 ‘Back to you’로 컴백]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001355052</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001355008"/>
         <updated>2021-10-01T10:24:42.304Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 장제원 국민의힘 의원의 아들 노엘(장용준)에 대한 사전 구속영장이 신청됐다. 서울 서초경찰서는 1일 도로교통법 위반(음주측정 거부·무면허운전·재물손괴), 상해·공무집행방행 등 혐의를 적용]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이펙스, 두 번째 EP 예판 시작…이번에도 전량 품절 시킬까]]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004611364</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004611364"/>
-        <updated>2021-10-01T09:21:30.019Z</updated>
-        <content type="html"><![CDATA[그룹 이펙스(EPEX)의 새 앨범 예약 판매가 시작된다. 이펙스(위시, 금동현, 뮤, 아민, 백승, 에이든, 예왕, 제프)는 1일 오후 3시부터 각종 음반 판매 사이트를 통해 두 번째 EP '양극성(Bipolar)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정엽, 드라마 '원더우먼' OST 참여…'안아줄게요']]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010748139</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010748139"/>
-        <updated>2021-10-01T09:21:30.021Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]홍연우 수습 기자 = 브라운아이드소울 정엽이 SBS 금토드라마 '원더우먼(One the Woman)' OST에 참여했다. 정엽이 부른 '원더우먼' OST Part.2 '안아줄게요'는 1일 오후 6시 각]]></content>
     </entry>
 </feed>
