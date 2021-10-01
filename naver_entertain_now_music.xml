@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-01T13:27:01.862Z</updated>
+    <updated>2021-10-01T14:20:55.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[싱어송라이터 엘던(eldon), 신보 ‘Back to you’로 컴백]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001355052</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001355052"/>
+        <updated>2021-10-01T14:20:39.370Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 싱어송라이터 엘던(eldon)이 10월 3일 오후 6시 청량미 넘치는 팝 싱글 ‘Back to you’를 발매한다. ‘Back to you’는 우연히 만나게 된 이성에게 첫눈에 반하게 된]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['방과후 설렘', 2일 '음중' 무대 선다…'Same Same Different' 첫선]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004483990</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004483990"/>
+        <updated>2021-10-01T14:20:39.382Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] '방과후 설렘' 3학년 연습생들이 처음으로 무대에서 글로벌 팬들과 만난다. 1일 오후 네이버 NOW.에서 방송된 방과후 설렘 프리퀄 ‘등교전 망설임’에서는 MBC ‘쇼! 음악중심’ 출연을 하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['방과후 설렘' 3학년 연습생, 내일(2일) '음악중심' 무대 선다]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002992854</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010748139"/>
         <updated>2021-10-01T09:21:30.021Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]홍연우 수습 기자 = 브라운아이드소울 정엽이 SBS 금토드라마 '원더우먼(One the Woman)' OST에 참여했다. 정엽이 부른 '원더우먼' OST Part.2 '안아줄게요'는 1일 오후 6시 각]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[T1419, 오늘 '뮤콘 2021' 출격…'플렉스'·'엑시트' 부른다]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010748137</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010748137"/>
-        <updated>2021-10-01T09:21:30.023Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]이수진 인턴 기자 = 보이그룹 '티일사일구(T1419)'가 1일 '2021 서울국제뮤직페어'(뮤콘 2021)에 출연한다. 이날 오후 7시 SBS MTV 등을 통해 방송되는 '뮤콘 2021'에서 T141]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엘라스트, '향기돌' 이어 '귀공자돌'…못 하는 콘셉트가 없네]]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004611359</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004611359"/>
-        <updated>2021-10-01T09:21:30.028Z</updated>
-        <content type="html"><![CDATA[그룹 엘라스트(E'LAST)가 다채로운 콘셉트 및 소화력을 보여주며 '만능 콘셉트돌'의 행보를 이어가고 있다. 엘라스트(라노, 최인, 승엽, 백결, 로민, 원혁, 예준, 원준)는 지난해 6월 첫 번째 미니앨범 '데이]]></content>
     </entry>
 </feed>
