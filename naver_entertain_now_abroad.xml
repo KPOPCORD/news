@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-01T05:20:07.083Z</updated>
+    <updated>2021-10-01T06:26:47.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이병헌 이민정 강동원, 美 아카데미 영화박물관 행사서 만남[포토엔]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000494053</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000494053"/>
+        <updated>2021-10-01T06:26:46.470Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 이병헌, 이민정, 강동원 등이 미국에서 포착됐다. 9월 29일(현지시간) 미국 캘리포니아 로스앤젤레스 미국 아카데미 영화 박물관에서 아카데미 영화 및 배니티 페어 프리미어 파티가 진행됐다. 이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이병헌♥이민정, 오늘도 다정한 비주얼 부부…美 행사 동반참석[포토엔]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000494047</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000494047"/>
+        <updated>2021-10-01T06:26:46.471Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 이병헌, 이민정 부부가 미국에서 포착됐다. 이병헌, 이민정 부부는 9월 29일(현지시간) 미국 캘리포니아 로스앤젤레스에서 포착됐다. 두 사람은 이날 미국 아카데미 영화 박물관에서 열린 아카데미]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제이크 질렌할, 15세 연하 모델 여친 손 꼭 잡고[파파라치컷]]]></title>
         <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000494024</id>
@@ -41,7 +55,7 @@
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 일본의 시나리오작가 스즈키 오사무가 넷플릭스 오리지널 시리즈 '오징어 게임'의 표절 의혹과 관련해 입장을 밝혔다. 지난달 30일 스즈키 오사무는 아사히 신문의 웹사이트 '에라닷'에 '오징]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[핼러윈 앞두고 오징어 게임 경비원 제복 대박, 中 저가상품 내놔]]></title>
+        <title type="html"><![CDATA['오징어게임' 경비원 제복 핼러윈 대박 조짐…싸구려 찍어내는 中]]></title>
         <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005632697</id>
         <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005632697"/>
         <updated>2021-10-01T03:23:22.784Z</updated>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005631990"/>
         <updated>2021-10-01T02:12:06.733Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 박형기 기자 = 핼러윈이 다가오자 미국인들이 ‘오징어 게임’ 복장을 구입하기 위해 혈안이 되고 있다고 미국의 온라인매체 ‘악시오스’가 1일 보도했다. 특히 얼굴을 가리고 있는 경비원 복장이 최고의 인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["고맙다, 오징어게임"…넷플릭스 주가 사상최고치 찍었다]]></title>
-        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005631892</id>
-        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005631892"/>
-        <updated>2021-10-01T02:12:06.735Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 박형기 기자 = ‘오징어 게임’ 덕분에 넷플릭스의 주가가 사상최고치를 경신했다고 블룸버그통신이 지난달 31일(현지시간) 보도했다. 이날 넷플릭스의 주가는 전거래일보다 1.88% 상승한 610.34달러]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이장원 "♥배다해와 결혼? 느낌있었다"→'피골상접' 김지석, 야관문주 원샷 왜? ('나혼산')]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003784276</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003784276"/>
-        <updated>2021-10-01T02:12:06.736Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 이게은기자] '나 혼자 산다' 전현무가 '무무상회'를 찾은 김지석, 이장원과 치열한 가격 토론회를 펼친다. 기부금 모으기에 열을 올리는 사장님 전현무와 '뇌섹남' 손님들의 가격 흥정 대결에 이목이 집]]></content>
     </entry>
 </feed>
