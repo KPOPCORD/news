@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Oct 2021 06:26:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Oct 2021 07:21:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[B1A4 산들, ‘갯마을 차차차’ OST 참여… 김선호♥신민아 속마음 전한다]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/326673</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/326673</guid>
+            <pubDate>Fri, 01 Oct 2021 07:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/326673">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/01/ca1w8rwXT5Te637687000490725631.jpg" alt="B1A4 산들, ‘갯마을 차차차’ OST 참여… 김선호♥신민아 속마음 전한다">        <div class="text-box">            <p class="summary">B1A4 산들, ‘갯마을 차차차’ OST 참여… 김선호♥신민아 속마음 전한다</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/01/ca1w8rwXT5Te637687000490725631.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[화사 독보적 패션 감각에 전현무-박재정 ‘감탄’ (나 혼자 산다)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/326644</link>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 01 Oct 2021 02:11:05 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/326571">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/01/7e092813-3dff-4014-b2e8-b766becb2735.jpg" alt="방탄소년단, ‘2021 더팩트 뮤직 어워즈’ 2관왕 확보 → 4연속 대상까지 휩쓸까 ">        <div class="text-box">            <p class="summary">방탄소년단, ‘2021 더팩트 뮤직 어워즈’ 2관왕 확보 → 4연속 대상까지 휩쓸까 </p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/01/7e092813-3dff-4014-b2e8-b766becb2735.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브레이브걸스, 뮤콘 10주년 '롤린, 치맛바람으로 시원한 무대 선사']]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/326569</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/326569</guid>
-            <pubDate>Fri, 01 Oct 2021 02:11:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/326569">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/01/93b89af7-7860-4b4e-a5ec-9563c5cd2910.jpg" alt="브레이브걸스, 뮤콘 10주년 '롤린, 치맛바람으로 시원한 무대 선사' ">        <div class="text-box">            <p class="summary">브레이브걸스, 뮤콘 10주년 '롤린, 치맛바람으로 시원한 무대 선사' </p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/01/93b89af7-7860-4b4e-a5ec-9563c5cd2910.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
