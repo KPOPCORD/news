@@ -2,11 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-01T10:24:58.704Z</updated>
+    <updated>2021-10-01T11:19:16.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[폴킴, 신곡과 전국 투어로 ‘폴인럽’ 만난다 [공식]]]></title>
+        <title type="html"><![CDATA[블랙핑크 로제X수주, 프랑스 파리에 핀 두 송이 장미[스타IN★]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002992838</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002992838"/>
+        <updated>2021-10-01T11:19:01.286Z</updated>
+        <content type="html"><![CDATA[그룹 블랙핑크 로제와 모델 수주가 프랑스 파리에서 만났다. 수주는 1일 자신의 인스타그램에 "Les deux roses a Paris"라며 로제와 함께 찍은 사진을 게재했다. 사진 속 수주와 로제는 나란히 앉아 팔짱]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[러블리즈 류수정, 독보적 음색 빛난 Lizzo 'Jucie' 커버]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002992834</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002992834"/>
+        <updated>2021-10-01T11:19:01.288Z</updated>
+        <content type="html"><![CDATA[그룹 러블리즈(Lovelyz)의 류수정이 독보적 음색을 뽐냈다. 소속사 울림엔터테인먼트는 지난 30일 오후 8시 '울림 더 라이브' 공식 유튜브 채널을 통해 류수정이 부른 리조(Lizzo)의 '주스(Juice)' 커]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[니브X한해, 프로젝트 위드 코지팝 'Pop Song' 발매]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001355020</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001355020"/>
+        <updated>2021-10-01T11:19:01.289Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 박예진 인턴기자) 니브와 한해가 참여한 프로젝트 'with KozyPop(위드 코지팝)'의 일곱 번째 싱글 'Pop Song'이 6일에 발매된다. 'Pop Song'은 회피형 연애의 이별 후 미움과 그]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[골든차일드, 정규 2집 리패키지 '따라' 트랙리스트 공개]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001355019</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001355019"/>
+        <updated>2021-10-01T11:19:01.296Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 박예진 인턴기자) 골든차일드가 새 앨범 트랙리스트를 공개해 컴백에 대한 기대를 높였다. 소속사 울림엔터테인먼트는 1일 정오 공식 SNS를 통해 골든차일드 정규 2집 리패키지 '따라(DDARA)'의 트랙]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[폴킴 신곡·전국 투어로 ‘폴인럽’ 만난다 [공식]]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000764981</id>
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000764981"/>
         <updated>2021-10-01T10:24:42.290Z</updated>
@@ -151,33 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000494110"/>
         <updated>2021-10-01T09:21:30.037Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 가수 정홍일이 신곡을 선보인다. 정홍일은 10월 1일 오후 6시 디지털 싱글 '손에 닿지 않는 기억'을 발매한다. JTBC '싱어게인' 준우승 후 처음 선보이는 신곡이다. '손에 닿지 않는 기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['검은 태양' 요아리, 세번째 OST 'Serching for Reasons Why' 내일(2일) 발매]]></title>
-        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003482279</id>
-        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003482279"/>
-        <updated>2021-10-01T09:21:30.042Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=임의정 기자]매력적이고 개성적인 보이스의 보컬 요아리가 ‘검은 태양’ OST의 세 번째 라인업을 장식한다. 1일(오늘) 밤 9시 50분에 5회가 방송되는 MBC 금토드라마 ‘검은 태양’은 역대급 빌런의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['前 빅뱅' 승리, 징역 3년→'판결 불복' 항소에 전역 보류 [엑's 이슈]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001354982</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001354982"/>
-        <updated>2021-10-01T09:21:30.043Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 지난달 16일 전역 예정이던 그룹 빅뱅 출신 승리의 전역이 보류됐다. 지난 8월 육군 지상작전사령부 보통군사법원에서 열린 1심 선고 공판에서는 성매매 알선, 성매매, 성폭력범죄의 처벌 등]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그민페·피스트레인 또 취소…음악업계 울분 토로]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010748111</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010748111"/>
-        <updated>2021-10-01T09:21:30.045Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 거리두기 4단계가 2주 연장되는 등 코로나19 확산세가 여전한 가운데, 음악 축제들이 잇따라 취소되고 있다. 1일 민트페이퍼는 오는 16~17일·23~24일 서울 올림픽공원에서 펼칠 예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임영웅, 10월의 시작도 멋짐과 함께..빛나는 수트핏]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002992824</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002992824"/>
-        <updated>2021-10-01T09:21:30.046Z</updated>
-        <content type="html"><![CDATA[가수 임영웅이 10월의 시작을 멋진 수트핏이 돋보이는 화보로 장식했다. 임영웅이 모델로 활약 중인 웰메이드는 1일 오후 공식 인스타그램을 통해 임영웅 브루노바피 제로 수트 화보를 공개했다. 공개된 화보 속 임영웅은]]></content>
     </entry>
 </feed>
