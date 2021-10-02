@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Oct 2021 04:28:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Oct 2021 05:20:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단×콜드플레이 ‘My Universe’, 英 오피셜 싱글 차트 ‘3위’ 쾌거]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/326714</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/326714</guid>
+            <pubDate>Sat, 02 Oct 2021 05:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/326714">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/02/5NHTB3ixekyc637687806716676643.jpg" alt="방탄소년단×콜드플레이 ‘My Universe’, 英 오피셜 싱글 차트 ‘3위’ 쾌거">        <div class="text-box">            <p class="summary">방탄소년단×콜드플레이 ‘My Universe’, 英 오피셜 싱글 차트 ‘3위’ 쾌거</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/02/5NHTB3ixekyc637687806716676643.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘놀면 뭐하니?’ 재석스 5, 침묵의 라면 끓여먹기 도전! 미주, 반전 소음 유발 ‘깜짝’]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/326697</link>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 01 Oct 2021 03:22:29 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/326618">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/01/N3EvLbgPGqRQ637686850368772080.jpg" alt="크래비티, 치명적 눈 맞춤… ‘베니 비디 비치’ 콘셉트 포토로 팬심 저격">        <div class="text-box">            <p class="summary">크래비티, 치명적 눈 맞춤… ‘베니 비디 비치’ 콘셉트 포토로 팬심 저격</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/01/N3EvLbgPGqRQ637686850368772080.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김성규, ‘야생돌’ 임주안 보컬 폭풍 칭찬 “내가 좋아하는 목소리”]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/326599</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/326599</guid>
-            <pubDate>Fri, 01 Oct 2021 02:11:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/326599">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/01/yNm79iwU7vtN637686825535385542.jpg" alt="김성규, ‘야생돌’ 임주안 보컬 폭풍 칭찬 “내가 좋아하는 목소리”">        <div class="text-box">            <p class="summary">김성규, ‘야생돌’ 임주안 보컬 폭풍 칭찬 “내가 좋아하는 목소리”</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/01/yNm79iwU7vtN637686825535385542.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
