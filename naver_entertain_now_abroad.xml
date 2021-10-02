@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-02T06:27:55.060Z</updated>
+    <updated>2021-10-02T07:20:58.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[브리트니 스피어스, 나체 사진 올리며 ‘친아버지 후견인 분쟁 승소’ 자축]]></title>
+        <id>https://entertain.naver.com/now/read?oid=022&amp;aid=0003624658</id>
+        <link href="https://entertain.naver.com/now/read?oid=022&amp;aid=0003624658"/>
+        <updated>2021-10-02T07:20:58.202Z</updated>
+        <content type="html"><![CDATA[사진=브리트니 스피어스 인스타그램 캡처 팝스타 브리트니 스피어스가 친아버지와 펼친 후견인 분쟁서 승리해 자축했다. 1일 브리트니는 인스타그램에 12세 연하 약혼자인 샘 아스가와 함께 해변에서 즐거운 시간을 보내는 사]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방과후 설렘, 유재현-이푸른 '꼭 껴안고 하트' [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000820196</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000820196"/>
+        <updated>2021-10-02T07:20:58.203Z</updated>
+        <content type="html"><![CDATA['방과후 설렘' 유재현, 이푸른이 2일 서울 마포구 상암동 MBC 사옥에서 진행되는 MBC '쇼!음악중심' 출근길에서 포즈를 취하고 있다. 사진=펑키스튜디오]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방과후 설렘 김나현-이재이 '머리 위로 하트!' [MK포토]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000820184</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000820159"/>
         <updated>2021-10-02T06:27:54.071Z</updated>
         <content type="html"><![CDATA['방과후 설렘' 최윤주가 2일 서울 마포구 상암동 MBC 사옥에서 진행되는 MBC '쇼!음악중심' 출근길에서 포즈를 취하고 있다. 사진=펑키스튜디오]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘신사와 아가씨’ 윤진이X차화연, 두 모녀 사이에 벌어진 푹풍전야[MK★TV컷]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000820142</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000820142"/>
-        <updated>2021-10-02T03:23:30.830Z</updated>
-        <content type="html"><![CDATA[‘신사와 아가씨’ 안우연, 윤진이가 차화연의 등장에 위기를 맞는다. 2일 오후 방송되는 KBS2 주말드라마 ‘신사와 아가씨’(연출 신창석‧극본 김사경‧제작 지앤지프로덕션) 3회에서는 안우연(박대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카디비, 출산한지 1달도 안 됐는데?...터질듯한 볼륨감 파격 드레스에 ‘눈길’]]></title>
-        <id>https://entertain.naver.com/now/read?oid=022&amp;aid=0003624632</id>
-        <link href="https://entertain.naver.com/now/read?oid=022&amp;aid=0003624632"/>
-        <updated>2021-10-02T02:03:00.897Z</updated>
-        <content type="html"><![CDATA[사진=카디비 인스타그램 캡처 사진=카디비 인스타그램 캡처 사진=카디비 인스타그램 캡처 가수 카디비(Cardi B)가 출산한지 채 한달도 되지 않은 상태로 파격 드레스를 착용해 시선을 사로잡았다. 지난 28일(현지시각]]></content>
     </entry>
 </feed>
