@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-02T08:25:01.347Z</updated>
+    <updated>2021-10-02T09:21:01.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[황치열·임영웅, 레드카펫 빛낸 '황태자들']]></title>
+        <id>https://entertain.v.daum.net/v/20211002181023197</id>
+        <link href="https://entertain.v.daum.net/v/20211002181023197"/>
+        <updated>2021-10-02T09:20:17.681Z</updated>
+        <content type="html"><![CDATA[발라드·트로트로 다양한 무대 선사 예고 [더팩트ㅣ인천=박지윤 기자] 가수 황치열과 임영웅이 '2021 더팩트 뮤직 어워즈' 레드카펫에서 앨범 계획과 함께 최근 근황을 전했다. 더팩트가 주최하고 팬앤스타(FAN N STAR)가 주관하는 '2021 더팩트 뮤직 어워즈' 레드카펫 행사가 2일 오후 5시 생중계로 진행됐다. 방송인 붐이 MC를 맡은 가운데, 브레]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["커밍쑨" 트레저, 과거·현재·미래 담은 첫 팬미팅..컴백 예고까지]]></title>
+        <id>https://entertain.v.daum.net/v/20211002180718152</id>
+        <link href="https://entertain.v.daum.net/v/20211002180718152"/>
+        <updated>2021-10-02T09:20:17.682Z</updated>
+        <content type="html"><![CDATA[[OSEN=지민경 기자] 그룹 트레저가 데뷔 첫 팬미팅을 성공적으로 마무리하고 뜨거운 팬사랑을 입증했다. 트레저는 2일 오후 서울 방이동 올림픽홀에서 '1ST PRIVATE STAGE [TEU-DAY]'를 개최하고 데뷔 후 처음으로 팬들과 만남을 가졌다. '프라이빗 스테이지'는 아티스트와 팬 사이 교감을 중심으로 완성도 높은 공연을 지향하는&nbsp;YG의 팬미팅]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[브레이브걸스 "기적 같은 한 해, 1번으로 인사 기뻐"]]></title>
         <id>https://entertain.v.daum.net/v/20211002171743417</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211002121713548"/>
         <updated>2021-10-02T03:22:47.481Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 그룹 ENHYPEN(엔하이픈)이 새 앨범 콘셉트 공개를 완료했다. ENHYPEN(정원, 희승, 제이, 제이크, 성훈, 선우, 니키)은 10월 2일 공식 SNS 채널을 통해 오는 12일 발표를 앞둔 첫 번째 정규 앨범 ‘DIMENSION : DILEMMA’의 마지막 콘셉트 ‘ODYSSEUS’(오디세우스)의 필름을 공개했다. 영상은 햇]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몬스타엑스, 美 최대 연말쇼 '징글볼' 투어 합류..이번이 세 번째]]></title>
-        <id>https://entertain.v.daum.net/v/20211002121257521</id>
-        <link href="https://entertain.v.daum.net/v/20211002121257521"/>
-        <updated>2021-10-02T04:28:14.228Z</updated>
-        <content type="html"><![CDATA[▶ 2018년 K팝 그룹 최초 ‘징글볼’ 합류 이어 ▶ 2019, 2021년 출연 ▶ 12월 13~19일까지 필라델피아서 ▶ 워싱턴D.C, 애틀란타, 마이애미까지 [스포츠한국 조성진 기자] 그룹 몬스타엑스가 미국 최대의 연말 콘서트 ‘징글볼’ 투어 무대에 오른다. 미국 유명 라디오 방송국 아이하트라디오(iHeartRadio) 측은 1일 새벽(현지시간)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['2021 더팩트 뮤직 어워즈' D-DAY 관전 포인트.. #진격의BTS]]></title>
-        <id>https://entertain.v.daum.net/v/20211002120135426</id>
-        <link href="https://entertain.v.daum.net/v/20211002120135426"/>
-        <updated>2021-10-02T03:22:47.481Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] 팬과 스타가 함께 즐기는 최고의 K-POP 축제가 오늘 밤 막을 올린다. 2일 ‘더팩트 뮤직 어워즈(THE FACT MUSIC AWARDS, TMA)’ 조직위원회는 “‘2021 더팩트 뮤직 어워즈’ 본 시상식이 오늘 오후 7시 개최된다. 이에 앞서 오후 5시부터는 레드카펫 행사가 진행될 예정”이라고 밝혔다. ‘2021 더팩트 뮤직 어워즈’는]]></content>
     </entry>
 </feed>
