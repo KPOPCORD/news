@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-02T13:24:56.344Z</updated>
+    <updated>2021-10-02T14:19:46.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[3관왕 슈퍼주니어 “17년차에도 많은 사랑 감사”‥‘오징어게임’ 퍼포먼스 폭소[2021 TMA]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000494497</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000494497"/>
+        <updated>2021-10-02T14:19:33.520Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 슈퍼주니어가 월드와이드 아이콘 부문상을 수상하며 3관왕에 올랐다. 10월 2일 진행된 ‘2021 더팩트 뮤직 어워즈(2021 THE FACT MUSIC AWARDS, TMA)’에서 슈퍼주니어는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[2021 TMA]임영웅, 3관왕 기염 "영웅시대 덕분 용기·힘 생겨..사랑하고 감사"]]></title>
         <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003482543</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000820298"/>
         <updated>2021-10-02T11:18:13.305Z</updated>
         <content type="html"><![CDATA[‘음악중심’ 노라조가 유쾌한 에너지를 발산했다. 노라조(조빈, 원흠)는 2일 오후 방송된 MBC ‘쇼! 음악중심’에 출연해 새 디지털 싱글 ‘고민은 배송만 늦출 뿐’ 무대를 펼쳤다. 이날 노라조는 무대에 오르자마자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2021 TMA] '급성장 걸그룹' 위클리, '핫티스트' 수상 '쾌거']]></title>
-        <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000108753</id>
-        <link href="https://entertain.naver.com/now/read?oid=629&amp;aid=0000108753"/>
-        <updated>2021-10-02T11:18:13.305Z</updated>
-        <content type="html"><![CDATA[2일 '2021 더팩트 뮤직 어워즈'에서 꾸준한 활약으로 '핫티스트'상 수상 급성장 가도를 달리고 있는 걸그룹 위클리(Weeekly)가 올해 K-POP 시장을 뜨겁게 달군 '핫티스트'에 선정됐다. 지난해에 이어 올해]]></content>
     </entry>
 </feed>
