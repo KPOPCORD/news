@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-02T03:23:31.611Z</updated>
+    <updated>2021-10-02T04:28:58.469Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단X콜드플레이 'My Universe', 영국 오피셜 차트 3위 등극]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001355183</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001355183"/>
+        <updated>2021-10-02T04:28:43.638Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 최희재 기자) 그룹 방탄소년단과 콜드플레이(Coldplay)의 협업곡 ‘My Universe’가 영국에서도 통했다. 1일(현지시간) 영국 오피셜 차트에 따르면, 지난달 24일 발매된 방탄소년단과 콜드플]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[몬스타엑스, 美 최대 연말쇼 ‘징글볼’ 합류…워싱턴 D.C 등 4개 도시 뜬다]]></title>
+        <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0001894468</id>
+        <link href="https://entertain.naver.com/now/read?oid=016&amp;aid=0001894468"/>
+        <updated>2021-10-02T04:28:43.638Z</updated>
+        <content type="html"><![CDATA[[헤럴드경제=고승희 기자] 그룹 몬스타엑스(MONSTA X)가 미국 ‘징글볼’ 투어 무대에 오른다. 소속사 스타쉽 엔터테인먼트에 따르면 미국 라디오 방송국 아이하트라디오(iHeartRadio)는 1일 새벽(미국 현지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트라이비, 첫 미니 타이틀곡 '우주로'…신사동호랭이X엘리 작곡]]></title>
         <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000792082</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=438&amp;aid=0000039275"/>
         <updated>2021-10-02T03:23:16.159Z</updated>
         <content type="html"><![CDATA[투모로우바이투게더 수빈이 ‘뮤직뱅크’ MC에서 하차했다. 작년 7월 24일부터 KBS2TV ‘뮤직뱅크’ MC를 맡아 온 투모로우바이투게더(수빈, 연준, 범규, 태현, 휴닝카이)의 수빈은 지난 1일 방송을 끝으로 프로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['데뷔 6주년' 트와이스, 11월 정규 3집 발매→글로벌 투어 개최]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000494241</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000494241"/>
-        <updated>2021-10-02T02:02:46.988Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 그룹 트와이스가 데뷔 6주년을 맞이해 2021년 하반기 맹활약을 예고했다. 트와이스는 10월 1일 오후 1시(미국 동부시간 기준 0시) 데뷔 첫 영어 싱글 'The Feels'(더 필즈)를 발]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이칠린, 'GOT'YA' 연습실 안무 영상 공개...독보적 퍼포먼스]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002992938</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002992938"/>
-        <updated>2021-10-02T02:02:47.000Z</updated>
-        <content type="html"><![CDATA[걸그룹 아이칠린(ICHILLIN')이 독보적인 퍼포먼스를 선보이며 시선을 압도했다. 소속사 케이엠이엔티는 지난 1일 정오 공식 유튜브 채널을 통해 아이칠린의 데뷔곡 '갓챠(GOT'YA)'의 연습을 안무 영상을 공개했]]></content>
     </entry>
 </feed>
