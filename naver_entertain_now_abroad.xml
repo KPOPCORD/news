@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-02T02:03:01.634Z</updated>
+    <updated>2021-10-02T03:23:31.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘신사와 아가씨’ 윤진이X차화연, 두 모녀 사이에 벌어진 푹풍전야[MK★TV컷]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000820142</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000820142"/>
+        <updated>2021-10-02T03:23:30.830Z</updated>
+        <content type="html"><![CDATA[‘신사와 아가씨’ 안우연, 윤진이가 차화연의 등장에 위기를 맞는다. 2일 오후 방송되는 KBS2 주말드라마 ‘신사와 아가씨’(연출 신창석‧극본 김사경‧제작 지앤지프로덕션) 3회에서는 안우연(박대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카디비, 출산한지 1달도 안 됐는데?...터질듯한 볼륨감 파격 드레스에 ‘눈길’]]></title>
         <id>https://entertain.naver.com/now/read?oid=022&amp;aid=0003624632</id>
@@ -20,11 +27,11 @@
         <content type="html"><![CDATA[흥행 영화 '블랙 위도우'의 주인공 스칼렛 요한슨과 월트 디즈니의 게런티를 둘러싼 법정 갈등이 상호 합의하에 마무리 됐다. 월트 디즈니와의 불화를 해결한 스칼렛 요한슨은 "우리가 지난 수 년 동안 함께 해온 것들이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오징어 게임 얼마나 많이 봤으면…인터넷 제공업체 넷플릭스 고소]]></title>
+        <title type="html"><![CDATA[오징어 게임 얼마나 많이 봤으면…인터넷 제공업체 넷플릭스 제소]]></title>
         <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005634025</id>
         <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005634025"/>
         <updated>2021-10-02T02:03:00.899Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 박형기 기자 = 오징어 게임을 얼마나 많이 봤으면 인터넷 서비스 제공업체가 넷플릭스를 고소했다고 로이터통신 등 외신들이 일제히 보도했다. 한국의 인터넷 서비스 제공업체인 SK브로드밴드가 넷플릭스의 인]]></content>
+        <content type="html"><![CDATA[(서울=뉴스1) 박형기 기자 = '오징어 게임'을 얼마나 많이 봤으면 인터넷 서비스 제공업체가 넷플릭스를 제소했다고 로이터통신 등 외신들이 일제히 보도했다. 한국의 인터넷 서비스 제공업체인 SK브로드밴드가 넷플릭스의]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아버지로부터 해방된 브리트니, 다 벗고 찍은 사진 올려 '자축']]></title>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000820023"/>
         <updated>2021-10-01T07:21:16.658Z</updated>
         <content type="html"><![CDATA[영화 '십개월의 미래' 언론시사회가 1일 오후 서울 광진구 자양동 롯데시네마 건대입구에서 열렸다. 배우 유이든이 인사말을 하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[십개월의 미래 연출한 남궁선 감독 [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000820022</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000820022"/>
-        <updated>2021-10-01T07:21:16.659Z</updated>
-        <content type="html"><![CDATA[영화 '십개월의 미래' 언론시사회가 1일 오후 서울 광진구 자양동 롯데시네마 건대입구에서 열렸다. 남궁선 감독이 인사말을 하고 있다.]]></content>
     </entry>
 </feed>
