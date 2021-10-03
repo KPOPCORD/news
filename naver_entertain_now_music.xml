@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-03T13:24:41.938Z</updated>
+    <updated>2021-10-03T14:20:08.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘방과후 설렘’ 1학년, 9일 ‘음중’ 출연 확정[공식]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001196028</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001196028"/>
+        <updated>2021-10-03T14:19:54.551Z</updated>
+        <content type="html"><![CDATA[‘방과후 설렘’ 1학년 연습생들이 음악 방송에 출연한다. ‘방과후 설렘’ 1학년 연습생들은 오는 9일 생방송으로 진행되는 MBC ‘쇼! 음악중심’ 무대에 오른다. ‘방과후 설렘’은 3학년 연습생을 시작으로 1학년 연]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[모아♥로 채운 150분…투모로우바이투게더 "언제나 함께" (ACT:BOY)[종합]]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001355540</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000494699"/>
         <updated>2021-10-03T06:26:23.689Z</updated>
         <content type="html"><![CDATA[[뉴스엔 김명미 기자] 에이티즈(ATEEZ)가 눈부신 가을 햇살보다 더욱 반짝이는 비주얼을 뽐냈다. 10월 3일 0시 에이티즈의 공식 SNS에는 ‘ATEEZ ‘Eternal Sunshine’ Special Tease]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘10월에도 계속되는 인기’…임영웅, 멜론 TOP100에 12곡 진입]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001355470</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001355470"/>
-        <updated>2021-10-03T06:26:23.689Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 10월도 임히어로와 함께. 3일 오전 8시 멜론 TOP100 차트에 따르면, 임영웅이 가창한 노래 12곡이 존재감을 드러내고 있다. ‘미스터트롯’ 진 특전곡인 ‘이제 나만 믿어요’(2위)]]></content>
     </entry>
 </feed>
