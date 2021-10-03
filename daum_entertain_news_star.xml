@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-10-03T05:19:39.446Z</updated>
+    <updated>2021-10-03T06:26:38.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['집사부일체' 이낙연, 긴장감 가득한 청문회에 "그냥 당할게요"]]></title>
+        <id>https://entertain.v.daum.net/v/20211003145903430</id>
+        <link href="https://entertain.v.daum.net/v/20211003145903430"/>
+        <updated>2021-10-03T06:26:05.742Z</updated>
+        <content type="html"><![CDATA[[스포츠투데이 현혜선 기자] ‘집사부일체’ 이낙연 전 더불어민주당 대표가 온다. 3일 방송되는 SBS 예능프로그램 ‘집사부일체’에서는 이낙연 전 더불어민주당 대표가 ‘대선주자 빅3 특집’의 마지막 사부로 등장한다. 앞서 ‘집사부일체’에는 윤석열 전 검찰 총장과 이재명 경기도지사가 사부로 등장, ‘집사부 청문회’를 통해 각자를 둘러싼 이슈에 대한 속마음을 솔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[류시원 가수로 컴백한다 "앨범 준비 중"]]></title>
         <id>https://entertain.v.daum.net/v/20211003133237989</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211003105233091"/>
         <updated>2021-10-03T02:06:20.116Z</updated>
         <content type="html"><![CDATA[‘검은 태양’이 의외의 민낯을 드러내는 등장인물들의 충격 반전과 함께 반환점을 돌았다. 2일 방송된 MBC 창사 60주년 특별기획 금토드라마 ‘검은 태양’(극본 박석호 / 연출 김성용) 6회에서는 동료 박하선(서수연 역)을 공격한 혐의로 체포되며 궁지에 몰린 국정원 현장 요원 남궁민(한지혁 역)의 처절한 고군분투가 그려졌다. 특히, 남궁민의 파트너 김지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['원 더 우먼' 이하늬, 이상윤 첫사랑이었을까 13% 1위..'검은 태양' 8.6%]]></title>
-        <id>https://entertain.v.daum.net/v/20211003105149083</id>
-        <link href="https://entertain.v.daum.net/v/20211003105149083"/>
-        <updated>2021-10-03T03:22:21.133Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 윤효정 기자 = '원 더 우먼'이 금토드라마 1위 자리를 지켰다. 시청률 조사회사 닐슨코리아에 따르면 지난 2일 방송된 SBS 금토드라마 '원 더 우먼'(극본 김윤/연출 최영훈)은 전국 기준 13.0%의 시청률을 기록했다. 지난 방송분이 기록한 13.4%보다 소폭하락했지만 동시간대 1위를 유지했다. 이날 방송에서는 한승욱(이상윤 분)이]]></content>
     </entry>
 </feed>

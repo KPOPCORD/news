@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-03T05:19:39.447Z</updated>
+    <updated>2021-10-03T06:26:38.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[리치 블랙모어, 한정판 진귀 사진집 발간]]></title>
+        <id>https://entertain.v.daum.net/v/20211003151501724</id>
+        <link href="https://entertain.v.daum.net/v/20211003151501724"/>
+        <updated>2021-10-03T06:25:55.265Z</updated>
+        <content type="html"><![CDATA[▶ 英 사진작가 로스 힐핀 저 ▶ “리치 블랙모어=괴팍 선입견 사실과 달라” ▶ “주변 재미있게 하는 밝고 환상적 존재” ▶ “사진작가 각종 요구사항도 잘 들어줘” ▶ 304쪽에 진귀 사진 수백여 장 담아 ▶ 리미티드에디션…전 세계 400권 한정 발간 [스포츠한국 조성진 기자] 음악사에 길이 남을 명 그룹 딥퍼플과 레인보우를 거친 ‘레전드’ 록 기타리스트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트레저, 100개국 팬들과 눈물의 첫 만남 "팬들 목소리 듣고 싶었다"]]></title>
         <id>https://entertain.v.daum.net/v/20211003140405497</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211003091313899"/>
         <updated>2021-10-03T02:06:10.288Z</updated>
         <content type="html"><![CDATA[[OSEN=선미경 기자] 그룹 세븐틴(에스쿱스,&nbsp;정한,&nbsp;조슈아,&nbsp;준,&nbsp;호시,&nbsp;원우,&nbsp;우지,&nbsp;디에잇,&nbsp;민규,&nbsp;도겸,&nbsp;승관,&nbsp;버논,&nbsp;디노)이&nbsp;‘2021&nbsp;더팩트 뮤직 어워즈’에서&nbsp;2관왕 영예를 안았다. 세븐틴은 지난&nbsp;2일 오후 진행된&nbsp;‘2021&nbsp;더팩트 뮤직 어워즈’(2021 THE FACT MUSIC AWARDS, 2021 TMA)에서&nbsp;‘올해의 아티스트’, ‘월]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투모로우바이투게더, 올해의 아티스트 됐다..명실상부 '4세대 아이돌 대표주자']]></title>
-        <id>https://entertain.v.daum.net/v/20211003090921861</id>
-        <link href="https://entertain.v.daum.net/v/20211003090921861"/>
-        <updated>2021-10-03T02:06:10.289Z</updated>
-        <content type="html"><![CDATA[[OSEN=이승훈 기자] 그룹 투모로우바이투게더가 ‘더팩트 뮤직 어워즈’에서 3년 연속 수상했다.&nbsp; 투모로우바이투게더(수빈, 연준, 범규, 태현, 휴닝카이)는 지난 2일 개최된 ‘2021 더팩트 뮤직 어워즈(THE FACT MUSIC AWARDS, TMA)’에서 ‘올해의 아티스트’ 상을 수상했다.&nbsp; ‘2019 더팩트 뮤직 어워즈’에서 ‘넥스트 리더’ 상을,]]></content>
     </entry>
 </feed>

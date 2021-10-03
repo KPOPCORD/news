@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-10-03T05:19:39.445Z</updated>
+    <updated>2021-10-03T06:26:38.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['007' 다니엘 크레이그, 이병헌과 어깨 나란히..할리우드 명예의 거리 입성]]></title>
+        <id>https://entertain.v.daum.net/v/20211003150154490</id>
+        <link href="https://entertain.v.daum.net/v/20211003150154490"/>
+        <updated>2021-10-03T06:26:15.664Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] ’007 시리즈’의 배우 다니엘 크레이그가 할리우드 명예의 거리에 이름을 올린다.&nbsp; 2일(현지시각) 외신 보도에 따르면 다니엘 크레이그는 영화 ‘007 NO TIME TO DIE’ 개봉을 앞두고서 오는 6일 명예의 거리에 입성한다. 로저 무어, 데이비드 니븐, 피어스 브로스넌에 이어 네 번째 제임스 본드 역의 배우가 명예의 거리에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[父 후견인 박탈→교체..13년 만에 자유찾은 '팝의 요정']]></title>
         <id>https://entertain.v.daum.net/v/20211003090006661</id>
@@ -18,12 +25,5 @@
         <link href="https://entertain.v.daum.net/v/20211002185150694"/>
         <updated>2021-10-02T10:23:52.398Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;넷플릭스 웹드라마 ‘오징어 게임’ 속 애니매트로닉스 인형이 거리에 등장했다. 홍보를 위해 이 인형을 설치한 것이다. 1일(현지 시간) 필리핀 마닐라 케손시티의 로빈슨 갤러리아 앞 신호등에 ‘오징어 게임’ 첫 회에 등장하는 일명 ‘무궁화꽃이 피었습니다 인형’이 설치된 것으로 보도됐다.&nbsp; 최근 넷플릭스 필리핀에 따르면 마닐라 지역 쇼핑]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스칼렛 요한슨·월트 디즈니, 수익 불화 합의]]></title>
-        <id>https://entertain.v.daum.net/v/20211002152608092</id>
-        <link href="https://entertain.v.daum.net/v/20211002152608092"/>
-        <updated>2021-10-02T06:27:15.057Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 이기은 기자] 할리우드 배우 스칼렛 요한슨, 월트 디즈니의 게런티 법정 갈등이 무사히 마무리 됐다. 앞서 스칼렛 요한슨은 월트 디즈니가 자신이 주연으로 활약한 영화 '블랙 위도우' 극장 개봉과 동시에 스트리밍 서비스를 진행, 이에 계약을 위반했다며 회사 측에 문제를 제기했다. 요한슨은 계약 당시 박스 오피스 성적과 극장 수익에 비례하는 수익금]]></content>
     </entry>
 </feed>
