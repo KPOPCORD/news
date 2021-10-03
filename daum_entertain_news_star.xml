@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-10-03T04:28:34.117Z</updated>
+    <updated>2021-10-03T05:19:39.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[류시원 가수로 컴백한다 "앨범 준비 중"]]></title>
+        <id>https://entertain.v.daum.net/v/20211003133237989</id>
+        <link href="https://entertain.v.daum.net/v/20211003133237989"/>
+        <updated>2021-10-03T05:19:10.571Z</updated>
+        <content type="html"><![CDATA[[동아닷컴]  4일 tvN STORY·tvN 방송되는 ‘프리한 닥터M’에는 원조 한류스타 류시원이 전격 출연한다. 화려했던 연예계를 떠나 프리한 라이프를 즐기고 있는 근황이 궁금한 스타들의 현재를 찾아가는 ‘프리한 스타’ 코너의 주인공으로 출연하는 류시원은 서바이벌 프로그램 ‘더 레이서’ 이후 6년 만의 방송 나들이로 반가움을 더한다. 제작진에 따르면]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['머선129' 강호동·은지원, 환장의 티키타카→폭소만발 협상]]></title>
         <id>https://entertain.v.daum.net/v/20211003132310890</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211003105149083"/>
         <updated>2021-10-03T03:22:21.133Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 윤효정 기자 = '원 더 우먼'이 금토드라마 1위 자리를 지켰다. 시청률 조사회사 닐슨코리아에 따르면 지난 2일 방송된 SBS 금토드라마 '원 더 우먼'(극본 김윤/연출 최영훈)은 전국 기준 13.0%의 시청률을 기록했다. 지난 방송분이 기록한 13.4%보다 소폭하락했지만 동시간대 1위를 유지했다. 이날 방송에서는 한승욱(이상윤 분)이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[산다라박과 민지도 몰랐던 자기 고민.. 오은영의 솔루션은?]]></title>
-        <id>https://entertain.v.daum.net/v/20211003105100073</id>
-        <link href="https://entertain.v.daum.net/v/20211003105100073"/>
-        <updated>2021-10-03T02:06:20.118Z</updated>
-        <content type="html"><![CDATA[[김종성 기자] 오은영 박사가 출연하는 채널A &lt;요즘 육아 금쪽같은 내 새끼&gt;(아래 '금쪽같은 내 새끼')를 보면 그가 제시하는 '금쪽 처방'에 아이들을 위한 솔루션만 담긴 경우는 극히 드물었다. 그는 엄마 아빠의 내면을 치유하는 데 상당히 많은 공을 들였다. 어쩌면 그것이야말로 문제의 본질이었는지도 모른다. 대부분의 성인들이 내면 속 상처를 그대로 안고]]></content>
     </entry>
 </feed>
