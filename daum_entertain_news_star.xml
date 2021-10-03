@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-10-03T06:26:38.777Z</updated>
+    <updated>2021-10-03T07:21:08.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['갯마을 차차차' 신민아·김선호, 교복 커플 변신..본격 데이트]]></title>
+        <id>https://entertain.v.daum.net/v/20211003160403502</id>
+        <link href="https://entertain.v.daum.net/v/20211003160403502"/>
+        <updated>2021-10-03T07:20:35.486Z</updated>
+        <content type="html"><![CDATA[[스포츠투데이 현혜선 기자] ‘갯마을 차차차’ 신민아와 김선호가 상큼 발랄한 교복 커플로 변신한다. tvN 토일드라마 ‘갯마을 차차차’(극본 신하은·연출 유제원) 측은 3일 고등학교 시절로 타임슬립 한 것 같은 혜진(신민아)과 두식(김선호)의 교복 커플 스틸을 공개해 시선을 강탈한다. 공진의 공식 ‘식혜’ 커플로 인정받고 초달달 연애 모드에 돌입한 가운데]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['집사부일체' 이낙연, 긴장감 가득한 청문회에 "그냥 당할게요"]]></title>
         <id>https://entertain.v.daum.net/v/20211003145903430</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211003110002161"/>
         <updated>2021-10-03T02:06:20.114Z</updated>
         <content type="html"><![CDATA[[스포티비뉴스=정서희 인턴기자] 넷플릭스 시리즈 ‘오징어 게임’의 ‘가면남’으로 전세계 주목을 받고 있는 배우 위하준이 흥행 감사 인사와 함께 출연 소회를 밝혔다. 최근 스포티비뉴스와 가진 화상 인터뷰에서 위하준은 ‘오징어 게임’의 전세계적인 인기에 “많은 시청자들이 좋아해주지 않을까 생각했는데, 이 정도 반응까지는 예상하지 못했다”며 “오디션을 볼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['검은 태양' 남궁민, 제대로 함정에 빠졌다]]></title>
-        <id>https://entertain.v.daum.net/v/20211003105233091</id>
-        <link href="https://entertain.v.daum.net/v/20211003105233091"/>
-        <updated>2021-10-03T02:06:20.116Z</updated>
-        <content type="html"><![CDATA[‘검은 태양’이 의외의 민낯을 드러내는 등장인물들의 충격 반전과 함께 반환점을 돌았다. 2일 방송된 MBC 창사 60주년 특별기획 금토드라마 ‘검은 태양’(극본 박석호 / 연출 김성용) 6회에서는 동료 박하선(서수연 역)을 공격한 혐의로 체포되며 궁지에 몰린 국정원 현장 요원 남궁민(한지혁 역)의 처절한 고군분투가 그려졌다. 특히, 남궁민의 파트너 김지]]></content>
     </entry>
 </feed>

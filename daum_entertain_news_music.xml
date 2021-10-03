@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-03T06:26:38.799Z</updated>
+    <updated>2021-10-03T07:21:08.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['컬투쇼' AB6IX 이대휘 "타이틀곡 작업 참여, 라이머 대표도 좋다고 칭찬"]]></title>
+        <id>https://entertain.v.daum.net/v/20211003154730295</id>
+        <link href="https://entertain.v.daum.net/v/20211003154730295"/>
+        <updated>2021-10-03T07:20:24.313Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 박상후 기자] '컬투쇼'에서 그룹 에이비식스(AB6IX) 이대휘가 타이틀곡 에피소드를 털어놨다. 3일 오후 방송된 SBS 파워FM '두시탈출 컬투쇼'(이하 '컬투쇼')의 '추적 30분'에서는 에이비식스(전웅, 김동현, 박우진, 이대휘)가 게스트로 출연해 입담을 뽐냈다. AB6IX는 지난달 27일 두 번째 정규앨범 '모어 컴플릿(MO' CO]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[리치 블랙모어, 한정판 진귀 사진집 발간]]></title>
         <id>https://entertain.v.daum.net/v/20211003151501724</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211003092500037"/>
         <updated>2021-10-03T02:06:10.285Z</updated>
         <content type="html"><![CDATA[[OSEN=선미경 기자] 그룹 골든차일드(Golden Child)가 신곡 뮤직비디오 티저로 젠틀하면서도 파워풀한 퍼포먼스를 예고했다.&nbsp; 소속사 울림엔터테인먼트는 지난 2일 오후 6시에 공식 유튜브 채널을 통해 정규 2집 리패키지 '따라(DDARA)'의 동명 타이틀곡 '따라' 뮤직비디오 2차 티저를 공개했다.&nbsp; 뮤직비디오 티저 속 골든차일드는 각자 다른 스타]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세븐틴, 글로벌 K팝 강자의 저력..컴백 앞두고 2관왕 영광]]></title>
-        <id>https://entertain.v.daum.net/v/20211003091313899</id>
-        <link href="https://entertain.v.daum.net/v/20211003091313899"/>
-        <updated>2021-10-03T02:06:10.288Z</updated>
-        <content type="html"><![CDATA[[OSEN=선미경 기자] 그룹 세븐틴(에스쿱스,&nbsp;정한,&nbsp;조슈아,&nbsp;준,&nbsp;호시,&nbsp;원우,&nbsp;우지,&nbsp;디에잇,&nbsp;민규,&nbsp;도겸,&nbsp;승관,&nbsp;버논,&nbsp;디노)이&nbsp;‘2021&nbsp;더팩트 뮤직 어워즈’에서&nbsp;2관왕 영예를 안았다. 세븐틴은 지난&nbsp;2일 오후 진행된&nbsp;‘2021&nbsp;더팩트 뮤직 어워즈’(2021 THE FACT MUSIC AWARDS, 2021 TMA)에서&nbsp;‘올해의 아티스트’, ‘월]]></content>
     </entry>
 </feed>

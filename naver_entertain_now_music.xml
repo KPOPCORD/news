@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-03T06:26:38.837Z</updated>
+    <updated>2021-10-03T07:21:08.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NCT127 vs 디핵&파테코 vs 에스파, '인기가요' 1위 대결]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002993283</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002993283"/>
+        <updated>2021-10-03T07:20:54.331Z</updated>
+        <content type="html"><![CDATA[그룹 NCT 127, 에스파, 가수 디핵&amp;파테코가 '인기가요' 1위 후보로 대결한다. NCT 127, 디핵&amp;파테코, 에스파는 3일 오후 방송된 SBS 음악 프로그램 '인기가요'에서 10월 1째 주 1위 후보에 올랐다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[설현, 코로나19 백신 접종 후기 "겨드랑이 아파요"[스타IN★]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002993282</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002993282"/>
+        <updated>2021-10-03T07:20:54.332Z</updated>
+        <content type="html"><![CDATA[걸그룹 AOA 멤버 겸 배우 설현이 코로나19 백신 접종 후기를 직접 전했다. 설현은 3일 자신의 인스타그램 스토리를 통해 코로나19 백신 접종 후기를 밝혔다. 설현은 사진을 통해 공개한 자신의 근황 모습과 함께 "]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엔하이픈 ‘여자 엔하이픈을 찾습니다’]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000765160</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004484582"/>
         <updated>2021-10-03T03:22:35.710Z</updated>
         <content type="html"><![CDATA[[OSEN=선미경 기자] 그룹 트레저가 'YG 대형 신인' 수식어에 걸맞은 무대 장악력과 탄탄한 라이브 실력을 증명하며 전 세계 100여 개국 팬들을 열광케 했다. 트레저는 지난 2일 서울 방이동 올림픽홀에서 온·오]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[슈퍼주니어, ‘2021 TMA’서 3관왕…여전히 뜨겁다]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000820430</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000820430"/>
-        <updated>2021-10-03T03:22:35.710Z</updated>
-        <content type="html"><![CDATA[슈퍼주니어가 ‘2021 더팩트 뮤직 어워즈’(이하 ‘2021 TMA’)서 3관왕을 달성했다. ‘2021 TMA’에서 올해의 아티스트, 팬앤스타 초이스상 가수 부문, 월드와이드 아이콘상을 수상한 슈퍼주니어는 무대에 등]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트레저, 100개국 팬들 마주한 콘서트 성료..연내 컴백 암시[종합]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002993256</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002993256"/>
-        <updated>2021-10-03T03:22:35.712Z</updated>
-        <content type="html"><![CDATA[아이돌그룹 트레저가 'YG 대형 신인' 수식어에 걸맞은 무대 장악력과 탄탄한 라이브 실력을 증명하며 전 세계 100여 개국 팬들을 열광케 했다. 트레저는 지난 2일 서울 방이동 올림픽홀에서 온·오프라인으로 동시 진행]]></content>
     </entry>
 </feed>
