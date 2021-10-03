@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-03T02:06:53.098Z</updated>
+    <updated>2021-10-03T03:22:49.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[베이조스 아마존 창업자 “오징어 게임 빨리 보고 싶다”]]></title>
+        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005634831</id>
+        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005634831"/>
+        <updated>2021-10-03T03:22:48.406Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 박형기 기자 = 제프 베이조스 아마존 창업자가 넷플릭스의 한국 드라마 ‘오징어 게임’에 대한 기대감을 한껏 드러냈다. 그는 2일(현지시간) 자신의 트위터를 통해 “오징어 게임을 빨리 보고 싶다”고 밝]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오징어 게임 전세계 8200만 시청, 넷플릭스 경영진도 놀라]]></title>
         <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005634680</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000820279"/>
         <updated>2021-10-02T10:24:13.093Z</updated>
         <content type="html"><![CDATA[방탄소년단 뷔가 2일 오후 온라인 생중계로 진행된 2021 더팩트 뮤직 어워즈(TMA) 시상식에 참석해 레드카펫을 밟고 있다. 사진=더팩트뮤직어워즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지민-제이홉 '아련한 눈길' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000820278</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000820278"/>
-        <updated>2021-10-02T10:24:13.094Z</updated>
-        <content type="html"><![CDATA[방탄소년단 지민, 제이홉이 2일 오후 온라인 생중계로 진행된 2021 더팩트 뮤직 어워즈(TMA) 시상식에 참석해 레드카펫을 밟고 있다. 사진=더팩트뮤직어워즈]]></content>
     </entry>
 </feed>
