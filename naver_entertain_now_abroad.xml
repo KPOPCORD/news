@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-04T08:26:41.191Z</updated>
+    <updated>2021-10-04T09:22:12.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오징어 게임' 이정재 등 주역들, 미국 '지미 팰런쇼' 출연]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010750526</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010750526"/>
+        <updated>2021-10-04T09:22:12.203Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 강진아 기자 = 넷플릭스 오리지널 시리즈 '오징어 게임'의 이정재를 비롯한 주역들이 미국 인기 토크쇼 '지미 팰런쇼'에 출연한다. 4일 넷플릭스 등에 따르면 '오징어 게임'의 주역들이 미국 NBC 간]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더 웨일즈, 유쾌한 포즈 ‘호잇~’ [MK포토]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000820752</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005634680"/>
         <updated>2021-10-03T02:06:52.372Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 박형기 기자 = 세계적으로 선풍적 인기를 끌고 있는 한국 드라마 ‘오징어 게임’이 개봉 한 달 만에 전세계 8200만 명이 시청할 것으로 예상된다고 미국의 경제전문 잡지 포춘이 2일(현지시간) 보도했]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[父 후견인 박탈→교체…13년 만에 자유찾은 '팝의 요정' [주말POP콘]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=018&amp;aid=0005050685</id>
-        <link href="https://entertain.naver.com/now/read?oid=018&amp;aid=0005050685"/>
-        <updated>2021-10-03T02:06:52.373Z</updated>
-        <content type="html"><![CDATA[(사진=브리트니 스피어스 인스타그램) [이데일리 스타in 김보영 기자] 이데일리가 한 주 간 쏟아진 팝가수 및 빌보드 이슈들을 모아 가볍게 읽을 수 있는 요약 코너를 준비했습니다. 매 주말 핫한 주간 팝소식들을 선정]]></content>
     </entry>
 </feed>
