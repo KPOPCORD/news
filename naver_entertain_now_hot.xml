@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-10-04T13:26:59.215Z</updated>
+    <updated>2021-10-04T14:21:00.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["직장 부조리해서"…서장훈, 1년에 20번 이직한 의뢰인에 분노 "헛소리" ('물어보살')[종합]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003785293</id>
+        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003785293"/>
+        <updated>2021-10-04T14:20:52.518Z</updated>
+        <content type="html"><![CDATA[[스포츠조선닷컴 이우주 기자] '물어보살' 서장훈이 1년에 20번 이직하는 의뢰인에 분노했다. 4일 방송된 KBS조이 예능프로그램 '무엇이든 물어보살'에서는 잦은 이직을 고민하는 의뢰인 부부가 출연했다. 남편은 "최]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최은주 "사업 배신·父 위암으로 술만 마셔→전남친, 수백 빌리고 잠적" ('연애도사')[종합]]]></title>
         <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003785291</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=057&amp;aid=0001611903"/>
         <updated>2021-10-04T11:19:57.502Z</updated>
         <content type="html"><![CDATA[방송인 임보라가 여유로운 근황을 공개했다. 임보라는 4일 오후 자신의 인스타그램에 사진 여러장을 게재했다. 사진 속에는 포근한 니트를 입고 창가 앞에 앉아 있는 그의 모습이 담겨 있다. 커피 한 잔의 여유를 즐기는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[G사 모자 쓰고..심진화, ♥김원효와 장영란 남편 병원 방문 "형부 최고" [스타IN★]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002993520</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002993520"/>
-        <updated>2021-10-04T11:19:57.505Z</updated>
-        <content type="html"><![CDATA[개그우먼 심진화가 장영란의 남편 한창이 운영하는 한방병원을 방문했다. 심진화는 4일 자신의 인스타그램에 "얼마 전 달리기 하다가 발목 삐끗했는데 괜찮다고 생각했는데 좀 아파가지고 방문!!!"이라는 글과 함께 세 장의]]></content>
     </entry>
 </feed>

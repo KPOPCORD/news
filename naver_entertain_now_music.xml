@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-04T13:26:59.217Z</updated>
+    <updated>2021-10-04T14:21:00.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘테마돌’ 퍼플키스, 미니 2집 ‘HIDE & SEEK’ 활동 성료]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001355776</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001355776"/>
+        <updated>2021-10-04T14:20:45.469Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) '테마돌' 퍼플키스(PURPLE KISS)가 미니 2집의 타이틀곡 'Zombie' 활동을 성황리에 마쳤다. 퍼플키스는 지난 3일 SBS '인기가요' 굿바이 무대를 끝으로 4주간의 두 번째]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘미스터트롯의 맛’ 임영웅, 포천 금의환향 영상 100만 뷰 돌파]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001355772</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001355772"/>
+        <updated>2021-10-04T14:20:45.469Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) ‘미스터트롯의 맛’ 속 임영웅의 금의환향 영상이 눈길을 끌고 있다. 지난 2020년 3월 TV조선 유튜브’ 채널에는 “영웅이 포천가요 眞영웅 등장에 떠들썩 [미스터트롯의 맛] 1회 202]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오마이걸 지호, ‘내셔널지호그래픽’]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001355769</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001196067"/>
         <updated>2021-10-04T09:21:57.578Z</updated>
         <content type="html"><![CDATA[싱어송라이터 안예은이 또 한 번 자신만의 색깔을 담은 앨범을 들고 돌아온다. 오는 9일 오후 6시 각종 음원사이트를 통해 안예은의 한글날 기념 발매곡 ‘열 달 아흐레’가 발매된다. 소속사 더블엑스엔터테인먼트 공식 S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔하이픈, 새 앨범 트랙리스트 공개…타이틀곡은 '테임드-대시드']]></title>
-        <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000321937</id>
-        <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000321937"/>
-        <updated>2021-10-04T08:26:27.189Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=김원겸 기자]그룹 엔하이픈이 오는 12일 신곡 ‘테임드-대시드(Tamed-Dashed)’를 들고 컴백한다. 엔하이픈(정원, 희승, 제이, 제이크, 성훈, 선우, 니키)은 4일 0시 공식 SNS를 통해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['44kg' 송가인, 살 빠지고 더 예뻐졌네..시스루도 찰떡 소화 [스타IN★]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002993503</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002993503"/>
-        <updated>2021-10-04T08:26:27.189Z</updated>
-        <content type="html"><![CDATA[가수 송가인은 아름다운 미모를 뽐내며 팬들의 열띤 호응을 얻었다. 송가인은 4일 자신의 인스타그램을 통해 "열린음악회"라는 글과 함께 한 장의 사진을 올렸다. 공개된 사진 속 흰색 시스루 의상을 소화한 송가인은 다양]]></content>
     </entry>
 </feed>
