@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-04T03:23:35.773Z</updated>
+    <updated>2021-10-04T04:29:12.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미스틱루키즈 수현X하람X하루나, 원밀리언과 댄스 협업]]></title>
+        <id>https://entertain.v.daum.net/v/20211004130545833</id>
+        <link href="https://entertain.v.daum.net/v/20211004130545833"/>
+        <updated>2021-10-04T04:28:26.543Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 미스틱루키즈 수현, 하람, 하루나가 압도적인 퍼포먼스로 완성형 그룹에 대한 기대감을 고조시켰다. 미스틱루키즈는 10월 3일 오전 11시 11분 공식 유튜브 채널을 통해 세계적인 댄스 크루 원밀리언 댄스 스튜디오와 협업한 두 번째 퍼포먼스 영상을 게재했다. 해당 영상에선 수현, 하람, 하루나가 빌보드 차트를 휩쓰는 글로벌 랩스타 카디]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["환호성 마음에 와닿아"..비아이, 첫 온라인 콘서트 '131 Live Presents' 성료]]></title>
         <id>https://entertain.v.daum.net/v/20211004121808262</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211004091028181"/>
         <updated>2021-10-04T02:09:48.881Z</updated>
         <content type="html"><![CDATA[[OSEN=선미경 기자] JYP엔터테인먼트(이하 JYP) 소속 신인가수 NiziU(니쥬)가 첫 정규 앨범 'U'(유) 재킷 이미지에서 상큼 발랄한 에너지를 발산했다. 최근 JYP는 공식 홈페이지와 SNS 채널을 통해 NiziU의 정규 1집 'U' 발매 소식과 함께 신보 콘셉트를 미리 엿볼 수 있는 재킷 사진을 공개했다. 지난달 30일 0시에는 추가 이미지를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM, 이수만 관련 뉴스파타 보도 반박 "불법성 없음 이미 확인 받아"]]></title>
-        <id>https://entertain.v.daum.net/v/20211004085509923</id>
-        <link href="https://entertain.v.daum.net/v/20211004085509923"/>
-        <updated>2021-10-04T02:09:48.882Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 김선우기자]SM엔터테인먼트가 뉴스타파의 보도에 대해 입장을 밝혔다. 4일 SM엔터테인먼트 측은 “뉴스타파의 10월 4일자 “조세도피처로 간 한국인들 2021...판도라페이퍼스 ? 뉴스타파” 중 “’K-POP 대부’ 이수만 관련 홍콩법인 무더기 발견”, “이수만과 유령법인의 말리부 별장 ‘매매 콜라보’”보도에 대하여 다음과]]></content>
     </entry>
 </feed>

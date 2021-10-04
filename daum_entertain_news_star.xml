@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-10-04T03:23:35.728Z</updated>
+    <updated>2021-10-04T04:29:12.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남문철 사망, 대장암 투병 끝에 별세]]></title>
+        <id>https://entertain.v.daum.net/v/20211004130235789</id>
+        <link href="https://entertain.v.daum.net/v/20211004130235789"/>
+        <updated>2021-10-04T04:28:37.738Z</updated>
+        <content type="html"><![CDATA[[동아닷컴]  남문철 사망, 대장암 투병 끝에 별세 [공식] 배우 남문철이 별세했다. 향년 50세. 4일 매니지먼트 비케이는 소속 배우 남문철이 이날 오전 6시 20분 지병으로 인해 사망했다고 전했다. 소속사에 따르면 남문철은 생전 대장암 판정을 받고 투병해왔다. 고인의 빈소는 국민건강보험공단일산병원장례식장 10호실에 마련됐으며 발인은 10월 6일(수)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[송종국 은둔생활 근황..홍천 심마니→축구로 활동 재개]]></title>
+        <id>https://entertain.v.daum.net/v/20211004122843351</id>
+        <link href="https://entertain.v.daum.net/v/20211004122843351"/>
+        <updated>2021-10-04T04:28:37.739Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] [종합] 송종국 은둔생활 근황…홍천 심마니→축구로 활동 재개 축구선수 출신 송종국이 은둔생활 근황을 공개했다. 3일 방송된 TV조선 ‘스타다큐 마이웨이’에서는 속세를 떠나 산으로 간 남자, 송종국의 일상이 그려졌다. 강원도 홍천에서 자연인으로 살고 있는 송종국은 이날 방송에서 멋진 뷰를 자랑하는 집을 공개했다. 그는 비에 무너져내린 텐트를 수]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소정 "'싱어게인'은 기회, 만능 보컬 인정받아 기쁘죠"]]></title>
         <id>https://entertain.v.daum.net/v/20211004122002273</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211004104505738"/>
         <updated>2021-10-04T02:09:59.552Z</updated>
         <content type="html"><![CDATA[[스포츠투데이 김나연 기자] SM엔터테인먼트가 이수만 총괄 프로듀서의 페이퍼컴퍼니 관련 보도를 부인했다. 4일 SM엔터테인먼트는 공식입장을 통해 "뉴스타파는 이날 보도를 통해, 이수만 총괄프로듀서가 해외부동산 매입 한도 제한을 회피하기 위하여 홍콩의 페이퍼 컴퍼니를 통하여 미국 부동산을 매입했고, 수상한 홍콩의 페이퍼 컴퍼니들을 실질적으로 지배하고 있다고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['007 노 타임 투 다이' 개봉 첫주 50만 돌파]]></title>
-        <id>https://entertain.v.daum.net/v/20211004103310566</id>
-        <link href="https://entertain.v.daum.net/v/20211004103310566"/>
-        <updated>2021-10-04T02:09:59.558Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스] 강진아 기자 = 액션 블록버스터 영화 '007 노 타임 투 다이'가 개봉 첫 주말 박스오피스 1위를 지키며 누적 관객 50만명을 돌파했다. 4일 영화진흥위원회 영화관입장권 통합전산망에 따르면 '007 노 타임 투 다이'는 전날인 3일 16만2699명의 관객을 모으며 개봉 첫 주 누적 관객 수 56만4268명을 기록했다. 개봉 첫 주말인 지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM "이수만 페이퍼컴퍼니 의혹 사실무근, 법적 조치 취할 것"]]></title>
-        <id>https://entertain.v.daum.net/v/20211004101443252</id>
-        <link href="https://entertain.v.daum.net/v/20211004101443252"/>
-        <updated>2021-10-04T02:09:59.558Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=심언경 기자] SM엔터테인먼트가 이수만 총괄프로듀서가 페이퍼컴퍼니 무더기 설립 의혹을 부인했다. SM엔터테인먼트(이하 SM)는 4일 "뉴스파타가 에스엠의 비자금 또는 이수만 총괄프로듀서의 해외 은닉재산으로 설립, 운영한 의혹이 있다는 취지로 보도한 홍콩 소재 법인들은 미국 이민자인 이수만 총괄프로듀서 아버지 James Heejae Lee]]></content>
     </entry>
 </feed>
