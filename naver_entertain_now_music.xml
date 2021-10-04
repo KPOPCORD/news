@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-04T12:34:22.941Z</updated>
+    <updated>2021-10-04T13:26:59.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오마이걸 지호, ‘내셔널지호그래픽’]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001355769</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001355769"/>
+        <updated>2021-10-04T13:26:45.248Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 오마이걸 지호의 미모가 눈길을 끈다. 4일 오마이걸 지호의 인스타그램에는 그의 사진이 다수 게재됐다. 사진 속 지호는 모처에서 다양한 포즈를 취하고 있다. 그의 남다른 미모는 공식 팬클럽]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위아이, 공식 팬클럽 루아이(RUi) 1기 모집 [공식]]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001355767</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002993503"/>
         <updated>2021-10-04T08:26:27.189Z</updated>
         <content type="html"><![CDATA[가수 송가인은 아름다운 미모를 뽐내며 팬들의 열띤 호응을 얻었다. 송가인은 4일 자신의 인스타그램을 통해 "열린음악회"라는 글과 함께 한 장의 사진을 올렸다. 공개된 사진 속 흰색 시스루 의상을 소화한 송가인은 다양]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[골든차일드, 오늘(4일) 스페셜 라이브..컴백 스포일러 대방출]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004485164</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004485164"/>
-        <updated>2021-10-04T08:26:27.189Z</updated>
-        <content type="html"><![CDATA[[OSEN=선미경 기자] 그룹 골든차일드(Golden Child)가 컴백을 하루 앞두고 스페셜 라이브로 글로벌 팬들과 만났다. 골든차일드는 4일 오후 1시에 네이버 브이 라이브(V LIVE)를 통해 스페셜 라이브를]]></content>
     </entry>
 </feed>
