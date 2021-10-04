@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-04T10:24:52.303Z</updated>
+    <updated>2021-10-04T11:20:07.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[러브스토리·독보적 음색·시적 노랫말.. '가을 감성' 적신다]]></title>
+        <id>https://entertain.v.daum.net/v/20211004195516898</id>
+        <link href="https://entertain.v.daum.net/v/20211004195516898"/>
+        <updated>2021-10-04T11:19:19.386Z</updated>
+        <content type="html"><![CDATA[완연한 가을로 들어선 가운데 우즈(왼쪽), 폴킴 등 남성 가수들의 가을 노래 발표가 잇따르고 있다.  가을이 깊어지면서 계절 감성을 담은 노래들이 잇달아 발표되고 있다. 앞서 신곡을 선보인 황치열과 양요섭, 유승우, 김필에 이어 우즈와 폴킴, KCM, 임창정도 출사표를 던졌다. 그룹 유니크(UNIQ)로 데뷔해 솔로가수로 활동 반경을 넓히고 있는 우즈(]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에이티즈, '이터널 션샤인' MV 천만뷰 돌파..자체 최단 시간]]></title>
         <id>https://entertain.v.daum.net/v/20211004191104484</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211004110408087"/>
         <updated>2021-10-04T02:09:48.864Z</updated>
         <content type="html"><![CDATA[[OSEN=이승훈 기자] '테마돌' 퍼플키스(PURPLE KISS)가 미니 2집의 타이틀곡 'Zombie' 활동을 성황리에 마쳤다.&nbsp; 퍼플키스는 지난 3일 SBS '인기가요' 굿바이 무대를 끝으로 4주간의 두 번째 미니앨범 'HIDE &amp; SEEK'(하이드 앤드 시크)의 타이틀곡 'Zombie' 활동을 마무리했다.&nbsp; 지난달 8일 'HIDE &amp; SEEK'를 발]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ITZY, 다채로운 웹 콘텐츠로 물오른 예능감 발산..블랙홀 매력]]></title>
-        <id>https://entertain.v.daum.net/v/20211004103330570</id>
-        <link href="https://entertain.v.daum.net/v/20211004103330570"/>
-        <updated>2021-10-04T02:09:48.865Z</updated>
-        <content type="html"><![CDATA[[OSEN=선미경 기자] 그룹 ITZY(있지)가 다양한 웹 예능 콘텐츠를 통해 물오른 예능감을 발산하고 환상적인 시너지를 뽐냈다.&nbsp; 지난 9월 24일 첫 정규 앨범 'CRAZY IN LOVE'(크레이지 인 러브)를 발표한 ITZY는 맹활약을 펼치며 대세 행보를 이어가고 있다. 데뷔곡 '달라달라'를 시작으로 'ICY'(아이씨), 'WANNABE'(워너비),]]></content>
     </entry>
 </feed>
