@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-03T15:23:40.689Z</updated>
+    <updated>2021-10-04T02:10:36.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘첫 임신’ 제니퍼 로렌스, 낙태금지 항의 집회서 배 나온 모습 최초 공개[해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003541877</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003541877"/>
+        <updated>2021-10-04T02:10:35.756Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]아카데미 여우주연상에 빛나는 제니퍼 로렌스가 임신 모습을 최초 공개했다. 제니퍼 로렌스는 지난 토요일 워싱턴 D.C에서 열린 ‘낙태 정의를 위한 집회’에 에이미 슈머와 함께 참석했다. 체]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘조니 뎁 딸’ 릴리 로즈 뎁, 드라마서 위켄드와 연인 사이[해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003541868</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003541868"/>
+        <updated>2021-10-04T02:10:35.757Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘조니 뎁 딸’로 유명한 릴리 로즈 뎁(22)이 새 드라마에서 팝스타 위켄드(31)와 연인 사이로 출연한다. 최근 데드라인에 따르면, 릴리 로즈 뎁은 HBO가 제작하는 드라마 ‘더 아이돌]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['007 본드걸' 아나 디 아르마스, 흘러내릴 듯한 드레스 자태]]></title>
         <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004651962</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000820373"/>
         <updated>2021-10-03T02:06:52.392Z</updated>
         <content type="html"><![CDATA[방탄소년단 정국, 제이홉이 2일 오후 온라인 생중계로 진행된 2021 더팩트 뮤직 어워즈(TMA) 시상식에 참석해 멋진 무대를 선보이고 있다. 사진=더팩트뮤직어워즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄 뷔 '심쿵해' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000820372</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000820372"/>
-        <updated>2021-10-03T02:06:52.393Z</updated>
-        <content type="html"><![CDATA[방탄소년단 뷔가 2일 오후 온라인 생중계로 진행된 2021 더팩트 뮤직 어워즈(TMA) 시상식에 참석해 멋진 무대를 선보이고 있다. 사진=더팩트뮤직어워즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단 지민 '부드러운 미소' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000820371</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000820371"/>
-        <updated>2021-10-03T02:06:52.395Z</updated>
-        <content type="html"><![CDATA[방탄소년단 지민이 2일 오후 온라인 생중계로 진행된 2021 더팩트 뮤직 어워즈(TMA) 시상식에 참석해 멋진 무대를 선보이고 있다. 사진=더팩트뮤직어워즈]]></content>
     </entry>
 </feed>
