@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-10-04T09:22:12.903Z</updated>
+    <updated>2021-10-04T10:24:52.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['두 번째 남편' 오승아-한기웅, 아들 태양과 함께 귀국]]></title>
+        <id>https://entertain.v.daum.net/v/20211004191917550</id>
+        <link href="https://entertain.v.daum.net/v/20211004191917550"/>
+        <updated>2021-10-04T10:24:21.400Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = '두 번째 남편' 오승아와 한기웅이 아들과 함께 귀국했다. 4일 오후에 방송된 MBC 일일드라마 '두 번째 남편'(극본 서현주/연출 김칠봉)에서는 4년 만에 한국으로 돌아온 윤재경(오승아 분), 문상혁(한기웅 분)의 모습이 담겼다. 봉선화는 모범수로 가석방 심사대상자에 뽑혔고, 외국으로 떠났던 윤재민(차서원 분)과 윤재경]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['달리와 감자탕' 김민재X박규영, 훈훈한 촬영 비하인드 스틸 공개]]></title>
+        <id>https://entertain.v.daum.net/v/20211004191912546</id>
+        <link href="https://entertain.v.daum.net/v/20211004191912546"/>
+        <updated>2021-10-04T10:24:21.408Z</updated>
+        <content type="html"><![CDATA[[스포츠투데이 현혜선 기자] ‘달리와 감자탕’ 김민재, 박규영, 권율, 황희, 황보라, 우희진, 안세하 등 극 중 맹활약 중배우들의 화기애애한 촬영장 비하인드 스틸이 공개됐다. 함박웃음부터 진지한 순간까지 다채로운 모습을 통해 꿀케미 비결을 엿볼 수 있다. KBS2 수목드라마 ‘달리와 감자탕’(극본 손은혜·연출 이정섭) 측은 4일 진무학(김민재)과 김달리(]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['홍천기' 김유정, 아버지 발작에 어용 복원 작업에 의문 품나]]></title>
+        <id>https://entertain.v.daum.net/v/20211004185211319</id>
+        <link href="https://entertain.v.daum.net/v/20211004185211319"/>
+        <updated>2021-10-04T10:24:21.408Z</updated>
+        <content type="html"><![CDATA[[스포츠투데이 현혜선 기자] ‘홍천기’ 김유정이 어용 복원 작업에 의문을 품게 될까. SBS 월화드라마 ‘홍천기’(극본 하은·연출 장태유)가 2막을 시작하며 더욱 흥미로워질 후반부 전개를 예고했다. 고화원에 들어온 홍천기(김유정)가 마왕을 봉인할 영종 어용 복원 프로젝트에 참여하게 됐고, 어용을 둘러싼 진실들이 금방이라도 터질 듯 아슬아슬한 긴장감을 드리우]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유희열, 유재석 영입한 이유 "'안테나' 아티스트 중 히트곡 가장 많아"]]></title>
         <id>https://entertain.v.daum.net/v/20211004181612944</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211004162702262"/>
         <updated>2021-10-04T08:26:10.060Z</updated>
         <content type="html"><![CDATA[[OSEN=하수정 기자]&nbsp;영화배우 브랜드평판 2021년 10월 빅데이터 분석결과, 1위 이정재 2위 정해인 3위 위하준 순으로 분석됐다. 한국기업평판연구소는 2021년 9월 4일부터 2021년 10월 4일까지 대한민국 소비자들이 사랑하는 영화배우 50명의 브랜드 빅데이터 203,316,792개를 소비자와 브랜드와 관계를 분류하여 빅데이터 평판 알고리즘 분석]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스타쉽 공식입장 "크래비티 추행 피해→경찰 조사, 선처無"]]></title>
-        <id>https://entertain.v.daum.net/v/20211004162422227</id>
-        <link href="https://entertain.v.daum.net/v/20211004162422227"/>
-        <updated>2021-10-04T08:26:10.062Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] 그룹 크래비티(세림, 앨런, 정모, 우빈, 원진, 민희, 형준, 태영, 성민) 멤버가 신원미상의 한 여성에게 추행을 당했다. 크래비티의 소속사 스타쉽엔터테인먼트는 "금일(3일) 당사 사옥에 신원미상자가 무단침입하여 소속 아티스트와 접촉한 불미스러운 사건이 있었다"라고 상황을 설명했다. 이어 "지문인식 등 시정장치가 되어있는 당사 출입문을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배우 10년 차, 김재경의 원동력]]></title>
-        <id>https://entertain.v.daum.net/v/20211004161607118</id>
-        <link href="https://entertain.v.daum.net/v/20211004161607118"/>
-        <updated>2021-10-04T07:21:14.202Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 황서연 기자] 데뷔 13년 차, 배우 생활만 10년 차를 맞은 김재경을 화상 인터뷰를 통해 만났다. 김재경은 여전히 에너지가 넘쳤고, 자신의 일을 즐기며 사랑하는 사람 특유의 긍정적인 기운이 화면 너머로도 고스란히 느껴졌다. tvN 드라마 '악마판사'는 가상의 디스토피아 대한민국을 배경을, 전 국민이 참여하는 라이브 법정 쇼와 함께 등장한 판]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투, 첫 단독콘서트 성료..전 세계 126개 지역 모아와 호흡]]></title>
-        <id>https://entertain.v.daum.net/v/20211004161119035</id>
-        <link href="https://entertain.v.daum.net/v/20211004161119035"/>
-        <updated>2021-10-04T07:21:14.203Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=김원겸 기자]그룹 투모로우바이투게더가 데뷔 후 2년 7개월을 담아낸 첫 단독 콘서트 '액트:보이'를 성황리에 마무리했다. 투모로우바이투게더(수빈, 연준, 범규, 태현, 휴닝카이)는 지난 3일 첫 단독 콘서트 ‘투모로우바이투게더 라이브 &lt;액트:보이&gt;’를 온라인으로 개최했다. 다섯 멤버는 다채로운 장르의 25곡을 생동감 넘치는 라이브와 퍼포]]></content>
     </entry>
 </feed>

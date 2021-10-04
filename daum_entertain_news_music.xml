@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-04T09:22:12.907Z</updated>
+    <updated>2021-10-04T10:24:52.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에이티즈, '이터널 션샤인' MV 천만뷰 돌파..자체 최단 시간]]></title>
+        <id>https://entertain.v.daum.net/v/20211004191104484</id>
+        <link href="https://entertain.v.daum.net/v/20211004191104484"/>
+        <updated>2021-10-04T10:24:11.679Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 강민경 기자] 에이티즈 /사진제공=KQ엔터테인먼트그룹 에이티즈(ATEEZ)가 '이터널 션샤인' 뮤직비디오 조회수 천만 돌파까지 최단 시간 기록을 경신했다. 4일 소속사 KQ엔터테인먼트에 따르면 이날 공개된 에이티즈의 미니 7집 '제로 : 피버 파트 3(ZERO : FEVER Part.3)'의 더블 타이틀곡 '이터널 선샤인(Eternal Suns]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이티즈, '이터널 선샤인' 뮤비 공개 18시간 30분 만에 1000만뷰 돌파..자체 최단 시간]]></title>
+        <id>https://entertain.v.daum.net/v/20211004190722465</id>
+        <link href="https://entertain.v.daum.net/v/20211004190722465"/>
+        <updated>2021-10-04T10:24:11.680Z</updated>
+        <content type="html"><![CDATA[[OSEN=이승훈 기자] 에이티즈(ATEEZ)가 뮤직비디오 조회수 천만 돌파까지 최단 시간 기록을 경신했다. 4일&nbsp;0시 공개된 에이티즈의 미니&nbsp;7집&nbsp;‘제로&nbsp;:&nbsp;피버 파트&nbsp;3(ZERO : FEVER Part.3)’의 더블 타이틀곡&nbsp;‘이터널 선샤인(Eternal Sunshine)’&nbsp;뮤직비디오가 약&nbsp;18시간&nbsp;30분 만인&nbsp;4일 오후&nbsp;6시&nbsp;30분에 조회수 천만 뷰를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅 팬클럽, 미혼부모 및 장애아동들 위해 기부 실천]]></title>
         <id>https://entertain.v.daum.net/v/20211004181816966</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211004103330570"/>
         <updated>2021-10-04T02:09:48.865Z</updated>
         <content type="html"><![CDATA[[OSEN=선미경 기자] 그룹 ITZY(있지)가 다양한 웹 예능 콘텐츠를 통해 물오른 예능감을 발산하고 환상적인 시너지를 뽐냈다.&nbsp; 지난 9월 24일 첫 정규 앨범 'CRAZY IN LOVE'(크레이지 인 러브)를 발표한 ITZY는 맹활약을 펼치며 대세 행보를 이어가고 있다. 데뷔곡 '달라달라'를 시작으로 'ICY'(아이씨), 'WANNABE'(워너비),]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ITZY, 글로벌한 블랙홀 매력..물 오른 예능감 'Z세대 취향 저격']]></title>
-        <id>https://entertain.v.daum.net/v/20211004102719454</id>
-        <link href="https://entertain.v.daum.net/v/20211004102719454"/>
-        <updated>2021-10-04T02:09:48.866Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 강민경 기자] ITZY /사진제공=JYP엔터테인먼트걸그룹 ITZY(있지)가 물오른 예능감을 발산하고 환상적인 시너지를 뽐냈다. ITZY는 지난 9월 24일 첫 정규 앨범 'CRAZY IN LOVE'(크레이지 인 러브)를 발표, 맹활약을 펼치며 대세 행보를 이어가고 있다. 데뷔곡 '달라달라'를 시작으로 'ICY'(아이씨), 'WANNABE'(워너]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['갯마을 차차차'도 꿰찬 B1A4 산들, 믿고듣는 신흥 OST 강자 우뚝]]></title>
-        <id>https://entertain.v.daum.net/v/20211004101232225</id>
-        <link href="https://entertain.v.daum.net/v/20211004101232225"/>
-        <updated>2021-10-04T02:09:48.868Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 B1A4 산들이 신흥 OST 강자로 자리매김했다. 10월 3일 오후 6시 산들이 참여한 tvN 토일드라마 ‘갯마을 차차차’ 6번째 OST ‘내 기억 속에 남아있는 그대 모습은’가 발매돼 뜨거운 사랑을 받고 있다. 산들의 로맨틱한 감성이 고스란히 담긴 ‘내 기억 속에 남아있는 그대 모습은’은 듣는 순간 기분 좋아지는 포크 사운드]]></content>
     </entry>
 </feed>
