@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-04T11:20:07.323Z</updated>
+    <updated>2021-10-04T12:34:22.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인피니트 남우현, 콘서트 '식목일 ON' 성료..19일 컴백]]></title>
+        <id>https://entertain.v.daum.net/v/20211004203141315</id>
+        <link href="https://entertain.v.daum.net/v/20211004203141315"/>
+        <updated>2021-10-04T12:33:47.962Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김수진 기자] 그룹 인피니트(INFINITE)의 남우현이 온택트 콘서트를 성황리에 마치고 새 앨범으로 돌아온다. 남우현은 지난 2일과 3일 양일간 '남우현 온택트 콘서트 [식목일 ON](NAM WOO HYUN ONTACT CONCERT [植木日 ON], 이하 '식목일 ON')'을 개최하고 전 세계 팬들과 만났다. '식목일 ON'은 지난 8월]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[러브스토리·독보적 음색·시적 노랫말.. '가을 감성' 적신다]]></title>
         <id>https://entertain.v.daum.net/v/20211004195516898</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211004110804150"/>
         <updated>2021-10-04T02:09:48.863Z</updated>
         <content type="html"><![CDATA[[OSEN=이승훈 기자] SM의&nbsp;DJ&nbsp;아티스트 레이든(Raiden)이&nbsp;10월&nbsp;11일 첫 미니앨범 ‘Love Right Back’(러브 라이트 백)을 발표한다. 이번 앨범은 레이든이&nbsp;2017년 싱글 ‘Heart Of Steel’로 데뷔한 후 처음 발매하는 피지컬 앨범으로,&nbsp;타이틀 곡 ‘Love Right Back’을 비롯한 다채로운 장르의 총&nbsp;5곡이 수록되어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퍼플키스, 음반+음원 차트 다잡았다..앞으로가 더 기대되는 '4세대 걸그룹 우량주']]></title>
-        <id>https://entertain.v.daum.net/v/20211004110408087</id>
-        <link href="https://entertain.v.daum.net/v/20211004110408087"/>
-        <updated>2021-10-04T02:09:48.864Z</updated>
-        <content type="html"><![CDATA[[OSEN=이승훈 기자] '테마돌' 퍼플키스(PURPLE KISS)가 미니 2집의 타이틀곡 'Zombie' 활동을 성황리에 마쳤다.&nbsp; 퍼플키스는 지난 3일 SBS '인기가요' 굿바이 무대를 끝으로 4주간의 두 번째 미니앨범 'HIDE &amp; SEEK'(하이드 앤드 시크)의 타이틀곡 'Zombie' 활동을 마무리했다.&nbsp; 지난달 8일 'HIDE &amp; SEEK'를 발]]></content>
     </entry>
 </feed>
