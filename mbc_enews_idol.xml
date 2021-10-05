@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 05:20:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 07:21:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘주간아이돌’ 엔플라잉, 아이유 ‘내 손을 잡아’ 어쿠스틱 버전 선사]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/327047</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/327047</guid>
+            <pubDate>Tue, 05 Oct 2021 07:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/327047">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/05/WDgK18myjYxs637690448756965823.jpg" alt="‘주간아이돌’ 엔플라잉, 아이유 ‘내 손을 잡아’ 어쿠스틱 버전 선사">        <div class="text-box">            <p class="summary">‘주간아이돌’ 엔플라잉, 아이유 ‘내 손을 잡아’ 어쿠스틱 버전 선사</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/05/WDgK18myjYxs637690448756965823.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트라이비 미니앨범 수록곡 ‘-18’, MBC 방송 부적격 판정]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/327034</link>
@@ -86,14 +94,6 @@
             <pubDate>Mon, 04 Oct 2021 06:26:04 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/326963">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/04/uK8L85Jwn5yj637689550741278223.jpg" alt="‘비스’ 김숙, 빅스 레오 연인 상황극에 당황 “능글능글해졌다”">        <div class="text-box">            <p class="summary">‘비스’ 김숙, 빅스 레오 연인 상황극에 당황 “능글능글해졌다”</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/04/uK8L85Jwn5yj637689550741278223.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오마이걸 효정, ‘승리요정’ 등극! ‘오세~노세~ 평상주택’ 최종 선택 (홈즈)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/326948</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/326948</guid>
-            <pubDate>Mon, 04 Oct 2021 03:22:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/326948">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/04/eUzTh0xuV6gx637689438015814555.JPG" alt="오마이걸 효정, ‘승리요정’ 등극! ‘오세~노세~ 평상주택’ 최종 선택 (홈즈)">        <div class="text-box">            <p class="summary">오마이걸 효정, ‘승리요정’ 등극! ‘오세~노세~ 평상주택’ 최종 선택 (홈즈)</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/04/eUzTh0xuV6gx637689438015814555.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
