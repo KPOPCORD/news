@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-05T12:34:27.138Z</updated>
+    <updated>2021-10-05T13:27:33.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김희재, 10월 말 첫 팬콘서트 개최 "조만간 만나요 희랑"]]></title>
+        <id>https://entertain.v.daum.net/v/20211005222032419</id>
+        <link href="https://entertain.v.daum.net/v/20211005222032419"/>
+        <updated>2021-10-05T13:26:58.917Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 트로트 가수 김희재가 팬들과의 만남을 갖는다. 김희재는 오는 10월 30, 31일 양일간 올림픽공원 올림픽홀에서 첫 번째 팬콘서트 '별, 그대'를 개최한다. 김희재는 이번 공연을 통해 다양한 레퍼토리의 무대를 선보이는 것은 물론, 그동안 팬들에게 전하지 못했던 감사한 마음을 표현하는 자리가 될 예정이다. 앞서 김희재는 지난 9월 2]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우디 고차일드, 오늘 현역 입대 "씩씩하게 다녀올 것"]]></title>
         <id>https://entertain.v.daum.net/v/20211005210100308</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211005180506357"/>
         <updated>2021-10-05T09:21:15.864Z</updated>
         <content type="html"><![CDATA[※알고 들으면 쓸모있는 신곡. '알쓸신곡'이 오늘의 노래를 소개합니다. 매일 쏟아지는 음원 속에서 모르고 놓치면 후회할 신곡을 추천해드립니다.  우즈(WOODZ, 조승연)가 사랑의 마지막 순간을 처절하게 노래한다. 5일 우즈가 각종 음원 사이트를 통해 세 번째 미니 앨범 'ONLY LOVERS LEFT (온리 러버스 레프트)'를 발매했다. 사랑이란 감정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제시, '스트릿 우먼 파이터'와 만났다..12일 깜짝 컬래버 발표]]></title>
-        <id>https://entertain.v.daum.net/v/20211005180308305</id>
-        <link href="https://entertain.v.daum.net/v/20211005180308305"/>
-        <updated>2021-10-05T09:21:15.864Z</updated>
-        <content type="html"><![CDATA[[OSEN=선미경 기자] 가수 제시(Jessi)와 '스트릿 우먼 파이터'가 만났다. 피네이션(P NATION)은 5일 공식 SNS를 통해 오는 12일 제시의 컴백을 알리는 티저 이미지를 공개했다. 앞서 두 차례의 'COMING UP NEXT'로 예고된 피네이션의 다음 컴백 주자는 제시였다. 이번 티저 이미지 속 달고나에는 제시의 얼굴과 케이블채널 Mnet]]></content>
     </entry>
 </feed>
