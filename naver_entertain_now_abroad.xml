@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-05T04:29:36.247Z</updated>
+    <updated>2021-10-05T05:20:39.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['심슨 가족', 할로윈 특집에서 '기생충'→'더 링' 패러디 [엑's 할리우드]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001355979</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001355979"/>
+        <updated>2021-10-05T05:20:39.071Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 미국의 인기 애니메이션 '심슨 가족'(The Simpsons)의 할로윈 특집에서 봉준호 감독의 '기생충'을 패러디한 에피소드가 공개될 예정이다. 4일(현지시간) 미국 버라이어티는 '심슨]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['베컴 아들' 브루클린, 1조원 보유 자산가 딸과 다정한 데이트 즐겨]]></title>
+        <id>https://entertain.naver.com/now/read?oid=022&amp;aid=0003625276</id>
+        <link href="https://entertain.naver.com/now/read?oid=022&amp;aid=0003625276"/>
+        <updated>2021-10-05T05:20:39.074Z</updated>
+        <content type="html"><![CDATA[왼쪽부터 브루클린, 펠츠. 브루클린 베컴 인스타그램 캡처 유명 축구선수 출신 데이비드 베컴(영국)의 아들로 널리 알려진 브루클린이 자신의 약혼녀인 미국 출신 배우 니컬라 펠츠와 달달한 데이트를 가졌다. 5일(한국시간]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[128년만에 美 영화·TV 제작진, 대규모 파업 승인]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010751755</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000495095"/>
         <updated>2021-10-05T02:04:58.344Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 패리스 잭슨 근황이 공개됐다. 스플래쉬닷컴은 10월 4일(현지시간) 프랑스 파리에서 포착된 패리스 잭슨 모습을 공개했다. 패리스 잭슨은 파리 패션위크 참석을 위해 파리에 체류 중이다. 그는 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오징어 게임' 이정재 등 주역들, 미국 '지미 팰런쇼' 출연]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010750526</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010750526"/>
-        <updated>2021-10-04T09:22:12.203Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스] 강진아 기자 = 넷플릭스 오리지널 시리즈 '오징어 게임'의 이정재를 비롯한 주역들이 미국 인기 토크쇼 '지미 팰런쇼'에 출연한다. 4일 넷플릭스 등에 따르면 '오징어 게임'의 주역들이 미국 NBC 간]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더 웨일즈, 유쾌한 포즈 ‘호잇~’ [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000820752</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000820752"/>
-        <updated>2021-10-04T08:26:40.541Z</updated>
-        <content type="html"><![CDATA[‘슈퍼밴드2’ 더 웨일즈(양장세민, 김준서, 김한겸, 정석훈, 조기훈)가 포즈를 취하고 있다. JTBC ‘슈퍼밴드2’(연출 김형중, 김선형) 최종 6팀의 프런트맨은 4일 최종회이자 파이널 무대 생방송에 참여한다. 이]]></content>
     </entry>
 </feed>

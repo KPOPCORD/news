@@ -2,7 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-10-05T04:29:36.237Z</updated>
+    <updated>2021-10-05T05:20:39.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['심슨 가족', 할로윈 특집에서 '기생충'→'더 링' 패러디]]></title>
+        <id>https://entertain.v.daum.net/v/20211005141850666</id>
+        <link href="https://entertain.v.daum.net/v/20211005141850666"/>
+        <updated>2021-10-05T05:20:16.444Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 미국의 인기 애니메이션 '심슨 가족'(The Simpsons)의 할로윈 특집에서 봉준호 감독의 '기생충'을 패러디한 에피소드가 공개될 예정이다. 4일(현지시간) 미국 버라이어티는 '심슨 가족' 시즌33의 할로윈 특집인 '트리 하우스 오브 호러'(Treehouse of Horror)에서 '기생충'과 '밤비', '더 링'을 패러디]]></content>
+    </entry>
 </feed>
