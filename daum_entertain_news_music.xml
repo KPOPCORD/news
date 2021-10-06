@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-06T10:24:51.383Z</updated>
+    <updated>2021-10-06T11:19:10.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김희재, 첫 콘서트 '별, 그대' 개최.. 티켓전쟁 예고]]></title>
+        <id>https://entertain.v.daum.net/v/20211006194731681</id>
+        <link href="https://entertain.v.daum.net/v/20211006194731681"/>
+        <updated>2021-10-06T11:18:27.195Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이혜미 기자] '미스터트롯' 김희재가 팬들과의 만남을 갖는다. 트로트 가수 김희재가 오는 30일과 31일 양일간 올림픽공원 올림픽홀에서 첫 번째 팬콘서트 '별, 그대'를 개최한다. 이날 공연은 그동안 김희재를 응원해준 팬들 희랑별과의 시간으로 꾸며질 전망이다. 김희재는 이번 공연을 통해 다양한 레퍼토리의 무대를 선보이는 것은 물론, 그동안 팬들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["가슴 웅장해져"..'코로나 완치' 엔플라잉, 다시 뭉친 순간]]></title>
         <id>https://entertain.v.daum.net/v/20211006185006191</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211006173009586"/>
         <updated>2021-10-06T09:21:29.666Z</updated>
         <content type="html"><![CDATA[[OSEN=이승훈 기자]&nbsp;그룹 여자친구(소원, 예린, 은하, 유주, 신비, 엄지) 출신 은하, 신비, 엄지가 해체 5개월 만에 3인조 그룹으로 재데뷔한다.&nbsp; 오늘(6일) 오후 빅플래닛메이드는 "여자친구 출신 은하, 신비, 엄지와 최근 전속계약을 체결했다. 3인조 그룹으로 다양한 활동을 펼칠 예정이다"라고 밝혔다. 이어 빅플래닛메이드는 "은하, 신비, 엄지가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["난기류 같았던 코로나 확진" 엔플라잉, 위로 전하는 '소버']]></title>
-        <id>https://entertain.v.daum.net/v/20211006172014141</id>
-        <link href="https://entertain.v.daum.net/v/20211006172014141"/>
-        <updated>2021-10-06T08:25:31.649Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 밴드 엔플라잉이 난기류를 거쳐 더 굳건해진 활동을 예고했다.엔플라잉의 정규 1집 리패키지 앨범 ‘터뷸런스(TURBULENCE)’ 발매 기념 토크쇼가 온라인으로 6일 진행됐다.이날 오후 6시 공개되는 ‘터뷸런스’는 트라우마를 이겨내고자 하늘로 향했던 지난 앨범과는 달리 완전히 아물지 않은 상처들과 하늘의 난기류(TURBULENCE)로 인해 미]]></content>
     </entry>
 </feed>
