@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-06T08:26:18.279Z</updated>
+    <updated>2021-10-06T09:22:14.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[권소현 '우아한 레드카펫 드레스' [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000821262</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000821262"/>
+        <updated>2021-10-06T09:22:13.731Z</updated>
+        <content type="html"><![CDATA[제26회 부산국제영화제(BIFF) 개막식이 6일 오후 부산 해운대구 영화의 전당에서 열렸다. 배우 권소현이 레드카펫 행사에 참석하고 있다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[권소현 '배우로 찾은 부산국제영화제' [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000821261</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000821261"/>
+        <updated>2021-10-06T09:22:13.734Z</updated>
+        <content type="html"><![CDATA[제26회 부산국제영화제(BIFF) 개막식이 6일 오후 부산 해운대구 영화의 전당에서 열렸다. 배우 권소현이 레드카펫 행사에 참석하고 있다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[권소현 '떨리는 레드카펫' [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000821260</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000821260"/>
+        <updated>2021-10-06T09:22:13.735Z</updated>
+        <content type="html"><![CDATA[제26회 부산국제영화제(BIFF) 개막식이 6일 오후 부산 해운대구 영화의 전당에서 열렸다. 배우 권소현이 레드카펫 행사에 참석하고 있다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[배창호 감독 '영화제에 빠질 수 없죠' [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000821258</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000821258"/>
+        <updated>2021-10-06T09:22:13.736Z</updated>
+        <content type="html"><![CDATA[제26회 부산국제영화제(BIFF) 개막식이 6일 오후 부산 해운대구 영화의 전당에서 열렸다. 배창호 감독이 레드카펫 행사에 참석하고 있다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정지영 감독 '마스크 벗고 시원하게~' [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000821257</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000821257"/>
+        <updated>2021-10-06T09:22:13.737Z</updated>
+        <content type="html"><![CDATA[제26회 부산국제영화제(BIFF) 개막식이 6일 오후 부산 해운대구 영화의 전당에서 열렸다. 정지영 감독이 레드카펫 행사에 참석하고 있다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['오징어 게임', 이번엔 인도에서 표절 주장…"돈 많이 써서 성공한 것" [엑's 해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001356535</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001356535"/>
+        <updated>2021-10-06T09:22:13.740Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 넷플릭스 오리지널 시리즈 '오징어 게임'에 대해 또다시 표절을 주장하는 목소리가 나왔다. 이번엔 인도다. 지난 4일 인도 매체 인디안 익스프레스는 '오징어 게임'이 지난 2009년 개봉한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘지미 팰런쇼’의 팰런 이정재처럼 달고나 직접 핥았다]]></title>
         <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005641363</id>
@@ -136,48 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000821220</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000821220"/>
         <updated>2021-10-06T07:21:41.040Z</updated>
-        <content type="html"><![CDATA[제26회 부산국제영화제(BIFF) 개막작 '행복의 나라로' 기자간담회가 6일 오후 부산 해운대구 영화의 전당 중극장에서 열렸다. 임상수 감독이 기자간담회를 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조한철 '행복의 나라로 기대해주세요' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000821218</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000821218"/>
-        <updated>2021-10-06T07:21:41.040Z</updated>
-        <content type="html"><![CDATA[제26회 부산국제영화제(BIFF) 개막작 '행복의 나라로' 기자간담회가 6일 오후 부산 해운대구 영화의 전당 중극장에서 열렸다. 배우 조한철이 기자간담회를 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팝스타 아델 6년만에 신곡 '이지 온 미' 발표]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010754978</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010754978"/>
-        <updated>2021-10-06T07:21:41.043Z</updated>
-        <content type="html"><![CDATA[기사내용 요약 15일 신곡 '이지 온 미' 공개 예정 6년 만의 4집에 세계 팬들 기대 [서울=뉴시스]임하은 수습 기자 = 팝스타 아델이 6년 만에 첫 신곡 음반을 발매한다. BBC 등 외신에 따르면 오는 15일 아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박해일 '반갑습니다' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000821213</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000821213"/>
-        <updated>2021-10-06T07:21:41.043Z</updated>
-        <content type="html"><![CDATA[제26회 부산국제영화제(BIFF) 개막작 '행복의 나라로' 기자간담회가 6일 오후 부산 해운대구 영화의 전당 중극장에서 열렸다. 배우 박해일이 기자간담회를 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박해일 '최민식 선배와 연기 했죠' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000821212</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000821212"/>
-        <updated>2021-10-06T07:21:41.043Z</updated>
-        <content type="html"><![CDATA[제26회 부산국제영화제(BIFF) 개막작 '행복의 나라로' 기자간담회가 6일 오후 부산 해운대구 영화의 전당 중극장에서 열렸다. 배우 박해일이 기자간담회를 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최민식 '강력 카리스마' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000821210</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000821210"/>
-        <updated>2021-10-06T07:21:41.044Z</updated>
-        <content type="html"><![CDATA[제26회 부산국제영화제(BIFF) 개막작 '행복의 나라로' 기자간담회가 6일 오후 부산 해운대구 영화의 전당 중극장에서 열렸다. 배우 최민식이 기자간담회를 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIFF 개막작 '행복의 나라로' 연출한 임상수 감독 [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000821209</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000821209"/>
-        <updated>2021-10-06T07:21:41.045Z</updated>
         <content type="html"><![CDATA[제26회 부산국제영화제(BIFF) 개막작 '행복의 나라로' 기자간담회가 6일 오후 부산 해운대구 영화의 전당 중극장에서 열렸다. 임상수 감독이 기자간담회를 갖고 있다.]]></content>
     </entry>
 </feed>
