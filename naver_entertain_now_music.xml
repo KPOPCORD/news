@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-06T12:34:56.823Z</updated>
+    <updated>2021-10-06T13:40:22.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[챈슬러, 개코와 첫 듀오…타이틀곡 ‘Midnight’ 의기투합]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000821398</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000821398"/>
+        <updated>2021-10-06T13:40:08.052Z</updated>
+        <content type="html"><![CDATA[올라운더 뮤지션 챈슬러와 개코가 뭉친다. 챈슬러는 6일 커넥트엔터테인먼트를 통해 새 앨범 'Chancellor'의 컨셉 포토를 공개하면서 개코와 스페셜 컬래버레이션을 암시했다. R&amp;B와 힙합을 대표하는 두 뮤지션의]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크래비티, ‘베니 비디 비치’ 티저 속 몽환 비주얼 끝판왕]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000821396</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000821396"/>
+        <updated>2021-10-06T13:40:08.052Z</updated>
+        <content type="html"><![CDATA[그룹 크래비티(CRAVITY)의 ‘VENI VIDI VICI(베니 비디 비치)’ 스페셜 비디오 오픈이 하루 앞으로 다가왔다. 크래비티는 지난 5일 공식 SNS를 통해 ‘VENI VIDI VICI’의 첫 번째 스페셜]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가을 하면 장민호]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002994349</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002994271"/>
         <updated>2021-10-06T09:21:59.201Z</updated>
         <content type="html"><![CDATA[그룹 몬스타엑스(MONSTA X) 주헌이 생일을 맞은 가운데, 글로벌 팬들의 열띤 축하를 받았다. 소속사 스타쉽엔터테인먼트는 6일 몬스타엑스 공식 트위터에 '#오늘은 너의 날이야 주헌', 'HBDtoJOOHONEY']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔플라잉, 건강하고 진솔한 이 밴드의 청춘 위로법 '터뷸런스' [종합]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004613035</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004613035"/>
-        <updated>2021-10-06T09:21:59.202Z</updated>
-        <content type="html"><![CDATA[그룹 엔플라잉(N. Flying)이 건강한 에너지로 청춘들을 위로한다. 엔플라잉(이승협 차훈 김재현 유회승 서동성)은 6일 오후 첫 번째 정규 리패키지 앨범 '터뷸런스(TURBULENCE)' 발매 기념 온라인 컴백]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허각, 11년간 몸 담았던 플레이엠 떠난다]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010755322</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010755322"/>
-        <updated>2021-10-06T09:21:59.203Z</updated>
-        <content type="html"><![CDATA[기사내용 요약 전속계약 종료…"언제나 행복 하기를" [서울=뉴시스]안소윤 인턴 기자 = 가수 허각이 소속사 플레이엠엔터테인먼트와의 전속계약을 종료했다. 6일 플레이엠 엔터테인먼트 측은 "오는 8일 소속 아티스트 허각]]></content>
     </entry>
 </feed>
