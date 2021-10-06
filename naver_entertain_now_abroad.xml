@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-06T14:21:32.713Z</updated>
+    <updated>2021-10-06T15:23:49.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나 이겨낸 부산국제영화제 개막식 [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000821427</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000821427"/>
+        <updated>2021-10-06T15:23:48.260Z</updated>
+        <content type="html"><![CDATA[제26회 부산국제영화제(BIFF) 개막식이 6일 오후 부산 해운대구 영화의 전당에서 열렸다. 개막식이 진행되고 있다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2년 만에 열린 부산국제영화제 [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000821426</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000821426"/>
+        <updated>2021-10-06T15:23:48.261Z</updated>
+        <content type="html"><![CDATA[제26회 부산국제영화제(BIFF) 개막식이 6일 오후 부산 해운대구 영화의 전당에서 열렸다. 개막작이 상영되고 있다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[류서빈 '미스코리아 미모' [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000821424</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000821424"/>
+        <updated>2021-10-06T15:23:48.262Z</updated>
+        <content type="html"><![CDATA[제26회 부산국제영화제(BIFF) 개막식이 6일 오후 부산 해운대구 영화의 전당에서 열렸다. 미스코리아 류서빈이 레드카펫 행사에 참석하고 있다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이주영 'S라인 몸매 뽐내는 포즈' [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000821423</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000821423"/>
+        <updated>2021-10-06T15:23:48.263Z</updated>
+        <content type="html"><![CDATA[제26회 부산국제영화제(BIFF) 개막식이 6일 오후 부산 해운대구 영화의 전당에서 열렸다. 배우 이주영이 레드카펫 행사에 참석하고 있다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이주영 '레드카펫 모델 워킹' [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000821422</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000821422"/>
+        <updated>2021-10-06T15:23:48.265Z</updated>
+        <content type="html"><![CDATA[제26회 부산국제영화제(BIFF) 개막식이 6일 오후 부산 해운대구 영화의 전당에서 열렸다. 배우 이주영이 레드카펫 행사에 참석하고 있다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['7억 전신성형' 60대 데미 무어, 30대 딸 옆 '망사 드레스' 자태]]></title>
         <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004653416</id>
@@ -144,40 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000821368"/>
         <updated>2021-10-06T12:34:56.081Z</updated>
         <content type="html"><![CDATA[제26회 부산국제영화제(BIFF) 개막식이 6일 오후 부산 해운대구 영화의 전당에서 열렸다. 배우 예지원이 레드카펫 행사에 참석하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부산에 뜬 봉준호 감독 [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000821366</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000821366"/>
-        <updated>2021-10-06T12:34:56.081Z</updated>
-        <content type="html"><![CDATA[제26회 부산국제영화제(BIFF) 개막식이 6일 오후 부산 해운대구 영화의 전당에서 열렸다. 배우 봉준호 감독이 레드카펫 행사에 참석하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봉준호 '직진 할까요?' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000821365</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000821365"/>
-        <updated>2021-10-06T12:34:56.082Z</updated>
-        <content type="html"><![CDATA[제26회 부산국제영화제(BIFF) 개막식이 6일 오후 부산 해운대구 영화의 전당에서 열렸다. 배우 봉준호가 레드카펫 행사에 참석하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박소담-송중기 '비프의 연인' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000821364</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000821364"/>
-        <updated>2021-10-06T12:34:56.083Z</updated>
-        <content type="html"><![CDATA[제26회 부산국제영화제(BIFF) 개막식이 6일 오후 부산 해운대구 영화의 전당에서 열렸다. 배우 박소담, 송중기가 레드카펫 행사에 참석하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송중기 '미소 홀릭' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000821363</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000821363"/>
-        <updated>2021-10-06T12:34:56.083Z</updated>
-        <content type="html"><![CDATA[제26회 부산국제영화제(BIFF) 개막식이 6일 오후 부산 해운대구 영화의 전당에서 열렸다. 배우 송중기가 레드카펫 행사에 참석하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전여빈 '매혹의 블랙 드레스' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000821362</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000821362"/>
-        <updated>2021-10-06T12:34:56.084Z</updated>
-        <content type="html"><![CDATA[제26회 부산국제영화제(BIFF) 개막식이 6일 오후 부산 해운대구 영화의 전당에서 열렸다. 배우 전여빈이 레드카펫 행사에 참석하고 있다.]]></content>
     </entry>
 </feed>
