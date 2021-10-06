@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-06T13:40:22.197Z</updated>
+    <updated>2021-10-06T14:21:32.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여자친구 은하·신비·엄지, 빅플래닛메이드와 전속계약…“3인조 활동”]]></title>
+        <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0001896101</id>
+        <link href="https://entertain.naver.com/now/read?oid=016&amp;aid=0001896101"/>
+        <updated>2021-10-06T14:21:17.360Z</updated>
+        <content type="html"><![CDATA[[헤럴드경제=고승희 기자] 그룹 여자친구 출신 은하, 신비, 엄지가 신생 엔터테인먼트 기업 빅플래닛메이드(Big Planet Made, BPM)에서 새 출발을 시작한다. 빅플래닛메이드는 ”은하, 신비, 엄지와 최근]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[챈슬러, 개코와 첫 듀오…타이틀곡 ‘Midnight’ 의기투합]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000821398</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001356532"/>
         <updated>2021-10-06T09:21:59.200Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) 그룹 엔플라잉(N.Flying)가 갑작스럽게 마주한 난기류도 극복할 수 있는 위로를 담아 컴백했다. 6일 오후 엔플라잉(이승협·차훈·김재현·유회승·서동승) 첫 번째 정규 리패키지 앨범 ']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[생일 맞은 몬스타엑스 주헌, 글로벌 올라운더 아티스트가 되기까지[★FOCUS]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002994271</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002994271"/>
-        <updated>2021-10-06T09:21:59.201Z</updated>
-        <content type="html"><![CDATA[그룹 몬스타엑스(MONSTA X) 주헌이 생일을 맞은 가운데, 글로벌 팬들의 열띤 축하를 받았다. 소속사 스타쉽엔터테인먼트는 6일 몬스타엑스 공식 트위터에 '#오늘은 너의 날이야 주헌', 'HBDtoJOOHONEY']]></content>
     </entry>
 </feed>
