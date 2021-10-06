@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-06T09:22:14.519Z</updated>
+    <updated>2021-10-06T10:24:51.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["가슴 웅장해져"..'코로나 완치' 엔플라잉, 다시 뭉친 순간]]></title>
+        <id>https://entertain.v.daum.net/v/20211006185006191</id>
+        <link href="https://entertain.v.daum.net/v/20211006185006191"/>
+        <updated>2021-10-06T10:24:08.661Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) 그룹 엔플라잉(N.Flying)가 불안한 청춘들에게 전하는 따뜻한 위로를 선사한다.&nbsp; 엔플라잉(이승협·차훈·김재현·유회승·서동승)은 6일 오후 첫 번째 정규 리패키지 앨범 '터뷸런스(TURBULENCE)' 발매 기념 컴백 토크쇼를 온라인 생중계로 진행했다.&nbsp; 엔플라잉 신보 '터뷸런스'는 현실에 방황하고 혼란스러워하는 청춘들에게]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['다크돌' 픽시, 세계관 맛집에 더해진 '여섯 보컬'의 조화]]></title>
+        <id>https://entertain.v.daum.net/v/20211006185002189</id>
+        <link href="https://entertain.v.daum.net/v/20211006185002189"/>
+        <updated>2021-10-06T10:24:08.661Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 그룹 픽시가 남다른 세계관 콘셉트와 더불어 여섯 멤버의 목소리 조화를 차별점으로 내세웠다.&nbsp; 픽시(엘라, 샛별, 수아, 디아, 로라, 다정)의 두 번째 미니앨범 'TEMPTATION' 발매 기념 온라인 쇼케이스가 6일 오후 진행됐다. 픽시의 두 번째 미니앨범 'TEMPTATION'은 'With My Wings', 'BRAVERY]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['코로나19 완치' 엔플라잉, 위로와 공감 전한다]]></title>
         <id>https://entertain.v.daum.net/v/20211006180739966</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211006172014141"/>
         <updated>2021-10-06T08:25:31.649Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 밴드 엔플라잉이 난기류를 거쳐 더 굳건해진 활동을 예고했다.엔플라잉의 정규 1집 리패키지 앨범 ‘터뷸런스(TURBULENCE)’ 발매 기념 토크쇼가 온라인으로 6일 진행됐다.이날 오후 6시 공개되는 ‘터뷸런스’는 트라우마를 이겨내고자 하늘로 향했던 지난 앨범과는 달리 완전히 아물지 않은 상처들과 하늘의 난기류(TURBULENCE)로 인해 미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["결과보단 과정이 중요" 엔플라잉의 이유있는 '롱런']]></title>
-        <id>https://entertain.v.daum.net/v/20211006171124790</id>
-        <link href="https://entertain.v.daum.net/v/20211006171124790"/>
-        <updated>2021-10-06T08:25:31.649Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김한길 기자] 밴드 엔플라잉(N.Flying, 이승협 차훈 김재현 유회승 서동성)이 또 하나의 청춘 공감송을 들고 전격 컴백했다. 엔플라잉의 정규 1집 리패키지 앨범 '터뷸런스(TURBULENCE)' 발매 기념 온라인 컴백 토크쇼가 6일 오후 4시 유튜브 채널을 통해 생중계됐다. '터뷸런스'는 현실에 방황하고 혼란스러워하는 청춘들에게 '언]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["K밴드 긍지 있어" 엔플라잉, '난기류' 만나 더 강해진 위로법]]></title>
-        <id>https://entertain.v.daum.net/v/20211006170611612</id>
-        <link href="https://entertain.v.daum.net/v/20211006170611612"/>
-        <updated>2021-10-06T08:25:31.657Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 밴드 엔플라잉이 신종 코로나바이러스 감염증(코로나19) 완치 후 새 앨범으로 돌아왔다. 이들은 건강해진 모습으로 청춘을 향한 위로 메시지를 노래한다. 엔플라잉(이승협 차훈 김재현 유회승 서동성)은 6일 오후 4시 정규 1집 리패키지 앨범 '터뷸런스'(TURBULENCE) 발매 기념 토크쇼를 온라인으로 개최했다. 엔플라잉은]]></content>
     </entry>
 </feed>
