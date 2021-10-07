@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-07T12:37:48.280Z</updated>
+    <updated>2021-10-07T13:30:59.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['유스케' 솔라 "'인질'보고 납치 당하는 상상…문별에게 암호 알려줘"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010758240</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010758240"/>
+        <updated>2021-10-07T13:30:45.578Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]안소윤 인턴 기자 = 그룹 '마마무' 솔라가 2주 연속 '스케치북'을 찾았다. 8일 오후 11시 25분 방송되는 KBS 2TV '유희열의 스케치북'에는 '유스케X뮤지션' 112번째 노래의 주인공 솔라가]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정청래 “문화예술위원회, 위원 공모 과정서 현직 가수협회장 배제”]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000766101</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000766101"/>
+        <updated>2021-10-07T13:30:45.591Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 한국문화예술위원회의 폐쇄적인 운영이 한국의 문화예술 분야 발전을 방해하고 있다는 지적이다. 더불어민주당 정청래 의원(서울 마포을, 국회 문화체육관광위원회)은 7일, 한국문화예술위원회가 지난해 진행된 문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최성봉, 거짓투병 의혹에 반박…"민사소송으로 대응할 것"]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010758194</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003484271"/>
         <updated>2021-10-07T10:24:38.565Z</updated>
         <content type="html"><![CDATA[[헤럴드POP=박서연 기자]트로트 가수 이찬원이 힐링송으로 찾아왔다. 오늘(7일) 오후 6시 이찬원의 첫 미니앨범 '..선물' 전곡 음원과 타이틀곡 '힘을 내세요' 뮤직비디오가 베일을 벗었다. 이찬원은 '..선물'을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['엠카운트다운' NCT127 vs ITZY, 10월 첫째 주 1위 맞대결]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000496662</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000496662"/>
-        <updated>2021-10-07T10:24:38.569Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 그룹 NCT127, ITZY가 1위 트로피를 놓고 대결한다. 10월 7일 방송된 Mnet '엠카운트다운'에서는 10월 첫째 주 1위 후보를 공개했다. 공개된 1위 후보로는 NCT127 '스티커]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[채연, 18일 새 앨범 발매... 원조 섹시퀸의 귀환[공식]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001196413</id>
-        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001196413"/>
-        <updated>2021-10-07T09:20:13.773Z</updated>
-        <content type="html"><![CDATA[한류 섹시 디바 채연의 새 앨범이 발매된다. 7일 오전 채연의 소속사 차이엔터테인먼트는 “채연이 오는 18일 새 앨범으로 컴백한다. 이번 앨범은 그동안 독보적인 댄스 퍼포먼스로 대중들을 매료시켰던 채연이 2018년]]></content>
     </entry>
 </feed>
