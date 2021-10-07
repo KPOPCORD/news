@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-10-07T06:26:11.926Z</updated>
+    <updated>2021-10-07T07:21:28.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美요리 리얼리티쇼 우승자, 백혈병으로 사망..향년 17세]]></title>
+        <id>https://entertain.v.daum.net/v/20211007153156502</id>
+        <link href="https://entertain.v.daum.net/v/20211007153156502"/>
+        <updated>2021-10-07T07:21:07.208Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 미국 요리 리얼리티 경쟁쇼 '찹드 주니어'와 '톱 셰프 주니어'의 우승자인 풀러 골드스미스가 18세 생일을 며칠 앞두고 세상을 떠나 애도 물결이 이어지고 있다. 6일(현지시간) 뉴욕 포스트의 보도에 따르면 미국 앨라배마 태생인 풀러 골드스미스는&nbsp;17세의 나이에 백혈병(혈액암 일종)으로 사망했다. 프로그램 제작사 매지컬 엘브스 측은&nbsp;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[앤드류 로이드 웨버 "영화 '캣츠' 감상 후 충격..난생 처음 강아지 입양"]]></title>
         <id>https://entertain.v.daum.net/v/20211007152417226</id>
