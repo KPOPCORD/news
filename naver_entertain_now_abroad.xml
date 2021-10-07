@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-07T11:19:01.834Z</updated>
+    <updated>2021-10-07T12:37:48.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[브리트니 머피 죽음 둘러싼 미스터리, 남편 사이먼 몬잭과 관계 있나]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000496715</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000496715"/>
+        <updated>2021-10-07T12:37:47.500Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 가수 겸 배우 브리트니 머피(Brittany Anne Murphy)가 사망한 지 12년이 흘렀지만 아직 죽음을 둘러싼 미스터리가 남아있다. 10월 6일 미국 연예 주간지 피플(PEOPLE)은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박성우 ‘여유로운 무대 매너’ [MK포토]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000821693</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004487295"/>
         <updated>2021-10-07T10:24:50.733Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 영화 '클루리스', '우리 방금 결혼했어요' 등으로 큰 인기를 얻었던 할리우드 배우 브리트니 머피의 2009년 미스터리한 죽음은 팬들을 당혹스럽게 만든다. 곧 공개되는 HBO 맥스 다큐멘터리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이희준 '완벽해' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000821644</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000821644"/>
-        <updated>2021-10-07T10:24:50.734Z</updated>
-        <content type="html"><![CDATA[제 30회 부일영화상 레드카펫 행사가 7일 오후 부산 해운대구 벡스코 오디토리움에서 열렸다. 배우 이희준이 레드카펫에 참석하고 있다.]]></content>
     </entry>
 </feed>

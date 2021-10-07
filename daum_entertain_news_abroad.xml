@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-10-07T11:19:01.830Z</updated>
+    <updated>2021-10-07T12:37:48.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[브리트니 머피 죽음 둘러싼 미스터리, 남편 사이먼 몬잭과 관계 있나]]></title>
+        <id>https://entertain.v.daum.net/v/20211007212121734</id>
+        <link href="https://entertain.v.daum.net/v/20211007212121734"/>
+        <updated>2021-10-07T12:37:23.360Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 가수 겸 배우 브리트니 머피(Brittany Anne Murphy)가 사망한 지 12년이 흘렀지만 아직 죽음을 둘러싼 미스터리가 남아있다. 10월 6일 미국 연예 주간지 피플(PEOPLE)은 HBO Max 14에서 방영되는 새 다큐멘터리 'What Happened, Brittany Murphy?'를 소개하며 브리트니 머피와 그의 남]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[32세 톱여배우의 기이한 죽음.."그녀의 남편이 수상하다"]]></title>
         <id>https://entertain.v.daum.net/v/20211007182542448</id>
