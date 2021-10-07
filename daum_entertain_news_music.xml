@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-07T03:23:45.436Z</updated>
+    <updated>2021-10-07T04:28:56.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단 슈가, 솔로곡 '대취타' 뮤비 3억뷰 돌파]]></title>
+        <id>https://entertain.v.daum.net/v/20211007131414512</id>
+        <link href="https://entertain.v.daum.net/v/20211007131414512"/>
+        <updated>2021-10-07T04:28:15.480Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 백지은 기자] 그룹 방탄소년단 슈가의 '대취타' 뮤직비디오가 3억뷰를 돌파했다. 방탄소년단 슈가가 지난해 5월 발표한 두 번째 믹스테이프 'D-2'의 타이틀곡 '대취타' 뮤직비디오 유튜브 조회수가 7일 오전 9시 35분 경 3억 건을 넘어섰다. 슈가의 강렬한 래핑이 인상적인 '대취타'는 트랩 비트(Trap Beat)와 한국 전통]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[노틸러스X이영현, 17일 듀엣곡 발표..적재 참여]]></title>
+        <id>https://entertain.v.daum.net/v/20211007130252171</id>
+        <link href="https://entertain.v.daum.net/v/20211007130252171"/>
+        <updated>2021-10-07T04:28:15.481Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 가수 노틸러스가 이영현과 듀엣곡을 발표하는 가운데 국내 정상급 세션이 대거 참여해 기대를 모으고 있다. 노틸러스는 오는 17일 오후 6시 주요 음원사이트를 통해 이영현과 함께한 신곡 ‘마주 앉아서(Sad Ending)’를 공개한다. 노틸러스의 신곡 ‘마주 앉아서(Sad Ending)’는 노을의 ‘늦은 밤 너의 집 앞 골목길’, 시아준수 ‘사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스우파' 로잘린, 이번엔 '댄서 하대' 폭로글 등장..논란 메이커 되나]]></title>
         <id>https://entertain.v.daum.net/v/20211007115807237</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211007104744775"/>
         <updated>2021-10-07T02:08:56.460Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;'콘셉돌'&nbsp;픽시(PIXY)가 두 번째 미니앨범 'TEMPTATION'을 통해 5개월 만에 초고속 컴백하며 팬심 사냥에 나선다.&nbsp; 픽시(엘라, 샛별, 수아, 디아, 로라, 다정)는 오늘(7일) 0시 공식 SNS 및 유튜브 채널을 통해 두 번째 미니앨범의 타이틀곡 '중독(Addicted)' 뮤직비디오를 선공개한 가운데 오후 6시 각종]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블리처스, 'SEAT-BELT' 컴백 쇼케이스 성료..전세계 60만 팬들과 소통]]></title>
-        <id>https://entertain.v.daum.net/v/20211007104130499</id>
-        <link href="https://entertain.v.daum.net/v/20211007104130499"/>
-        <updated>2021-10-07T02:08:56.460Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 공미나 기자] /사진제공=블리처스 공식 트위터 방송 화면 캡처그룹 블리처스(BLITZERS)가 컴백 쇼케이스를 열고 60만 글로벌 팬들과 만났다. 블리처스(진화, 고유, 주한, 샤, 크리스, 루탄, 우주)는 지난 6일 오후 6시 각종 온라인 음원 사이트를 통해 두 번째 EP 'SEAT-BELT(싯-벨트)'를 발매하고 5개월 만에 컴백했다. 이날]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DJ 레이든, 미니 1집 발매 기념 11일 생방송 진행..작업 비하인드 대방출 예고]]></title>
-        <id>https://entertain.v.daum.net/v/20211007102804908</id>
-        <link href="https://entertain.v.daum.net/v/20211007102804908"/>
-        <updated>2021-10-07T02:08:56.461Z</updated>
-        <content type="html"><![CDATA[[OSEN=이승훈 기자] DJ&nbsp;아티스트 레이든(Raiden)이 오는&nbsp;11일 첫 번째 미니앨범 발매 기념 생방송을 펼친다. 레이든은&nbsp;10월&nbsp;11일 오후&nbsp;8시부터 유튜브&nbsp;ScreaM Records&nbsp;채널을 통해 생방송 ‘Raiden&nbsp;‘Love Right Back’: On the stage’(레이든 ‘러브 라이트 백’:&nbsp;온 더 스테이지)를 진행할 예정이어서 음악]]></content>
     </entry>
 </feed>
