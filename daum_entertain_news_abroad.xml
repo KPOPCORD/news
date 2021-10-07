@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-10-07T05:20:24.882Z</updated>
+    <updated>2021-10-07T06:26:11.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[앤드류 로이드 웨버 "영화 '캣츠' 감상 후 충격..난생 처음 강아지 입양"]]></title>
+        <id>https://entertain.v.daum.net/v/20211007152417226</id>
+        <link href="https://entertain.v.daum.net/v/20211007152417226"/>
+        <updated>2021-10-07T06:25:48.926Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 뮤지컬 '캣츠'의 원작자인 앤드류 로이드 웨버가 영화 '캣츠'에 대해 언급했다. 6일(현지시간) 미국 버라이어티는 앤드류 로이드 웨버와의 인터뷰를 공개했다. 앤드류 로이드 웨버는 이번 인터뷰에서 2019년에 개봉한 영화 '캣츠'에 대해 언급했다. 그는 본래 '캣츠'는 앰블린 엔터테인먼트에서 제작을 맡고 스티븐 스필버그가 연출하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문은주 감독, 소설 원작 '프랭클리 인 러브' 연출]]></title>
         <id>https://entertain.v.daum.net/v/20211007094507000</id>

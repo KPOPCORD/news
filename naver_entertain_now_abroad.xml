@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-07T05:20:24.896Z</updated>
+    <updated>2021-10-07T06:26:11.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[앤드류 로이드 웨버 "영화 '캣츠' 감상 후 충격…난생 처음 강아지 입양" [엑's 할리우드]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001357001</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001357001"/>
+        <updated>2021-10-07T06:26:11.198Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 뮤지컬 '캣츠'의 원작자인 앤드류 로이드 웨버가 영화 '캣츠'에 대해 언급했다. 6일(현지시간) 미국 버라이어티는 앤드류 로이드 웨버와의 인터뷰를 공개했다. 앤드류 로이드 웨버는 이번 인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["달고나 할짝?"… 지미 팰런, '오징어게임' 이정재 패러디]]></title>
+        <id>https://entertain.naver.com/now/read?oid=417&amp;aid=0000741503</id>
+        <link href="https://entertain.naver.com/now/read?oid=417&amp;aid=0000741503"/>
+        <updated>2021-10-07T06:26:11.200Z</updated>
+        <content type="html"><![CDATA[미국 NBC 유명 토크쇼 '더 투나잇 쇼 스타링 지미 팰런(The Tonight Show Starring Jimmy Fallon)' 토크쇼 진행자인 지미 팰런이 '오징어게임' 이정재 패러디를 해 화제를 모으고 있다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美 유명 애니 '심슨가족', 아카데미 4관왕 '기생충' 패러디]]></title>
         <id>https://entertain.naver.com/now/read?oid=052&amp;aid=0001649369</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000821379"/>
         <updated>2021-10-06T12:34:56.062Z</updated>
         <content type="html"><![CDATA[제26회 부산국제영화제(BIFF) 개막식이 6일 오후 부산 해운대구 영화의 전당에서 열렸다. 배우 김규리가 레드카펫 행사에 참석하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[변요한 '수트 핏 카리스마' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000821378</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000821378"/>
-        <updated>2021-10-06T12:34:56.062Z</updated>
-        <content type="html"><![CDATA[제26회 부산국제영화제(BIFF) 개막식이 6일 오후 부산 해운대구 영화의 전당에서 열렸다. 배우 변요한이 레드카펫 행사에 참석하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[변요한 '심쿵' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000821375</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000821375"/>
-        <updated>2021-10-06T12:34:56.062Z</updated>
-        <content type="html"><![CDATA[제26회 부산국제영화제(BIFF) 개막식이 6일 오후 부산 해운대구 영화의 전당에서 열렸다. 배우 변요한이 레드카펫 행사에 참석하고 있다.]]></content>
     </entry>
 </feed>
