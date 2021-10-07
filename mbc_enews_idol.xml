@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 07:21:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 08:26:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ITZY "'로꼬', 신나는 퍼포먼스곡", 청취자 "베트남에서 ITZY 대박" (컬투쇼)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/327264</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/327264</guid>
+            <pubDate>Thu, 07 Oct 2021 08:25:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/327264">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/07/e938fe58-3441-47f3-bcae-373478ae837d.jpg" alt="ITZY " '로꼬',="" 신나는="" 퍼포먼스곡",="" 청취자="" "베트남에서="" itzy="" 대박"="" (컬투쇼)"="">        <div class="text-box">            <p class="summary">ITZY "'로꼬', 신나는 퍼포먼스곡", 청취자 "베트남에서 ITZY 대박" (컬투쇼)</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/07/e938fe58-3441-47f3-bcae-373478ae837d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에스파 "이수만 선생님이 춤 디렉팅, '새비지' 안무 직접 제안" (정희)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/327260</link>
@@ -86,14 +94,6 @@
             <pubDate>Thu, 07 Oct 2021 02:08:44 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/327234">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/07/fG6v51xwe67K637692001677556363.jpg" alt="아이콘, '블립' 10월 신규 아티스트 선정 " 확고한="" 대중성·실력="" 보유""="">        <div class="text-box">            <p class="summary">아이콘, '블립' 10월 신규 아티스트 선정 "확고한 대중성·실력 보유"</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/07/fG6v51xwe67K637692001677556363.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 슈가, '대취타' MV 3억뷰 돌파]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/327228</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/327228</guid>
-            <pubDate>Thu, 07 Oct 2021 02:08:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/327228">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/07/20IIsBpP06GA637691985075098803.jpg" alt="방탄소년단 슈가, '대취타' MV 3억뷰 돌파">        <div class="text-box">            <p class="summary">방탄소년단 슈가, '대취타' MV 3억뷰 돌파</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/07/20IIsBpP06GA637691985075098803.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
