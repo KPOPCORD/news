@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-07T02:09:37.670Z</updated>
+    <updated>2021-10-07T03:23:45.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 유명 애니 '심슨가족', 아카데미 4관왕 '기생충' 패러디]]></title>
+        <id>https://entertain.naver.com/now/read?oid=052&amp;aid=0001649369</id>
+        <link href="https://entertain.naver.com/now/read?oid=052&amp;aid=0001649369"/>
+        <updated>2021-10-07T03:23:44.643Z</updated>
+        <content type="html"><![CDATA[미국의 유명 애니매이션 '심슨가족'(The Simpsons)에서 봉준호 감독의 영화 '기생충'을 패러디 할 예정이다. 지난 4일 해외 유명 매체는 보도를 통해 '심슨가족'이 할로윈을 맞아 다양한 패러디를 선보일 것이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中공청단·언론 "오징어게임 추리닝 50년 전부터 中서 유행…우리가 원조"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010756429</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010756429"/>
+        <updated>2021-10-07T03:23:44.645Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 中언론 "한국언론 이번에 상대 잘못 골라" [서울=뉴시스] 문예성 기자 = 중국에서 넷플릭스 시리즈 ‘오징어 게임’ 등장인물들이 입었던 추리닝을 베껴 판매하고 있다는 지적에 대해 중국 관영 매체에 이어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문은주 감독, 소설 원작 '프랭클리 인 러브' 연출 [엑's 할리우드]]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001356868</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000821375"/>
         <updated>2021-10-06T12:34:56.062Z</updated>
         <content type="html"><![CDATA[제26회 부산국제영화제(BIFF) 개막식이 6일 오후 부산 해운대구 영화의 전당에서 열렸다. 배우 변요한이 레드카펫 행사에 참석하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[변요한 '여심 설렌다' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000821374</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000821374"/>
-        <updated>2021-10-06T12:34:56.062Z</updated>
-        <content type="html"><![CDATA[제26회 부산국제영화제(BIFF) 개막식이 6일 오후 부산 해운대구 영화의 전당에서 열렸다. 배우 변요한이 레드카펫 행사에 참석하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오윤아 '몸매 드러낸 섹시 드레스' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000821373</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000821373"/>
-        <updated>2021-10-06T12:34:56.062Z</updated>
-        <content type="html"><![CDATA[제26회 부산국제영화제(BIFF) 개막식이 6일 오후 부산 해운대구 영화의 전당에서 열렸다. 배우 오윤아가 레드카펫 행사에 참석하고 있다.]]></content>
     </entry>
 </feed>
