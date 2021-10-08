@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-08T12:34:35.998Z</updated>
+    <updated>2021-10-08T13:26:32.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[블리처스, 비주얼→퍼포먼스 美쳤다]]></title>
+        <id>https://entertain.v.daum.net/v/20211008215612445</id>
+        <link href="https://entertain.v.daum.net/v/20211008215612445"/>
+        <updated>2021-10-08T13:25:47.296Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김수진 기자] 그룹 블리처스(BLITZERS)가 강렬한 존재감을 남기며 컴백을 완료했다. 블리처스(진화, 고유, 주한, 샤, 크리스, 루탄, 우주)는 8일 오후 방송된 KBS 2TV '뮤직뱅크'에 출연해 두 번째 EP 'SEAT-BELT (싯-벨트)' 타이틀곡 '실수 좀 할게' 무대를 선보였다. 첫 번째 EP를 통해 'CHECK-IN(체크-인)']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[골든차일드, 'DDARA'로 화려한 컴백..젠틀+파워]]></title>
         <id>https://entertain.v.daum.net/v/20211008212733039</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211008165501925"/>
         <updated>2021-10-08T08:26:05.569Z</updated>
         <content type="html"><![CDATA[그룹 트와이스가 정규앨범으로 컴백한다. JYP엔터테인먼트는 8일 "트와이스가 오는 11월 12일 오후 2시(미국 동부시간 시준 0시)에 정규 3집 '포뮬러 오브 러브: O+T=&lt;3(Formula of Love: O+T=&lt;3)'를 발매한다"고 밝혔다. 지난 6월 발표한 미니 10집 '테이스트 오브 러브(Taste of Love)' 이후 약 5개월 만의 국내]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에버글로우 이유X시현X미아X온다 '불후의 명곡' 출격..9일 방송]]></title>
-        <id>https://entertain.v.daum.net/v/20211008165409893</id>
-        <link href="https://entertain.v.daum.net/v/20211008165409893"/>
-        <updated>2021-10-08T08:26:05.569Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 윤상근 기자] /사진제공=위에화엔터테인먼트 걸그룹 에버글로우(EVERGLOW) 멤버 이유 시현 미아 온다가 '불후의 명곡'에 출격한다. 이유 시현 미아 온다는 오는 9일 방송되는 KBS 2TV '불후의 명곡-프리한 아나운서' 특집에 패널로 출연해 자리를 빛낸다. 이날 '불후의 명곡'은 방송 3사 대표 프리 아나운서들이 다양한 매력으로 명곡을]]></content>
     </entry>
 </feed>
