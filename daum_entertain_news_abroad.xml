@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-10-07T15:21:42.925Z</updated>
+    <updated>2021-10-08T02:09:19.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아델 "45kg 뺐다고 욕하는 여자들한테 상처받아"]]></title>
+        <id>https://entertain.v.daum.net/v/20211008095602425</id>
+        <link href="https://entertain.v.daum.net/v/20211008095602425"/>
+        <updated>2021-10-08T02:08:57.823Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 세계적인 팝스타&nbsp;아델(33)이&nbsp;자신의 급격한 체중 감량을 두고 잔인한 말을 내뱉는 이들이 여성이라는 사실에 실망했다고 말했다. 아델은 최근 발행된 잡지 '보그'와의 인터뷰에서&nbsp;"내 몸은 내&nbsp;모든 경력에서 가장 많이 언급되고 있다"라고 전했다.&nbsp;2020년 초, 아델은 2년 동안 운동한 후 약 100 파운드(45kg)를 감량했다고 밝혔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[야마우치 스즈란, SKB48 졸업 발표 "골프 티칭 꿈 이루기 위해"]]></title>
         <id>https://entertain.v.daum.net/v/20211008001354463</id>
@@ -46,12 +53,5 @@
         <link href="https://entertain.v.daum.net/v/20211007152417226"/>
         <updated>2021-10-07T06:25:48.926Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 뮤지컬 '캣츠'의 원작자인 앤드류 로이드 웨버가 영화 '캣츠'에 대해 언급했다. 6일(현지시간) 미국 버라이어티는 앤드류 로이드 웨버와의 인터뷰를 공개했다. 앤드류 로이드 웨버는 이번 인터뷰에서 2019년에 개봉한 영화 '캣츠'에 대해 언급했다. 그는 본래 '캣츠'는 앰블린 엔터테인먼트에서 제작을 맡고 스티븐 스필버그가 연출하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문은주 감독, 소설 원작 '프랭클리 인 러브' 연출]]></title>
-        <id>https://entertain.v.daum.net/v/20211007094507000</id>
-        <link href="https://entertain.v.daum.net/v/20211007094507000"/>
-        <updated>2021-10-07T02:09:15.907Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) '아이 엠 우먼'으로 인지도를 쌓은 한국계 감독 문은주가 '프랭클리 인 러브'(Frankly in Love)의 감독으로 결정됐다. 6일(현지시간) 미국 데드라인은 문은주 감독이 데이비드 윤 작가의 동명의 영어덜트 소설을 원작으로 하는 '프랭클리 인 러브'의 감독으로 결정됐다고 단독보도했다. '프랭클리 인 러브'는 고등학교 졸업]]></content>
     </entry>
 </feed>
