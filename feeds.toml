@@ -30,8 +30,9 @@ entrySelector = "ul.list_news li"
 titleSelector = "a.link_txt"
 linkSelector = "a.link_txt"
 contentSelector = "p.desc_thumb"
-waitForSelector = "ul.list_news"
+waitForSelector = "ul.list_news li"
 onFail = "stale"
+timeout = 180
 
 [daum_entertain_news_star]
 title = "다음 연예 ─ 뉴스 ─ 스타"
@@ -40,8 +41,9 @@ entrySelector = "ul.list_news li"
 titleSelector = "a.link_txt"
 linkSelector = "a.link_txt"
 contentSelector = "p.desc_thumb"
-waitForSelector = "ul.list_news"
+waitForSelector = "ul.list_news li"
 onFail = "stale"
+timeout = 180
 
 [daum_entertain_news_abroad]
 title = "다음 연예 ─ 뉴스 ─ 해외"
@@ -50,8 +52,9 @@ entrySelector = "ul.list_news li"
 titleSelector = "a.link_txt"
 linkSelector = "a.link_txt"
 contentSelector = "p.desc_thumb"
-waitForSelector = "ul.list_news"
+waitForSelector = "ul.list_news li"
 onFail = "stale"
+timeout = 180
 
 [naver_entertain_now_music]
 title = "네이버 TV연예 ─ 최신뉴스 ─ 뮤직"
