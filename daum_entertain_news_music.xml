@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-12T12:32:57.344Z</updated>
+    <updated>2021-10-12T13:25:07.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우즈 '더쇼'서 솔로 데뷔 후 첫 1위 "무즈 사랑합니다"]]></title>
+        <id>https://entertain.v.daum.net/v/20211012220721201</id>
+        <link href="https://entertain.v.daum.net/v/20211012220721201"/>
+        <updated>2021-10-12T13:24:37.760Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 김노을 기자] 아티스트 우즈(WOODZ, 조승연)가 솔로 데뷔 후 첫 1위를 차지했다. 우즈는 10월 12일 방송된 SBS MTV ‘더쇼’에서 세 번째 미니앨범 ‘ONLY LOVERS LEFT (온리 러버스 레프트)’ 타이틀곡 ‘WAITING (웨이팅)’으로 솔로 데뷔 후 첫 1위에 올랐다. 이날 우즈는 ‘SEL_Flex’ 코너를 통해 신곡 ‘W]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['더쇼' 노라조 '고민은 배송만 늦출 뿐'으로 유쾌 에너지 선사]]></title>
+        <id>https://entertain.v.daum.net/v/20211012213338510</id>
+        <link href="https://entertain.v.daum.net/v/20211012213338510"/>
+        <updated>2021-10-12T13:24:37.760Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 김노을 기자] ‘대세 듀오’ 노라조가 한층 더 업그레이드된 유쾌한 에너지를 선사했다. 노라조(조빈, 원흠)는 10월 12일 방송된 SBS MTV ‘더쇼’에서 새 디지털 싱글 ‘고민은 배송만 늦출 뿐’ 무대를 선보였다. 이날 노라조는 업그레이드된 스타일링으로 시선을 사로잡았다. 조빈은 택배 박스를 활용한 업사이클 의상을 선보였고, 원흠은 화려한 패]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['더쇼' 박성연, 신곡 '콜이야' 무대로 팬심 저격]]></title>
         <id>https://entertain.v.daum.net/v/20211012212413336</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211012180301333"/>
         <updated>2021-10-12T09:19:58.487Z</updated>
         <content type="html"><![CDATA[그룹 ENHYPEN(엔하이픈)이 청량한 매력을 담아 업그레이드된 모습으로 돌아왔다. 엔하이픈(정원, 희승, 제이, 제이크, 성훈, 선우, 니키)은 12일 오후 6시 첫 정규앨범 ‘DIMENSION : DILEMMA’ 타이틀곡 ‘Tamed-Dashed’ 뮤직비디오를 공개, 활발한 활동을 이어간다. ‘BORDER’ 시리즈로 데뷔를 앞두고 느낀 복잡한 감정과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["우린 아마" 강타, 시간이 지나도 변함없는 독보적 감성 '아마']]></title>
-        <id>https://entertain.v.daum.net/v/20211012180200312</id>
-        <link href="https://entertain.v.daum.net/v/20211012180200312"/>
-        <updated>2021-10-12T09:19:58.489Z</updated>
-        <content type="html"><![CDATA[[OSEN=지민경 기자] 가수 강타가 차가워진 날씨 속 포근한 러븝송으로 온기를 선사한다. 강타는 12일 각종 음원 사이트를 통해 데뷔&nbsp;25주년 프로젝트의 세 번째 싱글인 ‘아마&nbsp;(Maybe)’ 음원과 라이브 비디오를 공개했다. 올해 데뷔 25주년을 맞은 강타는 앞서 다양한 프로젝트를 통해 음원,&nbsp;앨범 등 활발한 음악 활동을 예고했다. 이에 지난 3월에는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔하이픈, 칼군무에 더한 청량함]]></title>
-        <id>https://entertain.v.daum.net/v/20211012180137305</id>
-        <link href="https://entertain.v.daum.net/v/20211012180137305"/>
-        <updated>2021-10-12T09:19:58.491Z</updated>
-        <content type="html"><![CDATA[※알고 들으면 쓸모있는 신곡. '알쓸신곡'이 오늘의 노래를 소개합니다. 매일 쏟아지는 음원 속에서 모르고 놓치면 후회할 신곡을 추천해드립니다.  그룹 ENHYPEN(엔하이픈)이 '논스톱 청량'을 꺼낸다. 칼군무 퍼포먼스에 청량을 더해 색다른 매력을 장착했다. 엔하이픈은 12일 오후 6시 첫 정규 'DIMENSION : DILEMMA'(디멘션 : 딜레마)]]></content>
     </entry>
 </feed>
