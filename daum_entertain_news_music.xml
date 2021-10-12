@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-12T20:21:32.626Z</updated>
+    <updated>2021-10-12T21:17:49.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공유, 전연인 얼마나 그리웠으면..김동률 '그게 나야']]></title>
+        <id>https://entertain.v.daum.net/v/20211013060021235</id>
+        <link href="https://entertain.v.daum.net/v/20211013060021235"/>
+        <updated>2021-10-12T21:17:20.077Z</updated>
+        <content type="html"><![CDATA[영화보다 더 영화 같았던 추억의 뮤직비디오를 소개하는 엑스포츠뉴스만의 코너입니다. 당대 최고의 히트곡들을 떠올리고, 인기 스타들의 풋풋하고 신선한 과거 모습을 함께 추억해보는 '명작뮤비'. &lt;편집자주&gt; (엑스포츠뉴스 김예나 기자) 이별 후 어느 날, 헤어진 연인과의 추억이 깃든 아주 작은 물건만 보고도 눈물이 터져나올 때가 있죠. 그동안 꾹꾹 참아왔는데]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ITZY "데뷔 첫 정규, 장점들만 하나하나 모아 만들어"]]></title>
         <id>https://entertain.v.daum.net/v/20211013000048235</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211012195003693"/>
         <updated>2021-10-12T11:17:06.940Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 그룹 트라이비(TRI.BE)가 첫 미니 앨범을 통해 '1위 후보'에 들고 싶다는 바람을 밝혔다.&nbsp; 트라이비(송선, 켈리, 진하, 현빈, 지아, 소은, 미레)의 첫 번째 미니앨범 'VENI VIDI VICI (베니 비디 비치)' 발매 기념 온라인 미디어 쇼케이스가 12일 오후 열렸다.&nbsp; 'VENI VIDI VICI'는 지난 5월]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더쇼' 우즈, AB6IX· ATEEZ 꺾고 1위 "뮤즈 감사해"]]></title>
-        <id>https://entertain.v.daum.net/v/20211012193232337</id>
-        <link href="https://entertain.v.daum.net/v/20211012193232337"/>
-        <updated>2021-10-12T11:17:06.941Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이시연 기자] /사진= SBS MTV '더 쇼' 방송 화면'더쇼'에서 우즈(WOODZ)가 AB6IX와 ATEEZ를 꺾고 1위를 차지했다. 12일 오후 방송된 SBS MTV 음악프로그램 '더쇼'에서는 우즈 조승연이 1위 트로피를 건네 받았다. 이날 우즈는 또 다른 1위 후보 AB6IX와 ATEEZ를 꺾고 1위 더 쇼 초이스를 차지했다. 우즈는 "]]></content>
     </entry>
 </feed>
