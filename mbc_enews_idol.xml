@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 22:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 23:20:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단, 美 빌보드 통산 45번째 정상...차트 역사상 최다 1위!]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/327636</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/327636</guid>
+            <pubDate>Tue, 12 Oct 2021 23:20:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/327636">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/13/6def48df-5905-42a6-9007-60767e96aa08.jpg" alt="방탄소년단, 美 빌보드 통산 45번째 정상...차트 역사상 최다 1위!">        <div class="text-box">            <p class="summary">방탄소년단, 美 빌보드 통산 45번째 정상...차트 역사상 최다 1위!</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/13/6def48df-5905-42a6-9007-60767e96aa08.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크 제니, 파격 시스루 패션 일상이 화보 [인스타]]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/327630</link>
@@ -86,14 +94,6 @@
             <pubDate>Tue, 12 Oct 2021 04:26:32 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/327567">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/12/a2459a97-fc21-49bf-9b3a-44457ca2d411.jpg" alt="[포토] 엔플라잉 김재현, '꽃받침' 하면 심쿵 터뷸런스~">        <div class="text-box">            <p class="summary">[포토] 엔플라잉 김재현, '꽃받침' 하면 심쿵 터뷸런스~</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/12/a2459a97-fc21-49bf-9b3a-44457ca2d411.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 엔플라잉 서동성, '귀요미 하트']]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/327566</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/327566</guid>
-            <pubDate>Tue, 12 Oct 2021 04:26:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/327566">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/12/620bc619-1f4b-4b0c-abd5-c83361e0822d.jpg" alt="[포토] 엔플라잉 서동성, '귀요미 하트'">        <div class="text-box">            <p class="summary">[포토] 엔플라잉 서동성, '귀요미 하트'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/12/620bc619-1f4b-4b0c-abd5-c83361e0822d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
