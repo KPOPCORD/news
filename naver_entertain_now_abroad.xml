@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-12T19:16:14.766Z</updated>
+    <updated>2021-10-12T20:21:32.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[CJ ENM, 글로벌 시장 공략 박차...'日 디즈니' 토에이와 제휴]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010765567</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010765567"/>
+        <updated>2021-10-12T20:21:31.860Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 강진아 기자 = CJ ENM이 일본 최대 애니메이션 기업인 토에이 애니메이션과 전략적 제휴를 맺고 공동 제작에 나선다. CJ ENM과 토에이 애니메이션은 지난 8일 드라마, 영화, 애니메이션 공동 제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['45kg 감량' 아델 "살 뺀 것 아냐, 빠진 것…이혼 후 정서불안"]]></title>
         <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004655625</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004490156"/>
         <updated>2021-10-12T07:20:09.814Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] DC코믹스의 슈퍼히어로 캐릭터인 슈퍼맨이 자신의 성 정체성에 대해 '양성애자(바이 섹슈얼)'라고 커밍아웃한다. DC코믹스는 11일(현지시간) 내셔널 커밍 아웃 데이를 기념해 "오는 11월 9]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아델, LA에 359억원 집 3채 사며 망언 "런던서 살 여유 없어"[Oh!llywood]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004490132</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004490132"/>
-        <updated>2021-10-12T06:24:36.068Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 세계적인 팝스타 아델(33)이 부동산 관련 '망언'으로 화제다. '멀티 플래티넘'인 아델은 퇴근 브리티시 보그와의 최근 인터뷰에서, 미국 로스앤젤레스 부동산에 3천만 달러(한화 약 359억원]]></content>
     </entry>
 </feed>
