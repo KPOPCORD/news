@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-12T11:17:40.653Z</updated>
+    <updated>2021-10-12T12:32:57.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['더쇼' 박성연, 신곡 '콜이야' 무대로 팬심 저격]]></title>
+        <id>https://entertain.v.daum.net/v/20211012212413336</id>
+        <link href="https://entertain.v.daum.net/v/20211012212413336"/>
+        <updated>2021-10-12T12:32:21.620Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 김노을 기자] 가수 박성연이 개성 넘치는 무대로 팬들을 휘어잡았다. 박성연은 10월 12일 방송된 SBS MTV ‘더쇼’에 출연했다. 이날 신곡 ‘콜이야(Call)’로 무대를 꾸민 박성연은 중독성 넘치는 멜로디 위 신명나는 유로 댄스와 시원한 보이스를 뽐내며 시선을 사로잡았다. 특히 완벽한 무대매너와 주체 할 수 없는 끼를 대방출한 박성연은 탬버]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ENHYPEN, 새 앨범 타이틀곡 'Tamed-Dashed' 뮤직비디오 공개]]></title>
+        <id>https://entertain.v.daum.net/v/20211012212051272</id>
+        <link href="https://entertain.v.daum.net/v/20211012212051272"/>
+        <updated>2021-10-12T12:32:21.621Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 김노을 기자] 그룹 ENHYPEN(엔하이픈)의 새 앨범 타이틀곡 뮤직비디오가 공개됐다. ENHYPEN(정원, 희승, 제이, 제이크, 성훈, 선우, 니키)은 10월 12일 오후 6시 첫 정규 앨범 ‘DIMENSION : DILEMMA’ 발매와 동시에 공식 SNS 채널을 통해 타이틀곡 ‘Tamed-Dashed’ 뮤직비디오를 선보였다. 뮤직비디오는 땅]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["1위 후보 안에라도"..트라이비, 에너지 충전송 '우주로' 통할까]]></title>
         <id>https://entertain.v.daum.net/v/20211012195003693</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211012180137305"/>
         <updated>2021-10-12T09:19:58.491Z</updated>
         <content type="html"><![CDATA[※알고 들으면 쓸모있는 신곡. '알쓸신곡'이 오늘의 노래를 소개합니다. 매일 쏟아지는 음원 속에서 모르고 놓치면 후회할 신곡을 추천해드립니다.  그룹 ENHYPEN(엔하이픈)이 '논스톱 청량'을 꺼낸다. 칼군무 퍼포먼스에 청량을 더해 색다른 매력을 장착했다. 엔하이픈은 12일 오후 6시 첫 정규 'DIMENSION : DILEMMA'(디멘션 : 딜레마)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["우린 아마 아주 오래" 강타, 영원한 사랑을 약속하는 '아마']]></title>
-        <id>https://entertain.v.daum.net/v/20211012180044267</id>
-        <link href="https://entertain.v.daum.net/v/20211012180044267"/>
-        <updated>2021-10-12T09:19:58.492Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 강타가 영원한 사랑의 약속을 노래했다. 강타는 10월 12일 오후 6시 데뷔 25주년 프로젝트 세 번째 싱글 '아마(Maybe)'를 발매했다. '아마'는 미니멀한 구성과 무게감 있는 베이스가 돋보이는 R&amp;B 팝 장르의 곡으로, 가사에는 시간이 지나도 변하지 않겠다는 사랑의 약속을 담았으며, 강타의 감미로운 보컬이 곡의 매력을 배]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["일단 뛰어" 청량도 해낸 엔하이픈, 퇴보없는 소년들의 질주 'Tamed-Dashed']]></title>
-        <id>https://entertain.v.daum.net/v/20211012180041263</id>
-        <link href="https://entertain.v.daum.net/v/20211012180041263"/>
-        <updated>2021-10-12T09:19:58.495Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 엔하이픈(ENHYPEN/정원, 희승, 제이, 제이크, 성훈, 선우, 니키)이 청량한 음악과 퍼포먼스로 돌아왔다. 엔하이픈은 10월 12일 오후 6시 국내외 음원 사이트를 통해 새 앨범 'DIMENSION : DILEMMA'(디멘션 : 딜레마)를 발매했다. 이번 앨범은 엔하이픈이 지난 4월 공개한 미니 2집 앨범 ‘BORDER]]></content>
     </entry>
 </feed>
