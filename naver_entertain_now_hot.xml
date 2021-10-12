@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-10-12T15:22:41.495Z</updated>
+    <updated>2021-10-12T17:23:27.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마마무 솔라, 고혹적 섹시美+시크 아우라…휘인 “예뻐”[M+★SNS]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001613690</id>
+        <link href="https://entertain.naver.com/now/read?oid=057&amp;aid=0001613690"/>
+        <updated>2021-10-12T17:23:19.444Z</updated>
+        <content type="html"><![CDATA[마마무 솔라가 고혹적인 매력을 발산했다. 솔라는 지난 12일 오후 자신의 인스타그램에 사진 여러장을 게재했다. 사진 속 그는 흑백의 무드 속 가죽 원피스를 입은 채 다리를 꼬고 앉아 있다. 고혹적인 아우라와 함께 솔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지현우 "최강희와 키스신이 가장 로맨틱+사실적, 주말극에선 수위 조절" ('옥문아')[종합]]]></title>
         <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003788374</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=022&amp;aid=0003627611"/>
         <updated>2021-10-12T12:32:48.966Z</updated>
         <content type="html"><![CDATA[걸그룹 트라이비(TRI.BE) 켈리가 12일 오후 온라인 생중계로 진행된 첫 번째 미니앨범 '베니 비디 비치'(VENI VIDI VICI) 발매기념 쇼케이스에 앞서 포즈를 취하고 있다. 사진제공=티알엔터테인먼트, 멜]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최민환♥율희, 육아 탈출하니 캠퍼스 커플 비주얼 "정말 오랜만에 데이트"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003788308</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003788308"/>
-        <updated>2021-10-12T12:32:48.967Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 이우주 기자] FT아일랜드 최민환 라붐 출신 율희 부부가 오랜만에 아이 없이 둘만의 데이트를 즐겼다. 율희는 12일 자신의 SNS를 통해 "저어엉말 오랜만에 둘이서 데이트"라는 글과 함께 여러 장의]]></content>
     </entry>
 </feed>

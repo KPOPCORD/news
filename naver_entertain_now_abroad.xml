@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-12T15:22:41.488Z</updated>
+    <updated>2021-10-12T17:23:27.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['45kg 감량' 아델 "살 뺀 것 아냐, 빠진 것…이혼 후 정서불안"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004655625</id>
+        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004655625"/>
+        <updated>2021-10-12T17:23:26.460Z</updated>
+        <content type="html"><![CDATA[체중 45kg 감량으로 화제를 모은 영국 가수 아델이 살이 빠진 이유로 정서 불안을 들었다. 최근 아델은 브리티시 보그와 화보 촬영 및 인터뷰를 진행했다. 공개된 화보 속 아델은 볼륨감이 강조된 옐로 또는 블랙 뷔스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["톰 크루즈 맞아?" 퉁퉁 부은 얼굴 '깜짝'…확 달라진 모습]]></title>
         <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004655624</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004490132"/>
         <updated>2021-10-12T06:24:36.068Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 세계적인 팝스타 아델(33)이 부동산 관련 '망언'으로 화제다. '멀티 플래티넘'인 아델은 퇴근 브리티시 보그와의 최근 인터뷰에서, 미국 로스앤젤레스 부동산에 3천만 달러(한화 약 359억원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티모시 샬라메, 아미 해머 성폭행 혐의에 "편향된 답변 원치 않아" [엑's 할리우드]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001358919</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001358919"/>
-        <updated>2021-10-12T06:24:36.071Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 배우 티모시 샬라메가 '콜 미 바이 유어 네임'에서 호흡을 맞춘 아미 해머의 성폭행 혐의에 대해 말을 아꼈다. 11일(현지시간) 미국 인디와이어는 타임지의 커버 스토리 인터뷰 내용을 인용]]></content>
     </entry>
 </feed>

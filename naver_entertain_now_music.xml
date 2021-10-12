@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-12T15:22:41.497Z</updated>
+    <updated>2021-10-12T17:23:27.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원호, “두 번째 미니앨범서 'No Text No Call'을 가장 잘 쓴 거 같아”]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001359286</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001359286"/>
+        <updated>2021-10-12T17:23:12.588Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 가수 원호(WONHO)가 프로페셔널한 면모를 가감 없이 뽐냈다. 원호는 지난 10일 오후 8시 개인 유튜브 채널 '오호호(ohhoho)'를 통해 '잇츠 라이브(it’s LIVE)' 촬영]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[바밍타이거 이수호, 첫 정규 앨범인 'Monika' 발매]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001359277</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001359164"/>
         <updated>2021-10-12T12:32:41.520Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 정동원의 임영웅 신곡 응원이 눈길을 끈다. 12일 정동원 인스타그램에는 “영웅이형 ost *사랑은 늘 도망가 역시 임영웅! 1시간”이라는 글과 함께 사진이 게재됐다. 사진 속에는 임영웅이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[율희♥최민환, 둘만의 데이트…대학생 커플 같은 부부]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010765408</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010765408"/>
-        <updated>2021-10-12T12:32:41.526Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]안소윤 인턴 기자 = 가수 율희가 남편 최민환과 데이트를 즐겼다. 12일 율희는 자신의 인스타그램 계정을 통해 "정말 오랜만에 둘이서 데이트"라는 글과 함께 사진을 게재했다. 공개된 사진 속 율희·최민]]></content>
     </entry>
 </feed>
