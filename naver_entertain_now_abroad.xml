@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-12T14:19:17.010Z</updated>
+    <updated>2021-10-12T15:22:41.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["톰 크루즈 맞아?" 퉁퉁 부은 얼굴 '깜짝'…확 달라진 모습]]></title>
+        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004655624</id>
+        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004655624"/>
+        <updated>2021-10-12T15:22:40.825Z</updated>
+        <content type="html"><![CDATA[할리우드 배우 톰 크루즈가 야구 관람을 하는 모습이 포착된 가운데, 그의 확 달라진 외모가 화제다. 톰 크루즈는 지난 9일(이하 현지시간) 미국 샌프란시스코의 야구장 오라클 파크에서 열린 LA 다저스와 샌프란시스코]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["할로윈 준비" 카일리 제너, 맨몸에 피칠갑+파격 슈트 '깜짝']]></title>
+        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004655621</id>
+        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004655621"/>
+        <updated>2021-10-12T15:22:40.833Z</updated>
+        <content type="html"><![CDATA[둘째를 임신 중인 모델 겸 사업가 카일리 제너가 할로윈 준비에 한창인 것으로 보인다. 12일(한국시간) 카일리 제너는 자신의 인스타그램에 사진 두 장을 게재했다. 사진 속 카일리 제너는 손으로 가슴을 가린 포즈로 맨]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트라이비 '완벽해' [MK포토]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000822819</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001358919"/>
         <updated>2021-10-12T06:24:36.071Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 배우 티모시 샬라메가 '콜 미 바이 유어 네임'에서 호흡을 맞춘 아미 해머의 성폭행 혐의에 대해 말을 아꼈다. 11일(현지시간) 미국 인디와이어는 타임지의 커버 스토리 인터뷰 내용을 인용]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['메이즈 러너' 윌 폴터, '가오갤3' 아담 워록으로 MCU 합류 [엑's 할리우드]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001358911</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001358911"/>
-        <updated>2021-10-12T05:36:25.532Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 배우 윌 폴터가 마블 시네마틱 유니버스(MCU) '가디언즈 오브 더 갤럭시 VOL.3'(가오갤3)에 합류한다. 11일(현지시간) 미국 데드라인은 윌 폴터가 '가오갤3'에서 빌런인 아담 워]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[희승 '진한 잘생김' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000822774</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000822774"/>
-        <updated>2021-10-12T05:19:06.137Z</updated>
-        <content type="html"><![CDATA[그룹 엔하이픈(정원, 희승, 제이, 제이크, 성훈, 선우, 니키)이 첫 번째 정규 앨범 'DIMENSION : DILEMMA'를 발매하고 12일 오후 온라인으로 미디어 쇼케이스를 가졌다. 쇼케이스에 앞서 포즈를 취하]]></content>
     </entry>
 </feed>
