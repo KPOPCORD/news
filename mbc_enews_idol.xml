@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 05:36:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 06:24:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘주간아이돌’ 엔하이픈 제이, 2% 부족한 디카프리오 변신 ‘웃음’]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/327600</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/327600</guid>
+            <pubDate>Tue, 12 Oct 2021 06:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/327600">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/12/8QXYGPwolL1u637696467531910454.jpg" alt="‘주간아이돌’ 엔하이픈 제이, 2% 부족한 디카프리오 변신 ‘웃음’">        <div class="text-box">            <p class="summary">‘주간아이돌’ 엔하이픈 제이, 2% 부족한 디카프리오 변신 ‘웃음’</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/12/8QXYGPwolL1u637696467531910454.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[포토] 엔플라잉 유회승, '섹시 라이언' 나야나~]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/327575</link>
@@ -86,14 +94,6 @@
             <pubDate>Tue, 12 Oct 2021 04:26:32 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/327565">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/12/20dd3e5f-3e66-4e94-b9be-fc45768d1594.jpg" alt="[포토] 엔플라잉 유회승, '옥탑방' 왕세자 포스">        <div class="text-box">            <p class="summary">[포토] 엔플라잉 유회승, '옥탑방' 왕세자 포스</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/12/20dd3e5f-3e66-4e94-b9be-fc45768d1594.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[B1A4 산들, 11월 11일 입대 [공식입장]]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/327564</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/327564</guid>
-            <pubDate>Tue, 12 Oct 2021 04:26:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/327564">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/12/b845a841-672d-4d61-a4d8-8dc5587ef0fa.jpg" alt="B1A4 산들, 11월 11일 입대 [공식입장]">        <div class="text-box">            <p class="summary">B1A4 산들, 11월 11일 입대 [공식입장]</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/12/b845a841-672d-4d61-a4d8-8dc5587ef0fa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
