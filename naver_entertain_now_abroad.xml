@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-13T22:21:01.401Z</updated>
+    <updated>2021-10-13T23:21:19.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스 오징어게임 28일만에 1억1100만 가구 시청, 공식 발표]]></title>
+        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005656040</id>
+        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005656040"/>
+        <updated>2021-10-13T23:21:18.620Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 박형기 기자 = 넷플릭스가 ‘오징어 게임’ 시청 가구가 1억1100만을 돌파해 사상최고의 흥행 기록을 세웠다고 공식 발표했다. 넷플릭스는 13일(현지시간) 공식 트위터를 통해 “전세계 오징어 게임 시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윌 폴터 '가오갤3' 메인빌런 아담 워록 役 합류[할리우드비하인드]]]></title>
         <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000499266</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000823044</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000823044"/>
         <updated>2021-10-13T04:27:14.304Z</updated>
-        <content type="html"><![CDATA[13일 오후 JTBC 새 수목드라마 ‘너를 닮은 사람’ 온라인 제작발표회가 열렸다. 이날 제작발표회에는 임현욱 감독, 고현정, 신현빈이 참석했다. 고현정과 신현빈이 제작발표회에 앞서 포토타임을 갖고 있다. 사진= J]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고현정-신현빈 '다소곳한 포즈' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000823043</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000823043"/>
-        <updated>2021-10-13T04:27:14.305Z</updated>
         <content type="html"><![CDATA[13일 오후 JTBC 새 수목드라마 ‘너를 닮은 사람’ 온라인 제작발표회가 열렸다. 이날 제작발표회에는 임현욱 감독, 고현정, 신현빈이 참석했다. 고현정과 신현빈이 제작발표회에 앞서 포토타임을 갖고 있다. 사진= J]]></content>
     </entry>
 </feed>
