@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-13T13:25:45.290Z</updated>
+    <updated>2021-10-13T14:20:25.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[졸리, 첫번째 남편 또 만났다..피트 대하는 거랑 딴판이네 [Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004491096</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004491096"/>
+        <updated>2021-10-13T14:20:25.111Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 안젤리나 졸리가 첫 번째 결혼했던 남편과 또다시 디너 데이트를 즐겼다. 13일(현지시각) 외신 보도에 따르면 안젤리나 졸리는 지난 11일 캘리포니아주 베버리힐스의 한 레스토랑에서 조니 리 밀]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아델 "몇 명과 관계?" SNS 라이브 중 무례한 질문에 의연[할리우드비하인드]]]></title>
         <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000499135</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000823041"/>
         <updated>2021-10-13T04:27:14.307Z</updated>
         <content type="html"><![CDATA[13일 오후 JTBC 새 수목드라마 ‘너를 닮은 사람’ 온라인 제작발표회가 열렸다. 이날 제작발표회에는 임현욱 감독, 고현정, 신현빈이 참석했다. 고현정과 신현빈이 제작발표회에 앞서 포토타임을 갖고 있다. 사진= J]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오징어 게임' 25일만에 전세계 1억1100만가구 시청 신기록(상보)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005654573</id>
-        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005654573"/>
-        <updated>2021-10-13T04:27:14.307Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 박형기 기자 = '오징어 게임' 시청 가구 수가 1억1100만을 돌파, 넷플릭스 사상 최고 기록을 경신한 것은 물론 최단 기간 1억 가구를 돌파했다. 오징어 게임 이전까지 넷플릭스 시청률 1위는 ‘브]]></content>
     </entry>
 </feed>
