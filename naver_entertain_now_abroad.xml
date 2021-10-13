@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-13T07:19:59.613Z</updated>
+    <updated>2021-10-13T08:24:29.857Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전지현, 관능미 '물씬' [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000823090</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000823090"/>
+        <updated>2021-10-13T08:24:29.223Z</updated>
+        <content type="html"><![CDATA[배우 전지현이 13일 오후 온라인으로 진행된 tvN 15주년 특별기획 '지리산'(극본 김은희, 연출 이응복) 제작발표회에 참석해 포즈를 취하고 있다. '지리산'은 지리산 국립공원 최고의 레인저 서이강(전지현 분)과]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['매염방' 렁록만 감독 "당대인에겐 추억을, 현대인에겐 관심을"]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012719794</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000823039</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000823039"/>
         <updated>2021-10-13T04:27:14.309Z</updated>
-        <content type="html"><![CDATA[13일 오후 JTBC 새 수목드라마 ‘너를 닮은 사람’ 온라인 제작발표회가 열렸다. 이날 제작발표회에는 임현욱 감독, 고현정, 신현빈이 참석했다. 신현빈이 제작발표회에 앞서 포토타임을 갖고 있다. 사진= JTBC 제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신현빈 '가냘픈 손으로 파이팅' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000823038</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000823038"/>
-        <updated>2021-10-13T04:27:14.311Z</updated>
         <content type="html"><![CDATA[13일 오후 JTBC 새 수목드라마 ‘너를 닮은 사람’ 온라인 제작발표회가 열렸다. 이날 제작발표회에는 임현욱 감독, 고현정, 신현빈이 참석했다. 신현빈이 제작발표회에 앞서 포토타임을 갖고 있다. 사진= JTBC 제]]></content>
     </entry>
 </feed>
