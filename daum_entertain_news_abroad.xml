@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-10-12T23:20:36.071Z</updated>
+    <updated>2021-10-13T02:35:23.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[디즈니, MCU '이터널스' 등 中 심의 요청..개봉 가능성은?]]></title>
+        <id>https://entertain.v.daum.net/v/20211013102111893</id>
+        <link href="https://entertain.v.daum.net/v/20211013102111893"/>
+        <updated>2021-10-13T02:34:57.050Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 디즈니가 마블 시네마틱 유니버스(MCU) 영화 '이터널스'의 중국 개봉을 준비 중인 것으로 전해졌다. 12일(현지시간) 미국의 더 다이렉트는 디즈니가 현재 중국에서 개봉하지 못한 '샹치와 텐 링즈의 전설'과 '블랙 위도우'를 비롯해 11월 개봉 예정인 '이터널스' 등의 정식 개봉을 위해 중국 심의 기구에 심의를 요청한 상태라고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[톰 크루즈, 퉁퉁 부은 얼굴 목격담에 시술설 솔솔..건강이상 우려도]]></title>
         <id>https://entertain.v.daum.net/v/20211012170139195</id>
@@ -46,12 +53,5 @@
         <link href="https://entertain.v.daum.net/v/20211012134810175"/>
         <updated>2021-10-12T05:18:43.995Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 할리우드 배우 톰 크루즈가&nbsp;'새로운 얼굴'을 선보여&nbsp;팬들을 충격에 휩싸이게 했다. 주말에 야구 경기를 관람하러 간 톰 크루즈의 모습이 미디어에 포착됐는데,&nbsp;완전히 그는 새로운 사람처럼 보인 것.&nbsp;지난 9일(현지시간) 미국 샌프란시스코 오라클 파크에서 열린 LA다저스와 샌프란시스코의 내셔널리그 디비전시리즈 2차전을 보러 간 톰 크루즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[故 종현 영정사진 도용 논란 올리버 트리, 뒤늦은 사과 "어리석었다"]]></title>
-        <id>https://entertain.v.daum.net/v/20211012104505085</id>
-        <link href="https://entertain.v.daum.net/v/20211012104505085"/>
-        <updated>2021-10-12T02:32:49.694Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 미국 가수 올리버 트리가 고인 모독 논란에 사과했다. 올리버 트리는 10월 9일 자신의 SNS를 통해 고(故) 종현 영정 사진 합성 관련 사과의 글을 남겼다. 올리버 트리는 "몇년 전 내가 게재한 사진으로 상처 받은 모든 사람들에게 사과하고 싶다. 누구도 상처받게 할 의도는 없었다"고 글을 남겼다. 그는 "해당 사진의 출처를 알]]></content>
     </entry>
 </feed>
