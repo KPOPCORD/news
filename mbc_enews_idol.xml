@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 05:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 06:24:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['GLASSY' 조유리 "먼저 데뷔한 은비 언니가 조언 많이 해줘" (정희)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/327709</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/327709</guid>
+            <pubDate>Wed, 13 Oct 2021 06:23:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/327709">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/13/e0b397ec-731e-442c-aab0-329c43096621.jpg" alt="'GLASSY' 조유리 " 먼저="" 데뷔한="" 은비="" 언니가="" 조언="" 많이="" 해줘"="" (정희)"="">        <div class="text-box">            <p class="summary">'GLASSY' 조유리 "먼저 데뷔한 은비 언니가 조언 많이 해줘" (정희)</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/13/e0b397ec-731e-442c-aab0-329c43096621.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영재 "'Vibin' 챌린지에 갓세븐 모두 참여,재범이형 기억에 남아" (정희)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/327708</link>
@@ -86,14 +94,6 @@
             <pubDate>Wed, 13 Oct 2021 03:21:43 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/327674">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/13/60M6FZk8nMVc637697218989788939.jpg" alt="‘구해줘! 숙소’ 효연-강승윤, 반려견들과 직접 떠난 ‘펫캉스’ 장소 공개">        <div class="text-box">            <p class="summary">‘구해줘! 숙소’ 효연-강승윤, 반려견들과 직접 떠난 ‘펫캉스’ 장소 공개</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/13/60M6FZk8nMVc637697218989788939.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이라이트 이기광, 댄스 퍼포먼스부터 예능 열일까지 ‘하드캐리 존재감’]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/327671</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/327671</guid>
-            <pubDate>Wed, 13 Oct 2021 02:34:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/327671">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/13/1iWRHOuIhP2r637697214098922755.jpg" alt="하이라이트 이기광, 댄스 퍼포먼스부터 예능 열일까지 ‘하드캐리 존재감’">        <div class="text-box">            <p class="summary">하이라이트 이기광, 댄스 퍼포먼스부터 예능 열일까지 ‘하드캐리 존재감’</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/13/1iWRHOuIhP2r637697214098922755.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-10-13T05:18:53.781Z</updated>
+    <updated>2021-10-13T06:24:27.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아델, "몇 명과 관계했냐" 라이브 중 무례한 질문에 대답이..]]></title>
+        <id>https://entertain.v.daum.net/v/20211013145832164</id>
+        <link href="https://entertain.v.daum.net/v/20211013145832164"/>
+        <updated>2021-10-13T06:24:07.808Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 세계적인 팝스타 아델이 무례한 질문을 받자 답변한 내용이&nbsp;팬들 사이에서 화제다. 페이지식스의 10일자(현지시간) 보도에 따르면 아델은 최근 인스타그램 라이브 스트리밍을 통해&nbsp;이혼 후 처음으로 발매하는 앨범에 대해 팬들과 이야기를 나눴다. 대부분의 질문들이 그녀의 음악과 관련된 것들이었지만, 한 네티즌은&nbsp;불쑥 사생활 질문을 던졌다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[젠다야, ♥︎톰홀랜드 공개 자랑 "어디서든 스파이더맨 된다"]]></title>
         <id>https://entertain.v.daum.net/v/20211013123431576</id>
@@ -46,19 +53,5 @@
         <link href="https://entertain.v.daum.net/v/20211012152826467"/>
         <updated>2021-10-12T07:19:48.631Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;DC코믹스의 슈퍼히어로 캐릭터인 슈퍼맨이 자신의 성 정체성에 대해 '양성애자(바이 섹슈얼)'라고 커밍아웃한다. DC코믹스는 11일(현지시간) 내셔널 커밍 아웃 데이를 기념해&nbsp;"오는 11월 9일 출간되는 '슈퍼맨-칼엘의 아들' 5편에서 슈퍼맨은 양성애자이며, 극 중 한&nbsp;남성과&nbsp;로맨틱한 관계를 맺을 것"이라고 공식 발표했다. '칼엘의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아델, LA에 359억원 집 3채 사며 망언 "런던서 살 여유 없어"]]></title>
-        <id>https://entertain.v.daum.net/v/20211012144748706</id>
-        <link href="https://entertain.v.daum.net/v/20211012144748706"/>
-        <updated>2021-10-12T06:24:12.973Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 세계적인 팝스타 아델(33)이 부동산 관련 '망언'으로 화제다. '멀티 플래티넘'인 아델은 퇴근 브리티시 보그와의 최근 인터뷰에서, 미국 로스앤젤레스 부동산에 3천만 달러(한화 약 359억원) 이상을 투자했지만, 영국 런던에서&nbsp;살 여유가 없다고 밝힌 것. 아델은 지난 5년 동안 고급 히든 밸리 커뮤니티에서 세 개의 부동산을 구입하며]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['메이즈 러너' 윌 폴터, '가오갤3' 아담 워록으로 MCU 합류]]></title>
-        <id>https://entertain.v.daum.net/v/20211012142258682</id>
-        <link href="https://entertain.v.daum.net/v/20211012142258682"/>
-        <updated>2021-10-12T05:36:04.396Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 배우 윌 폴터가 마블 시네마틱 유니버스(MCU) '가디언즈 오브 더 갤럭시 VOL.3'(가오갤3)에 합류한다. 11일(현지시간) 미국 데드라인은 윌 폴터가 '가오갤3'에서 빌런인 아담 워록 역으로 캐스팅됐다고 보도했다. 제임스 건 감독은 자신의 트위터에 "'가디언즈'에 합류한 것을 환영한다. 그는 좋은 배우고 멋진 사람이다.]]></content>
     </entry>
 </feed>
