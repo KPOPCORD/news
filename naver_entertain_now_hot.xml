@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-10-13T18:23:53.701Z</updated>
+    <updated>2021-10-13T19:16:48.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘10세 연하♥’ 한예슬, 군살없는 몸매 [똑똑SNS]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000823232</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000823232"/>
+        <updated>2021-10-13T19:16:41.735Z</updated>
+        <content type="html"><![CDATA[배우 한예슬이 일상을 공유했다. 한예슬은 13일 인스타그램에 “WORKOUT A DAY SAVES YOUR LIFE”라는 글과 함께 두 장의 사진을 게재했다. 공개된 사진에는 한예슬이 운동을 하기 위해 체육관을 찾은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서촌에 스며든 신세경 (어나더 레코드)]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000938407</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000823227"/>
         <updated>2021-10-13T15:22:09.175Z</updated>
         <content type="html"><![CDATA[문화체육관광부가 선정한 한복 홍보대사 배우 전효성이 단아한 자태를 뽐내며 한복의 미를 알린 화보가 공개됐다. 전통한복과 신한복을 입은 채 우아함과 시크함을 자유자재로 넘나들며 매력을 뽐냈다. 한복 홍보대사로 선정되기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사진]방탄소년단(BTS) 지민의 생일 축하 조명쇼 바라보는 해외팬들]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004491107</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004491107"/>
-        <updated>2021-10-13T14:20:17.674Z</updated>
-        <content type="html"><![CDATA[[OSEN=부산, 이대선 기자] 방탄소년단(BTS) 지민의 생일을 맞아 13일 오후 부산 중구 용두산공원 부산타워에서 특별 조명쇼가 펼쳐졌다. 방탄소년단(BTS) 지민의 생일을 축하하는 메시지를 담은 조명쇼가 펼쳐지]]></content>
     </entry>
 </feed>
