@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-13T14:20:25.862Z</updated>
+    <updated>2021-10-13T15:22:16.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[졸리, 첫번째 남편 또 만났다..피트 대하는 거랑 딴판이네 [Oh!llywood]]]></title>
+        <title type="html"><![CDATA["몇 명과 성관계 해봤나" 무례한 질문에…아델의 반응은?]]></title>
+        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004656211</id>
+        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004656211"/>
+        <updated>2021-10-13T15:22:15.683Z</updated>
+        <content type="html"><![CDATA[[성관계 숫자 뜻하는 "보디 카운트" 질문 받고 이렇게 답했다] 영국 출신 팝 가수 아델이 인스타그램 라이브 방송에서 무례한 질문을 받았다. 아델은 지난 9일(이하 현지시간) 자신의 인스타그램을 통해 라이브 방송을]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[졸리, 첫번째 전남편 또 만났다..피트 보고 있나? [Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004491096</id>
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004491096"/>
         <updated>2021-10-13T14:20:25.111Z</updated>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000823042</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000823042"/>
         <updated>2021-10-13T04:27:14.306Z</updated>
-        <content type="html"><![CDATA[13일 오후 JTBC 새 수목드라마 ‘너를 닮은 사람’ 온라인 제작발표회가 열렸다. 이날 제작발표회에는 임현욱 감독, 고현정, 신현빈이 참석했다. 고현정과 신현빈이 제작발표회에 앞서 포토타임을 갖고 있다. 사진= J]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고현정-신현빈 '미녀들의 파이팅' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000823041</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000823041"/>
-        <updated>2021-10-13T04:27:14.307Z</updated>
         <content type="html"><![CDATA[13일 오후 JTBC 새 수목드라마 ‘너를 닮은 사람’ 온라인 제작발표회가 열렸다. 이날 제작발표회에는 임현욱 감독, 고현정, 신현빈이 참석했다. 고현정과 신현빈이 제작발표회에 앞서 포토타임을 갖고 있다. 사진= J]]></content>
     </entry>
 </feed>

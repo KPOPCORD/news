@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-13T14:20:25.861Z</updated>
+    <updated>2021-10-13T15:22:16.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[나의 인생곡㊳] 정수라 '어느날 문득', "부를 때마다 울컥한 떨림"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000110454</id>
+        <link href="https://entertain.naver.com/now/read?oid=629&amp;aid=0000110454"/>
+        <updated>2021-10-13T15:22:02.246Z</updated>
+        <content type="html"><![CDATA["가수로 살면서 제 감정을 가장 충실하게 담은 노래예요" 가수 정수라는 나미 이선희 등과 함께 80년대 가요계의 여성 트로이카 열풍을 일으킨 주인공이다. 맑고 청아한 보이스의 뚜렷한 색깔로 전성기 시절엔 부르는 노래]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에이티즈 성화, '립제품 완판 부르는 입술' 1위]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002996594</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002996487"/>
         <updated>2021-10-13T09:20:02.445Z</updated>
         <content type="html"><![CDATA[그룹 라잇썸(LIGHTSUM)이 소원을 이뤄주는 지니로 변신했다. 라잇썸은 13일 오후 6시 두 번째 '라잇 어 위시 (Light a Wish)'를 발매하고 타이틀곡 '비바체 (VIVACE)' 뮤직비디오를 공개했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["너를 원해" 동해, 로맨틱한 자작곡 'California Love'..태양처럼 빛나네(종합)[퇴근길 신곡]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004490888</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004490888"/>
-        <updated>2021-10-13T09:20:02.446Z</updated>
-        <content type="html"><![CDATA[[OSEN=이승훈 기자] 슈퍼주니어-D&amp;E 동해가 NCT 제노와 뜨거우면서도 달콤한 러브송을 완성, 글로벌 K팝 팬들의 설렘 지수를 높였다. 슈퍼주니어-D&amp;E 동해는 오늘(13일) 오후 6시 각종 온라인 음원 사이트]]></content>
     </entry>
 </feed>
