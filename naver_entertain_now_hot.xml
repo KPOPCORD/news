@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-10-13T15:22:16.358Z</updated>
+    <updated>2021-10-13T16:31:13.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오민석, 티빙 오리지널 ‘돼지의 왕’ 출연]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000938405</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000938405"/>
+        <updated>2021-10-13T16:31:05.914Z</updated>
+        <content type="html"><![CDATA[오민석, 티빙 오리지널 ‘돼지의 왕’ 출연 오민석이 티빙 오리지널 ‘돼지의 왕’에 합류한다. 티빙 오리지널 ‘돼지의 왕’(연출 김대진, 극본 탁재영, 제작 히든시퀀스, 스튜디오드래곤, 제공 티빙(TVING))은 20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전효성 한복 입고 만개한 ‘아름다움’ [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000938404</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000938404"/>
+        <updated>2021-10-13T16:31:05.914Z</updated>
+        <content type="html"><![CDATA[전효성 한복 입고 만개한 ‘아름다움’ [화보] 문화체육관광부가 선정한 한복 홍보대사 배우 전효성이 단아한 자태를 뽐내며 한복의 미를 알린 화보가 공개됐다. 전통한복과 신한복을 입은 채 우아함과 시크함을 자유자재로 넘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[팬들에게 뜻깊은 생일 선물 받은 방탄소년단(BTS) 지민 [O!STAR]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004491130</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004491106"/>
         <updated>2021-10-13T14:20:17.675Z</updated>
         <content type="html"><![CDATA[[OSEN=부산, 이대선 기자] 방탄소년단(BTS) 지민의 생일을 맞아 13일 오후 부산 중구 용두산공원 부산타워에서 특별 조명쇼가 펼쳐졌다. 방탄소년단(BTS) 지민의 생일을 축하하는 메시지를 담은 조명쇼가 펼쳐지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사진]방탄소년단(BTS) 지민 생일 맞아 부산타워에서 펼쳐지는 조명쇼]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004491105</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004491105"/>
-        <updated>2021-10-13T14:20:17.679Z</updated>
-        <content type="html"><![CDATA[[OSEN=부산, 이대선 기자] 방탄소년단(BTS) 지민의 생일을 맞아 13일 오후 부산 중구 용두산공원 부산타워에서 특별 조명쇼가 펼쳐졌다. 방탄소년단(BTS) 지민의 생일을 축하하는 메시지를 담은 조명쇼가 펼쳐지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이지현, 두 번째 결혼·이혼 아이들에게 숨긴 이유 (종합) [DA:리뷰]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000938398</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000938398"/>
-        <updated>2021-10-13T14:20:17.682Z</updated>
-        <content type="html"><![CDATA[쥬얼리 출신 이지현이 두 번의 결혼과 이혼 후 힘들었던 시간을 돌아봤다. 13일 오후 첫 방송된 채널S ‘힐링산장2’를 통해 7년 만에 방송에 출연한 이지현. 그는 9살 딸과 7살 딸을 홀로 키우고 있다고 싱글맘의]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-13T15:22:16.354Z</updated>
+    <updated>2021-10-13T16:31:13.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신인 걸그룹 트라이비, 그들이 신사동호랭이에게 들은 조언은? (DJ SHOW! 9595)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001359719</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001359719"/>
+        <updated>2021-10-13T16:30:58.741Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 퍼포먼스 맛집으로 불리는 걸그룹 트라이비(TRI.BE)가 신곡 ‘우주로’ 무대를 TBS ‘DJ SHOW! 9595’에서 공개했다. 13일 방송된 TBS ‘DJ SHOW! 9595’에 출연]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[나의 인생곡㊳] 정수라 '어느날 문득', "부를 때마다 울컥한 떨림"]]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000110454</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000499121"/>
         <updated>2021-10-13T09:20:02.444Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이하나 기자] 가수 이찬원이 서울에 이어 대구, 부산 팬콘서트 티켓까지 매진 시키며 뜨거운 인기를 입증했다. 이찬원은 10월 13일 첫 번째 팬콘서트 ‘Chan’s Time’(찬스 타임)의 대구, 부산 공연]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라잇썸, '차트인' 소원을 실현할 '비바체'[6시★살롱]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002996487</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002996487"/>
-        <updated>2021-10-13T09:20:02.445Z</updated>
-        <content type="html"><![CDATA[그룹 라잇썸(LIGHTSUM)이 소원을 이뤄주는 지니로 변신했다. 라잇썸은 13일 오후 6시 두 번째 '라잇 어 위시 (Light a Wish)'를 발매하고 타이틀곡 '비바체 (VIVACE)' 뮤직비디오를 공개했다.]]></content>
     </entry>
 </feed>

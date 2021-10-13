@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-13T15:22:16.350Z</updated>
+    <updated>2021-10-13T16:31:13.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윌 폴터 '가오갤3' 메인빌런 아담 워록 役 합류[할리우드비하인드]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000499266</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000499266"/>
+        <updated>2021-10-13T16:31:12.841Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 김노을 기자] 배우 윌 폴터가 마블 영화 '가디언즈 오브 갤럭시3'에서 아담 워록 역을 맡는다. 10월 11일(현지시간) 데드라인은 윌 폴터가 '가디언즈 오브 갤럭시3'(이하 '가오갤3')에 메인 빌런 아담]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["몇 명과 성관계 해봤나" 무례한 질문에…아델의 반응은?]]></title>
         <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004656211</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000823043</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000823043"/>
         <updated>2021-10-13T04:27:14.305Z</updated>
-        <content type="html"><![CDATA[13일 오후 JTBC 새 수목드라마 ‘너를 닮은 사람’ 온라인 제작발표회가 열렸다. 이날 제작발표회에는 임현욱 감독, 고현정, 신현빈이 참석했다. 고현정과 신현빈이 제작발표회에 앞서 포토타임을 갖고 있다. 사진= J]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고현정-신현빈 '다소곳하게 손 모으고' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000823042</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000823042"/>
-        <updated>2021-10-13T04:27:14.306Z</updated>
         <content type="html"><![CDATA[13일 오후 JTBC 새 수목드라마 ‘너를 닮은 사람’ 온라인 제작발표회가 열렸다. 이날 제작발표회에는 임현욱 감독, 고현정, 신현빈이 참석했다. 고현정과 신현빈이 제작발표회에 앞서 포토타임을 갖고 있다. 사진= J]]></content>
     </entry>
 </feed>
