@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-13T09:20:15.263Z</updated>
+    <updated>2021-10-13T10:22:46.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아델 "몇 명과 관계?" SNS 라이브 중 무례한 질문에 의연[할리우드비하인드]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000499135</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000499135"/>
+        <updated>2021-10-13T10:22:45.694Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 김노을 기자] 팝스타 아델이 네티즌의 무례한 질문에 의연하게 대처했다. 10월 10일(현지시간) 페이지식스에 따르면 아델은 지난 주말 SNS 라이브 방송을 통해 팬들과 질의응답 시간을 가졌다. 아델은 이혼]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['릅신' 르브론도 언급한 '오징어 게임'…"결말 아쉬워" [엑's 해외이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001359614</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005654573"/>
         <updated>2021-10-13T04:27:14.307Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 박형기 기자 = '오징어 게임' 시청 가구 수가 1억1100만을 돌파, 넷플릭스 사상 최고 기록을 경신한 것은 물론 최단 기간 1억 가구를 돌파했다. 오징어 게임 이전까지 넷플릭스 시청률 1위는 ‘브]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신현빈 '상큼함이 뚝뚝' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000823040</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000823040"/>
-        <updated>2021-10-13T04:27:14.308Z</updated>
-        <content type="html"><![CDATA[13일 오후 JTBC 새 수목드라마 ‘너를 닮은 사람’ 온라인 제작발표회가 열렸다. 이날 제작발표회에는 임현욱 감독, 고현정, 신현빈이 참석했다. 신현빈이 제작발표회에 앞서 포토타임을 갖고 있다. 사진= JTBC 제]]></content>
     </entry>
 </feed>
