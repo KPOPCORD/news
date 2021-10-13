@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-10-13T16:31:13.553Z</updated>
+    <updated>2021-10-13T17:23:09.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서촌에 스며든 신세경 (어나더 레코드)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000938407</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000938407"/>
+        <updated>2021-10-13T17:23:01.766Z</updated>
+        <content type="html"><![CDATA[서촌에 스며든 신세경 (어나더 레코드) 시네마틱 리얼 다큐멘터리 영화 ‘어나더 레코드’가 어디에서도 볼 수 없었던 배우 신세경의 진짜 모습을 엿볼 수 있는 보도스틸을 공개했다. 10월 28일 공개 예정인 seezn(]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제7회 서울국제음식영화제 공식 포스터 공개]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000938406</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000938406"/>
+        <updated>2021-10-13T17:23:01.767Z</updated>
+        <content type="html"><![CDATA[제7회 서울국제음식영화제 공식 포스터 공개 제7회 서울국제음식영화제(집행위원장 정우정, 공동집행위원장 이철하)가 11월 18일(목)부터 23일(화)까지 6일간의 개최 일정을 알리고 공식 포스터를 공개했다. 국내 최초]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오민석, 티빙 오리지널 ‘돼지의 왕’ 출연]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000938405</id>
@@ -164,20 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004491107</id>
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004491107"/>
         <updated>2021-10-13T14:20:17.674Z</updated>
-        <content type="html"><![CDATA[[OSEN=부산, 이대선 기자] 방탄소년단(BTS) 지민의 생일을 맞아 13일 오후 부산 중구 용두산공원 부산타워에서 특별 조명쇼가 펼쳐졌다. 방탄소년단(BTS) 지민의 생일을 축하하는 메시지를 담은 조명쇼가 펼쳐지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[멜론 '영화& 박선영입니다' 출연 황광희, "88크루로 박서준 영입하고 싶어"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003788890</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003788890"/>
-        <updated>2021-10-13T14:20:17.674Z</updated>
-        <content type="html"><![CDATA[황광희가 멜론 스테이션 '영화&amp; 박선영입니다'에 출연했다. 황광희는 13일 멜론을 통해 공개된 '영화&amp; 박선영입니다'를 통해 타고난 외향형 인간 황광희의 MBTI, 화려한 연예계 인맥, 캐릭터 확실한 어머니의 개명]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사진]방탄소년단(BTS) 지민의 생일 축하 알리는 부산타워]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004491106</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004491106"/>
-        <updated>2021-10-13T14:20:17.675Z</updated>
         <content type="html"><![CDATA[[OSEN=부산, 이대선 기자] 방탄소년단(BTS) 지민의 생일을 맞아 13일 오후 부산 중구 용두산공원 부산타워에서 특별 조명쇼가 펼쳐졌다. 방탄소년단(BTS) 지민의 생일을 축하하는 메시지를 담은 조명쇼가 펼쳐지]]></content>
     </entry>
 </feed>
