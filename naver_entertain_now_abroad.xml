@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-14T02:32:03.970Z</updated>
+    <updated>2021-10-14T03:21:54.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미성년자와 불륜 후 이혼한 日톱배우, 다른 20대女와 또 '스캔들']]></title>
+        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004656497</id>
+        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004656497"/>
+        <updated>2021-10-14T03:21:53.640Z</updated>
+        <content type="html"><![CDATA[일본 배우 히가시데 마사히로가 9살 연하의 배우 카라타 에리카와 미성년자 시절부터 불륜을 저질러 질타를 받고 이혼한 가운데 20대 여성과 열애 중이라는 보도가 나왔다. 지난 13일 일본 주간지 주간문춘은 히가시데 마]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[히가시데 마사히로, 카라타 에리카와 불륜→20대 여성과 5개월 째 교제 [엑's 재팬]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001359846</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001359846"/>
+        <updated>2021-10-14T03:21:53.645Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 카라타 에리카와의 불륜 스캔들로 일본 전역을 떠들썩 하게 만들었던 배우 히가시데 마사히로가 20대 후반의 여성과 5개월 째 교제 중인 것으로 전해졌다. 13일 일본의 주간지 슈칸분]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[맥컬리 컬킨 "나홀로 집에 리부트 출연 안한다"]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010768772</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000498984"/>
         <updated>2021-10-13T05:18:53.067Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 제니퍼 로페즈, 벤 애플렉이 껌딱지 커플 면모를 보였다. 스플래쉬닷컴은 10월 10일(현지시간) 뉴욕 한 호텔에서 포착된 제니퍼 로페즈, 벤 애플렉 모습을 공개했다. 제니퍼 로페즈와 벤 애플렉]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['성형 부작용설' 빅토리아 베컴, 필터 쓰니 다시 예뻐졌네 (종합)[Oh!llywood]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004490723</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004490723"/>
-        <updated>2021-10-13T05:18:53.067Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] 데이비드 베컴의 아내이자 패션 디자이너인 빅토리아 베컴이 성형 부작용설에 휘말렸음에도 셀카 영상을 남겼다. 빅토리아 베컴은 12일(현지시간) 자신의 인스타그램 스토리에 얼짱 각도 영상을 올렸]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고현정 '세월 역주행하는 미모' [MK화보]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000823049</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000823049"/>
-        <updated>2021-10-13T04:27:14.302Z</updated>
-        <content type="html"><![CDATA[13일 오후 JTBC 새 수목드라마 ‘너를 닮은 사람’ 온라인 제작발표회가 열렸다. 이날 제작발표회에는 임현욱 감독, 고현정, 신현빈이 참석했다. 이날 고현정은 더욱 날씬해진 몸매를 뽐내며 신현빈과 함께 포토타임을]]></content>
     </entry>
 </feed>

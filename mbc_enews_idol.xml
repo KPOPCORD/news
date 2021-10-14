@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 02:32:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 03:21:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SF9(에스에프나인) 다원·휘영 확진…로운→찬희는 음성 [전문]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/327800</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/327800</guid>
+            <pubDate>Thu, 14 Oct 2021 03:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/327800">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/14/44110296-7c29-496b-939c-680922f427a5.jpg" alt="SF9(에스에프나인) 다원·휘영 확진…로운→찬희는 음성 [전문]">        <div class="text-box">            <p class="summary">SF9(에스에프나인) 다원·휘영 확진…로운→찬희는 음성 [전문]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/14/44110296-7c29-496b-939c-680922f427a5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[동해, 신곡 '캘리포니아 러브' 아이튠즈 톱송 차트 10개 지역 1위]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/327792</link>
@@ -86,14 +94,6 @@
             <pubDate>Wed, 13 Oct 2021 05:18:17 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/327708">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/13/d32c36df-277f-409f-b630-9afc96b8fe47.jpg" alt="영재 " 'vibin'="" 챌린지에="" 갓세븐="" 모두="" 참여,재범이형="" 기억에="" 남아"="" (정희)"="">        <div class="text-box">            <p class="summary">영재 "'Vibin' 챌린지에 갓세븐 모두 참여,재범이형 기억에 남아" (정희)</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/13/d32c36df-277f-409f-b630-9afc96b8fe47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몬스타엑스 민혁, ‘빽투더 아이돌2’ 종영 소감 “MC로 더 성장할 수 있었다”]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/327706</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/327706</guid>
-            <pubDate>Wed, 13 Oct 2021 05:18:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/327706">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/13/UJE8kreW6OlI637697305954690066.jpg" alt="몬스타엑스 민혁, ‘빽투더 아이돌2’ 종영 소감 “MC로 더 성장할 수 있었다”">        <div class="text-box">            <p class="summary">몬스타엑스 민혁, ‘빽투더 아이돌2’ 종영 소감 “MC로 더 성장할 수 있었다”</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/13/UJE8kreW6OlI637697305954690066.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
