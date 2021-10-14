@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-10-14T04:26:56.533Z</updated>
+    <updated>2021-10-14T06:24:42.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['세균공포증' 겪는 美스타, 별다방서 실신해 응급실 행]]></title>
+        <id>https://entertain.v.daum.net/v/20211014145447423</id>
+        <link href="https://entertain.v.daum.net/v/20211014145447423"/>
+        <updated>2021-10-14T06:24:19.235Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 캐나다 출신 배우 겸 MC&nbsp;하위 맨델(Howie Mandel, 65)이&nbsp;동네 커피숍에서 실신한 후 회복 중이다. NBC '아메리카 갓 탤런트'의 심사위원으로 활약한&nbsp;맨델은&nbsp;13일(현지시간) 미국 로스앤젤레스 우들랜드 힐스에 위치한 '별다방'에서&nbsp;아내,&nbsp;친구들과 함께 음료를&nbsp;마시다가 의식을 잃었다고 TMZ가 보도했다. 멘델은 응급구조]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['카라타 에리카와 불륜' 히가시데 마사히로, 20대 여성과 또 스캔들]]></title>
+        <id>https://entertain.v.daum.net/v/20211014145440420</id>
+        <link href="https://entertain.v.daum.net/v/20211014145440420"/>
+        <updated>2021-10-14T06:24:19.236Z</updated>
+        <content type="html"><![CDATA[[OSEN=지민경 기자] 일본 배우 카라타 에리카와의 불륜으로 파문을 일으킨 히가시데 마사히로가 또 다른 여성과 스캔들이 불거졌다. 지난 1월 히가시데 마사히로와 카라타 에리카와의 불륜을 보도한 일본 주간지 주간문춘은 14일 히가시데 마사히로가 새 애인과 교제 중이라고 밝혔다. 주간문춘에 따르면 히가시데 마사히로의 새 연인은 20대 후반의 회사원으로, 두]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['불륜 파문' 히가시데 마사히로, 20대 여성과 5개월째 열애]]></title>
+        <id>https://entertain.v.daum.net/v/20211014145432414</id>
+        <link href="https://entertain.v.daum.net/v/20211014145432414"/>
+        <updated>2021-10-14T06:24:19.237Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 배우 카라타 에리카와 불륜 파문을 빚은 배우 히가시데 마사히로가 20대 여성과 열애 중인 것으로 알려졌다. 10월 13일 일본 주간지 주간문춘은 히가시데 마사히로가 미국인 아버지와 일본인 어머니 사이에서 태어난 20대 후반 여성과 5개월 째 교제 중이라고 보도했다. 보도에 따르면 히가시데 마사히로는 열애설 상대 A씨 근처로 이사를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[히가시데 마사히로, 카라타 에리카와 불륜→20대 여성과 5개월 째 교제]]></title>
         <id>https://entertain.v.daum.net/v/20211014114052736</id>
@@ -46,12 +67,5 @@
         <link href="https://entertain.v.daum.net/v/20211013183917377"/>
         <updated>2021-10-13T10:22:22.036Z</updated>
         <content type="html"><![CDATA[[뉴스엔 김노을 기자] 팝스타 아델이 네티즌의 무례한 질문에 의연하게 대처했다. 10월 10일(현지시간) 페이지식스에 따르면 아델은 지난 주말 SNS 라이브 방송을 통해 팬들과 질의응답 시간을 가졌다. 아델은 이혼 후 처음으로 발매하는 앨범 관련 대화를 주로 나눴으며, 팬들 역시 아델에게 음악적으로 궁금한 것을 질문했다. 그러나 한 네티즌은 '보디 카운트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아델, "몇 명과 관계했냐" 라이브 중 무례한 질문에 대답이..]]></title>
-        <id>https://entertain.v.daum.net/v/20211013145832164</id>
-        <link href="https://entertain.v.daum.net/v/20211013145832164"/>
-        <updated>2021-10-13T06:24:07.808Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 세계적인 팝스타 아델이 무례한 질문을 받자 답변한 내용이&nbsp;팬들 사이에서 화제다. 페이지식스의 10일자(현지시간) 보도에 따르면 아델은 최근 인스타그램 라이브 스트리밍을 통해&nbsp;이혼 후 처음으로 발매하는 앨범에 대해 팬들과 이야기를 나눴다. 대부분의 질문들이 그녀의 음악과 관련된 것들이었지만, 한 네티즌은&nbsp;불쑥 사생활 질문을 던졌다.]]></content>
     </entry>
 </feed>
