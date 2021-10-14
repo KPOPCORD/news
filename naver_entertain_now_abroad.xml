@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-14T14:19:20.425Z</updated>
+    <updated>2021-10-14T16:30:56.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['007' 다니엘 크레이그 "게이바 오래 다녔다…더 안전해"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004656830</id>
+        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004656830"/>
+        <updated>2021-10-14T16:30:56.270Z</updated>
+        <content type="html"><![CDATA['007' 시리즈에 출연한 영국 출신 배우 다니엘 크레이그가 게이바를 선호하는 이유를 밝혔다. 다니엘 크레이그는 지난 12일(현지시간) 'Lunch with Bruce'(브루스와 함께 점심을)이라는 팟캐스트 방송에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남승민 '애절한 눈빛' [MK포토]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000823458</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005658095"/>
         <updated>2021-10-14T08:24:46.937Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 박형기 기자 = 드라마 오징어 게임 성공으로 ‘재주는 한국이 넘고 돈은 넷플릭스가 번다’는 말이 나오고 있다. 넷플릭스가 오징어 게임 추가 수익을 독점하기 때문이다. 넷플릭스는 드라마 제작 이전·중간]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다니엘 크레이그, 게이바 출입 커밍아웃?.."더 안전해" [Oh!llywood]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004491431</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004491431"/>
-        <updated>2021-10-14T07:20:29.181Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] ‘제임스 본드’ 다니엘 크레이그가 게이바를 선호하는 이유를 밝혔다. 다니엘 크레이그는 최근 팟캐스트 방송에 출연해 “한동안 게이바에 오래 다녔다. 게이바에선 싸우지 않아도 됐기 때문이다. 술]]></content>
     </entry>
 </feed>
