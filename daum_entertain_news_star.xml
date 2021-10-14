@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-10-14T16:30:57.002Z</updated>
+    <updated>2021-10-14T17:24:11.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['반올림3' 정다야 "전 소속사 횡포에 활동 無..한 달 전 계약 만료"]]></title>
+        <id>https://entertain.v.daum.net/v/20211015022002714</id>
+        <link href="https://entertain.v.daum.net/v/20211015022002714"/>
+        <updated>2021-10-14T17:23:42.746Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) '반올림3'의 주시은으로 유명했던 정다야가 근황을 전했다. 14일 오후 '근황올림픽' 유튜브 채널에는 'KBS 드라마 여주인공, 은퇴 후 놀라운 근황'이라는 제목의 영상이 게재됐다. 공개된 영상에서 정다야는 "최근에 SNS에 그 때의 모습을 기억해주시는 분들이 찾아와주신다"며 "방송이 나갈 땐 싸이월드를 하던 시기였는데, 군인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['도시어부3' 이태곤, 대구 77cm→이수근 91cm 대어 잡이 성공]]></title>
         <id>https://entertain.v.daum.net/v/20211015004500400</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211014233830813"/>
         <updated>2021-10-14T16:30:32.686Z</updated>
         <content type="html"><![CDATA[[TV리포트=김은정 기자] 샤이니 민호가 '야생돌'의 경쟁에 깜짝 놀랐다. 14일 오후 방송된 MBC 서바이벌 오디션 프로그램 ‘극한데뷔 야생돌'에서는&nbsp;본격 팀워크 미션 평가가 진행되며 팀원들이 갈등을 보였다. 이날 A팀 리더 임주안은 자진 방출을 결정했다. 팀원들의 만류에도 트레이드 의지를 꺾지 않은 그의 모습에 김종국은 "선장은 배를 떠나면 안 된다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공효진 "캠핑카 장기 렌트했는데 막상 끌고 나가니 다 안 된다고 해"]]></title>
-        <id>https://entertain.v.daum.net/v/20211014233403774</id>
-        <link href="https://entertain.v.daum.net/v/20211014233403774"/>
-        <updated>2021-10-14T16:30:32.688Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 이소연 기자] 공효진이 탄소배출 없는 캠핑을 해보자며 환경 예능 프로그램을 기획했다. 14일 방송된 KBS2 ‘오늘부터 무해하게’에서 공효진은 전혜진, 이천희 부부와 함께 환경의 중요성을 알릴 프로그램 콘텐츠를 기획했다. 이날 방송에서 공효진은 “우리끼리 콘텐츠를 제작해서 팔자. 요즘에 제일 문제가 뭐라고 생각해?”라고 물었다. 전혜진은 “날]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-10-14T16:30:56.999Z</updated>
+    <updated>2021-10-14T17:24:11.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[위클리 이수진, 웹시트콤 ‘나의 아저씨 꼰대희’ 캐스팅 [공식]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000938620</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000938620"/>
+        <updated>2021-10-14T17:24:03.710Z</updated>
+        <content type="html"><![CDATA[위클리 이수진, 웹시트콤 ‘나의 아저씨 꼰대희’ 캐스팅 [공식] 걸그룹 위클리(Weeekly)의 이수진이 꼰대희(김대희)와 만나 특별한 꼰대 케미를 선사한다. 소속사 플레이엠엔터테인먼트 측은 14일 “위클리 이수진이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[선우, ‘백수세끼’ 캐스팅]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000938619</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000938619"/>
+        <updated>2021-10-14T17:24:03.711Z</updated>
+        <content type="html"><![CDATA[선우, ‘백수세끼’ 캐스팅 배우 선우가 ‘백수세끼’ 연다미 역으로 캐스팅이 확정됐다. 14일 선우 소속사 스타리움엔터테인먼트는 “선우가 플레이리스트와 스튜디오N 공동제작의 새 드라마 ‘백수세끼’에 캐스팅됐다. 많은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[무진성 전속계약 [공식]]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000938618</id>
@@ -164,20 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=009&amp;aid=0004865005</id>
         <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0004865005"/>
         <updated>2021-10-14T13:25:05.400Z</updated>
-        <content type="html"><![CDATA[가수 영탁이 14일 오후 비대면으로 진행된 2021 나눔 음악회 '우리 함께 희망으로’에서 멋진 무대를 펼치고 있다 &lt;사진제공 = SBS미디어넷&gt;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토]영탁, 나눔음악회 찐이야]]></title>
-        <id>https://entertain.naver.com/now/read?oid=009&amp;aid=0004865004</id>
-        <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0004865004"/>
-        <updated>2021-10-14T13:25:05.401Z</updated>
-        <content type="html"><![CDATA[가수 영탁이 14일 오후 비대면으로 진행된 2021 나눔 음악회 '우리 함께 희망으로’에서 멋진 무대를 펼치고 있다 &lt;사진제공 = SBS미디어넷&gt;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토]영탁, 당신이 찐이야]]></title>
-        <id>https://entertain.naver.com/now/read?oid=009&amp;aid=0004865003</id>
-        <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0004865003"/>
-        <updated>2021-10-14T13:25:05.402Z</updated>
         <content type="html"><![CDATA[가수 영탁이 14일 오후 비대면으로 진행된 2021 나눔 음악회 '우리 함께 희망으로’에서 멋진 무대를 펼치고 있다 &lt;사진제공 = SBS미디어넷&gt;]]></content>
     </entry>
 </feed>

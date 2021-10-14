@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-14T16:30:56.991Z</updated>
+    <updated>2021-10-14T17:24:11.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[위클리 이수진, 웹시트콤 '나의 아저씨 꼰대희' 캐스팅]]></title>
+        <id>https://entertain.v.daum.net/v/20211015020006639</id>
+        <link href="https://entertain.v.daum.net/v/20211015020006639"/>
+        <updated>2021-10-14T17:23:37.416Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 위클리 이수진, 웹시트콤 ‘나의 아저씨 꼰대희’ 캐스팅 [공식] 걸그룹 위클리(Weeekly)의 이수진이 꼰대희(김대희)와 만나 특별한 꼰대 케미를 선사한다. 소속사 플레이엠엔터테인먼트 측은 14일 “위클리 이수진이 웹 시트콤 ‘나의 아저씨 꼰대희’에 ‘심청’ 역으로 캐스팅 됐다”고 밝혔다. ‘나의 아저씨 꼰대희’는 KBS2 ‘개그콘서트’의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['국민가수' 김영근 "'슈퍼스타K' 우승했지만 무관심, 간절하다" 눈물]]></title>
         <id>https://entertain.v.daum.net/v/20211015000713146</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211014205001582"/>
         <updated>2021-10-14T12:31:31.271Z</updated>
         <content type="html"><![CDATA[[스타뉴스 문완식 기자] 가수 임영웅이 부산의 노래교실에서 '남자를 말합니다'를 선보인 영상이 100만 뷰를 돌파했다. 임영웅이 지난 2019년 10월 17일 공식 유튜브 채널에 공개한 '임영웅 남자는말합니다 부산KBS 임성환 노래교실' 영상은 10월 13일 조회수 100만 뷰를 넘어섰다. 영상에는 임영웅이 부산KBS 임성환 노래교실에서 장민호의 '남자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['엠카' 원호, 후속곡 'Come Over Tonight' 무대 최초 공개]]></title>
-        <id>https://entertain.v.daum.net/v/20211014203635332</id>
-        <link href="https://entertain.v.daum.net/v/20211014203635332"/>
-        <updated>2021-10-14T12:31:31.272Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김노을 기자] 가수 원호(WONHO)가 섹시하면서도 카리스마 넘치는 무대를 선보였다. 원호는 10월 14일 방송된 Mnet '엠카운트다운'에 출연해 두 번째 미니 앨범 '블루 레터(Blue Letter)'의 수록곡 '컴 오버 투나잇(Come Over Tonight)' 무대를 처음 선보였다. 이날 원호는 블랙톤의 시스루 상의와 스트라이프 슈트를 입]]></content>
     </entry>
 </feed>
