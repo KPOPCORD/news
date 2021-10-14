@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-14T19:17:03.314Z</updated>
+    <updated>2021-10-14T20:21:48.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[초점]K팝, 中 팬덤 규제도 넘었다...BTS 등 앨범 5000만 장 돌파]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010771188</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010771188"/>
+        <updated>2021-10-14T20:21:33.542Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 가온차트, 3분기만에 4300만장...작년 판매량 이미 넘어 중국 규제 우려속 승승장구...북미 시장 내 성장세 덕 "올해 총 피지컬 앨범 판매량 6000만 장 육박" 전망 [서울=뉴시스]이재훈 기자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BTS 정국, 순백의 왕자님 비주얼로 여심 저격]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001360206</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001360206"/>
+        <updated>2021-10-14T20:21:33.542Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 방탄소년단(BTS) 정국이 꿈속에서 나올 법한 순백의 왕자님 자태로 팬심을 뒤흔들었다. 지난 14일 코웨이는 공식 오피셜 계정을 통해 글로벌 모델로 활약 중인 방탄소년단의 영상을 새롭게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크로스오버 그룹 레떼아모르, “우리는 피를 나눈 끈끈한 형제 같아’ (롤링스톤코리아)]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001360202</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000499704"/>
         <updated>2021-10-14T12:31:47.680Z</updated>
         <content type="html"><![CDATA[[뉴스엔 김노을 기자] 가수 원호(WONHO)가 섹시하면서도 카리스마 넘치는 무대를 선보였다. 원호는 10월 14일 방송된 Mnet '엠카운트다운'에 출연해 두 번째 미니 앨범 '블루 레터(Blue Letter)'의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이펙스, 절도 넘치는 무대[포토엔HD]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000499703</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000499703"/>
-        <updated>2021-10-14T12:31:47.680Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 표명중 기자] ’2021 나눔 음악회 우리 함께 희망으로’가 10월14일 오후 진행됐다 이날 이펙스가 화려한 무대를 선보였다. 사진제공=SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이펙스, 나눔 음악회 우리 함께 희망으로 출연[포토엔HD]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000499702</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000499702"/>
-        <updated>2021-10-14T12:31:47.682Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 표명중 기자] ’2021 나눔 음악회 우리 함께 희망으로’가 10월14일 오후 진행됐다 이날 이펙스가 화려한 무대를 선보였다. 사진제공=SBS]]></content>
     </entry>
 </feed>
