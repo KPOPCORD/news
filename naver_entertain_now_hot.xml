@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-10-14T18:23:37.859Z</updated>
+    <updated>2021-10-14T19:17:03.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[손담비, 이사했나?..완벽한 한강뷰, 궁궐같은 집 공개 [스타IN★]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002996925</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002996925"/>
+        <updated>2021-10-14T19:16:55.324Z</updated>
+        <content type="html"><![CDATA[손담비가 완벽한 한강뷰의 집을 공개했다. 손담비는 14일 자신의 인스타그램에 집에서 찍은 사진을 게재했다. 공개된 사진 속 손담비는 완벽한 한강뷰를 자랑하는 테라스와 창문 앞에서 포즈를 취하고 있다. '나혼자 산다']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘스크림’ 2022년 1월 재개봉]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000938623</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=009&amp;aid=0004865009</id>
         <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0004865009"/>
         <updated>2021-10-14T13:25:05.398Z</updated>
-        <content type="html"><![CDATA[가수 나태주가 14일 오후 비대면으로 진행된 2021 나눔 음악회 '우리 함께 희망으로’에서 멋진 무대를 펼치고 있다 &lt;사진제공 = SBS미디어넷&gt;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토]나태주, 즐거운 나눔음악회]]></title>
-        <id>https://entertain.naver.com/now/read?oid=009&amp;aid=0004865008</id>
-        <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0004865008"/>
-        <updated>2021-10-14T13:25:05.399Z</updated>
         <content type="html"><![CDATA[가수 나태주가 14일 오후 비대면으로 진행된 2021 나눔 음악회 '우리 함께 희망으로’에서 멋진 무대를 펼치고 있다 &lt;사진제공 = SBS미디어넷&gt;]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-14T18:23:37.855Z</updated>
+    <updated>2021-10-14T19:17:03.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[크로스오버 그룹 레떼아모르, “우리는 피를 나눈 끈끈한 형제 같아’ (롤링스톤코리아)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001360202</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001360202"/>
+        <updated>2021-10-14T19:16:47.899Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 14일 롤링스톤 코리아는 홈페이지를 통해 크로스오버 그룹 레떼아모르와의 인터뷰를 공개했다. JTBC ‘팬텀싱어3’ 출신인 그룹 레떼아모르 (길병민,김민석,김성식,박현수)는 결성 500일에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이자연→여행스케치, ‘찾아가는 전국민 희망콘서트’ 재개]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001360201</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000499702"/>
         <updated>2021-10-14T12:31:47.682Z</updated>
         <content type="html"><![CDATA[[뉴스엔 표명중 기자] ’2021 나눔 음악회 우리 함께 희망으로’가 10월14일 오후 진행됐다 이날 이펙스가 화려한 무대를 선보였다. 사진제공=SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CIX 배진영, 열정적인 무대[포토엔HD]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000499701</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000499701"/>
-        <updated>2021-10-14T12:31:47.682Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 표명중 기자] ’2021 나눔 음악회 우리 함께 희망으로’가 10월14일 오후 진행됐다 이날 CIX가 화려한 무대를 선보였다. 사진제공=SBS]]></content>
     </entry>
 </feed>
