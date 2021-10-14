@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-14T12:32:00.587Z</updated>
+    <updated>2021-10-14T13:25:12.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[드림노트, 새 앨범 콘셉트 포토 공개]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000767535</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000767535"/>
+        <updated>2021-10-14T13:24:58.203Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 아이디어뮤직엔터테인먼트코리아(iMe KOREA) 소속 걸그룹 드림노트(유아이, 보니, 라라, 미소, 수민, 은조)가 14일 오후 6시 공식 SNS를 통해 컴백 개인별 콘셉트 포토를 공개했다. 공개된 콘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프로미스나인, 주변 밝히는 무대[포토엔HD]]]></title>
         <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000499718</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002996892"/>
         <updated>2021-10-14T11:17:23.416Z</updated>
         <content type="html"><![CDATA[배우 진영이 리디 웹툰 OST를 통해 남다른 프로듀싱 능력을 선보인다. 오렌지디멘션(orangeDmsn)은 14일 공식 SNS를 통해 진영이 가창한 리디 웹툰 '티파니에서 모닝 키스를'의 두 번째 OST '넌 사랑을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['엠카' ITZY, 에이티즈 꺾고 1위 "믿지 고마워"[★밤TView]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002996890</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002996890"/>
-        <updated>2021-10-14T11:17:23.423Z</updated>
-        <content type="html"><![CDATA['엠카운트다운'에서 걸그룹 ITZY가 그룹 에이티즈를 꺾고 1위를 차지했다. 14일 오후 방송된 Mnet 음악프로그램 '엠카운트다운'에서는 ITZY와 에이티즈가 1위 자리를 놓고 겨뤘다. 이날 ITZY의 'LOCO']]></content>
     </entry>
 </feed>

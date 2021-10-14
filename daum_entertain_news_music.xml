@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-14T12:32:00.594Z</updated>
+    <updated>2021-10-14T13:25:12.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공식이 되어 버린 '가을엔 웅산'..11월 7일 롯데콘서트홀 콘서트]]></title>
+        <id>https://entertain.v.daum.net/v/20211014215635756</id>
+        <link href="https://entertain.v.daum.net/v/20211014215635756"/>
+        <updated>2021-10-14T13:24:41.560Z</updated>
+        <content type="html"><![CDATA[어느덧 재즈 팬들에겐 공식이 되어버린 “가을엔 웅산”. 재즈보컬리스트 웅산의 가을 콘서트가 11월 7일 오후 5시, 서울 롯데콘서트홀에서 열린다. 웅장한 스케일에 감동적인 선율을 더해 웅산만의 깊이 있고 따뜻한 음악세계로 안내해 줄 이번 콘서트의 공식 타이틀은 ‘Autumn in Jazz 웅산 with 서울 페스타 필하모닉 오케스트라’로 명명됐다. 팬들이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['돌들의 침묵' AB6IX, 'CHERRY' 완곡 댄스 미션 성공..'스우파' 싱크로율 200%]]></title>
         <id>https://entertain.v.daum.net/v/20211014210407878</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211014183114563"/>
         <updated>2021-10-14T10:22:16.251Z</updated>
         <content type="html"><![CDATA[[OSEN=이승훈 기자] 싱어송라이터 서리(Seori)가 래퍼 기리보이와 '우린 결국 그렇게'로 재회했다. 서리는 14일 발매된 기리보이의 아홉 번째 정규앨범 'avante'의 수록곡 '우린 결국 그렇게 (Feat. Seori)'에 피처링 주자로 참여했다. '우린 결국 그렇게'는 극적인 사랑에 대한 이야기를 담고 있다. 순수한 사랑에서 치사하고 찌질해지고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박지훈, 28일 미니 5집 컴백..2개월만]]></title>
-        <id>https://entertain.v.daum.net/v/20211014183049556</id>
-        <link href="https://entertain.v.daum.net/v/20211014183049556"/>
-        <updated>2021-10-14T10:22:16.253Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 공미나 기자] /사진제공=마루기획가수 박지훈이 두 달 만에 돌아온다. 박지훈은 지난 13일 오후 공식 SNS를 통해 다섯 번째 미니앨범 발매를 알리는 커밍순 이미지를 기습 공개했다. 공개된 이미지에는 눈을 감은 채 생각에 잠긴 듯한 박지훈의 옆모습이 담겼다. 밝게 탈색된 헤어와 다채로운 주얼리의 스타일링은 자유분방한 청춘의 자기표현을 보여준다.]]></content>
     </entry>
 </feed>
