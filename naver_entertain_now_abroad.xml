@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-13T23:21:19.350Z</updated>
+    <updated>2021-10-14T01:05:28.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘9세 연하 카라타 에리카와 불륜’ 히가시데 마사히로, 20대 여성과 열애중[해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003545070</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003545070"/>
+        <updated>2021-10-14T01:05:27.246Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]9세 연하 배우 카라타 에리카(24)와 불륜으로 여론의 질타를 받은 일본 스타 히가시데 마사히로(33)사 새로운 연애를 시작했다. 일본 주간지 슈칸분슌은 13일 히가시데 마사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스 오징어게임 28일만에 1억1100만 가구 시청, 공식 발표]]></title>
         <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005656040</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000823045</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000823045"/>
         <updated>2021-10-13T04:27:14.303Z</updated>
-        <content type="html"><![CDATA[13일 오후 JTBC 새 수목드라마 ‘너를 닮은 사람’ 온라인 제작발표회가 열렸다. 이날 제작발표회에는 임현욱 감독, 고현정, 신현빈이 참석했다. 고현정과 신현빈이 제작발표회에 앞서 포토타임을 갖고 있다. 사진= J]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고현정-신현빈 '살갑게 와락' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000823044</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000823044"/>
-        <updated>2021-10-13T04:27:14.304Z</updated>
         <content type="html"><![CDATA[13일 오후 JTBC 새 수목드라마 ‘너를 닮은 사람’ 온라인 제작발표회가 열렸다. 이날 제작발표회에는 임현욱 감독, 고현정, 신현빈이 참석했다. 고현정과 신현빈이 제작발표회에 앞서 포토타임을 갖고 있다. 사진= J]]></content>
     </entry>
 </feed>
