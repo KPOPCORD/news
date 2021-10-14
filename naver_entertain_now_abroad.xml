@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-14T08:24:47.583Z</updated>
+    <updated>2021-10-14T09:20:37.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[데이비드 핀처, 넷플릭스 다큐 '부아르' 제작한다]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010770846</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010770846"/>
+        <updated>2021-10-14T09:20:37.146Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]홍연우 기자 = 데이비드 핀처 감독이 넷플릭스 다큐멘터리를 제작한다. 14일 미국 연예 전문매체 버라이어티는 "넷플릭스와 데이비드 핀처가 새 다큐멘터리 시리즈 '부아르(VOIR)'를 제작한다"고 밝혔다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘제임스 본드’ 다니엘 크레이그 “게이바 오래 다녔다…그 이유는~”]]></title>
         <id>https://entertain.naver.com/now/read?oid=022&amp;aid=0003628296</id>
@@ -32,13 +39,6 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010770332"/>
         <updated>2021-10-14T07:20:29.182Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]홍연우 기자 = 그룹 '블랙핑크' 멤버 리사가 디제이 스네이크(DJ Snake)와 협업한다. 14일 디제이 스네이크는 개인 SNS에 '커밍 순(COMING SOON)'이라는 글을 올리며 가수 오주나(O]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영국 도롯가에 웬 '△□○'표지판?…경찰 "오징어게임 아닙니다"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012722474</id>
-        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012722474"/>
-        <updated>2021-10-14T07:20:29.183Z</updated>
-        <content type="html"><![CDATA[넷플릭스 '오징어 게임' 연상시키는 문양…"우회로 표지판일 뿐" (서울=연합뉴스) 전명훈 기자 = 영국의 한 고속도로에 넷플릭스 드라마 '오징어게임'에서 나올 법한 표지판이 등장했다. 하지만 단순히 공사 중 우회로를]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['카라타 에리카와 불륜' 日배우 히가시데 마사히로, 새 연인 생겼다 [N해외연예]]]></title>

@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 08:24:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 09:20:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[움짤] 조유리, '병아리 룩' 입고 귀여운 '햄찌' 매력~]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/327839</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/327839</guid>
+            <pubDate>Thu, 14 Oct 2021 09:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/327839">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/14/fe8aa8c6-d1dd-40e9-a631-8d6f062cbafd.jpg" alt="[움짤] 조유리, '병아리 룩' 입고 귀여운 '햄찌' 매력~">        <div class="text-box">            <p class="summary">[움짤] 조유리, '병아리 룩' 입고 귀여운 '햄찌' 매력~</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/14/fe8aa8c6-d1dd-40e9-a631-8d6f062cbafd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[포토] 조유리, '복숭아빛' 햄찌]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/327831</link>
@@ -86,14 +94,6 @@
             <pubDate>Thu, 14 Oct 2021 02:31:26 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/327792">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/14/gqgkZ5UtUqnp637698072967761709.jpg" alt="동해, 신곡 '캘리포니아 러브' 아이튠즈 톱송 차트 10개 지역 1위">        <div class="text-box">            <p class="summary">동해, 신곡 '캘리포니아 러브' 아이튠즈 톱송 차트 10개 지역 1위</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/14/gqgkZ5UtUqnp637698072967761709.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127, 정규 3집 리패키지 ‘Favorite’ 25일 공개...'Pilot' 추가 수록]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/327790</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/327790</guid>
-            <pubDate>Thu, 14 Oct 2021 02:31:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/327790">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/14/cTU6JXDZi89d637698067100207666.jpg" alt="NCT 127, 정규 3집 리패키지 ‘Favorite’ 25일 공개...'Pilot' 추가 수록">        <div class="text-box">            <p class="summary">NCT 127, 정규 3집 리패키지 ‘Favorite’ 25일 공개...'Pilot' 추가 수록</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/14/cTU6JXDZi89d637698067100207666.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
