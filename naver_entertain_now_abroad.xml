@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-14T03:21:54.373Z</updated>
+    <updated>2021-10-14T04:26:55.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[40세 비욘세, 파격 패션 속 글래머러스 매력 발산 [N샷]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005657270</id>
+        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005657270"/>
+        <updated>2021-10-14T04:26:54.993Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 윤효정 기자 = 팝스타 비욘세(40)가 건강미 넘치는 매력을 뽐냈다. 비욘세는 14일 인스타그램에 파격적인 스타일링이 돋보이는 사진을 게재, 팬들의 뜨거운 반응을 이끌어냈다. 그는 볼륨감 넘치는 몸매]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미성년자와 불륜 후 이혼한 日톱배우, 다른 20대女와 또 '스캔들']]></title>
         <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004656497</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000823059"/>
         <updated>2021-10-13T05:18:53.065Z</updated>
         <content type="html"><![CDATA[13일 오후 온라인으로 진행된 tvN 15주년 특별기획 '지리산'(극본 김은희, 연출 이응복) 제작발표회에서 출연진들이 참석해 포즈를 취하고 있다. '지리산'은 지리산 국립공원 최고의 레인저 서이강(전지현 분)과 말]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제니퍼 로페즈♥벤 애플렉, 17년만 재결합에 껌딱지 커플 등극[파파라치컷]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000498984</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000498984"/>
-        <updated>2021-10-13T05:18:53.067Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 제니퍼 로페즈, 벤 애플렉이 껌딱지 커플 면모를 보였다. 스플래쉬닷컴은 10월 10일(현지시간) 뉴욕 한 호텔에서 포착된 제니퍼 로페즈, 벤 애플렉 모습을 공개했다. 제니퍼 로페즈와 벤 애플렉]]></content>
     </entry>
 </feed>
