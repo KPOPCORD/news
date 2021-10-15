@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-15T15:21:43.883Z</updated>
+    <updated>2021-10-15T16:31:13.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서태지부터 BTS까지 ‘MV 명가’ 쟈니브로스, 영국 임프로버블과 업무협약]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000767721</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000767721"/>
+        <updated>2021-10-15T16:31:00.283Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] ‘뮤직비디오 명가’ 쟈니브로스가 지난 14일 영국 게임회사 임프로버블(Improbable)과 업무협약을 체결하고 전세계를 겨냥한 메타버스 기반 콘텐츠 제작을 위한 발걸음을 내딛었다고 전했다. 쟈니브로스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[드리핀 김동윤, 소년 비주얼에 중저음 '반전 매력']]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000110900</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003487227"/>
         <updated>2021-10-15T09:20:01.301Z</updated>
         <content type="html"><![CDATA[[헤럴드POP=임의정 기자]KCM의 신곡 ‘오늘도 맑음’ 뮤직비디오의 여주인공 최현서가 관심을 끌고 있다. ‘오늘도 맑음’은 KCM이 지난 13일 공개한 신곡으로 KCM 특유의 감성이 호소력 짙은 허스키한 고음이 담]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘청하 소속사 1호 발라더’ 임상현, 21일 새 싱글 ‘이럴거면’ 발매]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000823604</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000823604"/>
-        <updated>2021-10-15T09:20:01.302Z</updated>
-        <content type="html"><![CDATA[가수 임상현이 약 3개월 만에 신보로 돌아온다. 15일 소속사 MNH엔터테인먼트는 “가수 임상현이 오는 21일 정오 새 디지털 싱글 ‘이럴거면’을 발매한다”고 밝혔다. 임상현은 신보 소식과 함께 15일 0시 공식 S]]></content>
     </entry>
 </feed>
