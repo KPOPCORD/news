@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 07:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 08:24:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장원영, 명품보다 빛나는 러블리 비주얼 [인스타]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/327956</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/327956</guid>
+            <pubDate>Fri, 15 Oct 2021 08:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/327956">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/15/VVLJdHUXqmAP637699140074416890.jpg" alt="장원영, 명품보다 빛나는 러블리 비주얼 [인스타] ">        <div class="text-box">            <p class="summary">장원영, 명품보다 빛나는 러블리 비주얼 [인스타] </p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/15/VVLJdHUXqmAP637699140074416890.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[위너 강승윤, 11월 첫 솔로 콘서트 개최 “걸어온 길 보여줄 계획”]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/327952</link>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 15 Oct 2021 01:09:19 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/327855">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/15/gvsTuo5Gzehe637698608026025304.jpg" alt="레드벨벳 슬기, 힙한 패션도 완벽 소화 명품 비주얼 [인스타] ">        <div class="text-box">            <p class="summary">레드벨벳 슬기, 힙한 패션도 완벽 소화 명품 비주얼 [인스타] </p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/15/gvsTuo5Gzehe637698608026025304.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[움짤] 조유리, '병아리 룩' 입고 귀여운 '햄찌' 매력~]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/327839</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/327839</guid>
-            <pubDate>Thu, 14 Oct 2021 09:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/327839">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/14/fe8aa8c6-d1dd-40e9-a631-8d6f062cbafd.jpg" alt="[움짤] 조유리, '병아리 룩' 입고 귀여운 '햄찌' 매력~">        <div class="text-box">            <p class="summary">[움짤] 조유리, '병아리 룩' 입고 귀여운 '햄찌' 매력~</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/14/fe8aa8c6-d1dd-40e9-a631-8d6f062cbafd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
