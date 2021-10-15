@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-15T02:33:12.785Z</updated>
+    <updated>2021-10-15T03:21:45.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이혜영 '방부제 미모' [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000823538</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000823538"/>
+        <updated>2021-10-15T03:21:44.449Z</updated>
+        <content type="html"><![CDATA[이혜영이 15일 오전 온라인으로 진행된 MBN 연애 예능 '돌싱글즈'2(연출 박선혜)제작발표회에 참석해 포즈를 취하고 있다. '돌싱글즈'2는 한 번 다녀온 돌싱 남녀들의 연애X동거 프로젝트를 다루는 연애 예능이다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이지혜 '화사한 미모' [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000823537</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000823537"/>
+        <updated>2021-10-15T03:21:44.452Z</updated>
+        <content type="html"><![CDATA[이지혜가 15일 오전 온라인으로 진행된 MBN 연애 예능 '돌싱글즈'2(연출 박선혜)제작발표회에 참석해 포즈를 취하고 있다. '돌싱글즈'2는 한 번 다녀온 돌싱 남녀들의 연애X동거 프로젝트를 다루는 연애 예능이다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유세윤 '돌싱글즈2 에서 만나요' [MK포토]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000823535</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000823418"/>
         <updated>2021-10-14T12:31:59.914Z</updated>
         <content type="html"><![CDATA[그룹 이펙스가 14일 오후 8시 유튜브 채널 '더 케이팝(THE K-POP)'을 통해 생중계되는 '2021 나눔음악회 우리 함께 희망으로'에 출연, 화려한 무대를 선보이고 있다. 뉴이스트의 백호와 아론의 사회로 진행]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이펙스 '풋풋한 무대' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000823415</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000823415"/>
-        <updated>2021-10-14T12:31:59.914Z</updated>
-        <content type="html"><![CDATA[그룹 이펙스가 14일 오후 8시 유튜브 채널 '더 케이팝(THE K-POP)'을 통해 생중계되는 '2021 나눔음악회 우리 함께 희망으로'에 출연, 화려한 무대를 선보이고 있다. 뉴이스트의 백호와 아론의 사회로 진행]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최불암 '우리 함께 희망을 나눠요' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000823414</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000823414"/>
-        <updated>2021-10-14T12:31:59.915Z</updated>
-        <content type="html"><![CDATA[배우 최불암이 14일 오후 8시 유튜브 채널 '더 케이팝(THE K-POP)'을 통해 생중계되는 '2021 나눔음악회 우리 함께 희망으로' 에 출연하고 있다. 뉴이스트의 백호와 아론의 사회로 진행되는 '2021 나눔]]></content>
     </entry>
 </feed>
