@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-10-15T18:23:58.534Z</updated>
+    <updated>2021-10-15T19:17:10.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['반올림3' 정다야, 걸그룹 2번의 해체→소속사 계약 분쟁 "알바로 생활 전전"]]></title>
+        <id>https://entertain.v.daum.net/v/20211016040101620</id>
+        <link href="https://entertain.v.daum.net/v/20211016040101620"/>
+        <updated>2021-10-15T19:16:43.644Z</updated>
+        <content type="html"><![CDATA[[텐아시아=박창기 기자]KBS 2TV 드라마 '반올림3'의 주시은으로 많은 사랑을 받았던 배우 정다야의 근황이 공개됐다.지난 14일 유튜브 채널 '근황올림픽'에는 'KBS 드라마 여주인공, 은퇴 후 놀라운 근황'이라는 제목의 영상이 게재됐다.이날 영상에서 정다야는 "최근 SNS에 그때의 모습을 기억하는 분들이 찾아오더라. 나도 잊고 있던 모습이다. 2006]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서지석 전속계약..김정은·조동혁 한솥밥]]></title>
+        <id>https://entertain.v.daum.net/v/20211016040015617</id>
+        <link href="https://entertain.v.daum.net/v/20211016040015617"/>
+        <updated>2021-10-15T19:16:43.644Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 서지석 전속계약…김정은·조동혁 한솥밥 배우 서지석이 뿌리깊은나무들 매니지먼트 레드우즈와 전속계약을 맺었다. 매니지먼트 레드우즈 측은 “서지석과 전속계약을 체결했다.”며 “서지석은 어느 색깔을 입혀도 완벽히 소화해내는 배우이다. 서지석만의 따뜻하면서도 유쾌한 매력을 펼쳐나갈 수 있도록 지원과 지지를 아끼지 않을 것”이라고 전했다. 2001년 K]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['쇼미10' 베이식, 패자부활전 합격→ 3차 미션 1:1 대결 시작]]></title>
         <id>https://entertain.v.daum.net/v/20211016012100959</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211015234755337"/>
         <updated>2021-10-15T15:21:18.104Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 이지현 기자 = 래퍼 자메즈가 '쇼미더머니 10'에도 도전장을 내밀었다. 15일 오후 방송된 Mnet 예능 프로그램 '쇼미더머니 10'에서는 자메즈가 2차 미션에 나섰다. 그는 '쇼미'를 통해 여러 차례 보여줬던 안정된 실력을 또 한번 입증했다. 특히 자메즈는 이번 미션에서 '엄마'에 대한 가사를 써 큰 감동을 안겼다. 프로듀서 코드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[키, 기안84 집 정리 도전 "아이템 위치 흥미로워"]]></title>
-        <id>https://entertain.v.daum.net/v/20211015234214290</id>
-        <link href="https://entertain.v.daum.net/v/20211015234214290"/>
-        <updated>2021-10-15T15:21:18.104Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 현혜선 기자] '나혼산' 키가 기안84의 집 정리를 도왔다. 15일 밤 방송된 MBC 예능프로그램 '나 혼자 산다'에서는 기안84의 집에 방문한 그룹 샤이니 키의 모습이 그려졌다. 이날 방송에서 키는 기안84의 집을 둘어 봤다. 키는 "어떤 물건이 들어가야 할 아이템은 있는데, 그곳에 들어가야 될 아이템이 안 들어 있다"고 말했다. 이어 "바]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나혼자산다' 기안84→키 "벼룩 옮아, 침대 눕지마라"]]></title>
-        <id>https://entertain.v.daum.net/v/20211015234201285</id>
-        <link href="https://entertain.v.daum.net/v/20211015234201285"/>
-        <updated>2021-10-15T15:21:18.104Z</updated>
-        <content type="html"><![CDATA[기안84가 자신의 침대에 누운 키에게 "벼룩 옮으니 눕지 마라"고 경고했다. 15일 방송된 MBC '나 혼자 산다'는 '구제해줘 기안홈즈' 특집으로, 이사 전 마지막 손님으로 온 키와 기안이 함께하는 하루가 그려졌다. 기안은 밥을 대접한 뒤  키에게 집 구경을 시켜줬다. 기안은 갑자기 황금 두꺼비를 꺼내며 "우리 집 보물이다. 한번 만져봐라. 좋은 일이]]></content>
     </entry>
 </feed>

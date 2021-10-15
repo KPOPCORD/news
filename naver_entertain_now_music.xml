@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-15T18:23:58.532Z</updated>
+    <updated>2021-10-15T19:17:10.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[밴드 OurR(아월). 새 싱글 ‘잠’ 10월 17일 발매]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001360619</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001360619"/>
+        <updated>2021-10-15T19:16:56.313Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 자전적인 이야기를 노래하는 3인조 밴드 OurR(아월)이 오는 10월 17일에 네 번째 싱글 ‘잠’으로 돌아온다. 5월 12일에 발표한 EP 'can’t'에 이어 5개월 만에 발매되는 싱]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[블랙핑크 제니, 여신 그 자체 [화보]]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001360618</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012725445"/>
         <updated>2021-10-15T09:20:01.300Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 김정진 기자 = TV조선은 지난 8월 종영한 예능 '내 딸 하자'가 '금요일은 밤이 좋아'로 새로 단장해 오는 29일 첫 방송을 시작한다고 15일 밝혔다. '금요일은 밤이 좋아'는 '미스트롯2' 멤]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 데이식스 영케이·원필, '야생돌' 타이틀곡 지원사격]]></title>
-        <id>https://entertain.naver.com/now/read?oid=052&amp;aid=0001652842</id>
-        <link href="https://entertain.naver.com/now/read?oid=052&amp;aid=0001652842"/>
-        <updated>2021-10-15T09:20:01.300Z</updated>
-        <content type="html"><![CDATA[그룹 데이식스 영케이와 원필이 '야생돌' 지원사격에 나섰다. 15일 한 가요관계자에 따르면, MBC 예능프로그램 '극한데뷔 야생돌'(이하 '야생돌')의 두 번째 타이틀곡 '낙하산은 펴지 않을게요'의 작곡과 작사에 데]]></content>
     </entry>
 </feed>
