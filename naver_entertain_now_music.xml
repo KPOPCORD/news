@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-15T13:25:38.893Z</updated>
+    <updated>2021-10-15T14:19:07.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[로시 컴백에..박은혜→윤현민 응원 "이런 발라드 기다렸다"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002997172</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002997172"/>
+        <updated>2021-10-15T14:18:53.294Z</updated>
+        <content type="html"><![CDATA[가수 로시(Rothy)를 신곡 'COLD LOVE'가 호평을 받고 있다. 로시는 지난 14일 오후 6시 각종 음원 사이트를 통해 새 디지털 싱글 'COLD LOVE'(콜드 러브)를 공개, 싸이, 박은혜, 윤현민, 주]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CIX 'World is One 2021 콘서트' 라인업 합류]]></title>
         <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000500095</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000823601"/>
         <updated>2021-10-15T09:20:01.311Z</updated>
         <content type="html"><![CDATA[그룹 CIX(씨아이엑스)가 'World is One 2021 콘서트' 라인업에 합류했다. CIX(BX, 승훈, 배진영, 용희, 현석)는 오는 30일 오후 8시 유튜브 라이브로 글로벌 생중계되는 'World is On]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2am 조권·이창민, 신보 콘셉트 이미지 공개…내달 1일 컴백]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010773127</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010773127"/>
-        <updated>2021-10-15T09:20:01.313Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]안소윤 인턴 기자 = 그룹 '2am'이 가요계로 다시 돌아온다. 15일 자정 2am은 공식 SNS 계정을 통해 새 미니앨범 '발라드 21 가을/겨울(Ballad 21 F/W)'의 조권, 이창민 콘셉트]]></content>
     </entry>
 </feed>
