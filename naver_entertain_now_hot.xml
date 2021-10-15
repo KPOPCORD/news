@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-10-15T17:24:15.700Z</updated>
+    <updated>2021-10-15T18:23:58.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이달의 소녀 김립·츄, 색다른 매력 [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000938823</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000938823"/>
+        <updated>2021-10-15T18:23:50.981Z</updated>
+        <content type="html"><![CDATA[이달의 소녀 김립·츄, 색다른 매력 [화보] 이달의 소녀(LOONA) 김립과 츄가 남성 라이프 스타일 매거진 에스콰이어와 함께 화보 촬영을 진행했다. 김립과 츄는 RED &amp; BLACK을 컨셉으로 강렬한 시선과 포즈를]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안젤리나 졸리·마동석→케빈 파이기 사로잡은 ‘이터널스’]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000938822</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000938822"/>
+        <updated>2021-10-15T18:23:50.981Z</updated>
+        <content type="html"><![CDATA[안젤리나 졸리·마동석→케빈 파이기 사로잡은 ‘이터널스’ 2021년 전 세계가 기다리는 최고의 기대작이자 더욱 확장된 MCU의 새로운 시작을 알리며 ‘어벤져스’ 시리즈의 전설을 이어갈 영화 ‘이터널스’의 위대한 시작을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프리지아 바비인형 느낌 [DAY컷]]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000938821</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000938807"/>
         <updated>2021-10-15T14:18:59.945Z</updated>
         <content type="html"><![CDATA[방송인 이지혜가 15일 진행된 MBN 새 예능프로그램 ‘돌싱글즈2’ 온라인 제작발표회에서 포즈를 취하고 있다. ‘돌싱글즈2’는 국내 최초 돌싱들의 연애와 동거 생활을 그리는 연애 예능 프로그램. 새로운 인연을 찾기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이혜영 도도한 느낌 (돌싱글즈) [DA포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000938806</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000938806"/>
-        <updated>2021-10-15T14:18:59.946Z</updated>
-        <content type="html"><![CDATA[방송인 이혜영이 15일 진행된 MBN 새 예능프로그램 ‘돌싱글즈2’ 온라인 제작발표회에서 포즈를 취하고 있다. ‘돌싱글즈2’는 국내 최초 돌싱들의 연애와 동거 생활을 그리는 연애 예능 프로그램. 새로운 인연을 찾기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유연석♥신현빈, 다시 만난 ‘윈터 가든’ (슬기로운 산촌생활)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000938805</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000938805"/>
-        <updated>2021-10-15T14:18:59.947Z</updated>
-        <content type="html"><![CDATA[유연석♥신현빈, 다시 만난 ‘윈터 가든’ (슬기로운 산촌생활) ‘윈터 가든’이 재회했다. 15일 방송된 tvN ‘슬기로운 산촌생활’에서는 ‘구구즈’ 5인방이 사흘째 산촌에서 하루를 보내는 모습이 그려졌다. 전날 게스]]></content>
     </entry>
 </feed>

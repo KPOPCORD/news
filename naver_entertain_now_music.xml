@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-15T17:24:15.663Z</updated>
+    <updated>2021-10-15T18:23:58.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[블랙핑크 제니, 여신 그 자체 [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001360618</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001360618"/>
+        <updated>2021-10-15T18:23:43.702Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 블랙핑크 제니의 비주얼이 눈길을 끈다. 최근 샤넬 앰버서더 제니는 더블유 매거진 11월 호 커버를 장식했다. 블랙핑크 제니는 샤넬(CHANEL) 2021/22 코코 네쥬(COCO NEIG]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국계 미국인 알앤비 싱송라 보이라이프, 데뷔 앨범 ‘gelato’ 발표]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001360615</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=052&amp;aid=0001652842"/>
         <updated>2021-10-15T09:20:01.300Z</updated>
         <content type="html"><![CDATA[그룹 데이식스 영케이와 원필이 '야생돌' 지원사격에 나섰다. 15일 한 가요관계자에 따르면, MBC 예능프로그램 '극한데뷔 야생돌'(이하 '야생돌')의 두 번째 타이틀곡 '낙하산은 펴지 않을게요'의 작곡과 작사에 데]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[T1419, 남미가 주목하는 K팝 아이돌..글로벌 인기 상승세]]></title>
-        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003487228</id>
-        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003487228"/>
-        <updated>2021-10-15T09:20:01.301Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=임의정 기자]보이그룹 T1419(티일사일구·노아, 시안, 케빈, 건우, 레오, 온, 제로, 카이리, 키오)가 남미에서 심상치 않은 인기 상승세를 얻고 있다. T1419는 지난 8월과 9월 각각 5900]]></content>
     </entry>
 </feed>
