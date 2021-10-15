@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-15T19:17:10.356Z</updated>
+    <updated>2021-10-15T20:21:21.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BTS 뷔, 만능 엔터테인먼트 스타 투표 1위 등극]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001360623</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001360623"/>
+        <updated>2021-10-15T20:21:07.755Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 방탄소년단(BTS) 뷔가 “남돌 중 만능 엔터테이너는?” 투표에서 1위에 등극했다. 아이돌 커뮤니티 ‘최애돌’에서 지난 10월 7일부터 10월 13일까지 진행된 “남돌 중 만능 엔터네이너]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[밴드 OurR(아월). 새 싱글 ‘잠’ 10월 17일 발매]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001360619</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003487233"/>
         <updated>2021-10-15T09:20:01.298Z</updated>
         <content type="html"><![CDATA[[헤럴드POP=임의정 기자]'음색 요정' 로시(Rothy)를 신곡 'COLD LOVE'가 호평을 받고 있다. 로시는 지난 14일 오후 6시 각종 음원 사이트를 통해 새 디지털 싱글 'COLD LOVE'(콜드 러브)를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TV조선 '내 딸 하자', '금요일은 밤이 좋아'로 돌아온다]]></title>
-        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012725445</id>
-        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012725445"/>
-        <updated>2021-10-15T09:20:01.300Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 김정진 기자 = TV조선은 지난 8월 종영한 예능 '내 딸 하자'가 '금요일은 밤이 좋아'로 새로 단장해 오는 29일 첫 방송을 시작한다고 15일 밝혔다. '금요일은 밤이 좋아'는 '미스트롯2' 멤]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-10-15T19:17:10.359Z</updated>
+    <updated>2021-10-15T20:21:21.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신봉선, '라스' 눈·코 성형 고백 자막에 억울 "진짜 안 했다"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003789731</id>
+        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003789731"/>
+        <updated>2021-10-15T20:21:14.404Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 조윤선 기자] 개그우먼 신봉선이 눈 성형 의혹에 억울함을 토로했다. 신봉선은 15일 자신의 인스타그램에 "이건 짚고 갈게요!!! 저 눈은 정말 진짜 안 했습니다!!! 나중에 눈이 처져서 하게 되면 말씀드]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[옥택연♥김혜윤 설렘 유발 커플룩 [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000938826</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000938826"/>
+        <updated>2021-10-15T20:21:14.405Z</updated>
+        <content type="html"><![CDATA[옥택연♥김혜윤 설렘 유발 커플룩 [화보] 퍼스트룩 매거진은 11월 8일 첫 방송을 앞두고 있는 tvN 월화드라마 ‘어사와 조이’의 주인공 옥택연과 김혜윤의 훈훈한 연인 케미스트리가 돋보이는 228호 커버스토리를 예고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서지석 전속계약…김정은·조동혁 한솥밥]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000938825</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000938811"/>
         <updated>2021-10-15T15:21:36.607Z</updated>
         <content type="html"><![CDATA[배우 한선화가 15일 오후 온라인으로 진행된 티빙 오리지널 ‘술꾼도시여자들’ 제작발표회에서 포토타임에 임하고 있다. 미깡 작가의 다음 웹툰 ‘술꾼도시처녀들’을 원작으로 한 ‘술꾼도시여자들’은 하루 끝의 술 한 잔이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이선빈 사랑스러운 포즈 (술꾼도시여자들) [DA포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000938810</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000938810"/>
-        <updated>2021-10-15T15:21:36.610Z</updated>
-        <content type="html"><![CDATA[배우 이선빈이 15일 오후 온라인으로 진행된 티빙 오리지널 ‘술꾼도시여자들’ 제작발표회에서 포토타임에 임하고 있다. 미깡 작가의 다음 웹툰 ‘술꾼도시처녀들’을 원작으로 한 ‘술꾼도시여자들’은 하루 끝의 술 한 잔이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기안84 “이사만 여섯 번, 신축빌라 계약” (나혼자산다)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000938809</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000938809"/>
-        <updated>2021-10-15T15:21:36.611Z</updated>
-        <content type="html"><![CDATA[기안84 “이사만 여섯 번, 신축빌라 계약” (나혼자산다) 기안84가 근황을 전했다. 기안84는 15일 밤 방송된 MBC ‘나혼자산다’에서 근황 토크 도중 “이사를 앞두고 있어서 짐을 정리해야 한다. ‘기기상회’ 어]]></content>
     </entry>
 </feed>
