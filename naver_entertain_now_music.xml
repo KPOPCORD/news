@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-15T16:31:13.504Z</updated>
+    <updated>2021-10-15T17:24:15.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국계 미국인 알앤비 싱송라 보이라이프, 데뷔 앨범 ‘gelato’ 발표]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001360615</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001360615"/>
+        <updated>2021-10-15T17:23:59.102Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 미국 캘리포니아 출신의 한국계 미국인 알앤비 싱어송라이터 보이라이프가 지난 8일 첫 데뷔 앨범 'gelato'를 발표했다. 보이라이프는 UCLA 교우끼리 결성한 듀오 커먼 솔스(Commo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서태지부터 BTS까지 ‘MV 명가’ 쟈니브로스, 영국 임프로버블과 업무협약]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000767721</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003487228"/>
         <updated>2021-10-15T09:20:01.301Z</updated>
         <content type="html"><![CDATA[[헤럴드POP=임의정 기자]보이그룹 T1419(티일사일구·노아, 시안, 케빈, 건우, 레오, 온, 제로, 카이리, 키오)가 남미에서 심상치 않은 인기 상승세를 얻고 있다. T1419는 지난 8월과 9월 각각 5900]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최현서, KCM '오늘도 맑음' 뮤비 출연..이동휘 상대역]]></title>
-        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003487227</id>
-        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003487227"/>
-        <updated>2021-10-15T09:20:01.301Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=임의정 기자]KCM의 신곡 ‘오늘도 맑음’ 뮤직비디오의 여주인공 최현서가 관심을 끌고 있다. ‘오늘도 맑음’은 KCM이 지난 13일 공개한 신곡으로 KCM 특유의 감성이 호소력 짙은 허스키한 고음이 담]]></content>
     </entry>
 </feed>

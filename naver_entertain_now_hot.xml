@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-10-15T16:31:13.495Z</updated>
+    <updated>2021-10-15T17:24:15.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[프리지아 바비인형 느낌 [DAY컷]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000938821</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000938821"/>
+        <updated>2021-10-15T17:24:07.028Z</updated>
+        <content type="html"><![CDATA[프리지아 바비인형 느낌 [DAY컷] 유튜버 ‘프리지아(송지아)’가 한 여성복 브랜드의 앰버서더로 발탁됐다. 프리지아는 유튜브 구독자 56만 명을 보유한 패션 크리에이터로, 트렌디한 패션 센스와 특유의 당당하고 자신감]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다비치, 마마무 문별 라이브쇼 출연 [공식]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000938820</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000938820"/>
+        <updated>2021-10-15T17:24:07.030Z</updated>
+        <content type="html"><![CDATA[다비치, 마마무 문별 라이브쇼 출연 [공식] 국가대표 여성 듀오 다비치가 오는 18일(월) 밤 9시 네이버 NOW. 라이브 쇼 ‘studio문나잇’으로 팬들을 찾아간다. ‘studio문나잇’은 마마무 문별이 단독 호]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘유미의 세포들’ 김고은, 사랑스러운 비주얼…귀여움 폭발[M+★SNS]]]></title>
         <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001614434</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000938805"/>
         <updated>2021-10-15T14:18:59.947Z</updated>
         <content type="html"><![CDATA[유연석♥신현빈, 다시 만난 ‘윈터 가든’ (슬기로운 산촌생활) ‘윈터 가든’이 재회했다. 15일 방송된 tvN ‘슬기로운 산촌생활’에서는 ‘구구즈’ 5인방이 사흘째 산촌에서 하루를 보내는 모습이 그려졌다. 전날 게스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신현빈 깜짝 등장 “연기 신이네” (슬기로운 산촌생활)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000938804</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000938804"/>
-        <updated>2021-10-15T14:18:59.948Z</updated>
-        <content type="html"><![CDATA[신현빈 깜짝 등장 “연기 신이네” (슬기로운 산촌생활) 배우 신현빈이 산촌에 떴다. 15일 방송된 tvN ‘슬기로운 산촌생활’에서는 ‘구구즈’ 5인방이 아침상을 차리는 모습이 그려졌다. 이날 출연진들은 아침 메뉴로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돌싱글즈 4인 ‘많이 기대해주세요!’ (돌싱글즈) [DA포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000938803</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000938803"/>
-        <updated>2021-10-15T14:18:59.951Z</updated>
-        <content type="html"><![CDATA[정겨운, 이혜영, 유세윤, 이지혜(왼쪽부터)가 15일 진행된 MBN 새 예능프로그램 ‘돌싱글즈2’ 온라인 제작발표회에서 포즈를 취하고 있다. ‘돌싱글즈2’는 국내 최초 돌싱들의 연애와 동거 생활을 그리는 연애 예능]]></content>
     </entry>
 </feed>
