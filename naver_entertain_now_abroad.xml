@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-15T20:21:21.801Z</updated>
+    <updated>2021-10-15T21:18:27.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['극단적 선택' 매튜 민들러, 온라인서 질산나트륨 구입 "사인 맞다" [엑's 할리우드]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001360633</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001360633"/>
+        <updated>2021-10-15T21:18:26.603Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 황수연 기자) 미국 아역 배우 출신 매튜 민들러(19)가 극단적 선택으로 사망한 가운데 사망 원인이 질산나트륨인 것으로 드러났다. 지난 14일(현지시간) 페이지식스는 "매튜 민들러가 온라인에서 질산나트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비욘세, 파격 클리비지 룩…"억만장자의 초호화 주얼리"]]></title>
         <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004657349</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000823559"/>
         <updated>2021-10-15T06:25:08.000Z</updated>
         <content type="html"><![CDATA[배우 이선빈이 15일 오후 티빙 오리지널 '술꾼도시여자들' 제작발표회에 참석해 포토타임을 갖고 있다. 사진=티빙]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티모시 샬라메, 또 연기변신…'웡카' 촬영현장 포착 [N해외연예]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005659996</id>
-        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005659996"/>
-        <updated>2021-10-15T05:19:13.212Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 윤효정 기자 = 할리우드 스타 티모시 샬라메가 '웡카' 촬영에 돌입했다. 최근 미국 연예매체 스플래시뉴스는 영국에서 영화 '웡카'를 촬영 중인 티모시 샬라메의 사진을 공개했다. '웡카'는 '찰리와 초]]></content>
     </entry>
 </feed>
