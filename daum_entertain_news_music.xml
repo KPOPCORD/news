@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-16T11:17:28.821Z</updated>
+    <updated>2021-10-16T12:30:55.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스우파' 노제 "'헤이마마' 인기? 춤에 대한 관심 높아져 기분 좋다"]]></title>
+        <id>https://entertain.v.daum.net/v/20211016204202555</id>
+        <link href="https://entertain.v.daum.net/v/20211016204202555"/>
+        <updated>2021-10-16T12:30:25.531Z</updated>
+        <content type="html"><![CDATA[안무가 노제(NO:ZE)가 감탄을 부르는 비주얼과 상큼한 매력으로 청취자들과 소통하는 시간을 가졌다. 노제는 지난 15일 오후 방송된 SBS 파워FM '박소현의 러브게임'(이하 '러브게임')에 팀 웨이비의 멤버 안쏘와 함께 출연해 자리를 빛냈다. '러브게임' 첫 출연에 긴장한 기색이 역력했지만 노제는 금세 적응해 안쏘, DJ 박소현과 함께 환상의 티키타카를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅, '사랑은 늘 도망가'로 명불허전 '임히어로 효과']]></title>
         <id>https://entertain.v.daum.net/v/20211016191501848</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211016122058789"/>
         <updated>2021-10-16T04:25:56.547Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 그룹 에스파(aespa)가 미국 인기 토크쇼 ‘켈리 클락슨 쇼(The Kelly Clarkson Show)’에 첫 출연했다. 에스파는 10월 16일 오전 3시경(한국시간 기준) 방송된 미국 NBC ‘켈리 클락슨 쇼’ 출연, 신곡 ‘Savage’(새비지) 무대를 선사했다. 이날 호스트인 켈리 클락슨은 “에스파는 ‘Black Mamba]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[히나타 "NIK? 열정이 넘치는 그룹!"]]></title>
-        <id>https://entertain.v.daum.net/v/20211016120300648</id>
-        <link href="https://entertain.v.daum.net/v/20211016120300648"/>
-        <updated>2021-10-16T03:20:56.649Z</updated>
-        <content type="html"><![CDATA[스타들의 사소한 생활이 궁금하다고요? 배우부터 가수, 개그맨까지 그들의 모든 것을 파헤쳐보는 시간을 가져봤습니다. 그동안 팬과 일반인들이 궁금했던 사소하고도 은밀했던 사항, 스타의 A부터 Z까지를 ‘사소한 인터뷰’를 통해 낱낱이 공개합니다. &lt;편집자 주&gt; 지난달 27일 데뷔한 한·일 합작 보이그룹 니크(NIK)는 자유분방하면서도 세련된 느낌 속 에너제틱한]]></content>
     </entry>
 </feed>
