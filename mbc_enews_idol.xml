@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Oct 2021 05:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Oct 2021 07:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에스파, 美 ‘켈리 클락슨 쇼’ 첫 출연 “최단기간 1억뷰, 세상 놀라게 했다”]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/327987</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/327987</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/327987">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/16/lpWuejjR1lmu637699959512676019.jpg" alt="에스파, 美 ‘켈리 클락슨 쇼’ 첫 출연 “최단기간 1억뷰, 세상 놀라게 했다”">        <div class="text-box">            <p class="summary">에스파, 美 ‘켈리 클락슨 쇼’ 첫 출연 “최단기간 1억뷰, 세상 놀라게 했다”</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/16/lpWuejjR1lmu637699959512676019.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘놀면 뭐하니?’ 미주, 랜선 소개팅 과몰입 “이미 연애했어”]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/327984</link>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 15 Oct 2021 02:32:31 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/327884">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/15/jLYSOfPgOT3Y637698915722537974.jpg" alt="‘아이돌라디오2’ 정세운, 스페셜 DJ 출격! 몬스타엑스-엔플라잉 평행이론 ‘소름’">        <div class="text-box">            <p class="summary">‘아이돌라디오2’ 정세운, 스페셜 DJ 출격! 몬스타엑스-엔플라잉 평행이론 ‘소름’</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/15/jLYSOfPgOT3Y637698915722537974.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이달의 소녀 츄&김립 "우린 학창시절부터 함께한 베프, 말하지 않아도 다 알아"]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/327872</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/327872</guid>
-            <pubDate>Fri, 15 Oct 2021 01:09:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/327872">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/15/7714b59a-4f95-4775-98ad-5150967008c6.jpeg" alt="이달의 소녀 츄&amp;김립 " 우린="" 학창시절부터="" 함께한="" 베프,="" 말하지="" 않아도="" 다="" 알아""="">        <div class="text-box">            <p class="summary">이달의 소녀 츄&amp;김립 "우린 학창시절부터 함께한 베프, 말하지 않아도 다 알아"</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/15/7714b59a-4f95-4775-98ad-5150967008c6.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

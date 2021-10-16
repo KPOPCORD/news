@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Oct 2021 05:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Oct 2021 07:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,14 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210924103728_c53640f6a7eaaa06e0569e1e10806060.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[에스파, 美 ‘켈리 클락슨 쇼’ 첫 출연 “최단기간 1억뷰, 세상 놀라게 했다” (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/327987</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/327987</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/327987">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/16/lpWuejjR1lmu637699959512676019.jpg" alt="에스파, 美 ‘켈리 클락슨 쇼’ 첫 출연 “최단기간 1억뷰, 세상 놀라게 했다”">        <div class="text-box">            <p class="summary">에스파, 美 ‘켈리 클락슨 쇼’ 첫 출연 “최단기간 1억뷰, 세상 놀라게 했다”</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/16/lpWuejjR1lmu637699959512676019.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘놀면 뭐하니?’ 미주, 랜선 소개팅 과몰입 “이미 연애했어” (MBC 연예 ─ 아이돌)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/327984</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/327984</guid>
@@ -768,12 +776,25 @@
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/15/jLYSOfPgOT3Y637698915722537974.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이달의 소녀 츄&김립 "우린 학창시절부터 함께한 베프, 말하지 않아도 다 알아" (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/327872</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/327872</guid>
-            <pubDate>Fri, 15 Oct 2021 01:09:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/327872">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/15/7714b59a-4f95-4775-98ad-5150967008c6.jpeg" alt="이달의 소녀 츄&amp;김립 " 우린="" 학창시절부터="" 함께한="" 베프,="" 말하지="" 않아도="" 다="" 알아""="">        <div class="text-box">            <p class="summary">이달의 소녀 츄&amp;김립 "우린 학창시절부터 함께한 베프, 말하지 않아도 다 알아"</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/15/7714b59a-4f95-4775-98ad-5150967008c6.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA['음악중심' 레드벨벳vs에스파vsITZY 1위 후보, 걸그룹 전쟁 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211016155513880</link>
+            <guid>https://entertain.v.daum.net/v/20211016155513880</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이하나 기자] 레드벨벳, 에스파, ITZY가 1위 후보로 만났다. 10월 16일 방송된 MBC ‘쇼! 음악중심’에서는 10월 셋째 주 1위 후보가 공개됐다. 이날 방송에서는 레드벨벳의 ‘퀸덤(Queendom)’, 에스파의 ‘Savage’, ITZY의 ‘LOCO’가 1위 후보로 올랐다. 지난 주 1위 후보였던 레드벨벳, ITZY에 이어 에스파]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['차트 이터' 임영웅, '멜론' TOP10 에 6곡 진입 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211016145516192</link>
+            <guid>https://entertain.v.daum.net/v/20211016145516192</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최나영 기자] 가수 임영웅이 멜론 차트를 휩쓸었다. 임영웅은 음원사이트 멜론에서 집계한 TOP10에 6곡을 진입하는 데 성공하며 막강한 인기를 증명했다. 멜론에 따르면 임영웅은 16일 오전 8시 기준, '사랑은 늘 도망가'(1위)'이제 나만 믿어요'(3위), '별빛 같은 나의 사랑아'(4위), '그대라는 사치'(6위), '다시 사랑한다면(김필 V]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[미래소년 "JUMF서 첫 관객 대면, 설레고 떨렸다" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211016142905921</link>
+            <guid>https://entertain.v.daum.net/v/20211016142905921</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최나영 기자] 그룹 미래소년이 'JUMF 2021'를 뜨겁게 달궜다. 미래소년은 지난 15일 전주 한국소리문화의전당 야외공연장에서 진행된 '전주얼티밋뮤직페스티벌(JUMF) 2021'에 출연했다. 미래소년은 'JUMF 2021'에서 두번째 미니앨범 'Splash - MIRAE 2nd Mini Album' 앨범과 동명의 타이틀곡 'Splash'와 수]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[임영웅, '사랑은 늘 도망가' 음원차트 1위..대기록 행진 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
@@ -860,25 +881,53 @@
             <content:encoded><![CDATA[[스타뉴스 윤상근 기자] 방탄소년단(BTS) 지민이 21일 오후 서울 송파구 방이동 올림픽홀에서 진행된 새 싱글앨범 'Butter' 발매 기념 쇼케이스에서 포즈를 취하고 있다.  'Butter'에는 버터처럼 부드럽게 녹아들어 너를 사로잡겠다는 방탄소년단의 귀여운 고백이 담겨있다.  방탄소년단은 'Butter'를 사실상의 선 공개 싱글로 스타트를 끊고 6월]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이달의 소녀, 日 데뷔곡 'HULA HOOP' MV 공개..과즙美 폭발 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211016092207839</link>
-            <guid>https://entertain.v.daum.net/v/20211016092207839</guid>
-            <pubDate>Sat, 16 Oct 2021 01:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=지민경 기자]&nbsp;그룹 이달의 소녀(LOONA)가 상큼한 매력을 뽐냈다. 소속사 블록베리크리에이티브는 오늘(16일) 0시, 이달의 소녀(희진, 현진, 하슬, 여진, 비비, 김립, 진솔, 최리, 이브, 츄, 고원, 올리비아 혜)의 공식 유튜브 채널을 통해 일본 데뷔 싱글 'HULA HOOP/StarSeed〜각성〜'의 더블 타이틀곡 'HULA HOOP']]></content:encoded>
+            <title><![CDATA['컬투쇼' 강부자 "윤유선과 모녀 연기호흡..며느릿감으로 점찍기도" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211016160704991</link>
+            <guid>https://entertain.v.daum.net/v/20211016160704991</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트 = 하수나 기자] 배우 강부자가 연극 ‘친정엄마와 2박3일’에서 모녀 호흡을 맞추는 윤유선을 향한 애정을 드러냈다.&nbsp; 16일 방송된 SBS 파워FM ‘두시 탈출 컬투쇼’에선 연극 ‘친정엄마와 2박3일’을 통해 관객들을 찾을 예정인 강부자가 출연했다.&nbsp; 강부자는 “11년 동안 이 연극을 하면서 더블 캐스팅으로 해본 적이 없다. 지방공연과 해외공연]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[블랙핑크 리사, 디제이 스네이크와 글로벌 콜라보 공식 발표..10월 22일 공개 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211016091948821</link>
-            <guid>https://entertain.v.daum.net/v/20211016091948821</guid>
-            <pubDate>Sat, 16 Oct 2021 01:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박판석 기자]&nbsp;블랙핑크 리사(LISA)가 디제이 스네이크(DJ Snake)의 새 싱글에 참여했다고 YG엔터테인먼트가 16일 밝혔다. 노래 제목은 'SG'로 오는&nbsp;22일 발매 예정이다. 디제이 스네이크 역시 이날 SNS에 새 싱글 프리 세이브 티저 영상을 공개, 이를 공식화했다. 영상에는 블랙핑크 리사 외에도 오즈나(Ozuna), 메건 디 스탤리온]]></content:encoded>
+            <title><![CDATA['러브게임' 노제, 청취자 홀렸다.."사랑해 주셔서 감사" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211016154003754</link>
+            <guid>https://entertain.v.daum.net/v/20211016154003754</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[웨이비 멤버 안쏘와 출연, 남다른 '힙합 사랑' 과시 [더팩트｜원세나 기자] 안무가 노제(NO:ZE)가 자신만의 매력으로 청취자들을 사로잡았다.  노제는 15일 오후 방송한 SBS 파워FM '박소현의 러브게임'(이하 '러브게임')에 팀 웨이비의 멤버 안쏘와 함께 출연해 다양한 매력을 발산했다. 이날 '러브게임' 첫 출연에 긴장한 기색이 역력했던 노제는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[블랙핑크 리사, DJ스네이크 새 싱글 'SG' 참여..22일 발매 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211016091429761</link>
-            <guid>https://entertain.v.daum.net/v/20211016091429761</guid>
-            <pubDate>Sat, 16 Oct 2021 01:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 윤상근 기자] /사진제공=YG엔터테인먼트걸그룹 블랙핑크 멤버 리사(LISA)가 디제이 스네이크(DJ Snake)의 새 싱글에 참여했다. YG엔터테인먼트는 16일 "리사가 디제이 스네이크 새 싱글에 참여했다"라며 "노래 제목은 'SG'로 22일 발매 예정"이라고 전했다. 디제이 스네이크 역시 이날 SNS에 새 싱글 프리 세이브 티저 영상을 공개,]]></content:encoded>
+            <title><![CDATA['갯마을 차차차' 김선호, ♥신민아에 과거 밝힌다 '눈물샘 자극' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211016153615718</link>
+            <guid>https://entertain.v.daum.net/v/20211016153615718</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 김나연 기자] ‘갯마을 차차차’ 신민아와 김선호의 로맨스에 최대 위기가 찾아왔다. tvN 토일드라마 ‘갯마을 차차차’(극본 신하은·연출 유제원) 16일 15회 방송에서 그동안 베일에 가려져 있었던 두식(김선호)의 과거 5년에 대한 미스터리가 드디어 밝혀진다. 그동안 공진의 3대 미스터리 중 하나로 꼽혔던 두식의 과거에 어떤 일이 있었던 것인지]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['걸스플래닛999' 션샤오팅 1위 유지, 김다연 톱9 첫 입성→2위로 직행 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211016152052575</link>
+            <guid>https://entertain.v.daum.net/v/20211016152052575</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자]15일 방송된 Mnet ‘걸스플래닛999 : 소녀대전’(이하 ‘걸스플래닛999’)에서는 파이널 무대 진출을 위한 마지막 미션인 ‘O.O.O 미션’과 세 번째 생존자 발표식이 진행됐고, C그룹 션샤오팅이 플래닛 톱9 1위 자리를 유지했다. 데뷔조 버전으로 재탄생한 ‘걸스플래닛999’ 시그널 송 ‘O.O.O’로 무대를 꾸미는 ‘]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['검은 태양' 남궁민, 이경영·장영남과 날 선 대면..최후의 적은? (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211016150605358</link>
+            <guid>https://entertain.v.daum.net/v/20211016150605358</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 김나연 기자] 남궁민이 이경영, 장영남과 각각 마주해 이들의 의중을 파악하려 한다. 16일 방송되는 MBC 금토드라마 ‘검은 태양’(극본 박석호·연출 김성용) 10회에서는 예기치 못한 사실이 밝혀지며 궁지에 몰린 한지혁(남궁민)이 국정원 세력의 양극단에 서 있는 이인환(이경영), 도진숙(장영남)과 만나며 최후의 적을 찾기 위해 고군분투한다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['스우파' 노제 "'헤이마마' 열풍, 감회 새롭고 기뻐" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211016144604101</link>
+            <guid>https://entertain.v.daum.net/v/20211016144604101</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 김나연 기자] 안무가 노제(NO:ZE)가 감탄을 부르는 비주얼과 상큼한 매력을 발산하며 청취자들과 소통하는 시간을 가졌다.  노제는 15일 오후 방송한 SBS 파워FM '박소현의 러브게임'(이하 '러브게임')에서 팀 웨이비의 멤버 안쏘와 함께 자리를 빛냈다. '러브게임' 첫 출연에 긴장한 기색이 역력했지만 노제는 금세 적응해 안쏘와 DJ 박]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[종영 앞둔 '갯마을 차차차' 신민아·김선호 '해피엔딩' 맞을까 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211016142931926</link>
+            <guid>https://entertain.v.daum.net/v/20211016142931926</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[종영까지 단 2회만을 남긴 '갯마을 차차차'의 결말이 관심이다. 오늘(16일) 밤 9시에 15회가 방송되는 케이블채널 tvN 토일드라마 '갯마을 차차차'(극본 신하은 연출 유제원) 윤혜진(신민아)과 홍두식(김선호)의 티키타카 로맨스가 해피엔딩을 맞을 수 있을지 시청자들의 관심을 모은다. 지난주 방송된 14회 방송에서는 과거 홍두식이 근무했던 YK자산운용의]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['전참시' 육준서, 역대급 스펙의 친동생 공개..강철체력 대결 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
@@ -937,53 +986,18 @@
             <content:encoded><![CDATA[순간 최고 18.8%, 시청률 또 상승…주간 미니시리즈 1위 [더팩트｜원세나 기자] 이하늬와 이상윤이 '취중 입맞춤'으로 시청자들을 설레게 했다. 15일 방송된 SBS 금토드라마 '원 더 우먼(One the Woman)'(극본 김윤, 연출 최영훈)에서는 조연주(이하늬 분)가 이봉식(김재영 분)의 죽음으로 또 한 번 위기에 몰린 가운데, 방화살인범 강명국(]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[블랙핑크 리사, DJ 스네이크와 글로벌 협업..새 싱글 참여 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211016112333238</link>
-            <guid>https://entertain.v.daum.net/v/20211016112333238</guid>
-            <pubDate>Sat, 16 Oct 2021 02:38:21 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 김예나 기자 = 최근 솔로 앨범 '라리사'(LALISA) 활동으로 주목받고 있는 블랙핑크 멤버 리사가 DJ 스네이크의 새 싱글에 참여한다. 소속사 YG엔터테인먼트는 16일 "리사가 DJ 스네이크의 새 싱글에 참여했다. 노래 제목은 'SG'로 이달 22일 발매될 예정"이라고 밝혔다. DJ 스네이크 역시 공식 사회관계망서비스(SNS)를 통해]]></content:encoded>
+            <title><![CDATA[패리스 힐튼♥︎카터 럼, 11월 11일 결혼..코시국? 피로연만 세 개↑ (다음 연예 ─ 뉴스 ─ 해외)]]></title>
+            <link>https://entertain.v.daum.net/v/20211016161556074</link>
+            <guid>https://entertain.v.daum.net/v/20211016161556074</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최나영 기자] 할리우드 이슈메이커 패리스 힐튼이 오는 11월 11일 웨딩마치를 울리고 할아버지의 집에서 결혼 피로연을 가질 예정이다. 페이지식스의 15일자(현지시간) 보도에 따르면 힐튼과 그의 약혼자인 베스트셀러 작가 겸 벤처&nbsp;투자가&nbsp;카터 럼의 결혼식 초대장이&nbsp;지인들에게 최근&nbsp;장소 없이 발송됐다. 힐튼 가족의 측근은 페이지식스에 "힐튼이 11월]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박명수 "♥한수민과 둘째 낳으려 했다가 관둬" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211016112145225</link>
-            <guid>https://entertain.v.daum.net/v/20211016112145225</guid>
-            <pubDate>Sat, 16 Oct 2021 02:38:21 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 김노을 기자] 개그맨 박명수가 둘째 계획을 세웠다가 포기했다. 10월 16일 방송된 KBS Cool FM '박명수의 라디오쇼'에서 박명수는 청취자와 전화 연결을 통해 다채로운 이야기를 나눴다. 이날 박명수와 전화 연결이 된 청취자는 위로 언니 한 명이 있는 자매 청취자. 이에 박명수는 "사실 아이를 한 명 더 가지려다가 관뒀는데 언니가 한 명 있]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['나 혼자 산다' 키, 기안84 집 방문..쉴 틈 없는 동공지진 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211016111542159</link>
-            <guid>https://entertain.v.daum.net/v/20211016111542159</guid>
-            <pubDate>Sat, 16 Oct 2021 02:38:21 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스] 강진아 기자 = '나 혼자 산다'에서 기안84와 '샤이니' 키가 집 정리부터 추억소환 토크까지 웃음 만발하는 형제 바이브를 선보였다. 지난 15일 방송된 MBC 예능 '나 혼자 산다'에서는 키안 브라더스의 꿀케미와 박재정의 효도 플렉스가 펼쳐졌다. 이날 키는 이사를 앞둔 기안84의 기상천외 하우스에 마지막 손님으로 초대됐다. 기안84는]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[공명·엄기준·조정석의 야외 버라이어티, 예능도 유행 탄다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211016111511156</link>
-            <guid>https://entertain.v.daum.net/v/20211016111511156</guid>
-            <pubDate>Sat, 16 Oct 2021 02:38:21 GMT</pubDate>
-            <content:encoded><![CDATA[[김종성 기자] ▲ &nbsp;tvN &lt;바퀴달린 집&gt;의 한 장면.    ⓒ tvN  &nbsp;예능도 유행을 탄다. 소위 '대박'이 터지면 너도나도 비슷한 포맷의 프로그램을 만들어낸다. 얼마 전 '트로트 열풍'을 떠올려보라. 허나 유행이 꼭 '대박'만을 좇는 건 아니다. '실패 없음'도 유행의 큰 요인이 된다. '이렇게 만들면 최소한 쪽박은 아냐'라는 심리 말]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['레이니즘' 만든 태완, 다이아나와 결혼..프로듀서-가수에서 부부로 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211016110400036</link>
-            <guid>https://entertain.v.daum.net/v/20211016110400036</guid>
-            <pubDate>Sat, 16 Oct 2021 02:38:21 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=장진리 기자] 태완(김태완, 41)과 다이아나(김영지, 31)가 프로듀서와 가수에서 부부가 됐다.16일 스포티비뉴스 취재에 따르면 가수 비(정지훈), 그룹 AB6IX 등을 프로듀싱한 태완과 복면 가수로 가요계에서 활동했던 김영지가 지난 5월 결혼했다. 태완은 가수 비(정지훈)의 '레이니즘', '널 붙잡을 노래'를 비롯해 휘성, 엠블랙,]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[母의 2000번 구타..'그알', 청도 C사찰 사망사건 진실 추적 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211016110315032</link>
-            <guid>https://entertain.v.daum.net/v/20211016110315032</guid>
-            <pubDate>Sat, 16 Oct 2021 02:38:21 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 김나연 기자] 무분별하게 만들어져 운영되고 있는 유사 조계종 종단 및 개인사찰의 사후 관리에 허점은 없을까. 16일 방송되는 SBS 시사·교양프로그램 ‘그것이 알고 싶다’에서는 사건의 핵심인 아들의 자술서 분석, 최초로 공개되는 어머니의 녹음 파일 및 어렵게 만난 제보자 취재 등을 통해 C사찰 사망 사건의 진실을 추적한다. 지난해 8월 28일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['원더우먼' 이하늬♥이상윤, 진심 닿았다..시청률 1위 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211016110233015</link>
-            <guid>https://entertain.v.daum.net/v/20211016110233015</guid>
-            <pubDate>Sat, 16 Oct 2021 02:38:21 GMT</pubDate>
-            <content:encoded><![CDATA[‘원 더 우먼’ 이하늬와 이상윤이 잔혹한 운명을 딛고 ‘취중 입맞춤’을 나누는 모습으로, 보는 이들의 심장박동수를 급상승시켰다. 지난 15일 방송된 SBS 금토드라마 ‘원 더 우먼(One the Woman)’(연출 최영훈 /극본 김윤 /제작 길픽쳐스) 9회는 닐슨코리아 기준, 수도권 시청률 15.1%, 전국 시청률 14%, 순간 최고 시청률은 18.8%]]></content:encoded>
+            <title><![CDATA[마이클 케인, 배우 은퇴하나.."88세가 주연인 각본 없어" (다음 연예 ─ 뉴스 ─ 해외)]]></title>
+            <link>https://entertain.v.daum.net/v/20211016145832233</link>
+            <guid>https://entertain.v.daum.net/v/20211016145832233</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=지민경 기자] 할리우드 배우 마이클 케인이 배우 은퇴를 암시했다. 지난 15일(현지 시간) 피플 등 다수의 미국 매체 보도에 따르면 마이클 케인은 이날 BBC 라디오 쇼 'Kermode and Mayo's Film Review'와의 인터뷰에서 최근 개봉한 새 영화 'Best Sellers'가 자신의 마지막 영화 출연이 될 것이라고 밝혔다. 올해로]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["다람쥐볼 같다" 톰 크루즈, 땡땡 부은 얼굴 근황..역시 시술 맞나 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
@@ -1021,18 +1035,151 @@
             <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) '007' 시리즈에서 최근 하차한 다니엘 크레이그가 게이바를 다니는 이유를 밝혔다.  지난 12일(현지시간) 다니엘 크레이그는 팟캐스트 'Lunch with Bruce'에 출연해 "나는 꽤 오랫동안 게이바에 다녔다"고 언급했다.  그는 게이바에 가는 이유에 대해 "게이바에서는 싸우지 않아도 됐기 때문이다. 일반 술집에서 다투는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[다니엘 크레이그, "게이바 자주 다녀..싸움 없어 좋아" (다음 연예 ─ 뉴스 ─ 해외)]]></title>
-            <link>https://entertain.v.daum.net/v/20211015161805973</link>
-            <guid>https://entertain.v.daum.net/v/20211015161805973</guid>
-            <pubDate>Fri, 15 Oct 2021 07:19:42 GMT</pubDate>
-            <content:encoded><![CDATA['007' 시리즈에서 제임스 본드를 연기한 배우 다니엘 크레이그(Daniel Craig)가 게이바를 선호하는 이유를 밝혔다. 지난 12일(현지시간) 다니엘 크레이그가 'Lunch with Bruce'(브루스와 함께 점심을)이라는 팟캐스트 방송에 출연해 "오랫동안 게이바에 다녔다"고 밝혔다. 놀랄만한 얘기에 MC가 이유를 묻자, 그는 다른 이유가 아닌]]></content:encoded>
+            <title><![CDATA[레드벨벳 vs 에스파 동시 '음중' 1위 후보..SM 막강 파워 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0002997294</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0002997294</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[걸그룹 레드벨벳과 에스파(aesap)가 '쇼! 음악중심' 1위 후보에 올랐다. 이들은 1위 트로피를 놓고 집안 싸움을 펼치게 됐다. 16일 오후 방송된 MBC 음악순위 프로그램 '쇼! 음악중심'에서는 1위 후보가 공]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[톰 홀랜드 "'노 웨이 홈', MCU 마지막 될 것..촬영 끝내고 펑펑 울어" (다음 연예 ─ 뉴스 ─ 해외)]]></title>
-            <link>https://entertain.v.daum.net/v/20211015150433616</link>
-            <guid>https://entertain.v.daum.net/v/20211015150433616</guid>
-            <pubDate>Fri, 15 Oct 2021 06:24:45 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) 톰 홀랜드가 마블 시네마틱 유니버스(MCU) 영화 '스파이더맨: 노 웨이 홈'과 관련된 이야기를 전했다.  14일(현지시간) 톰 홀랜드는 미국 EW와의 인터뷰에서 "우리 모두는 '노 웨이 홈'을 프랜차이즈의 마지막이라고 이야기한다"면서 "혹여나 운 좋게 이 캐릭터들을 다시 연기할 수 있다면 굉장히 다른 버전의 이야기를 보게 될]]></content:encoded>
+            <title><![CDATA[임영웅, '사랑은 늘 도망가' OST로 멜론·지니 음원차트 1위 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010773720</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010773720</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스] 강진아 기자 = 가수 임영웅이 '신사와 아가씨' OST로 각종 음원차트 1위에 오르며 인기를 이어가고 있다. 지난 11일 오후 6시 각종 음원사이트를 통해 임영웅이 부른 KBS 2TV 주말드라마 '신]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘음악중심’ 레드벨벳vs에스파vsITZY 1위 후보, 걸그룹 전쟁 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000500282</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000500282</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이하나 기자] 레드벨벳, 에스파, ITZY가 1위 후보로 만났다. 10월 16일 방송된 MBC ‘쇼! 음악중심’에서는 10월 셋째 주 1위 후보가 공개됐다. 이날 방송에서는 레드벨벳의 ‘퀸덤(Queendom]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[골든차일드, 'DDARA' 안무 영상 공개…슈트 벗고 캐주얼룩 장착 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000794541</link>
+            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000794541</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 정하은기자]그룹 골든차일드(Golden Child)가 슈트를 벗고 캐주얼룩을 장착한 퍼포먼스로 색다른 매력을 뽐냈다. 소속사 울림엔터테인먼트는 지난 15일 오후 5시 공식 유튜브 채널을 통해 골든차일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[골든차일드, 캐주얼룩＋칼군무 ‘퍼펙트’ (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000767796</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000767796</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 그룹 골든차일드(Golden Child)가 슈트를 벗고 캐주얼룩을 장착한 퍼포먼스로 색다른 매력을 뽐냈다. 소속사 울림엔터테인먼트는 지난 15일 오후 5시 공식 유튜브 채널을 통해 골든차일드 정규 2집]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[에스파, 美 ‘켈리 클락슨 쇼’ 첫 출연 “최단기간 1억뷰, 세상 놀라게 했다” (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=408&amp;aid=0000136032</link>
+            <guid>https://entertain.naver.com/now/read?oid=408&amp;aid=0000136032</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa)가 미국 인기 토크쇼 ‘켈리 클락슨 쇼(The Kelly Clarkson Show)’에 첫 출연해 화제다. 에스파는 금일(16일) 오전 3시경(한국시간 기준) 방송된 미국 NBC]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['음악중심' 레드벨벳 vs 에스파 vs ITZY 1위 후보 격돌 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0002997292</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0002997292</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[걸그룹 레드벨벳, 에스파(aespa), ITZY(있지)가 '쇼! 음악중심' 1위 자리를 놓고 격돌한다. 16일 오후 방송된 MBC 음악순위 프로그램 '쇼! 음악중심'에서는 1위 후보가 공개됐다. 1위 후보에 오른 세]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[슈트 벗은 골든차일드, 색다른 매력의 'DDARA' 안무 영상 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001360765</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001360765</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 조혜진 기자) 그룹 골든차일드(Golden Child)가 슈트를 벗고 캐주얼룩을 장착한 퍼포먼스로 색다른 매력을 뽐냈다. 소속사 울림엔터테인먼트는 지난 15일 오후 5시 공식 유튜브 채널을 통해 골든차]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[씨엔블루 이정신, 비주얼+재미 다 잡은 콘셉트 필름 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000323932</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000323932</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자]씨엔블루의 이정신이 상반된 매력의 콘셉트 필름을 공개했다. 씨엔블루 소속사 FNC엔터테인먼트는 지난 15일 오후 6시 공식 SNS를 통해 미니 9집 ‘원티드(WANTED)’의 콘셉트 필름]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[시도, 19일 새 싱글 'I' 발매...민서 피처링 지원사격 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004492522</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004492522</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자] 가수 시도(Xydo)와 민서가 만나 완벽한 하모니를 선사한다. 소속사 그루블린은 지난 15일 오후 6시 공식 SNS와 유튜브 채널을 통해 시도의 새 싱글 '아이(Feat. 민서)'의 라이브]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[임영웅, 멜론 TOP10에 6곡 진입 “차트의 제왕” (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003545756</link>
+            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003545756</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]가수 임영웅이 멜론 차트를 휩쓸었다. 임영웅은 음원사이트 멜론에서 집계한 TOP10에 6곡을 진입하는 데 성공하며 막강한 인기를 증명했다. 멜론에 따르면 임영웅은 16일 오전 8시 기준,]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["유일한 CC 15일"..응답하라 산소학번 영탁선배♥ (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0002997287</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0002997287</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[가수 영탁이 2002년 대학시절로 돌아가 '훈남 선배'의 모습으로 팬들을 사로잡았다. 영탁은 지난 15일 유튜브 채널 '영탁의 불쑥TV'를 통해 탁이월드 세 번째 에피소드 '이시국 비대면 캠퍼스 투어 응답하라 산소(]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘신곡 발표’ 임영웅, 멜론 TOP100 차트 상위 10위에 6곡 진입 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001360740</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001360740</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이정범 기자) 멜론차트 속 임영웅의 존재감이 눈길을 끈다. 최근 멜론 TOP100 차트에 따르면, 임영웅이 가창한 노래들이 존재감을 드러내고 있다. 기존에도 차트에서 남다른 존재감을 드러낸 임영웅. 지]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[에스파, 미국 '켈리 클락슨 쇼' 첫 출연…"세상 놀라게 했다" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010773690</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010773690</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스] 강진아 기자 = 걸그룹 '에스파(aespa)'가 미국 인기 토크쇼 '켈리 클락슨 쇼(The Kelly Clarkson Show)'에 첫 출연해 화제다. 에스파는 16일 오전 3시께(한국시간 기준) 방]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[임영웅 '사랑은 늘 도망가' 멜론·지니 1위..'톱 오브 더 톱' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0002997286</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0002997286</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:34 GMT</pubDate>
+            <content:encoded><![CDATA['Top of the Top' 가수 임영웅이 신곡 '사랑은 늘 도망가'로 멜론, 지니 등 국내 음원 플랫폼 톱에 오르며 눈부신 존재감을 빛냈다. '사랑은 늘 도망가'는 10월 16일 오전 8시 기준 멜론 TOP100]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[YG트레저를 알고 싶어? (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000767792</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000767792</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] YG 신인그룹 트레저의 공연 뒷모습이 공개됐다. 소속사 YG엔터테인먼트 측은 16일 트레저의 공연 리허설, 백스테이지 장면들이 담긴 영상 ‘TMI’를 공개했다. 트레저는 리허설임에도 매 순간 실전처럼]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘뮤직뱅크 이찬원, ‘힘을 내세요’ 무대 티캐 TOP 100 1위 등극 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001360738</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001360738</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이정범 기자) 이찬원의 뮤직뱅크 ‘힘을 내세요’ 무대가 네이버 TV 1위에 올랐다. 10월 15일 KBS ‘뮤직뱅크’ 네이버티비캐스트(티캐)에는 “힘을 내세요 (Cheer up) - 이찬원 (LEE C]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[임영웅, '사랑은 늘 도망가'→'계단 말고···' 지니 톱10 '싹쓸이' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0002997285</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0002997285</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[가수 임영웅이 국내 주요 음원 플랫폼 지니(Geinie) 차트 톱10을 싹쓸이하며 '차트의 신(神)' 면모를 빛냈다. 임영웅은 10월 16일 오전 7시 기준 지니 톱200 차트 1위부터 10위까지 석권했다. 1위는]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['사랑은 늘 도망가 1위' 임영웅, 멜론 톱10 6곡 진입..'넘버원' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0002997284</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0002997284</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[가수 임영웅이 국내 최대 음원 플랫폼 멜론(Melon) TOP100 톱10에 6곡을 진입시키며 독보적 존재감을 빛냈다. 임영웅은 10월 16일 오전 8시 기준 멜론 메인차트인 TOP100에 '사랑은 늘 도망가'부터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[임영웅 ‘사랑은 늘 도망가’ 음원차트 1위 기록ing ‘OST도 영웅시대’ (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000500270</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000500270</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이하나 기자] 가수 임영웅이 독보적 인기를 입증했다. 지난 10월 11일 오후 6시 각종 음원사이트를 통해 임영웅이 부른 KBS2 주말드라마 ‘신사와 아가씨’ OST ‘사랑은 늘 도망가’가 공개됐다. ‘사랑]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[블랙핑크 리사, 글로벌 컬래버 성사…전 세계 팬들 '들썩' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=629&amp;aid=0000110931</link>
+            <guid>https://entertain.naver.com/now/read?oid=629&amp;aid=0000110931</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[디제이 스네이크의 새 싱글에 참여, 오는 22일 발매 블랙핑크 리사(LISA)가 역대급 협업을 발표해 글로벌 팬들을 설레게 했다. 16일 YG엔터테인먼트는 리사가 디제이 스네이크(DJ Snake)의 새 싱글에 참여했]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[트레저 ‘프라이빗 스테이지’ 뒷이야기 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
@@ -1063,326 +1210,207 @@
             <content:encoded><![CDATA[YG 대형 신인 트레저가 '프라이빗 스테이지' 현장 비하인드 영상을 공개했다. 소속사 YG엔터테인먼트는 16일 오후 2시 공식 블로그에 'TMI' 19화를 게재했다. '1ST PRIVATE STAGE [TEU-DAY]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김한결, ‘말도 못해’ 발매…이찬형 지원사격 [MK★오늘의신곡] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000823763</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000823763</guid>
-            <pubDate>Sat, 16 Oct 2021 05:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[가수 김한결이 16일 신곡 ‘말도 못해’를 발매한다. 김한결의 신곡 ‘말도 못해’가 16일 오후 6시 각종 음원 사이트를 통해 공개된다. ‘말도 못해’ 뮤직비디오에는 최근 인기리에 종영한 드라마 tvN ‘슬기로운 의]]></content:encoded>
+            <title><![CDATA[신봉선, 눈 성형 해명…"진짜 안했습니다" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004865623</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004865623</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[개그우먼 신봉선이 눈 성형에 대해 해명했다. 신봉선은 15일 인스타그램에 “이건 짚고 갈게요! 저 눈은 정말 진짜 진짜 안했습니다”라는 글과 MBC ‘라디오 스타’ 출연 장면 중 하나를 캡처해 올렸다. 이어 신봉선은]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘신곡 발표’ 임영웅, 지니뮤직 차트 TOP10 점령 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001360725</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001360725</guid>
-            <pubDate>Sat, 16 Oct 2021 05:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이정범 기자) 임영웅의 지니뮤직 차트 속 남다른 존재감이 신곡 발표 이후 더욱 강력해지고 있다. 지니뮤직에 따르면, 임영웅의 노래들이 TOP10 차트 상위권에서 남다른 존재감을 드러내고 있다. 기존에도]]></content:encoded>
+            <title><![CDATA['이동국 딸' 재시, 아이스티 마시는게 이렇 게 예쁠 일? 난리난 15세 미모 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003789788</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003789788</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 이게은기자]전 축구선수 이동국의 딸 재시가 완성형 미모를 자랑했다. 16일 이동국의 아내 이수진 씨는 자신의 인스타그램에 "이 정도면 아이스티 중독ㅋ 심심하다고 놀아달라고 종일 따라다니는 큰딸 재시.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[임영웅 OST '사랑은 늘 도망가' 멜론 핫트랙+아티스트 차트 '1위' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0002997278</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0002997278</guid>
-            <pubDate>Sat, 16 Oct 2021 05:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[가수 임영웅이 넘사벽 저력을 과시하고 있다. 임영웅은 지난 11일 오후 6시 주요 음원 사이트를 통해 KBS 2TV 주말드라마 '신사와 아가씨' OST '사랑은 늘 도망가'를 공개했다. '사랑은 늘 도망가'는 드라마]]></content:encoded>
+            <title><![CDATA[신봉선, '라스' 자막에 눈 성형 해명 "저 진짜 안했다" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005661299</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005661299</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 개그우먼 신봉선이 쌍꺼풀 수술을 하지 않았다고 강조했다. 신봉선은 지난 15일 자신의 인스타그램에 "이건 짚고 갈게요! 저 눈은 정말 진짜 진짜 안 했습니다! 나중에 눈이 쳐져서 하게]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[인피니트 남우현, 아련한 눈빛 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000767778</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000767778</guid>
-            <pubDate>Sat, 16 Oct 2021 05:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 그룹 인피니트(INFINITE) 남우현이 신곡 뮤직비디오 티저로 컴백 열기를 최고조로 끌어올렸다. 소속사 울림엔터테인먼트는 지난 15일 오후 6시 공식 유튜브 채널을 통해 남우현 네 번째 미니 앨범 ‘]]></content:encoded>
+            <title><![CDATA[박해수, 전세계 '오겜' 팬 녹이는 훈훈함 [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000505859</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000505859</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=노규민 기자] 배우 박해수가 따뜻한 미소로 근황을 전했다. 15일 박해수 공식 인스타그램에는 별다른 멘트 없이 사진 한 장이 게재됐다. 사진 속 박해수는 올블랙 슈트 패션으로 카메라 앞에 섰다. 짙은 남성]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[블랙핑크 리사, 디제이 스네이크와 글로벌 콜라보…곡명은 ‘SG’ (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000823761</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000823761</guid>
-            <pubDate>Sat, 16 Oct 2021 05:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[블랙핑크 리사(LISA)가 디제이 스네이크(DJ Snake)의 새 싱글에 참여했다고 YG엔터테인먼트가 16일 밝혔다. 노래 제목은 'SG'로 10월 22일 발매 예정이다. 디제이 스네이크 역시 이날 SNS에 새 싱글]]></content:encoded>
+            <title><![CDATA['신민철♥' 혜림, 태교에 열중하는 예비맘 "예쁜 것만 보고 좋은 것만 쓰기" [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000505857</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000505857</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=김지원 기자] 그룹 원더걸스 출신 혜림(우혜림)이 임신 중 근황을 전했다. 혜림은 16일 자신의 인스타그램에 "예쁜 것만 보고 좋은 것만 쓰기 #텀블러 필수 #뿌염 시급"이라고 글을 올렸다. 사진 속 혜림]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["세상을 놀라게 했다" 에스파, 美NBC '켈리 클락슨 쇼' 첫 출연 화제 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000323925</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000323925</guid>
-            <pubDate>Sat, 16 Oct 2021 05:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자]‘메타버스 걸그룹’ 에스파(aespa)가 미국 인기 토크쇼 ‘켈리 클락슨 쇼(The Kelly Clarkson Show)’에 첫 출연해 화제다. 에스파는 16일 오전 3시(한국시각) 방송된]]></content:encoded>
+            <title><![CDATA[이승기, 연인 이다인과 데이트?… “오랜만 나들이” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000744256</link>
+            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000744256</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[가수 겸 배우 이승기가 근황을 전했다. 이승기는 지난 15일 자신의 인스타그램에 “오랜만 나들이”라는 글과 함께 사진을 올렸다. 누군가가 찍어준 듯한 사진 속 이승기는 전시회에 방문해 휴대전화를 들여다보고 있다. 이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[블락비 태일, 중절모＋수트 ‘킹스맨’ 변신 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000767777</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000767777</guid>
-            <pubDate>Sat, 16 Oct 2021 05:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 블락비(Block B) 태일이 색다른 퍼포먼스에 도전해 새로운 매력을 발산했다. 15일 오후 태일은 카카오TV 오리지널 ‘히든 : 더 퍼포먼스(HIDDEN : the performance)’를 통해 한]]></content:encoded>
+            <title><![CDATA[프로듀서 태완, 다이아나와 5월 결혼 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004865622</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004865622</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[가수 겸 프로듀서 태완이 가수 다이아나와 결혼한 사실이 뒤늦게 알려졌다. 태완 소속사 브랜뉴뮤직 관계자는 16일 매일경제 스타투데이에 “태완이 다이아나와 지난 5월 결혼했다”고 밝혔다. 태완은 비의 히트곡인 ‘레이니]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[임영웅, ‘사랑은 늘 도망가’ 음원차트 1위..대기록 행진 [공식] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004492466</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004492466</guid>
-            <pubDate>Sat, 16 Oct 2021 05:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=지민경 기자] 가수 임영웅이 넘사벽 저력을 과시하고 있다. 지난 11일 오후 6시 각종 음원사이트를 통해 임영웅이 부른 KBS2 주말드라마 ‘신사와 아가씨’ OST ‘사랑은 늘 도망가’가 공개됐다. ‘사랑]]></content:encoded>
+            <title><![CDATA[미주, 예능인 이전에 러블리즈 라니까…아이돌 미모 '폭발' [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000505856</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000505856</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=노규민 기자] 러블리즈 이미주가 아이돌 비주얼을 뿜어냈다. 이미주는 16일 자신의 인스타그램에 하트 이모티콘과 함께 여러 장의 사진을 게재했다. 사진 속 이미주는 캐주얼한 점퍼에 짧은 치마를 입은 채 다양]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에스파, 美 '켈리 클락슨 쇼' 첫 출연…"세상을 놀라게 했다" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003545744</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003545744</guid>
-            <pubDate>Sat, 16 Oct 2021 05:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 강다윤 기자] 그룹 에스파(aespa)가 미국 인기 토크쇼 '켈리 클락슨 쇼(The Kelly Clarkson Show)'에 첫 출연했다. 에스파는 16일 오전 3시경(한국시간 기준) 방송된 미국 N]]></content:encoded>
+            <title><![CDATA['35세' 문근영, 다이어트 한다더니 '볼살 실종'...말라도 너무 말랐어 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003789782</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003789782</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 이게은기자] 배우 문근영이 동안 미모를 뽐냈다. 16일 문근영은 자신의 인스타그램에 "옛날 사진 같다"라는 글과 한 장의 사진을 게재했다. 공개된 사진에는 카메라를 바라보고 있는 문근영이 담겼다. 셀]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[임영웅, 공개 했다 하면 대기록..OST '사랑은 늘 도망가' 음원차트 싹쓸이 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003487425</link>
-            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003487425</guid>
-            <pubDate>Sat, 16 Oct 2021 05:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드POP=김지혜 기자] 가수 임영웅이 넘사벽 저력을 과시하고 있다. 지난 11일 오후 6시 각종 음원사이트를 통해 임영웅이 부른 KBS2 주말드라마 ‘신사와 아가씨’ OST ‘사랑은 늘 도망가’가 공개됐다. ‘]]></content:encoded>
+            <title><![CDATA["오징어게임 가고 헌트 왔다"… 잘생김 묻은 이정재의 훈훈한 비주얼 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000744255</link>
+            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000744255</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이정재가 카리스마를 되찾은 잘생긴 비주얼을 자랑했다. '오징어 게임'에서 보여준 찌질함의 극치는 온데간데없다. 이정재는 16일 자신의 인스타그램에 영화 '헌트' 촬영장에서 찍은 한 장의 사진을 게재했다. 공개된]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[임영웅, '사랑은 늘 도망가' 음원차트 1위…OST 새 역사 썼다 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003545743</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003545743</guid>
-            <pubDate>Sat, 16 Oct 2021 05:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 강다윤 기자] 가수 임영웅이 저력을 과시하고 있다. 지난 11일 오후 6시 각종 음원사이트를 통해 임영웅이 부른 KBS2 주말드라마 '신사와 아가씨' OST '사랑은 늘 도망가'가 발매됐다. '사랑은]]></content:encoded>
+            <title><![CDATA['헬스걸' 권미진, 출산 8개월만 둘째 임신 "조심했는데, 네 가족 돼" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004865621</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004865621</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[개그우먼 권미진이 둘째 임신 소식을 전했다. 권미진은 16일 자신의 인스타그램에 “나니에게 동생이 생겼다”라는 글과 임신테스트기 사진을 게재했다. 이어 “둘째 생각은 있었지만 지금은 이르다고 생각해서 조심했는데. 내]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[버가부, 데뷔곡 ‘bugAboo’ MV 티저 오픈…달콤오싹 스토리 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000823760</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000823760</guid>
-            <pubDate>Sat, 16 Oct 2021 05:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[걸그룹 버가부(bugAboo, 초연 유우나 레이니 지인 은채 시안)가 공포 영화를 연상시키는 뮤직비디오를 예고했다. 16일 자정 버가부(bugAboo) 공식 유튜브 채널을 통해 데뷔곡 ‘bugAboo’의 뮤직비디오]]></content:encoded>
+            <title><![CDATA['오징어 게임' 김주령, 화보까지 접수…우아한 한미녀 [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000505854</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000505854</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=노규민 기자] '오징어 게임'의 신스틸러 김주령이 화보까지 접수했다. 김주령은 16일 자신의 인스타그램에 화보 촬영 현장 모습이 담긴 사진을 게재했다. 사진 속 김주령은 검은색 드레스에 빨간색 구두를 매치]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[임영웅 '사랑은 늘 도망가', 음원차트 1위 행진 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000794488</link>
-            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000794488</guid>
-            <pubDate>Sat, 16 Oct 2021 05:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 정하은기자]가수 임영웅이 넘사벽 저력을 과시하고 있다. 지난 11일 오후 6시 각종 음원사이트를 통해 임영웅이 부른 KBS2 주말드라마 ‘신사와 아가씨’ OST ‘사랑은 늘 도망가’가 공개됐다. ‘사]]></content:encoded>
+            <title><![CDATA[임영웅, '사랑은 늘 도망가' 1위 행진…영웅시대ing (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004865620</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004865620</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[가수 임영웅이 넘사벽 저력을 과시하고 있다. 지난 11일 오후 6시 각종 음원사이트를 통해 임영웅이 부른 KBS2 주말드라마 ‘신사와 아가씨’ OST ‘사랑은 늘 도망가’가 공개됐다. ‘사랑은 늘 도망가’는 드라마]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[임영웅, 독보적 인기! ‘사랑은 늘 도망가’ 1위 행진 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=408&amp;aid=0000136031</link>
-            <guid>https://entertain.naver.com/now/read?oid=408&amp;aid=0000136031</guid>
-            <pubDate>Sat, 16 Oct 2021 05:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[가수 임영웅이 넘사벽 저력을 과시하고 있다. 지난 11일 오후 6시 각종 음원사이트를 통해 임영웅이 부른 드라마 ‘신사와 아가씨’ OST ‘사랑은 늘 도망가’가 공개됐다. ‘사랑은 늘 도망가’는 드라마 전체를 관통하]]></content:encoded>
+            <title><![CDATA[‘갯마을 차차차’ 과거 밝힌 김선호, ♥신민아와 해피엔딩 될까 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000594419</link>
+            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000594419</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[‘갯마을 차차차’ 신민아와 김선호의 로맨스에 최대 위기가 찾아왔다. tvN 토일드라마 ‘갯마을 차차차’ 오늘(16일) 15회 방송에서 그동안 베일에 가려져 있었던 두식(김선호)의 과거 5년에 대한 미스터리가 드디어]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[영탁, 함께 수업 듣고 싶게 만드는 훈남 자태 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001360713</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001360713</guid>
-            <pubDate>Sat, 16 Oct 2021 05:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이정범 기자) 영탁의 훈훈한 자태가 눈길을 끈다. 지난 15일 영탁의 공식 유튜브 채널 ‘영탁의 불쑥TV’(영불티)에는 “이시국 비대면 캠퍼스 투어. 응답하라 산소(O₂)학번 영탁선배! l 탁이월드 E]]></content:encoded>
+            <title><![CDATA[오윤아, 가을에도 구릿빛 각선미…엄지원과 빛나는 투샷 [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000505852</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000505852</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=노규민 기자] 배우 오윤아가 신이내린 독보적인 비율로 우월한 각선미를 과시했다. 오윤아는 지난 16일 자신의 인스타그램에 "간만에 외출~ 소진아 고마워"라는 글과 함께 여러장의 사진을 게재했다. 사진 속]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이달의 소녀, 日 데뷔곡 ’HULA HOOP‘ MV 공개…과즙美 폭발 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000823756</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000823756</guid>
-            <pubDate>Sat, 16 Oct 2021 04:26:12 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 이달의 소녀(LOONA)가 상큼한 매력을 뽐냈다. 소속사 블록베리크리에이티브는 16일 0시, 이달의 소녀(희진, 현진, 하슬, 여진, 비비, 김립, 진솔, 최리, 이브, 츄, 고원, 올리비아 혜)의 공식 유튜브]]></content:encoded>
+            <title><![CDATA[‘런닝맨’, ‘오징어 게임’ 재해석한다…멤버들의 딱지치기 실력은? (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000594418</link>
+            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000594418</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[‘런닝맨’ 멤버들의 해묵은 딱지치기 실력이 낱낱이 공개된다. 17일 방송되는 SBS ‘런닝맨’에서는 전 세계적으로 인기몰이 중인 드라마 ‘오징어 게임’을 ‘런닝맨’ 식으로 재해석한 ‘주꾸미 게임’ 레이스로 꾸며졌다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[임영웅, 10월 1주 차 아이돌차트 아차랭킹 남성솔로 1위…전체 TOP5 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001360694</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001360694</guid>
-            <pubDate>Sat, 16 Oct 2021 04:26:12 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이정범 기자) 임영웅이 아이돌차트 아차랭킹 TOP5에 올랐다. 16일 아이돌차트에 따르면 10월 1주 차(21.10.4~21.10.10) 아차랭킹에에서 임영웅은 총점 4110점을 기록하며 5위를 차지했]]></content:encoded>
+            <title><![CDATA[[전문] '헬스걸' 권미진, 둘째 임신 "내년 6월이면 세 가족이 네 가족" [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000505851</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000505851</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=김지원 기자] 개그우먼 권미진이 둘째를 임신했다. 권미진은 16일 자신의 인스타그램에 "나니에게 동생이 생겼어요. 둘째 생각은 있었지만 지금은 이르다고 생각해서 조심했는데... 내년 6월이면 세 가족에서]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에스파, 美 '켈리 클락슨 쇼' 존재감 "세상을 놀라게 했다" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0002997274</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0002997274</guid>
-            <pubDate>Sat, 16 Oct 2021 04:26:12 GMT</pubDate>
-            <content:encoded><![CDATA[걸그룹 에스파(aespa)가 미국 인기 토크쇼 '켈리 클락슨 쇼'(The Kelly Clarkson Show)' 첫 출연, 존재감을 뽐냈다. 에스파는 16일 오전 3시경(한국 시각) 방송된 미국 NBC '켈리 클락슨]]></content:encoded>
+            <title><![CDATA[‘헬스걸’ 권미진, 출산 8개월만 둘째 임신…“내년 6월이면 네 가족” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000594417</link>
+            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000594417</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[‘헬스걸’ 개그우먼 권미진이 둘째 임신 소식을 전했다. 권미진은 16일 자신의 인스타그램을 통해 “나니에게 동생이 생겼어요. 둘째 생각은 있었지만, 지금은 이르다고 생각해서 조심했는데… 내년 6월이면 세 가족에서 네]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[드림노트 "바라고 기다리던 컴백, 잠재된 매력 보여드리겠다" [★FULL인터뷰] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0002997273</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0002997273</guid>
-            <pubDate>Sat, 16 Oct 2021 04:26:12 GMT</pubDate>
-            <content:encoded><![CDATA[걸그룹 드림노트가 4번째 싱글 앨범으로 돌아온다. 드림노트(유아이, 보니, 라라, 미소, 수민, 은조)는 26일 4번째 싱글앨범 'Dreams Alive'를 발매한다. 유아이는 "오랜만에 인사드리게 되어 너무 설레고]]></content:encoded>
+            <title><![CDATA[신민아♥김선호, 무거운 분위기 포착...'미스터리 과거'에 어떤 선택할까 ('갯마을 차차차') (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003789778</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003789778</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 이게은기자] '갯마을 차차차' 신민아와 김선호의 로맨스에 최대 위기가 찾아왔다. tvN 토일드라마 '갯마을 차차차' 오늘(16일) 15회 방송에서 그동안 베일에 가려져 있었던 두식(김선호 분)의 과거]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["세상 놀라게 했다"…에스파, 美 ‘켈리 클락슨 쇼’ 첫 출연 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004492450</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004492450</guid>
-            <pubDate>Sat, 16 Oct 2021 04:26:12 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김나연 기자] 에스파(aespa)가 미국 인기 토크쇼 ‘켈리 클락슨 쇼(The Kelly Clarkson Show)’에 첫 출연해 화제다. 에스파는 금일(16일) 오전 3시경(한국시간 기준) 방송된 미국]]></content:encoded>
+            <title><![CDATA['♥진화' 함소원, 쌍수+명품으로 치장하니 '럭셔리 사모님'...46세 중 가장 핫해 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003789777</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003789777</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 이게은기자] 방송인 함소원이 근황을 전했다. 16일 함소원은 자신의 인스타그램에 여러 장의 사진을 게재했다. 사진에는 가족과 나들이에 나선 함소원 모녀의 모습이 담겼다. 함소원의 딸 혜정 양은 선글라]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에스파, 美 ‘켈리 클락슨 쇼’ 첫 출연 "다음엔 직접 뵙고 싶어" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000500212</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000500212</guid>
-            <pubDate>Sat, 16 Oct 2021 04:26:12 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박수인 기자] 그룹 에스파(aespa)가 미국 인기 토크쇼 ‘켈리 클락슨 쇼(The Kelly Clarkson Show)’에 첫 출연했다. 에스파는 10월 16일 오전 3시경(한국시간 기준) 방송된 미국 N]]></content:encoded>
+            <title><![CDATA[윤현민, '♥' 백진희 걱정? "추워요 옷 따숩게 입어요" [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000505848</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000505848</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=노규민 기자] 배우 윤현민이 추위를 걱정했다. 윤현민은 16일 자신의 인스타그램에 "Morning ride 날 추워요 옷 따숩게 입어요~"라는 글과 함께 사진 한 장을 게재했다. 사진 속 윤현민은 이른 아]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[러블리즈 이미주, 청순美 한도초과…희극인 아닌 아이돌 비주얼 [스타★샷] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000594415</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000594415</guid>
-            <pubDate>Sat, 16 Oct 2021 05:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[러블리즈 이미주가 청순한 비주얼을 자랑했다. 이미주는 16일 자신의 인스타그램에 하트 이모티콘과 함께 사진 여러 장을 게재했다. 공개된 사진에는 테니스 치마를 입은 채 포즈를 취하고 있는 이미주의 모습이 담겼다. 이]]></content:encoded>
+            <title><![CDATA[이은형·강재준, '오겜' 한미녀·장덕수 완벽 변신(ft. 술래인형 문세윤) [N샷] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005661267</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005661267</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 개그우먼 이은형이 개그맨 문세윤, 강재준과 tvN '코미디 빅리그'에서 넷플릭스 오리지널 시리즈 '오징어 게임'을 패러디한다. 이은형은 16일 자신의 인스타그램에 "무궁화 꽃이 피었습]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이정재, 이런게 영화 감독 눈빛…'오겜' 잊고 '헌트' 집중 [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000505841</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000505841</guid>
-            <pubDate>Sat, 16 Oct 2021 05:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=노규민 기자] 배우 이정재가 감독 데뷔작 '헌트' 촬영 현장에서 근황을 전했다. 이정재는 16일 자신의 인스타그램에 사진 한 장을 게재했다. 사진 속 이정재는 말끔한 슈트 차림으로 카메라를 응시하고 있다.]]></content:encoded>
+            <title><![CDATA[에스파, 美 인기 ‘켈리 클락슨 쇼’ 출연...신곡 ‘새비지’ 무대 선보여 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003628853</link>
+            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003628853</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[16일(한국시간) 방송된 미국 NBC '켈리 클락슨 쇼(The Kelly Clarkson Show)'에 에스파가 출연해 신곡 ‘새비지’(Savage) 무대를 선보였다. SM 제공 그룹 ‘에스파’(aespa)가 미국]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[태완, 다이아나와 5월 부부됐다…뒤늦게 알려진 결혼 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005661214</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005661214</guid>
-            <pubDate>Sat, 16 Oct 2021 05:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 가수 겸 프로듀서 태완이 가수 다이아나와 결혼했다는 사실이 뒤늦게 알려졌다. 태완 소속사 브랜뉴뮤직 관계자는 16일 뉴스1에 "태완이 다이아나와 지난 5월 결혼했다"고 말했다. 태완은]]></content:encoded>
+            <title><![CDATA[에스파, 美 '켈리 클락슨 쇼' 첫 출연…"세상을 놀라게 했다" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004865614</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004865614</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[메타버스 걸그룹 에스파(aespa)가 미국 인기 토크쇼 ‘켈리 클락슨 쇼’에 첫 출연해 화제다. 에스파는 16일 방송된 미국 NBC ‘켈리 클락슨 쇼’ 출연, 신곡 ‘새비지(Savage)’ 무대를 선사하며 글로벌 시]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘원 더 우먼’ 이하늬X이상윤, ‘연승커플의 설레는 로맨스 ing?!’ (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000938862</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000938862</guid>
-            <pubDate>Sat, 16 Oct 2021 05:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[“‘연승커플’ 짜릿한 첫 키스 그 후…” ‘원더우먼(One the Woman)’ 이하늬와 이상윤이 그렁그렁한 눈망울로 서로를 바라보고 있는 애틋한 ‘달빛 악수’ 현장이 공개됐다. SBS 금토드라마 ‘원 더 우먼(On]]></content:encoded>
+            <title><![CDATA[하연주, 유부녀 맞아?…비키니로 뽐낸 완벽 몸매[똑똑SNS] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000823766</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000823766</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[배우 하연주가 마네킹 몸매를 뽐냈다. 하연주는 16일 자신의 SNS에 "드링킹 그 치명적인 유혹_캐롤라인 냅" 글과 함께 사진을 공개했다. 게재된 사진 속 하연주는 해변가로 보이는 곳에서 비키니를 입고 책을 읽고 있]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['장동건♥' 고소영, 핑크 드레스 입은 50세 애둘맘…독보적인 우아함 [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000505839</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000505839</guid>
-            <pubDate>Sat, 16 Oct 2021 05:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=김지원 기자] 배우 고소영이 여신 미모를 뽐냈다. 고소영은 16일 자신의 인스타그램 스토리에 광고 촬영 비하인드 사진을 올렸다. 고소영은 한 화장품 브랜드의 화보를 찍고 있는 모습. 오프숄더 연핑크 드레스]]></content:encoded>
+            <title><![CDATA[패리스 힐튼♥︎카터 럼, 11월 11일 결혼..코시국? 피로연만 세 개↑[Oh!llywood] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004492607</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004492607</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최나영 기자] 할리우드 이슈메이커 패리스 힐튼이 오는 11월 11일 웨딩마치를 울리고 할아버지의 집에서 결혼 피로연을 가질 예정이다. 페이지식스의 15일자(현지시간) 보도에 따르면 힐튼과 그의 약혼자인 베]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘유미의 세포들’ 김고은, ‘애교 필살기’…안보현과 꿀 떨어지는 연애 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000938861</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000938861</guid>
-            <pubDate>Sat, 16 Oct 2021 05:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[‘유미의 세포들’ 김고은, 안보현의 꿀 떨어지는 연애는 계속된다. 티빙 오리지널 ‘유미의 세포들’(연출 이상엽, 크리에이터 송재정, 극본 김윤주·김경란, 제공 티빙, 제작 스튜디오드래곤·메리카우·스튜디오N) 측은 1]]></content:encoded>
+            <title><![CDATA[마이클 케인, 배우 은퇴하나.."88세가 주연인 각본 없어" [Oh!llywood] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004492520</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004492520</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=지민경 기자] 할리우드 배우 마이클 케인이 배우 은퇴를 암시했다. 지난 15일(현지 시간) 피플 등 다수의 미국 매체 보도에 따르면 마이클 케인은 이날 BBC 라디오 쇼 'Kermode and Mayo's]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[지민 1위, 10월 보이그룹 개인 브랜드평판…2·3위는 방탄소년단 뷔·정국 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001614506</link>
-            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001614506</guid>
-            <pubDate>Sat, 16 Oct 2021 05:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[지민이 1위에 이름을 올린 10월 보이그룹 개인 브랜드평판 순위가 공개됐다. 보이그룹 개인 브랜드평판 2021년 10월 빅데이터 분석결과, 1위 방탄소년단 지민 2위 방탄소년단 뷔 3위 방탄소년단 정국 순으로 분석되]]></content:encoded>
+            <title><![CDATA[에스파, 미국 '켈리 클락슨 쇼' 첫 출연…"세상 놀라게 했다" (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010773690</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010773690</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스] 강진아 기자 = 걸그룹 '에스파(aespa)'가 미국 인기 토크쇼 '켈리 클락슨 쇼(The Kelly Clarkson Show)'에 첫 출연해 화제다. 에스파는 16일 오전 3시께(한국시간 기준) 방]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['19금쇼 연출' 나르샤, 상의 탈의한 배우들 앞에서 '덩실덩실' [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000505838</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000505838</guid>
-            <pubDate>Sat, 16 Oct 2021 05:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=노규민 기자] 그룹 브라운 아이드 걸스 출신 나르샤가 '19금 쇼' 연출자로 변신했다. 나르샤는 16일 자신의 인스타그램에 "와일드 와일드 압구정을 들었다 놓고 있습니다. 스타잇엔터테인먼트 흥해라! 우리]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘아형’ 최예빈, ‘펜트하우스’ 엄마 김소연 생각에 눈물…미담 공개 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000594412</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000594412</guid>
-            <pubDate>Sat, 16 Oct 2021 05:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[최예빈이 드라마에서 함께 호흡을 맞췄던 '엄마' 김소연을 언급하며 눈물을 보였다. 16일 방송되는 JTBC ‘아는 형님’에 서스펜스 복수극 드라마 ‘펜트하우스’에서 ‘연기 천재’로 불리며 큰 활약을 보여준 진지희,]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[임영웅이 또...이번엔 OST로 멜론 톱100 첫 1위 "영웅시대 진심으로 감사" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003789767</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003789767</guid>
-            <pubDate>Sat, 16 Oct 2021 05:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선닷컴 이게은기자] 가수 임영웅이 멜론 톱100 1위에 올랐다. 트로트 가수라는 장르적 한계를 넘으며 또 한 번 이례적인 기록을 세웠다. 16일 임영웅의 공식 인스타그램에는 "임영웅, 음원차트 1위!!! 새]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[허성태 “팔로워 200만 감사”…글로벌 빌런의 화사한 비주얼 [스타★샷] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000594411</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000594411</guid>
-            <pubDate>Sat, 16 Oct 2021 05:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[배우 허성태가 인스타그램 팔로워수 급증에 감사 인사를 전했다. 허성태는 16일 자신의 인스타그램에 영문으로 “방금 일어났을 뿐인데 200만 감사합니다”라는 글과 함께 사진을 게재했다. 공개된 사진에는 졸린 눈을 비비]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘세무사♥’ 이지혜, 열일 중인 워킹맘…살짝 드러난 D라인 눈길 [스타★샷] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000594410</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000594410</guid>
-            <pubDate>Sat, 16 Oct 2021 05:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[방송인 이지혜가 일상을 공유했다. 이지혜는 15일 자신의 인스타그램에 “연예인 같죠? ‘돌싱글즈2’ 제작발표회. 시즌2도 완전 재미납니다. 많관부”라는 글과 함께 사진 여러 장을 게재했다. 공개된 사진에는 노란색 원]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[★화보] 한소희, 레트로 무드! 겨울패션… "화보의 완성은 눈빛" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000744241</link>
-            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000744241</guid>
-            <pubDate>Sat, 16 Oct 2021 05:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[배우 한소희가 화보에서 레트로 무드의 겨울 패션을 선보였다. 코오롱FnC 럭키슈에뜨는 광고모델 한소희와 함께한 겨울 화보를 공개했다. 브랜드에 따르면, 이번 겨울 캠페인은 '더 조이 오브 프릴'이 메인 테마다. 레트]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘전참시’ 육준서, 그 형에 그 동생?… ‘역대급 스펙’ 친동생 공개 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000938860</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000938860</guid>
-            <pubDate>Sat, 16 Oct 2021 05:18:33 GMT</pubDate>
-            <content:encoded><![CDATA['전지적 참견 시점' UDT 출신 화가 육준서가 친동생을 공개한다. 10월 16일 방송되는 MBC '전지적 참견 시점'(기획 박정규 / 연출 노시용, 채현석 / 이하 '전참시') 174회에서는 '강철 형제' 육준서와]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[TEN피플] '쌍수 망한' 윤혜진→'눈 시린' 박나래, 연예계 덮친 성형 부작용 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000505837</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000505837</guid>
-            <pubDate>Sat, 16 Oct 2021 05:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=서예진 기자] 연예인도 성형수술 부작용을 피할 순 없다. 쌍꺼풀 수술쯤은 시술로 분류될 정도로 성형 수술이 성행하고 있는 가운데 얼굴에 칼을 댔다는 사실을 감추기 급급했던 연예인들도 더는 성형 수술에 대해]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["한국의 문화침공" 미 안보전문가 소프트파워 폭발력 주목 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0012726164</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0012726164</guid>
-            <pubDate>Sat, 16 Oct 2021 05:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[오징어게임 찬사…냉전 끝낸 서구문화력과 비교 "단순히 연예 수출할지, 민주적 이상 전파할지 갈림길" (서울=연합뉴스) 김태종 기자 = 넷플릭스 드라마 '오징어 게임'이 전 세계적으로 큰 인기를 끌면서 서구문화가 냉전]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[유이, 8kg 늘었다지만 극세사 팔목 '단아+청순' [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000505835</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000505835</guid>
-            <pubDate>Sat, 16 Oct 2021 05:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=김지원 기자] 배우 유이가 단아한 매력을 뽐냈다. 유이는 16일 자신의 인스타그램에 "날씨가 갑자기 추워졌네요"라고 글을 올렸다. 함께 게시한 사진 속 유이는 단발머리를 귀 뒤로 넘기고 있다. 흰색 가디건]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘세레머니 클럽’ 찬성, 2PM 골프 서열 “택연보다 내가 한 수 위” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000938859</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000938859</guid>
-            <pubDate>Sat, 16 Oct 2021 05:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[찬성이 2PM 멤버들의 골프 서열을 공개했다. 16일(토) 오후 4시 20분 방송되는 JTBC '회원모집-세리머니 클럽'(이하 '세리머니 클럽')은 골프 실력자 특집으로 꾸려진다. ‘연예계 최고 골프 실력자’로 알려]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김고은, 머리 위에 무엇? 지금 기분 어떤 상태일까 [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000505834</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000505834</guid>
-            <pubDate>Sat, 16 Oct 2021 05:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=노규민 기자] 배우 김고은이 근황을 공개했다. 김고은은 지난 15일 자신의 인스타그램에 "오늘은 유미의 세포들 하는 날♥"이라는 글과 함께 사진을 게재했다. 사진 속 김고은은 넋이 나간 듯한 표정을 짓고]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘유미의 세포들’ 박지현, 로맨스 빌런…완벽한 흑막 로맨스 완성 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000938858</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000938858</guid>
-            <pubDate>Sat, 16 Oct 2021 05:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[배우 박지현의 열연에 안방극장의 열기가 달아올랐다. 티빙 오리지널 ‘유미의 세포들’에서 서새이 역으로 삼각관계의 묘미를 제대로 보여주고 있는 박지현이 마지막까지 몰입도를 폭발시키며 흑막 로맨스를 완성시켰다. ‘유미의]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘슈돌’ 사유리 아들 젠, 빅베이비 친구들과 만났다 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000594409</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000594409</guid>
-            <pubDate>Sat, 16 Oct 2021 05:18:33 GMT</pubDate>
-            <content:encoded><![CDATA['슈퍼맨이 돌아왔다' 빅보이 젠이 자기보다 더 큰 친구들을 만난다. 10월 17일 방송되는 KBS 2TV '슈퍼맨이 돌아왔다'(이하 '슈돌') 403회는 '육아 재촉하지 마♪'라는 부제로 시청자를 찾아온다. 그중 사]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['홍콩댁' 강수정, "♥남편 대학 친구 부부와 저녁" 미슐랭 원스타 맛집에서 우아美 [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000505833</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000505833</guid>
-            <pubDate>Sat, 16 Oct 2021 05:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=김지원 기자] 방송인 강수정이 홍콩에서의 일상을 전했다. 강수정은 16일 자신의 인스타그램에 "친한 부부와 저녁식사. 남편의 대학 친구 부부인데 왠지 나랑 그 부인이 더 친해진거 같음. 늘 만나면 기분 좋]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘징크스’ 찬희 X 은서, 선 키스 후 꽁냥… 달달한 썸 타임 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000938857</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000938857</guid>
-            <pubDate>Sat, 16 Oct 2021 05:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[강찬희와 우주소녀 은서가 ‘선 키스 후 꽁냥’ 모드에 돌입, 달달한 썸 타임으로 시청자들의 연애 세포를 깨우고 있다. &lt;징크스&gt;(연출 남태진, 극본 문운영, 제작 스튜디오S·FNC스토리·메이스엔터테인먼트)는 재채기를]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BTS 지민, 10월 보이그룹 개인 브랜드평판 1위…2위 뷔·3위 정국 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000823758</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000823758</guid>
-            <pubDate>Sat, 16 Oct 2021 05:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[방탄소년단 지민이 10월 보이그룹 개인 브랜드평판 1위를 차지했다. 보이그룹 개인 브랜드평판 2021년 10월 빅데이터 분석결과, 1위 방탄소년단 지민 2위 방탄소년단 뷔 3위 방탄소년단 정국 순으로 분석되었다. 2]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['헬스걸' 권미진, 출산 8개월만 둘째 임신 "이르다고 생각해 조심했는데..." [전문] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003789765</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003789765</guid>
-            <pubDate>Sat, 16 Oct 2021 04:26:18 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선닷컴 이게은기자] 개그우먼 권미진이 두 아이의 엄마가 된다. 16일 권미진은 자신의 인스타그램에 "나니에게 동생이 생겼어요. 둘째 생각은 있었지만 지금은 이르다고 생각해서 조심했는데.....^^; 내년 6]]></content:encoded>
+            <title><![CDATA[넷플릭스, '오징어 게임'·'더 클로저' 제작비 유출 직원 해고 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=018&amp;aid=0005061772</link>
+            <guid>https://entertain.naver.com/now/read?oid=018&amp;aid=0005061772</guid>
+            <pubDate>Sat, 16 Oct 2021 07:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[(사진=넷플릭스) [이데일리 스타in 김보영 기자] 넷플릭스가 ‘오징어 게임’을 비롯해 ‘더 클로저’ 등 오리지널 시리즈의 제작비 정보를 유출해 블룸버그 기사로 내보내게 한 직원을 해고한 것으로 드러났다. 15일(이]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["다람쥐볼 같다" 톰 크루즈, 땡땡 부은 얼굴 근황..역시 시술 맞나[Oh!llywood] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
@@ -1395,7 +1423,7 @@
             <title><![CDATA["한국의 문화침공" 미 안보전문가 소프트파워 폭발력 주목 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
             <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0012726164</link>
             <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0012726164</guid>
-            <pubDate>Sat, 16 Oct 2021 05:18:41 GMT</pubDate>
+            <pubDate>Sat, 16 Oct 2021 05:18:33 GMT</pubDate>
             <content:encoded><![CDATA[오징어게임 찬사…냉전 끝낸 서구문화력과 비교 "단순히 연예 수출할지, 민주적 이상 전파할지 갈림길" (서울=연합뉴스) 김태종 기자 = 넷플릭스 드라마 '오징어 게임'이 전 세계적으로 큰 인기를 끌면서 서구문화가 냉전]]></content:encoded>
         </item>
         <item>
@@ -1530,34 +1558,6 @@
             <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004492066</guid>
             <pubDate>Fri, 15 Oct 2021 09:20:14 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=최나영 기자] 아역 배우 출신 매튜 민들러(19)가 극단적 선택을 한 가운데 사망 직전 온라인에서 질산나트륨을 구입한 것으로 확인됐다. 14일 페이지식스의 보도에 따르면 매튜 민들러는 아마존에서 15달러에]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['007' 다니엘 크레이그 "게이바 자주 다녀…싸움 없어 더 안전" [엑's 할리우드] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001360533</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001360533</guid>
-            <pubDate>Fri, 15 Oct 2021 08:24:23 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) '007' 시리즈에서 최근 하차한 다니엘 크레이그가 게이바를 다니는 이유를 밝혔다. 지난 12일(현지시간) 다니엘 크레이그는 팟캐스트 'Lunch with Bruce'에 출연해 "나는 꽤]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이선빈 '사랑스러운 미소' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000823590</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000823590</guid>
-            <pubDate>Fri, 15 Oct 2021 07:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이선빈이 15일 오후 티빙 오리지널 '술꾼도시여자들' 제작발표회에 참석해 포토타임을 갖고 있다. 사진=티빙]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이선빈 '우아한 그녀' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000823588</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000823588</guid>
-            <pubDate>Fri, 15 Oct 2021 07:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이선빈이 15일 오후 티빙 오리지널 '술꾼도시여자들' 제작발표회에 참석해 포토타임을 갖고 있다. 사진=티빙]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한선화 '청순 미모' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000823587</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000823587</guid>
-            <pubDate>Fri, 15 Oct 2021 07:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[배우 한선화가 15일 오후 티빙 오리지널 '술꾼도시여자들' 제작발표회에 참석해 포토타임을 갖고 있다. 사진=티빙]]></content:encoded>
         </item>
     </channel>
 </rss>

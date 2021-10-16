@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-10-16T05:18:41.986Z</updated>
+    <updated>2021-10-16T07:19:50.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[패리스 힐튼♥︎카터 럼, 11월 11일 결혼..코시국? 피로연만 세 개↑]]></title>
+        <id>https://entertain.v.daum.net/v/20211016161556074</id>
+        <link href="https://entertain.v.daum.net/v/20211016161556074"/>
+        <updated>2021-10-16T07:19:26.388Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 할리우드 이슈메이커 패리스 힐튼이 오는 11월 11일 웨딩마치를 울리고 할아버지의 집에서 결혼 피로연을 가질 예정이다. 페이지식스의 15일자(현지시간) 보도에 따르면 힐튼과 그의 약혼자인 베스트셀러 작가 겸 벤처&nbsp;투자가&nbsp;카터 럼의 결혼식 초대장이&nbsp;지인들에게 최근&nbsp;장소 없이 발송됐다. 힐튼 가족의 측근은 페이지식스에 "힐튼이 11월]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마이클 케인, 배우 은퇴하나.."88세가 주연인 각본 없어"]]></title>
+        <id>https://entertain.v.daum.net/v/20211016145832233</id>
+        <link href="https://entertain.v.daum.net/v/20211016145832233"/>
+        <updated>2021-10-16T07:19:26.392Z</updated>
+        <content type="html"><![CDATA[[OSEN=지민경 기자] 할리우드 배우 마이클 케인이 배우 은퇴를 암시했다. 지난 15일(현지 시간) 피플 등 다수의 미국 매체 보도에 따르면 마이클 케인은 이날 BBC 라디오 쇼 'Kermode and Mayo's Film Review'와의 인터뷰에서 최근 개봉한 새 영화 'Best Sellers'가 자신의 마지막 영화 출연이 될 것이라고 밝혔다. 올해로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["다람쥐볼 같다" 톰 크루즈, 땡땡 부은 얼굴 근황..역시 시술 맞나]]></title>
         <id>https://entertain.v.daum.net/v/20211016135045490</id>
@@ -39,19 +53,5 @@
         <link href="https://entertain.v.daum.net/v/20211015165748088"/>
         <updated>2021-10-15T08:24:02.190Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) '007' 시리즈에서 최근 하차한 다니엘 크레이그가 게이바를 다니는 이유를 밝혔다.  지난 12일(현지시간) 다니엘 크레이그는 팟캐스트 'Lunch with Bruce'에 출연해 "나는 꽤 오랫동안 게이바에 다녔다"고 언급했다.  그는 게이바에 가는 이유에 대해 "게이바에서는 싸우지 않아도 됐기 때문이다. 일반 술집에서 다투는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다니엘 크레이그, "게이바 자주 다녀..싸움 없어 좋아"]]></title>
-        <id>https://entertain.v.daum.net/v/20211015161805973</id>
-        <link href="https://entertain.v.daum.net/v/20211015161805973"/>
-        <updated>2021-10-15T07:19:42.456Z</updated>
-        <content type="html"><![CDATA['007' 시리즈에서 제임스 본드를 연기한 배우 다니엘 크레이그(Daniel Craig)가 게이바를 선호하는 이유를 밝혔다. 지난 12일(현지시간) 다니엘 크레이그가 'Lunch with Bruce'(브루스와 함께 점심을)이라는 팟캐스트 방송에 출연해 "오랫동안 게이바에 다녔다"고 밝혔다. 놀랄만한 얘기에 MC가 이유를 묻자, 그는 다른 이유가 아닌]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[톰 홀랜드 "'노 웨이 홈', MCU 마지막 될 것..촬영 끝내고 펑펑 울어"]]></title>
-        <id>https://entertain.v.daum.net/v/20211015150433616</id>
-        <link href="https://entertain.v.daum.net/v/20211015150433616"/>
-        <updated>2021-10-15T06:24:45.797Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 톰 홀랜드가 마블 시네마틱 유니버스(MCU) 영화 '스파이더맨: 노 웨이 홈'과 관련된 이야기를 전했다.  14일(현지시간) 톰 홀랜드는 미국 EW와의 인터뷰에서 "우리 모두는 '노 웨이 홈'을 프랜차이즈의 마지막이라고 이야기한다"면서 "혹여나 운 좋게 이 캐릭터들을 다시 연기할 수 있다면 굉장히 다른 버전의 이야기를 보게 될]]></content>
     </entry>
 </feed>
