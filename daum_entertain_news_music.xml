@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-16T20:20:43.503Z</updated>
+    <updated>2021-10-16T21:17:24.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['힘을 내세요' 이찬원, '쇼! 음악중심' 동영상 조회 수 1위 등극]]></title>
+        <id>https://entertain.v.daum.net/v/20211017060022036</id>
+        <link href="https://entertain.v.daum.net/v/20211017060022036"/>
+        <updated>2021-10-16T21:16:55.100Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 16일 방송된 MBC ‘쇼! 음악중심’ 742회에 따르면, 이찬원의 ‘힘을 내세요’는 동영상 조회 수 1위를 차지했다. 이는 지난 10월 9일 방송된 741회 영상을 기준으로 산정한 것으로, 이찬원의 ‘힘을 내세요’ 영상은 총 조회 수 약 6만 6천 회를 넘어서며 1위를 차지했다.&nbsp; 이찬원은 지난달 방영된 음악중심 737회 및]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['인더숲' BTS 뷔, 건강하고 에너지 넘치는 모습으로 팬심 저격]]></title>
         <id>https://entertain.v.daum.net/v/20211017000110386</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211016132033194"/>
         <updated>2021-10-16T04:25:56.544Z</updated>
         <content type="html"><![CDATA[(사진=YG엔터테인먼트)[이데일리 스타in 김보영 기자] 블랙핑크 리사(LISA)가 세계적인 아티스트인 디제이 스네이크(DJ Snake)와 글로벌 컬래버로 만난다. 리사의 소속사 YG엔터테인먼트는 16일 “리사가 디제이 스네이크의 새 싱글에 참여한다”고 밝혔다. 리사가 참여한 곡의 제목은 ‘SG’로 오는 22일 발매 예정이다. 디제이 스네이크 역시 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드림노트 "바라고 기다리던 컴백, 잠재된 매력 보여드리겠다"]]></title>
-        <id>https://entertain.v.daum.net/v/20211016123006839</id>
-        <link href="https://entertain.v.daum.net/v/20211016123006839"/>
-        <updated>2021-10-16T04:25:56.545Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이덕행 기자] /사진=iMe KOREA걸그룹 드림노트가 4번째 싱글 앨범으로 돌아온다. 드림노트(유아이, 보니, 라라, 미소, 수민, 은조)는 26일 4번째 싱글앨범 'Dreams Alive'를 발매한다. 유아이는 "오랜만에 인사드리게 되어 너무 설레고 기대된다"며 "지금까지 드림노트가 보여드렸던 퍼포먼스와 또 다른 매력이 넘치니 지켜봐 달라"고]]></content>
     </entry>
 </feed>

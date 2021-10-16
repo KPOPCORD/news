@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-16T20:20:43.520Z</updated>
+    <updated>2021-10-16T21:17:24.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘힘을 내세요’ 이찬원, ‘쇼! 음악중심’ 동영상 조회 수 1위 등극]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001360924</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001360924"/>
+        <updated>2021-10-16T21:17:11.552Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 16일 방송된 MBC ‘쇼! 음악중심’ 742회에 따르면, 이찬원의 ‘힘을 내세요’는 동영상 조회 수 1위를 차지했다. 이는 지난 10월 9일 방송된 741회 영상을 기준으로 산정한 것으]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘인더숲’ BTS 정국, 남다른 반려견 사랑으로 팬심 저격]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001360923</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001360923"/>
+        <updated>2021-10-16T21:17:11.552Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 방탄소년단(BTS) 정국이 '인더숲 BTS편'에서 반려견을 육아하는 '밤이 아빠'의 모습으로 시선을 끌었다. 지난 15일 JTBC, 위버스에서는 리얼리티 프로그램 'IN THE SOOP']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김희재, 가을에도 빛나는 미모 "희랑 우리 빨리 만나요♥"]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002997354</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000794541"/>
         <updated>2021-10-16T07:19:34.788Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 정하은기자]그룹 골든차일드(Golden Child)가 슈트를 벗고 캐주얼룩을 장착한 퍼포먼스로 색다른 매력을 뽐냈다. 소속사 울림엔터테인먼트는 지난 15일 오후 5시 공식 유튜브 채널을 통해 골든차일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[골든차일드, 캐주얼룩＋칼군무 ‘퍼펙트’]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000767796</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000767796"/>
-        <updated>2021-10-16T07:19:34.791Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 그룹 골든차일드(Golden Child)가 슈트를 벗고 캐주얼룩을 장착한 퍼포먼스로 색다른 매력을 뽐냈다. 소속사 울림엔터테인먼트는 지난 15일 오후 5시 공식 유튜브 채널을 통해 골든차일드 정규 2집]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에스파, 美 ‘켈리 클락슨 쇼’ 첫 출연 “최단기간 1억뷰, 세상 놀라게 했다”]]></title>
-        <id>https://entertain.naver.com/now/read?oid=408&amp;aid=0000136032</id>
-        <link href="https://entertain.naver.com/now/read?oid=408&amp;aid=0000136032"/>
-        <updated>2021-10-16T07:19:34.792Z</updated>
-        <content type="html"><![CDATA[‘메타버스 걸그룹’ 에스파(aespa)가 미국 인기 토크쇼 ‘켈리 클락슨 쇼(The Kelly Clarkson Show)’에 첫 출연해 화제다. 에스파는 금일(16일) 오전 3시경(한국시간 기준) 방송된 미국 NBC]]></content>
     </entry>
 </feed>
