@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-10-15T23:21:33.071Z</updated>
+    <updated>2021-10-16T01:11:54.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['핑크 플로이드' 78세 로저 워터스, 35세 연하와 결혼 "너무 행복해"]]></title>
+        <id>https://entertain.v.daum.net/v/20211016084129419</id>
+        <link href="https://entertain.v.daum.net/v/20211016084129419"/>
+        <updated>2021-10-16T01:11:29.094Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 전설적인 록밴드 핑크 플로이드의 공동 창업자인 로저 워터스가 78세의 나이로 그의 운전기사였던 43세 여성과 결혼했다. 그에게는 다섯 번째 웨딩마치다.&nbsp; 워터스는 15일(현지시간) 자신의 인스타그램을 통해&nbsp;그가 약 5년 동안 사귀어 온 카밀라 차비스와 결혼했다고 발표했다.&nbsp;결혼식은 그가 소유한&nbsp;미국&nbsp;햄튼 저택에서 열렸고, 행복한 커]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[케이티 사갈, 길 건너다가 차에 치여..구급차로 실려가]]></title>
         <id>https://entertain.v.daum.net/v/20211016075237009</id>
@@ -32,12 +39,5 @@
         <link href="https://entertain.v.daum.net/v/20211015150433616"/>
         <updated>2021-10-15T06:24:45.797Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 톰 홀랜드가 마블 시네마틱 유니버스(MCU) 영화 '스파이더맨: 노 웨이 홈'과 관련된 이야기를 전했다.  14일(현지시간) 톰 홀랜드는 미국 EW와의 인터뷰에서 "우리 모두는 '노 웨이 홈'을 프랜차이즈의 마지막이라고 이야기한다"면서 "혹여나 운 좋게 이 캐릭터들을 다시 연기할 수 있다면 굉장히 다른 버전의 이야기를 보게 될]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['불륜' 히가시데 마사히로 20대 여성과 열애, 소속사 "분별없는 행동" 강한 분노]]></title>
-        <id>https://entertain.v.daum.net/v/20211015085825980</id>
-        <link href="https://entertain.v.daum.net/v/20211015085825980"/>
-        <updated>2021-10-15T01:09:35.713Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]9세 연하 배우 카라타 에리카(24)와 불륜으로 여론의 질타를 받은 일본 스타 히가시데 마사히로(33)가 20대 여성과 새로운 열애를 시작하자, 소속사가 발끈하고 나섰다. 일본 연예 기획사 휴머니티 대표는 14일 스포니치와 인터뷰에서 “히가시데 마사히로에게 확인했는데, 열애는 사실이다”라고 운을 뗐다. 이어 "촬영장에 여성]]></content>
     </entry>
 </feed>
