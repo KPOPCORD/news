@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-10-16T16:29:59.951Z</updated>
+    <updated>2021-10-16T18:23:13.762Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['그알' 母에 2천대 맞고 사망한 C사찰 피해자..충격적인 자술서에 제보자, "비슷한 각서 강요받아"]]></title>
+        <id>https://entertain.v.daum.net/v/20211017025700110</id>
+        <link href="https://entertain.v.daum.net/v/20211017025700110"/>
+        <updated>2021-10-16T18:22:48.749Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] C사찰 사망사건의 피해자는 어머니 때문에 사망한 것이 맞을까? 16일 방송된 SBS '그것이 알고 싶다'에서는 &lt;'자백', 그리고 2,000번의 구타 - 청도 C사찰 사망사건의 진실&gt;이라는 부제로 C사찰 사망사건을 조명했다. 지난해 8월 경북 청도군의 한 사찰에서 김수혁(36세)씨가 사망했다. 그의 사인은 구타로 의한 신]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고현정 vs 모델, 걸친 아이템만 '7163만원'..어디 거?]]></title>
         <id>https://entertain.v.daum.net/v/20211017010005780</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211016234916250"/>
         <updated>2021-10-16T15:20:51.402Z</updated>
         <content type="html"><![CDATA[[티브이데일리 박상후 기자] '전참시'에서 화가 육준서가 동생 육준희를 소개했다. 16일 밤 방송된 MBC 예능프로그램 '전지적 참견 시점'(이하 '전참시')에서는 육준서와 친동생의 전투력 넘치는 하루가 공개됐다. 이날 동생 육준희는 육준서의 작업실을 방문했다. 육준서는 자신의 작업 과정에 대해 "새로운 형태의 무언가를 만드는 거다"라고 말했다. 그러자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['전참시' 육준서 "친동생, SSU 출신..UDT와 SSU 묘한 관계"]]></title>
-        <id>https://entertain.v.daum.net/v/20211016234800238</id>
-        <link href="https://entertain.v.daum.net/v/20211016234800238"/>
-        <updated>2021-10-16T15:20:51.403Z</updated>
-        <content type="html"><![CDATA[육준서가 친동생에게 라이벌 의식을 드러냈다. 16일 방송된 MBC 예능 프로그램 ‘전지적 참견 시점’(이하 ‘전참시’)에서는 친동생을 작업실로 초대한 육준서의 모습이 그려졌다. 육준서의 동생 육준희 씨가 육준서의 작업실을 찾았다. 육준희 씨는 "전역한 지 4개월 됐다"며 "SSU에서 복무했다"고 밝혔다. 육준서는 "제가 UDT를 가니까 (동생이) UDT는]]></content>
     </entry>
 </feed>

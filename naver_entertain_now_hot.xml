@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-10-16T16:29:59.943Z</updated>
+    <updated>2021-10-16T18:23:13.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[개리, ♥10살 연하 아내와 子 하오 생일 축하 파티 [TEN★]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000505889</id>
+        <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000505889"/>
+        <updated>2021-10-16T18:23:06.955Z</updated>
+        <content type="html"><![CDATA[[텐아시아=이준현 기자] 가수 개리가 아들 하오의 생일을 축하했다. 개리는 15일 자신의 인스타그램을 통해 "하오 생일 축하해주셔서 감사합니다!"라는 글과 함께 여러 장의 사진을 게재했다. 공개된 사진 속에는 개리와]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[권미진 둘째 임신 발표 “나니에게 동생이 생겼어요”(전문)]]></title>
         <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001614575</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000505870"/>
         <updated>2021-10-16T11:17:21.256Z</updated>
         <content type="html"><![CDATA[[텐아시아=이준현 기자] 배우 김선호가 '갯마을 차차차' 본방 사수를 독려했다. 김선호는 16일 자신의 인스타그램을 통해 "#갯마을차차차 오늘 밤 9시"라는 글과 함께 여러 장의 사진을 게재했다. 공개된 사진 속에는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오영수, 유재석도 반한 깐부 할아버지 "2등도 3등을 이긴 승자" ('놀뭐')[종합]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003789912</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003789912"/>
-        <updated>2021-10-16T11:17:21.257Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 이우주 기자] '놀면 뭐하니?' 깐부 할아버지 오영수가 연륜이 묻어 나오는 깊은 인터뷰로 앵커들에게 울림을 줬다. 16일 방송된 MBC 예능프로그램 '놀면 뭐하니?'에서는 현장 취재에 나선 유재석 기]]></content>
     </entry>
 </feed>
