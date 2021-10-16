@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Oct 2021 03:21:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Oct 2021 04:26:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘놀면 뭐하니?’ 미주, 랜선 소개팅 과몰입 “이미 연애했어”]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/327984</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/327984</guid>
+            <pubDate>Sat, 16 Oct 2021 04:25:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/327984">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/16/ArnyGbQZeFat637699872132118294.jpg" alt="‘놀면 뭐하니?’ 미주, 랜선 소개팅 과몰입 “이미 연애했어”">        <div class="text-box">            <p class="summary">‘놀면 뭐하니?’ 미주, 랜선 소개팅 과몰입 “이미 연애했어”</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/16/ArnyGbQZeFat637699872132118294.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['전참시' 씨엔블루, 신곡 '싹둑' 최초 공개… 정용화 "피가 끓는다!"]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/327975</link>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 15 Oct 2021 01:09:19 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/327872">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/15/7714b59a-4f95-4775-98ad-5150967008c6.jpeg" alt="이달의 소녀 츄&amp;김립 " 우린="" 학창시절부터="" 함께한="" 베프,="" 말하지="" 않아도="" 다="" 알아""="">        <div class="text-box">            <p class="summary">이달의 소녀 츄&amp;김립 "우린 학창시절부터 함께한 베프, 말하지 않아도 다 알아"</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/15/7714b59a-4f95-4775-98ad-5150967008c6.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[스트레이키즈·있지→NCT127·스팅 ‘World is One 2021 콘서트’ 라인업 대공개]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/327867</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/327867</guid>
-            <pubDate>Fri, 15 Oct 2021 01:09:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/327867">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/15/hKKHPzVxn4lW637698872290634699.jpg" alt="스트레이키즈·있지→NCT127·스팅 ‘World is One 2021 콘서트’ 라인업 대공개">        <div class="text-box">            <p class="summary">스트레이키즈·있지→NCT127·스팅 ‘World is One 2021 콘서트’ 라인업 대공개</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/15/hKKHPzVxn4lW637698872290634699.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
