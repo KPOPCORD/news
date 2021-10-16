@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-10-16T08:23:17.590Z</updated>
+    <updated>2021-10-16T09:19:56.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["'오징어게임' 제작비 254억" 넷플릭스, 내부 자료 유출한 직원 해고]]></title>
+        <id>https://entertain.v.daum.net/v/20211016174034061</id>
+        <link href="https://entertain.v.daum.net/v/20211016174034061"/>
+        <updated>2021-10-16T09:19:32.748Z</updated>
+        <content type="html"><![CDATA[[OSEN=지민경 기자] 넷플릭스가 '오징어게임' 제작비 등 내부 지표를 유출한 직원을 해고했다. 15일(현지 시간) 미국 매체 더 버지, NPR 등의 보도에 따르면 넷플릭스는 최근 '오징어게임' '더 클로저' 등 넷플릭스 제작 작품들의 지표를 언론에 유출한 직원을 해고했다고 밝혔다. 넷플릭스 대변인은 "직원이 상업적으로 민감한 기밀 정보를 유출했다"며 해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['32살 차이' 숀 펜x레일라 조지, 결혼 1년 만에 이혼]]></title>
         <id>https://entertain.v.daum.net/v/20211016170411541</id>

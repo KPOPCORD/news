@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-16T08:23:17.579Z</updated>
+    <updated>2021-10-16T09:19:56.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["'오징어게임' 제작비 254억" 넷플릭스, 내부 자료 유출한 직원 해고 [Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004492718</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004492718"/>
+        <updated>2021-10-16T09:19:55.541Z</updated>
+        <content type="html"><![CDATA[[OSEN=지민경 기자] 넷플릭스가 '오징어게임' 제작비 등 내부 지표를 유출한 직원을 해고했다. 15일(현지 시간) 미국 매체 더 버지, NPR 등의 보도에 따르면 넷플릭스는 최근 '오징어게임' '더 클로저' 등]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['32살 차이' 숀 펜x레일라 조지, 결혼 1년 만에 이혼 [Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004492662</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000500084"/>
         <updated>2021-10-15T13:25:38.199Z</updated>
         <content type="html"><![CDATA[[뉴스엔 김노을 기자] 미국 아역 배우 출신 매튜 민들러가 극단적 선택으로 생을 마감한 가운데 경찰이 온라인에서 질산나트륨을 구입했다고 확인했다. 10월 14일(현지시간) 페이지식스는 "매튜 민들러는 온라인에서 주문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배우 조나 힐 "내 몸매 평가 멈춰달라" 당부]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010773113</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010773113"/>
-        <updated>2021-10-15T09:20:14.562Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]홍연우 기자 = 할리우드 배우 조나 힐이 자신의 몸에 대한 평가를 멈춰줄 것을 촉구했다. 14일(현지시간) CNN 보도에 따르면 힐은 자신의 공식 SNS 계정에 "여러분이 좋은 뜻으로 그런다는 건 알지]]></content>
     </entry>
 </feed>

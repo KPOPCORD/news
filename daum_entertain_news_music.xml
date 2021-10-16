@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-16T08:23:17.572Z</updated>
+    <updated>2021-10-16T09:19:56.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['방과후 설렘' 4학년, 밴드부 콘셉트 센언니로 변신 레전드 무대]]></title>
+        <id>https://entertain.v.daum.net/v/20211016174010058</id>
+        <link href="https://entertain.v.daum.net/v/20211016174010058"/>
+        <updated>2021-10-16T09:19:21.944Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박은해 기자] '방과후 설렘' 연습생들이 매주 '쇼! 음악중심'에서 매주 레전드 무대를 선보이고 있다. 10월 16일 방송된 MBC '쇼! 음악중심'에서는 오는 11월 첫 방송 예정인 '방과후 설렘' 4학년 연습생들이 출연해 콘서트에 버금가는 무대를 꾸몄다. 이날 3학년과 1학년 무대가 다시 한번 공개될 뿐 아니라 이어지는 4학년 무대까지 세 학]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[블랙핑크 리사, 디제이 스네이크와 콜라보.. 10월 22일 발매]]></title>
+        <id>https://entertain.v.daum.net/v/20211016173232948</id>
+        <link href="https://entertain.v.daum.net/v/20211016173232948"/>
+        <updated>2021-10-16T09:19:21.946Z</updated>
+        <content type="html"><![CDATA[블랙핑크 리사(LISA)가 디제이 스네이크(DJ Snake)의 새 싱글에 참여했다고 YG엔터테인먼트가 16일 밝혔다. 노래 제목은 'SG'로 10월 22일 발매 예정이다. 디제이 스네이크 역시 이날 SNS에 새 싱글 프리 세이브 티저 영상을 공개, 이를 공식화했다. 영상에는 블랙핑크 리사 외에도 오즈나(Ozuna), 메건 디 스탤리온(Megan The]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['음중' 에스파 1위 "직접 상 받는건 처음" 감격..슈주 동해·라잇썸 컴백]]></title>
         <id>https://entertain.v.daum.net/v/20211016171050632</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211016120054614"/>
         <updated>2021-10-16T03:20:56.650Z</updated>
         <content type="html"><![CDATA[트라이비(사진=티알·멜로우엔터테인먼트)[이데일리 스타in 윤기백 기자] “에스파에게 ‘광야’가 있다면, 트라이비에겐 ‘우주’가 있다!” 신곡 ‘우주로’로 돌아온 그룹 트라이비(TRI.BE)가 우주처럼 끝없는 매력을 보여주겠다는 당찬 각오를 밝혔다. 트라이비 송선은 최근 이데일리와 인터뷰에서 “우주는 끝을 알 수 없을 만큼 굉장히 넓은 공간이자 보면 볼수록]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[버가부, 데뷔곡 'bugAboo' 첫 번째 MV 티저 공개..의문의 유령]]></title>
-        <id>https://entertain.v.daum.net/v/20211016103718739</id>
-        <link href="https://entertain.v.daum.net/v/20211016103718739"/>
-        <updated>2021-10-16T02:38:16.359Z</updated>
-        <content type="html"><![CDATA[[OSEN=지민경 기자]&nbsp;걸그룹 버가부(bugAboo, 초연 유우나 레이니 지인 은채 시안)가 공포 영화를 연상시키는 뮤직비디오를 예고했다. 16일 자정 버가부(bugAboo) 공식 유튜브 채널을 통해 데뷔곡 ‘bugAboo’의 뮤직비디오 첫 번째 티저 영상이 공개돼 글로벌 팬들의 열기가 불타오르고 있다. 공개된 영상에는 말굽 소리를 비롯해 채찍 소리 등]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[씨엘 'TIE A CHERRY' 티저영상 공개, 파격적 주얼리 헤어→독특한 선글라스]]></title>
-        <id>https://entertain.v.daum.net/v/20211016103618727</id>
-        <link href="https://entertain.v.daum.net/v/20211016103618727"/>
-        <updated>2021-10-16T02:38:16.362Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] CL이 파격적인 티저 영상을 공개했다. 10월 16일 ‘ALPHA’의 발표를 나흘 앞두고 공개된 타이틀곡 ‘TIE A CHERRY’의 티저 영상은 CL다운 파격적인 비주얼로 짧지만 강렬한 인상을 남겼다. 모노톤의 티저 영상에서 후드를 쓴 채 화려한 네일과 액세서리로 등장한 CL은 이어 파격적인 주얼리 헤어와 독특한 선글라스 등 CL]]></content>
     </entry>
 </feed>
