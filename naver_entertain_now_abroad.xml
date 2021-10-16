@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-16T07:19:50.927Z</updated>
+    <updated>2021-10-16T08:23:17.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['32살 차이' 숀 펜x레일라 조지, 결혼 1년 만에 이혼 [Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004492662</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004492662"/>
+        <updated>2021-10-16T08:23:16.854Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 배우 숀 펜(61)과 레일라 조지(29)가 이혼하기로 결심했다. 결혼 1년 만에 결별 소식이 알려지며 충격을 안기고 있다. 숀 펜과 레일라 조지가 결혼 1년 만에 이혼을 결심한 것으로 15일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[패리스 힐튼♥︎카터 럼, 11월 11일 결혼..코시국? 피로연만 세 개↑[Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004492607</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010773113"/>
         <updated>2021-10-15T09:20:14.562Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]홍연우 기자 = 할리우드 배우 조나 힐이 자신의 몸에 대한 평가를 멈춰줄 것을 촉구했다. 14일(현지시간) CNN 보도에 따르면 힐은 자신의 공식 SNS 계정에 "여러분이 좋은 뜻으로 그런다는 건 알지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매튜 민들러, 극단적 선택 전 온라인서 질산나트륨 구입.."사인 맞다"[Oh!llywood]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004492066</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004492066"/>
-        <updated>2021-10-15T09:20:14.562Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 아역 배우 출신 매튜 민들러(19)가 극단적 선택을 한 가운데 사망 직전 온라인에서 질산나트륨을 구입한 것으로 확인됐다. 14일 페이지식스의 보도에 따르면 매튜 민들러는 아마존에서 15달러에]]></content>
     </entry>
 </feed>

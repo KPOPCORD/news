@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-10-16T07:19:50.906Z</updated>
+    <updated>2021-10-16T08:23:17.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['32살 차이' 숀 펜x레일라 조지, 결혼 1년 만에 이혼]]></title>
+        <id>https://entertain.v.daum.net/v/20211016170411541</id>
+        <link href="https://entertain.v.daum.net/v/20211016170411541"/>
+        <updated>2021-10-16T08:22:54.557Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;배우 숀 펜(61)과 레일라 조지(29)가 이혼하기로 결심했다. 결혼 1년 만에 결별 소식이 알려지며 충격을 안기고 있다. 숀 펜과 레일라 조지가 결혼 1년 만에 이혼을 결심한 것으로 15일(현지 시간) TMZ를 통해 보도됐다. 두 사람은 2020년 7월 부부로 인연을 맺었던 바.&nbsp; 이에 앞서 두 배우는 2016년부터 로맨틱한 만남]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[패리스 힐튼♥︎카터 럼, 11월 11일 결혼..코시국? 피로연만 세 개↑]]></title>
         <id>https://entertain.v.daum.net/v/20211016161556074</id>
@@ -46,12 +53,5 @@
         <link href="https://entertain.v.daum.net/v/20211016075237009"/>
         <updated>2021-10-15T23:21:09.640Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 배우 케이티 사갈(67)이 미국&nbsp;로스앤젤레스에서 길을 건너다가 차에 치여 병원에 입원해 있다고 TMZ가 15일(현지시간) 전했다. 보도에 따르면&nbsp;테슬라 차량 운전자가 현지 시각으로 오전 11시 40께 길목에서 사갈을 보지 못한 채 좌회전을 하며 사갈을 치었다. 해당 운전자는 사고 후 사갈을 도왔고, 마약이나 술에는&nbsp;관련되지 않은 것]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['007' 다니엘 크레이그 "게이바 자주 다녀..싸움 없어 더 안전"]]></title>
-        <id>https://entertain.v.daum.net/v/20211015165748088</id>
-        <link href="https://entertain.v.daum.net/v/20211015165748088"/>
-        <updated>2021-10-15T08:24:02.190Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) '007' 시리즈에서 최근 하차한 다니엘 크레이그가 게이바를 다니는 이유를 밝혔다.  지난 12일(현지시간) 다니엘 크레이그는 팟캐스트 'Lunch with Bruce'에 출연해 "나는 꽤 오랫동안 게이바에 다녔다"고 언급했다.  그는 게이바에 가는 이유에 대해 "게이바에서는 싸우지 않아도 됐기 때문이다. 일반 술집에서 다투는]]></content>
     </entry>
 </feed>
