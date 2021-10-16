@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-10-16T10:22:41.567Z</updated>
+    <updated>2021-10-16T11:17:28.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김선호, 어깨도 태평양이네…보조개 애교까지 없는 게 뭐야 [TEN★]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000505870</id>
+        <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000505870"/>
+        <updated>2021-10-16T11:17:21.256Z</updated>
+        <content type="html"><![CDATA[[텐아시아=이준현 기자] 배우 김선호가 '갯마을 차차차' 본방 사수를 독려했다. 김선호는 16일 자신의 인스타그램을 통해 "#갯마을차차차 오늘 밤 9시"라는 글과 함께 여러 장의 사진을 게재했다. 공개된 사진 속에는]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오영수, 유재석도 반한 깐부 할아버지 "2등도 3등을 이긴 승자" ('놀뭐')[종합]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003789912</id>
+        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003789912"/>
+        <updated>2021-10-16T11:17:21.257Z</updated>
+        <content type="html"><![CDATA[[스포츠조선닷컴 이우주 기자] '놀면 뭐하니?' 깐부 할아버지 오영수가 연륜이 묻어 나오는 깊은 인터뷰로 앵커들에게 울림을 줬다. 16일 방송된 MBC 예능프로그램 '놀면 뭐하니?'에서는 현장 취재에 나선 유재석 기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박성연, ‘음중’ 방송 앞두고 노라조와 친목 셀카 공개 [M+★SNS]]]></title>
         <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001614546</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=396&amp;aid=0000594428"/>
         <updated>2021-10-16T09:19:48.333Z</updated>
         <content type="html"><![CDATA[가수 에일리(Ailee)가 정규 3집으로 '명품 보컬'의 화려한 귀환을 알린다. 소속사 더 라이브는 지난 15일 오후 6시 공식 SNS를 통해 에일리의 정규 3집 '에이미(AMY)'의 트랙리스트를 공개했다. 공개된]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안소희, 시스루＋스모키 화장으로 파격 비주얼…걸그룹 느낌 물씬 [스타★샷]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=396&amp;aid=0000594427</id>
-        <link href="https://entertain.naver.com/now/read?oid=396&amp;aid=0000594427"/>
-        <updated>2021-10-16T09:19:48.335Z</updated>
-        <content type="html"><![CDATA[원더걸스 출신 배우 안소희가 파격적인 비주얼을 뽐냈다. 안소희는 15일 자신의 인스타그램에 “Dance cover is uploaded”라는 글과 함께 사진을 게재했다. 공개된 사진에는 검은색 시스루 상의를 입은 채]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유이, 8㎏ 쪘다더니 다 어디로?…청순美 가득한 비주얼 [스타★샷]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=396&amp;aid=0000594426</id>
-        <link href="https://entertain.naver.com/now/read?oid=396&amp;aid=0000594426"/>
-        <updated>2021-10-16T09:19:48.336Z</updated>
-        <content type="html"><![CDATA[애프터스쿨 출신 배우 유이가 청순한 미모를 자랑했다. 유이는 16일 자신의 인스타그램에 “날씨가 갑자기 추워졌네요”라는 글과 함께 사진을 게재했다. 공개된 사진에는 깔끔한 단발머리를 한 채 셀카를 남기고 있는 유이의]]></content>
     </entry>
 </feed>
