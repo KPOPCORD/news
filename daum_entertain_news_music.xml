@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-16T02:38:47.669Z</updated>
+    <updated>2021-10-16T03:21:38.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[히나타 "NIK? 열정이 넘치는 그룹!"]]></title>
+        <id>https://entertain.v.daum.net/v/20211016120300648</id>
+        <link href="https://entertain.v.daum.net/v/20211016120300648"/>
+        <updated>2021-10-16T03:20:56.649Z</updated>
+        <content type="html"><![CDATA[스타들의 사소한 생활이 궁금하다고요? 배우부터 가수, 개그맨까지 그들의 모든 것을 파헤쳐보는 시간을 가져봤습니다. 그동안 팬과 일반인들이 궁금했던 사소하고도 은밀했던 사항, 스타의 A부터 Z까지를 ‘사소한 인터뷰’를 통해 낱낱이 공개합니다. &lt;편집자 주&gt; 지난달 27일 데뷔한 한·일 합작 보이그룹 니크(NIK)는 자유분방하면서도 세련된 느낌 속 에너제틱한]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트라이비 "에스파에게 '광야'? 우리에겐 '우주'있다"]]></title>
+        <id>https://entertain.v.daum.net/v/20211016120054614</id>
+        <link href="https://entertain.v.daum.net/v/20211016120054614"/>
+        <updated>2021-10-16T03:20:56.650Z</updated>
+        <content type="html"><![CDATA[트라이비(사진=티알·멜로우엔터테인먼트)[이데일리 스타in 윤기백 기자] “에스파에게 ‘광야’가 있다면, 트라이비에겐 ‘우주’가 있다!” 신곡 ‘우주로’로 돌아온 그룹 트라이비(TRI.BE)가 우주처럼 끝없는 매력을 보여주겠다는 당찬 각오를 밝혔다. 트라이비 송선은 최근 이데일리와 인터뷰에서 “우주는 끝을 알 수 없을 만큼 굉장히 넓은 공간이자 보면 볼수록]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[버가부, 데뷔곡 'bugAboo' 첫 번째 MV 티저 공개..의문의 유령]]></title>
         <id>https://entertain.v.daum.net/v/20211016103718739</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211016080518143"/>
         <updated>2021-10-15T23:20:59.240Z</updated>
         <content type="html"><![CDATA[[스타뉴스 윤상근 기자] 걸그룹 에스파(aespa)가 5일 오전 온라인 스트리밍으로 진행된  첫 미니앨범 '새비지'(Savage) 발매 기자간담회에 앞서 포즈를 취하고 있다.  오후 6시부터 온라인 음원 사이트를 통해 발매될 앨범에는 동명 타이틀 'Savage'와 함께 에스파만의 세계관을 완성시킬 트렌디한 장르의 6개 트랙이 담겨진다. /사진제공=SM엔터테]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이유·세븐틴·킹덤.. 핫티스트 몰려온다]]></title>
-        <id>https://entertain.v.daum.net/v/20211016080047085</id>
-        <link href="https://entertain.v.daum.net/v/20211016080047085"/>
-        <updated>2021-10-15T23:20:59.250Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 윤기백 기자] ‘음원강자’ 아이유, 다비치, 벤부터 ‘대세 그룹’ 세븐틴, 킹덤까지 핫한 컴백 주자가 쏟아진다. 가을을 담은 발라드부터 트렌디한 장르의 음악까지 다채로운 색깔을 지닌 가수들이 대거 컴백하는 만큼 풍성한 한 주가 될 전망이다. 이진혁(사진=티오피미디어)이진혁, 5개월 만 ‘본업 복귀’ 가수 이진혁이 18일 미니 4집 ‘C]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['일상회복' 앞두고 가요계도 기지개..다시 열리는 콘서트]]></title>
-        <id>https://entertain.v.daum.net/v/20211016073006890</id>
-        <link href="https://entertain.v.daum.net/v/20211016073006890"/>
-        <updated>2021-10-15T23:20:59.251Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 김예나 기자 = 내달부터 신종 코로나바이러스 감염증(코로나19) 방역 체계가 일상과 조화를 이루는 회복 단계를 밟을 것으로 전망되면서 대중문화계의 기대감도 커지고 있다. 확산세가 이어지면서 그간 주요 음악 공연이나 콘서트는 줄줄이 연기되거나 축소 또는 취소된 상태다. 그러나 '단계적 일상 회복'을 위한 움직임이 본격화하면서 가요계 역시]]></content>
     </entry>
 </feed>
