@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-10-16T18:23:13.772Z</updated>
+    <updated>2021-10-16T19:16:29.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['임신' 성유리, 배속 쌍둥이 위해 음료도 '건강' [TEN★]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000505890</id>
+        <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000505890"/>
+        <updated>2021-10-16T19:16:20.485Z</updated>
+        <content type="html"><![CDATA[[텐아시아=이준현 기자] 핑클 출신 배우 성유리가 쌍둥이 임신 중인 근황을 전했다. 성유리는 16일 자신의 인스타그램 스토리를 통해 별다른 멘트 없이 한 장의 사진을 게재했다. 공개된 사진 속에는 초록 색의 건강 주]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[개리, ♥10살 연하 아내와 子 하오 생일 축하 파티 [TEN★]]]></title>
         <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000505889</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003789939"/>
         <updated>2021-10-16T12:30:48.825Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 이우주 기자] 배우 고은아가 다이어트에 이어 모발이식까지 성공한 근황을 공개했다. 고은아는 16일 자신의 SNS를 통해 한 장의 사진을 게재했다. 공개된 사진 속에는 꽃이 가득한 벽에서 인증샷을 찍는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김선호, 어깨도 태평양이네…보조개 애교까지 없는 게 뭐야 [TEN★]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000505870</id>
-        <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000505870"/>
-        <updated>2021-10-16T11:17:21.256Z</updated>
-        <content type="html"><![CDATA[[텐아시아=이준현 기자] 배우 김선호가 '갯마을 차차차' 본방 사수를 독려했다. 김선호는 16일 자신의 인스타그램을 통해 "#갯마을차차차 오늘 밤 9시"라는 글과 함께 여러 장의 사진을 게재했다. 공개된 사진 속에는]]></content>
     </entry>
 </feed>
