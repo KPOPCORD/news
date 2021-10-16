@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-16T04:26:25.786Z</updated>
+    <updated>2021-10-16T05:18:42.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["다람쥐볼 같다" 톰 크루즈, 땡땡 부은 얼굴 근황..역시 시술 맞나[Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004492468</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004492468"/>
+        <updated>2021-10-16T05:18:41.220Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 할리우드 배우 톰 크루즈가 성형수술을 받았다는 추측을 불러일으킨 이후 처음으로 목격됐다. 페이지식스의 15일자(현지시간) 보도에 따르면 톰 크루즈는 13일 자가 비행기를 통해 미국 로스앤젤레]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["한국의 문화침공" 미 안보전문가 소프트파워 폭발력 주목]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012726164</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012726164"/>
+        <updated>2021-10-16T05:18:41.231Z</updated>
+        <content type="html"><![CDATA[오징어게임 찬사…냉전 끝낸 서구문화력과 비교 "단순히 연예 수출할지, 민주적 이상 전파할지 갈림길" (서울=연합뉴스) 김태종 기자 = 넷플릭스 드라마 '오징어 게임'이 전 세계적으로 큰 인기를 끌면서 서구문화가 냉전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["미야와키 사쿠라, 한국서 인기 있는 이유는‥" 日 언론 분석]]></title>
         <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000500182</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000823587"/>
         <updated>2021-10-15T07:20:05.788Z</updated>
         <content type="html"><![CDATA[배우 한선화가 15일 오후 티빙 오리지널 '술꾼도시여자들' 제작발표회에 참석해 포토타임을 갖고 있다. 사진=티빙]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한선화 '돋보이는 각선미' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000823586</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000823586"/>
-        <updated>2021-10-15T07:20:05.788Z</updated>
-        <content type="html"><![CDATA[배우 한선화가 15일 오후 티빙 오리지널 '술꾼도시여자들' 제작발표회에 참석해 포토타임을 갖고 있다. 사진=티빙]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이선빈-한선화-정은지 '사랑스러운 그녀들' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000823585</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000823585"/>
-        <updated>2021-10-15T07:20:05.789Z</updated>
-        <content type="html"><![CDATA[배우 이선빈, 한선화, 정은지가 15일 오후 티빙 오리지널 '술꾼도시여자들' 제작발표회에 참석해 포토타임을 갖고 있다. 사진=티빙]]></content>
     </entry>
 </feed>

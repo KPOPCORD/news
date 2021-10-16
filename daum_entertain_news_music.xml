@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-16T04:26:25.775Z</updated>
+    <updated>2021-10-16T05:18:41.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임영웅, '사랑은 늘 도망가' 음원차트 1위..대기록 행진]]></title>
+        <id>https://entertain.v.daum.net/v/20211016134420422</id>
+        <link href="https://entertain.v.daum.net/v/20211016134420422"/>
+        <updated>2021-10-16T05:18:06.206Z</updated>
+        <content type="html"><![CDATA[[OSEN=지민경 기자]&nbsp;가수&nbsp;임영웅이&nbsp;넘사벽&nbsp;저력을&nbsp;과시하고&nbsp;있다.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;지난&nbsp;11일&nbsp;오후&nbsp;6시&nbsp;각종&nbsp;음원사이트를&nbsp;통해&nbsp;임영웅이&nbsp;부른&nbsp;KBS2&nbsp;주말드라마&nbsp;‘신사와&nbsp;아가씨’&nbsp;OST&nbsp;‘사랑은&nbsp;늘&nbsp;도망가’가&nbsp;공개됐다.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‘사랑은&nbsp;늘&nbsp;도망가’는&nbsp;드라마&nbsp;전체를&nbsp;관통하는&nbsp;메인&nbsp;테마곡으로,&nbsp;임영웅만의&nbsp;섬세하고&nbsp;촉촉한&nbsp;감성과&nbsp;함께&nbsp;어쿠스틱하고&nbsp;담백한&nbsp;원곡의&nbsp;느낌]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[블랙핑크 리사, DJ 스네이크 새 싱글 참여..글로벌 컬래버]]></title>
         <id>https://entertain.v.daum.net/v/20211016132033194</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211016091429761"/>
         <updated>2021-10-16T01:11:17.707Z</updated>
         <content type="html"><![CDATA[[스타뉴스 윤상근 기자] /사진제공=YG엔터테인먼트걸그룹 블랙핑크 멤버 리사(LISA)가 디제이 스네이크(DJ Snake)의 새 싱글에 참여했다. YG엔터테인먼트는 16일 "리사가 디제이 스네이크 새 싱글에 참여했다"라며 "노래 제목은 'SG'로 22일 발매 예정"이라고 전했다. 디제이 스네이크 역시 이날 SNS에 새 싱글 프리 세이브 티저 영상을 공개,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단 지민, 보이그룹 개인 브랜드평판 34개월 연속 1위..비교불가 '최고 인기 브랜드']]></title>
-        <id>https://entertain.v.daum.net/v/20211016091202731</id>
-        <link href="https://entertain.v.daum.net/v/20211016091202731"/>
-        <updated>2021-10-16T01:11:17.713Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 문완식 기자] 방탄소년단(BTS) 지민이 2021년 10월 보이그룹 개인 브랜드평판 1위에 오르며 34개월 연속 1위라는 전무후무한 대기록이자 신기록을 또 세웠다. 지민은 한국기업평판연구소가 16일 발표한 2021년 10월 보이그룹 개인 브랜드평판 분석결과, 1위를 기록했다. 1위, 방탄소년단 지민 브랜드는 참여지수 1,099,437  미디어지]]></content>
     </entry>
 </feed>

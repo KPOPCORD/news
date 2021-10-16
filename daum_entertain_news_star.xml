@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-10-16T04:26:25.780Z</updated>
+    <updated>2021-10-16T05:18:42.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['전참시' 육준서, 역대급 스펙의 친동생 공개..강철체력 대결]]></title>
+        <id>https://entertain.v.daum.net/v/20211016141005710</id>
+        <link href="https://entertain.v.daum.net/v/20211016141005710"/>
+        <updated>2021-10-16T05:18:12.008Z</updated>
+        <content type="html"><![CDATA[[스포츠투데이 김나연 기자] '전지적 참견 시점' UDT 출신 화가 육준서가 친동생을 공개한다. 16일 방송되는 MBC 예능프로그램 '전지적 참견 시점'(이하 '전참시') 174회에서는 '강철 형제' 육준서와 친동생의 전투력 넘치는 하루가 공개된다. 이날 육준서는 작업실을 찾아온 친동생과 현실 형제 케미스트리로 웃음을 자아낸다. 두 사람은 옷을 빌려 입는]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['정희' 나비, 김선호 향한 팬심 고백 "드라마에 푹 빠져"]]></title>
+        <id>https://entertain.v.daum.net/v/20211016133300315</id>
+        <link href="https://entertain.v.daum.net/v/20211016133300315"/>
+        <updated>2021-10-16T05:18:12.020Z</updated>
+        <content type="html"><![CDATA[[TV리포트 = 하수나 기자] 가수 나비가 ‘갯마을 차차차’에 출연중인 배우 김선호를 향한 팬심을 드러냈다.&nbsp; 16일 방송된 MBC FM4U '정오의 희망곡 김신영입니다‘에선 추억의 톱20 코너로 꾸며진 가운데 가수 나비가 출연했다.&nbsp; 이날 나비는 김선호에 대한 찐 팬심을 드러낸 가운데 “김선호 씨에게 빠져있다. 드라마를 보다 보면 연애할 때나 썸을 탈 때]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노제 "춤, 즐기는 사람이 잘 춰..중학교 장기자랑서 힙한 안무 선보이기도"]]></title>
         <id>https://entertain.v.daum.net/v/20211016132414223</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211016110233015"/>
         <updated>2021-10-16T02:38:21.390Z</updated>
         <content type="html"><![CDATA[‘원 더 우먼’ 이하늬와 이상윤이 잔혹한 운명을 딛고 ‘취중 입맞춤’을 나누는 모습으로, 보는 이들의 심장박동수를 급상승시켰다. 지난 15일 방송된 SBS 금토드라마 ‘원 더 우먼(One the Woman)’(연출 최영훈 /극본 김윤 /제작 길픽쳐스) 9회는 닐슨코리아 기준, 수도권 시청률 15.1%, 전국 시청률 14%, 순간 최고 시청률은 18.8%]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[낚시도 오징어 게임..올해는 오징어의 해?]]></title>
-        <id>https://entertain.v.daum.net/v/20211016110006967</id>
-        <link href="https://entertain.v.daum.net/v/20211016110006967"/>
-        <updated>2021-10-16T02:38:21.391Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 성연재 기자 = 넷플릭스 오리지널 시리즈 '오징어 게임'이 전 세계에서 돌풍을 일으킨 가운데, 올해 국내 연안에서는 오징어 낚시가 인기를 얻고 있다. 올해는 낚시계도 '오징어 게임'의 해라고 불릴 만하다. 국내에서는 예년에 거의 잡히지 않던 갑오징어가 많이 잡히고 있다. 갑오징어는 등 쪽에 납작한 뼈 조직이 있어 이런 이름을 얻었다. 담]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박경, '학폭' 피해자에 사과..위키미키 최유정, 활동 중단 이유가 성형?]]></title>
-        <id>https://entertain.v.daum.net/v/20211016105438902</id>
-        <link href="https://entertain.v.daum.net/v/20211016105438902"/>
-        <updated>2021-10-16T02:38:21.393Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;다사다난한 연예계, N년 전 오늘(10월 16일)에는 무슨 일이 있었을까. 가수 박경이 ‘학폭’ 피해자라고 주장한 동창을 만나 직접 사과했고, 걸그룹 위키미키 겸 아이오아이 멤버 최유정이 건강상을 이유로 들어 활동을 중단했다. OSEN 타임머신으로 그 날을 되짚어보자.&nbsp; #박경, 학폭 피해자 만나 사과 보이그룹 블락비 멤버 박경(3]]></content>
     </entry>
 </feed>
