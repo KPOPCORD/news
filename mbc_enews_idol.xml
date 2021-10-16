@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Oct 2021 01:11:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Oct 2021 02:38:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['전참시' 씨엔블루, 신곡 '싹둑' 최초 공개… 정용화 "피가 끓는다!"]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/327975</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/327975</guid>
+            <pubDate>Sat, 16 Oct 2021 02:38:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/327975">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/16/OJx4irVrIC3m637699795070911052.jpg" alt="'전참시' 씨엔블루, 신곡 '싹둑' 최초 공개… 정용화 " 피가="" 끓는다!""="">        <div class="text-box">            <p class="summary">'전참시' 씨엔블루, 신곡 '싹둑' 최초 공개… 정용화 "피가 끓는다!"</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/16/OJx4irVrIC3m637699795070911052.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘나혼자산다’ 기안84×키 이사 준비→박재정 효도 플렉스 ‘金 예능 1위’]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/327972</link>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 15 Oct 2021 01:09:19 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/327867">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/15/hKKHPzVxn4lW637698872290634699.jpg" alt="스트레이키즈·있지→NCT127·스팅 ‘World is One 2021 콘서트’ 라인업 대공개">        <div class="text-box">            <p class="summary">스트레이키즈·있지→NCT127·스팅 ‘World is One 2021 콘서트’ 라인업 대공개</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/15/hKKHPzVxn4lW637698872290634699.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘놀면’ 유재석-미주, 뉴스 앵커 변신… ‘오징어게임’ 깐부 오영수 인터뷰]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/327862</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/327862</guid>
-            <pubDate>Fri, 15 Oct 2021 01:09:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/327862">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/15/DHT20Zv5eDZS637698861812848178.jpg" alt="‘놀면’ 유재석-미주, 뉴스 앵커 변신… ‘오징어게임’ 깐부 오영수 인터뷰">        <div class="text-box">            <p class="summary">‘놀면’ 유재석-미주, 뉴스 앵커 변신… ‘오징어게임’ 깐부 오영수 인터뷰</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/15/DHT20Zv5eDZS637698861812848178.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
