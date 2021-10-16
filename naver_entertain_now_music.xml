@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-16T15:21:20.211Z</updated>
+    <updated>2021-10-16T16:29:59.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김희재, 가을에도 빛나는 미모 "희랑 우리 빨리 만나요♥"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002997354</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002997354"/>
+        <updated>2021-10-16T16:29:45.671Z</updated>
+        <content type="html"><![CDATA[가수 김희재가 첫 번째 팬 콘서트를 앞두고 팬들과 만남에 설렘을 드러냈다. 김희재는 16일 공식 인스타그램을 통해 "희랑 우리 빨리만나요~콘서트 준비중 두근두근 긴장긴장 설렘설렘♥♥♥"이라는 글을 남겼다. 글과 함께]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영탁, MJ와 다정 투샷♡..아름다운 만남 '두근두근']]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002997352</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002997352"/>
+        <updated>2021-10-16T16:29:45.676Z</updated>
+        <content type="html"><![CDATA[가수 영탁이 아이돌그룹 아스트로의 멤버 MJ와 다정한 모습으로 눈길을 사로잡았다. 영탁 소속사 밀라그로는 16일 영탁과 MJ가 함께 찍은 사진을 공개했다. 공개된 사진 속 영탁과 MJ는 나란히 하얀 상의에 빛나는 미]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘인더숲’ BTS 뷔, 건강하고 에너지 넘치는 모습으로 팬심 저격]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001360903</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=408&amp;aid=0000136032"/>
         <updated>2021-10-16T07:19:34.792Z</updated>
         <content type="html"><![CDATA[‘메타버스 걸그룹’ 에스파(aespa)가 미국 인기 토크쇼 ‘켈리 클락슨 쇼(The Kelly Clarkson Show)’에 첫 출연해 화제다. 에스파는 금일(16일) 오전 3시경(한국시간 기준) 방송된 미국 NBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['음악중심' 레드벨벳 vs 에스파 vs ITZY 1위 후보 격돌]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002997292</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002997292"/>
-        <updated>2021-10-16T07:19:34.793Z</updated>
-        <content type="html"><![CDATA[걸그룹 레드벨벳, 에스파(aespa), ITZY(있지)가 '쇼! 음악중심' 1위 자리를 놓고 격돌한다. 16일 오후 방송된 MBC 음악순위 프로그램 '쇼! 음악중심'에서는 1위 후보가 공개됐다. 1위 후보에 오른 세]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[슈트 벗은 골든차일드, 색다른 매력의 'DDARA' 안무 영상]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001360765</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001360765"/>
-        <updated>2021-10-16T07:19:34.797Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 그룹 골든차일드(Golden Child)가 슈트를 벗고 캐주얼룩을 장착한 퍼포먼스로 색다른 매력을 뽐냈다. 소속사 울림엔터테인먼트는 지난 15일 오후 5시 공식 유튜브 채널을 통해 골든차]]></content>
     </entry>
 </feed>
