@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-17T08:23:11.050Z</updated>
+    <updated>2021-10-17T09:19:52.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['인기가요' 에스파 '새비지'로 1위 '4관왕'..이찬원·ENHYPEN 컴백]]></title>
+        <id>https://entertain.v.daum.net/v/20211017174043994</id>
+        <link href="https://entertain.v.daum.net/v/20211017174043994"/>
+        <updated>2021-10-17T09:19:19.967Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 공미나 기자]  /사진=SBS '인기가요' 방송화면 캡처 그룹 에스파(aespa)가 신곡 '새비지 (Savage)'로 '인기가요' 1위를 차지했다. 17일 방송된 SBS '인기가요'에서는 에스파 '새지비'가 악뮤 '낙하', 에스파 '넥스트 레벨 (Next Level)'를 꺾고 1위에 올랐다. 에스파는 이날 '인기가요'에 출연하지는 않았지만, 다음]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['인기가요' 이찬원, 기분 좋은 에너지 담은 '힘을 내세요']]></title>
         <id>https://entertain.v.daum.net/v/20211017160709285</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211017093308900"/>
         <updated>2021-10-17T01:05:35.319Z</updated>
         <content type="html"><![CDATA[[OSEN=이승훈 기자] 가수 노틸러스와 이영현이 한국 정통 듀엣 발라드 곡의 계보를 잇는 가을 맞춤 애절한 듀엣 발라드 곡을 선사한다. 17일 오후 6시 각종 음원사이트를 통해 노틸러스와 이영현의 듀엣곡 ‘마주 앉아서(Sad Ending)’가 공개된다. ‘마주 앉아서’는 노을 ‘늦은 밤 너의 집 앞 골목길’, 시아준수 ‘사랑하고 싶지 않아’, 허각 ‘우린]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 D-3' 씨엔블루, '싹둑' 잘린 독특한 신곡 스포일러 무슨뜻?]]></title>
-        <id>https://entertain.v.daum.net/v/20211017092110752</id>
-        <link href="https://entertain.v.daum.net/v/20211017092110752"/>
-        <updated>2021-10-17T01:05:35.319Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 밴드 씨엔블루가 ‘싹둑’ 잘린 독특한 스포일러를 공개했다. 씨엔블루의 소속사 FNC엔터테인먼트는 10월 16일 밤 12시 공식 SNS를 통해 미니 9집 ‘WANTED’ 타이틀곡 ‘싹둑 (Love Cut)’의 스포일러 영상 ‘C BL E - L v C t Spoiler’를 공개했다. 제목부터 기존 형식에서 벗어난 파격적인 문구로 새]]></content>
     </entry>
 </feed>
