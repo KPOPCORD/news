@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-17T19:17:06.004Z</updated>
+    <updated>2021-10-17T20:21:45.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임영웅, 앞으로 활동이 기대되는 스타]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001361182</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001361182"/>
+        <updated>2021-10-17T20:21:23.529Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 임영웅이 ‘팬앤스타’ 포토톡 “앞으로 활동이 기대되는 스타” 투표 1위에 올랐다. 최근 ‘팬앤스타’ 포토톡에서는 10월 1주 차 투표로 “앞으로 활동이 기대되는 스타” 투표를 진행했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[TMA 인터뷰] 슈퍼주니어 "엘프는 가장 친한 친구이자 동반자"]]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000111036</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002997431"/>
         <updated>2021-10-17T07:19:31.361Z</updated>
         <content type="html"><![CDATA['인기가요'에서 에스파(aespa)와 악뮤(AKMU)가 1위 자리를 두고 맞붙었다. 17일 방송된 SBS '인기가요'에서는 악뮤 '낙하', 에스파 '새비지 (Savge)', 에스파 '넥스트 레벨 (Next Level]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인기가요' AKMU vs 에스파, 10월 셋째주 1위 후보 맞대결]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000500529</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000500529"/>
-        <updated>2021-10-17T07:19:31.362Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] AKMU와 에스파가 '인기가요' 10월 셋째 주 1위 후보로 올랐다. 10월 17일 방송된 SBS '인기가요' 1위 후보로 AKMU의 '낙하'(with 아이유)와 에스파의 'Savage' 'N]]></content>
     </entry>
 </feed>
