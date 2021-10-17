@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-17T05:18:07.732Z</updated>
+    <updated>2021-10-17T06:25:08.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오징어게임 대박, 미국 이젠 영화도 '아웃소싱'이 대세]]></title>
+        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005662172</id>
+        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005662172"/>
+        <updated>2021-10-17T06:25:08.254Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 박형기 기자 = ‘오징어 게임’ 대박으로 미국이 제조업에 이어 영화도 본격적인 '아웃소싱'을 할 전망이라고 경제전문 매체 CNBC가 16일(현지시간) 보도했다. CNBC는 미국에서는 2140만달러(약]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[할리우드Y] 패리스 힐튼♥카터 럼, 11월 11일 결혼 "장소는 비공개"]]></title>
         <id>https://entertain.naver.com/now/read?oid=052&amp;aid=0001653382</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012725973"/>
         <updated>2021-10-16T02:38:47.007Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 성연재 기자 = 넷플릭스 오리지널 시리즈 '오징어 게임'이 전 세계에서 돌풍을 일으킨 가운데, 올해 국내 연안에서는 고급 어종인 갑오징어가 낚시를 통해 유례없이 많이 잡히고 있다. 갑오징어가 새우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[낚시도 오징어 게임이 대세?…대박 난 갑오징어 낚시]]></title>
-        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012725972</id>
-        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012725972"/>
-        <updated>2021-10-16T02:38:47.008Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 성연재 기자 = 넷플릭스 오리지널 시리즈 '오징어 게임'이 전 세계에서 돌풍을 일으킨 가운데, 올해 국내 연안에서는 고급 어종인 갑오징어가 낚시를 통해 유례없이 많이 잡히고 있다. 한 낚시인이 갑오징어를 잡은 뒤 포즈를 취하고 있다. 연합칼럼 기사 참조. 2021.10.16 [독자 제공. 재판매 및 DB...]]></content>
     </entry>
 </feed>
