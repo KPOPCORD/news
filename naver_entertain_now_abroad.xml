@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-17T22:20:08.536Z</updated>
+    <updated>2021-10-17T23:21:43.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['59세' 데미 무어, 늘씬한 몸매+동안 미모 뽐내며 독서 삼매경 [N해외연예]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005662697</id>
+        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005662697"/>
+        <updated>2021-10-17T23:21:43.169Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 할리우드 스타 데미 무어가 늘씬한 몸매와 동안 미모를 뽐내며 독서 삼매경에 빠졌다. 데미 무어는 18일(한국시간) 자신의 인스타그램에 "일요일 독서"(Sunday reading)라는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['성형부작용설' 빅토리아 베컴, 루머 때문에 애쓰네..11살 딸과 팩까지 (종합)[Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004493347</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012726012"/>
         <updated>2021-10-16T02:38:47.004Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 성연재 기자 = 넷플릭스 오리지널 시리즈 '오징어 게임'이 전 세계에서 돌풍을 일으킨 가운데, 올해 국내 연안에서는 오징어 낚시가 인기를 얻고 있다. 올해는 낚시계도 '오징어 게임'의 해라고 불릴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["오징어 게임은 한국문화의 대공습, 비틀스와 동급"-美싱크탱크]]></title>
-        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005661118</id>
-        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005661118"/>
-        <updated>2021-10-16T02:38:47.005Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 박형기 기자 = ‘오징어 게임’ 대성공이 영국의 전설적 록 그룹 비틀스의 성공적인 미국 진출을 뜻하는 ‘브리티시 인베이전’(British Invasion·영국의 침공)과 비견할 만하다는 분석이 나왔다]]></content>
     </entry>
 </feed>
