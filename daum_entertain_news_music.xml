@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-17T15:21:24.682Z</updated>
+    <updated>2021-10-17T16:30:17.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빌리카터 "지속적인 음악 활동하며 팬들과 만나고 싶어"]]></title>
+        <id>https://entertain.v.daum.net/v/20211018010132272</id>
+        <link href="https://entertain.v.daum.net/v/20211018010132272"/>
+        <updated>2021-10-17T16:29:42.171Z</updated>
+        <content type="html"><![CDATA[‘인디스땅스 2021’는&nbsp;경기콘텐츠진흥원의 인디 뮤지션 발굴·육성 프로젝트로, 총 2000만원의 상금과 뮤직비디오 제작 및 음원 제작·유통 등을 지원해주는 사업이다. MBC ‘복면가왕’에서 3연승을 거두며 실력을 인정받은 ‘기프트’, 탄탄한 해외 팬덤을 바탕으로 큰 사랑을 받고 있는 여성 록밴드 ‘롤링쿼츠’, 일렉트로닉 팝을 중심으로 활동하는 ‘우자앤쉐]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[슈퍼주니어 "엘프는 가장 친한 친구이자 동반자"]]></title>
         <id>https://entertain.v.daum.net/v/20211018000045863</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211017114549118"/>
         <updated>2021-10-17T04:26:20.757Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 블랙핑크 리사의 솔로 앨범 수록곡 ‘MONEY’가 글로벌 주요 차트서 2주 연속 상승세를 타고 있어 주목된다.15일(현지시간) 발표된 영국 오피셜 차트 싱글 톱100 (Official Singles Chart Top 100)에 따르면 리사의 ‘MONEY’는 59위를 기록했다.지난 주 이 차트에 81위로 첫 진입했던 ‘MONEY’는 음원이 발]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위아이, "해외여행 간다면? '♥루아이'와 가고 싶어"..스윗남의 정석]]></title>
-        <id>https://entertain.v.daum.net/v/20211017112032800</id>
-        <link href="https://entertain.v.daum.net/v/20211017112032800"/>
-        <updated>2021-10-17T02:31:41.679Z</updated>
-        <content type="html"><![CDATA[[OSEN=이승훈 기자] 그룹 위아이(WEi)가 마음이 통하는 게임으로 기분 좋은 에너지를 선사했다. 위아이(장대현,&nbsp;김동한,&nbsp;유용하,&nbsp;김요한,&nbsp;강석화,&nbsp;김준서)는 지난&nbsp;16일 오후 공식 유튜브 채널을 통해 자체 리얼리티 콘텐츠&nbsp;‘위인전&nbsp;3’의 번외편&nbsp;8화를 공개했다. 이날 위아이는&nbsp;‘너도?&nbsp;나도!’&nbsp;게임을 진행했다.&nbsp;주제와 관련된&nbsp;8개의 단어를 적은 후,]]></content>
     </entry>
 </feed>
