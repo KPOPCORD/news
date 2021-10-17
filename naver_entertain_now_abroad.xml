@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-17T09:19:52.826Z</updated>
+    <updated>2021-10-17T10:22:30.280Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['성형부작용설' 빅토리아 베컴, 루머 때문에 애쓰네..11살 딸과 팩까지 (종합)[Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004493347</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004493347"/>
+        <updated>2021-10-17T10:22:29.577Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 성형 부작용설에 휘말렸던 빅토리아 베컴이 딸과 함께 미모 가꾸기에 집중했다. 빅토리아 베컴은 16일(현지시각) 자신의 인스타그램 스토리에 딸 하퍼 세븐 베컴과 함께 찍은 사진을 올렸다. 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오징어 게임' 가치 1조...제작비 254억 대비 투자 효율 41배 [Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004493168</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005661118"/>
         <updated>2021-10-16T02:38:47.005Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 박형기 기자 = ‘오징어 게임’ 대성공이 영국의 전설적 록 그룹 비틀스의 성공적인 미국 진출을 뜻하는 ‘브리티시 인베이전’(British Invasion·영국의 침공)과 비견할 만하다는 분석이 나왔다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["너 새우가 아니었니?"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012725976</id>
-        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012725976"/>
-        <updated>2021-10-16T02:38:47.006Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 성연재 기자 = 넷플릭스 오리지널 시리즈 '오징어 게임'이 전 세계에서 돌풍을 일으킨 가운데, 올해 국내 연안에서는 고급 어종인 갑오징어가 낚시를 통해 유례없이 많이 잡히고 있다. 새우 모양의 가짜 미끼를 물고 올라온 갑오징어. 2021.10.16 [독자 제공. 재판매 및 DB 금지] polpori@yn...]]></content>
     </entry>
 </feed>
