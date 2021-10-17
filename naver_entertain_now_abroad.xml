@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-17T04:26:55.387Z</updated>
+    <updated>2021-10-17T05:18:07.732Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[할리우드Y] 패리스 힐튼♥카터 럼, 11월 11일 결혼 "장소는 비공개"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=052&amp;aid=0001653382</id>
+        <link href="https://entertain.naver.com/now/read?oid=052&amp;aid=0001653382"/>
+        <updated>2021-10-17T05:18:07.039Z</updated>
+        <content type="html"><![CDATA[할리우드 배우 패리스 힐튼이 연인인 벤처 투자가 카터 럼과 결혼한다. 지난 15일 미국 연예 매체 페이지식스에 따르면, 패리스 힐튼-카터 럼 커플이 최근 지인들에게 장소가 적히지 않은 청첩장을 전달했다. 해당 보도에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[숀 펜, 딸보다 어린 32세 연하 아내와 결혼 1년만 파경[할리우드비하인드]]]></title>
         <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000500500</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012725972</id>
         <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012725972"/>
         <updated>2021-10-16T02:38:47.008Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 성연재 기자 = 넷플릭스 오리지널 시리즈 '오징어 게임'이 전 세계에서 돌풍을 일으킨 가운데, 올해 국내 연안에서는 고급 어종인 갑오징어가 낚시를 통해 유례없이 많이 잡히고 있다. 한 낚시인이 갑오징어를 잡은 뒤 포즈를 취하고 있다. 연합칼럼 기사 참조. 2021.10.16 [독자 제공. 재판매 및 DB...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[낚시도 오징어 게임이 대세?…대박 난 갑오징어 낚시]]></title>
-        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012725971</id>
-        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012725971"/>
-        <updated>2021-10-16T02:38:47.010Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 성연재 기자 = 넷플릭스 오리지널 시리즈 '오징어 게임'이 전 세계에서 돌풍을 일으킨 가운데, 올해 국내 연안에서는 고급 어종인 갑오징어가 낚시를 통해 유례없이 많이 잡히고 있다. 한 낚시인이 갑오징어를 잡은 뒤 포즈를 취하고 있다. 연합칼럼 기사 참조. 2021.10.16 [독자 제공. 재판매 및 DB...]]></content>
     </entry>
 </feed>

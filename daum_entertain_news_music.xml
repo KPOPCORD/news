@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-17T04:26:55.396Z</updated>
+    <updated>2021-10-17T05:18:07.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[찬바람 불 땐 태연의 목소리, '마이 보이스']]></title>
+        <id>https://entertain.v.daum.net/v/20211017140002886</id>
+        <link href="https://entertain.v.daum.net/v/20211017140002886"/>
+        <updated>2021-10-17T05:17:38.690Z</updated>
+        <content type="html"><![CDATA[[진진봐라]는 진짜 진짜 꼭 (들어) 봤으면 좋겠는 세상의 모든 것을 추천하는 ‘개인의 취향’ 100% 반영 코너입니다. 핫한 가수들의 앨범 혹은 숨겨진 명곡, 추억의 노래부터 국내외 드라마, 예능, 웹 콘텐츠 등 한때 누군가의 마음 한 편을 두드린 선물 같은 콘텐츠가 지닌 특별한 ‘무언가’를 따라가 봅니다. &lt;편집자주&gt; (엑스포츠뉴스 조혜진 기자) 괜]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에스파 윈터, 대세 등극..블랙핑크 제니 꺾고 10월 걸그룹 브랜드 평판 1위]]></title>
         <id>https://entertain.v.daum.net/v/20211017131817338</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211017083840176"/>
         <updated>2021-10-17T01:05:35.321Z</updated>
         <content type="html"><![CDATA[안테나가 제대로 일을 냈다. '나만 알고 싶은 가수'에서 모두가 알아 주는 가수가 되겠다는 이들의 야심이 제대로 통했다. 그간 고학력자 아티스트 집단이라는 애칭으로 불려왔던 안테나의 화려한 변신이다. 안테나가 최근 카카오TV를 통해 선보이고 있는 오리지널 예능 '더듬이TV : 우당탕탕 안테나'가 첫 공개 2주 만에 누적 조회수 300만 뷰를 돌파했다. 현재]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이유, 음원퀸의 귀환 D-2..'스트로베리 문' 뮤비 티저 오픈→독보적인 음악 예고]]></title>
-        <id>https://entertain.v.daum.net/v/20211017081321031</id>
-        <link href="https://entertain.v.daum.net/v/20211017081321031"/>
-        <updated>2021-10-16T23:20:26.555Z</updated>
-        <content type="html"><![CDATA[[OSEN=이승훈 기자] 가수 아이유의 신곡&nbsp;‘스트로베리 문’의 뮤직비디오 티저 영상이 공개됐다. 아이유의 소속사&nbsp;EDAM엔터테인먼트는&nbsp;17일 자정 공식&nbsp;SNS&nbsp;채널을 통해 디지털 싱글&nbsp;‘스트로베리 문’&nbsp;뮤직비디오 티저를 공개하며 컴백 임박을 알렸다. 공개된 티저 속 아이유는 목걸이를 걸어주는 상대방을 바라보며 수줍은 미소를 짓고 있는가 하면,&nbsp;하늘을 향해]]></content>
     </entry>
 </feed>
