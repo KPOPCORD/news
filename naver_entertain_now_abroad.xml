@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-17T06:25:08.955Z</updated>
+    <updated>2021-10-17T07:19:44.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오징어 게임' 가치 1조...제작비 254억 대비 투자 효율 41배 [Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004493168</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004493168"/>
+        <updated>2021-10-17T07:19:44.219Z</updated>
+        <content type="html"><![CDATA[[OSEN=연휘선 기자] 넷플릭스 오리지널 '오징어 게임'의 가치가 약 1조원으로 추정됐다. 블룸버그통신은 16일(현지시간) 넷플릭스 내부 문건을 입수해 분석한 결과를 보도하며 넷플릭스가 '오징어 게임'의 가치를 8]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오징어게임 대박, 미국 이젠 영화도 '아웃소싱'이 대세]]></title>
         <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005662172</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012725976"/>
         <updated>2021-10-16T02:38:47.006Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 성연재 기자 = 넷플릭스 오리지널 시리즈 '오징어 게임'이 전 세계에서 돌풍을 일으킨 가운데, 올해 국내 연안에서는 고급 어종인 갑오징어가 낚시를 통해 유례없이 많이 잡히고 있다. 새우 모양의 가짜 미끼를 물고 올라온 갑오징어. 2021.10.16 [독자 제공. 재판매 및 DB 금지] polpori@yn...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[낚시도 오징어 게임이 대세?…대박 난 갑오징어 낚시]]></title>
-        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012725973</id>
-        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012725973"/>
-        <updated>2021-10-16T02:38:47.007Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 성연재 기자 = 넷플릭스 오리지널 시리즈 '오징어 게임'이 전 세계에서 돌풍을 일으킨 가운데, 올해 국내 연안에서는 고급 어종인 갑오징어가 낚시를 통해 유례없이 많이 잡히고 있다. 갑오징어가 새우]]></content>
     </entry>
 </feed>

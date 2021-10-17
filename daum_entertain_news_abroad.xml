@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-10-17T06:25:08.969Z</updated>
+    <updated>2021-10-17T07:19:44.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오징어 게임' 가치 1조..제작비 254억 대비 투자 효율 41배]]></title>
+        <id>https://entertain.v.daum.net/v/20211017152654443</id>
+        <link href="https://entertain.v.daum.net/v/20211017152654443"/>
+        <updated>2021-10-17T07:19:23.868Z</updated>
+        <content type="html"><![CDATA[[OSEN=연휘선 기자] 넷플릭스 오리지널 '오징어 게임'의 가치가 약 1조원으로 추정됐다.&nbsp; 블룸버그통신은 16일(현지시간) 넷플릭스 내부 문건을 입수해 분석한 결과를 보도하며 넷플릭스가 '오징어 게임'의 가치를 8억 9110만 달러(한와 약 1조원)로 평가했다고 밝혔다.&nbsp; 블룸버그통신이 이수한 문건에 따르면 넷플릭스 측은 '오징어 게임'의 흥행을 구체적]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[숀 펜, 딸보다 어린 32세 연하 아내와 결혼 1년만 파경]]></title>
         <id>https://entertain.v.daum.net/v/20211017130619172</id>
@@ -46,12 +53,5 @@
         <link href="https://entertain.v.daum.net/v/20211016170411541"/>
         <updated>2021-10-16T08:22:54.557Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;배우 숀 펜(61)과 레일라 조지(29)가 이혼하기로 결심했다. 결혼 1년 만에 결별 소식이 알려지며 충격을 안기고 있다. 숀 펜과 레일라 조지가 결혼 1년 만에 이혼을 결심한 것으로 15일(현지 시간) TMZ를 통해 보도됐다. 두 사람은 2020년 7월 부부로 인연을 맺었던 바.&nbsp; 이에 앞서 두 배우는 2016년부터 로맨틱한 만남]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[패리스 힐튼♥︎카터 럼, 11월 11일 결혼..코시국? 피로연만 세 개↑]]></title>
-        <id>https://entertain.v.daum.net/v/20211016161556074</id>
-        <link href="https://entertain.v.daum.net/v/20211016161556074"/>
-        <updated>2021-10-16T07:19:26.388Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 할리우드 이슈메이커 패리스 힐튼이 오는 11월 11일 웨딩마치를 울리고 할아버지의 집에서 결혼 피로연을 가질 예정이다. 페이지식스의 15일자(현지시간) 보도에 따르면 힐튼과 그의 약혼자인 베스트셀러 작가 겸 벤처&nbsp;투자가&nbsp;카터 럼의 결혼식 초대장이&nbsp;지인들에게 최근&nbsp;장소 없이 발송됐다. 힐튼 가족의 측근은 페이지식스에 "힐튼이 11월]]></content>
     </entry>
 </feed>
