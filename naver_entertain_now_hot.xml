@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-10-17T17:23:06.978Z</updated>
+    <updated>2021-10-17T18:23:32.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서정희 "방송 나와 안 맞아"..의미심장 심경글+새 시작 예고]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002997508</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002997508"/>
+        <updated>2021-10-17T18:23:25.400Z</updated>
+        <content type="html"><![CDATA[방송인 서정희가 마음속 묻어둔 속내를 털어놓으며 새로운 프로젝트의 시작을 알렸다. 서정희는 17일 자신이 인스타그램에 "많은 사람들이 제게 미움을 받는 모습을 묻기도 하고, 일방적인 저에 대한 안 좋은 유튜브를 보라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘김약국의 딸들’로 인기 원로배우 최지희 별세]]></title>
         <id>https://entertain.naver.com/now/read?oid=022&amp;aid=0003629073</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003790444"/>
         <updated>2021-10-17T12:30:31.267Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 정안지 기자] 걸그룹 원더걸스 출신 우혜림이 꽃꽂이로 태교를 하는 일상을 공유했다. 우혜림은 17일 자신의 인스타그램에 "꽃말: 반드시 오고야 말 행복 #태교 꽃꽂이"라며 사진을 게재했다. 사진 속]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스페인에서 열린 한국 캘리그라피·뷰티·쿠킹 아틀리에]]></title>
-        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012727781</id>
-        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012727781"/>
-        <updated>2021-10-17T12:30:31.268Z</updated>
-        <content type="html"><![CDATA[(파리=연합뉴스) 한국관광공사 파리지사가 10월 14일∼21일 한국관광주간을 맞아 스페인 수도 마드리드에서 개최한 한국 서예, 한국식 화장, 한국 요리 수업. 2021.10.17 [한국관광공사 제공. 재판매 및 DB]]></content>
     </entry>
 </feed>
