@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-17T13:23:21.234Z</updated>
+    <updated>2021-10-17T14:19:02.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송가인 "주말엔 축가"..하객이 이렇게 예뻐도 돼?[스타IN★]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002997488</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002997488"/>
+        <updated>2021-10-17T14:18:46.799Z</updated>
+        <content type="html"><![CDATA[가수 송가인이 인형 같은 비주얼로 시선을 집중시켰다. 송가인은 17일 자신의 인스타그램에 "주말엔 축가. 모두 모두 행복하세요"라며 사진을 게재했다. 사진 속 송가인은 흰 블라우스를 입고 화사한 비주얼을 뽐내고 있다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우주소녀 연정, ‘깊은 밤을 날아서’ 커버... 보컬리스트의 진가]]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001197235</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001197235"/>
+        <updated>2021-10-17T14:18:46.800Z</updated>
+        <content type="html"><![CDATA[그룹 우주소녀(WJSN) 연정이 가을밤과 꼭 어울리는 감성을 뽐냈다. 지난 16일 우주소녀 공식 SNS 채널을 통해 연정이 부른 이문세 ‘깊은 밤을 날아서’ 커버 영상이 공개됐다. 공개된 영상 속엔 ‘깊은 밤을 날아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅, 데뷔곡 ‘소나기’ 800만뷰…한 달도 되지 않아 100만 추가]]></title>
         <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0001900120</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=016&amp;aid=0001900063"/>
         <updated>2021-10-17T06:24:53.469Z</updated>
         <content type="html"><![CDATA[[헤럴드경제=고승희 기자] 그룹 블랙핑크 리사의 솔로 앨범 수록곡 ‘머니(MONEY)’가 영국 오피셜 차트에서 2주 연속 상승세를 보이고 있다. 15일(현지시간) 발표된 영국 오피셜 차트 싱글 톱100 (Offici]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[범접불가 ‘영웅시대’…임영웅, 멜론 톱100 1위부터 9위까지 줄세우기]]></title>
-        <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0001900062</id>
-        <link href="https://entertain.naver.com/now/read?oid=016&amp;aid=0001900062"/>
-        <updated>2021-10-17T06:24:53.472Z</updated>
-        <content type="html"><![CDATA[[헤럴드경제=고승희 기자] 범접불가의 ‘영웅시대’가 열렸다. 임영웅이 트로트가수로는 이례적으로 국내 최대 음원 사이트 멜론 톱100에서 1위부터 9위까지 싹쓸이하며 ‘음워 줄세우기’를 이어갔다. 17일 멜론에 따르면]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 D-1' 이진혁, "보물 1호? '❤︎브이단'..팬 없었다면 연예인 이진혁도 없어"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004493092</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004493092"/>
-        <updated>2021-10-17T05:17:54.815Z</updated>
-        <content type="html"><![CDATA[[OSEN=이승훈 기자] 가수 이진혁이 연예인 이진혁과 인간 이진혁의 모습을 집중 분석한 영상을 공개했다. 이진혁은 17일 공식 유튜브 채널을 통해 ‘이진혁 vs 이진혁 l 이진혁이 좋은데, 이진혁도 좋으면 어떻게]]></content>
     </entry>
 </feed>
