@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-17T14:19:02.431Z</updated>
+    <updated>2021-10-17T15:21:24.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[슈퍼주니어 "엘프는 가장 친한 친구이자 동반자"]]></title>
+        <id>https://entertain.v.daum.net/v/20211018000045863</id>
+        <link href="https://entertain.v.daum.net/v/20211018000045863"/>
+        <updated>2021-10-17T15:20:50.563Z</updated>
+        <content type="html"><![CDATA['더팩트 뮤직 어워즈' 3관왕..."팬들 위한 선물 준비 중" [더팩트｜박지윤 기자] 이보다 더 이상적인 관계가 있을까. 그룹 슈퍼주니어와 엘프(팬클럽)는 17년이라는 세월을 서로 믿고 의지하며 가수와 팬을 넘어 진정한 친구로 거듭났다. 슈퍼주니어는 지난 2일 진행된 '2021 더팩트 뮤직 어워즈(THE FACT MUSIC AWARDS, TMA)'에서 올]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴이스트, 한계 없는 RC카 '무선 조종 특집']]></title>
         <id>https://entertain.v.daum.net/v/20211017210154341</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211017112032800"/>
         <updated>2021-10-17T02:31:41.679Z</updated>
         <content type="html"><![CDATA[[OSEN=이승훈 기자] 그룹 위아이(WEi)가 마음이 통하는 게임으로 기분 좋은 에너지를 선사했다. 위아이(장대현,&nbsp;김동한,&nbsp;유용하,&nbsp;김요한,&nbsp;강석화,&nbsp;김준서)는 지난&nbsp;16일 오후 공식 유튜브 채널을 통해 자체 리얼리티 콘텐츠&nbsp;‘위인전&nbsp;3’의 번외편&nbsp;8화를 공개했다. 이날 위아이는&nbsp;‘너도?&nbsp;나도!’&nbsp;게임을 진행했다.&nbsp;주제와 관련된&nbsp;8개의 단어를 적은 후,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙핑크 리사 'MONEY' 영국 오피셜 차트서 2주 연속 상승세]]></title>
-        <id>https://entertain.v.daum.net/v/20211017110218503</id>
-        <link href="https://entertain.v.daum.net/v/20211017110218503"/>
-        <updated>2021-10-17T02:31:41.679Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 블랙핑크 리사의 솔로 앨범 수록곡 'MONEY'가 글로벌 주요 차트서 2주 연속 상승세를 타고 있어 주목된다. 10월 15일(현지시간) 발표된 영국 오피셜 차트 싱글 톱100 (Official Singles Chart Top 100)에 따르면 리사의 'MONEY'는 59위를 기록했다. 지난 주 이 차트에 81위로 첫 진입했던 'MO]]></content>
     </entry>
 </feed>
