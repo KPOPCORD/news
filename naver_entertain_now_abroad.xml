@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-18T08:24:25.356Z</updated>
+    <updated>2021-10-18T09:21:12.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[DCEU '원더우먼 3' 제작 확정…린다 카터 복귀 [엑's 할리우드]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001361497</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001361497"/>
+        <updated>2021-10-18T09:21:11.997Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) DC 확장 유니버스(DCEU) 영화 '원더우먼 3'의 제작이 확정됐다. 지난 17일 온라인으로 진행된 DC 팬돔에서 '원더우먼 3'의 제작이 공식적으로 발표됐다. 이번 발표에 따르면 패티]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엘튼 존의 식지 않는 열정… "어느 때보다 음악에 흥분돼"]]></title>
         <id>https://entertain.naver.com/now/read?oid=022&amp;aid=0003629295</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005661895</id>
         <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005661895"/>
         <updated>2021-10-17T04:26:54.639Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 박형기 기자 = 넷플릭스가 ‘오징어 게임’에 2140만 달러(약 253억원)를 투자해 약 9억 달러(1조원) 이상의 수익을 올릴 전망이라고 블룸버그통신이 16일(현지시간) 보도했다. 블룸버그는 넷플릭]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블룸버그 “넷플릭스 오징어게임에 253억 투자해 1조 벌어”]]></title>
-        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005661864</id>
-        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005661864"/>
-        <updated>2021-10-17T04:26:54.641Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 박형기 기자 = 넷플릭스가 ‘오징어 게임’에 2140만 달러(약 253억원)를 투자해 약 9억 달러(1조원) 이상의 수익을 올릴 전망이라고 블룸버그통신이 16일(현지시간) 보도했다. 블룸버그는 넷플릭]]></content>
     </entry>
 </feed>
