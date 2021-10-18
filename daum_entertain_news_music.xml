@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-18T11:18:00.884Z</updated>
+    <updated>2021-10-18T12:32:56.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이진혁, 'Ctrl+V' 컴백 "벌써 네 번째 솔로 앨범..팬들 덕분"]]></title>
+        <id>https://entertain.v.daum.net/v/20211018202030041</id>
+        <link href="https://entertain.v.daum.net/v/20211018202030041"/>
+        <updated>2021-10-18T12:32:15.231Z</updated>
+        <content type="html"><![CDATA[[TV리포트=김은정 기자] 이진혁이 컴백 소감을 전했다. 가수 이진혁이 18일 오후 V라이브를 통해 'Ctrl+V' 컴백 기념 팬쇼케이스를 진행했다. 이진혁은 오늘(18일) 네 번째 미니 앨범 'Ctrl+V'를 발표했다. 타이틀곡 '워크 워크(Work Work)’는 워커홀릭인 자신을 연인이 이해해주길 바라는 마음과, 변하지 않은 마음에 대한 믿음을 재치있고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[음원보다는 음악의 가치를..아이유의 '스트로베리 문']]></title>
         <id>https://entertain.v.daum.net/v/20211018201209939</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211018163646004"/>
         <updated>2021-10-18T08:23:54.971Z</updated>
         <content type="html"><![CDATA[[OSEN=이승훈 기자] 그룹 몬스타엑스(MONSTA X)가 오는 11월 컴백한다. 18일 소속사 스타쉽엔터테인먼트 측은 “몬스타엑스가 11월 국내 컴백을 목표로 새로운 앨범을 준비 중이다. 한층 성장한 음악으로 돌아올 예정이니 많은 기대 부탁드린다”고 전했다. 몬스타엑스는 지난 6월 발표한 아홉 번째 미니앨범 ‘One Of A Kind(원 오브 어 카인드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이진혁, '본캐' 가수로 돌아온 '만능돌' 워커홀릭]]></title>
-        <id>https://entertain.v.daum.net/v/20211018163537952</id>
-        <link href="https://entertain.v.daum.net/v/20211018163537952"/>
-        <updated>2021-10-18T08:23:54.974Z</updated>
-        <content type="html"><![CDATA[예능, 드라마, 뮤지컬 등 다방면에서 좋은 활약을 이어오고 있는 가수 이진혁이 자작곡을 다수 수록한 새 앨범으로 돌아왔다. 18일 이진혁이 네 번째 미니앨범 'Ctrl+V'의 발매를 알리는 쇼케이스를 온라인으로 진행했다. 'Ctrl+V'는 대중에게 보여지는 아티스트 이진혁과 밖으로 보이지 않는 내면 속 이진혁의 모습을 담은 앨범이다. 'Note'와 'N]]></content>
     </entry>
 </feed>
