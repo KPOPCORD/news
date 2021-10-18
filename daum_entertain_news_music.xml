@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-18T10:23:48.143Z</updated>
+    <updated>2021-10-18T11:18:00.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[음원보다는 음악의 가치를..아이유의 '스트로베리 문']]></title>
+        <id>https://entertain.v.daum.net/v/20211018201209939</id>
+        <link href="https://entertain.v.daum.net/v/20211018201209939"/>
+        <updated>2021-10-18T11:17:26.941Z</updated>
+        <content type="html"><![CDATA[[SBS 연예뉴스 ㅣ 강경윤 기자] 가수 아이유가 신곡 '스트로베리 문'으로 19일 0시 돌아온다. 이제는 '장르가 아이유'가 된 아이유의 신곡이 이번엔 어떤 반향을 일으킬지 벌써부터 기대를 모은다. 이와 함께 눈길을 모으는 건 발매되는 시간과 방식이다. 아이유는 자정을 음원 발매 시점으로 택했다. 최근 대부분의 가수들은 다양한 발매기념 행사를 한 뒤 당일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["연예인 모두에게서 좋은 자극"..이진혁, 가수‧배우 병행 의지]]></title>
         <id>https://entertain.v.daum.net/v/20211018185003615</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211018163537952"/>
         <updated>2021-10-18T08:23:54.974Z</updated>
         <content type="html"><![CDATA[예능, 드라마, 뮤지컬 등 다방면에서 좋은 활약을 이어오고 있는 가수 이진혁이 자작곡을 다수 수록한 새 앨범으로 돌아왔다. 18일 이진혁이 네 번째 미니앨범 'Ctrl+V'의 발매를 알리는 쇼케이스를 온라인으로 진행했다. 'Ctrl+V'는 대중에게 보여지는 아티스트 이진혁과 밖으로 보이지 않는 내면 속 이진혁의 모습을 담은 앨범이다. 'Note'와 'N]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몬스타엑스 11월 국내 컴백]]></title>
-        <id>https://entertain.v.daum.net/v/20211018162942752</id>
-        <link href="https://entertain.v.daum.net/v/20211018162942752"/>
-        <updated>2021-10-18T08:23:54.975Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] 몬스타엑스 11월 국내 컴백 [공식] 그룹 몬스타엑스(MONSTA X)가 오는 11월 컴백한다. 18일 소속사 스타쉽엔터테인먼트 측은 “몬스타엑스가 11월 국내 컴백을 목표로 새로운 앨범을 준비 중이다. 한층 성장한 음악으로 돌아올 예정이니 많은 기대 부탁드린다”고 전했다. 몬스타엑스는 지난 6월 발표한 아홉 번째 미니앨범 ‘One Of A]]></content>
     </entry>
 </feed>
