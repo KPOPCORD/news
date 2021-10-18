@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-18T07:20:50.801Z</updated>
+    <updated>2021-10-18T08:24:25.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엘튼 존의 식지 않는 열정… "어느 때보다 음악에 흥분돼"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=022&amp;aid=0003629295</id>
+        <link href="https://entertain.naver.com/now/read?oid=022&amp;aid=0003629295"/>
+        <updated>2021-10-18T08:24:24.707Z</updated>
+        <content type="html"><![CDATA[“다른 뮤지션들에게 배우는 중” 美 빌리 아일리시와 협업 ‘꿈’ 영국 대표 가수 엘튼 존. 오피셜 차트 컴퍼니 제공, BBC 캡처 최근 16년 만에 영국 싱글 차트 1위를 차지한 영국 가수 엘튼 존(74)이 “그 어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[해리 스타일스, 열살 연상 연인 올리비아 와일드와 뉴욕 데이트 [N해외연예]]]></title>
         <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005664408</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005661864"/>
         <updated>2021-10-17T04:26:54.641Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 박형기 기자 = 넷플릭스가 ‘오징어 게임’에 2140만 달러(약 253억원)를 투자해 약 9억 달러(1조원) 이상의 수익을 올릴 전망이라고 블룸버그통신이 16일(현지시간) 보도했다. 블룸버그는 넷플릭]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[숀 펜, 32세 연하 배우와 결혼 1년만 파경 '세 번째 이혼' [엑's 할리우드]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001361005</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001361005"/>
-        <updated>2021-10-17T04:26:54.642Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 황수연 기자) 할리우드 배우 숀 펜(61)이 32세 연하의 호주 배우 레일라 조지(29)와 결혼 1년 만에 파경을 맞았다. 지난 15일(현지 시간) 미국 매체 TMZ는 레일라 조지가 금요일 로스앤젤레스]]></content>
     </entry>
 </feed>
