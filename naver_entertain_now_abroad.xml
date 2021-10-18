@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-18T16:33:11.189Z</updated>
+    <updated>2021-10-18T17:25:32.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[킴 카다시안, 파격 전신 시스루 패션…볼륨 실루엣 '깜짝']]></title>
+        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004658228</id>
+        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004658228"/>
+        <updated>2021-10-18T17:25:31.772Z</updated>
+        <content type="html"><![CDATA[할리우드 스타 킴 카다시안이 핑크빛 레이스로 장식된 파격적인 전신 시스루 패션을 선보였다. 킴 카다시안은 16일(현지시간) 자신의 인스타그램에 하트 이모지와 함께 사진 여러 장을 공개했다. 이는 지난 9일(현지시간)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DCEU '원더우먼 3' 제작 확정…린다 카터 복귀 [엑's 할리우드]]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001361497</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000500500"/>
         <updated>2021-10-17T04:26:54.638Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 할리우드 배우 숀 펜이 32세 어린 아내와 이혼한다. 10월 16일(현지시간) 외신 피플 보도에 따르면, 1년 전 숀 펜(61)과 결혼한 오스트레일리아 출신 배우 레일라 조지(29)가 지난 1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“넷플릭스 오징어게임에 253억원 투자해 1조 벌어”(상보)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005661895</id>
-        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005661895"/>
-        <updated>2021-10-17T04:26:54.639Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 박형기 기자 = 넷플릭스가 ‘오징어 게임’에 2140만 달러(약 253억원)를 투자해 약 9억 달러(1조원) 이상의 수익을 올릴 전망이라고 블룸버그통신이 16일(현지시간) 보도했다. 블룸버그는 넷플릭]]></content>
     </entry>
 </feed>
