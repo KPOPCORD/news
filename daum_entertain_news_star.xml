@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-10-18T17:25:32.463Z</updated>
+    <updated>2021-10-18T18:24:31.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배다해♥이장원 예비부부, '러브 스토리' 공개..'웨딩 화보' 최초 공개]]></title>
+        <id>https://entertain.v.daum.net/v/20211019024200092</id>
+        <link href="https://entertain.v.daum.net/v/20211019024200092"/>
+        <updated>2021-10-18T18:24:06.480Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 배다해가 예비 신랑 이장원과의 러브 스토리를 공개했다. 18일 방송된 SBS '동상이몽 시즌2-너는 내 운명'(이하 '동상이몽2')에서는 가수 배다해가 스페셜 MC로 등장했다. 이날 방송에서 MC들은 배다해와 가수 이장원의 결혼 소식을 전했다. 김숙은 "뇌섹남으로 유명한 이장원 씨에 대한 첫인상이 수다쟁이 아줌마였다고 하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박세경·차수민·박기량 출격 '시간 여행 레이스' 특집]]></title>
         <id>https://entertain.v.daum.net/v/20211019013010846</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211019000103278"/>
         <updated>2021-10-18T15:21:35.869Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 배우 신민아 소속사 에이엠엔터테인먼트는 18일 SNS 계정을 통해 “대체불가 로코퀸 신민아 뜨거운 여름 지방을 오가며 촬영하느라, 고생 많았던 민아씨 수고하셨습니다!”는 글과 함께 여러 장 사진을 공개했다.사진 속에는 드라마 마지막회 촬영현장에서 찍은 신민아 모습이 담겼다. 그는 드라마에 나온 웨딩드레스를 입고 왕관을 쓴 사랑스러운 모습이다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아스트로, "꿈을 향해 최선 다한 성과 뜻깊어"]]></title>
-        <id>https://entertain.v.daum.net/v/20211019000017261</id>
-        <link href="https://entertain.v.daum.net/v/20211019000017261"/>
-        <updated>2021-10-18T15:21:35.870Z</updated>
-        <content type="html"><![CDATA['2021 TMA' 올해의 아티스트 상 수상…"아로하·진진 형 보고싶어요" [더팩트ㅣ이한림 기자] 그룹 아스트로는 올해 최고의 한 해를 보냈다. 데뷔 6년 만에 처음으로 공중파 음악방송 1위는 물론 음악방송 4관왕을 따냈고, '2021 TMA'에서 올해의 아티스트 상을 수상하는 등 경사를 이뤘다. 아스트로는 지난 2일 열린 '2021 더팩트 뮤직 어워즈(]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-10-18T17:25:32.473Z</updated>
+    <updated>2021-10-18T18:24:31.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정유미 화보, 아찔한 각선미+독보적 아우라]]></title>
+        <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001615008</id>
+        <link href="https://entertain.naver.com/now/read?oid=057&amp;aid=0001615008"/>
+        <updated>2021-10-18T18:24:24.155Z</updated>
+        <content type="html"><![CDATA[배우 정유미가 마리끌레르 11월 호 표지를 장식하며 독보적인 아름다움을 선보였다. 맑은 하늘 속 슬릭한 헤어 스타일의 정유미는 막스마라 70주년 기념 컬렉션의 아이코닉한 리버시블 테디베어 코트를 착용해 시크한 매력으]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘스우파’ 다시 보는 명장면]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000939240</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000939240"/>
+        <updated>2021-10-18T18:24:24.156Z</updated>
+        <content type="html"><![CDATA[방송 7회 만에 영상 조회수 3억 뷰를 돌파한 Mnet ‘스트릿 우먼 파이터’가 종영까지 2회 만을 남겨둔 가운데 젲가진이 댄서들 스틸 컷을 공개했다. ● 전국민 ‘헤이마마’ 열풍의 시작, 계급미션 제작]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박세경·차수민·박기량 출격 ‘시간 여행 레이스’ 특집 (노는언니2)]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000939239</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000939238"/>
         <updated>2021-10-18T13:24:41.484Z</updated>
         <content type="html"><![CDATA[어떤 말이라도 할 때가 한참 지났지만, 묵묵부답이다. ‘낙태 종용’ 배우 K로 지목된 김선호와 그의 소속사 솔트엔터테인먼트 이야기다. 앞서 누리꾼 A 씨는 17일 국내 포털사이트 산하 커뮤니티 게시판에 배우 K에 대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박은빈, 남장으로 빛나는 미모..'꽃미남' 자태[스타IN★]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002997718</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002997718"/>
-        <updated>2021-10-18T12:32:42.238Z</updated>
-        <content type="html"><![CDATA[배우 박은빈이 '꽃미모'를 뽐내며 '미남' 자태를 드러냈다. 박은빈은 18일 자신의 인스타그램에 "'연모' 하는 날"이라는 글과 사진을 게재했다. 공개된 사진에는 KBS 2TV 월화드라마 '연모'에서 주인공을 맡은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박하선, 흡인성 폐렴으로 입원…스페셜 DJ는 남편 류수영]]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004617617</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004617617"/>
-        <updated>2021-10-18T12:32:42.239Z</updated>
-        <content type="html"><![CDATA[배우 박하선이 흡인성 폐렴으로 입원한 사실이 알려진 가운데 '씨네타운' 측이 이번주 일정에 대해 공지했다. 18일 SBS파워FM '박하선의 씨네타운' 측은 공식 사회관계망서비스(SNS) 계정을 통해 "현재 박하선 D]]></content>
     </entry>
 </feed>

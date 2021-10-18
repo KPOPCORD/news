@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-18T17:25:32.548Z</updated>
+    <updated>2021-10-18T18:24:31.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔하이픈(ENHYPEN) 희승, 21번째 생일 기념 기부요정 등극]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001361550</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001361550"/>
+        <updated>2021-10-18T18:24:17.850Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 엔하이픈(ENHYPEN) 희승이 제221대 기부요정으로 선정되어 기부한다. 희승은 아이돌 순위 서비스 ‘최애돌’에서 세계 각국 팬들의 관심과 호응으로 144,218,423표를 받았다. 1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김필, “유행에 상관없이 좋은 음악 하고파” (롤링스톤 코리아)]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001361543</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000794917"/>
         <updated>2021-10-18T09:20:59.307Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 정하은기자] 여성 듀오 다비치(이해리, 강민경)가 가슴 저리는 첫사랑을 소환했다. 그리움의 계절 가을, 다비치가 많은 이들의 감성을 자극할 가을 발라드로 돌아왔다. 다비치의 신곡 ‘나의 첫사랑’은 찰]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전주시 ‘2021 전주 조선팝 페스티벌’ 22일 개막]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000768083</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000768083"/>
-        <updated>2021-10-18T09:20:59.309Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 전북 전주시는 전통 가락에 대중음악을 접목한 ‘2021 전주 조선팝 페스티벌’을 오는 22일부터 전주한벽문화관에서 개최한다고 18일 밝혔다. ‘조선’과 ‘팝 음악’의 합성어인 조선팝은 전통음악을 팝과]]></content>
     </entry>
 </feed>
