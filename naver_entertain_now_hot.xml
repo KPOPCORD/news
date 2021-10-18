@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-10-18T18:24:31.010Z</updated>
+    <updated>2021-10-18T19:16:45.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안소희, 레깅스 화보 속 잘록한 허리+11자 각선미]]></title>
+        <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001615009</id>
+        <link href="https://entertain.naver.com/now/read?oid=057&amp;aid=0001615009"/>
+        <updated>2021-10-18T19:16:37.998Z</updated>
+        <content type="html"><![CDATA[배우 안소희의 화보가 공개됐다. 화보 속 안소희는 레깅스에 운동화를 신고 포즈를 취하고 있다. 그는 군살없이 매끈한 각선미와 브라톱을 입고 매력을 뽐냈다. 특히 안소희는 부러움을 자아내는 몸매를 과시했다. 이외에도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정유미 화보, 아찔한 각선미+독보적 아우라]]></title>
         <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001615008</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003790794"/>
         <updated>2021-10-18T13:24:41.483Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 이우주 기자]'물어보살' 종교에 쉽게 빠지는 엄마 때문에 힘들어하는 의뢰인에 두 보살이 냉정한 조언을 건넸다. 18일 방송된 KBS 조이 예능프로그램 '무엇이든 물어보살'에서는 엄마와의 연을 끊을 지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김선호=배우K? 의혹 진위 떠나 대처 최악입니다 [홍세영의 어쩌다]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000939238</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000939238"/>
-        <updated>2021-10-18T13:24:41.484Z</updated>
-        <content type="html"><![CDATA[어떤 말이라도 할 때가 한참 지났지만, 묵묵부답이다. ‘낙태 종용’ 배우 K로 지목된 김선호와 그의 소속사 솔트엔터테인먼트 이야기다. 앞서 누리꾼 A 씨는 17일 국내 포털사이트 산하 커뮤니티 게시판에 배우 K에 대]]></content>
     </entry>
 </feed>

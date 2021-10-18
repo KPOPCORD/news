@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-10-18T18:24:31.017Z</updated>
+    <updated>2021-10-18T19:16:44.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["남자친구와 불토..♥" 손담비, 백만원 훌쩍 넘는 롱부츠 신고 '패셔니스타美' 뿜뿜]]></title>
+        <id>https://entertain.v.daum.net/v/20211019035028572</id>
+        <link href="https://entertain.v.daum.net/v/20211019035028572"/>
+        <updated>2021-10-18T19:16:20.359Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] 손담비가 패셔니스타다운 근황을 전했다.&nbsp; 18일 가수 손담비가 개인 유튜브 채널을 통해서 "자켓 하나로 일주일 살기(전시회, 격식있는 자리, 남사친 만나러 가는 룩 대공개) / 손담비의 '오늘은 뭘 입는담?"이란 제목으로 영상을 게재했다. ' 이날 손담비는 "자주 입는 자켓으로 일주일 룩, 이제 가을과 겨울을 겨냥해서 즐겨입는 룩을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배다해♥이장원 예비부부, '러브 스토리' 공개..'웨딩 화보' 최초 공개]]></title>
         <id>https://entertain.v.daum.net/v/20211019024200092</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211019000308330"/>
         <updated>2021-10-18T15:21:35.868Z</updated>
         <content type="html"><![CDATA['개훌륭' 강형욱이 다견가정 싸움에 고민이 커졌다. 18일 방송된 KBS2 예능프로그램 '개는 훌륭하다'(이하 '개훌륭')에서는 보호자 집에서 돌아온 이경규, 장도연이 강형욱과 이야기를 나누는 모습이 그려졌다. 이날 장도연은 "제가 보기엔 아무리 노는 거라고 하지만 말려야겠다는 생각이 들었다"며 "한 번씩 물 때가 있다"고 밝혔다. 이 말을 들은 강]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신민아 "안녕 혜지니"]]></title>
-        <id>https://entertain.v.daum.net/v/20211019000103278</id>
-        <link href="https://entertain.v.daum.net/v/20211019000103278"/>
-        <updated>2021-10-18T15:21:35.869Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 배우 신민아 소속사 에이엠엔터테인먼트는 18일 SNS 계정을 통해 “대체불가 로코퀸 신민아 뜨거운 여름 지방을 오가며 촬영하느라, 고생 많았던 민아씨 수고하셨습니다!”는 글과 함께 여러 장 사진을 공개했다.사진 속에는 드라마 마지막회 촬영현장에서 찍은 신민아 모습이 담겼다. 그는 드라마에 나온 웨딩드레스를 입고 왕관을 쓴 사랑스러운 모습이다]]></content>
     </entry>
 </feed>
