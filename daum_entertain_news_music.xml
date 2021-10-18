@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-18T15:22:01.654Z</updated>
+    <updated>2021-10-18T16:33:11.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔분의일 "5명이 함께 소리를 만드는 밴드..EP 앨범과 연말 공연 준비 중"]]></title>
+        <id>https://entertain.v.daum.net/v/20211019010318743</id>
+        <link href="https://entertain.v.daum.net/v/20211019010318743"/>
+        <updated>2021-10-18T16:32:38.873Z</updated>
+        <content type="html"><![CDATA[‘인디스땅스 2021’는&nbsp;경기콘텐츠진흥원의 인디 뮤지션 발굴·육성 프로젝트로, 총 2000만원의 상금과 뮤직비디오 제작 및 음원 제작·유통 등을 지원해주는 사업이다. MBC ‘복면가왕’에서 3연승을 거두며 실력을 인정받은 ‘기프트’, 탄탄한 해외 팬덤을 바탕으로 큰 사랑을 받고 있는 여성 록밴드 ‘롤링쿼츠’, 일렉트로닉 팝을 중심으로 활동하는 ‘우자앤쉐]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅, 영웅시대의 심장을 저격하는 비주얼을 가진 스타]]></title>
         <id>https://entertain.v.daum.net/v/20211019000047274</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211018172510474"/>
         <updated>2021-10-18T09:20:41.356Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) 그룹 몬스타엑스(MONSTA X)가 오는 11월 컴백한다. 18일 소속사 스타쉽엔터테인먼트 측은 “몬스타엑스가 11월 국내 컴백을 목표로 새로운 앨범을 준비 중이다. 한층 성장한 음악으로 돌아올 예정이니 많은 기대 부탁드린다”고 전했다. 몬스타엑스는 지난 6월 발표한 아홉 번째 미니앨범 ‘One Of A Kind(원 오브 어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몬스타엑스 측 "11월 컴백 목표로 앨범 준비 중"]]></title>
-        <id>https://entertain.v.daum.net/v/20211018172058337</id>
-        <link href="https://entertain.v.daum.net/v/20211018172058337"/>
-        <updated>2021-10-18T08:23:54.963Z</updated>
-        <content type="html"><![CDATA[그룹 몬스타엑스(MONSTA X)가 돌아온다. 소속사 스타쉽엔터테인먼트는 18일 오후 "몬스타엑스(셔누, 민혁, 기현, 형원, 주헌, 아이엠)가 오는 11월 국내 컴백을 목표로 새로운 앨범을 준비 중이다. 한층 성장한 음악으로 돌아올 예정이니 많은 기대 부탁드린다"고 전했다. 몬스타엑스는 지난 6월 발표한 아홉 번째 미니앨범 'One Of A Kind(]]></content>
     </entry>
 </feed>
