@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-18T22:20:48.172Z</updated>
+    <updated>2021-10-18T23:22:50.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스파이더맨, 못 말리는 사랑꾼…♥젠다야 응원 "스윗" [Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004493866</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004493866"/>
+        <updated>2021-10-18T23:22:49.248Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] 할리우드 배우 톰 홀랜드와 젠다야가 달콤한 애정 전선을 보였다. 톰 홀랜드는 19일 자신의 인스타그램에 “Dune”이라는 글과 눈이 하트가 된 이모티콘, 흑백 사진을 게재했다. 사진에는 톰]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['인디아나 존스' 5편 개봉 2023년으로 연기…마블 영화도 재조정]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012730676</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012730676"/>
+        <updated>2021-10-18T23:22:49.249Z</updated>
+        <content type="html"><![CDATA['닥터 스트레인지'. '블랙 팬서', '토르' 속편 출시 몇 달 지연 (로스앤젤레스=연합뉴스) 정윤섭 특파원 = 인기 액션 모험 영화 시리즈 '인디아나 존스' 5편의 개봉 일정이 2023년으로 연기됐다. 또 '닥터]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[래퍼 카녜이 웨스트 개명 완료…새 이름은 예(Ye)]]></title>
         <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005665080</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004493168"/>
         <updated>2021-10-17T07:19:44.219Z</updated>
         <content type="html"><![CDATA[[OSEN=연휘선 기자] 넷플릭스 오리지널 '오징어 게임'의 가치가 약 1조원으로 추정됐다. 블룸버그통신은 16일(현지시간) 넷플릭스 내부 문건을 입수해 분석한 결과를 보도하며 넷플릭스가 '오징어 게임'의 가치를 8]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오징어게임 대박, 미국 이젠 영화도 '아웃소싱'이 대세]]></title>
-        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005662172</id>
-        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005662172"/>
-        <updated>2021-10-17T06:25:08.254Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 박형기 기자 = ‘오징어 게임’ 대박으로 미국이 제조업에 이어 영화도 본격적인 '아웃소싱'을 할 전망이라고 경제전문 매체 CNBC가 16일(현지시간) 보도했다. CNBC는 미국에서는 2140만달러(약]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[할리우드Y] 패리스 힐튼♥카터 럼, 11월 11일 결혼 "장소는 비공개"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=052&amp;aid=0001653382</id>
-        <link href="https://entertain.naver.com/now/read?oid=052&amp;aid=0001653382"/>
-        <updated>2021-10-17T05:18:07.039Z</updated>
-        <content type="html"><![CDATA[할리우드 배우 패리스 힐튼이 연인인 벤처 투자가 카터 럼과 결혼한다. 지난 15일 미국 연예 매체 페이지식스에 따르면, 패리스 힐튼-카터 럼 커플이 최근 지인들에게 장소가 적히지 않은 청첩장을 전달했다. 해당 보도에]]></content>
     </entry>
 </feed>
