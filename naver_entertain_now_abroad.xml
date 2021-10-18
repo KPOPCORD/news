@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-18T20:21:19.164Z</updated>
+    <updated>2021-10-18T21:17:57.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[카녜이 웨스트의 새 이름은 예]]></title>
+        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005665080</id>
+        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005665080"/>
+        <updated>2021-10-18T21:17:56.834Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 박병진 기자 = 미국의 유명 래퍼 카녜이 웨스트가 '예'(Ye)로의 개명을 완료했다. 18일(현지시간) AFP통신은 이날 로스앤젤레스 고등법원이 예의 개명 신청을 승인했다고 보도했다. 앞서 예는 지난]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[킴 카다시안, 파격 전신 시스루 패션…볼륨 실루엣 '깜짝']]></title>
         <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004658228</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=052&amp;aid=0001653382"/>
         <updated>2021-10-17T05:18:07.039Z</updated>
         <content type="html"><![CDATA[할리우드 배우 패리스 힐튼이 연인인 벤처 투자가 카터 럼과 결혼한다. 지난 15일 미국 연예 매체 페이지식스에 따르면, 패리스 힐튼-카터 럼 커플이 최근 지인들에게 장소가 적히지 않은 청첩장을 전달했다. 해당 보도에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[숀 펜, 딸보다 어린 32세 연하 아내와 결혼 1년만 파경[할리우드비하인드]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000500500</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000500500"/>
-        <updated>2021-10-17T04:26:54.638Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 할리우드 배우 숀 펜이 32세 어린 아내와 이혼한다. 10월 16일(현지시간) 외신 피플 보도에 따르면, 1년 전 숀 펜(61)과 결혼한 오스트레일리아 출신 배우 레일라 조지(29)가 지난 1]]></content>
     </entry>
 </feed>
