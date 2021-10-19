@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 09:20:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 10:23:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['짙어진' 남우현, #전역 #서른즈음 #냉정과열정사이 [종합]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328262</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328262</guid>
+            <pubDate>Tue, 19 Oct 2021 10:23:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328262">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/19/71b06cf1-e59e-4022-b5f3-30dba49286c1.JPG" alt="'짙어진' 남우현, #전역 #서른즈음 #냉정과열정사이 [종합]">        <div class="text-box">            <p class="summary">'짙어진' 남우현, #전역 #서른즈음 #냉정과열정사이 [종합]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/19/71b06cf1-e59e-4022-b5f3-30dba49286c1.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[권은비, 흑백 뚫고 나오는 완벽 비주얼 [인스타]]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/328276</link>
@@ -86,14 +94,6 @@
             <pubDate>Tue, 19 Oct 2021 01:09:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328174">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/19/c3b3c3e7-0976-424f-bdf3-a5b6f287399d.jpg" alt="10월 3주차 에스파 1위, 임영웅 22로 첫 진입! [M차트]">        <div class="text-box">            <p class="summary">10월 3주차 에스파 1위, 임영웅 22로 첫 진입! [M차트]</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/19/c3b3c3e7-0976-424f-bdf3-a5b6f287399d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라붐, 새 앨범 ‘BLOSSOM’으로 11월 3일 컴백 확정]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328163</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328163</guid>
-            <pubDate>Tue, 19 Oct 2021 01:09:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328163">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/19/b800e6b2-137d-4d76-822d-140939c3a2c8.jpg" alt="라붐, 새 앨범 ‘BLOSSOM’으로 11월 3일 컴백 확정">        <div class="text-box">            <p class="summary">라붐, 새 앨범 ‘BLOSSOM’으로 11월 3일 컴백 확정</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/19/b800e6b2-137d-4d76-822d-140939c3a2c8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

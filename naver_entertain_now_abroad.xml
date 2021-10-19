@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-19T09:20:55.710Z</updated>
+    <updated>2021-10-19T10:23:46.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아이즈원 출신' 미야와키 사쿠라 "내 피부 비결은 '한국' 김치" 극찬]]></title>
+        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004658728</id>
+        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004658728"/>
+        <updated>2021-10-19T10:23:45.320Z</updated>
+        <content type="html"><![CDATA[그룹 아이즈원 출신 미야와키 사쿠라가 일본 매거진 인터뷰에서 한국 김치를 극찬했다. 미야와키 사쿠라는 최근 공개된 일본 매거진 마퀴아(MAQUIA) 10월호와의 인터뷰에서 자신의 뷰티 팁과 자주 사용하는 화장품 등을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['-45kg' 아델 "정크푸드♥︎, 일주일에 한번 맥도OO 먹어" [Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004494198</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=022&amp;aid=0003629295"/>
         <updated>2021-10-18T08:24:24.707Z</updated>
         <content type="html"><![CDATA[“다른 뮤지션들에게 배우는 중” 美 빌리 아일리시와 협업 ‘꿈’ 영국 대표 가수 엘튼 존. 오피셜 차트 컴퍼니 제공, BBC 캡처 최근 16년 만에 영국 싱글 차트 1위를 차지한 영국 가수 엘튼 존(74)이 “그 어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해리 스타일스, 열살 연상 연인 올리비아 와일드와 뉴욕 데이트 [N해외연예]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005664408</id>
-        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005664408"/>
-        <updated>2021-10-18T07:20:49.996Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 윤효정 기자 = 해리 스타일스(27)가 여자친구 올리비아 와일드(37)와 함께 뉴욕 거리를 산책했다. 16일(현지시간) 미국 연예매체 스플래시뉴스는 해리 스타일스와 연인 올리비아 와일드의 투샷을 공개]]></content>
     </entry>
 </feed>

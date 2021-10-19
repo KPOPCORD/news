@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-19T09:20:55.712Z</updated>
+    <updated>2021-10-19T10:23:46.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['짙어진' 남우현, #전역 #서른즈음 #냉정과열정사이]]></title>
+        <id>https://entertain.v.daum.net/v/20211019182112433</id>
+        <link href="https://entertain.v.daum.net/v/20211019182112433"/>
+        <updated>2021-10-19T10:23:16.186Z</updated>
+        <content type="html"><![CDATA[가수 남우현이 한층 짙은 색으로 물들었다. 오랜 군 공백기 이후 새 앨범으로 팬들을 찾아온 그는 설레는 표정을 감추지 못했다. 그는 기다려준 팬들에게 전하는 고마움과 앞으로의 활동에서 진실된 모습을 보이고 싶은 의지를 새 앨범에 담았다고 전했다. 19일 오후 남우현의 네 번째 미니 앨범 '위드(With)' 미디어 쇼케이스가 온라인으로 진행됐다. 가수 남]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NCT 127 'Sticker' 빌보드 200 132위 4주 차트인]]></title>
         <id>https://entertain.v.daum.net/v/20211019181734339</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211019171254357"/>
         <updated>2021-10-19T08:24:34.831Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]가수 임영웅이 팬들에게 감사 인사를 전했다. 임영웅은 19일 ‘영웅시대’ 팬카페에 글을 올렸다. 그는 “정말 오랜만에 카페에 글을 씁니다. 여러분 다들 잘 지내시죠?! 저는 늘 덕분에 잘 지내고 있습니다!”라고 운을 뗐다. 이어 “여러분들께서 신곡을 너무 사랑해주시는 덕분에 주변에서 아주 난리난리 난리법석입니다”라면서 “]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남우현 "인피니트 남우현 뛰어넘고파"]]></title>
-        <id>https://entertain.v.daum.net/v/20211019171212334</id>
-        <link href="https://entertain.v.daum.net/v/20211019171212334"/>
-        <updated>2021-10-19T08:24:34.831Z</updated>
-        <content type="html"><![CDATA[가수 남우현이 이번 앨범 발매가 전성기의 시작됐으면 좋겠다는 바람을 전했다. 19일 오후 남우현의 네 번째 미니 앨범 '위드(With)' 미디어 쇼케이스가 온라인으로 진행됐다. '위드'는 기다려준 팬들과 함께하고자 하는 남우현의 의지를 담은 앨범으로, 사랑의 여러 감정들을 남우현만의 독보적이고 섬세한 보컬로 채웠다. 타이틀곡 '냉정과 열정 사이'는 새로]]></content>
     </entry>
 </feed>
