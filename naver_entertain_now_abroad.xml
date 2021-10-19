@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-19T02:34:22.860Z</updated>
+    <updated>2021-10-19T03:22:38.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마동석, '이터널스' 월드 프리미어 참석 "MCU 합류 영광"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=018&amp;aid=0005063710</id>
+        <link href="https://entertain.naver.com/now/read?oid=018&amp;aid=0005063710"/>
+        <updated>2021-10-19T03:22:38.029Z</updated>
+        <content type="html"><![CDATA[마동석(사진=AFP) [이데일리 스타in 박미애 기자] 마동석이 마블영화 ‘이터널스’의 월드 프리미어 행사에 참석해 눈길을 끌었다. 마동석은 18일(현지 시각) 미국 로스엔젤레스에서 열린 ‘이터널스’(감독 클로이 자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[톰 홀랜드, ♥젠데이아 향한 럽스타그램…'듄' 홍보 돕는 스파이더맨]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001361687</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003790635"/>
         <updated>2021-10-18T02:36:36.428Z</updated>
         <content type="html"><![CDATA[[스포츠조선 문지연 기자] 한 남자 배우의 사생활을 폭로하는 글이 온라인에 등장하며 네티즌 사이 '진실게임'이 시작됐다. 글쓴이는 K배우가 낙태를 회유했다고 주장하며 논란의 불씨를 키웠다. 17일 오후 온라인 커뮤니]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 SNL '오징어 게임' 패러디→인종차별 논란…"40억이 47달러?" [엑's 해외이슈]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001361280</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001361280"/>
-        <updated>2021-10-18T01:10:12.472Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 넷플릭스 오리지널 시리즈 '오징어 게임'이 미국 'SNL'에서 패러디된 가운데, 해당 패러디가 인종차별적 요소를 담고 있다는 주장이 제기됐다. 지난 16일(현지시간) 미국 NBC 'SNL]]></content>
     </entry>
 </feed>
