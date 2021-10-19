@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-19T06:25:05.620Z</updated>
+    <updated>2021-10-19T07:20:13.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['결혼' 패리스 힐튼, 브라이덜샤워도 재벌급..'이상한 나라의 앨리스' 테마 [Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004494129</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004494129"/>
+        <updated>2021-10-19T07:20:13.167Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 할리우드 이슈메이커 패리스 힐튼이 최근 화려한 '브라이덜 샤워'를 가졌다. 18일(현지시간) 페이지 식스의 보도에 따르면 베스트셀러 작가 겸 벤처 투자가인 약혼자 카터 룸과의 11월 결혼을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마동석, 연인 예정화와 '이터널스' 월드 프리미어 참석]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010778812</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004493712"/>
         <updated>2021-10-18T07:20:49.998Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] 코트니 카다시안과 트래비스 바커가 약혼했다. 코트니 카다시안은 17일(현지시각) 자신의 인스타그램에 “포에버 트래비스 바커”라는 메시지와 함께 사진 두 장을 남겼다. 사진에서 그는 장미꽃으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이진혁 '상큼한 미소' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000824169</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000824169"/>
-        <updated>2021-10-18T07:20:49.998Z</updated>
-        <content type="html"><![CDATA[18일 오후 이진혁 네 번째 미니앨범 [Ctrl+V] 온라인 쇼케이스가 열렸다. [Ctrl+V]의 타이틀곡은 ‘Work Work’다. 이진혁이 쇼케이스에 앞서 포토타임을 갖고 있다. 사진= 티오피미디어 제공]]></content>
     </entry>
 </feed>
