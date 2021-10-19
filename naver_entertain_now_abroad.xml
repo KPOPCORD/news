@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-19T12:32:39.711Z</updated>
+    <updated>2021-10-19T13:25:25.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 유명 래퍼 웨스트 새 이름은 ‘Ye’]]></title>
+        <id>https://entertain.naver.com/now/read?oid=022&amp;aid=0003629773</id>
+        <link href="https://entertain.naver.com/now/read?oid=022&amp;aid=0003629773"/>
+        <updated>2021-10-19T13:25:24.408Z</updated>
+        <content type="html"><![CDATA[개명 완료… “성경서 ‘너희’ 의미” 미국의 유명 래퍼 카녜이 웨스트(사진)의 이름이 ‘예’(Ye)로 바뀌었다. abc뉴스 등은 18일(현지시간) 로스앤젤레스 고등법원이 웨스트의 개명 신청을 받아들였다고 보도했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안젤리나 졸리 가족, '이터널스' 시사회 출동..'연세대' 매덕스 동행]]></title>
+        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004658747</id>
+        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004658747"/>
+        <updated>2021-10-19T13:25:24.409Z</updated>
+        <content type="html"><![CDATA[배우 브래드 피트와 양육권 소송 중인 안젤리나 졸리가 다섯 자녀를 대동하고 자신이 출연한 영화 시사회에 참석했다. 18일(현지시간) 안젤리나 졸리는 미국 할리우드 마블 스튜디오에서 열린 영화 '이터널스' 프리미어에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이혼' 카니예 웨스트, '예'(Ye)로 개명 완료…"성도 없앴다"]]></title>
         <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004658743</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005665080"/>
         <updated>2021-10-18T21:17:56.834Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 박병진 기자 = 미국의 유명 래퍼 카녜이 웨스트가 '예'(Ye)로의 개명을 완료했다. 18일(현지시간) AFP통신은 이날 로스앤젤레스 고등법원이 예의 개명 신청을 승인했다고 보도했다. 앞서 예는 지난]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[킴 카다시안, 파격 전신 시스루 패션…볼륨 실루엣 '깜짝']]></title>
-        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004658228</id>
-        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004658228"/>
-        <updated>2021-10-18T17:25:31.772Z</updated>
-        <content type="html"><![CDATA[할리우드 스타 킴 카다시안이 핑크빛 레이스로 장식된 파격적인 전신 시스루 패션을 선보였다. 킴 카다시안은 16일(현지시간) 자신의 인스타그램에 하트 이모지와 함께 사진 여러 장을 공개했다. 이는 지난 9일(현지시간)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DCEU '원더우먼 3' 제작 확정…린다 카터 복귀 [엑's 할리우드]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001361497</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001361497"/>
-        <updated>2021-10-18T09:21:11.997Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) DC 확장 유니버스(DCEU) 영화 '원더우먼 3'의 제작이 확정됐다. 지난 17일 온라인으로 진행된 DC 팬돔에서 '원더우먼 3'의 제작이 공식적으로 발표됐다. 이번 발표에 따르면 패티]]></content>
     </entry>
 </feed>
