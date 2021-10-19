@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 04:28:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 05:19:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트와이스 'The Feels' 뮤비 비하인드 컷]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=166700</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=166700</guid>
+            <pubDate>Tue, 19 Oct 2021 05:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=166700">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211019135536_dc76b49cc741705aa5475e153df809eb.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=166700">트와이스 'The Feels' 뮤비 비하인드 컷 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211019135536_dc76b49cc741705aa5475e153df809eb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단, 아이하트라디오 '징글볼 투어' 출연]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=166619</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=165132">블랙핑크 리사  'LALISA', 기네스  신기록 '유튜브 MV 24시간 조회수'   </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211010051655_e5a62e4fa2fd653976d72ec9e99ac5e8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SM 이성수 대표 “SMCU 통해 콘텐츠 넥스트 레벨 실현할 것”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=164681</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=164681</guid>
-            <pubDate>Thu, 07 Oct 2021 09:19:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164681">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211007175954_1c0edee1f5b2e9a69cb8749639a4c14a.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=164681">SM 이성수 대표 “SMCU 통해 콘텐츠 넥스트 레벨 실현할 것”</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211007175954_1c0edee1f5b2e9a69cb8749639a4c14a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 04:28:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 05:19:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['방과후 설렘', 11월 28일 첫 방송 확정]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328216</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328216</guid>
+            <pubDate>Tue, 19 Oct 2021 05:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328216">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/19/e3d25e7f-3611-44ec-9133-0262175313c8.jpg" alt="'방과후 설렘', 11월 28일 첫 방송 확정">        <div class="text-box">            <p class="summary">'방과후 설렘', 11월 28일 첫 방송 확정</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/19/e3d25e7f-3611-44ec-9133-0262175313c8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에스파, 2주 연속 케이팝 레이더 주간 차트 1위]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/328183</link>
@@ -86,14 +94,6 @@
             <pubDate>Mon, 18 Oct 2021 23:22:04 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328154">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/19/GcyvDTvb0Nk2637701984207389013.jpg" alt="강혜원, 청순+러블리 모두 품은 얼굴 천재 [인스타] ">        <div class="text-box">            <p class="summary">강혜원, 청순+러블리 모두 품은 얼굴 천재 [인스타] </p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/19/GcyvDTvb0Nk2637701984207389013.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몬스타엑스 측 "11월 컴백 목표로 앨범 준비 중" [공식입장]]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328134</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328134</guid>
-            <pubDate>Mon, 18 Oct 2021 08:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328134">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/18/65cd2f3a-faaf-43d5-8c14-f28c8197ede5.jpg" alt="몬스타엑스 측 " 11월="" 컴백="" 목표로="" 앨범="" 준비="" 중"="" [공식입장]"="">        <div class="text-box">            <p class="summary">몬스타엑스 측 "11월 컴백 목표로 앨범 준비 중" [공식입장]</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/18/65cd2f3a-faaf-43d5-8c14-f28c8197ede5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

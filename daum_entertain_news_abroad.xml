@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-10-19T04:28:15.160Z</updated>
+    <updated>2021-10-19T05:19:02.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 블룸버그 "'오징어 게임', 8700만 가구가 끝까지 시청..'브리저튼' 2배"]]></title>
+        <id>https://entertain.v.daum.net/v/20211019133754497</id>
+        <link href="https://entertain.v.daum.net/v/20211019133754497"/>
+        <updated>2021-10-19T05:18:38.785Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 넷플릭스 오리지널 시리즈 '오징어 게임'의 시청자 숫자가 공개된 가운데, 실제로 시리즈를 끝까지 본 시청자의 숫자도 공개됐다. 지난 17일(현지시간) 미국의 블룸버그는 '오징어 게임'이 약 8억 9110만 달러(약 1조 520억원)의 가치를 창출했다고 보도했다. 총 제작비가 2140만 달러(약 284억원)에 불과했던 '오징어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디즈니, '닥터 스트레인지2'→'토르4' 개봉 연기 결정]]></title>
         <id>https://entertain.v.daum.net/v/20211019095206281</id>
