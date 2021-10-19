@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-10-19T18:23:45.762Z</updated>
+    <updated>2021-10-19T19:16:26.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[K드라마 열풍 계속된다.. 마이네임·갯차도 넷플릭스 톱10]]></title>
+        <id>https://entertain.v.daum.net/v/20211020040707832</id>
+        <link href="https://entertain.v.daum.net/v/20211020040707832"/>
+        <updated>2021-10-19T19:16:01.765Z</updated>
+        <content type="html"><![CDATA[‘오징어 게임’이 글로벌 1위를 유지하고 있는 가운데 ‘마이 네임’(왼쪽)과 ‘갯마을 차차차’(갯차·오른쪽)도 넷플릭스의 TV쇼 부문 글로벌 톱10에 진입했다. K드라마 열풍이 1회적 현상으로 끝나지 않을 것임을 보여준다. 넷플릭스의 스트리밍 순위 집계 사이트 플릭스패트롤에 따르면 18일 기준 ‘마이 네임’이 4위, ‘갯차’가 7위에 올랐다. 배우 한소희가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김선호 소속사 솔트엔터테인먼트 홈페이지 또 '먹통'..접속 불가]]></title>
         <id>https://entertain.v.daum.net/v/20211020022457192</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211020000010234"/>
         <updated>2021-10-19T15:22:12.901Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 박윤진 기자] 가수 박재범이 댄서 허니제이의 인기를 실감하고 있다고 밝혔다. 19일 방송된 케이블채널 엠넷 '스트릿 우먼 파이터'(이하 '스우파') 8회에서는 홀리뱅의 '맨 오브 우먼 미션' 준비 과정이 그려졌다. 허니제이가 백댄서로 활약한 박재범의 곡 '몸매' 직캠 영상이 최근 온라인상에서 화제를 모으고 있는 가운데, 박재범은 "요즘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['돌싱포맨' 이상민 "오징어게임, 실제 있었다면 나갔을 것"]]></title>
-        <id>https://entertain.v.daum.net/v/20211019233901103</id>
-        <link href="https://entertain.v.daum.net/v/20211019233901103"/>
-        <updated>2021-10-19T15:22:12.902Z</updated>
-        <content type="html"><![CDATA[이상민이 현실에 오징어게임이 있었다면 나갔을 것이라고 말했다. 19일 방송된 SBS '신발벗고 돌싱포맨2'에는 정용화, 최시원이 돌싱포맨을 찾아오는 모습이 그려졌다. 탁재훈은 이상민에게 "너 왜 거기 안 나왔냐"고 대뜸 이야기를 꺼냈다. 이상민이 "어디"라고 묻자 탁재훈은 "오징어 게임"이라고 말했다. 그는 "거기 빚지고 이런 사람들 다 나오던데 네가 없]]></content>
     </entry>
 </feed>
