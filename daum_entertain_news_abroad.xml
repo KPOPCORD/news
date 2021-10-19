@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-10-19T08:25:11.208Z</updated>
+    <updated>2021-10-19T09:20:55.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['-45kg' 아델 "정크푸드♥︎, 일주일에 한번 맥도OO 먹어"]]></title>
+        <id>https://entertain.v.daum.net/v/20211019175744787</id>
+        <link href="https://entertain.v.daum.net/v/20211019175744787"/>
+        <updated>2021-10-19T09:20:34.563Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;세계적인 팝스타&nbsp;아델(33)이 지난 2년 동안&nbsp;약 100 파운드(45kg)를 감량했지만 그는 여전히 정크푸드를 사랑한다고 전했다. 아델은 최근 '보그'와의 인터뷰에서 "나는 일주일에 한 번 맥도OO를 먹는다. 내 마지막 식사는 맥치킨 너겟과 빅맥과 감자튀김이 될 것이다"라고 밝히며 정크푸드에 대한 사랑에 대해 솔직하게 밝혔다. 그는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['결혼' 패리스 힐튼, 브라이덜샤워도 재벌급..'이상한 나라의 앨리스' 테마]]></title>
         <id>https://entertain.v.daum.net/v/20211019154031065</id>
@@ -53,12 +60,5 @@
         <link href="https://entertain.v.daum.net/v/20211019050741084"/>
         <updated>2021-10-18T20:20:57.353Z</updated>
         <content type="html"><![CDATA[세계 곳곳에서 화제몰이 중인 넷플릭스의 한국 오리지널 시리즈 ‘오징어 게임’ 패러디에 미국 인기 예능 프로그램인 ‘새터데이 나이트’(SNL)도 동참했다. 특히 2019년 영화 ‘보헤미안 랩소디’에서 록밴드 ‘퀸’의 보컬 프레디 머큐리 역을 맡아 한국에서 인기가 높았던 배우 라미 말렉이 패러디에 참여했다. SNL 측은 17일(현지시간) 유튜브에 말렉이 참여한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DCEU '원더우먼 3' 제작 확정..린다 카터 복귀]]></title>
-        <id>https://entertain.v.daum.net/v/20211018175912518</id>
-        <link href="https://entertain.v.daum.net/v/20211018175912518"/>
-        <updated>2021-10-18T09:20:51.494Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) DC 확장 유니버스(DCEU) 영화 '원더우먼 3'의 제작이 확정됐다. 지난 17일 온라인으로 진행된 DC 팬돔에서 '원더우먼 3'의 제작이 공식적으로 발표됐다. 이번 발표에 따르면 패티 젠킨스 감독이 그대로 연출과 각본을 담당하며, 갤 가돗도 그대로 출연할 예정이다. 또한 린다 카터도 전작에 이어 다시금 출연하는 것이 확정됐]]></content>
     </entry>
 </feed>

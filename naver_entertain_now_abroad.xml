@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-19T08:25:11.204Z</updated>
+    <updated>2021-10-19T09:20:55.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['-45kg' 아델 "정크푸드♥︎, 일주일에 한번 맥도OO 먹어" [Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004494198</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004494198"/>
+        <updated>2021-10-19T09:20:55.059Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 세계적인 팝스타 아델(33)이 지난 2년 동안 약 100 파운드(45kg)를 감량했지만 그는 여전히 정크푸드를 사랑한다고 전했다. 아델은 최근 '보그'와의 인터뷰에서 "나는 일주일에 한 번]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['결혼' 패리스 힐튼, 브라이덜샤워도 재벌급..'이상한 나라의 앨리스' 테마 [Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004494129</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005664408"/>
         <updated>2021-10-18T07:20:49.996Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 윤효정 기자 = 해리 스타일스(27)가 여자친구 올리비아 와일드(37)와 함께 뉴욕 거리를 산책했다. 16일(현지시간) 미국 연예매체 스플래시뉴스는 해리 스타일스와 연인 올리비아 와일드의 투샷을 공개]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[킴 카다시안 언니 코트니, 해변 장미꽃 프러포즈 공개..드러머와 약혼 [Oh!llywood]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004493712</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004493712"/>
-        <updated>2021-10-18T07:20:49.998Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] 코트니 카다시안과 트래비스 바커가 약혼했다. 코트니 카다시안은 17일(현지시각) 자신의 인스타그램에 “포에버 트래비스 바커”라는 메시지와 함께 사진 두 장을 남겼다. 사진에서 그는 장미꽃으로]]></content>
     </entry>
 </feed>
