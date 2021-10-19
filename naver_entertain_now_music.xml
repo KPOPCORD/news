@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-19T15:22:41.658Z</updated>
+    <updated>2021-10-19T16:31:05.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[후즈팬 카페, 가수 우즈-팬클럽 무즈를 위한 특별 이벤트 진행]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001362037</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001362037"/>
+        <updated>2021-10-19T16:30:52.200Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 후즈팬 카페가 가수 우즈와 함께 팬클럽 무즈를 위한 특별 이벤트를 진행한다. 글로벌 케이팝 팬덤 플랫폼 '후즈팬(Whosfan)'을 운영하는 한터글로벌(대표이사 곽영호)은 19일부터 27]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴아트(NU ART), 첫 번째 선싱글 앨범 ‘The Throne’ 발매]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001362031</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002997971"/>
         <updated>2021-10-19T09:20:42.154Z</updated>
         <content type="html"><![CDATA[아이돌그룹 NCT 127이 정규 3집 'Sticker'(스티커)로 빌보드 200 차트 4주 연속 차트인에 성공했다. 19일(한국 시각) 업데이트된 빌보드 최신 차트에 따르면 NCT 127 정규 3집 'Sticker']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단X콜드플레이 'My Universe' 빌보드 핫100 18위 3주 차트인[공식]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002997969</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002997969"/>
-        <updated>2021-10-19T09:20:42.157Z</updated>
-        <content type="html"><![CDATA[톱 아이돌그룹 방탄소년단(BTS, RM 진 지민 제이홉 슈가 뷔 정국)이 세계적인 밴드 콜드플레이와 협업한 곡 'My Universe'로 3주째 빌보드 핫100 차트 상위권을 유지했다. 빌보드는 19일(한국 시각)]]></content>
     </entry>
 </feed>
