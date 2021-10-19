@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-19T14:19:25.115Z</updated>
+    <updated>2021-10-19T15:22:41.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안젤리나 졸리, 딸에게 2014년 착용한 드레스 입혀…어디 제품?]]></title>
+        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004658768</id>
+        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004658768"/>
+        <updated>2021-10-19T15:22:40.892Z</updated>
+        <content type="html"><![CDATA[[2014년 오스카 시상식에서 착용한 드레스…당시 브래드 피트 '노예 12년'으로 최우수 작품상 수상] 배우 브래드 피트와 양육권 소송 중인 안젤리나 졸리가 다섯 자녀를 대동하고 자신이 출연한 영화 시사회에 참석한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美 유명 래퍼 웨스트 새 이름은 ‘Ye’]]></title>
         <id>https://entertain.naver.com/now/read?oid=022&amp;aid=0003629773</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012730676"/>
         <updated>2021-10-18T23:22:49.249Z</updated>
         <content type="html"><![CDATA['닥터 스트레인지'. '블랙 팬서', '토르' 속편 출시 몇 달 지연 (로스앤젤레스=연합뉴스) 정윤섭 특파원 = 인기 액션 모험 영화 시리즈 '인디아나 존스' 5편의 개봉 일정이 2023년으로 연기됐다. 또 '닥터]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[래퍼 카녜이 웨스트 개명 완료…새 이름은 예(Ye)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005665080</id>
-        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005665080"/>
-        <updated>2021-10-18T21:17:56.834Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 박병진 기자 = 미국의 유명 래퍼 카녜이 웨스트가 '예'(Ye)로의 개명을 완료했다. 18일(현지시간) AFP통신은 이날 로스앤젤레스 고등법원이 예의 개명 신청을 승인했다고 보도했다. 앞서 예는 지난]]></content>
     </entry>
 </feed>
