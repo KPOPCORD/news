@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 22:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 23:21:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 핫100→글로벌200 상위권 포진]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328296</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328296</guid>
+            <pubDate>Tue, 19 Oct 2021 23:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328296">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/20/TNJI3AcmBgLv637703142504114436.jpg" alt="방탄소년단 핫100→글로벌200 상위권 포진">        <div class="text-box">            <p class="summary">방탄소년단 핫100→글로벌200 상위권 포진</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/20/TNJI3AcmBgLv637703142504114436.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['짙어진' 남우현, #전역 #서른즈음 #냉정과열정사이 [종합]]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/328262</link>
@@ -86,14 +94,6 @@
             <pubDate>Tue, 19 Oct 2021 01:09:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328175">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/19/f21ca8ca-3bf9-49d7-8173-9a5ad991c5c8.jpg" alt="장준·권은비·우즈·조유리, '아이돌라디오2' 남매 케미">        <div class="text-box">            <p class="summary">장준·권은비·우즈·조유리, '아이돌라디오2' 남매 케미</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/19/f21ca8ca-3bf9-49d7-8173-9a5ad991c5c8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10월 3주차 에스파 1위, 임영웅 22로 첫 진입! [M차트]]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328174</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328174</guid>
-            <pubDate>Tue, 19 Oct 2021 01:09:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328174">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/19/c3b3c3e7-0976-424f-bdf3-a5b6f287399d.jpg" alt="10월 3주차 에스파 1위, 임영웅 22로 첫 진입! [M차트]">        <div class="text-box">            <p class="summary">10월 3주차 에스파 1위, 임영웅 22로 첫 진입! [M차트]</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/19/c3b3c3e7-0976-424f-bdf3-a5b6f287399d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
