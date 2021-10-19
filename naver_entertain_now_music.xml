@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-19T19:16:26.633Z</updated>
+    <updated>2021-10-19T20:21:30.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[초점]이수만은 왜 SM엔터를 매각하나…CJ ENM 인수 유력]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010779673</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010779673"/>
+        <updated>2021-10-19T20:21:17.237Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 1989년 설립 SM기획 모태로 1995년 창립 H.O.T·S.E.S~레드벨벳까지 아이돌 배출 '1세대 엔터' 지분율 18.72% 매각…올해 일흔 고령에 후계자 없어 [서울=뉴시스]이재훈 기자 = K팝]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[금잔디→강혜연, ‘찾아가는 전국민 희망콘서트’ 출격]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001362043</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001362043"/>
+        <updated>2021-10-19T20:21:17.237Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 사)대한가수협회(회장 이자연)가 20일(수) 오후 4시 전북 김제에서 ‘찾아가는 전국민 희망콘서트’를 펼친다. 사)대한가수협회와 김제 길보른 종합사회복지관 공동 주최 및 주관, 문화체육관]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박문치→김뜻돌, 온라인 콘서트 ‘CLUB CASPER 2021’ 성료]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001362040</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002997987"/>
         <updated>2021-10-19T10:23:32.455Z</updated>
         <content type="html"><![CDATA['더쇼'에서 이찬원이 '메밀꽃 필무렵'과 '힘을 내세요' 무대를 최초로 공개했다. 19일 오후 방송된 SBS MTV 음악프로그램 '더쇼'에서 이찬원의 무대가 그려졌다. 이날 이찬원이 팬들을 위해 준비한 미니앨범 [.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허성현(Huh!), 이번엔 한국판 EMO 힙합…'MBT' MV 티저 공개]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001361867</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001361867"/>
-        <updated>2021-10-19T10:23:32.456Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김예은 기자) 래퍼 허성현(Huh!)이 한국판 EMO 힙합을 들고 온다. 아메바컬쳐는 19일 오후 공식 SNS와 유튜브를 통해 오는 20일 발매되는 허성현의 새 디지털 싱글 'MBT'의 뮤직비디오 티저]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['짙어진' 남우현, #전역 #서른즈음 #냉정과열정사이 [종합]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=408&amp;aid=0000136319</id>
-        <link href="https://entertain.naver.com/now/read?oid=408&amp;aid=0000136319"/>
-        <updated>2021-10-19T10:23:32.458Z</updated>
-        <content type="html"><![CDATA[가수 남우현이 한층 짙은 색으로 물들었다. 오랜 군 공백기 이후 새 앨범으로 팬들을 찾아온 그는 설레는 표정을 감추지 못했다. 그는 기다려준 팬들에게 전하는 고마움과 앞으로의 활동에서 진실된 모습을 보이고 싶은 의지]]></content>
     </entry>
 </feed>
