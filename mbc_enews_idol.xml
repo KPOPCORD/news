@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 05:19:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 06:25:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘주간아이돌’ 슈퍼주니어 D&E 출격… 은혁, 댄스 배틀 중 ‘굴욕’]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328238</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328238</guid>
+            <pubDate>Tue, 19 Oct 2021 06:24:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328238">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/19/bIt9s6G2eUsw637702511881455049.jpg" alt="‘주간아이돌’ 슈퍼주니어 D&amp;E 출격… 은혁, 댄스 배틀 중 ‘굴욕’">        <div class="text-box">            <p class="summary">‘주간아이돌’ 슈퍼주니어 D&amp;E 출격… 은혁, 댄스 배틀 중 ‘굴욕’</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/19/bIt9s6G2eUsw637702511881455049.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['방과후 설렘', 11월 28일 첫 방송 확정]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/328216</link>
@@ -86,14 +94,6 @@
             <pubDate>Mon, 18 Oct 2021 23:22:04 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328155">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/19/dbJe7knIqQ4L637701985260055383.jpg" alt="조유리, 가을 여신 비주얼 자랑… 오늘도 예쁨 [인스타]">        <div class="text-box">            <p class="summary">조유리, 가을 여신 비주얼 자랑… 오늘도 예쁨 [인스타]</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/19/dbJe7knIqQ4L637701985260055383.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강혜원, 청순+러블리 모두 품은 얼굴 천재 [인스타]]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328154</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328154</guid>
-            <pubDate>Mon, 18 Oct 2021 23:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328154">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/19/GcyvDTvb0Nk2637701984207389013.jpg" alt="강혜원, 청순+러블리 모두 품은 얼굴 천재 [인스타] ">        <div class="text-box">            <p class="summary">강혜원, 청순+러블리 모두 품은 얼굴 천재 [인스타] </p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/19/GcyvDTvb0Nk2637701984207389013.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
