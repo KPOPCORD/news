@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-19T11:17:32.100Z</updated>
+    <updated>2021-10-19T12:32:39.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남우현, '위드' 솔로 컴백 "팬들과 난 사랑과 사랑사이"]]></title>
+        <id>https://entertain.v.daum.net/v/20211019202900514</id>
+        <link href="https://entertain.v.daum.net/v/20211019202900514"/>
+        <updated>2021-10-19T12:32:05.042Z</updated>
+        <content type="html"><![CDATA[[TV리포트=김은정 기자] 남우현이 남다른 팬사랑을 드러냈다. 인피니트 남우현이 19일 오후 V라이브에서 미니 4집 '위드(With)' 발매기념 팬 쇼케이스를 진행했다. '위드'는 남우현이 약 2년 5개월 만에 선보이는 새 미니 앨범이자 지난 8월 소집해제 후 본격적인 활동 재개를 알리는 새 출발점이다.&nbsp; 타이틀곡 '냉정과 열정 사이'는 몽환적인 분위기의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["스스로 채찍질"..'컴백' 남우현, 고민의 연속]]></title>
         <id>https://entertain.v.daum.net/v/20211019195003599</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211019172319664"/>
         <updated>2021-10-19T08:24:34.818Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김지하 기자] 그룹 인피니트 남우현이 솔로가수로서의 ‘전성기’를 가져다 줄 앨범으로 돌아왔다. 남우현의 네 번째 솔로 미니앨범 ‘위드’(With) 발매 기념 온라인 쇼케이스가 19일 오후 유튜브를 통해 생중계됐다. ‘위드’는 남우현이 약 2년 5개월 만에 선보이는 새 앨범이다. 컴백을 기다려준 팬들과 함께하고자 하는 남우현의 의지를 담았다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임영웅 "신곡 사랑해주신 덕분에 주변 난리법석..감사"]]></title>
-        <id>https://entertain.v.daum.net/v/20211019172111622</id>
-        <link href="https://entertain.v.daum.net/v/20211019172111622"/>
-        <updated>2021-10-19T08:24:34.826Z</updated>
-        <content type="html"><![CDATA[가수 임영웅이 신곡을 사랑해주는 팬들에게 감사 인사를 전했다. 임영웅은 19일 ‘영웅시대’ 팬카페에 모처럼 글을 올렸다. 임영웅은 “정말 오랜만에 카페에 글을 씁니다. 여러분 다들 잘 지내시죠?! 저는 늘 덕분에 잘 지내고 있습니다!”라고 근황을 전했다. 임영웅은 “여러분들께서 신곡을 너무 사랑해주시는 덕분에 주변에서 아주 난리난리 난리법석입니다”라면서]]></content>
     </entry>
 </feed>
