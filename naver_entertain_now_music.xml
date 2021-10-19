@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-19T17:24:34.012Z</updated>
+    <updated>2021-10-19T18:23:45.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스테이씨X메이크스타, 일대일 영통+온라인 하이터치' 예고]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001362038</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001362038"/>
+        <updated>2021-10-19T18:23:32.136Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 그룹 스테이씨(STAYC)가 메이크스타와 함께 '역대급 이벤트'로 글로벌 팬들을 만난다. 글로벌 엔터테인먼트 플랫폼 메이크스타는 지난 18일 오후 스테이씨의 첫 번째 미니앨범 '스테레오타]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[후즈팬 카페, 가수 우즈-팬클럽 무즈를 위한 특별 이벤트 진행]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001362037</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000768273"/>
         <updated>2021-10-19T09:20:42.154Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 래퍼 허성현(Huh!)이 한국판 EMO 힙합을 들고 온다. 아메바컬쳐는 19일 오후 공식 SNS와 유튜브를 통해 오는 20일 발매되는 허성현의 새 디지털 싱글 ‘MBT’의 뮤직비디오 티저 영상을 공개했]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT 127 'Sticker' 빌보드 200 132위 4주 차트인[공식]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002997971</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002997971"/>
-        <updated>2021-10-19T09:20:42.154Z</updated>
-        <content type="html"><![CDATA[아이돌그룹 NCT 127이 정규 3집 'Sticker'(스티커)로 빌보드 200 차트 4주 연속 차트인에 성공했다. 19일(한국 시각) 업데이트된 빌보드 최신 차트에 따르면 NCT 127 정규 3집 'Sticker']]></content>
     </entry>
 </feed>

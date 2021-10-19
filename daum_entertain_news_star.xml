@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-10-19T17:24:34.015Z</updated>
+    <updated>2021-10-19T18:23:45.762Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김선호 소속사 솔트엔터테인먼트 홈페이지 또 '먹통'..접속 불가]]></title>
+        <id>https://entertain.v.daum.net/v/20211020022457192</id>
+        <link href="https://entertain.v.daum.net/v/20211020022457192"/>
+        <updated>2021-10-19T18:23:19.598Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 박형진 기자] 배우 김선호 소속사 솔트엔터테인먼트 홈페이지가 20일 새벽 1시쯤 접속량 초과로 접속이 불가능하다. 기자 출신 유튜버 이진호가 '대세 배우 K는 김선호였다'는 제목의 라이브 방송을 진행한 지난 18일부터 3일째 홈페이지 접속이 되지 않고 있다. 전송량은 매일 자정을 기준으로 자동 초기화돼 본지가 자정에 솔트엔터테인먼트 홈페이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['옥문아들' 전소민 "3대 주당? 오해.. 한 시간에 한 병 마셔"]]></title>
         <id>https://entertain.v.daum.net/v/20211020005102645</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211019233901103"/>
         <updated>2021-10-19T15:22:12.902Z</updated>
         <content type="html"><![CDATA[이상민이 현실에 오징어게임이 있었다면 나갔을 것이라고 말했다. 19일 방송된 SBS '신발벗고 돌싱포맨2'에는 정용화, 최시원이 돌싱포맨을 찾아오는 모습이 그려졌다. 탁재훈은 이상민에게 "너 왜 거기 안 나왔냐"고 대뜸 이야기를 꺼냈다. 이상민이 "어디"라고 묻자 탁재훈은 "오징어 게임"이라고 말했다. 그는 "거기 빚지고 이런 사람들 다 나오던데 네가 없]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이상민 "'오징어게임' 박해수 빚 60억? 실제 내 빚이 더 많았다"]]></title>
-        <id>https://entertain.v.daum.net/v/20211019233850099</id>
-        <link href="https://entertain.v.daum.net/v/20211019233850099"/>
-        <updated>2021-10-19T15:22:12.902Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 이지현 기자 = '돌싱포맨' 이상민이 과거 수십 억대의 빚을 담담하게 밝혔다. 19일 오후 방송된 SBS 예능 프로그램 '신발 벗고 돌싱포맨'에서는 세계적으로 화제를 모으고 있는 넷플릭스 '오징어게임'이 언급됐다. 탁재훈은 이상민을 향해 "너도 거기 가야하는 거 아니냐, 빚지고 그런 애들 다 참가하는데"라며 "네가 분명 있을 테니까]]></content>
     </entry>
 </feed>
