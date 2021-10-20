@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-20T19:17:14.467Z</updated>
+    <updated>2021-10-20T20:21:57.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['올해의 포토톡 스타 1위' 임영웅 버스가 달립니다]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002998327</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002998327"/>
+        <updated>2021-10-20T20:21:42.315Z</updated>
+        <content type="html"><![CDATA['올해의 포토록 스타 1위'에 오른 임영웅의 얼굴이 담긴 버스가 달린다. 임영웅은 팬앤스타 포토톡 9월 6일부터 9월 27일까지 집계에서 1위를 차지, 10월 18일부터 한 달 간 버스 광고가 진행된다. 임영웅의 버]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[노이즈, “엔딩 자리 놓고 R.ef와 기싸움한 적 있어” (DJ SHOW! 9595)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001362471</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001362471"/>
+        <updated>2021-10-20T20:21:42.315Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) TBS 'DJ SHOW! 9595'에 90년대를 풍미한 전설의 가수 ‘노이즈’가 출격했다. 20일(수) 방송된 TBS 'DJ SHOW! 9595'에는 1세대 댄스그룹으로 인기를 누렸던 ‘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트레저 ‘오렌지’, ‘후즈팬’ 투표서 아이돌 최고의 가을 감성곡 선정]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001362469</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001362302"/>
         <updated>2021-10-20T09:20:34.697Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) 가수 거미가 이별의 감정을 담은 신곡으로 돌아왔다. 거미 새 싱글 '그래도 사랑이었잖아'는 20일 오후 6시 각종 온라인 음원사이트를 통해 공개됐다. 이번 신곡 '그래도 사랑이었잖아"는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["떠나지 않아"…은혁, 꿈으로 가득한 그 시절의 '비' [쥬크박스]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001362301</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001362301"/>
-        <updated>2021-10-20T09:20:34.698Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) 그룹 슈퍼주니어 은혁이 데뷔 첫 싱글을 발표하며 솔로 가수로서 음악적 역량을 드러냈다. 은혁 데뷔 첫 싱글 '비(be)'는 20일 오후 6시 각종 온라인 음원사이트를 통해 공개됐다. 타이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가을엔 역시 믿고 듣는 거미…‘그래도 사랑이었잖아’ [MK★컴백]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000824504</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000824504"/>
-        <updated>2021-10-20T09:20:34.700Z</updated>
-        <content type="html"><![CDATA[믿고 듣는 발라드여제 ‘거미’가 돌아왔다. 거미는 20일 오후 6시 새로운 싱글 ‘그래도 사랑이었잖아’를 발매했다. 제작사 니즈뮤직 엔터테인먼트는 뮤지션 맞춤형 음악 제작 프로젝트 ‘감정공유’의 첫번째 싱글로 거미의]]></content>
     </entry>
 </feed>
