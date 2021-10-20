@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-20T10:23:01.175Z</updated>
+    <updated>2021-10-20T11:17:44.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[中 OTT, '오징어 게임' 표절?…새 예능 '오징어의 승리' 런칭 예고 [엑's 차이나]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001362349</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001362349"/>
+        <updated>2021-10-20T11:17:43.804Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 넷플릭스 오리지널 시리즈 '오징어 게임'의 엄청난 인기가 이어지고 있는 가운데, 중국의 노골적인 베끼기가 다시금 기승을 부린다. 최근 중국의 OTT 서비스 요우쿠(YOUKU)는 예능 프로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쿠엔틴 타란티노, 20세 연하 모델 아내와 레드카펫서 입맞춤 [N해외연예]]]></title>
         <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005670195</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000824471</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000824471"/>
         <updated>2021-10-20T07:20:40.791Z</updated>
-        <content type="html"><![CDATA[라잇썸이 19일 서울 마포구 상암동 SBS프리즘타워에서 진행된 SBS MTV '더쇼' 생방송 무대에 참석해 멋진 무대를 선보이고 있다. 사진=SBS MTV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라잇썸 '섹시 카리스마' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000824469</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000824469"/>
-        <updated>2021-10-20T07:20:40.792Z</updated>
         <content type="html"><![CDATA[라잇썸이 19일 서울 마포구 상암동 SBS프리즘타워에서 진행된 SBS MTV '더쇼' 생방송 무대에 참석해 멋진 무대를 선보이고 있다. 사진=SBS MTV]]></content>
     </entry>
 </feed>
