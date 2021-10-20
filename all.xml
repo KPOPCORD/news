@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 01:09:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 03:22:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211011074153_051f5d736173b7d165f56ef21c5f674f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[프랑스 뮤지컬 '노트르담 드 파리' 11월 세종 대극장 개막 (KBS연예 ─ 연예)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=166950</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=166950</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=166950">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211020110152_89fee6fe47e7bc791421fb8c4c0238d4.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=166950">프랑스 뮤지컬 '노트르담 드 파리' 11월 세종 대극장 개막</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211020110152_89fee6fe47e7bc791421fb8c4c0238d4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김선호 공식입장 발표 "진심으로 죄송합니다" (KBS연예 ─ 연예)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=166916</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=166916</guid>
@@ -671,21 +688,28 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211007094758_277c0dba9ddfafeba01fc2c9fe1c9fe6.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[창작뮤지컬 '팬레터' 12월 코엑스아티움 개막 (KBS연예 ─ 연예)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=164366</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=164366</guid>
-            <pubDate>Thu, 07 Oct 2021 08:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164366">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211006125750_5feaa85454d3f2c3c5b9b4e7a85a30a1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=164366">창작뮤지컬 '팬레터' 12월 코엑스아티움 개막</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211006125750_5feaa85454d3f2c3c5b9b4e7a85a30a1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[2am 콘셉트 눈길…임슬옹→조권, 가을 분위기 (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328327</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328327</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328327">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/20/1ivERIg2FMxv637703231522214499.jpg" alt="2am 콘셉트 눈길…임슬옹→조권, 가을 분위기">        <div class="text-box">            <p class="summary">2am 콘셉트 눈길…임슬옹→조권, 가을 분위기</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/20/1ivERIg2FMxv637703231522214499.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['야생돌' 측 "'매운맛' 서바이벌 시작, 정글같은 현실 반영" (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328321</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328321</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328321">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/20/2eca81a8-51d2-4f7c-9ec0-7704e96f1cff.jpg" alt="'야생돌' 측 " '매운맛'="" 서바이벌="" 시작,="" 정글같은="" 현실="" 반영""="">        <div class="text-box">            <p class="summary">'야생돌' 측 "'매운맛' 서바이벌 시작, 정글같은 현실 반영"</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/20/2eca81a8-51d2-4f7c-9ec0-7704e96f1cff.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이진혁, ‘왜 오수재인가’ 출연 확정! 대통령 꿈꾸는 ‘남춘풍’ 역 캐스팅 (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328323</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328323</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328323">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/20/ZCv46oPlzSI5637703217165564097.jpg" alt="이진혁, ‘왜 오수재인가’ 출연 확정! 대통령 꿈꾸는 ‘남춘풍’ 역 캐스팅">        <div class="text-box">            <p class="summary">이진혁, ‘왜 오수재인가’ 출연 확정! 대통령 꿈꾸는 ‘남춘풍’ 역 캐스팅</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/20/ZCv46oPlzSI5637703217165564097.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘쇼챔피언’ 문빈·윤산하·강민, ‘딴콩민’ 표 퍼포먼스+엔하이픈 컴백 무대 선사 (MBC 연예 ─ 아이돌)]]></title>
@@ -752,28 +776,88 @@
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/19/bIt9s6G2eUsw637702511881455049.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['방과후 설렘', 11월 28일 첫 방송 확정 (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328216</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328216</guid>
-            <pubDate>Tue, 19 Oct 2021 05:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328216">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/19/e3d25e7f-3611-44ec-9133-0262175313c8.jpg" alt="'방과후 설렘', 11월 28일 첫 방송 확정">        <div class="text-box">            <p class="summary">'방과후 설렘', 11월 28일 첫 방송 확정</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/19/e3d25e7f-3611-44ec-9133-0262175313c8.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[컴백 남우현 "잊고 있던 나와 마주한 느낌" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211020115729540</link>
+            <guid>https://entertain.v.daum.net/v/20211020115729540</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 그룹 인피니트(INFINITE) 남우현이 돌아왔다.남우현은 지난 19일 오후 6시 미니 4집 ‘위드’(With)를 발매하며 귀환을 알렸다.‘위드’는 남우현이 약 2년 5개월 만에 선보이는 새 미니 앨범으로 컴백을 기다려준 팬들과 함께하고자 하는 의지가 담겼다.인트로 ‘위드’, 타이틀곡 ‘냉정과 열정 사이’, ‘론리 나이트’(Lonely Ni]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에스파, 2주 연속 케이팝 레이더 주간 차트 1위 (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328183</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328183</guid>
-            <pubDate>Tue, 19 Oct 2021 02:33:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328183">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/19/9ae22888-c8e0-449b-af8b-49ed6c17dddc.jpg" alt="에스파, 2주 연속 케이팝 레이더 주간 차트 1위">        <div class="text-box">            <p class="summary">에스파, 2주 연속 케이팝 레이더 주간 차트 1위</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/19/9ae22888-c8e0-449b-af8b-49ed6c17dddc.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[CL 첫 정규 'ALPHA' 발매..관전 포인트 셋 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211020113617648</link>
+            <guid>https://entertain.v.daum.net/v/20211020113617648</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] [DA:투데이] CL 첫 정규 ‘ALPHA’ 발매…관전 포인트 셋 CL의 첫 솔로 정규앨범 ‘ALPHA’가 오늘(20일) 오후 1시, 드디어 베일을 벗는다. ‘ALPHA’는 지난해 더욱 완성도를 높이기 위해 한차례 연기를 한 바 있기에 이번 발매는 더욱 의미가 깊다. 앨범 발매에 앞서 CL의 컴백과 ‘ALPHA’에 대한 포인트를 소개한다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박지훈, 물 오른 고품격 비주얼 (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328187</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328187</guid>
-            <pubDate>Tue, 19 Oct 2021 02:33:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328187">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/19/31c381bd-d598-4a0a-8727-522fef55eafb.jpg" alt="박지훈, 물 오른 고품격 비주얼">        <div class="text-box">            <p class="summary">박지훈, 물 오른 고품격 비주얼</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/19/31c381bd-d598-4a0a-8727-522fef55eafb.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[방탄소년단 RM, 탄생 9900일 최애돌 기부요정 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211020112145971</link>
+            <guid>https://entertain.v.daum.net/v/20211020112145971</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 윤상근 기자] /사진제공=최애돌톱 아이돌그룹 방탄소년단(BTS, RM 진 지민 제이홉 슈가 뷔 정국) 멤버 RM이 최애돌 기부요정으로 선정됐다. RM은 아이돌 순위 서비스 최애돌에서 지난 19일 6236만 15표를 받아 제223대 기부요정에 이름을 올렸다. RM이 태어난 지 9900일째 되는 날 팬덤 아미가 활발한 응원과 함께 힘을 모았다. 아미]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["명실상부 K팝 강자"..몬스타엑스, 美 빌보드 '팝 에어플레이' 차트 2주 연속 진입 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211020103954709</link>
+            <guid>https://entertain.v.daum.net/v/20211020103954709</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=이승훈 기자] 그룹 몬스타엑스(MONSTA X)가 싱글 ‘One Day(원 데이)’로 미국에서 새로운 차트를 썼다.&nbsp; 미국 음악 전문 매체 빌보드가 19일(미국 현지시간) 발표한 최신 ‘팝 에어플레이(POP AIRPLAY)’ 차트(10월 23일 자)에 따르면 몬스타엑스의 ‘One day’는 34위를 기록, 2주 연속 진입에 성공했다.&nbsp; 매주 미국]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[에스파, 美 빌보드 10개 차트 입성..K팝 걸그룹 최고 순위 진입 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211020103436452</link>
+            <guid>https://entertain.v.daum.net/v/20211020103436452</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이슬 기자) ‘메타버스 걸그룹’ 에스파(aespa)가 첫 미니앨범 ‘Savage’(새비지)로 미국 빌보드 차트를 휩쓸었다. 에스파는 첫 미니앨범 ‘Savage’로 19일(현지시간) 발표된 미국 빌보드의 메인 차트 ‘빌보드 200’ 20위에 올라 K팝 걸그룹 첫 앨범 사상 최고 순위를 기록했으며, 아티스트의 영향력과 인기를 확인할 수 있는 또]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[송하예, 23일 '사랑했던 우리가 어떻게 친구가 되니'로 컴백 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211020103325419</link>
+            <guid>https://entertain.v.daum.net/v/20211020103325419</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 이덕행 기자] /사진=다날 엔터테인먼트가수 송하예가 독보적인 이별 감성을 녹인 발라드 신곡으로 리스너들을 찾는다. 송하예는 오는 23일 오후 6시 새 싱글 '사랑했던 우리가 어떻게 친구가 되니(사우친)' 발매를 확정했다. 신곡 '사랑했던 우리가 어떻게 친구가 되니'는 사랑했던 순간을 지나 이별을 마주한 남녀의 복잡한 감정을 담은 발라드 곡으로,]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김성은 더블유아이피 대표 "한때 가수 꿈꿨죠..MC스나이퍼·스컬 함께 작업" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211020103025249</link>
+            <guid>https://entertain.v.daum.net/v/20211020103025249</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 윤상근 기자] [편집자주] [스타메이커] 스타뉴스가 스타를 만든 '스타 메이커'(Star Maker)를 찾아갑니다. '스타메이커'는 대중의 사랑을 받는 스타 뿐만 아니라 차세대 스타를 발굴한 국내 대표 '엔터인(人)'과 만남의 장입니다. 2021.10.07 김성은 바른손더블유아이피 대표 인터뷰 /사진=이동훈 기자 photoguy@ 서울 마포구 동]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김성은 더블유아이피 대표 "정국·진·뷔·선미·쯔위 보컬 선생님" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211020103019238</link>
+            <guid>https://entertain.v.daum.net/v/20211020103019238</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 윤상근 기자] [편집자주] [스타메이커] 스타뉴스가 스타를 만든 '스타 메이커'(Star Maker)를 찾아갑니다. '스타메이커'는 대중의 사랑을 받는 스타 뿐만 아니라 차세대 스타를 발굴한 국내 대표 '엔터인(人)'과 만남의 장입니다. (왼쪽부터) 방탄소년단 멤버 정국, 진, 뷔 /사진=스타뉴스-인터뷰①에 이어서 -방탄소년단을 비롯해 수많은 인]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김성은 더블유아이피 대표 "루미너스, 올라운드 아티스트 꿈꾼다" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211020103015227</link>
+            <guid>https://entertain.v.daum.net/v/20211020103015227</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 윤상근 기자] [편집자주] [스타메이커] 스타뉴스가 스타를 만든 '스타 메이커'(Star Maker)를 찾아갑니다. '스타메이커'는 대중의 사랑을 받는 스타 뿐만 아니라 차세대 스타를 발굴한 국내 대표 '엔터인(人)'과 만남의 장입니다. 2021.10.07 김성은 바른손더블유아이피 대표 인터뷰 /사진=이동훈 기자 photoguy@-인터뷰②에 이어]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[원어스, 단독 콘서트 '적월도' 티저 공개..붉게 물든 눈+웅장한 분위기 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211020101745529</link>
+            <guid>https://entertain.v.daum.net/v/20211020101745529</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=지민경 기자]&nbsp;'무대천재' 원어스(ONEUS)가 단독 콘서트 티저 영상을 공개하며 기대감을 높였다.&nbsp; 원어스는 오늘(20일) 0시, 공식 SNS를 통해 단독 콘서트 'ONEUS THEATRE : 적월도(赤月圖)'의 티저 영상을 선보였다.&nbsp; 영상은 마치 한 편의 영화가 상영되듯 공연 타이틀이 나타나면서 시작된다. 이후 텅 빈 좌석에 올블랙 슈트 스]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["토이의 밝은 슬픔 오마주"..박재정, '너의 그 사람'·'마지막 노래' 30일 발매 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211020101716499</link>
+            <guid>https://entertain.v.daum.net/v/20211020101716499</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=이승훈 기자] 가수 박재정이 3개월 만에 신곡으로 돌아온다. 박재정은 오는 30일 각종 온라인 음원 사이트를 통해 새로운 더블 싱글 '너의 그 사람'을 발표한다. 지난 7월 선보인 '취미' 이후 3개월 만에 발표하는 이번 앨범에는 박재정의 보컬적인 매력을 담아낸 '너의 그 사람'과 '마지막 노래' 등 2곡이 수록된다. 타이틀곡 '너의 그 사람'은]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[은혁, 오늘 데뷔 첫 싱글 'be' 공개..전곡 단독 작사 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211020101200227</link>
+            <guid>https://entertain.v.daum.net/v/20211020101200227</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=지민경 기자]&nbsp;은혁이 오늘(20일)&nbsp;데뷔 이래 첫 싱글인 ‘be’(비)를 발매한다. 은혁은 금일 오후&nbsp;6시 각종 음악 사이트를 통해 디지털 싱글 ‘be’ 전곡 음원을 공개하며,&nbsp;동명의 타이틀 곡 ‘be’ 뮤직비디오도 유튜브 및 네이버TV, V LIVE SMTOWN&nbsp;채널에서 동시에 만날 수 있다. 신곡&nbsp;‘be’는 그루브한 리드미컬함이 돋보이는 팝]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[박재정, 3개월만 더블 싱글 컴백 "토이 밝은 슬픔 오마주" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
@@ -797,193 +881,116 @@
             <content:encoded><![CDATA[(엑스포츠뉴스 이슬 기자) CL의 첫 솔로 정규앨범 ‘ALPHA’가 오늘(20일) 오후 1시, 드디어 베일을 벗는다. ‘ALPHA’는 지난해 더욱 완성도를 높이기 위해 한차례 연기를 한 바 있기에 이번 발매는 더욱 의미가 깊다. 앨범 발매에 앞서 CL의 컴백과 ‘ALPHA’에 대한 포인트를 소개한다. # CL의 새로운 청사진 ‘ALPHA’ ‘ALPHA’앨]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[BTS-콜드플레이 '마이 유니버스' 빌보드 싱글 차트 18위 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211020094845121</link>
-            <guid>https://entertain.v.daum.net/v/20211020094845121</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:41 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 김예나 기자 = 그룹 방탄소년단(BTS)과 밴드 콜드플레이가 함께 부른 '마이 유니버스'(My Universe)가 빌보드 메인 차트에서 3주 연속 상위권을 차지했다. 미국의 음악 전문 매체인 빌보드가 19일(현지시간) 발표한 최신 차트에 따르면 '마이 유니버스'는 메인 싱글 차트인 '핫 100'에서 18위를 기록했다. 전주(12위)보다]]></content:encoded>
+            <title><![CDATA['마이 네임' 한소희 "내가 '포스트 전지현'? 말도 안 되는 평" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211020122015289</link>
+            <guid>https://entertain.v.daum.net/v/20211020122015289</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] '마이 네임' 주역 한소희가 '포스트 전지현'이라는 수식어에 대한 생각을 밝혔다. 한소희는 20일 오전 화상 라운드 인터뷰를 진행했다. 앞서 15일 공개된 넷플릭스 오리지널 시리즈 '마이 네임'으로 전 세계 시청자들을 사로잡으며, 이와 관련 이야기꽃을 피웠다. '마이 네임'은 아버지를 죽인 범인을 찾기 위해 조직에 들어간 지]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이진혁, SBS '왜 오수재인가' 캐스팅..연기돌 행보 잇는다 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211020093342449</link>
-            <guid>https://entertain.v.daum.net/v/20211020093342449</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:41 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 안윤지 기자] 가수 이진혁 /사진제공=티오피미디어가수 겸 배우 이진혁이 '연기돌' 행보를 이어간다. 20일 티오피미디어 측은 "이진혁이 SBS 새 드라마 '왜 오수재인가'(극본 김지은, 연출 박수진)에 캐스팅됐다"라고 밝혔다. 이진혁은 2020년 3월 MBC '그 남자의 기억법'으로 첫 연기를 시작해 JTBC 시트콤 '놓지마 정신줄', KBS]]></content:encoded>
+            <title><![CDATA[한소희 "'마이 네임' 통해 최대치 쾌락 느껴..전세계 공개? 마음 붕 떠" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211020122004280</link>
+            <guid>https://entertain.v.daum.net/v/20211020122004280</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 배우 한소희가 '마이 네임' 출연 소회를 밝혔다. 한소희는 20일 오전 화상 라운드 인터뷰를 진행했다. 앞서 15일 공개된 넷플릭스 오리지널 시리즈 '마이 네임'으로 전 세계 시청자들을 사로잡으며, 이와 관련 이야기꽃을 피웠다. '마이 네임'은 아버지를 죽인 범인을 찾기 위해 조직에 들어간 지우(한소희/오혜진 역)가 새로운]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['판타지돌'이 돌아온다! '컴백 D-1' 킹덤, 기대 포인트 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211020092810204</link>
-            <guid>https://entertain.v.daum.net/v/20211020092810204</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:41 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김수진 기자] '판타지돌' 킹덤(KINGDOM)이 보다 강렬한 모습으로 돌아온다. 킹덤은 오는 21일 오후 6시 세 번째 미니앨범 'History Of Kingdom : Part Ⅲ. IVAN(히스토리 오브 킹덤 : 파트 3. 아이반)'을 발매하고 본격적인 컴백활동에 나선다. 그간 자신들만의 세계관을 확장시켜온 킹덤이기에, 이들의 컴백에 더욱 특]]></content:encoded>
+            <title><![CDATA['낙태 종용' 김선호, 논란 3일만 뒤늦은 사과..'대세 배우'의 추락 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211020121517161</link>
+            <guid>https://entertain.v.daum.net/v/20211020121517161</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 이우주 기자] 배우 김선호가 자신이 'K배우' 임을 인정하고 사과했다. 그러나 뒤늦은 인정과 사과로 돌아선 여론의 후폭풍이 이제 시작될 것으로 보인다. 김선호는 20일 소속사 솔트 엔터테인먼트를 통해 사과문을 게재했다. 김선호는 "저는 그 분과 좋은 감정으로 만났다. 그 과정에서 저의 불찰과 사려 깊지 못한 행동으로 그 분께]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[CL, 베일 벗는 정규 1집 '알파'..20일 정식 발매 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211020092804201</link>
-            <guid>https://entertain.v.daum.net/v/20211020092804201</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:41 GMT</pubDate>
-            <content:encoded><![CDATA[가수 CL이 전곡 작사, 작곡에 참여하는 등 음악적 역량을 총동원한 앨범을 내놓는다. 20일 오후 1시 CL의 첫 솔로 정규앨범 'ALPHA'(알파)가 각종 음원 사이트를 통해 발매된다. 'ALPHA'는 지난해 더욱 완성도를 높이기 위해 한차례 연기를 한 바 있기에 이번 발매는 더욱 의미가 깊다. 앨범 발매에 앞서 CL의 컴백과 'ALPHA'에 대]]></content:encoded>
+            <title><![CDATA['유 퀴즈' 정호연 출격, '오징어 게임' 비하인드 공개 '반전 매력' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211020121203094</link>
+            <guid>https://entertain.v.daum.net/v/20211020121203094</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 김나연 기자] ‘유 퀴즈 온 더 블럭’에 글로벌 대세로 발돋움한 배우 정호연이 출격한다. 20일 저녁 8시 40분 방송되는 ‘유 퀴즈 온 더 블럭’ 127회에는 지난 예고편에 등장해 큰 화제를 모았던 배우 정호연과 사람 여행을 떠난다. 또한, 조세호의 사촌 형 조현권 신부, 댄스 커버계 최강 남매, 아이들에게 빵을 선물하는 제빵사 자기님도]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[CL, 오늘 첫 정규앨범 'ALHPA' 컴백 #청사진 #글로벌 #독보적 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211020092033914</link>
-            <guid>https://entertain.v.daum.net/v/20211020092033914</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:41 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 윤상근 기자] /사진제공=CL 가수 CL이 첫 솔로 정규앨범 'ALPHA'로 돌아온다. CL은  20일 오후 1시 'ALPHA'를 발매한다. 'ALPHA'는 지난해 더욱 완성도를 높이기 위해 한차례 연기를 한 바 있기에 이번 발매는 더욱 의미가 깊다. /사진제공=CL◆ CL의 새로운 청사진 'ALPHA' 'ALPHA'는 2019년 발표했던 '사]]></content:encoded>
+            <title><![CDATA[김선호, '사생활 논란'으로 모든 것 잃었다..KBS "'1박 2일' 하차" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211020121135076</link>
+            <guid>https://entertain.v.daum.net/v/20211020121135076</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 문지연 기자] 배우 김선호가 결국 '1박 2일'에서 하차한다. 김선호가 결국 K배우가 자신임을 인정함에 따라 현재 출연 중인 KBS 2TV '1박 2일'에서의 하차가 불가피하게 됐다. 이번 주 방송분은 최대한 편집될 예정, 다음주 녹화에도 김선호는 등장하지 않는다. KBS는 "제작진은 최근 논란이 된 김선호 씨의 하차를 결정하게]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[CL 컴백 D-DAY, 첫 정규앨범 'ALPHA' 관전포인트 셋 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211020092016905</link>
-            <guid>https://entertain.v.daum.net/v/20211020092016905</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:41 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 가수 CL(씨엘)의 첫 솔로 정규앨범 ‘ALPHA’(알파)가 공개된다. 10월 20일 오후 1시 CL의 새 정규음반이 발매된다. 씨엘은 지난해 완성도를 높이기 위해 앨범 발매 시기를 한 차례 연기했다. 앨범 발매에 앞서 CL의 컴백과 ‘ALPHA’에 대한 포인트가 공개됐다. # CL의 새로운 청사진 ‘ALPHA’ ‘ALPHA’앨범은]]></content:encoded>
+            <title><![CDATA['1박2일'도 김선호를 버렸다. "통편집 & 하차" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211020120822974</link>
+            <guid>https://entertain.v.daum.net/v/20211020120822974</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[배우 김선호의 사생활 문제와 관련해 KBS가 입장을 밝혔다. 17일 커뮤니티에서 시작된 김선호의 사생활 폭로와 관련, 긴 침묵의 시간을 가진 김선호가 20일 오전 사실관계를 인정하며 사죄하는 공식 입장을 밝혔다. 이와 더불어 현재 출연중인 KBS 예능 '1박2일'은 김선호의 하차를 공식적으로 밝혔다. KBS는 "안녕하세요. KBS2 '1박 2일 시즌4']]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[NCT 127 신곡 '페이보릿', 단편 소설로 먼저 만난다 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211020091553718</link>
-            <guid>https://entertain.v.daum.net/v/20211020091553718</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:41 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 강다윤 기자] NCT 127(엔시티 127)의 신곡 '페이보릿(Favorite)'을 단편 소설로 미리 만날 수 있는 이색 콘텐츠가 공개됐다. 20일부터 22일까지 3일간 NCT 127 공식 SNS 계정을 통해 연재되는 '스토리 오브 페이보릿(Story Of Favorite)'은 신곡 '페이보릿(Favorite)'의 가사를 모티브로 한 단편]]></content:encoded>
+            <title><![CDATA[김선호, '1박2일' 하차한다..'K배우' 후폭풍 시작 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211020120638920</link>
+            <guid>https://entertain.v.daum.net/v/20211020120638920</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 오윤주 기자] 배우 김선호가 KBS 2TV 예능 프로그램 '1박2일 시즌 4'에서 하차한다. 20일 '1박2일 시즌 4' 측 관계자는"최근 논란이 된 김선호씨의 하차를 결정하게 됐다"고 밝혔다. 이어 "이미 촬영된 방송분에 대해서는 최대한 편집해 시청자분들의 불편함을 최소화할 계획이다"라고 덧붙였다. 김선호는 지난 17일 네이트 판에 올라]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['D.P.' 음악감독 프라이머리, 20일 멜론 스테이션 출연 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211020091316612</link>
-            <guid>https://entertain.v.daum.net/v/20211020091316612</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:41 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김수진 기자] 넷플릭스 'D.P.' 음악감독이자 인기 프로듀서 프라이머리가 멜론 스테이션 '영화&amp; 박선영입니다'에 출연한다. 20일 멜론은 "지난해 공개된 넷플릭스 영화 '사냥의 시간' OST 및 화제의 드라마 'D.P.'의 음악감독으로 활약한 프라이머리가 오늘 오전 10시 멜론을 통해 공개되는 '영화&amp; 박선영입니다'에 출연해 특별한 영화와]]></content:encoded>
+            <title><![CDATA[YGX 예리, '스우파' 탈락 소감 "민폐·이슈로 인해 좌절하기도.." (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211020120024667</link>
+            <guid>https://entertain.v.daum.net/v/20211020120024667</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이슬 기자) '스우파' 탈락 크루 YGX 예리가 소감을 전했다. 예리는 20일 자신의 인스타그램에 "먼저 그동안 YGX를 응원해주신 모든 분들, 항상 든든하게 서포트 해주신 YGX 가족분들, 그리고 여정을 함께한 우리 멤버들 너무 감사하고 사랑합니다"라는 글과 함께 사진을 게재했다. 공개된 사진에는 Mnet '스트릿 우먼 파이터'(이하 '스]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[투모로우바이투게더 '혼돈의 장: FREEZE' 美 빌보드 4개 차트인 '글로벌 돌풍' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211020091155564</link>
-            <guid>https://entertain.v.daum.net/v/20211020091155564</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:41 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] ‘2021년 글로벌 대세 보이그룹’ 투모로우바이투게더의 ‘혼돈의 장: FREEZE’가 다수의 미국 빌보드 차트에서 역주행하며 식지 않은 인기를 증명했다. 10월 19일(현지시간) 미국 음악 전문 매체 빌보드가 발표한 최신 차트(10월 23일 자)에 따르면 투모로우바이투게더(수빈, 연준, 범규, 태현, 휴닝카이)의 정규 2집 ‘혼돈의]]></content:encoded>
+            <title><![CDATA[김선호 '1박2일' 하차 "최대한 편집" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211020115915589</link>
+            <guid>https://entertain.v.daum.net/v/20211020115915589</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴]  김선호 ‘1박2일’ 하차 “최대한 편집” [전문] 배우 김선호가 사생활 논란으로 결국 KBS2 ‘1박2일’에서 하차한다. 20일 ‘1박2일’ 시즌4 제작진은 “최근 논란이 된 김선호 씨의 하차를 결정하게 됐다”고 발표했다. 이들은 “이미 촬영된 방송분에 대해서는 최대한 편집해 시청자분들의 불편함을 최소화할 계획”이라며 “앞으로 최선을 다해]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['컴백' 박지훈, 청춘의 자화상 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211020091032507</link>
-            <guid>https://entertain.v.daum.net/v/20211020091032507</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:41 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=선미경 기자] 가수 박지훈이 극과 극의 매력을 보여줬다. 박지훈은 20일 0시 공식 SNS를 통해 다섯 번째 미니앨범 'HOT&amp;COLD(핫 앤 콜드)'의 두 번째 콘셉트 포토 2장을 공개했다. 먼저 첫 번째 사진 속 박지훈은 우수에 찬 눈빛으로 한곳을 응시하고 있다. 밤거리로 보이는 배경과 슬쩍 흘러내린 의상이 다소 흐트러진 인상을 주는 가운데,]]></content:encoded>
+            <title><![CDATA['와카남' 은가은, 이상준에 뽀뽀 도장 '꾹' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211020115846572</link>
+            <guid>https://entertain.v.daum.net/v/20211020115846572</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] ‘와카남 팸’이 요절복통 일상을 공개하며 정보와 웃음, 감동을 선사했다. 지난 19일(화) 방송된 TV CHOSUN 가족 예능 ‘와이프 카드 쓰는 남자’(이하 ‘와카남’) 16회 방송에서는 최용수-전윤정 부부와 홍현희-은가은-김수현의 ‘독수리 부대 김장 전투’, 이상준-은가은의 ‘뽀뽀를 찾아서’ 그리고 여에스더로부터 뇌질환에 대한 정보를 듣]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에스파, 美 빌보드 10개 차트입성..'새비지' 신드롬 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211020090932470</link>
-            <guid>https://entertain.v.daum.net/v/20211020090932470</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:41 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 백지은 기자] '메타버스 걸그룹' 에스파가 첫 미니앨범 '새비지'로 미국 빌보드 차트를 휩쓸었다. 에스파는 첫 미니앨범 '새비지'로 19일(현지시간) 발표된 미국 빌보드의 메인 차트 '빌보드 200' 20위에 올라 K팝 걸그룹 첫 앨범 사상 최고 순위를 기록했으며, 아티스트의 영향력과 인기를 확인할 수 있는 또 다른 메인 차트 ']]></content:encoded>
+            <title><![CDATA['마이 네임' 한소희 "내 한계를 실험하고 싶었다..시즌2? 뭘 보여드려야" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211020115817562</link>
+            <guid>https://entertain.v.daum.net/v/20211020115817562</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 문지연 기자] 배우 한소희(27)가 '마이 네임'으로 자신의 한계를 깼다. 한소희는 20일 오전 온라인을 통해 스포츠조선과 만나 넷플릭스 오리지널 시리즈 '마이 네임'(김바다 극본, 김진민 연출)의 화상 인터뷰를 진행했다. 한소희는 "촬영이 끝난지 벌써 1년이 넘었다. 이제 오픈을 하니까 지금 촬영하는 것처럼 마음이 요즘 붕떠서]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[투모로우바이투게더 'FREEZE' 빌보드 4개 차트 '역주행' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211020090925461</link>
-            <guid>https://entertain.v.daum.net/v/20211020090925461</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:41 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 윤상근 기자] 그룹 투모로우바이투게더(TOMORROW X TOGETHER)가 17일 오후 온라인 생중계로 열린 정규 2집 리패키지 앨범 '혼돈의 장: 파이트 오어 이스케이프(FIGHT OR ESCAPE)' 발매기념 쇼케이스에서 멋진 무대를 선보이고 있다.  이번 앨범 타이틀 곡 'LO$ER=LO♡ER'는 이모 팝 펑크 장르의 곡으로, 세상의 시선]]></content:encoded>
+            <title><![CDATA[김구라 아내 독박육아 비난, 선 넘은 오지랖 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211020115728539</link>
+            <guid>https://entertain.v.daum.net/v/20211020115728539</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이해정 기자] 방송인 김구라가 육아에 참여하지 않는다는 비난에 휩싸였다. 늦둥이 소식을 알리는 것도 쑥스러워했던 김구라가 육아 예능이라도 나와야 하는 걸까. 최근 김구라는 SBS '동상이몽2-너는 내 운명'에 출연해 "아이는 처가에 있어 잠은 잘 잔다"고 밝혔다. 같은 날 IHQ '리더의 연애'에서는 "나는 우리 애를 일주일에 한두 번 밖에 안]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['스우파' YGX 예리 "민폐+이슈들로 좌절감 찾아오기도.." (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211020100815074</link>
-            <guid>https://entertain.v.daum.net/v/20211020100815074</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 댄스 크루 YGX가 '스트릿 우먼 파이터'(이하 '스우파')에서 탈락한 가운데, 멤버 예리가 출연 소회를 밝혔다. 19일 오후 방송된 케이블채널 엠넷 '스우파' 8회에선 세미파이널 미션 결과가 공개됐다. 그 결과 YGX는 프라우드먼과 함께 탈락의 고배를 마셨다. 훅, 라치카, 코카N버터, 홀리뱅 네 크루는 대망의 파이널 무대]]></content:encoded>
+            <title><![CDATA[프라우드먼 립제이 '스우파' 탈락 소감 "멋진 여자들과 경쟁, 즐거웠다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211020115709528</link>
+            <guid>https://entertain.v.daum.net/v/20211020115709528</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박수인 기자] 프라우드먼 크루 멤버 립제이가 '스트릿 우먼 파이터' 탈락 소감을 밝혔다. 립제이는 10월 19일 개인 SNS에 Mnet '스트릿 우먼 파이터' 출연 인증샷과 함께 장문의 글을 게재했다. "아쉽지만 감사함이 더 많다"는 립제이는 "한순간 한순간이 기적 같았고 뜨거웠다. 팀전에 약한 저에게 함께 나누고 믿고 의지할 동료들이 있다는게]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김선호, 입 열었다 "그분에게 진심으로 사과하고 싶어" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211020100708023</link>
-            <guid>https://entertain.v.daum.net/v/20211020100708023</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[배우 김선호가 공식입장을 전했다. 20일 김선호는 "입장이 늦어지게 된 점 진심으로 죄송하다. 그분과 좋은 감정으로 만났다. 과정에서 저의 불찰과 사려 깊지 못한 행동으로 그분에게 상처를 줬다"고 밝혔다. 그는 "그분과 직접 만나서 사과를 먼저 하고 싶었으나, 지금은 제대로 된 사과를 전하지 못하고 그 시간을 기다리고 있는 중이다. 우선 이 글을 통해서라]]></content:encoded>
+            <title><![CDATA['풍류대장' 이아진이 쓴 반전의 감동 드라마 '뭉클' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211020115605474</link>
+            <guid>https://entertain.v.daum.net/v/20211020115605474</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:44 GMT</pubDate>
+            <content:encoded><![CDATA['풍류대장'이 반전에 반전을 거듭하며 한 편의 감동적인 드라마를 썼다. 지난 19일 방송된 JTBC '풍류대장-힙한 소리꾼들의 전쟁' 4회는 베일에 가려져 있던 1라운드 톱10의 주인공과 2라운드를 뜨겁게 달굴 경연 방식이 공개됐다. 2라운드는 도전자에 맞서 자리를 사수해야 하는 톱10 방어전 방식으로 진행됐다. 톱10에게는 2라운드에서 최저점을 받고 자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['낙태 종용 의혹' 김선호 "제 불찰로 전 연인에 상처, 실망감 드려 죄송" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211020100530943</link>
-            <guid>https://entertain.v.daum.net/v/20211020100530943</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선닷컴 이우주 기자] 전 여친에 혼인빙자, 낙태 종용을 했다는 의혹을 받는 배우 김선호가 입을 열었다. 김선호 소속사 솔트 엔터테인먼트 측은 20일 공식 입장을 통해 "김선호 배우의 개인사로 인해 많은 분들께 심려를 끼쳐 드려 죄송하다. 이번 일로 인해 실망과 피해를 드린 많은 분들께 사과의 말씀을 드린다"고 사과했다. 이어 김선]]></content:encoded>
+            <title><![CDATA['마이네임' 한소희 "포스트 전지현? 말도 안 되는 수식어" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211020115506450</link>
+            <guid>https://entertain.v.daum.net/v/20211020115506450</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스 시리즈 '마이네임'의 배우 한소희가 자신을 향한 '포스트 전지현'이라는 호평에 겸손한 모습을 보였다. 한소희는 20일 오전 진행된 화상 인터뷰에서 "(포스트 전지현이라니) 말도 안 된다"며 웃었다. 이번 작품에서 격렬한 액션 연기를 소화한 한소희는 전지현의 뒤를 이을 배우로 뜨거운 기대를 받고 있다. '포스트 전지현'이라는 말에 손사래를]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김선호, 사생활 논란 인정 "진심으로 사과하고 싶다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211020100408898</link>
-            <guid>https://entertain.v.daum.net/v/20211020100408898</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 정하은기자]배우 김선호가 전 여자친구에게 임신 중절을 종용했다는 의혹과 관련해 사과했다. 20일 솔트엔터테인먼트는 공식입장을 통해 “김선호 배우의 개인사로 인해 많은 분들께 심려를 끼쳐드려 죄송하다”며 “이번 일로 인해 실망과 피해를 드린 많은 분들께 사과의 말씀을 드린다. 불미스러운 일로 심려를 끼쳐드린 점, 다시 한]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[채널S, 김수현PD-이준규 PD 영입..최고의 제작팀 구성 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211020100353882</link>
-            <guid>https://entertain.v.daum.net/v/20211020100353882</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 김명미 기자] 새로운 종합 엔터테인먼트 채널인 채널S(채널에스, 대표 김혁)가 ‘문제적 남자’의 김수현 PD와 ‘기적의 오디션’을 연출한 이준규 PD를 영입하며 채널S만의 오리지널리티를 담은 콘텐츠를 탄생시킬 최고의 제작팀을 구성했다. 채널S는 SK브로드밴드(대표 최진환)의 자회사 미디어S(대표 김혁)의 종합 엔터테인먼트 채널로, ‘신과 함께’,]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김선호, 폭로자 A씨와 교제 인정.."그 분에게 상처 줬다" 직접 사과 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211020100305852</link>
-            <guid>https://entertain.v.daum.net/v/20211020100305852</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[[SBS연예뉴스 | 강선애 기자] 사생활 논란이 불거진 배우 김선호가 직접 사과의 뜻을 밝혔다. 김선호는 20일 소속사 솔트엔터테인먼트를 통해 "입장이 늦어지게 된 점 진심으로 죄송하다. 얼마 전 제 이름이 거론된 기사가 나가고 처음으로 겪는 두려움에 이제야 글을 남기게 되었다"라며 입을 열었다. 김선호는 "저는 그분과 좋은 감정으로 만났다. 그 과정에서]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[소속사 솔트엔터테인먼트 사과 "김선호 개인사 심려끼쳐 죄송" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211020100120714</link>
-            <guid>https://entertain.v.daum.net/v/20211020100120714</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴]  소속사 솔트엔터테인먼트 사과 “김선호 개인사 심려끼쳐 죄송” [공식] 배우 김선호가 전 여자친구를 향해 사과한 가운데 소속사도 함께 사과했다. 김선호는 17일 전 여자친구 A씨의 폭로로 혼인빙자, 낙태종용 의혹에 휩싸였다. A씨는 교제 중이던 지난해 7월 김선호의 아이를 임신했지만 낙태를 종용받았고 김선호가 결혼을 약속했으나 올해 5월 갑자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[박근형 '동백', 짙은 여운을 남기다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211020100104703</link>
-            <guid>https://entertain.v.daum.net/v/20211020100104703</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 최혜진 기자] 배우 박근형의 안목이 또 통했다. 그는 영화 '동백'을 만나 역사적 사건을 묵직한 열연으로 표현해내며 마음을 울렸다. 뚝배기에 담긴 국밥처럼 짙은 여운도 남겼다. 영화 '동백'(감독 신준영·제작 해오름ENT)은 실제 1948년 10월에 일어났던 여순사건의 아픔을 안은 채 식당을 운영 중인 노인 순철(박근형)이 어느 날 뜻밖의 손]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김선호 "내 불찰, 상처받은 모든 분께 진심으로 죄송" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211020100047681</link>
-            <guid>https://entertain.v.daum.net/v/20211020100047681</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=선미경 기자] 배우 김선호가 'K배우' 사생활 논란에 대해서 "불찰과 사려 깊지 못한 행동으로 상처줬다"라고 직접 사과했다.&nbsp; 김선호는 20일 오전 소속사를 통해 "얼마 전 제 이름이 거론된 기사가 나가고 처음으로 겪는 두려움에 이제야 글을 남기게 되었습니다. 진심으로 죄송하다"라고 직접 입장을 밝혔다. 논란이 되고 있는 폭로글을 작성한 A씨가]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['철파엠' 주시은, 씨네타운 스페셜 DJ 복귀.."긴장돼" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211020095900553</link>
-            <guid>https://entertain.v.daum.net/v/20211020095900553</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트=노민택 기자] 주시은이 씨네타운 스페셜 DJ로 복귀한다. 20일 방송된&nbsp;SBS 파워FM '김영철의 파워FM'에서는 아나운서 주시은이 게스트로 출연했다. 이날 DJ 김영철은 "오늘부터 씨네타운 스페셜 DJ 하는 거냐"라고 묻자 주시은은 "수목금토일 5일 함께 할 것 같다. 너무 오랜만이라 긴장된다"라고 전했다. 이에 김영철은 "오늘 실수 두 번]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김선호, 입 열었다.."사려깊지 못한 행동, 진심 사과하고 싶어" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211020095843547</link>
-            <guid>https://entertain.v.daum.net/v/20211020095843547</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=장진리 기자] 배우 김선호가 낙태 종용, 혼인 빙자 등 사생활 논란에 마침내 입을 열었다.김선호는 20일 소속사 솔트엔터테인먼트를 통해 "저는 그분과 좋은 감정으로 만났다. 그 과정에서 저의 불찰과 사려 깊지 못한 행동으로 그분에게 상처를 줬다"고 일련의 논란을 인정했다. 김선호는 전 여자 친구 A씨의 폭로로 사생활 논란에 휩싸였다. A]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['사생활 논란' 김선호 "직접 만나 사과하고 싶다..실망감 드려 죄송" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211020095805520</link>
-            <guid>https://entertain.v.daum.net/v/20211020095805520</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[사생활 논란에 휩싸인 배우 김선호가 "죄송하다"는 입장을 밝혔다. 김선호는 20일 소속사 솔트 엔터테인먼트를 통해 "저는 그분과 좋은 감정으로 만났다. 그 과정에서 저의 불찰과 사려 깊지 못한 행동으로 그분에게 상처를 줬다"며 "그분과 직접 만나서 사과를 먼저 하고 싶었으나 지금은 제대로 된 사과를 전하지 못하고 그 시간을 기다리고 있는 중이다. 우선]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['사생활 논란' 김선호 "상처 받은 그 분께 진심으로 사과하고 싶어" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211020095628441</link>
-            <guid>https://entertain.v.daum.net/v/20211020095628441</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 황수연 기자) 배우 김선호가 전 여친의 폭로에 입장을 밝혔다. 20일 솔트엔터테인먼트는 공식입장을 통해 "김선호 배우의 개인사로 인해 많은 분들께 심려를 끼쳐드려 죄송하다"며 "이번 일로 인해 실망과 피해를 드린 많은 분들께 사과의 말씀을 드린다. 불미스러운 일로 심려를 끼쳐드린 점, 다시 한번 죄송하다"고 사과했다.&nbsp; 침묵으로 일관하던 김]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['대세K' 김선호 "전 여자친구 만나 사과하고파" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211020095622437</link>
-            <guid>https://entertain.v.daum.net/v/20211020095622437</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[배우 김선호가 입을 열었다. 20일 김선호는 소속사 솔트엔터테인먼트를 통해 최근 벌어진 사생활 관련 논란에 대한 사과의 말을 전했다. 그는 "입장이 늦어지게 된 점 진심으로 죄송합니다"라며 "얼마 전 제 이름이 거론된 기사가 나가고 처음으로 겪는 두려움에 이제야 글을 남기게 되었습니다"라고 전했다. 이어 "그분과 좋은 감정으로 만났습니다. 그 과정에서]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김선호, 사생활 논란 인정 "사려 깊지 못한 행동..죄송" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211020095610428</link>
-            <guid>https://entertain.v.daum.net/v/20211020095610428</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 김나연 기자] 배우 김선호가 사생활 논란에 대해 인정하고 사과했다. 20일 김선호는 공식입장을 통해 "얼마 전  제 이름이 거론된 기사가 나가고 처음으로 겪는 두려움에 이제야 글을 남기게 됐다. 저는 그분과 좋은 감정을 만났다"고 운을 뗐다. 이어 "그 과정에서 저의 불찰과 사려 깊지 못한 행동으로 그분에게 상처를 줬다"며 "그분과 직접]]></content:encoded>
+            <title><![CDATA[넷플릭스 가입자 438만 명↑..외신 "'오징어 게임' 인기 덕분" (다음 연예 ─ 뉴스 ─ 해외)]]></title>
+            <link>https://entertain.v.daum.net/v/20211020110406099</link>
+            <guid>https://entertain.v.daum.net/v/20211020110406099</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 김종은 기자] 넷플릭스의 신규 가입자 수가 '오징어 게임'의 인기에 힘입어 크게 증가했다. 넷플릭스는 19일(현지시간) 3분기 실적을 발표했다. 이날 발표된 자료에 따르면 3분기 신규 유료 가입자 수는 438만 명에 달한다. 이 가운데 절반인 220만 명이 아시아·태평약 지역 신규 가입자다. 이 수치는 시장 전망치인 386만 명과 넷플릭스]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['-45kg' 아델 "정크푸드♥︎, 일주일에 한번 맥도OO 먹어" (다음 연예 ─ 뉴스 ─ 해외)]]></title>
@@ -1007,354 +1014,375 @@
             <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) 넷플릭스 오리지널 시리즈 '오징어 게임'의 시청자 숫자가 공개된 가운데, 실제로 시리즈를 끝까지 본 시청자의 숫자도 공개됐다. 지난 17일(현지시간) 미국의 블룸버그는 '오징어 게임'이 약 8억 9110만 달러(약 1조 520억원)의 가치를 창출했다고 보도했다. 총 제작비가 2140만 달러(약 284억원)에 불과했던 '오징어]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박재정, 3개월만 더블 싱글 컴백 "토이 밝은 슬픔 오마주"[공식] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0002998125</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0002998125</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[가수 박재정이 3개월 만에 신곡으로 돌아온다. 박재정은 오는 30일 주요 온라인 음원 사이트를 통해 새로운 더블 싱글 '너의 그 사람'을 발표한다. 지난 7월 선보인 '취미' 이후 3개월 만에 발표하는 이번 앨범에는]]></content:encoded>
+            <title><![CDATA[티오원, 11월 4일 컴백 확정…또 한번 등장한 의문의 'X' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000324500</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000324500</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자]그룹 티오원(TO1)이 컴백일을 확정 짓고 상반된 무드의 단체 포스터를 공개했다. 20일 소속사 웨이크원은 “티오원(치훈, 동건, 찬, 지수, 민수, 재윤, 제이유, 경호, 제롬, 웅기)이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[CL, 오늘(20일) 솔로 첫 정규 'ALPHA' 발매..감상포인트 셋 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004494594</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004494594</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=선미경 기자] 가수 CL의 첫 번째 솔로 정규앨범 ‘ALPHA’가 오늘(20일) 오후 1시에 드디어 베일을 벗는다. ‘ALPHA’는 지난해 더욱 완성도를 높이기 위해 한차례 연기를 한 바 있기에 이번 발매]]></content:encoded>
+            <title><![CDATA[슈퍼주니어 은혁, 오늘 솔로 싱글 '비' 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010780884</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010780884</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]이수진 인턴 기자 = 그룹 '슈퍼주니어' 멤버 은혁이 20일 오후 6시 이래 디지털 싱글 '비'를 공개한다. 팝 장르의 곡으로, 은혁이 작사했다. 현재의 은혁이 바라보는, 어린 시절 꿈이 가득했던 자신]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에스파, 美 빌보드 10개 차트 입성…글로벌로 가는 '새비지' 신드롬 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000324470</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000324470</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=정유진 기자] 에스파가 첫 미니앨범 ‘새비지’로 미국 빌보드 차트를 휩쓸었다. 에스파는 첫 미니앨범 ‘새비지’로 19일(현지시간) 발표된 미국 빌보드의 메인 차트 ‘빌보드 200’ 20위에 올라 K팝]]></content:encoded>
+            <title><![CDATA[원어스, 단독 콘서트 티저 영상 공개…완성도 높은 무대 예고 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003546993</link>
+            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003546993</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 강다윤 기자] 그룹 원어스(ONEUS)가 단독 콘서트 티저 영상을 공개하며 기대감을 높였다. 원어스는 20일 0시, 공식 SNS를 통해 단독 콘서트 '원어스 시어터 (ONEUS THEATRE) : 적]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[슈주 은혁, 데뷔 첫 싱글 'be' 오늘(20일) 발표..전곡 단독 작사 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003488717</link>
-            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003488717</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드POP=김지혜 기자] 은혁이 오늘(20일) 데뷔 이래 첫 싱글인 ‘be’(비)를 발매한다. 은혁은 금일 오후 6시 각종 음악 사이트를 통해 디지털 싱글 ‘be’ 전곡 음원을 공개하며, 동명의 타이틀 곡 ‘be]]></content:encoded>
+            <title><![CDATA[손나은, 팝업스토어 빛낸 아찔한 드레스+킬힐 '독보적'[화보] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0002998169</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0002998169</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[걸그룹 에이핑크 멤버 겸 배우 손나은이 아찔한 드레스 패션과 함께 팝업스토어를 빛냈다. 손나은은 지난 19일 'CHASING STARS' 스페셜 컬래버레이션 컬렉션 런칭과 팝업스토어 오픈을 축하하고자 참석해 자리를]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴, 신곡 MV 티저 공개…대담하고 뜨겁게 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001654608</link>
-            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001654608</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)이 미니 9집 타이틀곡 뮤직비디오 티저로 대담하고 뜨거운 에너지를 전했다. 세븐틴은 20일 0시 공식 유튜]]></content:encoded>
+            <title><![CDATA[컴백 남우현 “잊고 있던 나와 마주한 느낌” [일문일답] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000768404</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000768404</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 그룹 인피니트(INFINITE) 남우현이 돌아왔다. 남우현은 지난 19일 오후 6시 미니 4집 ‘위드’(With)를 발매하며 귀환을 알렸다. ‘위드’는 남우현이 약 2년 5개월 만에 선보이는 새 미니]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[벤, 새 싱글 '지금 뭐해' 라이브 클립 티저 공개…파워풀 성량 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001362124</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001362124</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김예나 기자) 가수 벤이 독보적인 라이브 실력을 드러냈다. 벤은 지난 18일과 19일 공식 SNS를 통해 새 싱글 '지금 뭐해' 라이브 클립 티저를 공개했다. 공개된 영상에는 한 가게에서 '지금 뭐해']]></content:encoded>
+            <title><![CDATA[임상현, 새 싱글 '이럴거면' MV 티저 공개…애절한 이별 감성 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004618415</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004618415</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[가수 임상현이 애절하고 애틋한 감성을 선사한다. 임상현은 20일 0시 공식 SNS를 통해 오는 21일 발매되는 새 디지털 싱글 '이럴거면'의 뮤직비디오 티저를 공개했다. 공개된 영상에는 행복한 한 때를 보내는 연인의]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에이티즈 우영, '배드' 퍼포먼스 영상 1000만뷰 돌파…"춤=행복한 존재" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001362123</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001362123</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이슬 기자) 에이티즈(ATEEZ) 우영의 ‘배드(Bad)’ 퍼포먼스 영상이 화제를 모으며 1000만 뷰를 돌파했다. 지난 6월 M2 ‘스튜디오 춤’을 통해 ‘아티스트 오브 더 먼스(Artists Of]]></content:encoded>
+            <title><![CDATA[7080 스타들 총출동한 ‘히트맨 콘서트’, 11월 개최…온‧오프라인 병행 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000824433</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000824433</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[7080 스타들이 한자리에 모인 온‧오프라인 병행 콘서트가 개최된다. 오는 11월 13일과 14일 오후 2시와 7시에 인천 네스트 호텔 바움 홀에서 개최되는 ‘히트맨 콘서트’는 이치현, 최성수, 김범룡,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[벤, 새 싱글 '지금 뭐해' 라이브 클립 티저 공개…폭발적 성량 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003546962</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003546962</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 오윤주 기자] 가수 벤이 독보적인 라이브 실력을 드러냈다. 벤은 지난 18일과 19일 공식 SNS를 통해 새 싱글 '지금 뭐해' 라이브 클립 티저를 공개했다. 공개된 영상에는 한 가게에서 '지금 뭐해]]></content:encoded>
+            <title><![CDATA[세븐틴, MV 티저 공개…비주얼 변신·커리어 하이 예고 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=629&amp;aid=0000111537</link>
+            <guid>https://entertain.naver.com/now/read?oid=629&amp;aid=0000111537</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[미니9집 'Attacca', 22일 발매 그룹 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)이 미니 9집 타이틀곡 뮤직비디오 티저로 대담하고 뜨거운 에너지를]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한동근, '요즘뭐듣니' 다섯 번째 가창자…'첫 출근' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010780054</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010780054</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]조민정 인턴 기자 = 가수 한동근이 음원 프로젝트 '요즘뭐듣니'의 다섯 번째 가창자로 나섰다. 한동근은 지난 19일 음원사이트에 '요즘뭐듣니' 프로젝트의 하나로 '첫 출근' 음원을 공개했다. '첫 출근]]></content:encoded>
+            <title><![CDATA[글로벌 듀오 수지X유나, 레게 사운드의 곡 ‘Zizazu’로 25일 컴백 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000824431</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000824431</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 듀오 Suji(수지) x Yuna(유나)가 소울 넘치는 레게 사운드의 곡으로 돌아온다. 오는 25일 오후 6시 각종 음원사이트를 통해 Suji x Yuna(수지유나)의 새 싱글 ‘Zizazu’가 공개된다. 스]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[역시 ‘음원퀸’… 아이유 ‘스트로베리 문’, 음원차트 정상 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000768366</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000768366</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 가수 아이유가 신곡 ‘스트로베리 문(strawberry moon)’으로 음원차트를 휩쓸었다. 지난 19일 발표된 아이유의 디지털 싱글 ‘스트로베리 문’은 발매 직후 국내 주요 음원사이트에서 실시간 차트]]></content:encoded>
+            <title><![CDATA[CL, 첫 정규앨범 'ALPHA' 베일 벗는다... 관전 포인트 셋 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=416&amp;aid=0000276103</link>
+            <guid>https://entertain.naver.com/now/read?oid=416&amp;aid=0000276103</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[[SBS 연예뉴스 l 강경윤 기자] 가수 CL의 첫 솔로 정규앨범 'ALPHA'가 오늘(20일) 오후 1시, 드디어 베일을 벗는다. 'ALPHA'는 지난해 더욱 완성도를 높이기 위해 한차례 연기를 한 바 있기에 이번]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[CL, 오늘(20일) 첫 정규앨범 'ALPHA' 공개…관전 포인트 셋 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001362118</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001362118</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이슬 기자) CL의 첫 솔로 정규앨범 ‘ALPHA’가 오늘(20일) 오후 1시, 드디어 베일을 벗는다. ‘ALPHA’는 지난해 더욱 완성도를 높이기 위해 한차례 연기를 한 바 있기에 이번 발매는 더욱]]></content:encoded>
+            <title><![CDATA[벤, 새 싱글 '지금 뭐해' 라이브 클립 티저 공개..폭발적 성량 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003488761</link>
+            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003488761</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[[헤럴드POP=김지혜 기자] 가수 벤이 독보적인 라이브 실력을 드러냈다. 벤은 지난 18일과 19일 공식 SNS를 통해 새 싱글 '지금 뭐해' 라이브 클립 티저를 공개했다. 공개된 영상에는 한 가게에서 '지금 뭐해']]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에스파, '새비지' 돌풍…美 빌보드 10개 차트 입성 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010780036</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010780036</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]이재훈 기자 = 차세대 K팝 걸그룹 '에스파'(aespa)가 첫 미니앨범 '새비지(Savage)'로 미국 빌보드 차트를 휩쓸었다. 19일(현지시간) 빌보드에 따르면, 에스파는 빌보드의 메인 차트 중 하]]></content:encoded>
+            <title><![CDATA[돌아온 씨엘…첫 솔로 정규앨범 '알파' 오늘 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0012734493</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0012734493</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 김예나 기자 = 그룹 투애니원(2NE1) 출신 가수 씨엘(CL)이 자신만의 목소리를 담아낸 첫 솔로 정규 앨범으로 팬들 앞에 선다. 20일 레이블 베리체리에 따르면 씨엘은 이날 오후 1시 정규앨범]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[BTS-콜드플레이 '마이 유니버스' 빌보드 싱글 차트 18위 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0012733717</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0012733717</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[3주 연속 핫 100 상위권…BTS, 글로벌 차트에도 4곡 이름 올려 TXT 정규 2집, 월드 앨범 차트 8위 기록…통산 19주 '차트 인' (서울=연합뉴스) 김예나 기자 = 그룹 방탄소년단(BTS)과 밴드 콜드플레]]></content:encoded>
+            <title><![CDATA[박재정, MSG워너비 열풍 이을까…30일 '너의 그 사람' 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010780688</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010780688</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]조민정 인턴 기자 = 가수 박재정이 3개월 만에 신곡을 발매한다. 20일 소속사 로맨틱 팩토리에 따르면 박재정은 오는 30일 오후 6시 음원사이트에 새로운 더블 싱글 '너의 그 사람'을 공개한다. 타이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에스파 美 빌보드 10개 차트 입성…‘Savage’ 신드롬 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=016&amp;aid=0001901384</link>
-            <guid>https://entertain.naver.com/now/read?oid=016&amp;aid=0001901384</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드경제 = 서병기 선임기자]‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 첫 미니앨범 ‘Savage’(새비지)로 미국 빌보드 차트를 휩쓸었다. 에스파는 첫 미니앨범 ‘Savage’로 19일(]]></content:encoded>
+            <title><![CDATA[임상현, 새 싱글 '이럴거면' MV 티저 공개…애절한 이별 감성 예고 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0002998158</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0002998158</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[가수 임상현이 애절하고 애틋한 감성을 선사한다. 임상현은 20일 0시 공식 SNS를 통해 오는 21일 발매되는 새 디지털 싱글 '이럴거면'의 뮤직비디오 티저를 공개했다. 공개된 영상에는 행복한 한 때를 보내는 연인의]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[시크릿넘버 진희, 예쁨주의보 발령..'Fire Saturday' 개별 티저 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004494584</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004494584</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=이승훈 기자] 그룹 시크릿넘버(SECRET NUMBER) 진희가 독보적인 비주얼을 선보였다. 시크릿넘버는 20일 0시 공식 SNS를 통해 오는 27일 발매되는 세 번째 싱글 'Fire Saturday (파]]></content:encoded>
+            <title><![CDATA['음색 여신' 케이시, 신보 발매 암시? 의문의 수어 티저 영상 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0002998155</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0002998155</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[가수 케이시(Kassy)가 한 편의 수어 영상을 공개하며 팬들의 이목을 집중시켰다. 케이시는 지난 19일 오후 공식 SNS 및 유튜브 계정을 통해 '나 그댈위해 시 한편을 쓰겠어'라는 제목의 티저 영상을 업로드했다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이진혁, SBS '왜 오수재인가' 캐스팅..연기돌 행보 잇는다[공식] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0002998118</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0002998118</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[가수 겸 배우 이진혁이 '연기돌' 행보를 이어간다. 20일 티오피미디어 측은 "이진혁이 SBS 새 드라마 '왜 오수재인가'(극본 김지은, 연출 박수진)에 캐스팅됐다"라고 밝혔다. 이진혁은 2020년 3월 MBC '그]]></content:encoded>
+            <title><![CDATA[은혁, 데뷔 이래 첫 싱글 발매..."전곡 단독 작사" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=416&amp;aid=0000276101</link>
+            <guid>https://entertain.naver.com/now/read?oid=416&amp;aid=0000276101</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[[SBS 연예뉴스 l 강경윤 기자] 슈퍼주니어 은혁이 오늘(20일) 데뷔 이래 첫 싱글인 'be'(비)를 발매한다. 은혁은 디지털 싱글 'be' 전곡 음원과 동명의 타이틀 곡 'be' 뮤직비디오도 유튜브 및 네이버T]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박지훈, 반항아 눈빛…새 앨범 ‘핫 앤 콜드’ 두 번째 콘셉트 포토 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000824403</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000824403</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[가수 박지훈이 극과 극의 매력을 선보였다. 박지훈은 20일 0시 공식 SNS를 통해 다섯 번째 미니앨범 'HOT&amp;COLD(핫 앤 콜드)'의 두 번째 콘셉트 포토 2장을 공개했다. 먼저 첫 번째 사진 속 박지훈은 우수]]></content:encoded>
+            <title><![CDATA[세븐틴, '록 위드 유' 뮤비 티저 공개…타오르는 불꽃→정열적인 질주 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000324490</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000324490</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자]그룹 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)이 미니 9집 타이틀곡 뮤직비디오 티저로 대담하고 뜨거운 에너지를 전했다. 세븐]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[임영웅, 'HERO' MV 1900만뷰 돌파…'별빛 같은 나의 사랑아'도 1300만뷰 돌파 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=016&amp;aid=0001901361</link>
-            <guid>https://entertain.naver.com/now/read?oid=016&amp;aid=0001901361</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드경제 = 서병기 선임기자]트로트 가수 임영웅의 'HERO' 뮤직비디오가 1900만 뷰를 돌파했다. 지난해 11월 4일 유튜브 채널 '임영웅'에 게재된 '임영웅 [HERO] MV'라는 제목의 영상은 19일 오후]]></content:encoded>
+            <title><![CDATA[몬스타엑스, 빌보드 ‘팝 에어플레이’ 차트 2주 연속 진입 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000768394</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000768394</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 그룹 몬스타엑스(MONSTA X)가 새 기록을 세웠다. 소속사 스타쉽엔터테인먼트는 20일 몬스타엑스의 싱글 ‘One Day’(원 데이)가 빌보드 ‘팝 에어플레이’(POP AIRPLAY) 차트에서 2주]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['지옥' 전세계 흔들 유아인, '2021 AAA’ 참석 확정..6관왕 도전 [공식] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004494582</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004494582</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최나영 기자] 연상호 감독의 넷플릭스 신작 ‘지옥’으로 글로벌한 열풍을 몰고 올 배우 유아인이 ‘2021 Asia Artist Awards’에 참석을 확정했다. 유아인은 오는 12월 2일(목)에 열리는 ‘]]></content:encoded>
+            <title><![CDATA[방탄소년단 RM, 탄생 9900일 최애돌 기부요정[공식] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0002998152</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0002998152</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[톱 아이돌그룹 방탄소년단(BTS, RM 진 지민 제이홉 슈가 뷔 정국) 멤버 RM이 최애돌 기부요정으로 선정됐다. RM은 아이돌 순위 서비스 최애돌에서 지난 19일 6236만 15표를 받아 제223대 기부요정에 이름]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방탄소년단-콜드플레이 통했다...'My Universe', 美 빌보드 3주 연속 상위권 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001654579</link>
-            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001654579</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 방탄소년단이 미국 빌보드 차트에서 굳건한 인기를 과시하고 있다. 미국 음악 전문 매체 빌보드가 19일(현지시간) 발표한 최신 차트(10월 23일 자)에 따르면, 방탄소년단이 콜드플레이와 함께 지난달 24일 발매]]></content:encoded>
+            <title><![CDATA[몬스타엑스, 美 빌보드 '팝 에어플레이' 차트 2주연속 진입 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010780589</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010780589</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]이수진 인턴 기자 = 그룹 '몬스타엑스(MONSTA X)'의 새 싱글 '원 데이(One Day)'가 미국 빌보드 '팝 에어플레이(POP AIRPLAY)' 차트에 2주 연속 진입했다. 19일(현지시간)]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['판타지돌'이 돌아온다! '컴백 D-1' 킹덤, 기대 포인트 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0002998116</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0002998116</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:57 GMT</pubDate>
-            <content:encoded><![CDATA['판타지돌' 킹덤(KINGDOM)이 보다 강렬한 모습으로 돌아온다. 킹덤은 오는 21일 오후 6시 세 번째 미니앨범 'History Of Kingdom : Part Ⅲ. IVAN(히스토리 오브 킹덤 : 파트 3. 아]]></content:encoded>
+            <title><![CDATA[라붐 소연, 새 앨범 '블러섬' 개인 티저 공개…달콤 로맨틱 비주얼 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000324489</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000324489</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자]걸그룹 라붐 소연이 한층 더 성숙해진 분위기를 선사했다. 20일 라붐(소연, 진예, 해인, 솔빈)의 공식 SNS 채널을 통해 세번째 미니앨범 '블러섬'의 소연 개인 콘셉트 포토가 공개됐다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[VIVO·매직스트로베리사운드, ‘잘 프로젝트’ 진행…셀럽파이브·치즈 등 참여 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001362111</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001362111</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김예나 기자) VIVO와 매직스트로베리사운드가 특급 컬래버로 뭉친다. 20일 자정 컨텐츠랩 VIVO는 공식 SNS 채널을 통해 ‘2021년을 잘 보내는 방법’ 프로젝트 10월 아티스트 주자와 신곡 명]]></content:encoded>
+            <title><![CDATA[운찬, 로칼하이레코즈와 함께한 첫 싱글 ‘Dear’ 발매 [MK★오늘의신곡] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000824426</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000824426</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[싱어송라이터 운찬이 첫 번째 싱글로 대중을 만난다. 운찬은 20일 오후 6시 로칼하이레코즈(LOCALHIGH RECORDS)와 함께한 첫 번째 디지털 싱글 ‘Dear’를 발매한다. ‘Dear’는 빈티지하고 로우파이한]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['4부문 1위 올킬' 방탄소년단 지민 K팝 아이돌 인기차트 일간·주간·월간·생일 최다 득표..'GLOBAL IT BOY' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0002998115</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0002998115</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[방탄소년단(BTS) 지민이 글로벌 K팝 아이돌 인기투표 앱 '케이돌(KDOL)'에서 일간, 주간, 월간, 생일 최다 득표 아이돌이자 10월 셋째주 주간 랭킹 1위에 오르며 비교불가 글로벌 인기를 장악했다. 케이돌에]]></content:encoded>
+            <title><![CDATA[시크릿넘버 진희 티저 이미지..독보적 비주얼+성숙한 눈빛 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0002998148</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0002998148</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[걸그룹 시크릿넘버(SECRET NUMBER) 멤버 진희가 독보적인 비주얼을 선보였다. 시크릿넘버는 20일 0시 공식 SNS를 통해 오는 27일 발매되는 3번째 싱글 'Fire Saturday'(파이어 세러데이) 개별]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김나영, 3년 만의 정규 3집 '미' 31일 발표 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0012733608</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0012733608</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 이태수 기자 = 가수 김나영이 오는 31일 정규 3집 '미'(me)를 발표한다고 소속사 네버랜드엔터테인먼트가 20일 밝혔다. 김나영의 정규 음반은 2018년 2집 '이너'(inner) 이후 3년 만]]></content:encoded>
+            <title><![CDATA[몬스타엑스, 美 빌보드 '팝 에어플레이' 차트 2주 연속 진입 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003546983</link>
+            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003546983</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 오윤주 기자] 그룹 몬스타엑스가 싱글 '원 데이(One Day)'로 미국에서 새로운 차트를 썼다. 미국 음악 전문 매체 빌보드가 19일(미국 현지시간) 발표한 최신 '팝 에어플레이(POP AIRPLA]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[투모로우바이투게더, 美 빌보드 4부문 역주행 차트인 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000768356</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000768356</guid>
-            <pubDate>Wed, 20 Oct 2021 01:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 그룹 투모로우바이투게더의 ‘혼돈의 장: FREEZE’가 다수의 미국 빌보드 차트에서 역주행하며 식지 않은 인기를 과시했다. 19일(현지시간) 미국 음악 전문 매체 빌보드가 발표한 최신 차트(10월 23]]></content:encoded>
+            <title><![CDATA['온·오프라인 병행' 히트맨 콘서트 11월 개최…7080 스타 총출동 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0002998147</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0002998147</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[7080 스타들이 한자리에 모인 온·오프라인 병행 콘서트가 개최된다. 오는 11월 13일과 14일 오후 2시와 7시에 인천 네스트 호텔 바움 홀에서 개최되는 '히트맨 콘서트'는 이치현, 최성수, 김범룡, 진시몬 등]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘사생활 논란’ 김선호 “그분께 진심으로 사과하고 싶어” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003629966</link>
-            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003629966</guid>
-            <pubDate>Wed, 20 Oct 2021 01:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[전 여자친구에게 혼인을 빙자해 낙태를 강요했다는 의혹에 휩싸인 배우 김선호(36)가 직접 사과했다. 20일 김선호는 소속사 솔트 엔터테인먼트 측을 통해 “입장이 늦어지게 된 점 진심으로 죄송합니다”라며 “얼마 전 제]]></content:encoded>
+            <title><![CDATA['낙태 종용' 김선호, 논란 3일만 뒤늦은 사과...'대세 배우'의 추락 (전문)[종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003791430</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003791430</guid>
+            <pubDate>Wed, 20 Oct 2021 03:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 이우주 기자] 배우 김선호가 자신이 'K배우' 임을 인정하고 사과했다. 그러나 뒤늦은 인정과 사과로 돌아선 여론의 후폭풍이 이제 시작될 것으로 보인다. 김선호는 20일 소속사 솔트 엔터테인먼트를 통해]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['낙태 종용 의혹' 김선호 "제 불찰로 전 연인에 상처, 실망감 드려 죄송" [전문] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003791379</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003791379</guid>
-            <pubDate>Wed, 20 Oct 2021 01:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선닷컴 이우주 기자] 전 여친에 혼인빙자, 낙태 종용을 했다는 의혹을 받는 배우 김선호가 입을 열었다. 김선호 소속사 솔트 엔터테인먼트 측은 20일 공식 입장을 통해 "김선호 배우의 개인사로 인해 많은 분들]]></content:encoded>
+            <title><![CDATA['오징어 게임' 정호연, 오늘 밤 '유퀴즈' 출연 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0012734684</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0012734684</guid>
+            <pubDate>Wed, 20 Oct 2021 03:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 김정진 기자 = 전 세계적인 돌풍을 일으킨 넷플릭스 한국 오리지널 시리즈 '오징어 게임'으로 일약 스타덤에 오른 배우 정호연이 유재석과 만난다. tvN '유 퀴즈 온 더 블럭'(이하 '유퀴즈')는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김선호, '낙태 종용' 논란 사과 "전 연인에게 상처 줘···실망시켜 죄송" [전문] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=011&amp;aid=0003975255</link>
-            <guid>https://entertain.naver.com/now/read?oid=011&amp;aid=0003975255</guid>
-            <pubDate>Wed, 20 Oct 2021 01:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[[서울경제] 배우 김선호가 사생활 논란에 대해 입을 열었다. 익명의 글 속 주인공이 자신인 것을 인정하며 사과했다. 20일 오전 김선호는 공식입장을 통해 "얼마 전 내 이름이 거론된 기사가 나가고 처음으로 겪는 두려]]></content:encoded>
+            <title><![CDATA['사생활 논란' 김선호, '1박2일' 시즌4 하차 "촬영분도 편집" [공식] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005668739</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005668739</guid>
+            <pubDate>Wed, 20 Oct 2021 03:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 윤효정 기자 = 배우 김선호가 전 연인에게 낙태를 종용하고 혼인빙자 뒤 일방적이별 통보까지 했다는 논란에 휩싸인 가운데, 출연 중이던 KBS 2TV 예능 프로그램 '1박2일' 시즌'에서 퇴출된다. 2]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김선호, 사생활 논란 인정 "진심으로 사과하고 싶다"[전문] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000795263</link>
-            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000795263</guid>
-            <pubDate>Wed, 20 Oct 2021 01:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 정하은기자]배우 김선호가 전 여자친구에게 임신 중절을 종용했다는 의혹과 관련해 사과했다. 20일 솔트엔터테인먼트는 공식입장을 통해 “김선호 배우의 개인사로 인해 많은 분들께 심려를 끼쳐드려 죄송하다”]]></content:encoded>
+            <title><![CDATA[[공식] 김선호, '사생활 논란'으로 모든 것 잃었다..KBS "'1박 2일' 하차"(전문) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003791429</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003791429</guid>
+            <pubDate>Wed, 20 Oct 2021 03:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 문지연 기자] 배우 김선호가 결국 '1박 2일'에서 하차한다. 김선호가 결국 K배우가 자신임을 인정함에 따라 현재 출연 중인 KBS 2TV '1박 2일'에서의 하차가 불가피하게 됐다. 이번 주 방송분은]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김선호 “내 불찰로 그 분께 상처 줘…실망감 드려 죄송” [전문] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000594737</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000594737</guid>
-            <pubDate>Wed, 20 Oct 2021 01:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[‘K배우’ 의혹이 일던 배우 김선호가 드디어 입장을 밝혔다. 익명의 폭로글이 올라온 지 나흘만의 일이다. 20일 오전 김선호는 소속사를 통해 심경을 밝히며 사과의 입장을 전했다. 김선호의 글에 앞서 소속사 솔트엔터테]]></content:encoded>
+            <title><![CDATA[‘1박 2일’ 측 “김선호 하차 결정…촬영분은 최대한 편집” [전문] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000594753</link>
+            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000594753</guid>
+            <pubDate>Wed, 20 Oct 2021 03:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[전 여자친구의 폭로글로 논란의 중심이 된 배우 김선호가 고정 출연 중이던 ‘1박 2일’에서 하차한다. 20일 KBS2 예능 프로그램 ‘1박 2일 시즌4’ 제작진은 공식 입장을 내고 “제작진은 최근 논란이 된 김선호의]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[전문] '사생활 논란 인정' 김선호 "많이 두려웠다… 실망감 드려 죄송" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000745382</link>
-            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000745382</guid>
-            <pubDate>Wed, 20 Oct 2021 01:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[혼인 빙자, 낙태 종용 의혹을 받는 K배우로 지목된 김선호가 사과했다. 김선호는 20일 "입장이 늦어지게 된 점 진심으로 죄송하다. 얼마 전 제 이름이 거론된 기사가 나가고 처음으로 겪는 두려움에 이제야 글을 남기게]]></content:encoded>
+            <title><![CDATA[김선호 ‘1박2일’ 하차…KBS 측 “촬영분 최대한 편집할 것”(공식입장 전문) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000824437</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000824437</guid>
+            <pubDate>Wed, 20 Oct 2021 03:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[배우 김선호가 ‘1박 2일 시즌4’에서 하차한다. 20일 KBS ‘1박 2일 시즌4’ 제작진은 “최근 논란이 된 김선호 씨의 하차를 결정하게 됐다”라고 입장을 전했다. 이어 “이미 촬영된 방송분에 대해서는 최대한 편]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[화가로 승승장구 박기웅, ‘컬쳐 라이브’ 36만명 시청 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004867080</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004867080</guid>
-            <pubDate>Wed, 20 Oct 2021 01:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[신비로운 자연을 담은 전시회가 ‘화가’ 박기웅과 만나 포텐을 터뜨렸다. 19일 밤 방송한 네이버 쇼핑 라이브 ‘박기웅의 컬쳐 라이브’에서는 오감으로 느끼는 자연을 소재로 한 섬세이 테라리움의 체험 전시회가 공개됐다.]]></content:encoded>
+            <title><![CDATA[소녀시대 제시카, 슈트 조끼만 입어도 '세련美 발산' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000745458</link>
+            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000745458</guid>
+            <pubDate>Wed, 20 Oct 2021 03:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 소녀시대 출신 제시카가 세련되면서도 심플한 일상룩을 선보였다. 10월 19일 제시카는 자신의 인스타그램에 "당신이 보고 싶다"(Miss you)라는 글과 함께 여러 장의 사진을 게재했다. 공개된 사진 속 제시카]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[소속사 솔트엔터테인먼트 사과 “김선호 개인사 심려끼쳐 죄송” [공식] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000939529</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000939529</guid>
-            <pubDate>Wed, 20 Oct 2021 01:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[소속사 솔트엔터테인먼트 사과 “김선호 개인사 심려끼쳐 죄송” [공식] 배우 김선호가 전 여자친구를 향해 사과한 가운데 소속사도 함께 사과했다. 김선호는 17일 전 여자친구 A씨의 폭로로 혼인빙자, 낙태종용 의혹에 휩]]></content:encoded>
+            <title><![CDATA[[인터뷰③] '마이 네임' 한소희 "안보현과 베드신, '괜찮을까?' 생각" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003791428</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003791428</guid>
+            <pubDate>Wed, 20 Oct 2021 03:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[※스포일러가 포함돼 있습니다 [스포츠조선 문지연 기자] 배우 한소희(27)가 안보현과의 베드신을 언급했다. 한소희는 20일 오전 온라인을 통해 스포츠조선과 만나 넷플릭스 오리지널 시리즈 '마이 네임'(김바다 극본,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[수지, 첫 OTT '안나' 크랭크인 "홀린 듯 빨려 들어갔다" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000278762</link>
-            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000278762</guid>
-            <pubDate>Wed, 20 Oct 2021 01:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[수지가 새로운 얼굴을 선보인다. 쿠팡플레이 새 시리즈 '안나(이주영 감독)'가 수지, 정은채, 김준한, 박예영 등 캐스팅을 확정하고 15일 첫 촬영에 돌입했다. '안나'는 사소한 거짓말을 시작으로 완전히 다른]]></content:encoded>
+            <title><![CDATA[이상우, 장발 변신하니 ♥김소연과 닮았네 "소연이 가발을 써보았다" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003791427</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003791427</guid>
+            <pubDate>Wed, 20 Oct 2021 03:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 이우주 기자] 배우 이상우가 아내 김소연이 없는 사이 귀여운 장난을 쳤다. 이상우는 20일 자신의 SNS를 통해 "소연이 가발을 써보았다"는 글과 함께 여러 장의 사진을 게재했다. 공개된 사진 속에는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['사생활 논란' 김선호 "상처 안겨 죄송…처음 겪는 두려움에 입장 늦어" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=629&amp;aid=0000111482</link>
-            <guid>https://entertain.naver.com/now/read?oid=629&amp;aid=0000111482</guid>
-            <pubDate>Wed, 20 Oct 2021 01:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[전 연인에 진심으로 사과하기 위해 기다리는 중 배우 김선호가 자신의 사생활 논란과 관련해 사과했다. 소속사 솔트엔터테인먼트는 20일 "김선호의 개인사로 인해 많은 분들께 심려를 끼쳐 죄송하다. 이번 일로 인해 실망과]]></content:encoded>
+            <title><![CDATA['낙태종용 의혹' 김선호, 결국 KBS '1박 2일' 하차 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0012734653</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0012734653</guid>
+            <pubDate>Wed, 20 Oct 2021 03:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 김정진 기자 = 낙태 종용 의혹에 휩싸인 배우 김선호가 고정 출연 중이던 예능 '1박 2일'에서 하차한다. KBS 2TV '1박 2일' 제작진은 "최근 논란이 된 김선호씨의 하차를 결정하게 됐다"며]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김선호 "내 불찰로 그분께 상처…진심으로 사과하고 싶어" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0012733752</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0012733752</guid>
-            <pubDate>Wed, 20 Oct 2021 01:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 강애란 기자 = 배우 김선호가 전 여자친구에게 임신 중절을 종용했다는 의혹과 관련해 "내 불찰과 사려 깊지 못한 행동으로 그분께 상처를 줬다"며 사과의 뜻을 밝혔다. 김선호는 20일 소속사 솔트엔터]]></content:encoded>
+            <title><![CDATA[[인터뷰②] '마이 네임' 한소희 "완전 민낯은 내 의지..10kg 증량" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003791426</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003791426</guid>
+            <pubDate>Wed, 20 Oct 2021 03:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 문지연 기자] 배우 한소희(27)가 민낯과 증량에 대해 언급했다. 한소희는 20일 오전 온라인을 통해 스포츠조선과 만나 넷플릭스 오리지널 시리즈 '마이 네임'(김바다 극본, 김진민 연출)의 화상 인터뷰를]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['주상욱♥' 차예련 "아침 햇살이 좋아서"…이른 시간에도 '부기 제로' [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000506486</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000506486</guid>
-            <pubDate>Wed, 20 Oct 2021 01:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=김지원 기자] 배우 차예련이 여신 미모를 뽐냈다. 차예련은 20일 자신의 인스타그램에 "굿모닝 그대들 좋은 하루 되시길요. 촬영장 가는 길. 아침 햇살이 좋아서"라고 글을 올렸다. 함께 게시한 영상에서 차]]></content:encoded>
+            <title><![CDATA[김선호 ‘1박2일’ 하차 “최대한 편집” [전문] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000939549</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000939549</guid>
+            <pubDate>Wed, 20 Oct 2021 03:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[김선호 ‘1박2일’ 하차 “최대한 편집” [전문] 배우 김선호가 사생활 논란으로 결국 KBS2 ‘1박2일’에서 하차한다. 20일 ‘1박2일’ 시즌4 제작진은 “최근 논란이 된 김선호 씨의 하차를 결정하게 됐다”고 발]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[공식] '사생활 논란' 김선호 "A씨에게 상처 줘..사과하고 싶다"(전문) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003791375</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003791375</guid>
-            <pubDate>Wed, 20 Oct 2021 01:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 문지연 기자] '사생활 논란'을 일으킨 배우 K로 지목된 김선호가 침묵을 깨고 입장을 밝혔다. 김선호는 20일 오전 "입장이 늦어지게 된 점 진심으로 죄송하다. 얼마 전 제 이름이 거론된 기사가 나가고]]></content:encoded>
+            <title><![CDATA[[인터뷰①] '마이 네임' 한소희 "내 한계를 실험하고 싶었다..시즌2? 뭘 보여드려야" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003791425</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003791425</guid>
+            <pubDate>Wed, 20 Oct 2021 03:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 문지연 기자] 배우 한소희(27)가 '마이 네임'으로 자신의 한계를 깼다. 한소희는 20일 오전 온라인을 통해 스포츠조선과 만나 넷플릭스 오리지널 시리즈 '마이 네임'(김바다 극본, 김진민 연출)의 화상]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘내가 키운다’ 김현숙 “친정엄마 최근 암 세포 발견…항암 치료 해야” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004867075</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004867075</guid>
-            <pubDate>Wed, 20 Oct 2021 01:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[김현숙을 향한 김정태의 진심 어린 응원이 모두를 뭉클하게 만들었다, 20일(수) 밤 9시에 방송되는 JTBC ‘용감한 솔로 육아 - 내가 키운다’(이하 ‘내가 키운다’, 기획 황교진, 연출 김솔)에서는 지난 주 김현]]></content:encoded>
+            <title><![CDATA[뮤지컬 ‘레드북’, 25일 ‘안방 1열’에서 만난다 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000594750</link>
+            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000594750</guid>
+            <pubDate>Wed, 20 Oct 2021 03:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[창작 뮤지컬 ‘레드북’이 온라인 공연을 앞두고 스팟 영상을 공개했다. 뮤지컬 ‘레드북’이 오는 25일 진행 예정인 온라인 중계를 앞두고 공식 SNS와 네이버 TV를 통해 스팟 영상을 공개했다. 공개된 영상에는 주연]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[전문] 유소영, 반려견과 갑작스러운 이별에 착잡한 심경 "믿기질 않아" [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000506485</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000506485</guid>
-            <pubDate>Wed, 20 Oct 2021 01:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=박창기 기자] 그룹 애프터스쿨 출신 배우 유소영이 반려견과의 갑작스러운 이별에 착잡한 심경을 드러냈다. 유소영은 지난 19일 자신의 SNS를 통해 장문의 글과 함께 여러 장의 사진을 게재했다. 그는 "오늘]]></content:encoded>
+            <title><![CDATA[‘잘 프로젝트’ 10월 주자는 송은이·김숙·선우정아·옥상달빛…28일 신곡 공개 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000594749</link>
+            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000594749</guid>
+            <pubDate>Wed, 20 Oct 2021 03:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[VIVO와 매직스트로베리사운드가 특급 컬래버로 뭉친다. 20일 자정 컨텐츠랩 VIVO는 공식 SNS 채널을 통해 ‘2021년을 잘 보내는 방법’ 프로젝트 10월 아티스트 주자와 신곡 명 ‘잘 먹고 잘 사는 법’을 공]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김선호, 각종 의혹에 사과 "폐를 끼쳐 죄송하다, 정말 죄송하다" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000278761</link>
-            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000278761</guid>
-            <pubDate>Wed, 20 Oct 2021 01:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[배우 김선호와 소속사 솔트엔터테인먼트가 혼인 빙자, 낙태 종용 주장 의혹에 대해 사과했다. 김선호는 20일 "입장이 늦어지게 된 점 진심으로 죄송합니다. 얼마 전 제 이름이 거론된 기사가 나가고 처음으로 겪는 두]]></content:encoded>
+            <title><![CDATA['내가 키운다' 김정태, 소울메이트 김현숙 응원 "더욱 단단해질 거에요" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000278782</link>
+            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000278782</guid>
+            <pubDate>Wed, 20 Oct 2021 03:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[김현숙을 향한 김정태의 진심 어린 응원이 모두를 뭉클하게 만들었다, 20일(수) 밤 9시에 방송되는 JTBC '용감한 솔로 육아 - 내가 키운다'(이하 '내가 키운다', 기획 황교진, 연출 김솔)에서는 지난]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['사생활 논란' 김선호 "그분께 사과, 모든 분께 실망감 줘 죄송"(공식) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=014&amp;aid=0004726049</link>
-            <guid>https://entertain.naver.com/now/read?oid=014&amp;aid=0004726049</guid>
-            <pubDate>Wed, 20 Oct 2021 01:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[[파이낸셜뉴스] 배우 김선호가 소속사를 통해 최근에 불거진 사생활 논란에 대해 공식입장을 밝혔다. 김선호는 "그분과 좋은 감정으로 만났습니다. 그 과정에서 저의 불찰과 사려 깊지 못한 행동으로 그분에게 상처를 주었습]]></content:encoded>
+            <title><![CDATA['싱어게인2' MC 이승기, 나는 '본캐' 가수다! '삭제' 2021 버전 열창 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000278781</link>
+            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000278781</guid>
+            <pubDate>Wed, 20 Oct 2021 03:22:02 GMT</pubDate>
+            <content:encoded><![CDATA['싱어게인2' MC 이승기의 스페셜 무대가 담긴 영상이 깜짝 공개돼 화제를 모으고 있다. 오는 12월 방송되는 JTBC '싱어게인 시즌 2-무명가수전'(이하 '싱어게인2')은 무대가 간절한 가수들이 대중 앞에 설]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[유아인, ‘2021 AAA’ 참석 확정…6관왕 도전 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000824409</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000824409</guid>
-            <pubDate>Wed, 20 Oct 2021 01:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[연상호 감독의 넷플릭스 신작 ‘지옥’으로 글로벌한 열풍을 몰고 올 배우 유아인이 ‘2021 Asia Artist Awards’에 참석을 확정, 소식만으로도 시상식의 ‘격’을 올린다. 유아인은 오는 12월 2일에 열리]]></content:encoded>
+            <title><![CDATA['풍류대장' 이아진이 쓴 반전의 감동 드라마 '뭉클' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000278780</link>
+            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000278780</guid>
+            <pubDate>Wed, 20 Oct 2021 03:22:02 GMT</pubDate>
+            <content:encoded><![CDATA['풍류대장'이 반전에 반전을 거듭하며 한 편의 감동적인 드라마를 썼다. 지난 19일 방송된 JTBC '풍류대장-힙한 소리꾼들의 전쟁' 4회는 베일에 가려져 있던 1라운드 톱10의 주인공과 2라운드를 뜨겁게 달]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['여친 낙태종용 논란' 김선호 "전 연인에게 준 상처, 진심으로 사과" [전문] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005668013</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005668013</guid>
-            <pubDate>Wed, 20 Oct 2021 01:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 안태현 기자 = 사생활 의혹이 제기된 배우 김선호가 사과문을 통해 전 연인과 팬들에게 사과의 뜻을 밝혔다. 20일 김선호는 소속사 솔트 엔터테인먼트 측을 통해 입장을 밝히면서 "입장이 늦어지게 된 점]]></content:encoded>
+            <title><![CDATA['너를 닮은 사람' 고현정-신현빈, 둘의 첫 만남은 독일어 교실? (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000278779</link>
+            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000278779</guid>
+            <pubDate>Wed, 20 Oct 2021 03:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[JTBC 수목드라마 '너를 닮은 사람'(극본 유보라, 연출 임현욱, 제작 셀트리온 엔터테인먼트, JTBC스튜디오)이 부족함 없어 보이지만 일상의 고단함에 시달리던 주인공 정희주(고현정 분), 그리고 그녀를 화가의]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김선호, 사생활 의혹 논란 "그분께 진심으로 사과하고 싶습니다"[공식][전문] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0002998122</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0002998122</guid>
-            <pubDate>Wed, 20 Oct 2021 01:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[배우 김선호가 사생활 의혹 관련해 입장을 표명했다. 김선호는 20일 오전 소속사 솔트엔터테인먼트를 통해 최근 불거진 사생활 의혹 논란에 대해 입장을 밝혔다. 먼저, 김선호는 "입장이 늦어지게 된 점 진심으로 죄송합니]]></content:encoded>
+            <title><![CDATA[에고이스트(EGOIST), 뮤즈 박민영과 함께한 겨울 화보 공개 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000506504</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000506504</guid>
+            <pubDate>Wed, 20 Oct 2021 03:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[(주)제이씨패밀리(대표 김예철)에서 전개하는 여성 영캐릭터 브랜드 ‘에고이스트(EGOIST)’가 브랜드 뮤즈 박민영과 함께한 겨울 화보를 공개했다. 뮤즈 박민영과 함께한 이번 겨울 헤리티지 라인은 재미있는 디테일들이 어]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[Y초점] 김선호 결국 사과 "실망드려 죄송"→차기작 3편도 불똥(종합) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001654600</link>
-            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001654600</guid>
-            <pubDate>Wed, 20 Oct 2021 01:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[낙태 종용 및 혼인 빙자 등 사생활 논란에 휩싸였던 배우 김선호가 결국 고개를 숙였다. 20일 김선호 소속사 솔트엔터테인먼트 측은 공식 입장문을 통해 관련 논란에 대해 사과했다. 최초 폭로글이 나온 17일 이후 4일]]></content:encoded>
+            <title><![CDATA[손태영, 보석 마저 기죽이는 미모...♥권상우 행복하겠다[TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000506503</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000506503</guid>
+            <pubDate>Wed, 20 Oct 2021 03:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=조준원 기자] 배우 손태영이 우아한 일상을 전했다. 손태영은 20일 자신의 인스타그램에 “드디어 도착했구나 고마워 언제나 응원할게∼ 화이팅! 나의 목걸이, 나의 귀걸이”라는 글과 함께 사진을 게재했다. 공]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘낙태종용설’ 김선호 사과 “내 불찰, 상처드려 죄송” [전문] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000939528</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000939528</guid>
-            <pubDate>Wed, 20 Oct 2021 01:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[‘낙태종용설’ 김선호 사과 “내 불찰, 상처드려 죄송” [전문] 배우 김선호가 전 여자친구에게 사과했다. 김선호는 20일 먼저 “입장이 늦어지게 돼 진심으로 죄송하다. 얼마 전 내 이름이 거론된 기사가 나가고 처음으]]></content:encoded>
+            <title><![CDATA["A씨에 상처줘 죄송"..'사생활 논란' 김선호, '1박 2일' 하차 수순 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003791422</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003791422</guid>
+            <pubDate>Wed, 20 Oct 2021 03:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 문지연 기자] 배우 김선호가 결국 '1박 2일'에서 하차 수순을 밟는다. 김선호가 결국 K배우가 자신임을 인정함에 따라 현재 출연 중인 KBS 2TV '1박 2일'에서의 하차가 불가피하게 됐다. 이번 주]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[제시, 주택가에서 아찔한 섹시美 [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000506484</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000506484</guid>
-            <pubDate>Wed, 20 Oct 2021 01:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=노규민 기자] 가수 제시가 독보적인 몸매로 시선을 강탈했다. 제시는 20일 자신의 인스타그램에 "Now look into my brown eyes"라는 글과 함께 여러 장의 사진을 게재했다. 사진 속 제시]]></content:encoded>
+            <title><![CDATA['대세' 홍진경, 명품브랜드 발렌시아가와 함께한 '특급 화보' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004867154</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004867154</guid>
+            <pubDate>Wed, 20 Oct 2021 03:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[대세 방송인 홍진경이 모델 출신임을 일깨우는 특급 화보로 찾아왔다. 특유의 소녀 같은 미소와 감각적 포즈로 보는 이들을 무장해제시킨다. 홍진경이 프랑스 명품 브랜드 발렌시아가와 함께한 '더 해커 프로젝트' 화보가 매]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[BTS-콜드플레이 '마이 유니버스' 빌보드 싱글 차트 18위 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0012733717</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0012733717</guid>
-            <pubDate>Wed, 20 Oct 2021 01:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[3주 연속 핫 100 상위권…BTS, 글로벌 차트에도 4곡 이름 올려 TXT 정규 2집, 월드 앨범 차트 8위 기록…통산 19주 '차트 인' (서울=연합뉴스) 김예나 기자 = 그룹 방탄소년단(BTS)과 밴드 콜드플레]]></content:encoded>
+            <title><![CDATA[장영란, 바쁘지만 행복한 워킹맘...오늘도 잘 배우다 가겠습니다[TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000506502</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000506502</guid>
+            <pubDate>Wed, 20 Oct 2021 03:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=조준원 기자] 방송인 장영란이 일상을 전했다. 장영란은 20일 자신의 인스타그램에 "#가을뇨자 오늘도 잘 배우다 가겠습니다 #금쪽같은내새끼 #대기실컷그램 #장영란그램 #장블리그램 #공감여왕장영란그램"이라는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘홍천기’ 송원석, 안효섭·김유정 구하며 비극적 최후 [TV핫스팟] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000594735</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000594735</guid>
-            <pubDate>Wed, 20 Oct 2021 01:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[배우 송원석이 강렬한 임팩트를 선사했다. SBS 월화드라마 ‘홍천기’에서 하람(안효섭)의 호위무사 무영 역을 맡은 송원석이 마지막까지 존재감을 발산하며 퇴장했다. '홍천기'는 신령한 힘을 가진 여화공 홍천기와 하늘의]]></content:encoded>
+            <title><![CDATA['유퀴즈' 정호연 출연, '오징어게임' 비하인드 전한다…오늘(20일) 방송 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003791421</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003791421</guid>
+            <pubDate>Wed, 20 Oct 2021 03:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 이승미 기자]tvN '유 퀴즈 온 더 블럭'에 글로벌 대세로 발돋움한 배우 정호연이 출격한다. 20일 방송되는 tvN '유 퀴즈 온 더 블럭(연출 김민석, 박근형/작가 이언주)' 127회에는 지난 예고편]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[제이지♥︎비욘세 9세 딸, 훌쩍 커 광고 등장..스타2세 탄생 [Oh!llywood] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004494613</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004494613</guid>
+            <pubDate>Wed, 20 Oct 2021 03:22:37 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최나영 기자] 세계적인 팝스타 부부 비욘세와 제이지의 딸 블루 아이비가 광고에 등장해 인기를 끌고 있다. '파워 커플' 제이지와 비욘세의 사랑스러운 딸 블루 아이비가 티파니 &amp; Co의 새로운 광고에 출연하]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[해리 스타일스, 10살 연상 여친과 데이트 포착[파파라치컷] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000501536</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000501536</guid>
+            <pubDate>Wed, 20 Oct 2021 03:22:37 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 해리 스타일스가 여자친구와 포착됐다. 스플래쉬닷컴은 10월 16일(현지시간) 뉴욕에서 포착된 해리 스타일스와 올리비아 와일드의 모습을 공개했다. 해리 스타일스는 매디슨 스퀘어 가든 공연을 하루]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['임신' 제니퍼 로렌스, 남편과 외출 '다정한 일상'[파파라치컷] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000501533</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000501533</guid>
+            <pubDate>Wed, 20 Oct 2021 03:22:37 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 배우 제니퍼 로렌스가 남편과 외출했다. 스플래쉬닷컴은 10월 17일(현지시간) 미국 뉴욕 소호에서 포착된 제니퍼 로렌스, 쿡 마로니 부부의 모습을 공개했다. 제니퍼 로렌스와 쿡 마로니는 이날]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[넷플릭스 또 상향, 1억4200만 가구가 오징어게임 시청(상보) (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
@@ -1509,27 +1537,6 @@
             <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001361643</guid>
             <pubDate>Tue, 19 Oct 2021 01:09:48 GMT</pubDate>
             <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) 마블 시네마틱 유니버스(MCU) 페이즈4 영화들의 개봉 일정이 전면 재조정된다. 18일(현지시간) 디즈니는 MCU 페이즈4 작품인 '닥터 스트레인지 인 멀티버스 오브 매드니스'부터 '토르]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['원더우먼3' 린다 카터, 출연 확정…갤 가돗과 연기 호흡[Oh!llywood] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004493931</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004493931</guid>
-            <pubDate>Tue, 19 Oct 2021 01:09:48 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자] 패티 젠킨스 감독이 배우 갤 가돗, 린다 카터와 ‘원더 우먼’ 3편을 꾸렸다. 16일(현지 시간) 패티 젠킨스 감독은 ‘DC 팬덤 2021’에서 갤 가돗, 린다 카터와의 ‘원더 우먼’ 새 시]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[미야와키 사쿠라, 日 인터뷰서 한국 김치 극찬 "내 피부 비결" (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000501034</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000501034</guid>
-            <pubDate>Tue, 19 Oct 2021 01:09:48 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박수인 기자] 아이즈원 출신 미야와키 사쿠라가 일본 언론에서 한국 김치를 극찬했다. 미야와키 사쿠라는 10월 17일 공개된 일본 잡지 MAQUIA와의 인터뷰에서 자주 쓰는 화장품, 뷰티팁 등을 소개하는 시간]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[스파이더맨, 못 말리는 사랑꾼…♥젠다야 응원 "스윗" [Oh!llywood] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004493866</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004493866</guid>
-            <pubDate>Mon, 18 Oct 2021 23:22:49 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=장우영 기자] 할리우드 배우 톰 홀랜드와 젠다야가 달콤한 애정 전선을 보였다. 톰 홀랜드는 19일 자신의 인스타그램에 “Dune”이라는 글과 눈이 하트가 된 이모티콘, 흑백 사진을 게재했다. 사진에는 톰]]></content:encoded>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 01:09:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 03:22:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프랑스 뮤지컬 '노트르담 드 파리' 11월 세종 대극장 개막]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=166950</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=166950</guid>
+            <pubDate>Wed, 20 Oct 2021 03:21:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=166950">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211020110152_89fee6fe47e7bc791421fb8c4c0238d4.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=166950">프랑스 뮤지컬 '노트르담 드 파리' 11월 세종 대극장 개막</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211020110152_89fee6fe47e7bc791421fb8c4c0238d4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김선호 공식입장 발표 "진심으로 죄송합니다"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=166916</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=164535">밀리독자는 '불편한 편의점'을 좋아한다 '밀리의 서재, 9월의 차트'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211007094758_277c0dba9ddfafeba01fc2c9fe1c9fe6.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[창작뮤지컬 '팬레터' 12월 코엑스아티움 개막]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=164366</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=164366</guid>
-            <pubDate>Wed, 06 Oct 2021 06:25:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164366">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211006125750_5feaa85454d3f2c3c5b9b4e7a85a30a1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=164366">창작뮤지컬 '팬레터' 12월 코엑스아티움 개막</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211006125750_5feaa85454d3f2c3c5b9b4e7a85a30a1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
