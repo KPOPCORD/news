@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-10-20T17:25:20.104Z</updated>
+    <updated>2021-10-20T18:23:48.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['골때녀' FC원더우먼→FC탑걸, 신생팀 공개..채리나, "체력 만들어서 시험관 성공하고파"]]></title>
+        <id>https://entertain.v.daum.net/v/20211021023900012</id>
+        <link href="https://entertain.v.daum.net/v/20211021023900012"/>
+        <updated>2021-10-20T18:23:18.312Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] FC원더우먼과 FC탑걸의 멤버들이 공개됐다. 20일 방송된 SBS '골 때리는 그녀들'(이하 '골때녀')에서는 시즌2 정규 리그를 준비하는 선수들의 모습이 그려졌다. 이날 방송에서는 FC액셔니스타의 이미도, 지이수의 하차 소식이 전해졌다. 스케줄 문제로 더 이상 함께할 수 없게 된 것. 하지만 감독은 다른 팀들과 달리 지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김선호 전 여친 "마음 무너져, 사과 받아"..최초 폭로글 삭제]]></title>
         <id>https://entertain.v.daum.net/v/20211021021549961</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211021002701429"/>
         <updated>2021-10-20T16:31:44.097Z</updated>
         <content type="html"><![CDATA[백종원이 전골칼국숫집 사장님과 음식 간의 문제로 팽팽한 의견 대립을 이어갔다. 20일 방송된 SBS ‘백종원의 골목식당’에서는 37번째 골목 ‘신철원’ 골목 두 번째 이야기가 공개됐다. 전골칼국숫집을 운영하는 이복순 사장님은 "동네에선 맛집으로 알려져 있는데, 외부 사람들은 잘 모른다"고 고민을 털어놨다. 백종원은 이 가게를 찾아가 국물을 한 입 먹곤]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['골목식당' 백종원, 철원 전골 칼국수에 "간이 너무 안 맞아" 혹평]]></title>
-        <id>https://entertain.v.daum.net/v/20211021002330417</id>
-        <link href="https://entertain.v.daum.net/v/20211021002330417"/>
-        <updated>2021-10-20T16:31:44.098Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] ‘골목식당’ 백종원이 21년 역사를 자랑하는 철원 전골 칼국수에 대해 “간이 아예 안 맞는다”고 혹평했다. 20일 방송된 SBS ‘골목식당’에서 백종원은 철원 전골 칼국숫집을 방문했다. 철원 칼국숫집은 2020 도쿄올림픽 유도 동메달에 빛나는 안창림이 방문한 집. 그런데 전골 칼국수 시식에 나선 백종원은 국물을 한 입 먹자마자 의]]></content>
     </entry>
 </feed>
