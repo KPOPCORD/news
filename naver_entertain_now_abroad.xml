@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-20T08:24:14.667Z</updated>
+    <updated>2021-10-20T09:20:47.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쿠엔틴 타란티노, 20세 연하 모델 아내와 레드카펫서 입맞춤 [N해외연예]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005670195</id>
+        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005670195"/>
+        <updated>2021-10-20T09:20:47.074Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 쿠엔틴 타란티노 감독(58)이 20세 연하 아내 다니엘라 픽(38) 영화제 레드카펫에서 입맞춤을 나눴다. 쿠엔틴 타란티노 감독은 19일(현지시간) 아내 다니엘라 픽(Daniella P]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[콜드플레이 "BTS와 협업, 처음엔 불가능한 일이라 생각" (종합)]]></title>
         <id>https://entertain.naver.com/now/read?oid=052&amp;aid=0001654830</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000824469"/>
         <updated>2021-10-20T07:20:40.792Z</updated>
         <content type="html"><![CDATA[라잇썸이 19일 서울 마포구 상암동 SBS프리즘타워에서 진행된 SBS MTV '더쇼' 생방송 무대에 참석해 멋진 무대를 선보이고 있다. 사진=SBS MTV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위클리 지한 '매력에 풍덩~' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000824468</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000824468"/>
-        <updated>2021-10-20T07:20:40.794Z</updated>
-        <content type="html"><![CDATA[위클리 지한이 19일 서울 마포구 상암동 SBS프리즘타워에서 진행된 SBS MTV '더쇼' 생방송 무대에 참석해 진행을 하고 있다. 사진=SBS MTV]]></content>
     </entry>
 </feed>
