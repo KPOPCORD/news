@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 21:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 22:20:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소녀시대 태연, 군살 제로 슬림 몸매 자랑 [인스타]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328390</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328390</guid>
+            <pubDate>Wed, 20 Oct 2021 22:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328390">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/20/BgjJBJyA0Hb8637703711765955442.jpg" alt="소녀시대 태연, 군살 제로 슬림 몸매 자랑 [인스타] ">        <div class="text-box">            <p class="summary">소녀시대 태연, 군살 제로 슬림 몸매 자랑 [인스타] </p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/20/BgjJBJyA0Hb8637703711765955442.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['주간아이돌' 이특, 스페셜 MC 출격]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/328350</link>
@@ -86,14 +94,6 @@
             <pubDate>Wed, 20 Oct 2021 04:26:31 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328344">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/20/66bfb5e0-c79c-4c1b-9435-f5d35cb1ba40.jpg" alt="[포토] 우주소녀 다영, '막방'에 울먹이며 아쉬워~">        <div class="text-box">            <p class="summary">[포토] 우주소녀 다영, '막방'에 울먹이며 아쉬워~</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/20/66bfb5e0-c79c-4c1b-9435-f5d35cb1ba40.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 우주소녀 다영, '라바' 오늘 막방이예요~]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328342</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328342</guid>
-            <pubDate>Wed, 20 Oct 2021 04:26:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328342">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/20/17b16c94-c7ff-4b40-8bc4-5b383210cc73.jpg" alt="[포토] 우주소녀 다영, '라바' 오늘 막방이예요~">        <div class="text-box">            <p class="summary">[포토] 우주소녀 다영, '라바' 오늘 막방이예요~</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/20/17b16c94-c7ff-4b40-8bc4-5b383210cc73.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
