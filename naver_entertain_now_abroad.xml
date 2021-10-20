@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-20T15:21:49.488Z</updated>
+    <updated>2021-10-20T16:32:12.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비욘세, 하객 패션도 '아찔'…볼륨 뽐낸 패션+초호화 다이아 쓱!]]></title>
+        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004659388</id>
+        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004659388"/>
+        <updated>2021-10-20T16:32:11.860Z</updated>
+        <content type="html"><![CDATA[['티파니 앤 코' 알렉상드르 아르노 결혼식 참석한 비욘세, 볼륨 강조한 하객 룩] 팝 가수 비욘세가 아찔한 클리비지 룩을 선보였다. 비욘세는 19일(이하 현지시간) 자신의 인스타그램을 통해 사진 여러 장을 공개했다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['두번째 결혼' 패리스 힐튼, 브라이덜 샤워도 '초호화']]></title>
+        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004618769</id>
+        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004618769"/>
+        <updated>2021-10-20T16:32:11.861Z</updated>
+        <content type="html"><![CDATA[할리우드 스타 패리스 힐튼이 최근 화려한 '브라이덜 샤워 파티'를 마쳤다. 18일(현지시간) 페이지 식스의 보도에 따르면 베스트셀러 작가 겸 벤처 투자가인 약혼자 카터 룸과의 11월 결혼을 앞두고 있는 힐튼 재벌의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['베컴 아들' 브루클린♥니콜라 펠츠, 과감한 커플 사진 '깜짝']]></title>
         <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004659384</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000824476"/>
         <updated>2021-10-20T08:24:14.020Z</updated>
         <content type="html"><![CDATA[싸이퍼가 19일 서울 마포구 상암동 SBS프리즘타워에서 진행된 SBS MTV '더쇼' 생방송 무대에 참석해 멋진 무대를 선보이고 있다. 사진=SBS MTV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙스완 '차원이 다른 웨이브' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000824474</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000824474"/>
-        <updated>2021-10-20T08:24:14.021Z</updated>
-        <content type="html"><![CDATA[블랙스완이 19일 서울 마포구 상암동 SBS프리즘타워에서 진행된 SBS MTV '더쇼' 생방송 무대에 참석해 멋진 무대를 선보이고 있다. 사진=SBS MTV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라잇썸 '다함께 제로투' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000824473</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000824473"/>
-        <updated>2021-10-20T08:24:14.022Z</updated>
-        <content type="html"><![CDATA[라잇썸이 19일 서울 마포구 상암동 SBS프리즘타워에서 진행된 SBS MTV '더쇼' 생방송 무대에 참석해 멋진 무대를 선보이고 있다. 사진=SBS MTV]]></content>
     </entry>
 </feed>
