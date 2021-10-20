@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-10-20T05:19:13.569Z</updated>
+    <updated>2021-10-20T06:24:48.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SKE48 스기야마 아이카, 졸업 발표 "12월 말까지, 이후 안무가로 활동할 것"]]></title>
+        <id>https://entertain.v.daum.net/v/20211020144803818</id>
+        <link href="https://entertain.v.daum.net/v/20211020144803818"/>
+        <updated>2021-10-20T06:24:27.346Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] SKE48 스기야마 아이카가 연내 팀 졸업을 발표했다. SKE48 측은 최근 공식 홈페이지를 통해 "스기야마 아이카가 12월 31일 졸업한다. 졸업 공연은 12월 중 예정이며 자세한 것은 추후 발표할 것"이라고 밝혔다. 스기야마 아이카는 "약 7년 간 많은 경험을 했다. 7년이라는 세월은 눈깜짝할 정도의 시간이었다. 저는 내년 봄이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스 가입자 438만 명↑..외신 "'오징어 게임' 인기 덕분"]]></title>
         <id>https://entertain.v.daum.net/v/20211020110406099</id>

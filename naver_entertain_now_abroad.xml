@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-20T05:19:13.567Z</updated>
+    <updated>2021-10-20T06:24:48.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SKE48 스기야마 아이카, 졸업 발표 "12월 말까지, 이후 안무가로 활동할 것"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000501644</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000501644"/>
+        <updated>2021-10-20T06:24:48.005Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] SKE48 스기야마 아이카가 연내 팀 졸업을 발표했다. SKE48 측은 최근 공식 홈페이지를 통해 "스기야마 아이카가 12월 31일 졸업한다. 졸업 공연은 12월 중 예정이며 자세한 것은 추후]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[베컴♥︎펠츠, 누드 커플샷 "정말로 사랑해"[Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004494687</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=018&amp;aid=0005063710"/>
         <updated>2021-10-19T03:22:38.029Z</updated>
         <content type="html"><![CDATA[마동석(사진=AFP) [이데일리 스타in 박미애 기자] 마동석이 마블영화 ‘이터널스’의 월드 프리미어 행사에 참석해 눈길을 끌었다. 마동석은 18일(현지 시각) 미국 로스엔젤레스에서 열린 ‘이터널스’(감독 클로이 자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[톰 홀랜드, ♥젠데이아 향한 럽스타그램…'듄' 홍보 돕는 스파이더맨]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001361687</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001361687"/>
-        <updated>2021-10-19T02:34:22.099Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 톰 홀랜드가 연인인 젠데이아에 대한 애정을 드러냈다. 18일(현지시간) 톰 홀랜드는 자신의 인스타그램에 "Dune"(듄)이라는 글과 함께 사진을 게재했다. 공개된 사진에는 '듄'의 월드]]></content>
     </entry>
 </feed>
