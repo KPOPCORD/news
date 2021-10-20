@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-10-20T18:23:48.049Z</updated>
+    <updated>2021-10-20T19:17:14.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['골목식당' 백종원, 콩나물국밥집 육수에 "이것만으로 완벽"..전골칼국수집에는 연이어 '혹평']]></title>
+        <id>https://entertain.v.daum.net/v/20211021032700406</id>
+        <link href="https://entertain.v.daum.net/v/20211021032700406"/>
+        <updated>2021-10-20T19:16:45.126Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 전골칼국수집은 간을 잡을 수 있을까? 20일 방송된 SBS '골목식당'에서는 철원 골목상권에 대한 솔루션이 진행됐다. 이날 방송에서 세 MC는 지난 방송에서 약속한 대로 콩나물국밥집에서 아침 식사를 했다. 그리고 세 사람 모두 그 맛에 대만족 했다. 하지만 사장님은 "조금 더 맛있었으면 좋겠는데"라며 아쉬움을 드러냈다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['골때녀' FC원더우먼→FC탑걸, 신생팀 공개..채리나, "체력 만들어서 시험관 성공하고파"]]></title>
         <id>https://entertain.v.daum.net/v/20211021023900012</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211021002848444"/>
         <updated>2021-10-20T16:31:44.094Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 이승록 기자] 배우 한정수가 자신의 연애 관련 소문을 해명했다. 20일 케이블채널 MBC에브리원 '대한외국인'에 한정수가 게스트로 출연한 가운데, MC 김용만은 한정수를 가리켜 "항간에 이런 소문이 있다. '사귄 여자 분이 4천명이 된다'. 들어 봤죠?"라고 말해 모두를 놀라게 했다. 한정수는 "많이 와전됐다"며 "말이 한번 건너가고, 한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['골목식당' 백종원VS칼국숫집 사장, '싱겁다VS짜다' 의견 대립 팽팽]]></title>
-        <id>https://entertain.v.daum.net/v/20211021002701429</id>
-        <link href="https://entertain.v.daum.net/v/20211021002701429"/>
-        <updated>2021-10-20T16:31:44.097Z</updated>
-        <content type="html"><![CDATA[백종원이 전골칼국숫집 사장님과 음식 간의 문제로 팽팽한 의견 대립을 이어갔다. 20일 방송된 SBS ‘백종원의 골목식당’에서는 37번째 골목 ‘신철원’ 골목 두 번째 이야기가 공개됐다. 전골칼국숫집을 운영하는 이복순 사장님은 "동네에선 맛집으로 알려져 있는데, 외부 사람들은 잘 모른다"고 고민을 털어놨다. 백종원은 이 가게를 찾아가 국물을 한 입 먹곤]]></content>
     </entry>
 </feed>
