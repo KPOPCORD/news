@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-20T13:26:25.895Z</updated>
+    <updated>2021-10-20T14:19:37.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['뽕숭아학당', 진격의 '스우파' 패러디]]></title>
+        <id>https://entertain.v.daum.net/v/20211020223206246</id>
+        <link href="https://entertain.v.daum.net/v/20211020223206246"/>
+        <updated>2021-10-20T14:19:05.822Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 이기은 기자] ‘뽕숭아학당’이 Mnet 예능프로그램 ‘스트릿 우먼 파이터’를 패러디한 트롯 배틀을 펼쳤다. 20일 밤 방송된 TV조선 예능프로그램 ‘뽕숭아학당’에서는 장민호, 이찬원, 정동원, 황윤성 등의 트로트 가수들의 성장 프로젝트가 공개됐다. 이찬원과 황윤성, 시현 등이 청춘시대 크루를 형성했다. 이들은 밝고 상큼한 에너지로 아이돌, 트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[씨엔블루, '싹둑' 컴백..알고 보니 컨셉 맛집]]></title>
         <id>https://entertain.v.daum.net/v/20211020203730284</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211020180008705"/>
         <updated>2021-10-20T09:20:19.147Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) 가수 거미가 이별의 감정을 담은 신곡으로 돌아왔다.&nbsp; 거미 새 싱글 '그래도 사랑이었잖아'는 20일 오후 6시 각종 온라인 음원사이트를 통해 공개됐다.&nbsp; 이번 신곡 '그래도 사랑이었잖아"는 누구나 한 번쯤 경험해봤을 이별 후의 감정을 담은 곡이다. 미련과 후회, 추억을 담아 리스너들에게 깊은 공감과 위로를 전달한다.&nbsp; '그래도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["떠나지 않아"..은혁, 꿈으로 가득한 그 시절의 '비']]></title>
-        <id>https://entertain.v.daum.net/v/20211020180003695</id>
-        <link href="https://entertain.v.daum.net/v/20211020180003695"/>
-        <updated>2021-10-20T09:20:19.150Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) 그룹 슈퍼주니어 은혁이 데뷔 첫 싱글을 발표하며 솔로 가수로서 음악적 역량을 드러냈다.&nbsp; 은혁 데뷔 첫 싱글 '비(be)'는 20일 오후 6시 각종 온라인 음원사이트를 통해 공개됐다.&nbsp; 타이틀곡 '비'는 신스와 베이스의 플럭이 스윙감 넘치는 리듬과 만나 그루브한 리드미컬함이 돋보이는 팝 장르의 곡. 은혁이 단독 작사에 참여한]]></content>
     </entry>
 </feed>
