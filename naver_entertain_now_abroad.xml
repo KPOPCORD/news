@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-20T04:27:06.120Z</updated>
+    <updated>2021-10-20T05:19:13.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[베컴♥︎펠츠, 누드 커플샷 "정말로 사랑해"[Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004494687</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004494687"/>
+        <updated>2021-10-20T05:19:12.946Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 축구스타 데이비드 베컴의 장남 브루클린 베컴과 모델 겸 배우 니콜라 펠츠가 파격적인 커플샷을 선보였다. 펠츠는 20일(한국시간) 자신의 SNS에 "정말로 사랑해”란 글과 함께 두 장의 사진을]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[할리우드Y] 칸예 웨스트, 개명 완료 "이제 예(Ye)라고 불러주세요"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=052&amp;aid=0001654702</id>
+        <link href="https://entertain.naver.com/now/read?oid=052&amp;aid=0001654702"/>
+        <updated>2021-10-20T05:19:12.946Z</updated>
+        <content type="html"><![CDATA[래퍼 칸예 웨스트가 할리우드 사상 전무후무한 개명의 역사를 썼다. 18일(현지시간) 롤링스톤스를 비롯한 외신에 따르면 로스앤젤레스 고등법원은 칸예 웨스트의 개명 신청을 승인했다. 앞서 칸예 웨스트는 지난 8월 개인적]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제이지♥︎비욘세 9세 딸, 훌쩍 커 광고 등장..엄빠 판박이 [Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004494613</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001361687"/>
         <updated>2021-10-19T02:34:22.099Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 톰 홀랜드가 연인인 젠데이아에 대한 애정을 드러냈다. 18일(현지시간) 톰 홀랜드는 자신의 인스타그램에 "Dune"(듄)이라는 글과 함께 사진을 게재했다. 공개된 사진에는 '듄'의 월드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제니퍼 로렌스, 살짝 드러난 D라인…6세 연상 남편과 데이트 [N해외연예]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005665833</id>
-        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005665833"/>
-        <updated>2021-10-19T02:34:22.099Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 임신 중인 할리우드 스타 제니퍼 로렌스(31)가 6살 연상 남편과 길거리에서 포착됐다. 미국 연예매체 스플래시닷컴은 지난 17일(현지시간) 미국 뉴욕 거리에서 포착된 제니퍼 로렌스와]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디즈니, MCU 페이즈4 영화 개봉일 전면 재조정…DC팬돔 영향? [엑's 할리우드]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001361643</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001361643"/>
-        <updated>2021-10-19T01:09:48.578Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 마블 시네마틱 유니버스(MCU) 페이즈4 영화들의 개봉 일정이 전면 재조정된다. 18일(현지시간) 디즈니는 MCU 페이즈4 작품인 '닥터 스트레인지 인 멀티버스 오브 매드니스'부터 '토르]]></content>
     </entry>
 </feed>
