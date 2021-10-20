@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 23:21:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 01:09:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘쇼챔피언’ 문빈·윤산하·강민, ‘딴콩민’ 표 퍼포먼스+엔하이픈 컴백 무대 선사]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328312</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328312</guid>
+            <pubDate>Wed, 20 Oct 2021 01:08:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328312">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/20/EQRvNeVV4aVQ637703193476221804.jpg" alt="‘쇼챔피언’ 문빈·윤산하·강민, ‘딴콩민’ 표 퍼포먼스+엔하이픈 컴백 무대 선사">        <div class="text-box">            <p class="summary">‘쇼챔피언’ 문빈·윤산하·강민, ‘딴콩민’ 표 퍼포먼스+엔하이픈 컴백 무대 선사</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/20/EQRvNeVV4aVQ637703193476221804.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 핫100→글로벌200 상위권 포진]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/328296</link>
@@ -86,14 +94,6 @@
             <pubDate>Tue, 19 Oct 2021 02:33:43 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328187">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/19/31c381bd-d598-4a0a-8727-522fef55eafb.jpg" alt="박지훈, 물 오른 고품격 비주얼">        <div class="text-box">            <p class="summary">박지훈, 물 오른 고품격 비주얼</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/19/31c381bd-d598-4a0a-8727-522fef55eafb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장준·권은비·우즈·조유리, '아이돌라디오2' 남매 케미]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328175</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328175</guid>
-            <pubDate>Tue, 19 Oct 2021 01:09:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328175">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/19/f21ca8ca-3bf9-49d7-8173-9a5ad991c5c8.jpg" alt="장준·권은비·우즈·조유리, '아이돌라디오2' 남매 케미">        <div class="text-box">            <p class="summary">장준·권은비·우즈·조유리, '아이돌라디오2' 남매 케미</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/19/f21ca8ca-3bf9-49d7-8173-9a5ad991c5c8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
