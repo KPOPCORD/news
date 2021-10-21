@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-21T10:24:06.490Z</updated>
+    <updated>2021-10-21T11:17:58.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다크비 룬·준서·해리준, 개인 티저 공개]]></title>
+        <id>https://entertain.v.daum.net/v/20211021195251726</id>
+        <link href="https://entertain.v.daum.net/v/20211021195251726"/>
+        <updated>2021-10-21T11:17:24.904Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 오는 28일 컴백하는 신인 그룹 다크비(DKB) 룬, 준서, 해리준이 첫 번째 싱글 앨범 ‘Rollercoaster’ 개인 콘셉트 포토 티저를 공개했다. 소속사 브레이브 엔터테인먼트는 다크비(DKB)의 공식 SNS를 통해 새로운 콘셉트로 완벽 변신에 성공한 룬, 준서, 해리준의 포토 티저를 공개하면서 신보에 대한 기대감을 높였다. 사진 속]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤종신, 'Slow Starter' 발매..이승기 가창 "노래하는 방식에 매료"]]></title>
         <id>https://entertain.v.daum.net/v/20211021185254386</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211021162523436"/>
         <updated>2021-10-21T08:24:10.432Z</updated>
         <content type="html"><![CDATA[[OSEN=이승훈 기자] 가수 송가인이 스톳스타 랭킹 1위 자리를 10주째 유지 중이다. 송가인은 지난 10월 14일부터 21일까지 스타랭킹 플랫폼에서 진행된 ‘트롯스타 여자 1위는?’이라는 투표에서 85,350표를 얻으며 1위를 기록했다. 이로써 송가인은 트롯스타 랭킹에서 10주 연속 1위 자리를 지키며 역대 최장기간 1위를 차지한 여자 가수가 됐다. 앞]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 배우 박강현x베스티 출신 정유지, 크리스마스 입맞춤]]></title>
-        <id>https://entertain.v.daum.net/v/20211021162359391</id>
-        <link href="https://entertain.v.daum.net/v/20211021162359391"/>
-        <updated>2021-10-21T08:24:10.432Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] 뮤지컬 배우 박강현과 베스티 출신 정유지가 입을 맞춘다.&nbsp; 크리스마스를 맞이해&nbsp;‘헐리우드 인 크리스마스’&nbsp;콘서트가&nbsp;12월&nbsp;18일(토)&nbsp;롯데콘서트홀에서&nbsp;개최된다. 이는 할리우드 영화에 삽입된 클래식 음악을 큐레이션 한 영화음악 콘서트다.&nbsp; 영화&nbsp;‘나 홀로 집에’, ‘로맨틱 홀리데이’, ‘노팅힐’, ‘미녀와 야수’, ‘러브 어페어’,]]></content>
     </entry>
 </feed>
