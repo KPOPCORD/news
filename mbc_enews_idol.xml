@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 07:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 08:24:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[킹덤 "목표는 빌보드·그래미" 초대형 세계관 업고 컴백 [종합]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328480</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328480</guid>
+            <pubDate>Thu, 21 Oct 2021 08:24:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328480">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/21/ca8efb2a-8b54-45ac-842c-55a98d151462.JPG" alt="킹덤 " 목표는="" 빌보드·그래미"="" 초대형="" 세계관="" 업고="" 컴백="" [종합]"="">        <div class="text-box">            <p class="summary">킹덤 "목표는 빌보드·그래미" 초대형 세계관 업고 컴백 [종합]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/21/ca8efb2a-8b54-45ac-842c-55a98d151462.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[킹덤 "빅뱅·방탄소년단이 롤모델…영감 얻는다"]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/328464</link>
@@ -86,14 +94,6 @@
             <pubDate>Thu, 21 Oct 2021 01:13:40 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328425">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/21/XXLaUVQ9Mj41637704074396754078.jpg" alt="에스파, ‘Savage’로 발매 15일 만에 음반 판매량 51만장 돌파">        <div class="text-box">            <p class="summary">에스파, ‘Savage’로 발매 15일 만에 음반 판매량 51만장 돌파</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/21/XXLaUVQ9Mj41637704074396754078.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['야생돌', 팀원 트레이드 재진행에 무릎까지 꿇었다]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328422</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328422</guid>
-            <pubDate>Thu, 21 Oct 2021 01:13:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328422">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/21/b667a470-956d-4fce-92dd-9756e63b0e26.jpg" alt="'야생돌', 팀원 트레이드 재진행에 무릎까지 꿇었다">        <div class="text-box">            <p class="summary">'야생돌', 팀원 트레이드 재진행에 무릎까지 꿇었다</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/21/b667a470-956d-4fce-92dd-9756e63b0e26.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
