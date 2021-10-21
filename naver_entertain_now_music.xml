@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-21T19:16:46.812Z</updated>
+    <updated>2021-10-21T20:22:08.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AKMU, 드디어 팬들 만남..온·오프라인 공연 참여]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002998608</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002998608"/>
+        <updated>2021-10-21T20:21:55.096Z</updated>
+        <content type="html"><![CDATA['무대 장인' AKMU가 드디어 온·오프라인 공연을 통해 음악팬들과 만난다. 컬래버레이션 앨범 [NEXT EPISODE]의 인기 롱런 속 이들의 따스한 위로와 치유의 노래가 많은 이의 마음을 녹일 것으로 기대된다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2PM 준호, 크리스마스 시즌 앞두고 여심 화보 예고…팬들 관심 집중]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001363005</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001363005"/>
+        <updated>2021-10-21T20:21:55.096Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 2PM 준호가 21일 록시땅 홀리데이 매직 컬렉션 런칭과 함께 화보 촬영을 진행했다. 이번 화보 촬영은 남성미 넘치면서도 귀여운 준호의 매력이 가득 담겨, 본편을 공개하기도 전에 화제를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[황치열, 2년 만에 단독 콘서트 개최…다채로운 무대 예고]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010785185</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002998564"/>
         <updated>2021-10-21T12:33:04.048Z</updated>
         <content type="html"><![CDATA[가수 임영웅이 추위를 녹이는 훈훈한 잘생김으로 팬심을 설레게 했다. 임영웅이 모델로 활약하고 있는 웰메이드는 21일 오후 공식 유튜브 채널을 통해 '[임영웅 추천] 인디안 21FW 겨울 신상 히어로 다운점퍼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['국민가수' 팀 미션 가동…백지영·김범수 심사 포인트는?]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010785065</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010785065"/>
-        <updated>2021-10-21T12:33:04.050Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]안소윤 인턴 기자 = '내일은 국민가수'가 본선 제 1라운드 '팀 미션'을 가동한다. 21일 오후 10시 방송되는 TV 조선 '내일은 국민가수' 3회에서는 총 111팀 중 '마스터 예심전'을 뚫고 올라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영탁, '서울드라마어워즈' 수상 "음악의 시작 OST 였다…감회 새로워"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010785059</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010785059"/>
-        <updated>2021-10-21T12:33:04.050Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]안소윤 인턴 기자 = 가수 영탁이 '서울드라마어워즈 2021' 한류드라마 OST상 수상 소감을 전했다. 21일 영탁은 자신의 인스타그램 계정을 통해 "오늘 서울드라마어워즈 시상식에서 한류드라마 OST상]]></content>
     </entry>
 </feed>
