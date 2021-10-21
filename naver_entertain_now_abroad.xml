@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-21T08:24:41.309Z</updated>
+    <updated>2021-10-21T09:21:26.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['힐튼 상속녀' 패리스 힐튼, 뜻밖의 폭로…"나는 아동학대 생존자"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619179</id>
+        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004619179"/>
+        <updated>2021-10-21T09:21:26.069Z</updated>
+        <content type="html"><![CDATA[세계적 호텔 힐튼의 상속자 패리스 힐튼이 뜻밖의 폭로로 시선을 모았다. 20일(현지시간) 미국 NBC방송에 따르면 힐튼은 민자등 의원들과 함께 워싱턴DC 의회 앞에서 10대 시절 기숙학교에서 가혹행위에 시달린 경험을]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中 OTT, '오징어 게임' 표절 논란에 "오해였다"…해명까지 비판↑ [종합]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001362799</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001362799"/>
+        <updated>2021-10-21T09:21:26.070Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 중국의 OTT 서비스 요우쿠(YOUKU)가 최근 넷플릭스 오리지널 시리즈 '오징어 게임'을 표절한 의혹을 받는 예능 프로그램 런칭에 대해 해명했다. 지난 20일 요우쿠는 공식 웨이보를 통]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["난 아동학대 피해자"… 패리스 힐튼, 10대 시절 피해 고백]]></title>
         <id>https://entertain.naver.com/now/read?oid=417&amp;aid=0000746142</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000824803"/>
         <updated>2021-10-21T06:24:47.137Z</updated>
         <content type="html"><![CDATA[킹덤 아서가 21일 오후 온라인으로 진행된 세번째 미니앨범 'History Of Kingdom : Part Ⅲ. IVAN(히스토리 오브 킹덤 : 파트 3. 아이반)' 발매 기념 쇼케이스에 참석해 멋진 무대를 선보이고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[킹덤 무진 '시크 하트' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000824802</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000824802"/>
-        <updated>2021-10-21T06:24:47.138Z</updated>
-        <content type="html"><![CDATA[킹덤 무진이 21일 오후 온라인으로 진행된 세번째 미니앨범 'History Of Kingdom : Part Ⅲ. IVAN(히스토리 오브 킹덤 : 파트 3. 아이반)' 발매 기념 쇼케이스에 참석해 멋진 무대를 선보이고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[킹덤 루이 '겨울 사냥꾼의 하트' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000824801</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000824801"/>
-        <updated>2021-10-21T06:24:47.139Z</updated>
-        <content type="html"><![CDATA[킹덤 루이가 21일 오후 온라인으로 진행된 세번째 미니앨범 'History Of Kingdom : Part Ⅲ. IVAN(히스토리 오브 킹덤 : 파트 3. 아이반)' 발매 기념 쇼케이스에 참석해 멋진 무대를 선보이고]]></content>
     </entry>
 </feed>
