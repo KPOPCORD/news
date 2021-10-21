@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 21:18:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 22:20:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강혜원, 매일 리즈 경신…오늘도 예쁨 [인스타]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328511</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328511</guid>
+            <pubDate>Thu, 21 Oct 2021 22:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328511">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/22/ibJJoBsq4ZKn637704640088640350.jpg" alt="강혜원, 매일 리즈 경신…오늘도 예쁨 [인스타] ">        <div class="text-box">            <p class="summary">강혜원, 매일 리즈 경신…오늘도 예쁨 [인스타] </p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/22/ibJJoBsq4ZKn637704640088640350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이유, 명품 원피스 완벽 소화 섹시美 자랑 [인스타]]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/328510</link>
@@ -86,14 +94,6 @@
             <pubDate>Thu, 21 Oct 2021 02:36:42 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328435">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/21/fyZOeY4Yia7C637704096859101694.jpg" alt="박지훈, 'Serious' 뷰티 티저 공개... 풍부한 감정 표현으로 긴 여운 선사">        <div class="text-box">            <p class="summary">박지훈, 'Serious' 뷰티 티저 공개... 풍부한 감정 표현으로 긴 여운 선사</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/21/fyZOeY4Yia7C637704096859101694.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스테이씨, 케이팝 레이더 '이달의 루키' 선정]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328428</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328428</guid>
-            <pubDate>Thu, 21 Oct 2021 02:36:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328428">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/21/0c56df83-a48d-443a-be96-b9bb63d3a6b3.jpg" alt="스테이씨, 케이팝 레이더 '이달의 루키' 선정">        <div class="text-box">            <p class="summary">스테이씨, 케이팝 레이더 '이달의 루키' 선정</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/21/0c56df83-a48d-443a-be96-b9bb63d3a6b3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

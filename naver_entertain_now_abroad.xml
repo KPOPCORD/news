@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-21T21:18:13.836Z</updated>
+    <updated>2021-10-21T22:20:46.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가난했던 英 남매, 섹시 화보 찍고 36억원 대박 났다]]></title>
+        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004660090</id>
+        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004660090"/>
+        <updated>2021-10-21T22:20:45.801Z</updated>
+        <content type="html"><![CDATA[영국의 한 남매가 경제적으로 어려운 부모를 도우려 함께 섹시 화보 촬영을 촬영해 220만 파운드(한화 약 36억7500만원) 이상을 벌어 화제다. 20일 더 선, 미러 등 영국 언론에 따르면 영국 스코틀랜드 글래스고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['7억 전신성형' 데미 무어, 60세에도 여전한 전성기 미모 '감탄']]></title>
         <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004660036</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000824817"/>
         <updated>2021-10-21T06:24:47.121Z</updated>
         <content type="html"><![CDATA[킹덤 치우가 21일 오후 온라인으로 진행된 세번째 미니앨범 'History Of Kingdom : Part Ⅲ. IVAN(히스토리 오브 킹덤 : 파트 3. 아이반)' 발매 기념 쇼케이스에 참석해 멋진 무대를 선보이고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[킹덤 자한 '힘이 넘쳐!' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000824816</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000824816"/>
-        <updated>2021-10-21T06:24:47.121Z</updated>
-        <content type="html"><![CDATA[킹덤 자한이 21일 오후 온라인으로 진행된 세번째 미니앨범 'History Of Kingdom : Part Ⅲ. IVAN(히스토리 오브 킹덤 : 파트 3. 아이반)' 발매 기념 쇼케이스에 참석해 멋진 무대를 선보이고]]></content>
     </entry>
 </feed>
