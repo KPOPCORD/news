@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-21T09:21:26.855Z</updated>
+    <updated>2021-10-21T10:24:06.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤종신, 'Slow Starter' 발매..이승기 가창 "노래하는 방식에 매료"]]></title>
+        <id>https://entertain.v.daum.net/v/20211021185254386</id>
+        <link href="https://entertain.v.daum.net/v/20211021185254386"/>
+        <updated>2021-10-21T10:23:34.989Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 가수 윤종신의 월간 음악 프로젝트 ‘월간 윤종신’ 10월호 ‘Slow Starter (슬로우 스타터)’가 21일 발매된다.‘Slow Starter’는 끝없는 실패와 좌절을 딛고 일어서는 사람들에 대한 노래다. 타고 나지 않았다는 이유로 섣불리 절망하기 보다는 먼 훗날의 나를 기대하면서 다시 한 번 도전과 실패를 이어가보자는 메시지를 담고 있]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CL 'ALPHA' 아이튠즈 13개 지역 앨범차트 1위]]></title>
         <id>https://entertain.v.daum.net/v/20211021180301134</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211021162359391"/>
         <updated>2021-10-21T08:24:10.432Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] 뮤지컬 배우 박강현과 베스티 출신 정유지가 입을 맞춘다.&nbsp; 크리스마스를 맞이해&nbsp;‘헐리우드 인 크리스마스’&nbsp;콘서트가&nbsp;12월&nbsp;18일(토)&nbsp;롯데콘서트홀에서&nbsp;개최된다. 이는 할리우드 영화에 삽입된 클래식 음악을 큐레이션 한 영화음악 콘서트다.&nbsp; 영화&nbsp;‘나 홀로 집에’, ‘로맨틱 홀리데이’, ‘노팅힐’, ‘미녀와 야수’, ‘러브 어페어’,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['뉴 걸그룹' 전성시대 열린다]]></title>
-        <id>https://entertain.v.daum.net/v/20211021161350950</id>
-        <link href="https://entertain.v.daum.net/v/20211021161350950"/>
-        <updated>2021-10-21T07:19:37.311Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 뉴페이스가 쏟아진다. 신인 걸그룹의 등장으로 가요계의 새로운 시대가 막을 올린다.먼저 그룹 버가부가 오는 25일 첫 발을 뗀다. 초연, 유우나, 레이니, 지인, 은채, 시안 등 6인조로 구성된 버가부는 첫 번째 싱글 ‘버가부(bugAboo)’를 공개한다. 동명의 타이틀곡을 비롯해 ‘올 나이트 플레이’ ‘버가부(inst.)’ 수록된 이번 앨범]]></content>
     </entry>
 </feed>
