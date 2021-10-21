@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-10-21T06:24:47.855Z</updated>
+    <updated>2021-10-21T07:20:06.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마츠다 류헤이, 14살 연하 모건 마아라와 재혼→임신 발표 "내년 봄 출산"]]></title>
+        <id>https://entertain.v.daum.net/v/20211021152711867</id>
+        <link href="https://entertain.v.daum.net/v/20211021152711867"/>
+        <updated>2021-10-21T07:19:46.073Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 배우 마츠다 류헤이, 모델 겸 포토그래퍼 모건 마아라가 결혼했다. 마츠다 류헤이, 모건 마아라 소속사 측은 10월 20일 두 사람의 혼인신고과 함께 임신 소식을 알렸다. 각 소속사에 의하면 모건 마아라는 도내 구청에 혼인신고를 제출했다. 두 사람은 소속사를 통해 결혼을 보고하며 "새로운 생명을 얻게 됐다. 내년 봄 새로운 가족이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['컴백' 아델, 바쁜 일정에도 남친과 농구장 데이트]]></title>
         <id>https://entertain.v.daum.net/v/20211021083130047</id>
