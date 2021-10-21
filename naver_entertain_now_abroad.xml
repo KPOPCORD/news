@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-21T22:20:46.523Z</updated>
+    <updated>2021-10-21T23:22:40.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오징어게임 시상식도 휩쓰나…'고담 어워드' 2개 부분 후보]]></title>
+        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005673560</id>
+        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005673560"/>
+        <updated>2021-10-21T23:22:39.830Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 박형기 기자 = '오징어 게임'이 뉴욕의 독립영화제인 ‘고담 어워드’ 2개 부분에 추천됐다고 영화 전문매체인 데드라인이 21일(현지시간) 보도했다. 주연인 이정재와 황동혁 감독이 각각 연기상과 '획기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가난했던 英 남매, 섹시 화보 찍고 36억원 대박 났다]]></title>
         <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004660090</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004495636"/>
         <updated>2021-10-21T06:24:47.120Z</updated>
         <content type="html"><![CDATA[[OSEN=지민경 기자] 전 세계적 흥행 돌풍을 일으키고 있는 넷플릭스 오리지널 시리즈 '오징어 게임'과 유사한 중국 예능프로그램이 등장해 표절 논란에 휩싸였다. 지난 20일 중국 온라인 동영상 서비스 유쿠(]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[킹덤 치우 '강렬한 눈빛' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000824817</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000824817"/>
-        <updated>2021-10-21T06:24:47.121Z</updated>
-        <content type="html"><![CDATA[킹덤 치우가 21일 오후 온라인으로 진행된 세번째 미니앨범 'History Of Kingdom : Part Ⅲ. IVAN(히스토리 오브 킹덤 : 파트 3. 아이반)' 발매 기념 쇼케이스에 참석해 멋진 무대를 선보이고]]></content>
     </entry>
 </feed>
