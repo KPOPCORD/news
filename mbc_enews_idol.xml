@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 20:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 21:18:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이유, 명품 원피스 완벽 소화 섹시美 자랑 [인스타]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328510</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328510</guid>
+            <pubDate>Thu, 21 Oct 2021 21:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328510">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/22/t5NprYoE51PW637704639364881119.jpg" alt="아이유, 명품 원피스 완벽 소화 섹시美 자랑 [인스타] ">        <div class="text-box">            <p class="summary">아이유, 명품 원피스 완벽 소화 섹시美 자랑 [인스타] </p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/22/t5NprYoE51PW637704639364881119.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[킹덤 "목표는 빌보드·그래미" 초대형 세계관 업고 컴백 [종합]]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/328480</link>
@@ -86,14 +94,6 @@
             <pubDate>Thu, 21 Oct 2021 02:36:42 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328428">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/21/0c56df83-a48d-443a-be96-b9bb63d3a6b3.jpg" alt="스테이씨, 케이팝 레이더 '이달의 루키' 선정">        <div class="text-box">            <p class="summary">스테이씨, 케이팝 레이더 '이달의 루키' 선정</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/21/0c56df83-a48d-443a-be96-b9bb63d3a6b3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에스파, ‘Savage’로 발매 15일 만에 음반 판매량 51만장 돌파]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328425</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328425</guid>
-            <pubDate>Thu, 21 Oct 2021 01:13:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328425">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/21/XXLaUVQ9Mj41637704074396754078.jpg" alt="에스파, ‘Savage’로 발매 15일 만에 음반 판매량 51만장 돌파">        <div class="text-box">            <p class="summary">에스파, ‘Savage’로 발매 15일 만에 음반 판매량 51만장 돌파</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/21/XXLaUVQ9Mj41637704074396754078.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
