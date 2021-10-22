@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-22T13:26:16.825Z</updated>
+    <updated>2021-10-22T15:21:56.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["굿바이 소니"…BTS, 유니버설뮤직과 美마케팅·유통 계약]]></title>
+        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005675247</id>
+        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005675247"/>
+        <updated>2021-10-22T15:21:55.576Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 정윤영 기자 = 방탄소년단(BTS)이 소니 계열사인 컬럼비아 레코즈와 작별하고 유니버설뮤직 그룹과 손잡는다. 22일 미국 연예매체 버라이어티에 따르면 하이브(HYBE·구 빅히트) 소속 BTS는 최근]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[실탄 든 소품용 총 발사해 촬영감독 숨져…'알렉 볼드윈' 누구?]]></title>
         <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004660412</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000825127</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000825127"/>
         <updated>2021-10-22T09:20:22.198Z</updated>
-        <content type="html"><![CDATA[22일 오후 SBS 상암 프리즘타워에서 버가부(bugAboo, 버가부(초연, 유우나, 레이니, 지인, 은채, 시안)의 데뷔 기념 쇼케이스가 열렸다. 버가부 유우나가 쇼케이스에 앞서 포토타임을 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유우나 '상큼미가 철철' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000825126</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000825126"/>
-        <updated>2021-10-22T09:20:22.200Z</updated>
         <content type="html"><![CDATA[22일 오후 SBS 상암 프리즘타워에서 버가부(bugAboo, 버가부(초연, 유우나, 레이니, 지인, 은채, 시안)의 데뷔 기념 쇼케이스가 열렸다. 버가부 유우나가 쇼케이스에 앞서 포토타임을 갖고 있다.]]></content>
     </entry>
 </feed>
