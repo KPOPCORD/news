@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-10-21T23:22:40.545Z</updated>
+    <updated>2021-10-22T01:15:47.761Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["때리고 샤워 염탐하고" 패리스 힐튼, 아동학대 피해 고백]]></title>
+        <id>https://entertain.v.daum.net/v/20211022093939660</id>
+        <link href="https://entertain.v.daum.net/v/20211022093939660"/>
+        <updated>2021-10-22T01:15:24.999Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 패리스 힐튼이 아동학대 경험을 고백했다. 10월 20일(현지시간) 워싱턴 포스트 등 외신에 따르면 패리스 힐튼은 워싱턴DC 의회 앞에서 아동 보육 시설 내 학대 방지 법안 통과를 촉구하는 기자회견을 가졌다. 패리스 힐튼은 이날 "20년이 지난 지금까지도 불면증 등 후유증을 겪고 있다"며 자신이 겪은 충격적인 경험을 공개했다. 패]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中 OTT, '오징어 게임' 표절 논란에 "오해였다"..해명까지 비판↑]]></title>
         <id>https://entertain.v.daum.net/v/20211021175022607</id>
@@ -18,12 +25,5 @@
         <link href="https://entertain.v.daum.net/v/20211021152711867"/>
         <updated>2021-10-21T07:19:46.073Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 배우 마츠다 류헤이, 모델 겸 포토그래퍼 모건 마아라가 결혼했다. 마츠다 류헤이, 모건 마아라 소속사 측은 10월 20일 두 사람의 혼인신고과 함께 임신 소식을 알렸다. 각 소속사에 의하면 모건 마아라는 도내 구청에 혼인신고를 제출했다. 두 사람은 소속사를 통해 결혼을 보고하며 "새로운 생명을 얻게 됐다. 내년 봄 새로운 가족이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백' 아델, 바쁜 일정에도 남친과 농구장 데이트]]></title>
-        <id>https://entertain.v.daum.net/v/20211021083130047</id>
-        <link href="https://entertain.v.daum.net/v/20211021083130047"/>
-        <updated>2021-10-21T01:13:55.134Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 팝스타 아델이 농구장 데이트를 즐겼다. 아델은 10월 19일(현지시간) 미국 LA에서 진행된 LA 레이커스와 골든 스테이트의 농구 경기를 관람했다. 아델은 이날 남자친구 리치 폴과 함께 관중석에 모습을 드러냈다. 두 사람은 진지하게 경기를 관람하거나 웃으며 대화를 나누는 등 다정한 모습을 보였다. 아델과 리치 폴의 열애는 지난]]></content>
     </entry>
 </feed>
