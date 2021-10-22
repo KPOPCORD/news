@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-22T12:32:50.951Z</updated>
+    <updated>2021-10-22T13:26:16.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['산촌생활' 김대명 실수로 추가 가불 6만 원 '사고쳤어']]></title>
+        <id>https://entertain.v.daum.net/v/20211022215150153</id>
+        <link href="https://entertain.v.daum.net/v/20211022215150153"/>
+        <updated>2021-10-22T13:25:46.448Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이시연 기자] /사진= tvN '슬기로운 산촌생활' 방송 화면'슬기로운 산촌생활'에서 김대명의 실수로 99즈가 6만 원을 추가 가불하며 그만큼 더 노동을 하게 됐다. 22일 오후 방송된 tvN 예능프로그램 '슬기로운 산촌생활'에서는 아침 식사 후 사과를 따는 99즈의 모습이 그려졌다. 이날 아침 식사 후 추가 가불 빚을 탕감하기 위하여 유연석과]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['백반기행' 류수영과 성남 여행 '요리에 진심']]></title>
         <id>https://entertain.v.daum.net/v/20211022210712633</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211022180003020"/>
         <updated>2021-10-22T09:19:51.114Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) 그룹 브라운아이드소울 정엽이 가을에 어울리는 소울풀한 신곡으로 돌아왔다.&nbsp; 정엽은 22일 오후 6시 각종 온라인 음원사이트를 통해 새 싱글 '룩 앳 더 스카이(Look at the Sky)' 음원과 뮤직비디오를 공개했다.&nbsp; 정엽의 계절 에디션 세 번째 싱글인 '룩 앳 더 스카이'는 60년대 모타운 사운드 기반의 소울 그루브가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정엽 'Look at the Sky' 가을 감성 담은 매력적인 위로]]></title>
-        <id>https://entertain.v.daum.net/v/20211022180001015</id>
-        <link href="https://entertain.v.daum.net/v/20211022180001015"/>
-        <updated>2021-10-22T09:19:51.115Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 윤상근 기자] /사진제공=롱플레이뮤직브라운아이드소울 정엽이 가을 분위기를 담은 3번째 싱글 에디션 'Look at the Sky'를 통해 경쾌한 가을 감성을 전했다. 정엽은 22일 오후 6시 주요 온라인 음원 사이트를 통해 3번째 싱글 에디션 'Look at the Sky'(Single Edition 3)를 공개했다. 앞서 봄을 담은 'Walt]]></content>
     </entry>
 </feed>
