@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-22T10:23:35.877Z</updated>
+    <updated>2021-10-22T11:17:26.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단, 24일 온라인 콘서트 'BTS PERMISSION TO DANCE ON STAGE' 연다]]></title>
+        <id>https://entertain.v.daum.net/v/20211022194651000</id>
+        <link href="https://entertain.v.daum.net/v/20211022194651000"/>
+        <updated>2021-10-22T11:16:54.047Z</updated>
+        <content type="html"><![CDATA[[스포츠한국 모신정 기자] 그룹 방탄소년단이 오는 24일 온라인 콘서트 'BTS PERMISSION TO DANCE ON STAGE'(비티에스 퍼미션 투 댄스 온 스테이지)로 전 세계 팬들을 만난다.  다양한 콘셉트의 무대 세트와 생동감을 더하는 최첨단 기술, 그리고 방탄소년단만의 화려한 퍼포먼스가 어우러진 '역대급' 공연이 대형 스타디움 공연장에서 펼쳐]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정엽, 시원한 가을 하늘을 그리며 'Look at the Sky']]></title>
+        <id>https://entertain.v.daum.net/v/20211022194340904</id>
+        <link href="https://entertain.v.daum.net/v/20211022194340904"/>
+        <updated>2021-10-22T11:16:54.048Z</updated>
+        <content type="html"><![CDATA[※알고 들으면 쓸모있는 신곡. '알쓸신곡'이 오늘의 노래를 소개합니다. 매일 쏟아지는 음원 속에서 모르고 놓치면 후회할 신곡을 추천해드립니다.  가수 정엽이 가을 드라이브가 절로 생각나는 노래를 들고 왔다. 22일 정엽은 새 싱글 '룩 앳 더 스카이'(Look at the Sky)를 발매했다. 계절 프로젝트를 진행 중인 그의 세 번째 싱글이다. 앞선 봄]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트라이비 미레, 멤버 당황시킨 첫인상 "요즘 06년생 다 저래?"]]></title>
         <id>https://entertain.v.daum.net/v/20211022190357264</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211022175032794"/>
         <updated>2021-10-22T09:19:51.117Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) 그룹 버가부(bugAboo)가 세상을 깜짝 놀라게 만들 걸그룹 탄생을 알렸다.&nbsp; 22일 오후 버가부(초연, 유우나, 레이니, 지인, 은채, 시안) 데뷔 싱글 '버가부' 발매 기념 쇼케이스가 온라인 생중계로 진행됐다.&nbsp; 버가부의 그룹명은 '까꿍' '왁'하고 놀래키는 상상 속 두렵고 놀라운 존재라는 뜻을 지니고 있다. 세상을 놀라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[버가부 "데뷔 전부터 많은 관심, 부담보단 감사..보답할 것"]]></title>
-        <id>https://entertain.v.daum.net/v/20211022174926745</id>
-        <link href="https://entertain.v.daum.net/v/20211022174926745"/>
-        <updated>2021-10-22T09:19:51.118Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김한길 기자] 걸그룹 버가부(bugAboo)가 팬들의 많은 관심에 대해 보답하겠다는 뜻을 내비쳤다. 버가부(초연 유우나 레이니 지인 은채 시안)의 데뷔 기념 쇼케이스가 22일 오후 4시 진행됐다. 버가부는 앞서 틱톡을 통해 선보인 영상이 조회 수 2200만 뷰를 돌파하는 등 데뷔 전부터 화제다. 기대와 주목을 받는 것에 대한 부담감은 없]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다비, 다양한 스타일링 완벽 소화..팔색조 비주얼 변신]]></title>
-        <id>https://entertain.v.daum.net/v/20211022174308533</id>
-        <link href="https://entertain.v.daum.net/v/20211022174308533"/>
-        <updated>2021-10-22T09:19:51.119Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) 재즈 R&amp;B 싱어송라이터 다비(DAVII)가 새 프로필 사진을 공개하며 전천후 음악 행보를 예고했다. 다비는 최근 공식 SNS를 통해 새 프로필 이미지를 공개, 팬들의 뜨거운 반응을 모으고 있다. 공개된 사진 속 다비는 내추럴한 의상부터 블랙 슈트까지 다채로운 계절별 스타일링을 완벽하게 소화하며 시크함과 댄디함을 넘나드는 팔색]]></content>
     </entry>
 </feed>

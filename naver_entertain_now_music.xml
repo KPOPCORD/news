@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-22T10:23:35.857Z</updated>
+    <updated>2021-10-22T11:17:26.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[개코, 23일 깜짝 싱글 '논해 (Feat. ?) (Prod. 코드쿤스트)' 발매]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003547923</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003547923"/>
+        <updated>2021-10-22T11:17:12.134Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 오윤주 기자] 그룹 다이나믹듀오 멤버 개코가 깜짝 싱글을 선보인다. 아메바컬쳐는 22일 "개코가 오는 23일 정오 새 싱글 '논해 (Feat. ?) (Prod. CODE KUNST)'를 발매한다"고]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['다듀' 개코, 새 싱글 '논해' 23일 깜짝 공개]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010786930</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010786930"/>
+        <updated>2021-10-22T11:17:12.135Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 이현주 기자 = '다이나믹듀오' 개코가 23일 정오 깜짝 싱글을 선보인다. 아메바컬쳐는 22일 "개코가 새 싱글 '논해 (Feat. ?) (Prod. CODE KUNST)'를 발매한다"고 밝혔다. 이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘발매 D-1’ 개코, 새 싱글 ‘논해(Prod. 코드쿤스트)’ 티저 공개…피처링 누구?]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000769073</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004619637"/>
         <updated>2021-10-22T10:23:19.436Z</updated>
         <content type="html"><![CDATA[그룹 버가부 지인이 22일 오후 서울 상암동 SBS프리즘타워에서 열린 데뷔 싱글 '버가부(bugAboo)' 발매 기념 쇼케이스에 참석해 공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 버가부 지인, '막내의 강렬한 눈빛']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619636</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004619636"/>
-        <updated>2021-10-22T10:23:19.437Z</updated>
-        <content type="html"><![CDATA[그룹 버가부 지인이 22일 오후 서울 상암동 SBS프리즘타워에서 열린 데뷔 싱글 '버가부(bugAboo)' 발매 기념 쇼케이스에 참석해 공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 버가부 초연, '강렬한 눈빛~']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619635</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004619635"/>
-        <updated>2021-10-22T10:23:19.439Z</updated>
-        <content type="html"><![CDATA[그룹 버가부 초연이 22일 오후 서울 상암동 SBS프리즘타워에서 열린 데뷔 싱글 '버가부(bugAboo)' 발매 기념 쇼케이스에 참석해 공연을 펼치고 있다.]]></content>
     </entry>
 </feed>
