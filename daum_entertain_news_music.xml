@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-22T17:24:57.917Z</updated>
+    <updated>2021-10-22T20:21:44.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단 '또' 신기록..빌보드서 '역대 최다' 세웠다]]></title>
+        <id>https://entertain.v.daum.net/v/20211023051007448</id>
+        <link href="https://entertain.v.daum.net/v/20211023051007448"/>
+        <updated>2021-10-22T20:21:10.997Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 그룹 방탄소년단(BTS)이 미국 빌보드에서 신기록 행진 중이다. 이번에는 다운로드로 사상 최초 기록까지 세우며 여전한 영향력을 입증해냈다. 최근 미국 음악 전문 매체 빌보드에 따르면 방탄소년단은 '디지털 송 세일즈' 차트에서 통산 45번째 1위를 차지했다. 이는 해당 차트 역사상 가장 많이 정상에 오른 기록이다. 방탄소년]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영국 록밴드 감성으로 공동창작.. "음악적 시너지로 빅뱅"]]></title>
+        <id>https://entertain.v.daum.net/v/20211023040435920</id>
+        <link href="https://entertain.v.daum.net/v/20211023040435920"/>
+        <updated>2021-10-22T20:21:10.997Z</updated>
+        <content type="html"><![CDATA[밴드 ‘너드커넥션’을 지금까지 붙잡아준 건 연세대 학생밴드 ‘메두사’의 동아리방 문 앞에 붙어있던 쪽지 한 장이었다. 밴드가 연습하던 자작곡을 우연히 들은 한 학생이 무슨 노래인지 알고 싶었지만 찾을 수 없어 붙인 쪽지였다. 막 밴드를 결성했던 서영주(보컬·서브기타) 최승원(메인기타) 박재현(베이스기타) 신연태(드럼)는 그 첫 번째 팬의 쪽지에 희망을 품었]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['쇼미더머니10' 얀키 가사 실수, 아넌딜라이트 합격]]></title>
         <id>https://entertain.v.daum.net/v/20211023001916562</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211022190338255"/>
         <updated>2021-10-22T10:22:58.919Z</updated>
         <content type="html"><![CDATA[[스타뉴스 공미나 기자] /사진=스타뉴스걸그룹 트라이비(TRI.BE, 송선 켈리 진하 현빈 지아 소은 미레) 멤버들이 지아에 대해 "귀여운 새 같다"고 말했다. 트라이비는 최근 스타뉴스와 만나 앞담화인터뷰를 진행했다. 앞담화인터뷰는 한 멤버 대한 질문에 나머지 멤버들이 돌아가며 대답을 하는 형식이다. 멤버들은 지아의 첫인상에 대해 "트위티를 닮았다" "참새]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['뮤뱅' 엔하이픈, 에스파 꺾고 1위..은혁 'be'컴백]]></title>
-        <id>https://entertain.v.daum.net/v/20211022185741159</id>
-        <link href="https://entertain.v.daum.net/v/20211022185741159"/>
-        <updated>2021-10-22T10:22:58.921Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이시연 기자] /사진= KBS 2TV '뮤직뱅크' 방송 화면'뮤직뱅크'에서 그룹 엔하이픈의 1위를 차지한 가운데 슈퍼주니어 멤버 은혁의 솔로 컴백 무대가 최초 공개됐다. 22일 오후 방송된 KBS 2TV 음악프로그램 '뮤직뱅크'에서 엔하이픈이 1위의 영광을 차지했다. 엔하이픈은 함께 1위 후보에 오른 에스파를 꺾고 '뮤직뱅크'에서 두 번째 1위]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["레드벨벳과 다른 매력"..'데뷔' 버가부의 자신감]]></title>
-        <id>https://entertain.v.daum.net/v/20211022185015053</id>
-        <link href="https://entertain.v.daum.net/v/20211022185015053"/>
-        <updated>2021-10-22T10:22:58.922Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) 그룹 버가부(bugAboo)가 차별화된 퍼포먼스로 가요계 출격을 알렸다.&nbsp; 버가부(초연, 유우나, 레이니, 지인, 은채, 시안) 데뷔 싱글 '버가부' 발매 기념 쇼케이스가 22일 오후 온라인 생중계로 진행됐다.&nbsp; 이날 버가부는 데뷔 타이틀곡 '버가부'의 무대를 마친 뒤 떨리고 설레는 감정을 내비쳤다. 특히 오랜 연습생 기간을]]></content>
     </entry>
 </feed>

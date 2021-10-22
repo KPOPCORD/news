@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-22T17:24:57.915Z</updated>
+    <updated>2021-10-22T20:21:44.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임영웅 디자인 참여 아이웨어 공개..러블리 '갓경웅'♡]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002998970</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002998970"/>
+        <updated>2021-10-22T20:21:29.180Z</updated>
+        <content type="html"><![CDATA[가수 임영웅이 디자인에 참여한 아이웨어가 공개됐다. 임영웅이 모델로 활약 중인 아이웨어 브랜드 키싱하트는 22일 공식 SNS를 통해 임영웅이 디자인 참여한 안경 모델을 선보였다. 앞서 흐릿한 블러 처리로 궁금증을 불]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[11월 5일 개막 ‘자라섬재즈페스티벌’…폴란드·싱가포르 재즈 선율 선사한다]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000769118</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004496457"/>
         <updated>2021-10-22T10:23:19.403Z</updated>
         <content type="html"><![CDATA[[OSEN=박판석 기자] 다이나믹듀오 개코가 깜짝 싱글을 선보인다. 아메바컬쳐는 22일 "개코가 오는 23일 정오 새 싱글 '논해 (Feat. ?) (Prod. CODE KUNST)'를 발매한다"라고 밝혔다. 이와]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 버가부 은채, '강렬한 눈빛']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619653</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004619653"/>
-        <updated>2021-10-22T10:23:19.405Z</updated>
-        <content type="html"><![CDATA[그룹 버가부 은채가 22일 오후 서울 상암동 SBS프리즘타워에서 열린 데뷔 싱글 '버가부(bugAboo)' 발매 기념 쇼케이스에 참석해 공연을 펼치고 있다.]]></content>
     </entry>
 </feed>
