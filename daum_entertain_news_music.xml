@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-22T11:17:26.230Z</updated>
+    <updated>2021-10-22T12:32:50.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['백반기행' 류수영과 성남 여행 '요리에 진심']]></title>
+        <id>https://entertain.v.daum.net/v/20211022210712633</id>
+        <link href="https://entertain.v.daum.net/v/20211022210712633"/>
+        <updated>2021-10-22T12:32:15.133Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이시연 기자] /사진= TV조선 '백반기행' 방송 화면'식객 허영만의 백반기행'에서 배우 류수영과 성남 소머리국밥과 사천식 바다백반, 가을 전어 등의 음식을 즐겼다. 22일 오후 방송된 TV조선 예능프로그램 '식객 허영만의 백반기행'에서는 경기도 성남에서 류수영과 함께 했다. 이날 허영만은 류수영과 함께 성남 모란시장에 위치한 한 소머리국밥 집을]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['백반기행' 류수영, 양념장 재료까지 맞혀..허영만 '감탄']]></title>
+        <id>https://entertain.v.daum.net/v/20211022204518253</id>
+        <link href="https://entertain.v.daum.net/v/20211022204518253"/>
+        <updated>2021-10-22T12:32:15.134Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이시연 기자] /사진= TV조선 '백반기행' 방송 화면'식객 허영만의 백반기행'에서 배우 류수영이 소머리 고기를 찍어 먹는 양념장의 재료까지 맞혀 허영만을 감탄하게 했다. 22일 오후 방송된 TV조선 예능프로그램 '식객 허영만의 백반기행'에서는 경기도 성남에서 류수영과 함께했다. 이날 류수영과 허영만은 성남 모란시장에서 소머리국밥을 함께 했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단, 24일 온라인 콘서트 'BTS PERMISSION TO DANCE ON STAGE' 연다]]></title>
         <id>https://entertain.v.daum.net/v/20211022194651000</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211022180001015"/>
         <updated>2021-10-22T09:19:51.115Z</updated>
         <content type="html"><![CDATA[[스타뉴스 윤상근 기자] /사진제공=롱플레이뮤직브라운아이드소울 정엽이 가을 분위기를 담은 3번째 싱글 에디션 'Look at the Sky'를 통해 경쾌한 가을 감성을 전했다. 정엽은 22일 오후 6시 주요 온라인 음원 사이트를 통해 3번째 싱글 에디션 'Look at the Sky'(Single Edition 3)를 공개했다. 앞서 봄을 담은 'Walt]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[버가부 "많은 분들께 팀 알리고파, 목표는 신인상"]]></title>
-        <id>https://entertain.v.daum.net/v/20211022175447880</id>
-        <link href="https://entertain.v.daum.net/v/20211022175447880"/>
-        <updated>2021-10-22T09:19:51.116Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김한길 기자] 걸그룹 버가부(bugAboo)가 다부진 활동 각오를 전했다. 버가부(초연 유우나 레이니 지인 은채 시안)의 데뷔 기념 쇼케이스가 22일 오후 4시 진행됐다. 이날 이번 데뷔 활동을 통해 얻고 싶은 성과에 대해 시안은 "하루하루 소소한 행복을 찾아가는 게 저의 취미라 버가부를 많은 분들에게 알리고 길거리에 지나갈 때 버가부의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["세상을 놀라게..'데뷔' 버가부의 무한 잠재력]]></title>
-        <id>https://entertain.v.daum.net/v/20211022175032794</id>
-        <link href="https://entertain.v.daum.net/v/20211022175032794"/>
-        <updated>2021-10-22T09:19:51.117Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) 그룹 버가부(bugAboo)가 세상을 깜짝 놀라게 만들 걸그룹 탄생을 알렸다.&nbsp; 22일 오후 버가부(초연, 유우나, 레이니, 지인, 은채, 시안) 데뷔 싱글 '버가부' 발매 기념 쇼케이스가 온라인 생중계로 진행됐다.&nbsp; 버가부의 그룹명은 '까꿍' '왁'하고 놀래키는 상상 속 두렵고 놀라운 존재라는 뜻을 지니고 있다. 세상을 놀라]]></content>
     </entry>
 </feed>
