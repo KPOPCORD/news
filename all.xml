@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 09:20:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 10:23:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,22 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211012112407_1a4e8d45a184f1257d3b4eb5753b9311.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[포토] 버가부 초연, '올 나잇 플레이~ 버가부!' (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328628</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328628</guid>
+            <pubDate>Fri, 22 Oct 2021 10:22:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328628">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/22/abc5996b-53a0-4deb-9280-3b1331948019.jpg" alt="[포토] 버가부 초연, '올 나잇 플레이~ 버가부!'">        <div class="text-box">            <p class="summary">[포토] 버가부 초연, '올 나잇 플레이~ 버가부!'</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/22/abc5996b-53a0-4deb-9280-3b1331948019.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[포토] 버가부 지인, '스완 미모' (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328627</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328627</guid>
+            <pubDate>Fri, 22 Oct 2021 10:22:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328627">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/22/d026e7f5-4fa4-4a21-9fa2-74d393798a13.jpg" alt="[포토] 버가부 지인, '스완 미모'">        <div class="text-box">            <p class="summary">[포토] 버가부 지인, '스완 미모'</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/22/d026e7f5-4fa4-4a21-9fa2-74d393798a13.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[포토] 버가부, '버가버가부~~' (MBC 연예 ─ 아이돌)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/328626</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328626</guid>
@@ -720,11 +736,11 @@
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/22/e5fed457-8e5b-4172-a527-cc279290f7b6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[포토] 버가부 시안, '큐티 섹시' (MBC 연예 ─ 아이돌)]]></title>
+            <title><![CDATA[[포토] 버가부 지인, '큐티 섹시' (MBC 연예 ─ 아이돌)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/328621</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328621</guid>
             <pubDate>Fri, 22 Oct 2021 09:19:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328621">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/22/ce3fe8ba-0709-4e77-8c1d-721e28e94a31.jpg" alt="[포토] 버가부 시안, '큐티 섹시'">        <div class="text-box">            <p class="summary">[포토] 버가부 시안, '큐티 섹시'</p>        </div>    </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328621">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/22/ce3fe8ba-0709-4e77-8c1d-721e28e94a31.jpg" alt="[포토] 버가부 지인, '큐티 섹시'">        <div class="text-box">            <p class="summary">[포토] 버가부 지인, '큐티 섹시'</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/22/ce3fe8ba-0709-4e77-8c1d-721e28e94a31.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -760,20 +776,60 @@
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/22/b615876e-15f1-49b2-82b0-b90fe31e8727.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[포토] 버가부, '튕겨요~!' (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328616</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328616</guid>
-            <pubDate>Fri, 22 Oct 2021 09:19:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328616">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/22/1f0b4664-4ce0-4053-b4d3-76a1ce1d3fa6.jpg" alt="[포토] 버가부, '튕겨요~!'">        <div class="text-box">            <p class="summary">[포토] 버가부, '튕겨요~!'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/22/1f0b4664-4ce0-4053-b4d3-76a1ce1d3fa6.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[트라이비 미레, 멤버 당황시킨 첫인상 "요즘 06년생 다 저래?" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211022190357264</link>
+            <guid>https://entertain.v.daum.net/v/20211022190357264</guid>
+            <pubDate>Fri, 22 Oct 2021 10:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 공미나 기자] /사진=스타뉴스걸그룹 트라이비(TRI.BE, 송선 켈리 진하 현빈 지아 소은 미레) 멤버들이 미레를 처음 보고 느낀 점을 밝혔다. 트라이비는 최근 스타뉴스와 만나 앞담화인터뷰를 진행했다. 앞담화인터뷰는 한 멤버 대한 질문에 나머지 멤버들이 돌아가며 대답을 하는 형식이다. 멤버들은 미레애 대해 "첫인상이 성숙했다" "키가 너무 커서]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 버가부, 파워 '버가부~!' (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328615</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328615</guid>
-            <pubDate>Fri, 22 Oct 2021 09:19:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328615">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/22/adbf1a4d-a85c-4a20-907e-7483ad44b835.jpg" alt="[포토] 버가부, 파워 '버가부~!'">        <div class="text-box">            <p class="summary">[포토] 버가부, 파워 '버가부~!'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/22/adbf1a4d-a85c-4a20-907e-7483ad44b835.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[트라이비 현빈, 멤버들이 이해 못하는 취미의 소유자 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211022190349260</link>
+            <guid>https://entertain.v.daum.net/v/20211022190349260</guid>
+            <pubDate>Fri, 22 Oct 2021 10:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 공미나 기자] /사진=스타뉴스걸그룹 트라이비(TRI.BE, 송선 켈리 진하 현빈 지아 소은 미레) 멤버들이 현빈의 취미를 두고 "이해가 안 된다"고 말했다. 트라이비는 최근 스타뉴스와 만나 앞담화인터뷰를 진행했다. 앞담화인터뷰는 한 멤버 대한 질문에 나머지 멤버들이 돌아가며 대답을 하는 형식이다. 멤버들은 현빈에 대해 "뉴스를 취미로 봐서 정보력]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[트라이비 소은 "친동생이었으면 큰일날 뻔.." (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211022190344258</link>
+            <guid>https://entertain.v.daum.net/v/20211022190344258</guid>
+            <pubDate>Fri, 22 Oct 2021 10:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 공미나 기자] /사진=스타뉴스걸그룹 트라이비(TRI.BE, 송선 켈리 진하 현빈 지아 소은 미레) 현빈이 소은에 대해 "내 친동생이었으면 큰일날 뻔했다"고 말했다. 트라이비는 최근 스타뉴스와 만나 앞담화인터뷰를 진행했다. 앞담화인터뷰는 한 멤버 대한 질문에 나머지 멤버들이 돌아가며 대답을 하는 형식이다. 멤버들은 소은에 대해 "흥이 많다" "텐션]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[트라이비 지아 #트위티닮은꼴 #인간A형 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211022190338255</link>
+            <guid>https://entertain.v.daum.net/v/20211022190338255</guid>
+            <pubDate>Fri, 22 Oct 2021 10:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 공미나 기자] /사진=스타뉴스걸그룹 트라이비(TRI.BE, 송선 켈리 진하 현빈 지아 소은 미레) 멤버들이 지아에 대해 "귀여운 새 같다"고 말했다. 트라이비는 최근 스타뉴스와 만나 앞담화인터뷰를 진행했다. 앞담화인터뷰는 한 멤버 대한 질문에 나머지 멤버들이 돌아가며 대답을 하는 형식이다. 멤버들은 지아의 첫인상에 대해 "트위티를 닮았다" "참새]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['뮤뱅' 엔하이픈, 에스파 꺾고 1위..은혁 'be'컴백 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211022185741159</link>
+            <guid>https://entertain.v.daum.net/v/20211022185741159</guid>
+            <pubDate>Fri, 22 Oct 2021 10:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 이시연 기자] /사진= KBS 2TV '뮤직뱅크' 방송 화면'뮤직뱅크'에서 그룹 엔하이픈의 1위를 차지한 가운데 슈퍼주니어 멤버 은혁의 솔로 컴백 무대가 최초 공개됐다. 22일 오후 방송된 KBS 2TV 음악프로그램 '뮤직뱅크'에서 엔하이픈이 1위의 영광을 차지했다. 엔하이픈은 함께 1위 후보에 오른 에스파를 꺾고 '뮤직뱅크'에서 두 번째 1위]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["레드벨벳과 다른 매력"..'데뷔' 버가부의 자신감 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211022185015053</link>
+            <guid>https://entertain.v.daum.net/v/20211022185015053</guid>
+            <pubDate>Fri, 22 Oct 2021 10:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김예나 기자) 그룹 버가부(bugAboo)가 차별화된 퍼포먼스로 가요계 출격을 알렸다.&nbsp; 버가부(초연, 유우나, 레이니, 지인, 은채, 시안) 데뷔 싱글 '버가부' 발매 기념 쇼케이스가 22일 오후 온라인 생중계로 진행됐다.&nbsp; 이날 버가부는 데뷔 타이틀곡 '버가부'의 무대를 마친 뒤 떨리고 설레는 감정을 내비쳤다. 특히 오랜 연습생 기간을]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[sogumm, 정규앨범 'Precious' 발매..김하균 등장 '처방전' 뮤비티저 공개 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211022184814029</link>
+            <guid>https://entertain.v.daum.net/v/20211022184814029</guid>
+            <pubDate>Fri, 22 Oct 2021 10:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] sogumm(소금)이 독특한 영상미를 담은 뮤직비디오 티저로 컴백을 알렸다.sogumm(소금)은 22일 오후 6시 각종 온라인 음원 사이트를 통해 새 정규 앨범 [Precious]를 발매했다. 타이틀곡 ‘처방전’의 뮤직비디오도 같은 시간 공개됐다.AOMG는 지난 21일과 이날 공식 SNS를 통해 ‘처방전’ 뮤직비디오 티저 영상 두 편을 차례]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아이돌 위에 히어로..임영웅, 네이버 검색량도 단연 1위 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211022182108560</link>
+            <guid>https://entertain.v.daum.net/v/20211022182108560</guid>
+            <pubDate>Fri, 22 Oct 2021 10:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 문완식 기자] 가수 임영웅이 국내 최대 포털 네이버에서 인기 아이돌을 능가하는 검색량을 보여주며 인기를 입증했다. 임영웅은 네이버 데이터랩을 통해 방탄소년단, 아이유, 블랙핑크, 에스파 등 톱 아이돌들의 통합검색 추이를 비교했을 때 독보적인 검색량을 보여줬다. 9월 26일부터 10월 21일까지 최근 네이버 통합검색 추이에서 임영웅은 모든 기간]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["꿈을 꾸던 너를 봐" 정엽, 따뜻한 위로로 완성한 가을 감성 'Look at the Sky' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
@@ -825,60 +881,39 @@
             <content:encoded><![CDATA[(엑스포츠뉴스 김예나 기자) 재즈 R&amp;B 싱어송라이터 다비(DAVII)가 새 프로필 사진을 공개하며 전천후 음악 행보를 예고했다. 다비는 최근 공식 SNS를 통해 새 프로필 이미지를 공개, 팬들의 뜨거운 반응을 모으고 있다. 공개된 사진 속 다비는 내추럴한 의상부터 블랙 슈트까지 다채로운 계절별 스타일링을 완벽하게 소화하며 시크함과 댄디함을 넘나드는 팔색]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["新 퍼포먼스 장인 우리!" 라이언전 제작 버가부 데뷔 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211022172416946</link>
-            <guid>https://entertain.v.daum.net/v/20211022172416946</guid>
-            <pubDate>Fri, 22 Oct 2021 09:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[[이데일리 스타in 김현식 기자] “차세대 퍼포먼스 장인이 되겠다.” 신인 걸그룹 버가부(bugAboo)의 당찬 출사표다. 버가부는 아이유, 오마이걸, NCT 등 유명 가수들의 음악 프로듀서 라이언전이 제작한 첫 걸그룹으로 데뷔 전부터 주목받은 팀이다. 은채, 초연, 유우나, 레이니, 지인, 시안 등 6명의 멤버로 구성됐다. 팀명에는 ‘세상을 놀라게 하]]></content:encoded>
+            <title><![CDATA[충무로 샛별 공도은, 에스더블유엠피와 전속 계약.."저는 그저 연기를 하고 싶은 사람" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211022192239515</link>
+            <guid>https://entertain.v.daum.net/v/20211022192239515</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 충무로 신예 공도은이 에스더블유엠피와 전속 계약을 체결했다. 22일 에스더블유엠피는 공도은과의 전속 계약 소식을 전했다.에스더블유엠피는 “충무로의 촉망 받는 신예 공도은과 함께 하게 되어 매우 기쁘다. 공도은은 신인답지 않은 연기력과 밀도 높은 눈빛, 그리고 자기만의 색으로 작품마다 깊은 인상을 남겨 온 무한한 잠재력의 신예이다. 앞으로 다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[최성봉, 거짓 암투병 논란 ing..팬, 방송 통해 폭로 "집안 술병 가득" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211022172206868</link>
-            <guid>https://entertain.v.daum.net/v/20211022172206868</guid>
-            <pubDate>Fri, 22 Oct 2021 09:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 김한길 기자] 가수 최성봉의 거짓 암투병 논란이 사그라들지 않고 있다. 최성봉은 지난 2011년 tvN 오디션프로그램 '코리아 갓 탤런트' 시즌1에 출연해 출중한 노래 실력으로 준우승을 차지했다. 당시 불우한 환경 등 여러 역경을 이겨낸 스토리로 '한국의 폴 포츠'라 불리며 많은 관심을 받았다. 그러나 최근 환자복을 입고 등장해 대장암 3]]></content:encoded>
+            <title><![CDATA['Attacca' 발매 세븐틴 "목표는 빌보드200 1위" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211022190353262</link>
+            <guid>https://entertain.v.daum.net/v/20211022190353262</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=지형준 기자] 22일 오후 서울 콘래드 서울 파크볼룸에서 세븐틴 미니 9집 ‘Attacca’ 발매 기념 온∙오프라인 글로벌 기자간담회 열렸다. 세븐틴이 빌보드 차트 1위를 상상하며 리액션을 선보이고 있다. 세븐틴의 미니&nbsp;9집&nbsp;‘Attacca’는 하나의 악장 끝에서 다음 악장이 이어질 때&nbsp;‘중단 없이 계속 연주하라’라는 용어로,&nbsp;세븐틴의 멈출 수]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["누군가의 롤모델 될 것" 버가부, '칼군무'로 신인상 정조준 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211022170716393</link>
-            <guid>https://entertain.v.daum.net/v/20211022170716393</guid>
-            <pubDate>Fri, 22 Oct 2021 09:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 윤혜영 기자] 그룹 버가부(bugAboo)가 가요계에 당찬 출사표를 냈다. 22일 버가부(초연 유우나 레이니 지인 은채 시안)의 데뷔 쇼케이스가 진행됐다. 25일 정식 데뷔를 앞둔 버가부는 라이언 전의 첫 자체 제작 걸그룹이다. 일본 멤버 유우나, 대만 멤버 레이니가 포함된 다국적 걸그룹이다. 팀명과 동명의 데뷔곡 '버가부'는 새로운 세계로]]></content:encoded>
+            <title><![CDATA[알렉 볼드윈, 영화 촬영 중 쏜 총에 촬영 감독 사망 "실탄 들어있는지 몰라" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211022185043059</link>
+            <guid>https://entertain.v.daum.net/v/20211022185043059</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 이우주 기자] 미국 배우 알렉 볼드윈이 영화 촬영 중 실탄이 든 소품총을 쏴 카메라맨이 사망하는 사고가 발생했다. 버라이어티 등 미국 현지 매체들은 22일(현지시간) 알렉 볼드윈이 오후 1시 50분께 영화 '러스트(Rust)' 촬영 중 소품용 총을 쏴 카메라맨이 사망했다고 보도했다. 미국 뉴멕시코주 산타페 남부 한 목장에서]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["누군가의 롤모델 되고파"..준비된 신인 버가부, 당찬 데뷔 출사표 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211022165705017</link>
-            <guid>https://entertain.v.daum.net/v/20211022165705017</guid>
-            <pubDate>Fri, 22 Oct 2021 09:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[신인 걸그룹 버가부(bugAboo)가 단단하게 다져진 실력을 무기로 정글 같은 가요계에 야심찬 첫 발을 내딛낸다. 버가부는 초연, 유우나, 레이니, 지인, 은채, 시안으로 구성된 6인조 다국적 걸그룹이다. 22일 오후 서울 상암동 SBS프리즘타워에서 진행된 데뷔 쇼케이스 ‘PRICK or bugAboo’에서 이들은 데뷔 소감과 함께 첫 앨범 준비 과정을]]></content:encoded>
+            <title><![CDATA["김선호 여성편력? 인성문제? 이건 진짜 아니다"..동기 반박글 등장 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211022184831031</link>
+            <guid>https://entertain.v.daum.net/v/20211022184831031</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김나연 기자] 사생활 논란으로 뭇매를 맞고 있는 배우 김선호와 관련해 진위여부를 가릴 수 없는 인성 폭로글이 확산되고 있는 가운데, 해당 폭로글에 대한 반박글이 등장해 눈길을 끌고 있다. 22일 한 온라인 커뮤니티에는 "김선호 인성논란. 동기의글 쓰신분 꼭읽어주세요"라는 제목의 글이 등장했다. 저는 배우 김선호의 대학 같은 과동기라고 밝힌 작성자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['프듀48' 은채·초연 "버가부로 데뷔, 꿈만 같아" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211022165408941</link>
-            <guid>https://entertain.v.daum.net/v/20211022165408941</guid>
-            <pubDate>Fri, 22 Oct 2021 09:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[은채초연[이데일리 스타in 김현식 기자] Mnet ‘프로듀스48’ 출신 초연과 은채가 걸그룹 버가부(bugAboo)로 데뷔하는 소감을 밝혔다. 22일 오후 4시 버가부의 데뷔 싱글 발매 기념 온라인 미디어 쇼케이스가 열렸다. 이날 은채는 “6년간의 연습생 생활을 거쳤다. 이 자리가 너무나 꿈만 같다. 열심히 하는 버가부 멤버가 되겠다”고 말했다. 초연]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['데뷔' 버가부 "런닝맨·골때녀·비긴어게인 출연하고 싶다" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211022165107866</link>
-            <guid>https://entertain.v.daum.net/v/20211022165107866</guid>
-            <pubDate>Fri, 22 Oct 2021 09:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 버가부(bugAboo)가 출연하고 싶은 프로그램을 언급했다. 22일 오후 버가부(초연, 은채, 유우나, 레이니, 시안, 지인)의 첫 번째 싱글 앨범 ‘bugAboo’(버가부) 발매 기념 온·오프라인 미디어 쇼케이스가 진행됐다. 지인은 “‘비긴어게인’ 같은 프로그램을 데뷔 후에 멤버들과 나가고 싶다. 강렬한 퍼포먼스 뿐만 아니라 가창력도 좋다는 걸 보]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["오마이걸 롤모델" 버가부, 롱런 꿈꾸는 'K팝 신예' 출격 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211022165026843</link>
-            <guid>https://entertain.v.daum.net/v/20211022165026843</guid>
-            <pubDate>Fri, 22 Oct 2021 09:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김예나 기자) 그룹 버가부(bugAboo)가 오마이걸을 롤모델로 꼽으며 롱런 걸그룹을 꿈꿨다.&nbsp; 버가부(초연, 유우나, 레이니, 지인, 은채, 시안)는 22일 오후 데뷔 싱글 '버가부' 발매 기념 쇼케이스를 온라인 생중계로 진행했다.&nbsp; 데뷔 타이틀곡 '버가부'는 새로운 세계로 떠난 버가부 멤버들의 모험기를 담은 곡. 버가부의 세계관이 드러나]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["신인상 꼭 받고파" 버가부, 라이언 전 첫 자체제작 신예 출격 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211022165011835</link>
-            <guid>https://entertain.v.daum.net/v/20211022165011835</guid>
-            <pubDate>Fri, 22 Oct 2021 09:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 작곡가 라이언 전의 첫 자체 제작 그룹인 버가부가 긴 연습 생활 끝에 데뷔한다. 버가부는 22일 오후 4시 서울 마포구 상암산로 SBS 프리즘타워에서 데뷔 앨범 '버가부' 발매 기념 쇼케이스를 개최했다. 버가부는 라이언 전의 첫 번째 자체 제작한 6인조 걸그룹이다. 리더 초연과 유우나 레이니 지인 은채 시안으로 구성됐다.]]></content:encoded>
+            <title><![CDATA['뮤직뱅크' 엔하이픈, 에스파 꺾고 1위 "엔진 고마워" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211022183206792</link>
+            <guid>https://entertain.v.daum.net/v/20211022183206792</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 김나연 기자] 그룹 엔하이픈(정원, 희승, 제이, 제이크, 성훈, 선우, 니키)가 '뮤직뱅크' 1위를 차지했다. 22일 방송된 KBS2 음악프로그램 '뮤직뱅크'에서는 그룹 엔하이픈 '테임드 대시드(Tamed-Dashed)'와 에스파 '새비지(Savage)'가 10월 넷째 주 1위 후보에 올랐다. 이날 1위의 주인공은 엔하이픈이었다. 엔하이픈]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[종영 '편먹고 공치리', 시즌2 초고속 귀환 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
@@ -951,41 +986,6 @@
             <content:encoded><![CDATA[치열한 한국 드라마 판에 놀라운 복병이 탄생했다. 넷플릭스 오리지널 시리즈 '마이 네임'의 원톱 주인공, 이제 겨우 스무 여섯살의 배우 한소희다. 전 세계 넷플릭스 순위 상위권 자리를 지키고 있는 '마이 네임'은 아버지를 죽인 범인을 찾기 위해 조직에 들어간 한소희(지우)가 새로운 이름으로 경찰에 잠입한 후 마주하는 냉혹한 진실과 복수를 그린 드라마다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['어나더레코드' 신세경 "서촌 배경 내 다큐, 신기하고 새로운 도전" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211022174605630</link>
-            <guid>https://entertain.v.daum.net/v/20211022174605630</guid>
-            <pubDate>Fri, 22 Oct 2021 09:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[고즈넉한 분위기가 물씬 풍기는 서촌의 신세경. 우리가 알고, 또 몰랐던 사람 신세경을 만날 수 있다. 신세경이 KT OTT seezn(시즌) 오리지널 영화 '어나더 레코드(김종관 감독)'를 통해 진짜 자신과 마주하는 신세경의 이야기를 전한다. '어나더 레코드'는 모두가 아는 신세경의 아무도 몰랐던 이야기를 다룬 시네마틱 리얼 다큐멘터리. 신세경은 서울]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["누군가의 롤모델 될래요"..버가부, 세상 놀라게 할 '핫' 데뷔 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211022174021462</link>
-            <guid>https://entertain.v.daum.net/v/20211022174021462</guid>
-            <pubDate>Fri, 22 Oct 2021 09:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=장진리 기자] 그룹 버가부가 당찬 데뷔 첫 발을 내디뎠다. 버가부는 22일 온라인으로 진행된 데뷔 쇼케이스에서 "누군가의 롤모델이 되는 그룹이 되고 싶다"고 밝혔다. 버가부는 초연, 유우나, 레이니, 지인, 은채, 시안으로 구성된 6인조 걸그룹으로, 달콤함 속 오싹함이라는 반전 매력을 콘셉트로 탄생했다. 초연은 2018년 '프로듀스48]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[남포동 "간암 판정에 생 마감하려 필리핀행..현재 모텔서 생활 중" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211022173536332</link>
-            <guid>https://entertain.v.daum.net/v/20211022173536332</guid>
-            <pubDate>Fri, 22 Oct 2021 09:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 원로 배우 남포동이 간암 말기 판정으로 힘들었던 시기를 돌이켰다. 남포동은 21일 유튜브 채널 '근황올림픽'에 출연해 근황을 공개했다. "업계 관계자와 안 만난 지 오래됐다"라며 조심스럽게 입을 뗀 남포동은 "서울에는 병원 때문에 3개월에 한 번씩 간다. 딸이 하룻밤만 자고 가라고 해도 서울역에서 열차를 타야 '내가 살았구나]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['슈퍼밴드2' 다비, 시크↔댄디 팔색조 매력 공개 "새 앨범 준비 박차" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211022173457315</link>
-            <guid>https://entertain.v.daum.net/v/20211022173457315</guid>
-            <pubDate>Fri, 22 Oct 2021 09:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 송오정 기자] 재즈 R&amp;B 싱어송라이터 다비(DAVII)가 새 프로필 사진을 공개하며 전천후 음악 행보를 예고했다. 다비는 최근 공식 SNS를 통해 새 프로필 이미지를 공개, 팬들의 뜨거운 반응을 모으고 있다. 공개된 사진 속 다비는 내추럴한 의상부터 블랙 슈트까지 다채로운 계절별 스타일링을 완벽하게 소화하며 시크함과 댄디함을 넘나드는 팔색조 매]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['신예' 버가부, 가요계 입성 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211022173404292</link>
-            <guid>https://entertain.v.daum.net/v/20211022173404292</guid>
-            <pubDate>Fri, 22 Oct 2021 09:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 신예 걸그룹 버가부(bugAboo)가 가요계에 입성했다.버가부는 초연, 유우나, 레이니, 지인, 은채, 시안으로 구성된 6인조 다국적 걸그룹으로 상상 속의 두렵고 놀라운 존재라는 뜻이다.‘세상을 놀래키는 존재가 되고 마음속의 두렵고 놀라운 존재를 함께 극복하고 꿈을 이루자’라는 의미를 담았다.버가부는 22일 오후 서울 상암동 SBS프리즘타워]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[알렉 볼드윈, 소품용 총기 사고→촬영감독 사망..브랜든 리 재조명 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
             <link>https://entertain.v.daum.net/v/20211022175017775</link>
             <guid>https://entertain.v.daum.net/v/20211022175017775</guid>
@@ -1049,179 +1049,305 @@
             <content:encoded><![CDATA[[뉴스엔 이민지 기자] 패리스 힐튼이 아동학대 경험을 고백했다. 10월 20일(현지시간) 워싱턴 포스트 등 외신에 따르면 패리스 힐튼은 워싱턴DC 의회 앞에서 아동 보육 시설 내 학대 방지 법안 통과를 촉구하는 기자회견을 가졌다. 패리스 힐튼은 이날 "20년이 지난 지금까지도 불면증 등 후유증을 겪고 있다"며 자신이 겪은 충격적인 경험을 공개했다. 패]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘뮤직뱅크’ 킹덤, ‘블랙 크라운’ 컴백 첫방…시선 강탈한 초대형 퍼포먼스 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000825154</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000825154</guid>
-            <pubDate>Fri, 22 Oct 2021 09:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[킹덤이 강렬함이 돋보이는 'Black Crown(블랙 크라운)'으로 '뮤직뱅크'를 장식했다. 킹덤(자한, 아이반, 치우, 아서, 단, 루이, 무진)은 22일 오후 방송한 KBS2 '뮤직뱅크'에 출연해 세 번째 미니앨]]></content:encoded>
+            <title><![CDATA[‘발매 D-1’ 개코, 새 싱글 ‘논해(Prod. 코드쿤스트)’ 티저 공개…피처링 누구? (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000769073</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000769073</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 다이나믹듀오 개코가 깜짝 싱글을 선보인다. 아메바컬쳐는 22일 “개코가 오는 23일 정오 새 싱글 ‘논해 (Feat. ?) (Prod. CODE KUNST)’를 발매한다”라고 밝혔다. 아메바컬쳐는 공식]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘뮤직뱅크’ 남우현, 나른 섹시로 돌아왔다…‘냉정과 열정 사이’ (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000825153</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000825153</guid>
-            <pubDate>Fri, 22 Oct 2021 09:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 인피니트(INFINITE) 남우현이 독보적인 '나른 섹시' 매력으로 돌아왔다. 남우현은 22일 KBS2 '뮤직뱅크'에 출연해 네 번째 미니 앨범 '위드(With)'의 타이틀곡 '냉정과 열정 사이' 첫 컴백 무대]]></content:encoded>
+            <title><![CDATA[개코, 8개월만 깜짝 컴백..코드쿤스트 손잡고 '논해' 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004496457</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004496457</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박판석 기자] 다이나믹듀오 개코가 깜짝 싱글을 선보인다. 아메바컬쳐는 22일 "개코가 오는 23일 정오 새 싱글 '논해 (Feat. ?) (Prod. CODE KUNST)'를 발매한다"라고 밝혔다. 이와]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 버가부 지인, '상큼함 가득~' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619617</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619617</guid>
-            <pubDate>Fri, 22 Oct 2021 09:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 버가부 지인이 22일 오후 서울 상암동 SBS프리즘타워에서 열린 데뷔 싱글 '버가부(bugAboo)' 발매 기념 쇼케이스에 참석해 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[[포토] 버가부 은채, '강렬한 눈빛' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619653</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619653</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 버가부 은채가 22일 오후 서울 상암동 SBS프리즘타워에서 열린 데뷔 싱글 '버가부(bugAboo)' 발매 기념 쇼케이스에 참석해 공연을 펼치고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 버가부 지인, '깜찍하게 앙~' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619616</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619616</guid>
-            <pubDate>Fri, 22 Oct 2021 09:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 버가부 지인이 22일 오후 서울 상암동 SBS프리즘타워에서 열린 데뷔 싱글 '버가부(bugAboo)' 발매 기념 쇼케이스에 참석해 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[개코, 23일 깜짝 싱글 '논해 (Feat. ?) (Prod. 코드쿤스트)' 발매..8개월만 귀환[공식] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003489883</link>
+            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003489883</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[[헤럴드POP=천윤혜기자]다이나믹듀오 개코가 깜짝 싱글을 선보인다. 아메바컬쳐는 22일 "개코가 오는 23일 정오 새 싱글 '논해 (Feat. ?) (Prod. CODE KUNST)'를 발매한다"라고 밝혔다. 이와]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 버가부 유우나, '사랑스러움 가득~' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619615</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619615</guid>
-            <pubDate>Fri, 22 Oct 2021 09:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 버가부 유우나가 22일 오후 서울 상암동 SBS프리즘타워에서 열린 데뷔 싱글 '버가부(bugAboo)' 발매 기념 쇼케이스에 참석해 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[[포토] 버가부 초연, '우월한 8등신 비율 과시' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619651</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619651</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 버가부 초연이 22일 오후 서울 상암동 SBS프리즘타워에서 열린 데뷔 싱글 '버가부(bugAboo)' 발매 기념 쇼케이스에 참석해 공연을 펼치고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 버가부 유우나, '깜찍한 인형 미모' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619614</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619614</guid>
-            <pubDate>Fri, 22 Oct 2021 09:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 버가부 유우나가 22일 오후 서울 상암동 SBS프리즘타워에서 열린 데뷔 싱글 '버가부(bugAboo)' 발매 기념 쇼케이스에 참석해 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[[포토] 버가부 초연, '매력적인 미소에 눈길~' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619650</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619650</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 버가부 초연이 22일 오후 서울 상암동 SBS프리즘타워에서 열린 데뷔 싱글 '버가부(bugAboo)' 발매 기념 쇼케이스에 참석해 공연을 펼치고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 버가부 시안, '반짝반짝 빛나는 꽃미모~' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619613</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619613</guid>
-            <pubDate>Fri, 22 Oct 2021 09:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 버가부 시안이 22일 오후 서울 상암동 SBS프리즘타워에서 열린 데뷔 싱글 '버가부(bugAboo)' 발매 기념 쇼케이스에 참석해 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[[포토] 버가부 유우나, '사랑스러운 손인사~' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619649</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619649</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 버가부 유우나가 22일 오후 서울 상암동 SBS프리즘타워에서 열린 데뷔 싱글 '버가부(bugAboo)' 발매 기념 쇼케이스에 참석해 공연을 펼치고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 버가부 시안, '예쁘다~예뻐~' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619612</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619612</guid>
-            <pubDate>Fri, 22 Oct 2021 09:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 버가부 시안이 22일 오후 서울 상암동 SBS프리즘타워에서 열린 데뷔 싱글 '버가부(bugAboo)' 발매 기념 쇼케이스에 참석해 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[[포토] 버가부 은채, '카리스마 넘치는 눈빛' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619648</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619648</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 버가부 은채가 22일 오후 서울 상암동 SBS프리즘타워에서 열린 데뷔 싱글 '버가부(bugAboo)' 발매 기념 쇼케이스에 참석해 공연을 펼치고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 버가부 시안, '깜찍한 미소에 눈길~' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619611</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619611</guid>
-            <pubDate>Fri, 22 Oct 2021 09:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 버가부 시안이 22일 오후 서울 상암동 SBS프리즘타워에서 열린 데뷔 싱글 '버가부(bugAboo)' 발매 기념 쇼케이스에 참석해 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[[포토] 버가부 시안, '아름다운 미모에 시선강탈' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619647</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619647</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 버가부 시안이 22일 오후 서울 상암동 SBS프리즘타워에서 열린 데뷔 싱글 '버가부(bugAboo)' 발매 기념 쇼케이스에 참석해 공연을 펼치고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["꿈을 꾸던 너를 봐" 정엽, 따뜻한 위로로 완성한 가을 감성 'Look at the Sky' [퇴근길 신곡] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004496423</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004496423</guid>
-            <pubDate>Fri, 22 Oct 2021 09:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=지민경 기자] 가수 정엽이 쌀쌀해진 날씨에 포근한 위로를 선사한다. 정엽은 22일 오후 6시 각종 음원사이트를 통해 세 번째 싱글 에디션 ‘Look at the Sky’ 음원과 뮤직비디오를 공개했다. 지난]]></content:encoded>
+            <title><![CDATA[트라이비 미레, 멤버 당황시킨 첫인상 "요즘 06년생 다 저래?" [앞담화인터뷰] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0002998924</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0002998924</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[걸그룹 트라이비(TRI.BE, 송선 켈리 진하 현빈 지아 소은 미레) 멤버들이 미레를 처음 보고 느낀 점을 밝혔다. 트라이비는 최근 스타뉴스와 만나 앞담화인터뷰를 진행했다. 앞담화인터뷰는 한 멤버 대한 질문에 나머지]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 버가부 초연, '눈 뗄 수 없는 예쁜 미소' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619610</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619610</guid>
-            <pubDate>Fri, 22 Oct 2021 09:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 버가부 초연이 22일 오후 서울 상암동 SBS프리즘타워에서 열린 데뷔 싱글 '버가부(bugAboo)' 발매 기념 쇼케이스에 참석해 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[트라이비 현빈, 멤버들이 이해 못하는 취미의 소유자 [앞담화인터뷰] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0002998923</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0002998923</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[걸그룹 트라이비(TRI.BE, 송선 켈리 진하 현빈 지아 소은 미레) 멤버들이 현빈의 취미를 두고 "이해가 안 된다"고 말했다. 트라이비는 최근 스타뉴스와 만나 앞담화인터뷰를 진행했다. 앞담화인터뷰는 한 멤버 대한]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["표정없던 내 맘이"…정엽, 따뜻한 미소 담아 '룩 앳 더 스카이' [쥬크박스] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001363339</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001363339</guid>
-            <pubDate>Fri, 22 Oct 2021 09:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김예나 기자) 그룹 브라운아이드소울 정엽이 가을에 어울리는 소울풀한 신곡으로 돌아왔다. 정엽은 22일 오후 6시 각종 온라인 음원사이트를 통해 새 싱글 '룩 앳 더 스카이(Look at the Sky)]]></content:encoded>
+            <title><![CDATA[트라이비 소은 "친동생이었으면 큰일날 뻔.." [앞담화인터뷰] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0002998922</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0002998922</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[걸그룹 트라이비(TRI.BE, 송선 켈리 진하 현빈 지아 소은 미레) 현빈이 소은에 대해 "내 친동생이었으면 큰일날 뻔했다"고 말했다. 트라이비는 최근 스타뉴스와 만나 앞담화인터뷰를 진행했다. 앞담화인터뷰는 한 멤버]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 버가부 초연, '깜찍 미소로 하트 발사~' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619609</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619609</guid>
-            <pubDate>Fri, 22 Oct 2021 09:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 버가부 초연이 22일 오후 서울 상암동 SBS프리즘타워에서 열린 데뷔 싱글 '버가부(bugAboo)' 발매 기념 쇼케이스에 참석해 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[트라이비 지아 #트위티닮은꼴 #인간A형 [앞담화인터뷰] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0002998921</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0002998921</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[걸그룹 트라이비(TRI.BE, 송선 켈리 진하 현빈 지아 소은 미레) 멤버들이 지아에 대해 "귀여운 새 같다"고 말했다. 트라이비는 최근 스타뉴스와 만나 앞담화인터뷰를 진행했다. 앞담화인터뷰는 한 멤버 대한 질문에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 버가부 은채, '상큼하게 하트 발사~' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619608</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619608</guid>
-            <pubDate>Fri, 22 Oct 2021 09:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 버가부 은채가 22일 오후 서울 상암동 SBS프리즘타워에서 열린 데뷔 싱글 '버가부(bugAboo)' 발매 기념 쇼케이스에 참석해 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[[포토] 버가부 레이니, '미소가 사랑스러워~' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619645</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619645</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 버가부 레이니가 22일 오후 서울 상암동 SBS프리즘타워에서 열린 데뷔 싱글 '버가부(bugAboo)' 발매 기념 쇼케이스에 참석해 공연을 펼치고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 버가부 은채, '귀여움 가득~' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619607</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619607</guid>
-            <pubDate>Fri, 22 Oct 2021 09:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 버가부 은채가 22일 오후 서울 상암동 SBS프리즘타워에서 열린 데뷔 싱글 '버가부(bugAboo)' 발매 기념 쇼케이스에 참석해 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[[포토] 버가부 지인, '우월한 비율 과시' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619644</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619644</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 버가부 지인이 22일 오후 서울 상암동 SBS프리즘타워에서 열린 데뷔 싱글 '버가부(bugAboo)' 발매 기념 쇼케이스에 참석해 공연을 펼치고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[정엽 'Look at the Sky' 가을 감성 담은 매력적인 위로[6시★살롱] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0002998912</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0002998912</guid>
-            <pubDate>Fri, 22 Oct 2021 09:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[브라운아이드소울 정엽이 가을 분위기를 담은 3번째 싱글 에디션 'Look at the Sky'를 통해 경쾌한 가을 감성을 전했다. 정엽은 22일 오후 6시 주요 온라인 음원 사이트를 통해 3번째 싱글 에디션 'Loo]]></content:encoded>
+            <title><![CDATA[[포토] 버가부 시안, '예쁨이 가득~' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619643</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619643</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 버가부 시안이 22일 오후 서울 상암동 SBS프리즘타워에서 열린 데뷔 싱글 '버가부(bugAboo)' 발매 기념 쇼케이스에 참석해 공연을 펼치고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 버가부 레이니, '귀여운 미소로 하트 발사~' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619606</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619606</guid>
-            <pubDate>Fri, 22 Oct 2021 09:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 버가부 레이니가 22일 오후 서울 상암동 SBS프리즘타워에서 열린 데뷔 싱글 '버가부(bugAboo)' 발매 기념 쇼케이스에 참석해 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[[포토] 버가부 시안, '반짝반짝 빛나는 미모' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619642</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619642</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 버가부 시안이 22일 오후 서울 상암동 SBS프리즘타워에서 열린 데뷔 싱글 '버가부(bugAboo)' 발매 기념 쇼케이스에 참석해 공연을 펼치고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 버가부 레이니, '예쁨 가득한 미소~' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619605</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619605</guid>
-            <pubDate>Fri, 22 Oct 2021 09:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 버가부 레이니가 22일 오후 서울 상암동 SBS프리즘타워에서 열린 데뷔 싱글 '버가부(bugAboo)' 발매 기념 쇼케이스에 참석해 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[[포토] 버가부 레이니, '도도하게~' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619641</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619641</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 버가부 레이니가 22일 오후 서울 상암동 SBS프리즘타워에서 열린 데뷔 싱글 '버가부(bugAboo)' 발매 기념 쇼케이스에 참석해 공연을 펼치고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["세상을 놀라게…'데뷔' 버가부의 무한 잠재력 [종합] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001363331</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001363331</guid>
-            <pubDate>Fri, 22 Oct 2021 09:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김예나 기자) 그룹 버가부(bugAboo)가 세상을 깜짝 놀라게 만들 걸그룹 탄생을 알렸다. 22일 오후 버가부(초연, 유우나, 레이니, 지인, 은채, 시안) 데뷔 싱글 '버가부' 발매 기념 쇼케이스가]]></content:encoded>
+            <title><![CDATA[[포토] 버가부 레이니, '매력 넘치는 미소' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619640</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619640</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 버가부 레이니가 22일 오후 서울 상암동 SBS프리즘타워에서 열린 데뷔 싱글 '버가부(bugAboo)' 발매 기념 쇼케이스에 참석해 공연을 펼치고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[YG 트레저 최현석 'TMI-LOG' 출격, 긍정 에너지 가득 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000795763</link>
-            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000795763</guid>
-            <pubDate>Fri, 22 Oct 2021 09:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 이웅희기자] YG 대형 신인 트레저 최현석이 평범한 일상 속 유쾌한 에너지로 팬들에게 미소를 안겼다. ‘프라이빗 스테이지’ 리허설 현장 등을 통해 긍정 에너지 전파에 나섰다. YG엔터테인먼트는 22일]]></content:encoded>
+            <title><![CDATA['뮤뱅' 엔하이픈, 에스파 꺾고 1위..은혁 'be'컴백[★밤TView] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0002998920</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0002998920</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:19 GMT</pubDate>
+            <content:encoded><![CDATA['뮤직뱅크'에서 그룹 엔하이픈의 1위를 차지한 가운데 슈퍼주니어 멤버 은혁의 솔로 컴백 무대가 최초 공개됐다. 22일 오후 방송된 KBS 2TV 음악프로그램 '뮤직뱅크'에서 엔하이픈이 1위의 영광을 차지했다. 엔하이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 버가부, '파워 넘치는 멋진 군무' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619603</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619603</guid>
-            <pubDate>Fri, 22 Oct 2021 09:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 버가부가 22일 오후 서울 상암동 SBS프리즘타워에서 열린 데뷔 싱글 '버가부(bugAboo)' 발매 기념 쇼케이스에 참석해 공연을 펼치고 있다.]]></content:encoded>
+            <title><![CDATA[[포토] 버가부 유우나, '치명적인 눈빛' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619639</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619639</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 버가부 유우나가 22일 오후 서울 상암동 SBS프리즘타워에서 열린 데뷔 싱글 '버가부(bugAboo)' 발매 기념 쇼케이스에 참석해 공연을 펼치고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 버가부, '멋진 무대에 눈길~' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619602</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619602</guid>
-            <pubDate>Fri, 22 Oct 2021 09:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 버가부가 22일 오후 서울 상암동 SBS프리즘타워에서 열린 데뷔 싱글 '버가부(bugAboo)' 발매 기념 쇼케이스에 참석해 공연을 펼치고 있다.]]></content:encoded>
+            <title><![CDATA[[포토] 버가부 지인, '사랑스러움 가득~' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619638</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619638</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 버가부 지인이 22일 오후 서울 상암동 SBS프리즘타워에서 열린 데뷔 싱글 '버가부(bugAboo)' 발매 기념 쇼케이스에 참석해 공연을 펼치고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 버가부, '파워 넘치는 멋진 무대' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619600</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619600</guid>
-            <pubDate>Fri, 22 Oct 2021 09:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 버가부가 22일 오후 서울 상암동 SBS프리즘타워에서 열린 데뷔 싱글 '버가부(bugAboo)' 발매 기념 쇼케이스에 참석해 공연을 펼치고 있다.]]></content:encoded>
+            <title><![CDATA[[포토] 버가부 지인, '미소가 귀여워~' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619637</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619637</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 버가부 지인이 22일 오후 서울 상암동 SBS프리즘타워에서 열린 데뷔 싱글 '버가부(bugAboo)' 발매 기념 쇼케이스에 참석해 공연을 펼치고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 버가부, '상큼 발랄한 모습으로 데뷔' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619599</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619599</guid>
-            <pubDate>Fri, 22 Oct 2021 09:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 버가부가 22일 오후 서울 상암동 SBS프리즘타워에서 열린 데뷔 싱글 '버가부(bugAboo)' 발매 기념 쇼케이스에 참석해 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[[포토] 버가부 지인, '막내의 강렬한 눈빛' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619636</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619636</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 버가부 지인이 22일 오후 서울 상암동 SBS프리즘타워에서 열린 데뷔 싱글 '버가부(bugAboo)' 발매 기념 쇼케이스에 참석해 공연을 펼치고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[다비, 다양한 스타일링 완벽 소화…팔색조 비주얼 변신 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001363322</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001363322</guid>
-            <pubDate>Fri, 22 Oct 2021 09:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김예나 기자) 재즈 R&amp;B 싱어송라이터 다비(DAVII)가 새 프로필 사진을 공개하며 전천후 음악 행보를 예고했다. 다비는 최근 공식 SNS를 통해 새 프로필 이미지를 공개, 팬들의 뜨거운 반응을 모으]]></content:encoded>
+            <title><![CDATA[[포토] 버가부 초연, '강렬한 눈빛~' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619635</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619635</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 버가부 초연이 22일 오후 서울 상암동 SBS프리즘타워에서 열린 데뷔 싱글 '버가부(bugAboo)' 발매 기념 쇼케이스에 참석해 공연을 펼치고 있다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[골든차일드 이장준, ‘꿈꾸라’ 특별 DJ 출격 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940098</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940098</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 골든차일드(Golden Child) 이장준이 '꿈꾸는 라디오' 스페셜 DJ로 출격한다. 이장준은 22일 오후 8시 방송되는 MBC FM4U '전효성의 꿈꾸는 라디오(이하 '꿈꾸라')'의 스페셜 DJ를 맡아 청취]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['안정환♥' 이혜원, '판박이 딸' 리원과 데이트하는데 "이렇게 사는 게 맞는지" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003792523</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003792523</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 이우주 기자] 전 축구선수 안정환 미스코리아 출신 이혜원 부부의 딸 리원 양의 성숙해진 미모를 뽐냈다. 이혜원은 22일 자신의 SNS를 통해 "참…하루가 왜 이리 빠른지…이렇게 사는 게 맞는지…가을]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[정동원, 첫 정규 앨범 타임테이블 공개 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940097</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940097</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[가수 정동원이 첫 정규 앨범의 타임테이블을 공개했다. 노래뿐만 아니라 색소폰, 드럼 연주까지 능통한 ‘음악 천재’ 정동원이 오는 11월 17일 컴백한다. 이에 앞서 정동원 소속사 쇼플레이엔터테인먼트는 지난 21일 공]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[엔하이픈, 日 오리콘 차트 장악 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940096</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940096</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 ENHYPEN(엔하이픈)이 새 앨범으로 일본 오리콘 주간 앨범 차트에 이어 ‘주간 합산 앨범 랭킹’에서도 1위를 차지, 일본 시장 내 막강한 영향력을 입증했다. 22일 오리콘 뉴스의 발표에 따르면, ENHYPE]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[전소민 ‘심쿵하는 미소‘ (‘희수’) [DA포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940095</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940095</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[22일 KBS2 드라마 스페셜 2021-TV 시네마 ‘희수’ 방송 기념 온라인 제작발표회가 진행됐다. ‘TV 시네마’의 첫 번째 작품인 ‘희수’(연출 최상열 / 극본 염제이)는 여섯 살 난 딸을 교통사고로 잃은 부모]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김선호 '갯마을 차차차' 단체사진 등장…화기애애 분위기 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005675146</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005675146</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 배우 조한철이 최근 인기리에 종영한 tvN 주말드라마 '갯마을 차차차'를 그리워했다. 그가 공개한 단체사진에는 사생활 논란이 불거진 주연배우 김선호의 모습도 담겨 눈길을 끌었다. 조한]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[원어스, 인트로 ‘창(窓)’ 퍼포먼스 영상 공개 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940094</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940094</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 원어스가 또 한 번 퍼포먼스의 역사를 새로 쓴다. 원어스(RAVN(레이븐)·서호·이도·건희·환웅·시온)는 오늘(22일) 0시, 공식 유튜브 채널을 통해 여섯 번째 미니앨범 'BLOOD MOON'(블러드 문)의]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[옹성우 ‘커피 내려드릴게요~‘ (‘커피 한잔 할까요?’) [DA포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940093</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940093</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[22일 카카오TV 오리지널 '커피 한잔 할까요?' 첫 방송 기념 온라인 제작발표회가 진행됐다. 카카오TV 오리지널 '커피 한잔 할까요?'(연출/극본 노정욱)는 순수한 열정만으로 커피의 세계에 뛰어든 신입 바리스타 강]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[옹성우, 포근한 미소 (‘커피 한잔 할까요?’) [DA포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940092</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940092</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[22일 카카오TV 오리지널 '커피 한잔 할까요?' 첫 방송 기념 온라인 제작발표회가 진행됐다. 카카오TV 오리지널 '커피 한잔 할까요?'(연출/극본 노정욱)는 순수한 열정만으로 커피의 세계에 뛰어든 신입 바리스타 강]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[옹성우 ‘우리 같이 따뜻한 커피 한 잔해요~‘ (‘커피 한잔 할까요?’) [DA포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940091</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940091</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[22일 카카오TV 오리지널 '커피 한잔 할까요?' 첫 방송 기념 온라인 제작발표회가 진행됐다. 카카오TV 오리지널 '커피 한잔 할까요?'(연출/극본 노정욱)는 순수한 열정만으로 커피의 세계에 뛰어든 신입 바리스타 강]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[임영웅, 무려 30주 연속 아이돌 차트 1위…독보적 인기 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005675135</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005675135</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 가수 임영웅이 10월 3주차 아이돌차트 평점랭킹에서 최다득표자에 올라 독보적 인기를 입증했다. 22일 아이돌차트에 따르면 지난 15일부터 121일까지 집계된 평점랭킹에서 임영웅은 61]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[알렉 볼드윈, 영화 촬영 중 쏜 총에 촬영 감독 사망 "실탄 들어있는지 몰라" [종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003792514</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003792514</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 이우주 기자] 미국 배우 알렉 볼드윈이 영화 촬영 중 실탄이 든 소품총을 쏴 카메라맨이 사망하는 사고가 발생했다. 버라이어티 등 미국 현지 매체들은 22일(현지시간) 알렉 볼드윈이 오후 1시 50분께]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김우빈, ♥신민아 녹이는 피지컬..듬직한 어깨+10등신 비율[스타IN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0002998918</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0002998918</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[배우 김우빈이 엄청난 피지컬을 자랑했다. 김우빈은 22일 자신의 인스타그램에 사진을 게재했다. 사진 속 김우빈은 맨투맨과 트레이닝 바지 등 편안한 차림으로 있다. 김우빈은 굽 하나 없는 스니커즈를 신고도 10등신 비]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[현장EN:]"'버가부'도 '피카부'처럼 많은 사랑받았으면" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=079&amp;aid=0003566264</link>
+            <guid>https://entertain.naver.com/now/read?oid=079&amp;aid=0003566264</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:27 GMT</pubDate>
+            <content:encoded><![CDATA['버가부'(bugAboo)는 '까꿍~', '왁!' 하고 놀라게 하는 상상 속의 두렵고 놀라운 존재라는 뜻이다. 초연·유우나·레이니·지인·은채·시안으로 이루어진 6인조 여성 아이돌 그룹 버가부는 '세상을 놀라게 하는]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['61세' 최화정, '톱모델' 이현이X송해나 사이에서도 안 꿀리는 포스 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003792505</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003792505</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 이우주 기자] 방송인 최화정이 톱 모델 사이에서도 독보적인 존재감을 드러냈다. SBS 파워FM '최화정의 파워타임' 공식 SNS에는 22일 "너무 유쾌하고 매력 있는 그녀들"이라는 글이 게재됐다. 공]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[포토] 버가부 '신나는 무대' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003630894</link>
+            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003630894</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[걸그룹 버가부(bugaboo)가 22일 오후 서울 상암동 SBS 프리즘타워에서 진행된 첫 번째 싱글 앨범 ‘bugAboo(버가부)’의 데뷔 쇼케이스에 참석해 열띤 공연을 펼치고 있다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이번엔 김선호 대학 동문의 주장…소속사 "사실무근" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=629&amp;aid=0000112108</link>
+            <guid>https://entertain.naver.com/now/read?oid=629&amp;aid=0000112108</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:27 GMT</pubDate>
+            <content:encoded><![CDATA["대학 때부터 여성 편력에 폭력적" 주장하는 글 등장 김선호가 사생활 논란으로 사과한 가운데 이번엔 대학 동문이라고 주장하는 이의 글이 등장했다. 21일 한 온라인 커뮤니티에 김선호의 서울예대 동문이라는 A씨의 글이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[영상] "악성댓글 가만 안둔다"…이승기, 강경 대응 예고 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0012741366</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0012741366</guid>
+            <pubDate>Fri, 22 Oct 2021 10:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 가수 겸 배우 이승기 측이 악성댓글 작성자에 대해 법적 대응을 해나가겠다고 예고했습니다. 소속사 후크엔터테인먼트는 이승기 공식 홈페이지를 통해 "이승기의 인격과 명예를 훼손하고 정신적 고통을 가하는 행위들에 대해 어떠한 합의나 선처 없이 무관용의 원칙으로 강력히 대응하겠다"고 21일 밝혔는데요. 이어 새...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['왕들의 귀환' 킹덤, '뮤뱅'서 초대형 퍼포먼스로 컴백 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
@@ -1271,132 +1397,6 @@
             <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940089</guid>
             <pubDate>Fri, 22 Oct 2021 09:20:15 GMT</pubDate>
             <content:encoded><![CDATA[‘뫼비우스 : 검은 태양’이 새롭게 펼쳐질 박하선과 정문성, 장영남의 이야기를 예고하며 기대를 부르고 있다. MBC 금토드라마 ‘검은 태양’의 2부작 스핀오프 ‘뫼비우스 : 검은 태양’(극본 유상/ 연출 위득규)은]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[최민환, 여동생 결혼식에 긴장 (살림남2) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940088</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940088</guid>
-            <pubDate>Fri, 22 Oct 2021 09:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[최민환이 동생의 결혼식을 앞두고 웨딩 조교로 변신했다. 23일 KBS2 ‘살림하는 남자들 시즌2’(이하 ‘살림남2′)에서는 하나밖에 없는 여동생의 결혼식을 생애 최고의 날로 만들어 주고 싶은 오빠 최민환의 이야기가]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[남포동 "간암 판정 후 조용히 떠나려 필리핀 行, 10년째 모텔 생활" ('근황올림픽') (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003792504</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003792504</guid>
-            <pubDate>Fri, 22 Oct 2021 09:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선닷컴 이우주 기자] '근황올림픽' 남포동이 사업 실패, 간암 투병 등의 풍파를 돌아봤다. 21일 유튜브 채널 '근황올림픽'에서는 원로배우 남포동의 근황이 공개됐다. 현재 10년째 모텔에서 지내고 있다는 남]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[코트라 주최 한류박람회 홍보대사에 2PM 우영·걸그룹 있지 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0012741332</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0012741332</guid>
-            <pubDate>Fri, 22 Oct 2021 09:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 윤보람 기자 = 코트라는 다음 달 1일부터 15일까지 온라인으로 열리는 '2021 글로벌 한류박람회' 홍보대사로 한류스타 2PM 우영과 걸그룹 있지(ITZY)를 위촉했다고 22일 밝혔다. 이날 서울]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['결별설 일축' 이세영, 웨딩드레스 화보 공개…아련美 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004868637</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004868637</guid>
-            <pubDate>Fri, 22 Oct 2021 09:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[개그우먼 이세영이 웨딩드레스 화보를 공개했다. 이세영은 22일 인스타그램에 “#촬영 #개인화보 #결혼 #웨딩드레스”라는 글과 함께 사진을 게재했다. 공개된 사진에는 이세영이 웨딩드레스를 입고 다양한 포즈를 취하고 있]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['SNL 코리아' 김동욱, 10년만 출격 '소년미 한 스푼' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004868636</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004868636</guid>
-            <pubDate>Fri, 22 Oct 2021 09:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[배우 김동욱이 'SNL코리아'에 출격한다. 오는 23일 오후 10시 공개되는 쿠팡 플레이 예능프로그램 'SNL 코리아'에는 김동욱이 호스트로 출연한다. 10년만에 'SNL 코리아'와 재회한 김동욱은 자타공인 연기파]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] '마이 네임' 한소희 "'나답지 않다'는 평이 가장 듣고 싶었죠" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000278991</link>
-            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000278991</guid>
-            <pubDate>Fri, 22 Oct 2021 09:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[치열한 한국 드라마 판에 놀라운 복병이 탄생했다. 넷플릭스 오리지널 시리즈 '마이 네임'의 원톱 주인공, 이제 겨우 스무 여섯살의 배우 한소희다. 전 세계 넷플릭스 순위 상위권 자리를 지키고 있는 '마이 네임'은]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[종합] '어나더레코드' 신세경 "서촌 배경 내 다큐, 신기하고 새로운 도전" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000278990</link>
-            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000278990</guid>
-            <pubDate>Fri, 22 Oct 2021 09:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[고즈넉한 분위기가 물씬 풍기는 서촌의 신세경. 우리가 알고, 또 몰랐던 사람 신세경을 만날 수 있다. 신세경이 KT OTT seezn(시즌) 오리지널 영화 '어나더 레코드(김종관 감독)'를 통해 진짜 자신과 마주]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 제니, 하의실종 패션? 독보적 각선미 [똑똑SNS] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000825142</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000825142</guid>
-            <pubDate>Fri, 22 Oct 2021 09:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 블랙핑크 제니가 하의실종 패션을 선보였다. 제니는 지난 21일 자신의 인스타그램에 “Dream work. So happy to be apart of this beautiful collection of cocon]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[조한철. 비하인드컷 공개 "'갯마을 차차차' 그리워" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004868621</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004868621</guid>
-            <pubDate>Fri, 22 Oct 2021 09:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[배우 조한철이 '갯마을 차차차'에 대한 애정을 드러냈다. 조한철은 22일 인스타그램에 "'갯마을 차차차', '갯차', tvN 그리워"라는 글과 함께 사진을 올렸다. 사진에는 지난 17일 종영한 '갯마을 차차차' 촬영]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[알렉사, 인도까지 뻗어가는 글로벌 루키 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004868619</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004868619</guid>
-            <pubDate>Fri, 22 Oct 2021 09:20:15 GMT</pubDate>
-            <content:encoded><![CDATA['글로벌 슈퍼 루키'로 자리매김 중인 가수 알렉사가 인도 팬들을 위한 컨텐츠를 공개했다. 알렉사는 최근 인도의 가수 겸 안무가인 쉬리 칸나(Shrey Khanna)와 컬래버레이션한 영상을 자신의 공식 유튜브 등을 통]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스1 ★]세븐틴 '빌보드100' 향한 도전 '꿈은 크게' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005675058</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005675058</guid>
-            <pubDate>Fri, 22 Oct 2021 09:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 권현진 기자 = “빌보드100, 이번엔 1위 해 보고 싶어요” 세븐틴이 빌보드 1위를 상상하며 귀여운 포즈로 간담회를 환하게 만들었다. 세븐틴(Seventeen) 에스쿱스, 정한, 조슈아, 호시, 원]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[T포토] 초연 '카리스마 손짓' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001197725</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001197725</guid>
-            <pubDate>Fri, 22 Oct 2021 09:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 '버가부' 초연이 22일 오후 서울 마포구 상암동 SBS 프리즘타워에서 열린 첫 번째 싱글 앨범 'bugAboo' 발매 기념 쇼케이스에서 멋진 무대를 선보이고 있다. 한편, 타이틀곡 ‘bugAboo’는 새로운]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[T포토] 틱톡 화제 아이돌 버가부 '데뷔 쇼케이스' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001197724</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001197724</guid>
-            <pubDate>Fri, 22 Oct 2021 09:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 버가부가 22일 오후 서울 마포구 상암동 SBS 프리즘타워에서 열린 첫 번째 싱글 앨범 'bugAboo' 발매 기념 쇼케이스에서 멋진 무대를 선보이고 있다. 한편, 타이틀곡 ‘bugAboo’는 새로운 세계로 떠]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[“우리만의 장르로”…버가부, 독특한 세계관 앞세운 ‘꿈의 데뷔’ (종합) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000594986</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000594986</guid>
-            <pubDate>Fri, 22 Oct 2021 09:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[달콤함 속 오싹한 매력을 뽐낸다. 신인 걸그룹 버가부가 신비로운 세계관으로 가요계에 출사표를 던졌다. 22일 오후 신인그룹 버가부(초연 유우나 레이니 지인 은채 시안)의 온라인 데뷔 쇼케이스가 열렸다. 이 자리에서]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이세영, 결별설 일축→아련 웨딩화보 [DA★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940087</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940087</guid>
-            <pubDate>Fri, 22 Oct 2021 09:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[코미디언 이세영이 연인과의 결별설을 일축한 후 웨딩 화보를 공개했다. 이세영은 22일 자신의 인스타그램에 "촬영. 개인 화보. 결혼. 웨딩드레스"라는 글을 게재했다. 함께 공개한 사진 속 이세영은 웨딩드레스를 입고]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[버가부 레이니 “데뷔곡 ‘bugAboo’, 신선하고 독특한 음악” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000594985</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000594985</guid>
-            <pubDate>Fri, 22 Oct 2021 09:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[신인그룹 버가부가 데뷔곡 ‘버가부’의 첫인상을 전했다. 22일 오후 신인그룹 버가부(초연 유우나 레이니 지인 은채 시안)의 온라인 데뷔 쇼케이스가 열렸다. 이 자리에서 버가부는 데뷔곡 ‘버가부(bugAboo)’와 수]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[버가부 지인 “데뷔 실감 안나…항상 지켜봐 달라” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000594984</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000594984</guid>
-            <pubDate>Fri, 22 Oct 2021 09:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[신인그룹 버가부가 연습생 생활을 마치고 정식 데뷔 무대에 선 소감을 밝혔다. 22일 오후 신인그룹 버가부(초연 유우나 레이니 지인 은채 시안)의 온라인 데뷔 쇼케이스가 열렸다. 이 자리에서 버가부는 데뷔곡 ‘버가부(]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[버가부 은채 “팀명 첫 인상? 한 가족된 느낌” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000594983</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000594983</guid>
-            <pubDate>Fri, 22 Oct 2021 09:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[신인그룹 버가부가 팀명 ‘버가부’의 의미를 소개했다. 22일 오후 신인그룹 버가부(초연 유우나 레이니 지인 은채 시안)의 온라인 데뷔 쇼케이스가 열렸다. 이 자리에서 버가부는 데뷔곡 ‘버가부(bugAboo)’와 수록]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[실탄 든 소품용 총 발사해 촬영감독 숨져…'알렉 볼드윈' 누구? (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
