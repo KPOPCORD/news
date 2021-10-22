@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-22T15:21:56.252Z</updated>
+    <updated>2021-10-22T17:24:57.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[11월 5일 개막 ‘자라섬재즈페스티벌’…폴란드·싱가포르 재즈 선율 선사한다]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000769118</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000769118"/>
+        <updated>2021-10-22T17:24:42.027Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 다음달 5일부터 7일까지 가평 자라섬에서 개최가 되는 ‘자라섬재즈페스티벌’이 코로나19로 인해 해외 연주자의 출입국이 자유롭지 못한 상황에서 실황 영상을 통해 폴란드와 싱가포르 재즈 신의 현재를 소개할]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅, 英雄本色]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002998962</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004619653"/>
         <updated>2021-10-22T10:23:19.405Z</updated>
         <content type="html"><![CDATA[그룹 버가부 은채가 22일 오후 서울 상암동 SBS프리즘타워에서 열린 데뷔 싱글 '버가부(bugAboo)' 발매 기념 쇼케이스에 참석해 공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개코, 23일 깜짝 싱글 '논해 (Feat. ?) (Prod. 코드쿤스트)' 발매..8개월만 귀환[공식]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003489883</id>
-        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003489883"/>
-        <updated>2021-10-22T10:23:19.406Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=천윤혜기자]다이나믹듀오 개코가 깜짝 싱글을 선보인다. 아메바컬쳐는 22일 "개코가 오는 23일 정오 새 싱글 '논해 (Feat. ?) (Prod. CODE KUNST)'를 발매한다"라고 밝혔다. 이와]]></content>
     </entry>
 </feed>

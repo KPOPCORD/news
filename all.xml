@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 15:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 17:24:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,14 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211012112407_1a4e8d45a184f1257d3b4eb5753b9311.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[기안84-샤이니 키, 상극 케미 폭발 “반대 성향이라 잘 맞아” (나 혼자 산다) (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328638</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328638</guid>
+            <pubDate>Fri, 22 Oct 2021 17:24:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328638">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/23/HwiAdP5K7Mnx637705506392815237.JPG" alt="기안84-샤이니 키, 상극 케미 폭발 “반대 성향이라 잘 맞아” (나 혼자 산다)">        <div class="text-box">            <p class="summary">기안84-샤이니 키, 상극 케미 폭발 “반대 성향이라 잘 맞아” (나 혼자 산다)</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/23/HwiAdP5K7Mnx637705506392815237.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA[[포토] 버가부 초연, '올 나잇 플레이~ 버가부!' (MBC 연예 ─ 아이돌)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/328628</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328628</guid>
@@ -766,14 +774,6 @@
             <pubDate>Fri, 22 Oct 2021 09:19:45 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328618">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/22/7e83e67b-ff10-4f06-a198-495415f3a77b.jpg" alt="[포토] 버가부, '퀸즈 포인트'">        <div class="text-box">            <p class="summary">[포토] 버가부, '퀸즈 포인트'</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/22/7e83e67b-ff10-4f06-a198-495415f3a77b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 버가부, '쩍! 아크로바틱~' (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328617</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328617</guid>
-            <pubDate>Fri, 22 Oct 2021 09:19:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328617">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/22/b615876e-15f1-49b2-82b0-b90fe31e8727.jpg" alt="[포토] 버가부, '쩍! 아크로바틱~'">        <div class="text-box">            <p class="summary">[포토] 버가부, '쩍! 아크로바틱~'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/22/b615876e-15f1-49b2-82b0-b90fe31e8727.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['쇼미더머니10' 얀키 가사 실수, 아넌딜라이트 합격 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
@@ -881,14 +881,98 @@
             <content:encoded><![CDATA[(엑스포츠뉴스 김예나 기자) 그룹 버가부(bugAboo)가 차별화된 퍼포먼스로 가요계 출격을 알렸다.&nbsp; 버가부(초연, 유우나, 레이니, 지인, 은채, 시안) 데뷔 싱글 '버가부' 발매 기념 쇼케이스가 22일 오후 온라인 생중계로 진행됐다.&nbsp; 이날 버가부는 데뷔 타이틀곡 '버가부'의 무대를 마친 뒤 떨리고 설레는 감정을 내비쳤다. 특히 오랜 연습생 기간을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['걸스플래닛999' 케플러 탄생, 1위 김채현→9위 션샤오팅 데뷔 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <title><![CDATA['쇼미10' 산이·베이식, 3차 무대 생존→비오 1:1 무대 프로듀서 '극찬' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211023014800045</link>
+            <guid>https://entertain.v.daum.net/v/20211023014800045</guid>
+            <pubDate>Fri, 22 Oct 2021 17:24:28 GMT</pubDate>
+            <content:encoded><![CDATA['쇼미10' 산이·베이식이 생존했다. 22일 방송된 Mnet 힙합 서바이벌 '쇼미더머니 10'(이하 '쇼미10')에서는 2차 예선을 통과한 참가자들의 3차 미션 '1대1 배틀'이 펼쳐졌다. 이날 아우릴고트는 "질문드려도 되냐. BPM 125~130"이라며 말을 이어가자, 던밀스는 손을 들며 자신을 어필했다. 고민하던 그는 던밀스를 일대일 매치 상대로]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이찬원, 김갑수 가족관계증명서에 도장? (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211023013013966</link>
+            <guid>https://entertain.v.daum.net/v/20211023013013966</guid>
+            <pubDate>Fri, 22 Oct 2021 17:24:28 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] KBS2 '갓파더' 국민 아버지와 아들의 데이트가 시작된다. 오는 23일 토요일 밤 10시 30분 KBS2 예능 프로그램 '新가족관계증명서 갓파더'(이하 '갓파더')에선 이순재와 허재, 김갑수와 장민호, 이찬원 그리고 주현과 문세윤이 역대급 티격태격 케미를 선보인다. 이날 '갓파더'에선 김갑수가 장민호, 이찬원과 함께 동심으로 돌아간다. 김갑]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['나혼자산다' 오징어게임 알리 "팔로어 3000→380만..인도에서 모두가 칭찬해" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211023010300867</link>
+            <guid>https://entertain.v.daum.net/v/20211023010300867</guid>
+            <pubDate>Fri, 22 Oct 2021 17:24:28 GMT</pubDate>
+            <content:encoded><![CDATA['오징어 게임' 속 알리 역으로 유명해진 배우 아누팜 트리파티가 나혼산을 찾았다. 인간수업으로 눈도장을 찍은 배우 박주현이 그의 집을 찾아왔다. 22일 방송된 MBC 예능프로그램 '나 혼자 산다'에서는 '오징어 게임' 알리 역 배우 아누팜 트리파티가 찾아온 모습이 전파를 탔다. 그는"연기 공부하고 싶어 2010년에 한국에 왔다"며 "석사과정 논문 쓰며 한]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[비오, 일대일 배틀도 '극찬' 받았다..산이는 탈락 위기 극복 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211023010255866</link>
+            <guid>https://entertain.v.daum.net/v/20211023010255866</guid>
+            <pubDate>Fri, 22 Oct 2021 17:24:28 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 이지현 기자 = 비오가 일대일 배틀에서도 극찬 세례를 받으며 합격했다. 22일 오후 방송된 Mnet 예능 프로그램 '쇼미더머니 10'에서는 3차 미션 일대일 배틀이 진행된 가운데 화제의 래퍼 비오가 칸토와 붙었다. 비오와 칸토는 원하는 비트가 완전 달랐다. 하지만 비오는 칸토가 원하는 비트에 자신을 맞추겠다며 좋은 무대를 보여주겠다고]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['나혼자산다' 기안84→키 "네 덕에 이런 것도 먹어..고맙다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211023005700815</link>
+            <guid>https://entertain.v.daum.net/v/20211023005700815</guid>
+            <pubDate>Fri, 22 Oct 2021 17:24:28 GMT</pubDate>
+            <content:encoded><![CDATA[키와 기안84가 둘만의 오붓한 시간을 가졌다. 22일 방송된 MBC 예능프로그램 '나 혼자 산다'에서는 기안84가 키의 집에 방문해 대접받는 모습이 그려졌다. 키는 "그릴에 구운 양갈비와 대하구이, 감자뇨끼 블루치즈 파스타"를 준비할 것이라 밝혀 놀라움을 자아냈다. 그는 "일단 뇨끼는 형이 안 먹어봤을 것 같고, 집에서 해주는 음식 느낌이 최대한 많이 날]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['오징어게임' 아누팜 "SNS 팔로워 3000명→380만 명, 동료들 덕 버텼다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211023005204801</link>
+            <guid>https://entertain.v.daum.net/v/20211023005204801</guid>
+            <pubDate>Fri, 22 Oct 2021 17:24:28 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 이우주 기자] '나혼산' 아누팜이 연기의 꿈을 드러냈다. 22일 방송된 MBC 예능프로그램 '나 혼자 산다'에서는 '오징어게임'의 아누팜 트리파티가 게스트로 출연해 최초로 일상을 공개했다. 아누팜 트리파티는 '오징어게임'에서 알리 역으로 열연했다. 뿐만 아니라 '국제시장', '태양의 후예', '슬기로운 의사 생활' 등에도]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['쇼미10' 자이언티, 머드 더 스튜던트 '그레이노마' 팀 선택에 '아쉬움' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211023005100792</link>
+            <guid>https://entertain.v.daum.net/v/20211023005100792</guid>
+            <pubDate>Fri, 22 Oct 2021 17:24:28 GMT</pubDate>
+            <content:encoded><![CDATA['쇼미10' 자이언티가 아쉬움을 드러냈다. 22일 방송된 Mnet 힙합 서바이벌 '쇼미더머니 10'(이하 '쇼미10')에서는 2차 예선을 통과한 참가자들의 '1대1 배틀'이 펼쳐졌다. 이날 머드 더 스튜던트는 정의영을 선택하며 무대에 올랐고, 개코는 "정의영씨가 지목을 받았을 때 기분이 좋지않았다고 적혀져 있는데 호흡은 어땠냐. 오해는 풀렸냐"고 물]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['해방타운' 이종혁, 훈남미 넘치는 리즈시절 소환에 멤버들 '감탄' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211023004400745</link>
+            <guid>https://entertain.v.daum.net/v/20211023004400745</guid>
+            <pubDate>Fri, 22 Oct 2021 17:24:28 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트 = 하수나 기자] 이종혁이 훈남미 넘치는 리즈시절을 소환하며 눈길을 모았다.&nbsp; 22일 방송된 JTBC '해방타운‘에선 멤버들이 가을 MT를 떠나는 모습이 방송됐다.&nbsp; 이날 이종혁은 28년전 대학생 시절을 떠올리며 “내가 대학생 때 MT를 93년도에 갔다. 지금 생각해도 설렜다. MT를 가면 꼭짓점 댄스를 췄다”고 당시를 떠올렸다.&nbsp; 이에 같은]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['오징어게임' 아누팜, 한국 생활 11년 차..절친 박주현x김평조 초대 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211023003849718</link>
+            <guid>https://entertain.v.daum.net/v/20211023003849718</guid>
+            <pubDate>Fri, 22 Oct 2021 17:24:28 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 박하나 기자 = '나 혼자 산다'에 배우 아누팜 트리파티가 출격했다. 22일 오후 에 방송된 MBC 예능 프로그램 '나 혼자 산다'에서는 넷플릭스 오리지널 드라마 '오징어 게임'의 199번 참가자 '알리 압둘' 역으로 세계적인 인기몰이를 하고 있는 인도 출신 배우 아누팜 트리파티(이하 '아누팜')의 일상이 공개됐다. 글로벌 신스틸러로 등]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김선호 사과 이후 검증 안된 썰만 무한생성..끊임없는 2차 가해 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211023003244687</link>
+            <guid>https://entertain.v.daum.net/v/20211023003244687</guid>
+            <pubDate>Fri, 22 Oct 2021 17:24:28 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박판석 기자]&nbsp;배우 김선호가 전 여자친구와 관련된 사생활 논란을 인정하고 사과했다. 하지만 그를 둘러싼 논란은 계속 이어지고 있다. 김선호는 지난 20일 소속사를 통해서 공식 적인 사과문을 남겼다. 김선호는 “이 글을 통해서라도 그분께 진심으로 사과하고 싶다. 저를 끝까지 믿고 응원해 주시는 모든 분들께도 실망감을 드려서 죄송합니다“라며 “부족한]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['나혼자산다' 박주현 "아누팜, 항상 먼저 연락 와 응원..고마워" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211023002716636</link>
+            <guid>https://entertain.v.daum.net/v/20211023002716636</guid>
+            <pubDate>Fri, 22 Oct 2021 17:24:28 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 김나연 기자] '나 혼자 산다' 박주현이 아누팜 트리파티에게 고마운 마음을 전했다. 22일 밤 방송된 MBC 예능프로그램 '나 혼자 산다'에서는 한국 생활 11년 차 배우 아누팜 트리파티의 자취방 홈파티 현장이 공개됐다. 이날 아누팜 트리파티의 집에는 한국예술종합학교에서 함께 연기 공부를 한 대학 동문이자 절친인 배우 박주현, 김평조가 방]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['나혼자산다' 인간수업 박주현, 찐친 아누팜에 "더 커서 정상에서 만나자" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211023002700633</link>
+            <guid>https://entertain.v.daum.net/v/20211023002700633</guid>
+            <pubDate>Fri, 22 Oct 2021 17:24:28 GMT</pubDate>
+            <content:encoded><![CDATA['오징어 게임' 속 알리 역으로 유명해진 배우 아누팜 트리파티가 나혼산을 찾았다. 인간수업으로 눈도장을 찍은 배우 박주현이 그의 집을 찾아왔다. 22일 방송된 MBC 예능프로그램 '나 혼자 산다'에서는 '오징어 게임' 알리 역 배우 아누팜 트리파티가 찾아온 모습이 전파를 탔다. 트리파티는 장을 보고와서 치킨 카레를 요리했다. 이어 파라타 도우도 직접 만들]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['걸스플래닛999' 케플러 탄생, 1위 김채현→9위 션샤오팅 데뷔 확정 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
             <link>https://entertain.v.daum.net/v/20211023001603550</link>
             <guid>https://entertain.v.daum.net/v/20211023001603550</guid>
             <pubDate>Fri, 22 Oct 2021 15:21:28 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠투데이 김나연 기자] '걸스플래닛999 : 소녀대전' 데뷔 그룹 케플러(Kep1er) 멤버 9명이 확정됐다. 22일 방송된 Mnet '걸스플래닛999 : 소녀대전'(이하 '걸스플래닛999')에서는 파이널 무대에서 글로벌 시청자들의 선택을 받은 데뷔조가 결정됐다. 이날에는 세 번째 생존자 발표식을 통해 18명의 소녀들이 살아남은 가운데, '컴플리션(]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['쇼미10' 던밀스X아우릴고트 일대일 배틀.. '프로듀서 패스'로 동반 합격 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <title><![CDATA['쇼미10' 던밀스X아우릴고트 1대1 배틀.. '프로듀서 패스'로 동반 합격 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
             <link>https://entertain.v.daum.net/v/20211023001500542</link>
             <guid>https://entertain.v.daum.net/v/20211023001500542</guid>
             <pubDate>Fri, 22 Oct 2021 15:21:28 GMT</pubDate>
@@ -900,90 +984,6 @@
             <guid>https://entertain.v.daum.net/v/20211023000751493</guid>
             <pubDate>Fri, 22 Oct 2021 15:21:28 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠경향] 가수 송하예가 23일 오후 5시 글로벌 K팝 플랫폼 어메이저에서 ‘카운트다운 라이브’를 진행한다.K팝 스트리밍 서비스 플랫폼 어메이저에서 진행하는 카운트다운 라이브는 신곡 발매 한 시간 전 뮤지션이 편안한 분위기에서 곡 소개와 비하인드 토크  등 다양한 이야기를 자세히  풀어내는 구성으로 라이브 막바지인 발매 직전에는 신곡을 라이브로 최초]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['방과후 설렘' 전학년, '음중'서 합동무대 펼친다..역대급 무대 예고 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211023000111405</link>
-            <guid>https://entertain.v.daum.net/v/20211023000111405</guid>
-            <pubDate>Fri, 22 Oct 2021 15:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 김선우기자]‘방과후 설렘’ 전 학년 연습생들이 ‘쇼! 음악중심’ 합동무대를 알렸다. 오는 23일 ‘방과후 설렘’ 2학년 연습생들은 MBC ‘쇼! 음악중심’에 출연해 이들의 첫 번째 단체 곡 ‘Same Same Different’ 무대를 공개한다. ‘방과후 설렘’은 이번 무대를 통해 2학년의 무대뿐 아니라, 1학년부터 4학]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['대세' 김선호의 위기..원로 배우 최지희 타계 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211023000102403</link>
-            <guid>https://entertain.v.daum.net/v/20211023000102403</guid>
-            <pubDate>Fri, 22 Oct 2021 15:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[10월 넷째 주 연예가 씁쓸한 소식은 뭐가 있었을까 [더팩트 | 정병근 기자] 다음은 10월 넷째 주 연예가의 씁쓸한 소식입니다. 한 주를 가장 뜨겁게 달군 건 지난 주만 해도 최고의 대세 배우였던 김선호의 사생활 논란입니다. 그에게 무슨 일이 있었는지 논란을 정리했습니다. 원로 배우 최지희 씨가 향년 81세로 별세했다는 슬픈 소식도 있었습니다. ▼ 천당]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[1위 김채현→9위 션샤오팅..'걸스플래닛999' 한중일 걸그룹 '케플러' 탄생 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211023000017388</link>
-            <guid>https://entertain.v.daum.net/v/20211023000017388</guid>
-            <pubDate>Fri, 22 Oct 2021 15:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 박윤진 기자] 한중일 글로벌 걸그룹 케플러(Kep1er)가 탄생했다. 22일 오후 생방송으로 케이블채널 엠넷 '걸스플래닛999 : 소녀대전' 최종회가 방송됐다. 지난 8월 첫 방송을 시작한 '걸스플래닛999'는 한중일 3개국에서 모인 99명이 참가해 18명만이 파이널 무대에 올랐다. 션샤오팅, 김다연, 사카모토 마시로, 에자키 히카루,]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[4세대 아이돌 약진..미국 누빈 '마블리' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211023000010381</link>
-            <guid>https://entertain.v.daum.net/v/20211023000010381</guid>
-            <pubDate>Fri, 22 Oct 2021 15:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[4월 넷째 주 연예가 좋은 소식 뭐가 있었을까 [더팩트 | 정병근 기자] 10월 넷째 주 연예가 소식 전해드립니다. 먼저 좋은 소식입니다. 엔하이픈, 에스파 등 4세대 아이돌의 약진이 눈에 띄었습니다. 또 마동석은 할리우드 블록버스터 '이터널스' 미국 시사회에 참석해 '마블리'의 매력을 전했습니다. 또 결혼을 앞둔 배다해와 이장원은 행복 가득한 웨딩 화보]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['나혼산' 아누팜 트리파티 "가장 좋아하는 한식? 비 올 땐 막걸리와 파전" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211022235606352</link>
-            <guid>https://entertain.v.daum.net/v/20211022235606352</guid>
-            <pubDate>Fri, 22 Oct 2021 15:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] '나 혼자 산다' 아누팜 트리파티가 한식 취향을 밝혔다. 22일 밤 방송된 MBC 예능프로그램 '나 혼자 산다'에서는 한국 생활 11년차  아누팜 트리파티의 일상이 그려졌다. 이날 아누팜 트리파티는 단골 순두부 찌개집을 찾았다. 아누팜 트리파티는 한국인 보다 더 한국인 같은 모습으로 순두부 찌개를 즐겼다. 아누팜 트리파티는]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['나혼산' 아누팜, 가족 생각에 울컥 "다들 뿌듯하고 행복해해" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211022235406333</link>
-            <guid>https://entertain.v.daum.net/v/20211022235406333</guid>
-            <pubDate>Fri, 22 Oct 2021 15:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 김나연 기자] '나 혼자 산다' 아누팜 트리파티가 인도에 있는 가족들 생각에 울컥했다. 22일 방송된 MBC 예능프로그램 '나 혼자 산다'에서는 한국 생활 11년 차 배우 아누팜 트리파티의 일상이 공개됐다. 아누팜 트리파티는 넷플릭스 오리지널 시리즈 '오징어 게임'에 알리 역으로 출연해 열연을 펼친 바 있다. 이날 아누팜 트리파티는 인도에]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아누팜 트리파티 "고생은 누구든 하니까"..가족 생각에 울컥 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211022234907297</link>
-            <guid>https://entertain.v.daum.net/v/20211022234907297</guid>
-            <pubDate>Fri, 22 Oct 2021 15:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 박하나 기자 = '나 혼자 산다' 배우 아누팜 트리파티가 힘들었던 때를 떠올리며 울컥했다. 22일 오후에 방송된 MBC 예능 프로그램 '나 혼자 산다'에서는 넷플릭스 오리지널 드라마 '오징어 게임'의 199번 참가자 '알리 압둘' 역으로 세계적인 인기몰이를 하고 있는 인도 출신 배우 아누팜 트리파티(이하 '아누팜')의 일상이 공개됐다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['레인코트 킬러'→'인간실격', 이번주 넷플릭스 신작 리스트 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211022234827291</link>
-            <guid>https://entertain.v.daum.net/v/20211022234827291</guid>
-            <pubDate>Fri, 22 Oct 2021 15:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] '레인코트 킬러: 유영철을 추격하다'부터 '인간실격'까지 넷플릭스 신작 리스트가 공개됐다. OTT 플랫폼 넷플릭스는 22일 신작 리스트를 공개했다. '레인코트 킬러: 유영철을 추격하다'는 2004년, 한국에 사이코패스의 존재를 처음으로 알린 연쇄살인마 유영철의 행각을 추격하는 넷플릭스 다큐멘터리 시리즈다. 2003년부터 20]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['오징어게임' 아누팜 "한예종 석사 과정 수료, 한국 와서 3개월 내내 울어" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211022234814287</link>
-            <guid>https://entertain.v.daum.net/v/20211022234814287</guid>
-            <pubDate>Fri, 22 Oct 2021 15:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선닷컴 이우주 기자] '나혼산' 아누팜 트리파티가 고생 끝 행복 시작인 일상을 공개했다. 22일 방송된 MBC 예능프로그램 '나 혼자 산다'에서는 '오징어게임'의 아누팜 트리파티가 게스트로 출연해 최초로 일상을 공개했다. 아누팜 트리파티는 '오징어게임'에서 알리 역으로 열연했다. 뿐만 아니라 '국제시장', '태양의 후예', '슬기]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[야누 "라이벌 없어" 자신했지만..365LIT 만나 일대일 배틀 '완패' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211022234247221</link>
-            <guid>https://entertain.v.daum.net/v/20211022234247221</guid>
-            <pubDate>Fri, 22 Oct 2021 15:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 이지현 기자 = 래퍼 야누가 365LIT를 만나 '완패'했다. 22일 오후 방송된 Mnet 예능 프로그램 '쇼미더머니 10'에서는 일대일 배틀이 펼쳐진 가운데 365LIT가 야누를 대결 상대로 지목했다. 둘은 긴장감 속에 배틀에 나섰다. "라이벌은 없다"라며 자신했던 야누는 그러나 무대 위에서 가사 실수를 저질러 이목을 집중시켰다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['결혼은 미친 짓이야' 신봉선 "미친 듯이 싸운다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211022233956184</link>
-            <guid>https://entertain.v.daum.net/v/20211022233956184</guid>
-            <pubDate>Fri, 22 Oct 2021 15:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 다음달 4일 오후 8시 40분 첫방송 예정인 채널 IHQ 부부 관찰 리얼리티 프로그램 ‘결혼은 미친 짓이야’의 티저가 22일 공개됐다. ‘결혼은 미친 짓이야’는 기혼인 선후배를 바라보는 미혼 개그우먼의 결혼에 대한 백만 가지 독한 수다 프로그램으로 최양락,  팽현숙 부부와 권진영, 오성욱 부부, 여윤정, 홍가람 부부, 송은이, 신봉선이 출연]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아누팜 트리파티, 반지하 자취방 공개..기안84 "'오징어게임' 시즌2 느낌" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211022233658155</link>
-            <guid>https://entertain.v.daum.net/v/20211022233658155</guid>
-            <pubDate>Fri, 22 Oct 2021 15:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 박하나 기자 = '나 혼자 산다' 배우 아누팜 트리파티의 집이 공개됐다. 22일 오후에 방송된 MBC 예능 프로그램 '나 혼자 산다'에서는 넷플릭스 오리지널 드라마 '오징어 게임'의 199번 참가자 '알리 압둘' 역으로 세계적인 인기몰이를 하고 있는 인도 출신 배우 아누팜 트리파티(이하 '아누팜')의 일상이 공개됐다. 기안84의 부탁으로]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[알렉 볼드윈, 소품용 총기 사고→촬영감독 사망..브랜든 리 재조명 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
@@ -1047,6 +1047,13 @@
             <guid>https://entertain.v.daum.net/v/20211022093939660</guid>
             <pubDate>Fri, 22 Oct 2021 01:15:24 GMT</pubDate>
             <content:encoded><![CDATA[[뉴스엔 이민지 기자] 패리스 힐튼이 아동학대 경험을 고백했다. 10월 20일(현지시간) 워싱턴 포스트 등 외신에 따르면 패리스 힐튼은 워싱턴DC 의회 앞에서 아동 보육 시설 내 학대 방지 법안 통과를 촉구하는 기자회견을 가졌다. 패리스 힐튼은 이날 "20년이 지난 지금까지도 불면증 등 후유증을 겪고 있다"며 자신이 겪은 충격적인 경험을 공개했다. 패]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[11월 5일 개막 ‘자라섬재즈페스티벌’…폴란드·싱가포르 재즈 선율 선사한다 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000769118</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000769118</guid>
+            <pubDate>Fri, 22 Oct 2021 17:24:42 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 다음달 5일부터 7일까지 가평 자라섬에서 개최가 되는 ‘자라섬재즈페스티벌’이 코로나19로 인해 해외 연주자의 출입국이 자유롭지 못한 상황에서 실황 영상을 통해 폴란드와 싱가포르 재즈 신의 현재를 소개할]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[임영웅, 英雄本色 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
@@ -1217,11 +1224,39 @@
             <content:encoded><![CDATA[그룹 버가부 은채가 22일 오후 서울 상암동 SBS프리즘타워에서 열린 데뷔 싱글 '버가부(bugAboo)' 발매 기념 쇼케이스에 참석해 공연을 펼치고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[개코, 23일 깜짝 싱글 '논해 (Feat. ?) (Prod. 코드쿤스트)' 발매..8개월만 귀환[공식] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003489883</link>
-            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003489883</guid>
-            <pubDate>Fri, 22 Oct 2021 10:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드POP=천윤혜기자]다이나믹듀오 개코가 깜짝 싱글을 선보인다. 아메바컬쳐는 22일 "개코가 오는 23일 정오 새 싱글 '논해 (Feat. ?) (Prod. CODE KUNST)'를 발매한다"라고 밝혔다. 이와]]></content:encoded>
+            <title><![CDATA[라잇썸 “목표=음악방송 1위” 하이틴 매력 [화보] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940140</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940140</guid>
+            <pubDate>Fri, 22 Oct 2021 17:24:49 GMT</pubDate>
+            <content:encoded><![CDATA[신인 그룹 라잇썸이 화보 촬영을 진행했다. 이번 화보 촬영에서 라잇썸은 8인 8색의 다채로운 틴프레시 매력을 뿜어내며 현장 분위기를 화사하게 밝혔다. 지난 6월 ‘밝은 빛(LIGHT)들이 하나 되어(SUM) 온 세상]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이찬원, 김갑수 가족관계증명서에 도장? (‘갓파더’) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940139</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940139</guid>
+            <pubDate>Fri, 22 Oct 2021 17:24:49 GMT</pubDate>
+            <content:encoded><![CDATA[KBS2 '갓파더' 국민 아버지와 아들의 데이트가 시작된다. 오는 23일 토요일 밤 10시 30분 KBS2 예능 프로그램 '新가족관계증명서 갓파더'(이하 '갓파더')에선 이순재와 허재, 김갑수와 장민호, 이찬원 그리]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[비아이, 11월 11일 컴백 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940138</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940138</guid>
+            <pubDate>Fri, 22 Oct 2021 17:24:49 GMT</pubDate>
+            <content:encoded><![CDATA[마약류관리에관한법률위반(향정) 등 혐의로 집행유예를 선고받은 가수 비아이(B.I)가 11월11일 하프 앨범을 발매한다. 비아이는 공식 SNS를 통해 'What Is Your COSMOS?'라는 제목의 티저 영상을 공]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['오징어게임' 아누팜 "SNS 팔로워 3000명→380만 명, 동료들 덕 버텼다" ('나혼산')[종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003792599</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003792599</guid>
+            <pubDate>Fri, 22 Oct 2021 17:24:49 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 이우주 기자] '나혼산' 아누팜이 연기의 꿈을 드러냈다. 22일 방송된 MBC 예능프로그램 '나 혼자 산다'에서는 '오징어게임'의 아누팜 트리파티가 게스트로 출연해 최초로 일상을 공개했다. 아누팜 트]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘설강화’ 공도은, 박해일 소속사와 전속계약 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940137</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940137</guid>
+            <pubDate>Fri, 22 Oct 2021 17:24:49 GMT</pubDate>
+            <content:encoded><![CDATA[신인 배우 공도은이 에스더블유엠피와 전속 계약을 체결했다. 에스더블유엠피는 “충무로의 촉망 받는 신예 공도은과 함께 하게 되어 매우 기쁘다. 공도은은 신인답지 않은 연기력과 밀도 높은 눈빛, 그리고 자기만의 색으로]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['대세' 김선호의 위기…원로 배우 최지희 타계 [TF업앤다운(하)] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
@@ -1276,7 +1311,7 @@
             <title><![CDATA[BTS, 소니 대신 유니버설과 손잡고 글로벌시장 공략 재개(종합) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
             <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0012741600</link>
             <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0012741600</guid>
-            <pubDate>Fri, 22 Oct 2021 15:21:48 GMT</pubDate>
+            <pubDate>Fri, 22 Oct 2021 15:21:41 GMT</pubDate>
             <content:encoded><![CDATA[내달 LA 콘서트 앞두고 유니버설과 미국 등 마케팅·유통 계약 합의 (뉴욕=연합뉴스) 강건택 특파원 = 세계 최대 보이밴드인 방탄소년단(BTS)이 소니와 갈라서고 유니버설뮤직의 손을 잡는다고 월스트리트저널(WSJ)이]]></content:encoded>
         </item>
         <item>
@@ -1364,39 +1399,11 @@
             <content:encoded><![CDATA[(서울=뉴스1) 권현진 기자 = 태국 배우 피피(끄릿 암누아이데차콘, Krit Amnuaydechkorn)가 서울 영등포구 콘래드호텔에서 열린 기자간담회에 앞서 포즈를 취하고 있다. 피피는 서울드라마어워즈 2021]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[BTS, 소니 대신 유니버설뮤직과 손잡는다…미국 마케팅 계약 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0012741592</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0012741592</guid>
-            <pubDate>Fri, 22 Oct 2021 13:26:03 GMT</pubDate>
-            <content:encoded><![CDATA[(뉴욕=연합뉴스) 강건택 특파원 = 세계 최대 보이밴드인 방탄소년단(BTS)이 소니와 갈라서고 유니버설뮤직의 손을 잡는다고 월스트리트저널(WSJ)이 22일(현지시간) 보도했다. WSJ은 이날 서울발 기사에서 소속사인]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[쿤 폴, 자체발광 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005675223</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005675223</guid>
-            <pubDate>Fri, 22 Oct 2021 13:26:10 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 권현진 기자 = 태국 배우 쿤 폴(퐁폴 판야밋, Khunpol)이 20일 서울 한 호텔에서 열린 기자간담회에 앞서 포즈를 취하고 있다. 쿤 폴은 서울드라마어워즈 2021 국제초청부문 초정작으로 선정된]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[쿤 폴, 미소년 왕자님 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005675222</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005675222</guid>
-            <pubDate>Fri, 22 Oct 2021 13:26:10 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 권현진 기자 = 태국 배우 쿤 폴(퐁폴 판야밋, Khunpol)이 20일 서울 한 호텔에서 열린 기자간담회에 앞서 포즈를 취하고 있다. 쿤 폴은 서울드라마어워즈 2021 국제초청부문 초정작으로 선정된]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[빌킨, 서울드라마어워즈 참석차 내한 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005675221</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005675221</guid>
-            <pubDate>Fri, 22 Oct 2021 13:26:10 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 권현진 기자 = 태국 배우 빌킨(푸티퐁 아싸라타나쿨, Putthipong Assaratanakul)이 20일 서울 영등포구 콘래드호텔에서 열린 기자간담회에 앞서 포즈를 취하고 있다. 빌킨은 서울드라마]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[피피-쿤 폴-빌킨, 멋짐 삼총사 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005675220</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005675220</guid>
-            <pubDate>Fri, 22 Oct 2021 13:26:10 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 권현진 기자 = 태국 배우 피피(끄릿 암누아이데차콘, Krit Amnuaydechkorn), 쿤 폴(퐁폴 판야밋, Khunpol), 빌킨(푸티퐁 아싸라타나쿨, Putthipong Assaratanak]]></content:encoded>
+            <title><![CDATA['소품총 비극' 볼드윈 "충격과 슬픔 말로 표현 못해"…촬영감독 애도 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005675260</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005675260</guid>
+            <pubDate>Fri, 22 Oct 2021 17:24:57 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정윤영 기자 = 영화 촬영장에서 소품용 총에 맞아 촬영감독이 사망하는 사고가 발생한 가운데 방아쇠를 당긴 배우 알렉 볼드윈이 침묵을 깨고 입을 열었다. 22일(현지시간) 알렉 볼드윈은 자신의 트위터에]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["굿바이 소니"…BTS, 유니버설뮤직과 美마케팅·유통 계약 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
@@ -1565,13 +1572,6 @@
             <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004496384</guid>
             <pubDate>Fri, 22 Oct 2021 09:20:22 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=최나영 기자] 할리우드 배우 알렉 볼드윈(63)이 영화 촬영 중 발사한 소품총에 맞아 촬영 스태프가 숨지는 사고가 발생해 충격을 안겨주고 있다. 21일(현지시간) 뉴욕포스트 등 외신에 따르면 이날 오후 2]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[유우나 '귀엽다 귀여워' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000825127</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000825127</guid>
-            <pubDate>Fri, 22 Oct 2021 09:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[22일 오후 SBS 상암 프리즘타워에서 버가부(bugAboo, 버가부(초연, 유우나, 레이니, 지인, 은채, 시안)의 데뷔 기념 쇼케이스가 열렸다. 버가부 유우나가 쇼케이스에 앞서 포토타임을 갖고 있다.]]></content:encoded>
         </item>
     </channel>
 </rss>
