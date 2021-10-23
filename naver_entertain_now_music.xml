@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-23T09:20:27.886Z</updated>
+    <updated>2021-10-23T11:17:53.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘감성장인’ 임영웅, 10월 가수 브랜드 평판 1위…방탄소년단 2위·아이유 3위]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003548091</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003548091"/>
+        <updated>2021-10-23T11:17:37.708Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]가수 브랜드평판 2021년 10월 빅데이터 분석결과, 1위 임영웅 2위 방탄소년단 3위 아이유 순으로 분석되었다고 23일 한국기업평판연구소가 밝혔다. 한국기업평판연구소는 2021년 9월]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우주소녀 루다, 아이유 '에필로그' 커버..팬들 위한 첫 콘텐츠]]></title>
         <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003490149</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001363569"/>
         <updated>2021-10-23T07:19:18.652Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) '원조 트롯퀸' 김혜연이 '2021 월드스타 연예대상' 대중가요 부문 최우수상을 수상했다. 김혜연은 지난 21일 경기 고양시 일산 빛마루 방송센터에서 열린 '2021 월드스타 연예대상'의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임영웅 '사랑은 늘 도망가' 음원 영상 200만뷰..대기록 행진ing]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002999062</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002999062"/>
-        <updated>2021-10-23T07:19:18.653Z</updated>
-        <content type="html"><![CDATA[가수 임영웅의 신곡 '사랑은 늘 도망가' 음원 영상이 200만 뷰를 돌파하며 기록 행진을 이어갔다. 지난 11일 공개된 '사랑은 늘 도망가' 음원 영상은 10월 23일 임영웅 공식 유튜브 채널에서 조회수 200만 뷰]]></content>
     </entry>
 </feed>
