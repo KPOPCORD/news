@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-23T03:21:40.499Z</updated>
+    <updated>2021-10-23T04:26:58.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[개코, 오늘 깜짝 싱글 '논해' 발매..압도적인 랩 스웨그]]></title>
+        <id>https://entertain.v.daum.net/v/20211023132323005</id>
+        <link href="https://entertain.v.daum.net/v/20211023132323005"/>
+        <updated>2021-10-23T04:26:23.704Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 다이나믹듀오 개코가 래퍼 저스디스(JUSTHIS)와 시너지를 발휘했다. 개코는 10월 23일 정오 각종 온라인 음원사이트를 통해 새 싱글 '논해 (Feat. JUSTHIS) (Prod. CODE KUNST)'를 발매했다. 개코의 신곡은 지난 2월 가수 권진아와 함께한 세 번째 ‘개작실’ 프로젝트 ‘마음이 그래’ 이후 약 8개월 만이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에픽하이, 24일 틱톡서 신곡 'FACE ID' 음원 기습 선공개]]></title>
+        <id>https://entertain.v.daum.net/v/20211023130625818</id>
+        <link href="https://entertain.v.daum.net/v/20211023130625818"/>
+        <updated>2021-10-23T04:26:23.705Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 에픽하이(EPIK HIGH)가 데뷔 18주년을 맞아 특별한 선물을 한다. 10월 23일 소속사 아워즈는 “에픽하이(타블로, 투컷, 미쓰라)가 오는 25일 선공개 싱글 ‘FACE ID (페이스 아이디)’ 발매에 앞서, 24일 오후 6시 글로벌 숏폼 모바일 플랫폼 틱톡을 통해 음원 일부를 선공개한다”고 밝혔다. 지난 2003년 10월]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[몬스타엑스, 숏폼 예능 전래환장TV '놀부전' 선공개..'美친 케미']]></title>
         <id>https://entertain.v.daum.net/v/20211023121309321</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211023084406061"/>
         <updated>2021-10-23T01:07:20.700Z</updated>
         <content type="html"><![CDATA[[티브이데일리 이기은 기자] 그룹 아이즈원 출신 댄서 이채연, 콘서트에 불참한다. 22일 소속사 WM엔터테인먼트는 공식 SNS를 통해 "이채연이 오는 11월 20일부터 전국투어 진행 예정인 '스트릿 우먼 파이터' 콘서트에 스케줄 상 출연하지 않는다"고 밝혔다. 이어 "기다리셨을 팬 여러분께 죄송하다는 말씀드리며, 너른 양해 부탁 드린다"는 이해를 당부했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임영웅, 10월 가수 브랜드 평판 전체 1위..'톱 오브 톱']]></title>
-        <id>https://entertain.v.daum.net/v/20211023084231056</id>
-        <link href="https://entertain.v.daum.net/v/20211023084231056"/>
-        <updated>2021-10-23T01:07:20.700Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 문완식 기자] 가수 임영웅이 10월 가수 브랜드 평판 1위에 오르며 가요계 대세 존재감을 빛냈다. 23일 한국기업평판연구소에 따르면 가수 브랜드평판 2021년 10월 빅데이터 분석결과, 임영웅이 1위를 차지했다. 이어 2위 방탄소년단, 3위 아이유 순이었다. 1위, 임영웅 브랜드는 참여지수 4,116,857  미디어지수  4,129,400]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에픽하이, 강렬+터프한 선공개 싱글 'FACE ID' 뮤비 티저]]></title>
-        <id>https://entertain.v.daum.net/v/20211023081329860</id>
-        <link href="https://entertain.v.daum.net/v/20211023081329860"/>
-        <updated>2021-10-23T01:07:20.701Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 그룹 에픽하이(EPIK HIGH)가 박력 넘치는 신곡 뮤직비디오를 예고했다. 에픽하이(타블로, 투컷, 미쓰라)는 10월 22일 공식 SNS 및 유튜브 채널을 통해 선공개 싱글 ‘FACE ID (페이스 아이디)’ 뮤직비디오 티저 영상을 공개했다. 약 15초 정도의 짧은 분량으로 구성된 이번 티저 영상 속에는 뮤직비디오 촬영에 임하는]]></content>
     </entry>
 </feed>
