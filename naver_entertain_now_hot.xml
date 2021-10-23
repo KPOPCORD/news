@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-10-23T16:30:08.418Z</updated>
+    <updated>2021-10-23T17:23:11.218Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박군, 특수부대 출신 가수 성추행 의혹에 반박 “법적 대응”]]></title>
+        <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001616219</id>
+        <link href="https://entertain.naver.com/now/read?oid=057&amp;aid=0001616219"/>
+        <updated>2021-10-23T17:23:02.601Z</updated>
+        <content type="html"><![CDATA[트로트가수 박군 측이 허위사실에 대해 법적 대응을 예고했다. 앞서 한 온라인 게시판에 작성자는 P와 같은 소속사였던 동료로, P로부터 일방적인 성희롱과 가스라이팅을 당했다고 주장했다. 그는 “P는 TV에서는 순수하고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남궁민, 아쉬움 남는 '검은 태양' 작별 인사 "잘가 지혁아"]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002999130</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=057&amp;aid=0001616208"/>
         <updated>2021-10-23T12:31:01.780Z</updated>
         <content type="html"><![CDATA[배우 안효섭이 화보 비하인드로 독보적인 매력을 발산했다. 소속사 스타하우스 엔터테인먼트는 10월호 마리끌레르의 화보를 장식한 안효섭의 비하인드 컷을 공개했다. 앞서 매거진의 공식 화보가 공개된 후 국내외 팬들의 많은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["미모에 졌네 졌어"…오연서, 반려견에 양보한 청순 美 [TEN★]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000507175</id>
-        <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000507175"/>
-        <updated>2021-10-23T12:31:01.780Z</updated>
-        <content type="html"><![CDATA[[텐아시아=노규민 기자] 배우 오연서가 반려견에게 미모 패배를 인정했다. 오연서는 23일 자신의 인스타그램에 "미모에 졌네 졌어"라며 사진 한 장을 게재했다. 사진 속 오연서는 반려견에 함께 누워 카메라를 응시하고]]></content>
     </entry>
 </feed>
