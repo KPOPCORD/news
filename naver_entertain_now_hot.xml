@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-10-23T17:23:11.218Z</updated>
+    <updated>2021-10-23T18:23:09.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[혜리, 남친 류준열이 찍어줬나…"♥" [TEN★]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000507191</id>
+        <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000507191"/>
+        <updated>2021-10-23T18:23:01.763Z</updated>
+        <content type="html"><![CDATA[[텐아시아=이준현 기자] 가수 겸 배우 혜리가 근황을 전했다. 혜리는 23일 자신의 인스타그램을 통해 하트 이모티콘과 함께 여러 장의 사진을 게재했다. 공개된 사진 속에는 블랙 컬러의 맨투맨을 입고 턱받침 포즈를 취]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박군 측, 성추행-가스라이팅 의혹에 법적 대응 예고]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000825420</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000825420"/>
+        <updated>2021-10-23T18:23:01.763Z</updated>
+        <content type="html"><![CDATA[트로트가수 박군이 온라인에 떠돌고 있는 성추행, 가스라이팅 소문에 대해 해명했다. 앞서 한 온라인 게시판에 작성자는 P와 같은 소속사였던 동료로, P로부터 일방적인 성희롱과 가스라이팅을 당했다고 주장했다. 그는 “P]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박군, 특수부대 출신 가수 성추행 의혹에 반박 “법적 대응”]]></title>
         <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001616219</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000507177"/>
         <updated>2021-10-23T12:31:01.780Z</updated>
         <content type="html"><![CDATA[[텐아시아=노규민 기자] 방송인 서동주가 집 앞에서 찍은 여권 사진에 대만족 했다. 서동주는 23일 자신의 인스타그램에 "집앞에서 여권사진 찍었는데 너무 맘에 드네. 이럴 줄 알았으면 더 예쁘게 입고 갈걸"이라는 글]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안효섭, 영화 같은 화보 비하인드 공개]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000825392</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000825392"/>
-        <updated>2021-10-23T12:31:01.780Z</updated>
-        <content type="html"><![CDATA[배우 안효섭이 화보 비하인드로 독보적인 매력을 발산했다. 소속사 스타하우스 엔터테인먼트는 10월호 마리끌레르의 화보를 장식한 안효섭의 비하인드 컷을 공개했다. 앞서 매거진의 공식 화보가 공개된 후 국내외 팬들의 많은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안효섭, 존재가 판타지...비하인드도 ‘가을의 전설’]]></title>
-        <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001616208</id>
-        <link href="https://entertain.naver.com/now/read?oid=057&amp;aid=0001616208"/>
-        <updated>2021-10-23T12:31:01.780Z</updated>
-        <content type="html"><![CDATA[배우 안효섭이 화보 비하인드로 독보적인 매력을 발산했다. 소속사 스타하우스 엔터테인먼트는 10월호 마리끌레르의 화보를 장식한 안효섭의 비하인드 컷을 공개했다. 앞서 매거진의 공식 화보가 공개된 후 국내외 팬들의 많은]]></content>
     </entry>
 </feed>
