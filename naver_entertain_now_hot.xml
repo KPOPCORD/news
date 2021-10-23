@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-10-23T18:23:09.088Z</updated>
+    <updated>2021-10-23T19:16:39.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장나라, 오빠 장성원 사진 촬영에 '진심'…"나는 매우 진지하다" [TEN★]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000507192</id>
+        <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000507192"/>
+        <updated>2021-10-23T19:16:31.512Z</updated>
+        <content type="html"><![CDATA[[텐아시아=이준현 기자] 배우 장나라가 친오빠와 다정한 시간을 보냈다. 장나라는 23일 자신의 인스타그램을 통해 "나는 매우 진지하다. 찍는 동생과 찍히는 브로"라는 글과 함께 여러 장의 사진을 게재했다. 공개된 사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[혜리, 남친 류준열이 찍어줬나…"♥" [TEN★]]]></title>
         <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000507191</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003792758"/>
         <updated>2021-10-23T12:31:01.780Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 정안지 기자] 가수 윤민수 아들 윤후의 폭풍성장한 근황이 눈길을 끈다. 윤민수 아내 김민지 씨는 23일 자신의 인스타그램을 통해 "집 앞 마실 아들 윤후랑 주말 일상"이라며 사진을 게재했다. 사진 속]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서동주, 집앞에서 찍은 여권사진…미모가 열일 했네 [TEN★]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000507177</id>
-        <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000507177"/>
-        <updated>2021-10-23T12:31:01.780Z</updated>
-        <content type="html"><![CDATA[[텐아시아=노규민 기자] 방송인 서동주가 집 앞에서 찍은 여권 사진에 대만족 했다. 서동주는 23일 자신의 인스타그램에 "집앞에서 여권사진 찍었는데 너무 맘에 드네. 이럴 줄 알았으면 더 예쁘게 입고 갈걸"이라는 글]]></content>
     </entry>
 </feed>
