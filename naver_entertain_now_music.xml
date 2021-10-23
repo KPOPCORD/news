@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-23T11:17:53.439Z</updated>
+    <updated>2021-10-23T12:31:09.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[POP초점]박군, 성희롱·가스라이팅 의혹 반박 "사실무근..전 소속사 음해"(종합)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003490183</id>
+        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003490183"/>
+        <updated>2021-10-23T12:30:54.495Z</updated>
+        <content type="html"><![CDATA[[헤럴드POP=이미지 기자] 박군 측이 성추행 및 가스라이팅 의혹에 사실무근이라며 공식 입장을 내놓았다. 최근 한 온라인 커뮤니티에는 '특수부대 출신 가수 P에게 가스라이팅을 당했다'는 제목으로 글이 게재됐다. 해당]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[블랙핑크 리사 'MONEY', 주요 글로벌 차트 역주행]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003548106</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003548106"/>
+        <updated>2021-10-23T12:30:54.497Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]블랙핑크 리사의 솔로 앨범 수록곡 'MONEY'가 글로벌 주요 차트서 3주 연속 상승세를 타며 인기 역주행을 이어가고 있다. 22일(현지시간) 발표된 영국 오피셜 싱글 차트 톱100 (O]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘감성장인’ 임영웅, 10월 가수 브랜드 평판 1위…방탄소년단 2위·아이유 3위]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003548091</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000769172"/>
         <updated>2021-10-23T07:19:18.647Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 그룹 방탄소년단 정국이 반려견과 함께 하는 힐링 타임으로 시선을 모았다. 지난 22일 JTBC에서 방송된 ‘인더숲(IN THE SOOP) BTS편 시즌2’에서는 방탄소년단의 휴가 2일차가 공개됐다. 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김희재, ‘지금부터, 쇼타임!’ 촬영 현장 속 빛나는 미모]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001363570</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001363570"/>
-        <updated>2021-10-23T07:19:18.652Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 김희재의 비주얼이 눈길을 끈다. 23일 김희재는 자신의 인스타그램에 “안녕하세요 이용렬 입니다~ 선배님들과 즐겁게 촬영 잘 하고 있습니다. ㅎㅎ 날씨가 많이 추워졌는데 항상 감기 조심하시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김혜연, ‘2021 월드스타 연예대상’ 최우수상 “음악 활동 더 매진할 것”]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001363569</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001363569"/>
-        <updated>2021-10-23T07:19:18.652Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) '원조 트롯퀸' 김혜연이 '2021 월드스타 연예대상' 대중가요 부문 최우수상을 수상했다. 김혜연은 지난 21일 경기 고양시 일산 빛마루 방송센터에서 열린 '2021 월드스타 연예대상'의]]></content>
     </entry>
 </feed>
