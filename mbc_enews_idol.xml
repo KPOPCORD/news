@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Oct 2021 04:26:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Oct 2021 07:19:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘놀면’ 미주, 무릎까지 꿇고 사자성어 집중! 이용진 “관우·장비 대표” 정답은?]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328657</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328657</guid>
+            <pubDate>Sat, 23 Oct 2021 07:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328657">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/23/FGPiGjnlE0P8637705971053417757.jpg" alt="‘놀면’ 미주, 무릎까지 꿇고 사자성어 집중! 이용진 “관우·장비 대표” 정답은?">        <div class="text-box">            <p class="summary">‘놀면’ 미주, 무릎까지 꿇고 사자성어 집중! 이용진 “관우·장비 대표” 정답은?</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/23/FGPiGjnlE0P8637705971053417757.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘나혼자산다’ 아누팜·박주현·김평조→기안84·키 “우린 깐부잖아” 훈훈]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/328646</link>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 22 Oct 2021 09:19:45 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328622">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/22/e5fed457-8e5b-4172-a527-cc279290f7b6.jpg" alt="[포토] 버가부 은채, '딴딴 튼튼'">        <div class="text-box">            <p class="summary">[포토] 버가부 은채, '딴딴 튼튼'</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/22/e5fed457-8e5b-4172-a527-cc279290f7b6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 버가부 지인, '큐티 섹시']]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328621</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328621</guid>
-            <pubDate>Fri, 22 Oct 2021 09:19:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328621">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/22/ce3fe8ba-0709-4e77-8c1d-721e28e94a31.jpg" alt="[포토] 버가부 지인, '큐티 섹시'">        <div class="text-box">            <p class="summary">[포토] 버가부 지인, '큐티 섹시'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/22/ce3fe8ba-0709-4e77-8c1d-721e28e94a31.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

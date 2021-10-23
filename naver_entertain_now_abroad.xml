@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-23T04:26:58.857Z</updated>
+    <updated>2021-10-23T07:19:32.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[알렉 볼드윈, 총기사고 책임없나 "방아쇠 당기기 전 '안전' 통보" 확인[Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004497053</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004497053"/>
+        <updated>2021-10-23T07:19:32.098Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 할리우드 배우 알렉 볼드윈(63)이 영화 촬영 중 발사한 소품 총에 현장 스태프가 사망한 가운데 그는 '안전'을 확인받은 것으로 전해졌다. 뉴욕포스트는 22일(현지시간) "영장에 따르면 볼드]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[알렉 볼드윈, 촬영장 총기 사고에 “가슴 찢어져…경찰 조사 적극 협조”]]></title>
+        <id>https://entertain.naver.com/now/read?oid=396&amp;aid=0000595033</id>
+        <link href="https://entertain.naver.com/now/read?oid=396&amp;aid=0000595033"/>
+        <updated>2021-10-23T07:19:32.100Z</updated>
+        <content type="html"><![CDATA[미국 배우 알렉 볼드윈이 영화 중 벌어진 총기 사고에 심경을 전했다. 22일(현지 시각) 알렉 볼드윈은 자신의 SNS를 통해 “존경하는 동료인 할리나 허친스의 생명을 앗아간 비극적인 사고에 충격과 슬픔을 말로 표현할]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방과후 설렘 '쇼 음악중심에서 만나요~' [MK포토]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000825307</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000825280"/>
         <updated>2021-10-23T03:21:39.815Z</updated>
         <content type="html"><![CDATA[‘방과후 설렘’ 2학년 김수진, 권주안, 조수이, 박유라, 이서윤이 23일 오전 서울 마포구 상암동 MBC신사옥에서 열리는 MBC 음악방송 '쇼 음악중심' 촬영을 위해 출근하며 포토타임을 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['걸스플래닛' 김채현→션샤오팅 9人 걸그룹 케플러 데뷔 확정 [종합]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001363544</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001363544"/>
-        <updated>2021-10-23T03:21:39.816Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김현정 기자) Mnet '걸스플래닛999 : 소녀대전' 최종 데뷔 멤버 9명은 김채현, 휴닝바히에, 최유진, 김다연, 서영은, 강예서, 에자키 히카루, 사카모토 마시로, 션샤오팅으로 확정됐다. ‘걸스플]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이수민 '귀여운 눈빛' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000825278</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000825278"/>
-        <updated>2021-10-23T03:21:39.817Z</updated>
-        <content type="html"><![CDATA[‘방과후 설렘’ 2학년 이수민이 23일 오전 서울 마포구 상암동 MBC신사옥에서 열리는 MBC 음악방송 '쇼 음악중심' 촬영을 위해 출근하며 포토타임을 갖고 있다.]]></content>
     </entry>
 </feed>
