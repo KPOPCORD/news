@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-23T08:23:31.618Z</updated>
+    <updated>2021-10-23T09:20:27.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['주영훈♥' 이윤미, 설마 넷째 임신? "배 안 나올 줄 알았지만"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001363637</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001363637"/>
+        <updated>2021-10-23T09:20:27.081Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김현정 기자) 배우 이윤미가 코믹한 매력을 발산했다. 23일 이윤미는 인스타그램에 "#주말 놀이"라며 영상을 올렸다. 이윤미는 "난 더이상 배가 안 나올 줄 알았지만…애들이 인형을 배에 넣어주고 같이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["알렉 볼드윈 이전에도 오발 사고"…'러스트' 스태프 증언 '충격' [엑's 할리우드]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001363636</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001363636"/>
+        <updated>2021-10-23T09:20:27.082Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 할리우드 배우 알렉 볼드윈이 신작 촬영 리허설 중 소품용 총을 쐈다가 촬영 스태프가 사망하는 사고가 벌어진 가운데, 당시 촬영 현장에 대한 새로운 정보가 전해져 눈길을 끈다. 22일(현지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[故 폴 워커 딸 메도우, 약혼 2개월 만 결혼…父 빈자리 채워준 빈 디젤 [엑's 할리우드]]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001363605</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000825284"/>
         <updated>2021-10-23T03:21:39.807Z</updated>
         <content type="html"><![CDATA[‘방과후 설렘’ 2학년 김수진, 권주안이 23일 오전 서울 마포구 상암동 MBC신사옥에서 열리는 MBC 음악방송 '쇼 음악중심' 촬영을 위해 출근하며 포토타임을 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박유라-이서윤 '교복이 찰떡' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000825283</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000825283"/>
-        <updated>2021-10-23T03:21:39.809Z</updated>
-        <content type="html"><![CDATA[‘방과후 설렘’ 2학년 박유라, 이서윤이 23일 오전 서울 마포구 상암동 MBC신사옥에서 열리는 MBC 음악방송 '쇼 음악중심' 촬영을 위해 출근하며 포토타임을 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조수이 '개미허리를 뽐내는 하트' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000825282</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000825282"/>
-        <updated>2021-10-23T03:21:39.810Z</updated>
-        <content type="html"><![CDATA[‘방과후 설렘’ 2학년 조수이가 23일 오전 서울 마포구 상암동 MBC신사옥에서 열리는 MBC 음악방송 '쇼 음악중심' 촬영을 위해 출근하며 포토타임을 갖고 있다.]]></content>
     </entry>
 </feed>
