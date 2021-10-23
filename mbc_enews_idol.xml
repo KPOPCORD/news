@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 22:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Oct 2021 01:07:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘복면가왕’ 출연 준비 5년이나 한 복면가수는? 이진혁, ‘매의 눈’ 활약]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328639</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328639</guid>
+            <pubDate>Sat, 23 Oct 2021 01:07:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328639">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/23/d6peBMXgr9HO637705774939709814.jpg" alt="‘복면가왕’ 출연 준비 5년이나 한 복면가수는? 이진혁, ‘매의 눈’ 활약">        <div class="text-box">            <p class="summary">‘복면가왕’ 출연 준비 5년이나 한 복면가수는? 이진혁, ‘매의 눈’ 활약</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/23/d6peBMXgr9HO637705774939709814.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기안84-샤이니 키, 상극 케미 폭발 “반대 성향이라 잘 맞아” (나 혼자 산다)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/328638</link>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 22 Oct 2021 09:19:45 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328619">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/22/425279a6-0540-423a-b180-61e552ced3a8.jpg" alt="[포토] 버가부, '서커스 아크로바틱'">        <div class="text-box">            <p class="summary">[포토] 버가부, '서커스 아크로바틱'</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/22/425279a6-0540-423a-b180-61e552ced3a8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 버가부, '퀸즈 포인트']]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328618</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328618</guid>
-            <pubDate>Fri, 22 Oct 2021 09:19:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328618">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/22/7e83e67b-ff10-4f06-a198-495415f3a77b.jpg" alt="[포토] 버가부, '퀸즈 포인트'">        <div class="text-box">            <p class="summary">[포토] 버가부, '퀸즈 포인트'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/22/7e83e67b-ff10-4f06-a198-495415f3a77b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-10-22T22:20:44.058Z</updated>
+    <updated>2021-10-23T01:07:54.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['총기사고 사망' 알렉 볼드윈 "왜 나한테 진짜 탄약 총이 전해졌나" 눈물..동료 변호]]></title>
+        <id>https://entertain.v.daum.net/v/20211023081601875</id>
+        <link href="https://entertain.v.daum.net/v/20211023081601875"/>
+        <updated>2021-10-23T01:07:31.119Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;할리우드 배우 알렉 볼드윈(63)이 영화 촬영 중 발사한 소품총에 맞아 촬영 스태프가&nbsp;숨지는 사고가 발생한 가운데 왜 소품총에 진짜 탄약이 들어있었는지 미스터리다. 22일(현지시간) 페이지식스의 보도에 따르면 사고 후 조사과정에서 볼드윈은 왜 그에게 진짜 탄약이 든 화기인 '핫 건'이 건네졌는지를 계속해서 물었다고 한다. 그러면서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[알렉 볼드윈, 소품용 총기 사고→촬영감독 사망..브랜든 리 재조명]]></title>
         <id>https://entertain.v.daum.net/v/20211022175017775</id>
@@ -60,12 +67,5 @@
         <link href="https://entertain.v.daum.net/v/20211022114027536"/>
         <updated>2021-10-22T03:21:41.543Z</updated>
         <content type="html"><![CDATA[그룹 세븐틴의 호시가 22일 서울 여의도 콘래드호텔에서 미니 9집 ‘아타카’ 발매 기념 글로벌 기자간담회를 가지고 있다. (사진=노진환 기자)[이데일리 스타in 윤기백 기자] “전원 재계약, 세븐틴의 터닝포인트가 됐다.” 그룹 세븐틴이 13인 전원 재계약을 하게 된 소감을 이같이 밝혔다. 세븐틴 호시는 22일 미니 9집 ‘아타카’(Attacca) 발매 기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["때리고 샤워 염탐하고" 패리스 힐튼, 아동학대 피해 고백]]></title>
-        <id>https://entertain.v.daum.net/v/20211022093939660</id>
-        <link href="https://entertain.v.daum.net/v/20211022093939660"/>
-        <updated>2021-10-22T01:15:24.999Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 패리스 힐튼이 아동학대 경험을 고백했다. 10월 20일(현지시간) 워싱턴 포스트 등 외신에 따르면 패리스 힐튼은 워싱턴DC 의회 앞에서 아동 보육 시설 내 학대 방지 법안 통과를 촉구하는 기자회견을 가졌다. 패리스 힐튼은 이날 "20년이 지난 지금까지도 불면증 등 후유증을 겪고 있다"며 자신이 겪은 충격적인 경험을 공개했다. 패]]></content>
     </entry>
 </feed>
