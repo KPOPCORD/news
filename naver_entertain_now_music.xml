@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-23T19:16:39.116Z</updated>
+    <updated>2021-10-23T21:17:42.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘예능 트롯돌’ 이찬원, 브랜드평판 가수 부문 3회 연속 4위 수성]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001363704</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001363704"/>
+        <updated>2021-10-23T21:17:28.434Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 가수 브랜드평판 2021년 10월 빅데이터 분석 결과, 이찬원이 4위에 올랐다. 이찬원은 8월과 9월 해당 부문 평판에서 4위를 차지한 바 있다. 이로써 이찬원은 가수 브랜드 평판에서 3]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에일리, 정규 3집 'AMY' 콘셉트 포토 '꽃의 여신' 완성]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002999134</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002999134"/>
+        <updated>2021-10-23T21:17:28.435Z</updated>
+        <content type="html"><![CDATA[가수 에일리(Ailee)가 고혹적인 미모로 여신 자태를 뽐냈다. 소속사 더 라이브는 에일리 정규 3집 '에이미(AMY)'의 세 번째 콘셉트 포토를 공개했다. 공개된 콘셉트 포토 속 에일리는 화려한 색감을 자랑하는 꽃]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤종신X이승기, 신곡 'Slow Starter' 믿고 듣는 조합 '재증명']]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002999124</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000503044"/>
         <updated>2021-10-23T08:23:17.837Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이하나 기자] 에스파가 ‘쇼! 음악중심’에서 1위에 올랐다. 10월 23일 방송된 MBC ‘쇼! 음악중심’에서 에스파는 ‘Savage’로 엔하이픈, ITZY를 제치고 1위를 차지했다. 슈퍼주니어 은혁은 솔로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우주소녀 루다, 첫 커버 콘텐츠 아이유 ‘에필로그’ 선곡 ‘추위 녹이는 달콤 음색’]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004497056</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004497056"/>
-        <updated>2021-10-23T08:23:17.839Z</updated>
-        <content type="html"><![CDATA[[OSEN=박판석 기자] 그룹 우주소녀(WJSN) 루다가 추위를 녹이는 달콤한 음색을 드러냈다. 최근 우주소녀 공식 SNS 채널을 통해 루다가 부른 아이유의 ‘에필로그’ 커버 영상이 공개됐다. 공개된 영상 속 루다는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라붐, KCM 단독 콘서트 게스트 출연..MSG워너비 인연]]></title>
-        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003490119</id>
-        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003490119"/>
-        <updated>2021-10-23T08:23:17.839Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=정혜연 기자]걸그룹 라붐(LABOUM)이 KCM 단독 콘서트 게스트로 출연한다. 라붐(소연, 진예, 해인, 솔빈)은 오는 24일 오후 3시 세종대학교 대양홀에서 진행되는 KCM 단독 콘서트 ‘오늘도 맑]]></content>
     </entry>
 </feed>

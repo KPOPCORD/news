@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-23T19:16:39.102Z</updated>
+    <updated>2021-10-23T21:17:42.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['예능 트롯돌' 이찬원, 브랜드평판 가수 부문 3회 연속 4위 수성]]></title>
+        <id>https://entertain.v.daum.net/v/20211024060008661</id>
+        <link href="https://entertain.v.daum.net/v/20211024060008661"/>
+        <updated>2021-10-23T21:17:10.175Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 가수 브랜드평판 2021년 10월 빅데이터 분석 결과, 이찬원이 4위에 올랐다. 이찬원은 8월과 9월 해당 부문 평판에서 4위를 차지한 바 있다. 이로써 이찬원은 가수 브랜드 평판에서 3개월 연속으로 4위를 수성하며 인기 가도를 달리고 있다. 한국기업평판연구소는 23일 가수 브랜드평판 2021년 10월 빅데이터 분석 결과를 공개]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅 '사랑은 늘 도망가', 멜론 검색인기곡 1위 등극]]></title>
         <id>https://entertain.v.daum.net/v/20211024000002435</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211023130625818"/>
         <updated>2021-10-23T04:26:23.705Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 에픽하이(EPIK HIGH)가 데뷔 18주년을 맞아 특별한 선물을 한다. 10월 23일 소속사 아워즈는 “에픽하이(타블로, 투컷, 미쓰라)가 오는 25일 선공개 싱글 ‘FACE ID (페이스 아이디)’ 발매에 앞서, 24일 오후 6시 글로벌 숏폼 모바일 플랫폼 틱톡을 통해 음원 일부를 선공개한다”고 밝혔다. 지난 2003년 10월]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몬스타엑스, 숏폼 예능 전래환장TV '놀부전' 선공개..'美친 케미']]></title>
-        <id>https://entertain.v.daum.net/v/20211023121309321</id>
-        <link href="https://entertain.v.daum.net/v/20211023121309321"/>
-        <updated>2021-10-23T03:21:07.835Z</updated>
-        <content type="html"><![CDATA[[OSEN=지민경 기자]&nbsp;유니버스가 새로운 숏폼 버라이어티 몬스타엑스(MONSTA X)의 전래환장TV&nbsp;‘놀부전’을 선보인다. 23일 글로벌 팬덤 플랫폼 유니버스(UNIVERSE)는 공식 유튜브 채널을 통해 그룹 몬스타엑스의 신규 숏폼 버라이어티 전래환장TV&nbsp;‘놀부전’ 선공개 영상을 깜짝 공개했다. 유니버스 숏폼 버라이어티 전래환장TV&nbsp;‘놀부전’은 몬스타엑스]]></content>
     </entry>
 </feed>
