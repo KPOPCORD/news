@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-23T13:23:40.766Z</updated>
+    <updated>2021-10-23T14:18:51.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[디카프리오 23살 연하 여친, 누드톤 비키니·럭셔리 요트 '눈부셔']]></title>
+        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004660579</id>
+        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004660579"/>
+        <updated>2021-10-23T14:18:50.849Z</updated>
+        <content type="html"><![CDATA[할리우드 배우 레오나르도 디카프리오의 여자친구인 모델 카밀라 모로네가 럭셔리한 일상을 공유했다. 카밀라 모로네는 22일(한국시간) 자신의 인스타그램 스토리를 통해 근황이 담긴 사진을 공개했다. 사진 속 카밀라 모로네]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신용카드 주워보니 주인이 '인디아나 존스'…진짜 그라면?]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012742169</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000825286"/>
         <updated>2021-10-23T03:21:39.805Z</updated>
         <content type="html"><![CDATA[‘방과후 설렘’ 2학년 김수진, 권주안이 23일 오전 서울 마포구 상암동 MBC신사옥에서 열리는 MBC 음악방송 '쇼 음악중심' 촬영을 위해 출근하며 포토타임을 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조수이 '꽃이 활짝~' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000825285</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000825285"/>
-        <updated>2021-10-23T03:21:39.806Z</updated>
-        <content type="html"><![CDATA[‘방과후 설렘’ 2학년 조수이가 23일 오전 서울 마포구 상암동 MBC신사옥에서 열리는 MBC 음악방송 '쇼 음악중심' 촬영을 위해 출근하며 포토타임을 갖고 있다.]]></content>
     </entry>
 </feed>

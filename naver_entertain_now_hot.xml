@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-10-23T13:23:40.788Z</updated>
+    <updated>2021-10-23T14:18:51.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[첫방 '지리산' 전지현X주지훈, 조난자 구조→2년 후 휠체어·혼수상태 '충격 전개' [종합]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003792769</id>
+        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003792769"/>
+        <updated>2021-10-23T14:18:42.896Z</updated>
+        <content type="html"><![CDATA[[스포츠조선닷컴 정안지 기자] '지리산' 전지현이 "누군가 내게 신호를 보내고 있다"며 휠체어를 탄 채 레인저로 복귀했다. 23일 첫 방송된 tvN '지리산'에서 지리산 국립공원 레인저 서이강(전지현 분)과 강현조(]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['조성윤♥' 윤소이, 셔츠 위로 드러난 아름다운 만삭의 D라인 [TEN★]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000507185</id>
+        <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000507185"/>
+        <updated>2021-10-23T14:18:42.897Z</updated>
+        <content type="html"><![CDATA[[텐아시아=이준현 기자] 배우 윤소이가 만삭의 일상을 전했다. 윤소이는 22일 자신의 인스타그램을 통해 "#감따기 #감나무 #대봉 #풍년 #가을선물 #만삭 #임산부 #일상"이라는 글과 함께 여러 장의 자신을 게재했다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['안성현♥' 성유리, 쌍둥이 임신중에도 변함 없는 요정 미모]]></title>
         <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000507183</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004497183"/>
         <updated>2021-10-23T11:17:45.407Z</updated>
         <content type="html"><![CDATA[[OSEN=김성락 기자] 23일 오후 서울 마포구 한 스튜디오에서 그룹 킹덤의 온라인 팬사인회 현장이 공개됐다. 킹덤 치우가 촬영장을 나서고 있다. 2021.10.23 /ksl0919@osen.co.kr]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사진]킹덤 아서,'상큼한 오렌지']]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004497181</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004497181"/>
-        <updated>2021-10-23T11:17:45.408Z</updated>
-        <content type="html"><![CDATA[[OSEN=김성락 기자] 23일 오후 서울 마포구 한 스튜디오에서 그룹 킹덤의 온라인 팬사인회 현장이 공개됐다. 킹덤 아서가 촬영장을 나서고 있다. 2021.10.23 /ksl0919@osen.co.kr]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손태영♥권상우, 미국서 달달 데이트…여전한 ‘선남선녀’]]></title>
-        <id>https://entertain.naver.com/now/read?oid=009&amp;aid=0004868781</id>
-        <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0004868781"/>
-        <updated>2021-10-23T11:17:45.410Z</updated>
-        <content type="html"><![CDATA[배우 손태영, 권상우 부부가 미국에서 데이트를 즐겼다. 손태영은 23일 자신의 인스타그램에 "찐만남+데이트♥"라는 글과 함께 사진을 게재했다. 공개된 사진에는 권상우와 손태영이 한 식당에 나란히 앉아 휴대폰을 함께]]></content>
     </entry>
 </feed>
