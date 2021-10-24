@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-10-24T14:10:53.606Z</updated>
+    <updated>2021-10-24T14:16:41.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이상화, 이상민 "천만 원 빌려달라" 부탁에 "OK"→'성추행 의혹' 박군, 無편집]]></title>
+        <id>https://entertain.v.daum.net/v/20211024231303346</id>
+        <link href="https://entertain.v.daum.net/v/20211024231303346"/>
+        <updated>2021-10-24T14:16:11.006Z</updated>
+        <content type="html"><![CDATA[[스포츠조선닷컴 이우주 기자] '미우새' 이상화가 '빙상 황제'의 클래스를 제대로 보여줬다. 24일 방송된 SBS 예능프로그램 '미운 우리 새끼'에서는 탁재훈을 위해 모인 아들들의 모습이 담겼다. 탁재훈의 생일파티를 위해 모인 '미우새'의 아들들. 아들들은 싱글, 돌싱팀으로 나눠 게임을 펼쳤다. 첫 번째 게임은 '뱀주사위 놀이'. 중간중간]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['슈돌' 김태균♥김석류, 3층 럭셔리 하우스 최초 공개.. 집 안에 엘리베이터가!]]></title>
         <id>https://entertain.v.daum.net/v/20211024230400315</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211024222104940"/>
         <updated>2021-10-24T13:23:34.728Z</updated>
         <content type="html"><![CDATA[방송인 김구라의 아들 래퍼 그리가 백신 접종 후 사망한 지인이 있다고 밝혔다. 지난 22일 김구라 부자가 운영하는 유튜브 채널 ‘그리구라’에 영상이 공개됐다. 영상에서 김구라는 “제가 백신 2차 맞은지 2일차다. 그저께 맞았는데 2차 백신을 맞은 뒤 추성훈 선수나 걸스데이 소진, 설현 등이 약간 후유증이 있다고 해서 걱정이 많았다”며 “후유증이 전혀 없다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['슈돌' 김태균, 딸 최초 공개..귀여운 외모 '너무 사랑스러워']]></title>
-        <id>https://entertain.v.daum.net/v/20211024221949920</id>
-        <link href="https://entertain.v.daum.net/v/20211024221949920"/>
-        <updated>2021-10-24T13:23:34.732Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 백지연 기자] '슈퍼맨이 돌아왔다' 야구선수 김태균의 자녀들이 최초 공개됐다. 24일 밤 방송된 KBS2 예능프로그램 '슈퍼맨이 돌아왔다'에 김태균이 첫 등장해 일상을 공개했다. 이날 방송에서 김태균의 자녀 효린, 하린 양이 최초로 공개됐다. 4살 하린 양은 통통한 얼굴에 귀여운 외모로 눈길을 끌었다. 이를 본 소유진은 "너무 귀엽다"고]]></content>
     </entry>
 </feed>
