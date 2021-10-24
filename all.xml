@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Oct 2021 18:23:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Oct 2021 19:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -776,6 +776,13 @@
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/23/FGPiGjnlE0P8637705971053417757.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단, "곧 만나러 갈게" 스타디움 콘서트로 잠실벌 달군 일곱 청년 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211025034212018</link>
+            <guid>https://entertain.v.daum.net/v/20211025034212018</guid>
+            <pubDate>Sun, 24 Oct 2021 19:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠한국 모신정 기자] "우리 노래 '봄날'의 가사처럼 조만간 여러분을 만나러 갈테니 조금만 기다려 주세요. 우리 곧 볼 날이 머지 않았습니다." "내가 뭐하던 사람인지 잊어버린 것 같은 순간이 반복될 정도로 거의 한계에 도달했었어요. 하지만 오늘 여기서 콘서트를 하면서 그동안 잃고 있었던 동력이나 모티베이션이 뭐였던지 간에 여러분들과 같이 뛰고 교감]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[방탄소년단, 다시 봄날이 올때까지..'퍼미션 투 댄스' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
             <link>https://entertain.v.daum.net/v/20211025010000170</link>
             <guid>https://entertain.v.daum.net/v/20211025010000170</guid>
@@ -874,11 +881,11 @@
             <content:encoded><![CDATA[[티브이데일리 가요팀] 2021년 10월 넷째 주에도 가지각색의 다채로운 곡들이 수록된 새 앨범들이 발매돼 리스너들의 귓가를 즐겁게 했다. 그룹 세븐틴(SEVENTEEN)부터 씨엔블루(CNBLUE), 씨엘(CL), 남우현, 이진혁까지 그 어느 때보다 다양한 장르의 신보가 이름을 올렸다. ◆ 세븐틴, 미니 앨범 '아타카(Attacca)' (발매일 10월 22]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["곧 만나자" 방탄소년단, 2년만에 스타디움 꽉 채운 7명 에너지 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211024211521125</link>
-            <guid>https://entertain.v.daum.net/v/20211024211521125</guid>
-            <pubDate>Sun, 24 Oct 2021 12:30:39 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 그룹 방탄소년단(BTS)이 2년여 만에 스타디움 공연장을 채웠다. 오랜만에 온라인 콘서트를 펼친 이들은 여전한 에너지를 뿜어내며 앞으로 오프라인 공연에 대한 기대감을 한껏 높였다. 방탄소년단은 24일 오후 6시30분부터 서울 잠실 주경기장에서 온라인 콘서트 'BTS 퍼미션 투 댄스 온 스테이지'(BTS PERMISSION]]></content:encoded>
+            <title><![CDATA["미국인들, 남 밟고 올라서기 위해 매일 오징어 게임" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211025040706172</link>
+            <guid>https://entertain.v.daum.net/v/20211025040706172</guid>
+            <pubDate>Sun, 24 Oct 2021 19:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[K드라마 ‘오징어 게임’이 넷플릭스 역대 최고의 흥행작에 오르면서 사회적 파장도 커지고 있다. 외신들은 드라마 내용과 연결지어 현실 속 부조리를 꼬집었다. 지나친 선정성과 폭력성이 미칠 악영향을 우려하는 목소리도 나온다. CNN은 23일(현지시간) ‘미국인들은 왜 오징어 게임에 사로잡혔는가’라는 제목의 칼럼에서 “드라마의 줄거리는 디스토피아적 미래에 대한]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['결혼 2년차' 이연희 "휴대전화에 '여봉'이라고 저장" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
@@ -977,13 +984,6 @@
             <guid>https://entertain.v.daum.net/v/20211024230202296</guid>
             <pubDate>Sun, 24 Oct 2021 14:10:28 GMT</pubDate>
             <content:encoded><![CDATA[[동아닷컴] 김종민 주식 폭락 고백 ‘또르르’ 가수 김종민이 주식 투자 근황을 고백했다. 24일 방송된 MBC ‘선을 넘는 녀석들 : 마스터-X’(이하 ‘선녀들’)에서는 주식 멘토 김프로 김동환 소장이 ‘경제 마스터’로 함께한 가운데 ‘경제X역사’ 특집으로 꾸며졌다. 이날 ‘선녀들’은 여의도 한국거래소를 방문했다. 경제 특집에 김종민이 큰 관심을 보이자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['지리산' 전지현, 주지훈 관련 노란 리본 추적..의문의 남성 등장에 긴장↑ (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211024230002278</link>
-            <guid>https://entertain.v.daum.net/v/20211024230002278</guid>
-            <pubDate>Sun, 24 Oct 2021 14:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[전지현이 주지훈과 관련된 노란 리본 추적에 나섰다. 24일 방송된 tvN 토일 드라마 ‘지리산’에서는 2년 전 조난 실종자를 찾은 서이강(전지현 분)과 강현조(주지훈 분)의 활약상과 2년 후 노란 리본을 쫓는 서이강의 모습이 그려졌다. 이날 조난 실종자를 찾았던 서이강과 강현조의 2년 전 활약상이 방송됐다. 지리산을 찾은 강현조는 불현듯 떠오르는 사고 장]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[니콜라스 케이지, 30살연하 日 아내와 뜨거운 애정 과시..아들보다 어려 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
@@ -1175,6 +1175,13 @@
             <content:encoded><![CDATA[[서울=뉴시스]이재훈 기자 = K팝 간판 걸그룹 '블랙핑크'가 환경보호 행사에서 기후 온난화 등 환경 이슈에 대해 적극적으로 목소리를 냈다. 소속사 YG엔터테인먼트에 따르면 블랙핑크는 23일(미국시간) 유튜브 오리지]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[‘연모’ 박은빈♥로운 시크한 커플 [화보] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940377</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940377</guid>
+            <pubDate>Sun, 24 Oct 2021 19:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[‘연모’ 박은빈♥로운 시크한 커플 [화보] ‘연모’ 박은빈, 로운이 시크 비주얼이 담긴 커플 화보를 전격 공개했다. KBS 2TV 월화드라마 ‘연모’(연출 송현욱, 이현석, 극본 한희정, 제작 이야기사냥꾼, 몬스터유]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[안보현 “좋아하면 올인하는 편” [화보] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
             <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940376</link>
             <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940376</guid>
@@ -1341,13 +1348,6 @@
             <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001616377</guid>
             <pubDate>Sun, 24 Oct 2021 14:10:46 GMT</pubDate>
             <content:encoded><![CDATA[래퍼 그리가 코로나 백신 접종 후 사망한 지인이 있다고 밝혔다. 지난 22일 김구라 부자가 운영하는 유튜브 채널 ‘그리구라’에 ‘저희도 브런치 먹을 줄 압니다.. 이태리 브런치를 즐기는 남자 김구라의 강력 추천 맛집]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김구라 아들 그리 “친구의 친구 화이자 맞고 사망…증상 있으면 병원가길” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000825623</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000825623</guid>
-            <pubDate>Sun, 24 Oct 2021 13:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[방송인 김구라의 아들 래퍼 그리가 백신 접종 후 사망한 지인이 있다고 밝혔다. 지난 22일 김구라 부자가 운영하는 유튜브 채널 ‘그리구라’에 영상이 공개됐다. 영상에서 김구라는 “제가 백신 2차 맞은지 2일차다. 그]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[베컴, 문신 덕지덕지..아내 뽀뽀 앞에선 무장해제 사랑꾼 [Oh!llywood] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>

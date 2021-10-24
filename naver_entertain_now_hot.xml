@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-10-24T18:23:23.490Z</updated>
+    <updated>2021-10-24T19:16:23.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘연모’ 박은빈♥로운 시크한 커플 [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940377</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000940377"/>
+        <updated>2021-10-24T19:16:15.743Z</updated>
+        <content type="html"><![CDATA[‘연모’ 박은빈♥로운 시크한 커플 [화보] ‘연모’ 박은빈, 로운이 시크 비주얼이 담긴 커플 화보를 전격 공개했다. KBS 2TV 월화드라마 ‘연모’(연출 송현욱, 이현석, 극본 한희정, 제작 이야기사냥꾼, 몬스터유]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안보현 “좋아하면 올인하는 편” [화보]]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940376</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=057&amp;aid=0001616377"/>
         <updated>2021-10-24T14:10:46.646Z</updated>
         <content type="html"><![CDATA[래퍼 그리가 코로나 백신 접종 후 사망한 지인이 있다고 밝혔다. 지난 22일 김구라 부자가 운영하는 유튜브 채널 ‘그리구라’에 ‘저희도 브런치 먹을 줄 압니다.. 이태리 브런치를 즐기는 남자 김구라의 강력 추천 맛집]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김구라 아들 그리 “친구의 친구 화이자 맞고 사망…증상 있으면 병원가길”]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000825623</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000825623"/>
-        <updated>2021-10-24T13:23:55.503Z</updated>
-        <content type="html"><![CDATA[방송인 김구라의 아들 래퍼 그리가 백신 접종 후 사망한 지인이 있다고 밝혔다. 지난 22일 김구라 부자가 운영하는 유튜브 채널 ‘그리구라’에 영상이 공개됐다. 영상에서 김구라는 “제가 백신 2차 맞은지 2일차다. 그]]></content>
     </entry>
 </feed>
