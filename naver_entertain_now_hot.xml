@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-10-24T16:30:28.329Z</updated>
+    <updated>2021-10-24T17:22:54.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빅톤 정수빈 “입대한 한승우, 빈자리 커” [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940375</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000940375"/>
+        <updated>2021-10-24T17:22:48.040Z</updated>
+        <content type="html"><![CDATA[빅톤 정수빈 “입대한 한승우, 빈자리 커” [화보] 한줄기 작은 시냇물이 흐르고 흘러 깊은 바다 저편으로 나아 가듯, 빅톤의 허찬, 임세준, 정수빈은 스스로, 그리고 다 함께 걸어 나가는 방법을 안다. 2016년 ‘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['결혼' 이연두 "코로나 4단계 결혼식 준비 힘들었지만…행복하게 살게요"]]></title>
         <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005677222</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003793166"/>
         <updated>2021-10-24T13:23:55.503Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 이우주 기자] '1박2일 시즌4' 라비가 추남 선발대회 1등을 차지하며 소원권을 얻었다. 24일 방송된 KBS2 '1박2일 시즌4'에서는 지난 방송에 이어 '추남 선발대회' 편으로 꾸며졌다. 저녁 식]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현아 부케 받았다…던 결혼 가나요♥ [종합]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940363</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000940363"/>
-        <updated>2021-10-24T13:23:55.514Z</updated>
-        <content type="html"><![CDATA[현아 부케 받았다…던 결혼 가나요♥ [종합] 가수 커플 현아가 부케를 품에 안았다. 23일 자신의 스타일리스트 결혼식에 참석해 직접 부케를 받은 현아. 그는 부케를 품에 안은 채 환하게 웃으며 기쁜 마음을 드러냈다.]]></content>
     </entry>
 </feed>
