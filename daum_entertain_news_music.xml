@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-24T07:20:02.130Z</updated>
+    <updated>2021-10-24T08:23:51.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['인기가요' 에스파 1위, CL·은혁·남우현·씨엔블루·세븐틴 컴백]]></title>
+        <id>https://entertain.v.daum.net/v/20211024165303092</id>
+        <link href="https://entertain.v.daum.net/v/20211024165303092"/>
+        <updated>2021-10-24T08:23:19.066Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 에스파(aespa)가 SBS '인기가요' 1위를 차지했다. 에스파는 10월 24일 방송된 '인기가요'에서 신곡 'Savage'(세비지)로 1위 트로피를 품에 안았다. 1위로 호명된 에스파는 "이수만 선생님, 유영진 이사님 우리 1등 했다. 그리고 우리 팬 분들 너무 감사하다"며 "'세비지'와 '넥스트 레벨' 동시에 1위 후보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단 뷔 통증 호소 "안무 없이 무대"]]></title>
+        <id>https://entertain.v.daum.net/v/20211024163832833</id>
+        <link href="https://entertain.v.daum.net/v/20211024163832833"/>
+        <updated>2021-10-24T08:23:19.068Z</updated>
+        <content type="html"><![CDATA[[동아닷컴]  [전문] 방탄소년단 뷔 통증 호소 “안무 없이 무대” 빅히트 뮤직이 방탄소년단 뷔의 건강 상태에 대해 알렸다. 24일 빅히트 뮤직은 뷔가 이날 온라인 콘서트 ‘BTS 퍼미션 투 댄스 온 스테이지’에서 안무 없이 무대를 진행한다고 공지했다. 이들은 “뷔는 23일 저녁 리허설 진행 도중 종아리 근육의 통증을 호소해 인근 병원에서 검사와 진료를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅 '니가 올래 내가 갈까' 300만뷰 돌파, 총 조회수 10억 7천만 달성]]></title>
         <id>https://entertain.v.daum.net/v/20211024155900959</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211024111811413"/>
         <updated>2021-10-24T03:21:05.872Z</updated>
         <content type="html"><![CDATA[[OSEN=이승훈 기자]&nbsp;그룹 방탄소년단(RM, 진, 슈가, 제이홉, 지민, 뷔, 정국) 멤버 지민의 솔로곡 '필터'(Filter)가 스포티파이에서 방탄소년단 인기곡 'TOP10' 차트에서 전체 8위에 올랐다. 지난 22일 스포티파이에 공개된 방탄소년단 인기곡 'TOP10' 차트에서 '필터'(Filter)는 ‘마이 유니버스’, ‘버터’, ‘퍼미션 투 댄스’]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["임영웅이 임영웅했다"..'사랑은 늘 도망가' 총 조회수 900만 돌파]]></title>
-        <id>https://entertain.v.daum.net/v/20211024110257152</id>
-        <link href="https://entertain.v.daum.net/v/20211024110257152"/>
-        <updated>2021-10-24T03:21:05.873Z</updated>
-        <content type="html"><![CDATA[[OSEN=이승훈 기자]&nbsp;가수&nbsp;임영웅의 신곡 '사랑은 늘 도망가'가 유튜브 총 조회수가 900만 뷰를 넘어섰다. 지난 11일 오후 6시 임영웅의 '사랑은 늘 도망가' 음원과 동시에 유튜브에 공개된 뮤직비디오,&nbsp;공식 오디오 영상, 가사 영상, 음원 영상은 10월 24일 합산 900만 뷰를 돌파했다. '사랑은 늘 도망가' 뮤직비디오는 24일 오전 9시&nbsp;기준 3]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김예림 "6년 만에 OST 가창, 의미 있는 작업이었죠"]]></title>
-        <id>https://entertain.v.daum.net/v/20211024103044580</id>
-        <link href="https://entertain.v.daum.net/v/20211024103044580"/>
-        <updated>2021-10-24T03:21:05.874Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김현식 기자] 싱어송라이터 김예림(Lim Kim)이 고현정 주연의 JTBC 드라마 ‘너를 닮은 사람’ 두 번째 OST 가창자로 나서 특유의 몽환적인 목소리를 들려줬다. 드라마 OST 가창을 맡은 건 2015년 KBS2 ‘너를 기억해’ OST ‘너, 누구니’를 부른 이후 무려 6년여 만이라 이목이 쏠린다. 이데일리와 주간 OST 서면]]></content>
     </entry>
 </feed>

@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-24T07:20:02.132Z</updated>
+    <updated>2021-10-24T08:23:51.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['인기가요' 에스파, 'Savage' 컴백 동시에 1위...은혁→CL 솔로 컴백 러시 [종합]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004497657</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004497657"/>
+        <updated>2021-10-24T08:23:37.225Z</updated>
+        <content type="html"><![CDATA[[OSEN=연휘선 기자] 걸그룹 에스파가 'Savage' 컴백과 동시에 '인기가요' 1위를 차지했다. 24일 방송된 SBS 예능 프로그램 '인기가요'에서는 에스파의 'Savage'가 1위를 차지했다. 에스파는 이날]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인피니트 남우현, '나른 섹시' 완전 무장…'손가락 하트' 화려한 컴백 무대]]></title>
+        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000796000</id>
+        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000796000"/>
+        <updated>2021-10-24T08:23:37.226Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 안은재기자]그룹 인피니트(INFINITE) 남우현이 ‘나른 섹시’ 무드로 완전 무장하고 돌아왔다. 남우현은 24일 SBS ‘인기가요’에 출연해 네 번째 미니 앨범 ‘위드(With)’의 타이틀곡 ‘냉정]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['인기가요' 에스파 1위, CL·은혁·남우현·씨엔블루·세븐틴 컴백(종합)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000503283</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000503283"/>
+        <updated>2021-10-24T08:23:37.228Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 에스파(aespa)가 SBS '인기가요' 1위를 차지했다. 에스파는 10월 24일 방송된 '인기가요'에서 신곡 'Savage'(세비지)로 1위 트로피를 품에 안았다. 1위로 호명된 에스파]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['인기가요' 에스파VS악뮤, 차트 장기집권 홍수...'2대 1' 1위 후보 격돌]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004497618</id>
@@ -158,26 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012742952"/>
         <updated>2021-10-24T06:23:48.815Z</updated>
         <content type="html"><![CDATA[소속사 "의료진 소견 따라 움직임 최소화 하기로" (서울=연합뉴스) 이태수 기자 = 방탄소년단 멤버 뷔가 24일 온라인 콘서트를 앞두고 근육 통증을 호소해 이날 무대에서 안무를 하지 않기로 했다고 소속사 빅히트뮤직이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[천만 사랑 눈앞♡ 임영웅 '사랑은 늘 도망가' 총조회수 900만뷰]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002999218</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002999218"/>
-        <updated>2021-10-24T06:23:48.815Z</updated>
-        <content type="html"><![CDATA[가수 임영웅의 신곡 '사랑은 늘 도망가'가 유튜브 총 조회수 900만 뷰를 돌파하며 인기를 이어갔다. 지난 11일 오후 6시 '사랑은 늘 도망가' 음원과 동시에 유튜브에 공개된 '사랑은 늘 도망가' 뮤직비디오와 공식]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공식] '글로벌 강자' 세븐틴, 日 오리콘 데일리 앨범 랭킹 1위]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003792921</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003792921"/>
-        <updated>2021-10-24T06:23:48.816Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 백지은 기자] 그룹 세븐틴이 일본 오리콘 데일리 앨범 랭킹 정상에 올랐다. 23일 오리콘이 발표한 최신 차트에 따르면 세븐틴의 미니9집 '아타카'가 10만 4667장의 판매고를 올리며 22일자 오리콘 데]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배우 서갑숙, 트로트 가수로 정식 데뷔…‘여자의 마음’ 발매]]></title>
-        <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0001903077</id>
-        <link href="https://entertain.naver.com/now/read?oid=016&amp;aid=0001903077"/>
-        <updated>2021-10-24T06:23:48.817Z</updated>
-        <content type="html"><![CDATA[[헤럴드경제 = 서병기 선임기자]개성파 배우 서갑숙이 세미트롯 "여자의 마음"을 발매하며 트로트 가수로 정식 데뷔한다. 타이틀곡인 “여자의 마음"은 영탁이 부른 ‘살다보니’를 작사, 작곡한 지수현 작곡가가 작사, 작]]></content>
     </entry>
 </feed>
