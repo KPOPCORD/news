@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Oct 2021 12:31:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Oct 2021 13:24:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["방탄소년단과 함께 춤을"…BTS, ARMY와 대면할 그날을 위해 [종합]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328732</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328732</guid>
+            <pubDate>Sun, 24 Oct 2021 13:23:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328732">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/24/5XYtVRhiB8tz637707080277626176.jpg" alt="" 방탄소년단과="" 함께="" 춤을"…bts,="" army와="" 대면할="" 그날을="" 위해="" [종합]"="">        <div class="text-box">            <p class="summary">"방탄소년단과 함께 춤을"…BTS, ARMY와 대면할 그날을 위해 [종합]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/24/5XYtVRhiB8tz637707080277626176.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단(BTS) 정국·지민 "콘서트 즐거워…오늘 밤 죽어보자"]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/328720</link>
@@ -86,14 +94,6 @@
             <pubDate>Sat, 23 Oct 2021 07:18:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328657">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/23/FGPiGjnlE0P8637705971053417757.jpg" alt="‘놀면’ 미주, 무릎까지 꿇고 사자성어 집중! 이용진 “관우·장비 대표” 정답은?">        <div class="text-box">            <p class="summary">‘놀면’ 미주, 무릎까지 꿇고 사자성어 집중! 이용진 “관우·장비 대표” 정답은?</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/23/FGPiGjnlE0P8637705971053417757.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘나혼자산다’ 아누팜·박주현·김평조→기안84·키 “우린 깐부잖아” 훈훈]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328646</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328646</guid>
-            <pubDate>Sat, 23 Oct 2021 03:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328646">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/23/v04vVQtLx8S4637705818990059903.jpg" alt="‘나혼자산다’ 아누팜·박주현·김평조→기안84·키 “우린 깐부잖아” 훈훈">        <div class="text-box">            <p class="summary">‘나혼자산다’ 아누팜·박주현·김평조→기안84·키 “우린 깐부잖아” 훈훈</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/23/v04vVQtLx8S4637705818990059903.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

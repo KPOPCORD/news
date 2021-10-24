@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-24T12:31:10.524Z</updated>
+    <updated>2021-10-24T13:24:03.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[진 "서른되니 몸 쑤셔"→뷔 "부상 탓 수치심"…방탄소년단, 격하게 전한 진심 [종합]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001363933</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001363933"/>
+        <updated>2021-10-24T13:23:48.215Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 그룹 방탄소년단(BTS)이 팬데믹 상황 탓에 팬들을 오랜 시간 만나지 못한 것에 대한 아쉬움을 전했다. 멤버들이 계속해서 팬들을 향한 그리움을 털어놓은 것에 이어, 부상 탓에 안무를 소화]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단 "공연 없던 2년, 동력 잃기도…볼날 머지 않았다"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010788738</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010788738"/>
+        <updated>2021-10-24T13:23:48.216Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = "사실 이번 콘서트를 준비하면서, 솔직히 힘들었어요. 사실 (코로나19로 공연을 못한 지) 2년이 되니까 그런 생각이 많이 들었어요. '남은 동력이 있나.' 개인으로서 BTS 멤버 RM]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["방탄소년단과 함께 춤을"…BTS, ARMY와 대면할 그날을 위해 [종합]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=408&amp;aid=0000136765</id>
+        <link href="https://entertain.naver.com/now/read?oid=408&amp;aid=0000136765"/>
+        <updated>2021-10-24T13:23:48.217Z</updated>
+        <content type="html"><![CDATA[그룹 방탄소년단(BTS)이 팬 아미(ARMY)와 함께 춤췄다. 비록 팬데믹 시국으로 멀리 떨어져 있었지만, 서로를 향한 진심은 주경기장을 가득 채웠다. 24일 오후 6시 30분 방탄소년단(RM/알엠, 진, 슈가, 제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“아무것도 막을 수 없어” 방탄소년단, 2년 공백 깨부순 ‘PTD’ 콘서트 [스경X현장]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000769362</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000769362"/>
+        <updated>2021-10-24T13:23:48.218Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 2년의 공백에도 그 열기는 여전히 뜨거웠따. 그룹 방탄소년단이 온라인 콘서트를 통해 팬들과 교감을 나눴다. 방탄소년단은 24일 ‘비티에스 퍼미션 투 댄스 온 스테이지(BTS PERMISSION TO D]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BTS "아미 소리 질러!"…팬데믹 뚫고 전한 희망의 메시지]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012743649</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012743649"/>
+        <updated>2021-10-24T13:23:48.222Z</updated>
+        <content type="html"><![CDATA[1년 만에 온라인 콘서트…"무대서 노래하고 춤출 때 가장 우리다워" 뷔, 근육통으로 안무 없이 공연…"속상하지만 다음엔 충분히 보여줄 것" (서울=연합뉴스) 이태수 기자 = "걱정할 필요 없어. 떨어지더라도 착지할]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["아미, 여기서 다시 만나"…2년만 잠실주경기장 선 방탄소년단 [종합]]]></title>
         <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004619972</id>
@@ -144,40 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010788697"/>
         <updated>2021-10-24T12:30:56.966Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 종아리 근육 통증을 호소한 그룹 '방탄소년단'(BTS) 멤버 뷔가 자신의 건강을 걱정한 팬덤 아미들을 안심시켰다. 뷔는 24일 오후 열린 온라인 콘서트 'BTS 퍼미션 투 댄스 온 스테]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단 뷔 "앉아 있으니 너무 추워…앞으로는 몸 관리 잘하겠다"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002999252</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002999252"/>
-        <updated>2021-10-24T12:30:56.967Z</updated>
-        <content type="html"><![CDATA[방탄소년단 뷔가 무대를 함께 하지 못하는 아쉬움을 전했다. 24일 오후 방탄소년단 의 온라인 콘서트 'BTS 퍼미션 투 댄스 온 스테이지'(BTS PERMISSION TO DANCE ON STAGE)'가 진행됐다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단(BTS) 정국·지민 "콘서트 즐거워…오늘 밤 죽어보자"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=408&amp;aid=0000136757</id>
-        <link href="https://entertain.naver.com/now/read?oid=408&amp;aid=0000136757"/>
-        <updated>2021-10-24T10:22:27.647Z</updated>
-        <content type="html"><![CDATA[그룹 방탄소년단(BTS)이 뜨거운 열정으로 무대의 포문을 열었다. 24일 오후 6시 30분 방탄소년단(RM/알엠, 진, 슈가, 제이홉, 지민, 뷔, 정국)의 온라인 콘서트 'BTS 퍼미션 투 댄스 온 스테이지(PER]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단 "무대 위에서 노래하고 춤 출 때 가장 우리답다"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000325196</id>
-        <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000325196"/>
-        <updated>2021-10-24T10:22:27.647Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=장진리 기자] 그룹 방탄소년단이 오프라인 콘서트의 포문을 여는 온라인 콘서트로 팬들을 만나는 소회를 밝혔다. 방탄소년단은 24일 온라인으로 열린 'BTS 퍼미션 투 댄스 온 스테이지'에서 "무대 위에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단 뷔 “근육통 괜찮아, 걱정 말고 공연 즐겨주길”]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000769349</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000769349"/>
-        <updated>2021-10-24T10:22:27.651Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 그룹 방탄소년단이 오랜만에 만난 팬들을 향해 반가움을 전했다. 방탄소년단은 24일 ‘비티에스 퍼미션 투 댄스 온 스테이지(BTS PERMISSION TO DANCE ON STAGE)’ 온라인 공연을 개]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단 뷔, 의자 앉아 무대 소화 "리허설 하다 실수…큰 걱정 말길"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001363909</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001363909"/>
-        <updated>2021-10-24T10:22:27.653Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 종아리 부상 소식을 전했던 그룹 방탄소년단(BTS) 뷔가 팬들을 안심시켰다. 24일 오후 방탄소년단(RM, 진, 슈가, 제이홉, 지민, 뷔, 정국)은 온라인 콘서트 'BTS PERMISS]]></content>
     </entry>
 </feed>
