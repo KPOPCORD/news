@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-24T01:06:20.413Z</updated>
+    <updated>2021-10-24T03:21:35.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단 지민 'Filter', BTS 인기곡 솔로 1위+유튜브 뮤직 韓솔로 1위 '겹경사']]></title>
+        <id>https://entertain.v.daum.net/v/20211024111811413</id>
+        <link href="https://entertain.v.daum.net/v/20211024111811413"/>
+        <updated>2021-10-24T03:21:05.872Z</updated>
+        <content type="html"><![CDATA[[OSEN=이승훈 기자]&nbsp;그룹 방탄소년단(RM, 진, 슈가, 제이홉, 지민, 뷔, 정국) 멤버 지민의 솔로곡 '필터'(Filter)가 스포티파이에서 방탄소년단 인기곡 'TOP10' 차트에서 전체 8위에 올랐다. 지난 22일 스포티파이에 공개된 방탄소년단 인기곡 'TOP10' 차트에서 '필터'(Filter)는 ‘마이 유니버스’, ‘버터’, ‘퍼미션 투 댄스’]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["임영웅이 임영웅했다"..'사랑은 늘 도망가' 총 조회수 900만 돌파]]></title>
+        <id>https://entertain.v.daum.net/v/20211024110257152</id>
+        <link href="https://entertain.v.daum.net/v/20211024110257152"/>
+        <updated>2021-10-24T03:21:05.873Z</updated>
+        <content type="html"><![CDATA[[OSEN=이승훈 기자]&nbsp;가수&nbsp;임영웅의 신곡 '사랑은 늘 도망가'가 유튜브 총 조회수가 900만 뷰를 넘어섰다. 지난 11일 오후 6시 임영웅의 '사랑은 늘 도망가' 음원과 동시에 유튜브에 공개된 뮤직비디오,&nbsp;공식 오디오 영상, 가사 영상, 음원 영상은 10월 24일 합산 900만 뷰를 돌파했다. '사랑은 늘 도망가' 뮤직비디오는 24일 오전 9시&nbsp;기준 3]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김예림 "6년 만에 OST 가창, 의미 있는 작업이었죠"]]></title>
+        <id>https://entertain.v.daum.net/v/20211024103044580</id>
+        <link href="https://entertain.v.daum.net/v/20211024103044580"/>
+        <updated>2021-10-24T03:21:05.874Z</updated>
+        <content type="html"><![CDATA[[이데일리 스타in 김현식 기자] 싱어송라이터 김예림(Lim Kim)이 고현정 주연의 JTBC 드라마 ‘너를 닮은 사람’ 두 번째 OST 가창자로 나서 특유의 몽환적인 목소리를 들려줬다. 드라마 OST 가창을 맡은 건 2015년 KBS2 ‘너를 기억해’ OST ‘너, 누구니’를 부른 이후 무려 6년여 만이라 이목이 쏠린다. 이데일리와 주간 OST 서면]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원어스, 'BLOOD MOON' 트랙리스트 공개..타이틀곡은 '월하미인']]></title>
         <id>https://entertain.v.daum.net/v/20211024100357121</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211024084200828"/>
         <updated>2021-10-24T01:05:46.674Z</updated>
         <content type="html"><![CDATA[그룹 방탄소년단(BTS)이 1년 만에 온라인 콘서트로 전 세계 팬들을 만난다. 방탄소년단은 24일 오후 6시 30분 온라인 콘서트 'BTS 퍼미션 투 댄스 온 스테이지(BTS PERMISSION TO DANCE ON STAGE)'로 전 세계 팬들을 만난다. 다양한 콘셉트의 무대 세트와 생동감을 더하는 최첨단 기술, 그리고 방탄소년단만의 화려한 퍼포먼스가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이티즈, 오늘 데뷔 3주년..24시간 내내 팬들과 소통]]></title>
-        <id>https://entertain.v.daum.net/v/20211024083155768</id>
-        <link href="https://entertain.v.daum.net/v/20211024083155768"/>
-        <updated>2021-10-24T01:05:46.675Z</updated>
-        <content type="html"><![CDATA[[OSEN=선미경 기자] 그룹 에이티즈(ATEEZ)가 데뷔&nbsp;3주년을 기념해 팬들과 함께 특별한 하루를 만든다. 오늘(24일)&nbsp;데뷔&nbsp;3주년을 맞은 에이티즈는&nbsp;0시가 되자마자 공식&nbsp;SNS를 통해 축전 이미지를 공개하며 본격적으로 기념일의 시작을 알렸다. 이후 데뷔일을 상징하는 숫자인 오전&nbsp;10시&nbsp;24분에는&nbsp;‘3주년 생일파티’&nbsp;콘텐츠가 깜짝 공개되어 뜨거운 반응]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킹덤 맞수' 더보이즈·스트레이키즈, 2021 AAA 참석]]></title>
-        <id>https://entertain.v.daum.net/v/20211024083003755</id>
-        <link href="https://entertain.v.daum.net/v/20211024083003755"/>
-        <updated>2021-10-24T01:05:46.676Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 문완식 기자] /사진제공=더보이즈(크래커엔터테인먼트), 스트레이키즈(JYP엔터테인먼트)최강 퍼포먼스 아이돌 그룹 더보이즈(THE BOYZ)와 스트레이 키즈(Stray Kids)가 '2021 Asia Artist Awards'에 참석을 확정하며 글로벌 축제의 장을 더욱 화려하게 장식한다. 그룹 더보이즈와 스트레이 키즈는 오는 12월 2일 열리는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라붐, '상상더하기' 인연 ing..MSG워너비 KCM 콘서트 게스트 출격]]></title>
-        <id>https://entertain.v.daum.net/v/20211024072454334</id>
-        <link href="https://entertain.v.daum.net/v/20211024072454334"/>
-        <updated>2021-10-24T01:05:46.677Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] 걸그룹 라붐(LABOUM)이 KCM 단독 콘서트 게스트로 출연한다. 라붐(소연, 진예, 해인, 솔빈)은 오는 24일 오후 3시 세종대학교 대양홀에서 진행되는 KCM 단독 콘서트 ‘오늘도 맑음’에 게스트로 출격한다. 소속사 인터파크뮤직플러스에 따르면 KCM 측에서 라붐에게 게스트 출연을 요청, 라붐은 흔쾌히 출연을 결정했다고 밝혔다.]]></content>
     </entry>
 </feed>

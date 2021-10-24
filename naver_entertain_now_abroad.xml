@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-24T01:06:20.423Z</updated>
+    <updated>2021-10-24T03:21:35.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[니콜라스 케이지, 30살연하 日 아내와 뜨거운 애정 과시…아들보다 어려[할리우드비하인드]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000503202</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000503202"/>
+        <updated>2021-10-24T03:21:35.167Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 미국 배우 니콜라스 케이지가 30세 연하 아내와 뜨거운 애정을 과시했다. 미국 패션잡지 플런트(FLAUNT) 측은 10월 22일 공식 SNS를 통해 "니콜라스 케이지와 시바타 리코가 최신호 표]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[래퍼 칸예 웨스트, 'Ye'로 법적 이름 바꾼 사연은 [주말POP콘]]]></title>
         <id>https://entertain.naver.com/now/read?oid=018&amp;aid=0005068057</id>
@@ -24,7 +31,7 @@
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012742301</id>
         <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012742301"/>
         <updated>2021-10-24T01:06:19.663Z</updated>
-        <content type="html"><![CDATA[불행한 사고로 촬영 감독 사망? 안전 외면 '인재' 가능성 제기 총격 닷새 전에도 '콜드 건' 사고…노조 "안전 점검 없었다" (로스앤젤레스=연합뉴스) 정윤섭 특파원 = 미국 할리우드 유명 배우 알렉 볼드윈(63)이]]></content>
+        <content type="html"><![CDATA[불행한 사고로 촬영 감독 사망? 안전 외면 '인재' 가능성 제기총격 닷새 전에도 '콜드 건' 사고…노조 "안전 점검 없었다"소품 총 사고 이후 망연자실한 표정의 알렉 볼드윈(샌타페이 AP=연합뉴스) 지난 21일(현지시간) 미국 영화배우 알렉 볼드윈이 영화 '러스트' 촬영 중에 발생한 소품 총 사고로 당국의 조사를 받은 뒤...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[디카프리오 23살 연하 여친, 누드톤 비키니·럭셔리 요트 '눈부셔']]></title>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000825296"/>
         <updated>2021-10-23T04:26:58.089Z</updated>
         <content type="html"><![CDATA[‘방과후 설렘’ 2학년 이하담, 이승은이 23일 오전 서울 마포구 상암동 MBC신사옥에서 열리는 MBC 음악방송 '쇼 음악중심' 촬영을 위해 출근하며 포토타임을 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김예서-오진경 '하트를 모아서~' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000825295</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000825295"/>
-        <updated>2021-10-23T04:26:58.091Z</updated>
-        <content type="html"><![CDATA[‘방과후 설렘’ 2학년 김예서, 오진경이 23일 오전 서울 마포구 상암동 MBC신사옥에서 열리는 MBC 음악방송 '쇼 음악중심' 촬영을 위해 출근하며 포토타임을 갖고 있다.]]></content>
     </entry>
 </feed>
