@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-24T15:21:31.511Z</updated>
+    <updated>2021-10-24T16:30:28.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단, 다시 봄날이 올때까지..'퍼미션 투 댄스']]></title>
+        <id>https://entertain.v.daum.net/v/20211025010000170</id>
+        <link href="https://entertain.v.daum.net/v/20211025010000170"/>
+        <updated>2021-10-24T16:29:56.156Z</updated>
+        <content type="html"><![CDATA["봄날이 머지않았으니 모두 힘내시길 바랍니다." 그룹 방탄소년단(BTS)이 2년 만에 잠실주경기장 무대에 올라 전 세계 아미들에게 선물 같은 무대를 선사했다. 텅 빈 객석이었지만 글로벌 아미의 소리 없는 함성은 방탄소년단에게 새로운 에너지가 됐고, 2시간 30분간 열정을 불사른 방탄소년단은 머지 않은 시점 오프라인에서의 만남을 고대했다. 방탄소년단은 2]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅 '니가 올래 내가 갈까' 300만뷰..무한 매력 히어로♡]]></title>
         <id>https://entertain.v.daum.net/v/20211025001002834</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211024211521125"/>
         <updated>2021-10-24T12:30:39.822Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 그룹 방탄소년단(BTS)이 2년여 만에 스타디움 공연장을 채웠다. 오랜만에 온라인 콘서트를 펼친 이들은 여전한 에너지를 뿜어내며 앞으로 오프라인 공연에 대한 기대감을 한껏 높였다. 방탄소년단은 24일 오후 6시30분부터 서울 잠실 주경기장에서 온라인 콘서트 'BTS 퍼미션 투 댄스 온 스테이지'(BTS PERMISSION]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["곧 직접 만나요"..방탄소년단, 세계를 집어삼킨 'PTD' 콘서트]]></title>
-        <id>https://entertain.v.daum.net/v/20211024210400031</id>
-        <link href="https://entertain.v.daum.net/v/20211024210400031"/>
-        <updated>2021-10-24T12:30:39.823Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이덕행 기자] /사진=빅히트 뮤직방탄소년단이 1년 만의 온라인 콘서트로 전세계 열광의 무대를 만들었다. 24일 오후 방탄소년단 의 온라인 콘서트 'BTS 퍼미션 투 댄스 온 스테이지'(BTS PERMISSION TO DANCE ON STAGE)'가 진행됐다. 방탄소년단은 지난해 10월 라이브 스트리밍 방식으로 'BTS MAP OF THE SOUL]]></content>
     </entry>
 </feed>
