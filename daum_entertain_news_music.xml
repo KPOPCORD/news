@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-24T13:24:03.716Z</updated>
+    <updated>2021-10-24T14:10:53.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["곧, 다시 만나" 방탄소년단 'PTD콘서트', 대면 공연 초읽기]]></title>
+        <id>https://entertain.v.daum.net/v/20211024222806008</id>
+        <link href="https://entertain.v.daum.net/v/20211024222806008"/>
+        <updated>2021-10-24T14:10:23.584Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 황서연 기자] 그룹 방탄소년단(BTS, RM 진 슈가 제이홉 지민 뷔 정국)이 2년 만에 잠실주경기장 무대에 섰다. 객석은 텅 비었지만, 전 세계 팬들을 온라인으로 만나며 소통의 끈을 놓지 않았다. 24일 저녁 방탄소년단은 '비티에스 퍼미션 투 댄스 온 스테이지(BTS PERMISSION TO DANCE ON STAGE)' 온라인 공연을 개최]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단은 지치지 않아..비주얼도 무대도 클래스가 다른 글로벌 슈스]]></title>
         <id>https://entertain.v.daum.net/v/20211024221902908</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211024205757939"/>
         <updated>2021-10-24T12:30:39.825Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 그룹 방탄소년단(BTS)이 팬데믹 이후 2년여만에 열릴 오프라인 공연에 대한 기대감을 드러냈다. 방탄소년단은 24일 오후 6시30분부터 서울 잠실 주경기장에서 열린 온라인 콘서트 'BTS 퍼미션 투 댄스 온 스테이지'(BTS PERMISSION TO DANCE ON STAGE)를 진행하고, 라이브 스트리밍으로 생중계했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["여기서 멈추지 않아"..방탄소년단, 차원이 다른 '소문난 잔치']]></title>
-        <id>https://entertain.v.daum.net/v/20211024205605916</id>
-        <link href="https://entertain.v.daum.net/v/20211024205605916"/>
-        <updated>2021-10-24T12:30:39.825Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 그룹 방탄소년단(BTS)이 알찬 구성으로 다채로운 매력을 가득 담은 공연을 성공적으로 마쳤다. 웅장한 퍼포먼스와 '흥', 의미 있는 긍정의 메시지까지 놓치지 않은 방탄소년단이었다. 24일 오후 방탄소년단(RM, 진, 슈가, 제이홉, 지민, 뷔, 정국)은 온라인 콘서트 'BTS PERMISSION TO DANCE ON STAGE']]></content>
     </entry>
 </feed>
