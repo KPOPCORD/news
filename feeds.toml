@@ -5,6 +5,8 @@ entrySelector = "ul.slice-grid3 li"
 titleSelector = "span.max-progtit"
 linkSelector = "a"
 imageSelector = "span.img-thum span.img-center img"
+waitForSelector = "ul.slice-grid3 li"
+onFail = "stale"
 
 [kbs_kstar_star]
 title = "KBS연예 ─ 연예"
@@ -13,6 +15,7 @@ entrySelector = "ul.slice-grid3 li"
 titleSelector = "span.max-progtit"
 linkSelector = "a"
 imageSelector = "span.img-thum span.img-center img"
+onFail = "stale"
 
 [mbc_enews_idol]
 title = "MBC 연예 ─ 아이돌"
@@ -22,6 +25,7 @@ titleSelector = "div.text-box p.summary"
 linkSelector = "a"
 imageSelector = "a img"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [daum_entertain_news_music]
 title = "다음 연예 ─ 뉴스 ─ 뮤직"
@@ -43,7 +47,6 @@ linkSelector = "a.link_txt"
 contentSelector = "p.desc_thumb"
 waitForSelector = "ul.list_news li"
 onFail = "stale"
-timeout = 180
 
 [daum_entertain_news_abroad]
 title = "다음 연예 ─ 뉴스 ─ 해외"
@@ -54,7 +57,6 @@ linkSelector = "a.link_txt"
 contentSelector = "p.desc_thumb"
 waitForSelector = "ul.list_news li"
 onFail = "stale"
-timeout = 180
 
 [naver_entertain_now_music]
 title = "네이버 TV연예 ─ 최신뉴스 ─ 뮤직"
