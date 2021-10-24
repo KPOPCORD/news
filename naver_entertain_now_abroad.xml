@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-24T21:17:37.883Z</updated>
+    <updated>2021-10-24T22:20:33.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[시나쿨파]넷플릭스 같은 플랫폼 없으면 드라마 하청국될 수밖에]]></title>
+        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005677331</id>
+        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005677331"/>
+        <updated>2021-10-24T22:20:33.215Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 박형기 기자 = ‘오징어 게임’이 글로벌 메가 히트를 치면서 한국 문화 콘텐츠가 전 세계를 휩쓸고 있다. 독립운동의 상징 김구 선생이 그토록 바랐던 ‘문화강국’의 꿈이 이뤄진 것이다. 김구 선생이 지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[베컴, 문신 덕지덕지..아내 뽀뽀 앞에선 무장해제 사랑꾼 [Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004497711</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000825301"/>
         <updated>2021-10-23T04:26:58.080Z</updated>
         <content type="html"><![CDATA[‘방과후 설렘’ 2학년 이승은이 23일 오전 서울 마포구 상암동 MBC신사옥에서 열리는 MBC 음악방송 '쇼 음악중심' 촬영을 위해 출근하며 포토타임을 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이하담 '상큼 소녀' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000825300</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000825300"/>
-        <updated>2021-10-23T04:26:58.081Z</updated>
-        <content type="html"><![CDATA[‘방과후 설렘’ 2학년 이하담이 23일 오전 서울 마포구 상암동 MBC신사옥에서 열리는 MBC 음악방송 '쇼 음악중심' 촬영을 위해 출근하며 포토타임을 갖고 있다.]]></content>
     </entry>
 </feed>
