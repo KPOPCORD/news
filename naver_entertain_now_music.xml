@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-25T10:24:06.092Z</updated>
+    <updated>2021-10-25T11:18:19.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[POP초점]에스파 지젤, 흑인 비하 논란 사과.."의도한 것 아냐"(종합)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003490762</id>
+        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003490762"/>
+        <updated>2021-10-25T11:18:02.748Z</updated>
+        <content type="html"><![CDATA[[헤럴드POP=정혜연 기자]그룹 에스파 멤버 지젤이 흑인 비하 논란에 대해 사과했다. 25일 지젤은 에스파 공식 SNS에 "안녕하세요. 지젤입니다. 촬영장에서 나오던 노래의 가사 중 잘못된 단어를 입모양으로 말한 것]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['에델 라인클랑' 조형균, 부친상…슬픔 딛고 무대 올랐다]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010791217</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010791217"/>
+        <updated>2021-10-25T11:18:02.751Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 강진아 기자 = 크로스 오버 그룹 '에델 라인클랑'의 리더 조형균이 부친상을 당했다. 에델 라인클랑의 소속사 아츠로이엔티 관계자는 25일 "조형균이 지난 24일 부친상을 당했다"고 전했다. 갑작스러운]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국내 OTT 음악저작권료 미납 수년째...한음저협 “법적 조치 착수”]]></title>
         <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0001903718</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000769572"/>
         <updated>2021-10-25T09:20:53.169Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 사단법인 한국음악레이블산업협회(이하 음레협)가 대중음악업계의 소상공인 손실보상 지급을 강하게 촉구했다. 25일 음레협은 “오는 27일부터 신청 및 지급이 시작되는 정부의 소상공인 손실보상에 대중음악업계]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재치도 히어로~♡ 임영웅, '최고의 분위기 메이커' 압도적 1위]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002999452</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002999452"/>
-        <updated>2021-10-25T09:20:53.170Z</updated>
-        <content type="html"><![CDATA[가수 임영웅이 '최고의 분위기 메이커일 것 같은 가수' 1위에 올랐다. 임영웅은 10월 18일 오전 10시부터 10월 24일 오후 10시까지 진행된 트롯픽 스페셜 '최고의 분위기 메이커일 것 같은 가수는?' 설문에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김필 ‘지리산’ OST 발매]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000769566</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000769566"/>
-        <updated>2021-10-25T09:20:53.171Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 보컬리스트 김필이 부른 tvN ‘지리산’ OST가 발매됐다. ‘지리산’ 제작사 겸 OST 제작사인 에이스토리, 모스트콘텐츠 측은 김필이 ‘지리산’ OST의 첫 번째 주자로 발탁됐다고 밝혔다. tvN 드]]></content>
     </entry>
 </feed>
