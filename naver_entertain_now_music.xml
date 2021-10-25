@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-25T11:18:19.420Z</updated>
+    <updated>2021-10-25T12:33:54.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔하이픈, 정규 1집 美 '빌보드 200' 11위…두 번째 입성]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010791267</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010791267"/>
+        <updated>2021-10-25T12:33:37.170Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 강진아 기자 = 그룹 '엔하이픈(ENHYPEN)'이 새 앨범으로 미국 빌보드 차트에 다시 입성했다. 빌보드는 24일(현지시간) 공식 트위터를 통해 엔하이픈이 지난 12일 발표한 첫 정규 앨범 '디멘션]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[배우 안희연(하니), 사랑의열매- JTBC 방송캠페인 내레이션 참여 [공식]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001364310</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001364310"/>
+        <updated>2021-10-25T12:33:37.170Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 사랑의열매 사회복지공동모금회(회장 조흥식)는 배우 안희연(하니)이 사랑의열매와 JTBC(대표 이규연)가 함께하는 배분홍보 방송캠페인의 영상 내레이션에 참여한다고 밝혔다. 사랑의열매는 복지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[POP초점]에스파 지젤, 흑인 비하 논란 사과.."의도한 것 아냐"(종합)]]></title>
         <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003490762</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000769575"/>
         <updated>2021-10-25T09:20:53.168Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 싱어송라이터 심규선이 신보 발매에 이어 한정판으로 제작된 LP를 선보인다. 25일 소속사 헤아릴규 측은 “오늘 정오부터 각종 온라인 음반 사이트를 통해 심규선의 새 미니앨범 ‘소로 小路’ 한정판 LP]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['MZ세대 아이콘' 핫이슈, 첫 싱글 'ICONS' 활동 성공적 마무리]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002999453</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002999453"/>
-        <updated>2021-10-25T09:20:53.169Z</updated>
-        <content type="html"><![CDATA[걸그룹 핫이슈(HOT ISSUE)가 첫 번째 싱글 'ICONS' 활동을 종료했다. 핫이슈는 지난 24일 SBS '인기가요' 무대를 끝으로 'ICONS'의 공식 활동을 마쳤다. 데뷔 앨범 이후 5개월 만에 컴백한 핫이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국음악레이블산업협회, 대중음악업계 소상공인 손실보상 호소]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000769572</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000769572"/>
-        <updated>2021-10-25T09:20:53.169Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 사단법인 한국음악레이블산업협회(이하 음레협)가 대중음악업계의 소상공인 손실보상 지급을 강하게 촉구했다. 25일 음레협은 “오는 27일부터 신청 및 지급이 시작되는 정부의 소상공인 손실보상에 대중음악업계]]></content>
     </entry>
 </feed>

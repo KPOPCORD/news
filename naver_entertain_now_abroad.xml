@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-25T11:18:19.432Z</updated>
+    <updated>2021-10-25T12:33:54.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔하이픈, 정규 1집 美 '빌보드 200' 11위…두 번째 입성]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010791267</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010791267"/>
+        <updated>2021-10-25T12:33:53.311Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 강진아 기자 = 그룹 '엔하이픈(ENHYPEN)'이 새 앨범으로 미국 빌보드 차트에 다시 입성했다. 빌보드는 24일(현지시간) 공식 트위터를 통해 엔하이픈이 지난 12일 발표한 첫 정규 앨범 '디멘션]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이병헌·이정재, 美 LACMA 참석…스티븐 스필버그 등 거물 집결]]></title>
         <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005679662</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000503415"/>
         <updated>2021-10-25T01:07:30.926Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 에드 시런이 코로나19 확진 판정을 받았다. 10월 24일(현지시간) 영국 BBC에 따르면 가수 에드 시런 코로나19 검사에서 양성 반응이 나왔다. 에드 시런은 이날 자신의 인스타그램에 "슬프]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아델 “보물 1호는 셀린 디온이 씹던 껌, 액자에 보관중”[해외이슈]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003548516</id>
-        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003548516"/>
-        <updated>2021-10-25T01:07:30.927Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 팝스타 아델이 셀린 디온에 존경심을 드러냈다. 아델은 최근 미국 패션지 ‘보그’의 인기 코너 ‘73 퀘스천스(Questions)’에 등장해 컴백 소감과 근황 등을 전했다. 그는 자]]></content>
     </entry>
 </feed>
