@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-25T14:19:53.058Z</updated>
+    <updated>2021-10-25T15:19:14.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘콜드 건’인줄 알았는데... 볼드윈, 총 쏘는 연기하다 실탄 격발]]></title>
+        <id>https://entertain.naver.com/now/read?oid=022&amp;aid=0003631643</id>
+        <link href="https://entertain.naver.com/now/read?oid=022&amp;aid=0003631643"/>
+        <updated>2021-10-25T15:19:14.090Z</updated>
+        <content type="html"><![CDATA[알렉 볼드윈. AFP연합뉴스 미국 할리우드 유명 배우 알렉 볼드윈(63)의 영화 촬영장에서 발생한 총기 사망사고 당시 사격하는 장면 촬영도중 공포탄이 아닌 실탄이 발사되면서 촬영감독이 가슴에 총을 맞고 숨진 것으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["볼드윈 카메라 향해 총 쏘는 장면 연습하다 권총 격발돼"(종합)]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012746240</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012743884"/>
         <updated>2021-10-25T01:07:30.924Z</updated>
         <content type="html"><![CDATA[ABC 드라마 '더 루키' 제작자 "진짜총 사용 즉각 중단한다" (서울=연합뉴스) 이주영 기자 = "영화 촬영 후 편집과정에서 컴퓨터 그래픽(CG)으로 총격 장면을 진짜와 똑같이 만들어 낼 수 있는데 왜 촬영장에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['총기사고' 알렉 볼드윈에 "실탄없는 콜드건" 말한 이는 24세 조감독(종합)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005677460</id>
-        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005677460"/>
-        <updated>2021-10-25T01:07:30.925Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자,정윤미 기자 = 영화 '러스트' 촬영장에서 할리우드 배우 알렉 볼드윈이 쏜 소품용 총에서 실제 탄환이 발사돼 촬영 감독인 할리나 허친스가 사망한 가운데, 해당 소품용 총을 건넸던 이가 조]]></content>
     </entry>
 </feed>
