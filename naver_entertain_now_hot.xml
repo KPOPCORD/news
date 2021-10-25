@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-10-25T18:24:26.934Z</updated>
+    <updated>2021-10-25T19:17:45.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정소민, 투명한 아름다움 [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940600</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000940600"/>
+        <updated>2021-10-25T19:17:39.037Z</updated>
+        <content type="html"><![CDATA[정소민, 투명한 아름다움 [화보] 매거진 &lt;싱글즈&gt;가 배우 정소민의 화보를 공개했다. 이번 화보에서 정소민은 맑고 청초한 분위기를 선보이며 보는 이들의 시선을 압도했다. 이슬처럼 반짝이는 피부를 자랑하는 정소민에게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍종현, 사진작가로 전시회 참여]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940599</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=032&amp;aid=0003106005"/>
         <updated>2021-10-25T13:26:16.453Z</updated>
         <content type="html"><![CDATA[[경향신문] ‘원조 살인미소’ 김재원의 육아기 ■옥탑방의 문제아들(KBS2 오후 10시45분) = ‘원조 살인미소’이자 현 ‘이준이 아빠’로 활약하고 있는 배우 김재원이 &lt;옥문아&gt;를 찾는다. 요즘 이준이 아빠로 더]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021년 10월 26일 [케이블·위성 하이라이트]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=032&amp;aid=0003106004</id>
-        <link href="https://entertain.naver.com/now/read?oid=032&amp;aid=0003106004"/>
-        <updated>2021-10-25T13:26:16.454Z</updated>
-        <content type="html"><![CDATA[[경향신문] ■ 영화 ■ 나의 첫 번째 슈퍼스타(캐치온1 오후 6시50분) = 음악 프로듀서가 되기를 꿈꾸는 매기(다코타 존슨)는 10년 전 히트곡 하나로 슈퍼스타의 자리를 유지하고 있는 그레이스(트레시 엘리스 로스]]></content>
     </entry>
 </feed>

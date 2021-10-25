@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-25T18:24:26.931Z</updated>
+    <updated>2021-10-25T19:17:45.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서인국, 10월 23일 생일 기념 ‘최애돌 셀럽’ 기부요정 등극]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001364378</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001364378"/>
+        <updated>2021-10-25T19:17:32.885Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 서인국이 셀럽 인기 순위 서비스 ‘최애돌 셀럽’에서 10월 23일, 120,655,394표를 받아 배우 카테고리 제8대 기부요정에 이름을 올렸다. 서른다섯 번째 생일을 맞은 서인국을 위해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인디가수 임세모, 10월 31일 ‘널 위한 Music’ 출격]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001364376</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003548692"/>
         <updated>2021-10-25T09:20:53.158Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 이승록 기자] 그룹 NCT 127(엔시티 127)이 컴백했다. NCT 127은 25일 오후 6시 정규 3집 리패키지 '페이보릿(Favorite)'을 발표하고 타이틀곡 'Favorite(Vampire)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["내 맘대로 될 테지"…'라이언전 제작' 버가부, 당찬 출사표 [신곡in가요]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004620395</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004620395"/>
-        <updated>2021-10-25T09:20:53.159Z</updated>
-        <content type="html"><![CDATA[그룹 버가부(bugAboo)가 남다른 존재감으로 가요계에 데뷔했다. 버가부(초연, 유우나, 레이니, 지인, 은채, 시안)는 25일 오후 6시 첫 번째 싱글 앨범 '버가부'를 발표하고 정식 데뷔했다. 버가부는 상상 속]]></content>
     </entry>
 </feed>
