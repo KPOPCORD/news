@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-25T19:17:45.641Z</updated>
+    <updated>2021-10-25T20:21:57.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘트롯 대세’ 임영웅, ‘2021 AAA’ 참석 확정]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001364387</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001364387"/>
+        <updated>2021-10-25T20:21:39.359Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 명실상부 음원 강자 임영웅이 ‘2021 Asia Artist Awards’에 참석, 관객들의 귀 호강을 예고했다. 임영웅은 오는 12월 2일(목)에 열리는 ‘2021 Asia Artist]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[루미너스, “우리만의 음악 스타일 만들고파” (롤링스톤 코리아)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001364383</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001364383"/>
+        <updated>2021-10-25T20:21:39.360Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 25일 오후 1시, 롤링스톤 코리아는 공식 유튜브 채널과 홈페이지를 통해 신인 보이 그룹 루미너스 영상 인터뷰와 웹진 인터뷰를 공개했다. 롤링스톤 코리아와의 영상 인터뷰를 통해 루미너스는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서인국, 10월 23일 생일 기념 ‘최애돌 셀럽’ 기부요정 등극]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001364378</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000325338"/>
         <updated>2021-10-25T09:20:53.156Z</updated>
         <content type="html"><![CDATA[[스포티비뉴스=장진리 기자] 그룹 버가부가 팀명과 같은 데뷔곡으로 핫한 데뷔를 알렸다. 버가부는 25일 오후 6시 데뷔곡 '버가부'의 음원과 뮤직비디오를 공개했다. 버가부는 아이유 '셀러브리티', 오마이걸 '돌핀',]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“내 얼굴에 대고 말해” 에픽하이, 악플러 향한 통쾌한 일침 ‘FACE ID’[들어보고서]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000503662</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000503662"/>
-        <updated>2021-10-25T09:20:53.157Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 에픽하이(EPIK HIGH/타블로, 투컷, 미쓰라진)이 코로나19 시국 속 유의미한 메시지를 담은 신곡으로 돌아왔다. 에픽하이는 10월 25일 오후 6시 국내외 음원 사이트를 통해 새 디]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["사랑해, 더 지독하게 아프고 싶어"…NCT127 '페이보릿', 치명적 컴백 [MD신곡]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003548692</id>
-        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003548692"/>
-        <updated>2021-10-25T09:20:53.158Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 이승록 기자] 그룹 NCT 127(엔시티 127)이 컴백했다. NCT 127은 25일 오후 6시 정규 3집 리패키지 '페이보릿(Favorite)'을 발표하고 타이틀곡 'Favorite(Vampire)]]></content>
     </entry>
 </feed>
