@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-25T09:21:06.650Z</updated>
+    <updated>2021-10-25T10:24:06.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이병헌·이정재, 美 LACMA 참석…스티븐 스필버그 등 거물 집결]]></title>
+        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005679662</id>
+        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005679662"/>
+        <updated>2021-10-25T10:24:05.388Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 이정재와 이병헌이 미국 유명인들이 참여하는 행사에 초청을 받았다. 25일 이병헌 소속사 BH엔터테인먼트, 이정재 소속사 아티스트컴퍼니에 따르면 두 사람은 모두 오는 11월6일 미]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엔하이픈 정규 1집, 미국 빌보드 앨범 차트 11위]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012745993</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003548516"/>
         <updated>2021-10-25T01:07:30.927Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 팝스타 아델이 셀린 디온에 존경심을 드러냈다. 아델은 최근 미국 패션지 ‘보그’의 인기 코너 ‘73 퀘스천스(Questions)’에 등장해 컴백 소감과 근황 등을 전했다. 그는 자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["함께 춤춰요!"…방탄소년단, 1년 만의 콘서트에 담은 전 세계 향한 희망 메시지]]></title>
-        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003548514</id>
-        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003548514"/>
-        <updated>2021-10-25T01:07:30.927Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 그룹 방탄소년단이 24일 온라인 콘서트 '비티에스 퍼미션 투 댄스 온 스테이지(BTS PERMISSION TO DANCE ON STAGE)'를 성황리에 마쳤다. 방탄소년단은 1년 만의]]></content>
     </entry>
 </feed>

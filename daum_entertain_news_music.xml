@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-25T09:21:06.656Z</updated>
+    <updated>2021-10-25T10:24:06.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['그래미 여왕' 노라 존스, 첫 크리스마스 앨범 'I Dream of Christmas' 발매]]></title>
+        <id>https://entertain.v.daum.net/v/20211025184801395</id>
+        <link href="https://entertain.v.daum.net/v/20211025184801395"/>
+        <updated>2021-10-25T10:23:29.660Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 세계적인 보컬리스트 노라 존스가 첫 번째 크리스마스 앨범을 공개했다.노라 존스  크리스마스 앨범 ‘I Dream of Christmas(아이 드림 오브 크리스마스)’가 발매됐다. 2002년 ‘Come Away With Me(컴 어웨이 위드 미)’로 반향을 일으키며 데뷔한 이래 20년간 수많은 팬들을 낳은 노라 존스의 첫 크리스마스 앨범에 기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뱀파이어 된 NCT 127, 치명적인 사랑 노래 '페이보릿']]></title>
         <id>https://entertain.v.daum.net/v/20211025180505516</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211025163231546"/>
         <updated>2021-10-25T08:24:01.725Z</updated>
         <content type="html"><![CDATA[[티브이데일리 박상후 기자] 가수 박군(본명 박준우)이 자신을 둘러싼 여러 의혹들에 대해 전면 부인했다. 정확한 사실을 밝히고자 강경한 법적 대응을 예고한 가운데, 진실 여부에 대한 관심이 모아지고 있다. 지난 22일 한 누리꾼은 온라인 커뮤니티에 '특수부대 출신 가수 P에게 가스라이팅을 당했습니다'라는 제목의 글을 게재했다. 해당 글을 통해 누리꾼은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유흥비 탕진·데이트 폭력까지..최성봉, 어쩌다 괴물이 됐나]]></title>
-        <id>https://entertain.v.daum.net/v/20211025161207776</id>
-        <link href="https://entertain.v.daum.net/v/20211025161207776"/>
-        <updated>2021-10-25T07:20:00.473Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김한길 기자] 거짓 암 투병 의혹에 휩싸인 가수 최성봉에 대한 최측근들의 폭로가 쏟아져 충격을 안기고 있다. 최성봉은 지난 2011년 tvN 오디션프로그램 '코리아 갓 탤런트' 시즌1에 출연해 출중한 노래 실력으로 준우승을 차지했다. 당시 불우한 환경 등 여러 역경을 이겨낸 스토리로 '한국의 폴 포츠'라 불리며 많은 관심을 받았다. 그러나]]></content>
     </entry>
 </feed>
