@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-25T16:31:34.066Z</updated>
+    <updated>2021-10-25T17:24:58.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인디가수 임세모, 10월 31일 ‘널 위한 Music’ 출격]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001364376</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001364376"/>
+        <updated>2021-10-25T17:24:42.727Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 인디음악 씬의 대표 매거진인 ‘인디View’와 ‘스페이스홍’이 공동으로 기획하는 공연 '널 위한 Music' 시리즈에 인디가수 임세모가 출연을 예고했다. 매 공연 신인 혹은 유망한 아티스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅 ‘여백’ 영상 600만뷰 돌파, “호소력 짙은 감성”]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003548779</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004620395"/>
         <updated>2021-10-25T09:20:53.159Z</updated>
         <content type="html"><![CDATA[그룹 버가부(bugAboo)가 남다른 존재감으로 가요계에 데뷔했다. 버가부(초연, 유우나, 레이니, 지인, 은채, 시안)는 25일 오후 6시 첫 번째 싱글 앨범 '버가부'를 발표하고 정식 데뷔했다. 버가부는 상상 속]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팝's신곡]"열병같이 다가와 날 멸망 시켜"‥NCT 127, 네가 전부인 'Favorite']]></title>
-        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003490730</id>
-        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003490730"/>
-        <updated>2021-10-25T09:20:53.162Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=김나율기자]그룹 NCT 127이 비극적인 사랑 이야기로 돌아왔다. 25일 오후 6시 NCT 127의 정규 3집 리패키지 앨범 'Favorite'의 전곡 음원과 타이틀곡 'Favorite'의 뮤직비디오가]]></content>
     </entry>
 </feed>

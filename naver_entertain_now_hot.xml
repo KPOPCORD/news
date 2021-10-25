@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-10-25T16:31:34.069Z</updated>
+    <updated>2021-10-25T17:24:58.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안효섭, 겨울 남자의 카리스마 [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940597</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000940597"/>
+        <updated>2021-10-25T17:24:49.969Z</updated>
+        <content type="html"><![CDATA[안효섭, 겨울 남자의 카리스마 [화보] 배우 안효섭이 부드러운 카리스마를 드러냈다. 공개된 화보 속 안효섭은 한층 성숙해진 눈빛으로 부드러운 매력을 자아내며 화보 장인 다운 면모를 보였다. 특히 윈터 컬렉션의 아이템]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김유정, 시크한 눈빛 [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940596</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000940596"/>
+        <updated>2021-10-25T17:24:49.970Z</updated>
+        <content type="html"><![CDATA[김유정, 시크한 눈빛 [화보] 배우 김유정의 한층 짙어진 매력이 담긴 화보가 공개됐다. 공개된 화보에서 김유정은 청순한 비주얼과 한층 짙어진 성숙미를 발산하며 다채로운 매력을 가감 없이 드러냈다. 화보 속 김유정은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘차인표♥’ 신애라, ‘시고르경양식’ 홍보 “남편이 프랑스 요리를?”[똑똑SNS]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000825850</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002999493"/>
         <updated>2021-10-25T13:26:16.457Z</updated>
         <content type="html"><![CDATA[견미리 딸 배우 이유비가 쇄골 미녀 자태를 뽐냈다. 이유비는 25일 오후 자신의 인스타그램에 "냠"이라는 글과 사진을 게재했다. 공개된 사진에는 아이스크림을 먹고 있는 이유비의 모습이 담겼다. 그녀는 귀여운 표정으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["소중하지 않으면 냅 둬" 서장훈, '19금 영화에 꽂힌 8세 아들' 사연에 분노 ('물어보살')[종합]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003793579</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003793579"/>
-        <updated>2021-10-25T13:26:16.459Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 이게은기자] '무엇이든 물어보살' 방송인 서장훈이 초등학생 자녀의 청불 영화 관람을 막지 못한 의뢰인에게 분노했다. 25일 방송된 KBS Joy 예능프로그램 '무엇이든 물어보살'에서는 한 모자(母子)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빅톤 11월 9일 팬송 발표 [공식]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940578</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000940578"/>
-        <updated>2021-10-25T12:33:45.567Z</updated>
-        <content type="html"><![CDATA[빅톤 11월 9일 팬송 발표 [공식] 그룹 빅톤(VICTON)이 5주년을 맞아 팬송을 발표한다. 소속사 플레이엠엔터테인먼트 측은 25일 “빅톤이 오는 11월 9일 데뷔 5주년 기념 팬송을 발표한다”고 밝혔다. 이로써]]></content>
     </entry>
 </feed>
