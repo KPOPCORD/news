@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-10-25T17:24:58.198Z</updated>
+    <updated>2021-10-25T18:24:26.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[홍종현, 사진작가로 전시회 참여]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940599</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000940599"/>
+        <updated>2021-10-25T18:24:18.881Z</updated>
+        <content type="html"><![CDATA[홍종현, 사진작가로 전시회 참여 배우 홍종현이 사진작가로 깜짝 변신하며 다재다능한 면모를 드러냈다. 소속사 씨제스엔터테인먼트는 “홍종현이 23일부터 27일까지 서울 푸에스토 갤러리에서 개최되는 전시에 작가로 참여했다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘스우파’ 노제, 팔색조 매력 [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940598</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000940598"/>
+        <updated>2021-10-25T18:24:18.891Z</updated>
+        <content type="html"><![CDATA[‘스우파’ 노제, 팔색조 매력 [화보] 패션 매거진 &lt;하퍼스 바자&gt;에서 댄서 노제와 함께한 화보를 공개했다. 최근 노제는 Mnet 서바이벌 프로그램 ‘스트릿 우먼 파이터’에서 뜨거운 관심을 받으며 활발한 활동을 펼치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안효섭, 겨울 남자의 카리스마 [화보]]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940597</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=032&amp;aid=0003106004"/>
         <updated>2021-10-25T13:26:16.454Z</updated>
         <content type="html"><![CDATA[[경향신문] ■ 영화 ■ 나의 첫 번째 슈퍼스타(캐치온1 오후 6시50분) = 음악 프로듀서가 되기를 꿈꾸는 매기(다코타 존슨)는 10년 전 히트곡 하나로 슈퍼스타의 자리를 유지하고 있는 그레이스(트레시 엘리스 로스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유다인♥민용근 결혼 “축하해주신 마음 간직” [종합]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940584</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000940584"/>
-        <updated>2021-10-25T13:26:16.456Z</updated>
-        <content type="html"><![CDATA[유다인♥민용근 결혼 “축하해주신 마음 간직” [종합] 배우 유다인(37)과 민용근(45) 감독이 결혼 소감을 밝혔다. 2011년 2월 개봉한 영화 ‘혜화, 동’에서 배우와 감독으로 인연을 맺은 유다인과 민용근. 이후]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['견미리 딸' 이유비, '쇄골 미녀' 자태..'물 고일 듯한 쇄골' [스타IN★]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002999493</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002999493"/>
-        <updated>2021-10-25T13:26:16.457Z</updated>
-        <content type="html"><![CDATA[견미리 딸 배우 이유비가 쇄골 미녀 자태를 뽐냈다. 이유비는 25일 오후 자신의 인스타그램에 "냠"이라는 글과 사진을 게재했다. 공개된 사진에는 아이스크림을 먹고 있는 이유비의 모습이 담겼다. 그녀는 귀여운 표정으로]]></content>
     </entry>
 </feed>
