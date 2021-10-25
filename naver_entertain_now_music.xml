@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-25T12:33:54.003Z</updated>
+    <updated>2021-10-25T13:26:23.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[눈부신 잘생김..임영웅, '실물이 더 빛나는 스타' 1위]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002999499</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002999499"/>
+        <updated>2021-10-25T13:26:10.136Z</updated>
+        <content type="html"><![CDATA[가수 임영웅이 '실물이 더 빛나는 스타' 1위에 올랐다. 임영웅은 팬앤스타 포토톡 10월 3주차 '실물이 더 빛나는 스타' 투표에서 48만 7014표를 획득, 1위를 차지했다. 1위에 오른 사진 속 임영웅은 검은색]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엔하이픈, 정규 1집 美 '빌보드 200' 11위…두 번째 입성]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010791267</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000769577"/>
         <updated>2021-10-25T09:20:53.167Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 밴드 몽니 정규 5집 선공개 곡이 베일을 벗었다. 몽니(보컬 김신의, 베이스 이인경, 기타 공태우, 드럼 정훈태)는 25일 정오 정규 5집 선공개 곡 ‘별이었던 너’를 발매했다. ‘별이었던 너’는 소중]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱어송라이터 심규선, 새 미니앨범 ‘소로 小路’ 한정판 LP 예약 판매 시작]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000769575</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000769575"/>
-        <updated>2021-10-25T09:20:53.168Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 싱어송라이터 심규선이 신보 발매에 이어 한정판으로 제작된 LP를 선보인다. 25일 소속사 헤아릴규 측은 “오늘 정오부터 각종 온라인 음반 사이트를 통해 심규선의 새 미니앨범 ‘소로 小路’ 한정판 LP]]></content>
     </entry>
 </feed>
