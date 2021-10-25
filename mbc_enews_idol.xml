@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 01:07:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 02:36:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[포토] 류수영 포착, 박하선의 씨네타운 '스페셜 외조']]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328807</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328807</guid>
+            <pubDate>Mon, 25 Oct 2021 02:35:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328807">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/25/258d6e84-79bc-4514-b30c-8e3c40c3ad9e.jpg" alt="[포토] 류수영 포착, 박하선의 씨네타운 '스페셜 외조'">        <div class="text-box">            <p class="summary">[포토] 류수영 포착, 박하선의 씨네타운 '스페셜 외조'</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/25/258d6e84-79bc-4514-b30c-8e3c40c3ad9e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["제2의 방탄, 투바투"…빅히트 오디션 합격 비법]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/328791</link>
@@ -86,14 +94,6 @@
             <pubDate>Mon, 25 Oct 2021 01:06:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328772">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/25/66861e0c-15f9-4f1f-9f2d-d3db854a0a6c.jpg" alt="[포토] 방탄소년단(BTS) 뷔, '미소 찾은 태태'">        <div class="text-box">            <p class="summary">[포토] 방탄소년단(BTS) 뷔, '미소 찾은 태태'</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/25/66861e0c-15f9-4f1f-9f2d-d3db854a0a6c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 방탄소년단(BTS) 제이홉 지민 슈가, 'ARMY 곧 만나']]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328771</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328771</guid>
-            <pubDate>Mon, 25 Oct 2021 01:06:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328771">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/25/f680ca4b-6e72-4439-83d7-015594077dab.jpg" alt="[포토] 방탄소년단(BTS) 제이홉 지민 슈가, 'ARMY 곧 만나'">        <div class="text-box">            <p class="summary">[포토] 방탄소년단(BTS) 제이홉 지민 슈가, 'ARMY 곧 만나'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/25/f680ca4b-6e72-4439-83d7-015594077dab.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
