@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-25T21:18:31.855Z</updated>
+    <updated>2021-10-25T22:21:22.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["총이 아니라 알렉 볼드윈이 사람 죽여"…트럼프 아들 조롱]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012746366</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012746366"/>
+        <updated>2021-10-25T22:21:21.509Z</updated>
+        <content type="html"><![CDATA[(워싱턴=연합뉴스) 백나리 특파원 = 도널드 트럼프 전 대통령의 장남 도널드 트럼프 주니어가 영화 촬영 리허설 과정에 총기 사고를 낸 할리우드 배우 알렉 볼드윈을 조롱했다. 25일(현지시간) 트럼프 주니어의 홈페이지]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[채닝 테이텀♥조 크라비츠 뉴욕서 공개 열애, “새로운 커플 탄생” 축하[해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003548799</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003548799"/>
+        <updated>2021-10-25T22:21:21.511Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 채닝 테이텀(41)과 조 크라비츠(32)가 공개 열애를 시작했다. 24일(현지시간) 페이지식스는 이들이 뉴욕에서 길거리 데이트를 즐기는 사진을 게재했다. 채닝 테이텀은 크림]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘콜드 건’인줄 알았는데... 볼드윈, 총 쏘는 연기하다 실탄 격발]]></title>
         <id>https://entertain.naver.com/now/read?oid=022&amp;aid=0003631643</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=022&amp;aid=0003631380"/>
         <updated>2021-10-25T01:07:30.923Z</updated>
         <content type="html"><![CDATA[런던=AP 영국의 대표 싱어송라이터 에드 시런(사진)이 신종 코로나바이러스 감염증(코로나19) 확진 판정을 받았다. 이 같은 소식은 지난 24일(현지시간) 영국 공영방송 BBC가 전했다. 보도에 따르면 에드 시런은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['프렌즈' 건터役 제임스 마이클 타일러, 전립선암 투병 끝 사망…향년 59세 [엑's 할리우드]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001364019</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001364019"/>
-        <updated>2021-10-25T01:07:30.924Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 미드 '프렌즈'의 신스틸러 건터 역으로 유명한 배우 제임스 마이클 타일러가 별세했다. 24일(현지시간) 미국 데드라인을 비롯한 다수 매체는 전립선암으로 투병 중이던 제임스 마이클 타일러가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[볼드윈 총격사고에 영화계 진짜총 퇴출론…"CG로 충분하다"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012743884</id>
-        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012743884"/>
-        <updated>2021-10-25T01:07:30.924Z</updated>
-        <content type="html"><![CDATA[ABC 드라마 '더 루키' 제작자 "진짜총 사용 즉각 중단한다" (서울=연합뉴스) 이주영 기자 = "영화 촬영 후 편집과정에서 컴퓨터 그래픽(CG)으로 총격 장면을 진짜와 똑같이 만들어 낼 수 있는데 왜 촬영장에서]]></content>
     </entry>
 </feed>

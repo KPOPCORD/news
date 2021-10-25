@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 21:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 22:21:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['라켓보이즈' 윤두준, 전지훈련서 빛난 훈훈 '운동돌' 면모]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328878</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328878</guid>
+            <pubDate>Mon, 25 Oct 2021 22:20:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328878">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/26/d9a15081-c856-461c-95f2-618222400316.jpg" alt="'라켓보이즈' 윤두준, 전지훈련서 빛난 훈훈 '운동돌' 면모">        <div class="text-box">            <p class="summary">'라켓보이즈' 윤두준, 전지훈련서 빛난 훈훈 '운동돌' 면모</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/26/d9a15081-c856-461c-95f2-618222400316.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[움짤] 웬디, '완소 완디 와니' Like Wendy~]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/328872</link>
@@ -86,14 +94,6 @@
             <pubDate>Mon, 25 Oct 2021 05:18:39 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328830">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/25/jbw3YvWrCTzw637707662658247569.jpg" alt="방탄소년단, 새 투어 화려하게 열었다 " 상황="" 좋아지는="" 느낌""="">        <div class="text-box">            <p class="summary">방탄소년단, 새 투어 화려하게 열었다 "상황 좋아지는 느낌"</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/25/jbw3YvWrCTzw637707662658247569.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손태진X레드벨벳 웬디 듀엣곡 '깊어지네' 영화 같은 티저 '애틋']]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328825</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328825</guid>
-            <pubDate>Mon, 25 Oct 2021 05:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328825">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/25/pDS0quEjPuu6637707655712920919.jpg" alt="손태진X레드벨벳 웬디 듀엣곡 '깊어지네' 영화 같은 티저 '애틋'">        <div class="text-box">            <p class="summary">손태진X레드벨벳 웬디 듀엣곡 '깊어지네' 영화 같은 티저 '애틋'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/25/pDS0quEjPuu6637707655712920919.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
