@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-25T04:27:05.026Z</updated>
+    <updated>2021-10-25T05:19:17.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[영상] 니콜라스 케이지, 27살 일본인 아내와 과감한 스킨십]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012745179</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012745179"/>
+        <updated>2021-10-25T05:19:16.411Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 미국 할리우드 배우 니콜라스 케이지가 31살 연하의 일본인 아내와 독특한 화보를 촬영했습니다. 니콜라스 케이지와 시바라 리코 부부는 검정색 가죽 의상을 맞춰 입고 미국 패션지 '플론트' 10월호 커]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아델, 보물 1호라며 보여준 액자엔…씹다 버린 껌이, 누구 거길래?]]></title>
         <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004660994</id>
@@ -20,7 +27,7 @@
         <content type="html"><![CDATA[리사, 푸껫서 신년맞이 공연…SNS서 태국 언급 크로에 정부 '홍보 대사' 감사 (방콕=연합뉴스) 김남권 특파원 = 내달 1일 한국을 비롯한 46개국을 대상으로 한 국경 재개방을 앞두고 태국 정부가 K팝 스타와 할리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[알렉 볼드윈 살인사고에 조카 헤일리도 충격..저스틴 비버 "베이비♥︎" 아내 위로 (종합)[Oh!llywood]]]></title>
+        <title type="html"><![CDATA[알렉 볼드윈 총기사고에 조카 헤일리도 충격..저스틴 비버 "베이비♥︎" 아내 위로 (종합)[Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004497935</id>
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004497935"/>
         <updated>2021-10-25T02:36:24.376Z</updated>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005676531"/>
         <updated>2021-10-24T06:24:01.672Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 윤효정 기자 = 팝스타 마돈나가 파격적인 패션으로 시선을 끌었다. 마돈나는 24일 인스타그램에 자신의 사진들을 게재했다. 금발머리를 땋아 독특한 헤어스타일을 한 모습이다. 볼륨감 넘치는 몸매가 드러나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스틴 스튜어트, 진 세버그..."스스로 당당해지는 데 도움 됐으면"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010788144</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010788144"/>
-        <updated>2021-10-24T06:24:01.674Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스] 이수지 기자 = 배우 크리스틴 스튜어트가 진 세버그(1938~1979)의 실화 영화 '세버그' 출연 이유를 털어놓았다. 스튜어트는 이 영화의 수입사 (주)블루라벨픽쳐스가 24일 공개한 인터뷰에서 진]]></content>
     </entry>
 </feed>
