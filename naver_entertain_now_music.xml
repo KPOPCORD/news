@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-25T13:26:23.699Z</updated>
+    <updated>2021-10-25T14:19:53.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘미술과 음악의 아름다운 콜라보’ 비디뮤직, 클래식·재즈 시리즈 박스세트 발매]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000769611</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000769611"/>
+        <updated>2021-10-25T14:19:38.907Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 유럽 화가들의 일러스트와 함께 역사적인 명연을 감상할 수 있는 비디뮤직 박스세트가 발매됐다고 레이블 굿인터내셔널이 25일 밝혔다. 비디뮤직 클래식 시리즈는 10명의 클래식 작곡가의 작품을 20장의 CD]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[눈부신 잘생김..임영웅, '실물이 더 빛나는 스타' 1위]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002999499</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003548689"/>
         <updated>2021-10-25T09:20:53.166Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 오윤주 기자] 그룹 저스트비가 컴백 전 팬들의 응원을 충전했다. 저스트비 지난 24일 트위터를 통해 블루룸 Q&amp;A 라이브 방송을 진행하며 컴백을 앞두고 팬들과 특별한 소통의 시간을 가졌다. 임지민이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밴드 몽니, 정규 5집 선공개 곡 ‘별이었던 너’ 발매]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000769577</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000769577"/>
-        <updated>2021-10-25T09:20:53.167Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 밴드 몽니 정규 5집 선공개 곡이 베일을 벗었다. 몽니(보컬 김신의, 베이스 이인경, 기타 공태우, 드럼 정훈태)는 25일 정오 정규 5집 선공개 곡 ‘별이었던 너’를 발매했다. ‘별이었던 너’는 소중]]></content>
     </entry>
 </feed>

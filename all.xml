@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 13:26:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 14:19:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,14 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211019075917_48877dfb4dca3f6f4b51ba880cd7e41b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[움짤] 웬디, '완소 완디 와니' Like Wendy~ (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328872</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328872</guid>
+            <pubDate>Mon, 25 Oct 2021 14:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328872">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/25/8a2668e2-db50-4a1d-a53d-ad389bec2561.jpg" alt="[움짤] 웬디, '완소 완디 와니' Like Wendy~">        <div class="text-box">            <p class="summary">[움짤] 웬디, '완소 완디 와니' Like Wendy~</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/25/8a2668e2-db50-4a1d-a53d-ad389bec2561.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[포토] 웬디, '나 오늘 달라진거 없어?' (MBC 연예 ─ 아이돌)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/328862</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328862</guid>
@@ -768,12 +776,11 @@
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/25/pDS0quEjPuu6637707655712920919.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[포토] 류수영 포착, 박하선의 씨네타운 '스페셜 외조' (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328807</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328807</guid>
-            <pubDate>Mon, 25 Oct 2021 02:35:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328807">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/25/258d6e84-79bc-4514-b30c-8e3c40c3ad9e.jpg" alt="[포토] 류수영 포착, 박하선의 씨네타운 '스페셜 외조'">        <div class="text-box">            <p class="summary">[포토] 류수영 포착, 박하선의 씨네타운 '스페셜 외조'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/25/258d6e84-79bc-4514-b30c-8e3c40c3ad9e.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['미술과 음악의 아름다운 콜라보' 비디뮤직, 클래식·재즈 시리즈 박스세트 발매 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211025230825996</link>
+            <guid>https://entertain.v.daum.net/v/20211025230825996</guid>
+            <pubDate>Mon, 25 Oct 2021 14:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 유럽 화가들의 일러스트와 함께 역사적인 명연을 감상할 수 있는 비디뮤직 박스세트가 발매됐다고 레이블 굿인터내셔널이 25일 밝혔다. 비디뮤직 클래식 시리즈는 10명의 클래식 작곡가의 작품을 20장의 CD + 아트북으로 구성된 박스세트이다. 시리즈는 20세기 대가들의 역사적인 레코딩을 아름다운 삽화와 함께 감상할 수 있는 콜렉터 에디션으로 20]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[눈부신 잘생김..임영웅, '실물이 더 빛나는 스타' 1위 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
@@ -874,11 +881,81 @@
             <content:encoded><![CDATA[[스포츠투데이 백지연 기자] 대세 보컬리스트 김필이 화제작 tvN '지리산' OST의 첫 번째 주자로 발탁되었다. 대세 아티스트의 대거 OST 참여로 탄탄한 스토리와 흡입력 넘치는 연출뿐 아니라 드라마 음악에 대한 기대감까지 모은 바 있던 '지리산'에 OST Part.1 'Destiny - 김필'이 첫 번째 주자로 화려하게 포문을 열어 대작의 탄생을 알렸다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[송하예 "변함없는 사람으로 늘 순수한 음악 들려드리고파" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211025173410581</link>
-            <guid>https://entertain.v.daum.net/v/20211025173410581</guid>
-            <pubDate>Mon, 25 Oct 2021 09:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 현혜선 기자] 가수 송하예가 이별의 감성을 듬뿍 담은 신곡으로 돌아왔다. 송하예는 지난 23일 각종 음원사이트를 통해 새 싱글 ‘사랑했던 우리가 어떻게 친구가 되니(사우친)’를 발매했다. ‘사랑했던 우리가 어떻게 친구가 되니’는 사랑했던 순간을 지나 이별을 마주한 남녀의 복잡한 감정을 담은 발라드 곡이다. 가슴을 울리는 애절한 멜로디와 솔직하]]></content:encoded>
+            <title><![CDATA['동상이몽2' 홍성기 "하하, 17년 전 만났는데 서운했었다"..이유는? (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211025231633046</link>
+            <guid>https://entertain.v.daum.net/v/20211025231633046</guid>
+            <pubDate>Mon, 25 Oct 2021 14:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[‘동상이몽2’ 이현이의 남편 홍성기가 하하와의 악연을 공개한다. 25일 오후 방송되는 SBS 예능프로그램 ‘동상이몽 시즌2 - 너는 내 운명’(이하 ‘동상이몽2’)에서는 이현이가 동갑내기 절친 별과 김수미를 집으로 초대한다. 이현이와 마찬가지로 육아로 지친 워킹맘 별과 김수미를 위해 남편 홍성기가 ‘홈캉스’를 준비한다. 홍성기는 직접 음식까지 대접하며]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['홍천기' 안효섭→공명 "내가 없어지면 김유정 부탁한다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211025231501039</link>
+            <guid>https://entertain.v.daum.net/v/20211025231501039</guid>
+            <pubDate>Mon, 25 Oct 2021 14:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[홍천기(김유정 분)는 화차와 손을 잡았고, 하람(안효섭 분)은 자신의 할아버지로부터 가락지를 깨트리고 봉인식을 하라는 조언을 들었다. 하람이 그 말대로 가락지를 깨트리고 힘을 잃으면서, 두번째 봉인식이 무사히 진행될지 기대가 모아졌다. 25일 방송된 SBS 드라마 ‘홍천기’에서는 각각 주향대군(곽시양 분)과 마왕 때문에 아버지를 잃은 홍천기, 하람 두 사]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['시고르 경양식' 최지우→차인표, 좌충우돌 프렌치 레스토랑 도전기 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211025230302942</link>
+            <guid>https://entertain.v.daum.net/v/20211025230302942</guid>
+            <pubDate>Mon, 25 Oct 2021 14:19:26 GMT</pubDate>
+            <content:encoded><![CDATA['시고르 경양식' 첫 영업이 마무리됐다. 25일 첫 방송된 JTBC 새 예능프로그램 '시고르 경양식'에서는 프렌치 팝업 레스토랑을 준비하는 최지우, 차인표, 이장우, 이수혁, 조세호의 모습이 그려졌다. 이날 먼저 도착한 차인표와 최지우는 담소를 나누며 다른 멤버들을 기다렸다. 차인표는 "애기가 14개월이면 잘 걸어다니겠다"고 묻자, 최지우는 "신애라]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['안다행' 김정환X김준호X오상욱, 펜싱 3인방 자급자족 "해병대 캠프 온 줄" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211025224731812</link>
+            <guid>https://entertain.v.daum.net/v/20211025224731812</guid>
+            <pubDate>Mon, 25 Oct 2021 14:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=김은정 기자] '어펜져스' 3인방이 자급자족 생활을 해냈다.&nbsp; 25일 오후 방송된 MBC '안싸우면 다행이야'에서는 2020 도쿄 올림픽 펜싱 남자 사브르 단체전 금메달의 주역 김정환, 김준호, 오상욱의 리얼한 섬 생활이 공개됐다. 세 사람은 국가대표 생활을 하며 만난 10년 지기로 선후배이자 친구같은 사이다. 빽토커로는 이들을 잘 아는 전 펜]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[최지우→차인표, 스승 앞 실수 연발 '대환장 파티'..영업 가능할까 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211025224317797</link>
+            <guid>https://entertain.v.daum.net/v/20211025224317797</guid>
+            <pubDate>Mon, 25 Oct 2021 14:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 김준석 기자] 영업 오픈 전 실수가 연속으로 터졌다. 25일 방송된 JTBC 새 예능프로그램 '시고르 경양식'이 오픈을 앞두고 스승님들이 깜짝 방문했다. 이날 영업을 앞두고 멤버들과의 만남이 그려뎠다. 최지우와 차인표를 필두로 조세호 이장우 박수혁 등이 만남을 가졌다. 최강창민은 스케줄상 만나지 못했다. 대표인 최지우는 "다들]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[최지우→이수혁, '시고르경양식' 개업 D-1..프렌치 레스토랑 도전 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211025224119782</link>
+            <guid>https://entertain.v.daum.net/v/20211025224119782</guid>
+            <pubDate>Mon, 25 Oct 2021 14:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 박하나 기자 = '시고르 경양식'이 베일을 벗었다. 25일 오후 처음 방송된 JTBC 새 예능 프로그램 '시고르 경양식'에서는 '시고르 경양식' 개업을 앞둔 최지우, 차인표, 조세호, 이장우, 최강창민, 이수혁의 모습이 담겼다. 강원도 삼척 덕산마을의 마을회관을 개조해 프렌치 레스토랑을 열기로 한 이들은 정식 영업을 앞두고, 미슐랭 스타]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[샤이니 민호, '골프왕2' 부담감 고백.."솔직히 치기 싫었는데 이겨내" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211025224110778</link>
+            <guid>https://entertain.v.daum.net/v/20211025224110778</guid>
+            <pubDate>Mon, 25 Oct 2021 14:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 이지현 기자 = 샤이니 멤버 민호가 '골프왕2'에 대한 부담감을 고백했다. 25일 오후 방송된 TV조선 예능 프로그램 '골프왕2'에서는 민호가 첫 출연보다 많이 발전한 샷을 보여줬다. 민호의 폼을 본 장민호는 "연습 좀 하고 왔네"라고 칭찬했다. 김미현은 "이틀 동안 연습장에서 다섯 시간씩 치고 갔다"라고 알렸다. 민호는 골프채를 보]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['홍천기' 조성하, 곽시양에 분노 "네 죄를 스스로 알렸다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211025223301716</link>
+            <guid>https://entertain.v.daum.net/v/20211025223301716</guid>
+            <pubDate>Mon, 25 Oct 2021 14:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[조성하가 제멋대로 권력을 휘두르고 있던 곽시양에 분노했다. 25일 방송된 SBS 드라마 ‘홍천기’에서는 돌아온 성조(조성하 분)가 주향대군(곽시양 분)의 만행을 목격, 바로잡는 모습이 그려졌다. 홍천기는 백유화단 사람들이 처형되기 직전 저자에 나타났다. 홍천기는 "대군은 우리 아버지를 죽였다. 얼마나 더 많은 사람을 죽일 작정이시냐"며 화냈다. 주향대군]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김정환-김준호-오상욱, 펜싱장 대신 갯벌로..'완벽한 밥상' 차렸다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211025223109700</link>
+            <guid>https://entertain.v.daum.net/v/20211025223109700</guid>
+            <pubDate>Mon, 25 Oct 2021 14:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 이지현 기자 = '펜싱 삼형제'가 섬에서 뭉쳤다. 25일 오후 방송된 MBC 예능 프로그램 '안싸우면 다행이야'에서는 도쿄올림픽 펜싱 남자 사브르 단체전 금메달리스트 오상욱, 김준호, 김정환이 섬 생활에 나서 이목을 끌었다. 이들은 무인도에서의 첫 자급자족 라이프에 다소 불안해 했다. 그러면서도 김정환은 "낚시는 형한테 맡겨, 생선]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[최지우 딸 언급 "생후 14개월, 신애라도 귀엽다고" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211025222829668</link>
+            <guid>https://entertain.v.daum.net/v/20211025222829668</guid>
+            <pubDate>Mon, 25 Oct 2021 14:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] 최지우 딸 언급 “생후 14개월, 신애라도 귀엽다고” (시고르 경양식) 배우 최지우가 딸 근황을 전했다. 25일 첫 방송된 JTBC ‘시고르 경양식’에서는 최지우를 비롯해 프로그램 출연진들이 처음 만나 이야기를 나누는 모습이 그려졌다. 가장 먼저 도착한 최지우와 차인표는 서로의 근황을 이야기하며 친분을 드러냈다. 차인표가 “애기 예쁘냐. 14]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[최지우→차인표 '시고르 경양식' 스승 셰프 등장에 '반가움+긴장' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211025222700658</link>
+            <guid>https://entertain.v.daum.net/v/20211025222700658</guid>
+            <pubDate>Mon, 25 Oct 2021 14:19:26 GMT</pubDate>
+            <content:encoded><![CDATA['시고르 경양식' 멤버들이 프렌치 요리에 도전했다. 25일 첫 방송된 JTBC 새 예능프로그램 '시고르 경양식'에서는 팝업 레스토랑을 준비하는 최지우, 차인표, 이장우, 이수혁, 조세호의 모습이 그려졌다. 이날 멤버들은 영업 전 시뮬레이션을 가졌고, 그러던 중 '시고르 경양식' 스승님들인 프레데릭 셰프, 정래준 매니저, 조성균 셰프가 깜짝 등장했다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['시고르 경양식' 전문성 빛난 레스토랑 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
@@ -907,83 +984,6 @@
             <guid>https://entertain.v.daum.net/v/20211025215800333</guid>
             <pubDate>Mon, 25 Oct 2021 13:25:57 GMT</pubDate>
             <content:encoded><![CDATA[[TV리포트=이혜미 기자] 최지우에서 이수혁까지, 스타들이 한데 모인 ‘시고르 경양식’의 문이 열렸다. 25일 첫 방송된 JTBC ‘시고르 경양식’에선 최지우 차인표 이장우 이수혁 조세호의 레스토랑 운영기가 공개됐다. 정식 영업에 앞서 직원들이 한 자리에 모인 가운데 최지우는 “어색함을 없애보고자 자리를 마련했다. 편하게 자연스럽게 얘기해주길 바란다”면서]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김선호, '갯차' 의리ing..'1박 2일' 통편집 '설왕설래' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211025215003222</link>
-            <guid>https://entertain.v.daum.net/v/20211025215003222</guid>
-            <pubDate>Mon, 25 Oct 2021 13:25:57 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 하지원 기자) 드라마 '갯마을 차차차' 식구들이 사생활 문제로 논란을 일으킨 김선호를 향한 여전한 의리를 드러내고 있다. '1박 2일'의 김선호 통편집과 관련해서는 누리꾼들의 설왕설래가 오가고 있다. 앞서 김선호는 한 온라인 커뮤니티에서 혼인 빙자와 낙태 강요를 당했다는 폭로글의 K-배우로 지목되며 논란이 일었다. 김선호는 "불찰과 사려 깊]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['라켓보이즈' 정동원, 上→中 레벨 하락에 충격.. 부승관X양세찬, 2연속 上쳤다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211025213830063</link>
-            <guid>https://entertain.v.daum.net/v/20211025213830063</guid>
-            <pubDate>Mon, 25 Oct 2021 13:25:57 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트=이혜미 기자] 트로트가수 정동원이 ‘라켓보이즈’ 두 번째 레벨 발표에서 아쉬운 성적표를 받아들였다. 25일 방송된 tvN ‘라켓보이즈’에선 상중하 레벨테스트 결과가 공개됐다. 이날 두 번째 레벨 발표가 진행된 가운데 부승관이 ‘상’의 영광을 안았다. 장수영 코치는 “스스로 부족한 부분을 이해하고 중간 중간 보완하면서 플레이를 이어간 부분이 좋았]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['물어보살' 72세 팝핀 댄서 "100세까지 추고파" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211025213811060</link>
-            <guid>https://entertain.v.daum.net/v/20211025213811060</guid>
-            <pubDate>Mon, 25 Oct 2021 13:25:57 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 이기은 기자] ‘무엇이든 물어보살’에 노인 팝핀댄서가 등장했다. 25일 밤 방송된 KBS JOY 예능프로그램 ‘무엇이든 물어보살’에서는 서장훈, 이수근 진행 아래 노령 팝핀 댄서가 등장했다. 이날 72세라고 밝힌 팝핀 댄서 할아버지가 등장해 오래도록, 100세까지 춤 추고 싶은 열망을 드러냈다. 하지만 관절 등을 관리해야 하는 노년층에게 다양]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['떡볶이집 그 오빠' 김종민X이이경 "결혼? 당장 내년이라도 가능" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211025213800057</link>
-            <guid>https://entertain.v.daum.net/v/20211025213800057</guid>
-            <pubDate>Mon, 25 Oct 2021 13:25:57 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트=김은정 기자] 김종민과 이이경이 결혼에 대한 생각을 밝혔다. 25일 오후 방송된 MBC에브리원 ‘떡볶이집 그 오빠’에서는 지석진, 김종민, 이이경 세 오빠의 첫 주말 영업기가 공개됐다. 이날 지석진은 직원 식사를 만들어주는 이이경을 보며 "하나를 해도 제대로 해주는 구나. 이경이 나중에 결혼하면 사랑받겠다"고 감탄했다. "결혼 잘 할수 있겠죠?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['펜싱 金' 김정환, 작업복 못 입어 '눈치'..절친 최병철 "완전 도시남" 폭소 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211025212440896</link>
-            <guid>https://entertain.v.daum.net/v/20211025212440896</guid>
-            <pubDate>Mon, 25 Oct 2021 12:33:23 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 이지현 기자 = 펜싱 선수 김정환이 '안싸우면 다행이야'에 등장했다. 25일 오후 방송된 MBC 예능 프로그램 '안싸우면 다행이야'에서는 김정환을 비롯해 김준호, 오상욱 등 도쿄올림픽 펜싱 남자 사브르 단체전 금메달리스트들이 섬 생활을 시작했다. 이날 스튜디오에는 전 펜싱 선수 최병철이 나왔다. 그는 "김정환과 각별하다. 거의 형제라]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[차인표x최강창민x이장우, '시고르 경양식' 주방 삼총사 결성 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211025212432895</link>
-            <guid>https://entertain.v.daum.net/v/20211025212432895</guid>
-            <pubDate>Mon, 25 Oct 2021 12:33:23 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 박하나 기자 = '시고르 경양식' 주방 팀에 배우 차인표 이장우, 가수 최강창민이 함께했다. 25일 오후 처음 방송된 JTBC 새 예능 프로그램 '시고르 경양식'에서는 개업을 앞두고 준비에 나선 최지우, 차인표, 조세호, 이장우, 최강창민, 이수혁의 모습이 담겼다. '시고르 경양식' 주방 팀에 차인표, 최강창민, 이장우가 뭉쳤다. 차인표]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['연애도사' 조민아 "남편과 만난 지 3주만에 혼인신고.. 쥬얼리 시절부터 팬" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211025212400884</link>
-            <guid>https://entertain.v.daum.net/v/20211025212400884</guid>
-            <pubDate>Mon, 25 Oct 2021 12:33:23 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트=이혜미 기자] 쥬얼리 출신의 방송인 조민아가 피트니스 센터를 운영 중인 남편과의 러브스토리를 공개했다. 조민아는 “남편과 만난 지 3주만에 혼인신고를 했다”는 고백으로 놀라움을 자아냈다. 25일 방송된 SBS PLUS ‘연애도사’에선 조민아가 게스트로 출연했다. 지난 6월 첫 아들을 품에 안은 조민아는 출산 3개월 만에 임신 전 몸매를 되찾으며]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이국주 매니저, 비빔면 3봉+차돌박이+대패삼겹살까지 "일하다 폭식이 습관 돼" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211025212139852</link>
-            <guid>https://entertain.v.daum.net/v/20211025212139852</guid>
-            <pubDate>Mon, 25 Oct 2021 12:33:23 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 서지현 기자] 방송인 이국주 매니저가 폭식 습관이 생긴 이유를 고백했다. 10월 24일 유튜브 채널 이국주에 '차돌박이에 비빔면 부족해서 대패 삼겹살도 먹었다는 몇 인분이냐!!' 편이 공개됐다. 이날 이국주는 매니저와 함께 비빔면, 차돌박이 먹방에 나섰다. 현재 다이어트 중인 매니저는 "비빔면을 삼겹살 같은 고기에 싸 먹는 걸 좋아한다"며 "집에]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이지훈→한채영 드라마 '스폰서' 11월 29일 첫 방송 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211025211750799</link>
-            <guid>https://entertain.v.daum.net/v/20211025211750799</guid>
-            <pubDate>Mon, 25 Oct 2021 12:33:23 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] 이지훈→한채영 드라마 ‘스폰서’ 11월 29일 첫 방송 [공식] 채널 IHQ 개국 후 첫 런칭되는 새 월화드라마 ‘스폰서’가 오는 11월 29일(월) 밤 10시 30분 첫 방송 된다. 올 하반기 기대작인 새 월화드라마 ‘스폰서’(연출 이철 / 극본 한희정 / 제작 빅토리콘텐츠)는 원하는 것을 얻기 위해 수단과 방법을 가리 않고, 자신의 욕망을]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['영스' 멜로망스 "단독 콘서트? 내년 중순 전에는 꼭" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211025211530776</link>
-            <guid>https://entertain.v.daum.net/v/20211025211530776</guid>
-            <pubDate>Mon, 25 Oct 2021 12:33:23 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트=김은정 기자] 멜로망스가 팬들의 기대감을 높였다. 25일 오후 방송된 SBS 파워FM '웬디의 영스트리트'에는 멜로망스(김민석, 정동환)가 출연했다. 이날 DJ 웬디는 "멜로망스를 특별 섭외 했다"면서 남다른 인연을 드러냈다. 멜로망스 두 사람이 웬디와 손태진의 듀엣 싱글 '깊어지네' 디렉팅을 맡았던 것. 웬디는 "수정 녹음을 하려고 했는데 재]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이수혁, '시고르경양식' 사장 최지우에게 "게리동 사주세요" 웃음 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211025211251744</link>
-            <guid>https://entertain.v.daum.net/v/20211025211251744</guid>
-            <pubDate>Mon, 25 Oct 2021 12:33:23 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 박하나 기자 = '시고르경양식' 이수혁이 최지우에게 게리동을 사달라고 너스레를 떨었다. 25일 오후 처음 방송된 JTBC 예능 프로그램 '시고르 경양식'에서는 개업을 앞두고 준비에 나서는 최지우, 차인표, 조세호, 이장우, 최강창민, 이수혁의 모습이 담겼다. 강원도 삼척 덕산마을의 마을회관을 개조해 프렌치 레스토랑을 열기로 한 이들은 정]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[요코야마 유이, 7년 만 AKB48 졸업 발표 "배우 되기 위해" (다음 연예 ─ 뉴스 ─ 해외)]]></title>
@@ -1040,6 +1040,13 @@
             <guid>https://entertain.v.daum.net/v/20211025074300534</guid>
             <pubDate>Sun, 24 Oct 2021 23:20:49 GMT</pubDate>
             <content:encoded><![CDATA[[뉴스엔 이민지 기자] 미드 '프렌즈' 신스틸러 제임스 마이클 타일러가 사망했다. 10월 24일(현지시간) 할리우드리포터에 따르면 제임스 마이클 타일러가 전립선암 투병 끝에 23일 오전 자택에서 사망했다. 향년 59세. 제임스 마이클 타일러는 2018년 9월 전립선암 진단을 받고 투병을 이어왔다. 투병 사실을 공개했던 지난 6월 전립선암 4기인 상태였]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘미술과 음악의 아름다운 콜라보’ 비디뮤직, 클래식·재즈 시리즈 박스세트 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000769611</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000769611</guid>
+            <pubDate>Mon, 25 Oct 2021 14:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 유럽 화가들의 일러스트와 함께 역사적인 명연을 감상할 수 있는 비디뮤직 박스세트가 발매됐다고 레이블 굿인터내셔널이 25일 밝혔다. 비디뮤직 클래식 시리즈는 10명의 클래식 작곡가의 작품을 20장의 CD]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[눈부신 잘생김..임영웅, '실물이 더 빛나는 스타' 1위 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
@@ -1210,11 +1217,32 @@
             <content:encoded><![CDATA[[마이데일리 = 오윤주 기자] 그룹 저스트비가 컴백 전 팬들의 응원을 충전했다. 저스트비 지난 24일 트위터를 통해 블루룸 Q&amp;A 라이브 방송을 진행하며 컴백을 앞두고 팬들과 특별한 소통의 시간을 가졌다. 임지민이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[밴드 몽니, 정규 5집 선공개 곡 ‘별이었던 너’ 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000769577</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000769577</guid>
-            <pubDate>Mon, 25 Oct 2021 09:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 밴드 몽니 정규 5집 선공개 곡이 베일을 벗었다. 몽니(보컬 김신의, 베이스 이인경, 기타 공태우, 드럼 정훈태)는 25일 정오 정규 5집 선공개 곡 ‘별이었던 너’를 발매했다. ‘별이었던 너’는 소중]]></content:encoded>
+            <title><![CDATA[안성준, ‘더 트롯쇼’ 출격 인증 “오늘 2번째로 쏩니다” [똑똑SNS] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000825844</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000825844</guid>
+            <pubDate>Mon, 25 Oct 2021 14:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[가수 안성준이 ‘더 트롯쇼’ 출연 인증샷을 공개했다. 안성준은 25일 오후 자신의 인스타그램에 “더 트롯쇼!!!”라는 글과 함께 사진을 게재했다. 사진 속 안성준은 카메라를 향해 환하게 웃으며 포즈를 취하고 있다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[최지우→차인표, 스승 앞 실수 연발 '대환장 파티'…영업 가능할까('시고르 경양식')[종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003793613</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003793613</guid>
+            <pubDate>Mon, 25 Oct 2021 14:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 김준석 기자] 영업 오픈 전 실수가 연속으로 터졌다. 25일 방송된 JTBC 새 예능프로그램 '시고르 경양식'이 오픈을 앞두고 스승님들이 깜짝 방문했다. 이날 영업을 앞두고 멤버들과의 만남이 그려뎠다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[은보아, ♥오지호는 어디 갔나 "머리에 수건 올려주는 오션이, 딸밖에 없다" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003793612</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003793612</guid>
+            <pubDate>Mon, 25 Oct 2021 14:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 이게은기자] 배우 오지호 아내 은보아가 딸의 마음씀씀이에 감동을 받았다. 25일 은보아는 자신의 인스타그램 스토리에 "엄마 아프다고 머리에 물수건 올려주는 오션이~ 딸밖에 없구만..."이라는 글과 한]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[최지우 딸 언급 “생후 14개월, 신애라도 귀엽다고” (시고르 경양식) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940590</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940590</guid>
+            <pubDate>Mon, 25 Oct 2021 14:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[최지우 딸 언급 “생후 14개월, 신애라도 귀엽다고” (시고르 경양식) 배우 최지우가 딸 근황을 전했다. 25일 첫 방송된 JTBC ‘시고르 경양식’에서는 최지우를 비롯해 프로그램 출연진들이 처음 만나 이야기를 나누]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[홍종현, 사진작가 깜짝 변신…전시회 참여 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
@@ -1362,34 +1390,6 @@
             <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940565</guid>
             <pubDate>Mon, 25 Oct 2021 12:33:45 GMT</pubDate>
             <content:encoded><![CDATA[라붐 컴백, 타이틀곡 ‘Kiss Kiss’ 걸그룹 라붐(LABOUM, 소연 진예 해인 솔빈)이 타이틀 곡명을 공개해 컴백 기대감을 높였다. 25일 자정 라붐의 공식 SNS 채널을 통해 미니 3집 ‘BLOSSOM’(블]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["제 이야기 아닙니다" 홍진경, 의미심장 글 해명 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003793506</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003793506</guid>
-            <pubDate>Mon, 25 Oct 2021 12:33:45 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선닷컴 이게은기자] 방송인 홍진경이 다소 의미심장하게 남겼던 글에 대해 해명했다. 25일 홍진경은 자신의 인스타그램에 "제가 오늘 아침에 올렸던 이 글은 11월 북클럽에 올릴 어떤 책의 추천서였어요. 많은]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘스우파’ 생방송 D-1…선미→청하 신곡으로 파이널 무대 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940564</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940564</guid>
-            <pubDate>Mon, 25 Oct 2021 12:33:45 GMT</pubDate>
-            <content:encoded><![CDATA[‘스우파’ 생방송 D-1…선미→청하 신곡으로 파이널 무대 대한민국에 댄스 열풍을 불러 일으킨 Mnet '스트릿 우먼 파이터(이하 스우파)'가 파이널 생방송만을 앞두고 있다. 파이널 생방송을 하루 앞두고, 특별한 파이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[함은정·김진엽·손성윤·장세현 ‘사랑의 꽈배기’ 캐스팅 [공식] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940562</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940562</guid>
-            <pubDate>Mon, 25 Oct 2021 12:33:45 GMT</pubDate>
-            <content:encoded><![CDATA[함은정·김진엽·손성윤·장세현 ‘사랑의 꽈배기’ 캐스팅 [공식] 배우 함은정-김진엽-손성윤-장세현이 KBS 2TV 새 일일드라마 ‘사랑의 꽈배기’ 출연을 전격 확정지으며 새로운 바람을 예고했다. ‘빨강 구두’ 후속으로]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[백종원♥소유진 가족 기부 [공식] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940559</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940559</guid>
-            <pubDate>Mon, 25 Oct 2021 12:33:45 GMT</pubDate>
-            <content:encoded><![CDATA[백종원♥소유진 가족 기부 [공식] 백종원 소유진 부부가 세 자녀들과 함께 촬영한 통신사 광고의 모델료 전액을 사랑의 열매 사회복지공동모금회에 기부하기로 했다. 백종원 소유진 부부는 COVID-19 상황의 장기화로 인]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["볼드윈 카메라 향해 총 쏘는 장면 연습하다 권총 격발돼"(종합) (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>

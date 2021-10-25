@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-25T13:26:23.615Z</updated>
+    <updated>2021-10-25T14:19:53.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미술과 음악의 아름다운 콜라보' 비디뮤직, 클래식·재즈 시리즈 박스세트 발매]]></title>
+        <id>https://entertain.v.daum.net/v/20211025230825996</id>
+        <link href="https://entertain.v.daum.net/v/20211025230825996"/>
+        <updated>2021-10-25T14:19:21.520Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 유럽 화가들의 일러스트와 함께 역사적인 명연을 감상할 수 있는 비디뮤직 박스세트가 발매됐다고 레이블 굿인터내셔널이 25일 밝혔다. 비디뮤직 클래식 시리즈는 10명의 클래식 작곡가의 작품을 20장의 CD + 아트북으로 구성된 박스세트이다. 시리즈는 20세기 대가들의 역사적인 레코딩을 아름다운 삽화와 함께 감상할 수 있는 콜렉터 에디션으로 20]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[눈부신 잘생김..임영웅, '실물이 더 빛나는 스타' 1위]]></title>
         <id>https://entertain.v.daum.net/v/20211025221054514</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211025174104797"/>
         <updated>2021-10-25T09:20:37.095Z</updated>
         <content type="html"><![CDATA[[스포츠투데이 백지연 기자] 대세 보컬리스트 김필이 화제작 tvN '지리산' OST의 첫 번째 주자로 발탁되었다. 대세 아티스트의 대거 OST 참여로 탄탄한 스토리와 흡입력 넘치는 연출뿐 아니라 드라마 음악에 대한 기대감까지 모은 바 있던 '지리산'에 OST Part.1 'Destiny - 김필'이 첫 번째 주자로 화려하게 포문을 열어 대작의 탄생을 알렸다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송하예 "변함없는 사람으로 늘 순수한 음악 들려드리고파"]]></title>
-        <id>https://entertain.v.daum.net/v/20211025173410581</id>
-        <link href="https://entertain.v.daum.net/v/20211025173410581"/>
-        <updated>2021-10-25T09:20:37.095Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 현혜선 기자] 가수 송하예가 이별의 감성을 듬뿍 담은 신곡으로 돌아왔다. 송하예는 지난 23일 각종 음원사이트를 통해 새 싱글 ‘사랑했던 우리가 어떻게 친구가 되니(사우친)’를 발매했다. ‘사랑했던 우리가 어떻게 친구가 되니’는 사랑했던 순간을 지나 이별을 마주한 남녀의 복잡한 감정을 담은 발라드 곡이다. 가슴을 울리는 애절한 멜로디와 솔직하]]></content>
     </entry>
 </feed>

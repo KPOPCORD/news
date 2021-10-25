@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 13:26:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 14:19:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[움짤] 웬디, '완소 완디 와니' Like Wendy~]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328872</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328872</guid>
+            <pubDate>Mon, 25 Oct 2021 14:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328872">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/25/8a2668e2-db50-4a1d-a53d-ad389bec2561.jpg" alt="[움짤] 웬디, '완소 완디 와니' Like Wendy~">        <div class="text-box">            <p class="summary">[움짤] 웬디, '완소 완디 와니' Like Wendy~</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/25/8a2668e2-db50-4a1d-a53d-ad389bec2561.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[포토] 웬디, '나 오늘 달라진거 없어?']]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/328862</link>
@@ -86,14 +94,6 @@
             <pubDate>Mon, 25 Oct 2021 05:18:39 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328825">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/25/pDS0quEjPuu6637707655712920919.jpg" alt="손태진X레드벨벳 웬디 듀엣곡 '깊어지네' 영화 같은 티저 '애틋'">        <div class="text-box">            <p class="summary">손태진X레드벨벳 웬디 듀엣곡 '깊어지네' 영화 같은 티저 '애틋'</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/25/pDS0quEjPuu6637707655712920919.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 류수영 포착, 박하선의 씨네타운 '스페셜 외조']]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328807</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328807</guid>
-            <pubDate>Mon, 25 Oct 2021 02:35:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328807">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/25/258d6e84-79bc-4514-b30c-8e3c40c3ad9e.jpg" alt="[포토] 류수영 포착, 박하선의 씨네타운 '스페셜 외조'">        <div class="text-box">            <p class="summary">[포토] 류수영 포착, 박하선의 씨네타운 '스페셜 외조'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/25/258d6e84-79bc-4514-b30c-8e3c40c3ad9e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
