@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 02:36:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 03:22:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에픽하이, 오늘 컴백 싱글 베일 벗는다]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=167739</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=167739</guid>
+            <pubDate>Mon, 25 Oct 2021 03:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=167739">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211025104703_ca6e1c6ef790bdc3bc7b7ab9779f9c42.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=167739">에픽하이, 오늘 컴백 싱글 베일 벗는다</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211025104703_ca6e1c6ef790bdc3bc7b7ab9779f9c42.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단, 온라인 콘서트 'BTS PERMISSION TO DANCE ON STAGE']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=167695</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=165495">NCT 127, 강렬한 신곡 'Favorite'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211012110831_a3e6f2d47639d4611ba9218a1f251db7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[컴백 임박 킹덤, '카오스' 콘셉트 포토 공개!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=165473</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=165473</guid>
-            <pubDate>Tue, 12 Oct 2021 01:33:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=165473">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211012093225_2fb8f6f231f7cf2439baae57fc872561.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=165473">컴백 임박 킹덤, '카오스' 콘셉트 포토 공개! </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211012093225_2fb8f6f231f7cf2439baae57fc872561.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
