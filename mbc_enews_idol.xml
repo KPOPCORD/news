@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 08:26:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 09:21:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[첫사랑 빠진 이펙스, '다크' 벗고 '청량' 입었다 [종합]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328969</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328969</guid>
+            <pubDate>Tue, 26 Oct 2021 09:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328969">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/26/dd0934af-7f06-4019-8eb8-3bad2368aa59.jpg" alt="첫사랑 빠진 이펙스, '다크' 벗고 '청량' 입었다 [종합]">        <div class="text-box">            <p class="summary">첫사랑 빠진 이펙스, '다크' 벗고 '청량' 입었다 [종합]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/26/dd0934af-7f06-4019-8eb8-3bad2368aa59.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이펙스 예왕 "얻고 싶은 수식어? '다음이 궁금한 그룹'"]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/328967</link>
@@ -86,14 +94,6 @@
             <pubDate>Tue, 26 Oct 2021 05:19:36 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328939">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/26/60ae5c72-0794-41f1-afdc-38b49729ea9e.jpg" alt="[포토] 라붐 지엔, '알라딘' 패션">        <div class="text-box">            <p class="summary">[포토] 라붐 지엔, '알라딘' 패션</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/26/60ae5c72-0794-41f1-afdc-38b49729ea9e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 라붐 해인, '엘프 눈빛']]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328938</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328938</guid>
-            <pubDate>Tue, 26 Oct 2021 05:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328938">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/26/59cb056c-eb7f-47ee-8ea0-f2b05a9190fb.jpg" alt="[포토] 라붐 해인, '엘프 눈빛'">        <div class="text-box">            <p class="summary">[포토] 라붐 해인, '엘프 눈빛'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/26/59cb056c-eb7f-47ee-8ea0-f2b05a9190fb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
