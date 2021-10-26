@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-10-26T17:24:51.094Z</updated>
+    <updated>2021-10-26T18:24:00.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스테이씨 데뷔 1주년 화보]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940838</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000940838"/>
+        <updated>2021-10-26T18:23:53.333Z</updated>
+        <content type="html"><![CDATA[스테이씨 데뷔 1주년 화보 전원 센터 비주얼 그룹 스테이씨(STAYC)의 패션 화보가 공개됐다. 공개된 화보 속 스테이씨는 평소 톡톡 튀는 하이틴 아이돌의 모습과는 달리, 차분한 느낌의 블랙 앤 화이트 무드 모던 룩]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김나영, 유쾌한 슈퍼맘 [화보]]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940837</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003793990"/>
         <updated>2021-10-26T13:26:17.436Z</updated>
         <content type="html"><![CDATA[[스포츠조선 조윤선 기자] 개그맨 김수영이 47kg 감량 후 유지 중이라고 밝혔다. 26일 방송된 TV조선 '와이프 카드 쓰는 남자'(이하'와카남')에서는 한창의 발 건강 특집이 공개됐다. 이날 김수영은 "살 빠지면]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['싱글맘' 김나영, 육아+바쁜 스케줄에 지쳤나 "오늘 기분이 꽝"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003793989</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003793989"/>
-        <updated>2021-10-26T13:26:17.438Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 이게은기자] 방송인 김나영이 다소 지친 일상을 공유했다. 26일 김나영은 자신의 인스타그램 스토리에 과일 사진과 함께 "오늘 기분이 꽝"이라는 글을 남겼다. 두 아들을 홀로 육아해야 하는 일상과 숨]]></content>
     </entry>
 </feed>
