@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 01:04:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 02:33:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크 리사, 솔로곡 'LALISA' 스포티파이 1억 스트리밍 돌파]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328903</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328903</guid>
+            <pubDate>Tue, 26 Oct 2021 02:32:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328903">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/26/wpPp5QiJvl2x637708413791020900.jpg" alt="블랙핑크 리사, 솔로곡 'LALISA' 스포티파이 1억 스트리밍 돌파">        <div class="text-box">            <p class="summary">블랙핑크 리사, 솔로곡 'LALISA' 스포티파이 1억 스트리밍 돌파</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/26/wpPp5QiJvl2x637708413791020900.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘아이돌라디오2’ 트라이비 현빈-픽시 로라-핫이슈 형신-아이칠린 예주 ‘입덕요정’ 총출동!]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/328893</link>
@@ -86,14 +94,6 @@
             <pubDate>Mon, 25 Oct 2021 06:25:03 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328849">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/25/CvAdZyQBD3kh637707714048468564.jpg" alt="세븐틴 에스쿱스→버논, “힙합팀 장점? 비주얼” [화보]">        <div class="text-box">            <p class="summary">세븐틴 에스쿱스→버논, “힙합팀 장점? 비주얼” [화보]</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/25/CvAdZyQBD3kh637707714048468564.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뱀뱀, 과감한 콘셉트로 섹시美 극대화 [화보]]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328847</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328847</guid>
-            <pubDate>Mon, 25 Oct 2021 06:25:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328847">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/25/rEA6RtmOZb1v637707709048208460.jpg" alt="뱀뱀, 과감한 콘셉트로 섹시美 극대화 [화보]">        <div class="text-box">            <p class="summary">뱀뱀, 과감한 콘셉트로 섹시美 극대화 [화보]</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/25/rEA6RtmOZb1v637707709048208460.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
