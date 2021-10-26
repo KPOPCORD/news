@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-26T10:23:28.375Z</updated>
+    <updated>2021-10-26T11:18:18.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['더쇼' 킹덤, 강렬 카리스마 컴백..'블랙 크라운' 초대형 퍼포먼스]]></title>
+        <id>https://entertain.v.daum.net/v/20211026195444436</id>
+        <link href="https://entertain.v.daum.net/v/20211026195444436"/>
+        <updated>2021-10-26T11:17:37.718Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 윤성열 기자] /사진='더쇼' 방송 화면  그룹 킹덤(자한 아이반 치우 아서 단 루이 무진)이 컴백 후 첫 '더 쇼'에서 초대형 퍼포먼스를 선보였다. 킹덤은 26일 오후 방송된 SBS MTV '더쇼'에서 미니 3집 '히스토리 오브 킹덤 : 파트 3. 아이반'(History Of Kingdom : Part Ⅲ. IVAN)의 타이틀곡 '블랙 크라운']]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['미스터 라디오' 채연, '싸이월드' 추억 회상하게 만드는 '감성 여신' 등극]]></title>
+        <id>https://entertain.v.daum.net/v/20211026192607884</id>
+        <link href="https://entertain.v.daum.net/v/20211026192607884"/>
+        <updated>2021-10-26T11:17:37.718Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 가수 채연이 ‘레전드 눈물 셀카’로 청취자들 추억을 소환했다.26일 방송된 KBS 라디오 COOL FM ‘윤정수 남창희의 미스터 라디오’에 출연한 채연은 메가 히트곡 ‘둘이서’로 오프닝 무대를 꾸몄다. 청취자들과 함께하며 ‘원조 한류 디바’의 귀환을 알린 채연은 “사실 저는 이 노래를 그렇게 좋아하지 않았다. 처음에는 이 노래가 음역대가 높]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["다음 궁금한 그룹 되고파"..이펙스, 가요계 '핫루키' 출격]]></title>
         <id>https://entertain.v.daum.net/v/20211026185008264</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211026171724489"/>
         <updated>2021-10-26T08:26:05.894Z</updated>
         <content type="html"><![CDATA[[스타뉴스 공미나 기자] /사진제공=C9엔터테인먼트그룹 EPEX(이펙스, 위시 금동현 뮤 아민 백승 에이든 예왕 제프)가 180도 달라졌다. 다크함을 벗고 청량함을 입은 EPEX는 넓은 음악적 스펙트럼을 보여주는 동시에 자신들만의 서사를 이어갈 것을 예고했다. EPEX는 26일 오후 두 번째 EP 'Bipolar Pt.2 사랑의 서' 발매 기념 쇼케이스를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이펙스의 한계 없는 스펙트럼, 카리스마→펑키까지 다 된다]]></title>
-        <id>https://entertain.v.daum.net/v/20211026171251307</id>
-        <link href="https://entertain.v.daum.net/v/20211026171251307"/>
-        <updated>2021-10-26T08:26:05.895Z</updated>
-        <content type="html"><![CDATA[[서울경제] 그룹 이펙스(EPEX) 확 바뀌었다. 카리스마 있는 모습으로 데뷔 눈도장을 찍었던 이들은 밝고 신나는 에너지로 돌아왔다. 음악적으로 성장함과 동시에 하나하나씩 매력을 추가하고 있다. 26일 오후 이펙스(위시, 금동현, 뮤, 아민, 백승, 에이든, 예왕, 제프)의 두 번째 EP '바이폴라 파트2(Bipolar Pt2) 사랑의 서' 발매 기념 미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이펙스 예왕 "얻고 싶은 수식어? '다음이 궁금한 그룹'"]]></title>
-        <id>https://entertain.v.daum.net/v/20211026171148255</id>
-        <link href="https://entertain.v.daum.net/v/20211026171148255"/>
-        <updated>2021-10-26T08:26:05.897Z</updated>
-        <content type="html"><![CDATA[그룹 이펙스가 이번 활동으로 얻고 싶은 수식어를 꼽았다. 26일 오후 이펙스의 두번째 EP 'Bipolar(바이폴라) Pt.2 사랑의 서' 발매 기념 온라인 쇼케이스가 진행됐다. 이날 이펙스 예왕은 이번 활동으로 이펙스가 얻고 싶은 수식어가 무엇이냐는 질문에 대해 "욕심나는 수식어는 '다음 앨범이 궁금한 그룹'"이라며 "기대 놓치지 않기 위해 열심히 하]]></content>
     </entry>
 </feed>
