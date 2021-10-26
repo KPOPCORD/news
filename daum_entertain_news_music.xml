@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-26T19:17:02.753Z</updated>
+    <updated>2021-10-26T20:22:24.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[故 신해철 오늘 7주기..여전히 그리운 '마왕']]></title>
+        <id>https://entertain.v.daum.net/v/20211027050302408</id>
+        <link href="https://entertain.v.daum.net/v/20211027050302408"/>
+        <updated>2021-10-26T20:21:56.572Z</updated>
+        <content type="html"><![CDATA[가수 고(故) 신해철이 사망 7주기를 맞았다. 고 신해철은 지난 2014년 10월 17일 서울 소재 S병원에서 강모 원장의 집도로 장 협착증 수술을 받은 후 고열과 가슴 복부 통증을 호소하다 심정지로 쓰러졌다. 신해철은 쓰러진 직후 심폐소생술을 받고 A병원으로 이송돼 응급 수술을 받았지만 같은 달 27일 오후 8시 19분 끝내 숨졌다. ‘마왕’으로 불리며]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NCT 127 'Sticker' 빌보드 200 200위 5주 연속 차트인]]></title>
         <id>https://entertain.v.daum.net/v/20211026224307775</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211026173412156"/>
         <updated>2021-10-26T09:20:46.066Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김지하 기자] 그룹 이펙스(EPEX)가 첫 컴백을 '소년미'로 채웠다. 이펙스(위시, 금동현, 뮤, 아민, 백승, 에이든, 예왕, 제프)의 두 번째 미니앨범 '바이폴라(Bipolar, 양극성) Pt.2 사랑의 서' 발매 기념 온라인 쇼케이스가 26일 오후 유튜브를 통해 생중계뙜다. 지난 6월 데뷔한 이펙스 멤버들은 이번 활동을 "데뷔 후 첫]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['걸스플래닛999' 김수연, '미스틱 첫 걸그룹' 빌리 합류..팬들 반색]]></title>
-        <id>https://entertain.v.daum.net/v/20211026173305102</id>
-        <link href="https://entertain.v.daum.net/v/20211026173305102"/>
-        <updated>2021-10-26T09:20:46.067Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자, 이승훈 기자] Mnet '걸스플래닛999 : 소녀대전'에 출연한 김수연이 미스틱스토리 첫 걸그룹 빌리(Billlie) 멤버로 합류한다.&nbsp; 26일 오후 OSEN 취재 결과, 김수연은 오는 11월 정식 데뷔를 앞둔 그룹 빌리(시윤, 츠키, 수현, 하람, 문수아, 하루나)의 새 멤버로 합류하는 것으로 확인됐다.&nbsp; 앞서 김수연은 지난 22]]></content>
     </entry>
 </feed>

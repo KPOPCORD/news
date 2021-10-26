@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-26T19:17:02.760Z</updated>
+    <updated>2021-10-26T20:22:24.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임영웅, 10월 3주 차에도 영웅시대의 심장을 저격하는 비주얼 트롯가수]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001364819</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001364819"/>
+        <updated>2021-10-26T20:22:11.837Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 임영웅이 ‘팬앤스타’ 포토톡에서 존재감을 과시 중이다. 최근 ‘팬앤스타’ 포토톡에서는 10월 3주 차 투표를 진행했다. 임영웅은 “니트가 잘 어울리는 스타”(557,259)와 “실물이 더]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅, 러블리 남친美→카리스마..갓경웅♥ '빛나는 비주얼']]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002999815</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0002999756"/>
         <updated>2021-10-26T09:21:05.435Z</updated>
         <content type="html"><![CDATA[그룹 T1419가 남미 대표 아티스트 대디 양키(Daddy Yankee)와의 특별한 인연이 눈길을 끈다. 지난 25일 T1419는 공식 SNS 채널을 통해 남미 대표 아티스트 대디 양키의 '프로블레마'를 새롭게 해석]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["부담도 원동력"…이펙스, 초고속 컴백의 자신감 [종합]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001364691</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001364691"/>
-        <updated>2021-10-26T09:21:05.435Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) 가요계 핫루키 그룹 이펙스(EPEX)가 4개월 만에 성숙한 모습으로 돌아왔다. 26일 오후 이펙스(위시, 금동현, 뮤, 아민, 백승, 에이든, 예왕, 제프) 두 번째 EP 앨범 '바이폴라]]></content>
     </entry>
 </feed>
