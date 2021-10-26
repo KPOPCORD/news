@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-25T23:21:34.222Z</updated>
+    <updated>2021-10-26T01:04:09.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오징어게임 덕분에 넷플릭스 채권 정크등급에서 벗어나]]></title>
+        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005680308</id>
+        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005680308"/>
+        <updated>2021-10-26T01:04:08.750Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 박형기 기자 = ‘오징어 게임’ 인기에 힘입어 넷플릭스의 채권이 정크본드(신용등급이 낮은 기업이 발행하는 고위험 채권) 수준을 벗어나 투자 등급으로 상향됐다고 영국이 파이낸셜타임스(FT)가 25일(현]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘꽃미남 피아니스트’ 윤디 리, 성매매로 공안에 붙잡혀…“중국 충격”[해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003548840</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003548840"/>
+        <updated>2021-10-26T01:04:08.759Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘꽃미남 피아니스트’ 윤디 리(39)가 성매매 혐의로 중국 공안에 붙잡혔다고 지난 23일 영국 BBC가 보도했다. 베이징 경찰에 따르면, 윤디 리는 성매매 혐의로 경찰의 행정 구류 처분을]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['프렌즈' 건서 역 타일러 전립선암 사망..애니스톤 "보고싶다" 애도 [Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004498240</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004498240"/>
+        <updated>2021-10-26T01:04:08.761Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 인기 미국드라마 '프렌즈'에서 건서 캐릭터로 유명한 배우 제임스 마이클 타일러가 사망했다. 향년 59세. 24일(현지시간) AP통신 등 외신에 따르면 타일러는 미국 캘리포니아 로스앤젤레스(L]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["총이 아니라 알렉 볼드윈이 사람 죽여"…트럼프 아들 조롱]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012746366</id>
@@ -158,26 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=057&amp;aid=0001616443"/>
         <updated>2021-10-25T01:07:30.915Z</updated>
         <content type="html"><![CDATA[영국 팝가수 에드 시런이 코로나19 확진 판정을 받았다. 에드 시런은 25일(한국시간) 자신의 인스타그램에 “Hey guys. Quick note to tell you that I’ve sadly tested pos]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英 팝스타 에드 시런도 코로나19 확진… "자가격리 중"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010789037</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010789037"/>
-        <updated>2021-10-25T01:07:30.917Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]한승수 인턴 기자 = 영국 팝스타 에드 시런(30)이 코로나19 확진 판정을 받았다. 24일(현지시간) 에드 시런은 자신의 공식 인스타그램을 통해 "슬프지만 코로나19 양성 판정을 받았다. 자가격리 중]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에드 시런, 코로나19 확진 [Oh!llywood]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004497892</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004497892"/>
-        <updated>2021-10-25T01:07:30.918Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] 팝스타 에드 시런이 코로나19 확진 판정을 받았다. 에드 시런은 24일(현지시각) 자신의 인스타그램에 “여러분 슬프게도 현재 나는 코로나19 양성 반응을 받아 자가격리하며 정부 지침을 따르고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에드 시런, 코로나19 확진 판정 “자가격리 하는 중”]]></title>
-        <id>https://entertain.naver.com/now/read?oid=022&amp;aid=0003631380</id>
-        <link href="https://entertain.naver.com/now/read?oid=022&amp;aid=0003631380"/>
-        <updated>2021-10-25T01:07:30.923Z</updated>
-        <content type="html"><![CDATA[런던=AP 영국의 대표 싱어송라이터 에드 시런(사진)이 신종 코로나바이러스 감염증(코로나19) 확진 판정을 받았다. 이 같은 소식은 지난 24일(현지시간) 영국 공영방송 BBC가 전했다. 보도에 따르면 에드 시런은]]></content>
     </entry>
 </feed>
