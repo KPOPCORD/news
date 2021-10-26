@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 22:22:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 23:21:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전소미, 걸크러시 매력 뽐내는 청규 앨범 콘셉트 포스터 공개]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328995</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328995</guid>
+            <pubDate>Tue, 26 Oct 2021 23:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328995">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/27/2292af0e-8ebd-49b8-bf95-390ea18dd072.jpg" alt="전소미, 걸크러시 매력 뽐내는 청규 앨범 콘셉트 포스터 공개">        <div class="text-box">            <p class="summary">전소미, 걸크러시 매력 뽐내는 청규 앨범 콘셉트 포스터 공개</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/27/2292af0e-8ebd-49b8-bf95-390ea18dd072.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[차은우, '얼굴 천재'의 심쿵 눈빛 [인스타]]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/328987</link>
@@ -86,14 +94,6 @@
             <pubDate>Tue, 26 Oct 2021 05:19:36 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328942">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/26/fd0f0d0a-a940-4713-ba17-dc53f3f75b70.jpg" alt="[포토] 라붐 소연, '반해 버렸어~'">        <div class="text-box">            <p class="summary">[포토] 라붐 소연, '반해 버렸어~'</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/26/fd0f0d0a-a940-4713-ba17-dc53f3f75b70.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 라붐 솔빈, '큐티 하트']]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/328940</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/328940</guid>
-            <pubDate>Tue, 26 Oct 2021 05:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/328940">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/26/fb90585e-37e8-4e11-9f84-621a5c24550a.jpg" alt="[포토] 라붐 솔빈, '큐티 하트'">        <div class="text-box">            <p class="summary">[포토] 라붐 솔빈, '큐티 하트'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/26/fb90585e-37e8-4e11-9f84-621a5c24550a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
