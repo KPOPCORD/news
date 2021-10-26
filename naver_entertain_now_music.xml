@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-26T12:32:12.643Z</updated>
+    <updated>2021-10-26T13:26:24.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘더쇼’ 버가부, 데뷔곡 ‘bugAboo’ 음방 첫 공개…6인 6색 퍼포먼스]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826132</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000826132"/>
+        <updated>2021-10-26T13:26:11.515Z</updated>
+        <content type="html"><![CDATA[걸그룹 버가부(bugAboo)가 성공적인 데뷔 무대를 가졌다. 버가부(초연, 유우나, 레이니, 지인, 은채, 시안)는 26일 오후 6시 방송된 SBS MTV, SBS FiL ‘더쇼’에 출연, 데뷔곡 ‘bugAboo’]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅, 한 편의 영화 같은 '英雄本色'..매력 끝판왕 히어로]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0002999791</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010793717"/>
         <updated>2021-10-26T09:21:05.442Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]조민정 인턴 기자 = 가수 전소미가 뮤직비디오 티저를 공개하며 컴백 기대감을 고조시켰다. 소속사 더블랙레이블은 지난 25일 오후 7시 공식 유튜브 채널을 통해 전소미 첫 번째 정규 앨범 'XOXO'의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼케이스] 이펙스, 첫사랑에 빠진 소년들의 당돌한 고백!]]></title>
-        <id>https://entertain.naver.com/now/read?oid=438&amp;aid=0000040003</id>
-        <link href="https://entertain.naver.com/now/read?oid=438&amp;aid=0000040003"/>
-        <updated>2021-10-26T09:21:05.444Z</updated>
-        <content type="html"><![CDATA[첫사랑에 빠진 이펙스가 리스너들의 귀를 즐겁게 하기 위해 돌아온다. 26일 오후 EPEX(이펙스)의 두 번째 EP Bipolar Pt.2 사랑의 서’ 발매 기념 온라인 미디어 쇼케이스가 개최됐다. 이날 행사에 참석한]]></content>
     </entry>
 </feed>
