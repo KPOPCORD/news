@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-27T14:19:58.754Z</updated>
+    <updated>2021-10-27T15:22:24.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이용 '잊혀진 계절', 40년째 '10월의 밤' 추억]]></title>
+        <id>https://entertain.v.daum.net/v/20211028000011638</id>
+        <link href="https://entertain.v.daum.net/v/20211028000011638"/>
+        <updated>2021-10-27T15:21:53.890Z</updated>
+        <content type="html"><![CDATA[원래 조영남 노래, 실력 인정받은 '갓 신인' 이용에게 '행운' [더팩트｜강일홍 기자] 이용은 '10월의 남자'다. 가을에 센치해지는 남자들은 그의 노래 '잊혀진 계절'을 들으며 위로받는다. 이용이 매년 10월만 되면 움츠렸던 공작이 날개 펴듯 온몸을 한껏 부풀리는 이유다. '잊혀진 계절' 발표 40주년을 맞는 올해는 더 특별한 '10월의 밤'을 맞는다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[변함없는 세븐틴, 이유 있는 '5연속 밀리언셀러']]></title>
         <id>https://entertain.v.daum.net/v/20211027222702900</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211027180009969"/>
         <updated>2021-10-27T09:20:58.767Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 노을(이상곤, 전우성, 나성호, 강균성)이 애절한 이별 발라드로 귀환했다. 노을은 10월 27일 오후 6시 각종 음원 사이트를 통해 새 디지털 싱글 '미워지지가 않아'를 발매했다. 이번 싱글은 노을이 지난해 10월 30일 발표한 디지털 싱글 '너의 곁에만 맴돌아' 이후 1년 만에 발표한 신곡이다. 그 사이 KBS 2TV '유희]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돌아온 에일리, 가창력만큼 속 시원한 '가르치지 마']]></title>
-        <id>https://entertain.v.daum.net/v/20211027180008966</id>
-        <link href="https://entertain.v.daum.net/v/20211027180008966"/>
-        <updated>2021-10-27T09:20:58.768Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 소속사 이적 후 2년 만의 정규 앨범으로 돌아온 가수 에일리가 변함없는 가창력을 뽐냈다. 속이 뻥 뚫리는 가창력에 더해진 특유의 '사이다' 가사는 에일리만의 매력을 더욱 잘 느끼게 한다.&nbsp; 에일리는 27일 오후 6시 각종 음원 사이트를 통해 정규 3집 '에이미(AMY)'를 발매하고 타이틀곡 '가르치지마' 뮤직비디오를 공개했다.]]></content>
     </entry>
 </feed>

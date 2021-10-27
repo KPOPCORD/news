@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-27T14:19:58.751Z</updated>
+    <updated>2021-10-27T15:22:24.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안젤리나 졸리, 엉성한 붙임머리…"미용사가 애니스톤 친구냐"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004662645</id>
+        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004662645"/>
+        <updated>2021-10-27T15:22:23.585Z</updated>
+        <content type="html"><![CDATA[할리우드 배우 안젤리나 졸리가 엉성한 붙임머리로 레드카펫에 오른 것이 화제가 되자 이를 하루 만에 제거했다. 안젤리나 졸리는 지난 24일(현지시간) 이탈리아 로마에서 열린 영화 '이터널스' 시사회에 딸 자하라, 샤일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크리스틴 스튜어트, 브라톱 입고 아찔한 복근 자랑…'관능적']]></title>
         <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004662636</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826262</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000826262"/>
         <updated>2021-10-27T06:24:59.293Z</updated>
-        <content type="html"><![CDATA[걸그룹 시크릿넘버 세 번째 싱글 'Fire Saturday (파이어 세러데이)' 발매 기념 쇼케이스가 27일 오후 서울 강남구 청담동 일지아트홀에서 열렸다. 쇼케이스 무대를 선보이고 있는 시크릿 넘버 수담.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수담 '디스코 여신' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826261</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000826261"/>
-        <updated>2021-10-27T06:24:59.294Z</updated>
         <content type="html"><![CDATA[걸그룹 시크릿넘버 세 번째 싱글 'Fire Saturday (파이어 세러데이)' 발매 기념 쇼케이스가 27일 오후 서울 강남구 청담동 일지아트홀에서 열렸다. 쇼케이스 무대를 선보이고 있는 시크릿 넘버 수담.]]></content>
     </entry>
 </feed>

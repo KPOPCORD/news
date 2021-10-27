@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-27T14:19:58.765Z</updated>
+    <updated>2021-10-27T15:22:24.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임영웅 ‘보랏빛 엽서’ 조회수 1100만뷰 돌파, “진정성 있는 목소리”]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003549504</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003549504"/>
+        <updated>2021-10-27T15:22:11.354Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘미스터트롯’ 우승자 임영웅의 ’보라빛 엽서‘ 무대가 조회수 1100만뷰를 넘어섰다. 지난해 2월 임영웅 유튜브 채널 ‘임영웅’에는 “미스터트롯 임영웅 보라빛엽서”라는 제목의 영상이 게재]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[나의 인생곡㊵] 이용 '잊혀진 계절', 40년째 '10월의 밤' 추억]]></title>
+        <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000112980</id>
+        <link href="https://entertain.naver.com/now/read?oid=629&amp;aid=0000112980"/>
+        <updated>2021-10-27T15:22:11.357Z</updated>
+        <content type="html"><![CDATA[원래 조영남 노래, 실력 인정받은 '갓 신인' 이용에게 '행운' 이용은 '10월의 남자'다. 가을에 센치해지는 남자들은 그의 노래 '잊혀진 계절'을 들으며 위로받는다. 이용이 매년 10월만 되면 움츠렸던 공작이 날개]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[리사, ‘라리사’ MV 3억뷰 돌파!!..‘K팝 여성 솔로 최단 신기록’]]></title>
         <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0001905002</id>
@@ -163,20 +177,6 @@
         <title type="html"><![CDATA[[포토] 시크릿넘버 레아, '우월한 비율에 눈길~']]></title>
         <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004621546</id>
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004621546"/>
-        <updated>2021-10-27T12:33:22.258Z</updated>
-        <content type="html"><![CDATA[그룹 시크릿넘버 레아가 27일 오후 서울 청담동 일지아트홀에서 열린 세 번째 싱글 'Fire Saturday (파이어 세러데이)' 발매 기념 쇼케이스에서 포토타임을 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 시크릿넘버 레아, '도도한 매력 물씬~']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004621545</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004621545"/>
-        <updated>2021-10-27T12:33:22.258Z</updated>
-        <content type="html"><![CDATA[그룹 시크릿넘버 레아가 27일 오후 서울 청담동 일지아트홀에서 열린 세 번째 싱글 'Fire Saturday (파이어 세러데이)' 발매 기념 쇼케이스에서 포토타임을 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 시크릿넘버 레아, '돋보이는 인형 미모']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004621544</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004621544"/>
         <updated>2021-10-27T12:33:22.258Z</updated>
         <content type="html"><![CDATA[그룹 시크릿넘버 레아가 27일 오후 서울 청담동 일지아트홀에서 열린 세 번째 싱글 'Fire Saturday (파이어 세러데이)' 발매 기념 쇼케이스에서 포토타임을 갖고 있다.]]></content>
     </entry>
