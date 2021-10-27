@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-10-27T18:25:57.514Z</updated>
+    <updated>2021-10-27T19:18:07.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[월드&포토] "눈물 나요"…LA에 K팝 그룹 뜨자 구름 인파]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012752107</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012752107"/>
+        <updated>2021-10-27T19:18:00.161Z</updated>
+        <content type="html"><![CDATA[8천여 명 팬들, 야외 공연장 꽉 채우고 신인 그룹 노래 '떼창' LA 축구장에선 애국가 울려 퍼져…김문환 선수 활약에 '엄지척' (로스앤젤레스=연합뉴스) 정윤섭 특파원 = 26일(현지시간) 밤 미국 캘리포니아주 로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘라디오스타’ 김윤주, 출연 소감 “좋아하는 분들과 함께해 좋았다”[M+★SNS]]]></title>
         <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001617249</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003794420"/>
         <updated>2021-10-27T13:26:13.974Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 정안지 기자] '같이 삽시다' 김청이 "자식을 가진 여자가 제일 부럽다"고 털어놨다. 27일 방송된 KBS 2TV '박원숙의 같이 삽시다'에서는 큰언니 박원숙의 주도로 고성에서 트레킹을 즐기는 자매들]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허지웅, 故 신해철 7주기 애도 "사진이나 잔뜩 찍어둘걸, 보고 싶다"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003794404</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003794404"/>
-        <updated>2021-10-27T12:33:29.940Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 이우주 기자] 작가 허지웅이 고 신해철의 7주기를 추모했다. 허지웅은 27일 SNS를 통해 "형 나 이제 일곱살 더 먹었다. 암 걸렸는데 살았어. 형 나도 디제이한다. 형이랑 술 마시고 싶다. 이럴]]></content>
     </entry>
 </feed>
