@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-10-27T15:22:24.309Z</updated>
+    <updated>2021-10-27T16:33:10.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이유, 오버핏으로 귀여움 ‘물씬’…러블리한 예쁨 폭발[M+★SNS]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001617247</id>
+        <link href="https://entertain.naver.com/now/read?oid=057&amp;aid=0001617247"/>
+        <updated>2021-10-27T16:33:02.056Z</updated>
+        <content type="html"><![CDATA[가수 아이유가 귀여운 매력을 자랑했다. 아이유는 지난 27일 오후 자신의 인스타그램에 “새 신발입니다”라는 글과 사진을 게재했다. 사진 속에는 자신의 몸보다 훨씬 큰 핏의 패딩을 입은 그의 모습이 담겨 있다. 시크한]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘구해줘 숙소’ 장예원, 김민주와 찰칵…예쁨이 두 배[M+★SNS]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001617244</id>
+        <link href="https://entertain.naver.com/now/read?oid=057&amp;aid=0001617244"/>
+        <updated>2021-10-27T16:33:02.070Z</updated>
+        <content type="html"><![CDATA[‘구해줘 숙소’ 장예원이 촬영 인증샷을 공개했다. 장예원은 지난 27일 오후 자신의 인스타그램에 “너무너무 착하고 예쁘고 야무진 민주와 오늘밤 #구해줘숙소”라는 글과 사진을 게재했다. 사진 속에는 숙소 앞에 여유롭게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김윤주 "♥권정열 첫인상? 홍대 허세라 '극혐'→무대에서 골반 함부로 써" ('라스')[종합]]]></title>
         <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003794459</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003794401"/>
         <updated>2021-10-27T12:33:29.942Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 이우주 기자] '유퀴즈' 콜드플레이가 영상 편지로 국내 팬들에게 깜짝 인사를 전했다. 27일 방송된 tvN 예능프로그램 '유퀴즈 온 더 블럭'에서는 콜드플레이의 깜짝 영상 편지가 공개됐다. 콜드플레이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘대한외국인’ 김요한, 외모로 손해를?… “국대 뽑혔을 때” 언급]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000941036</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000941036"/>
-        <updated>2021-10-27T12:33:29.944Z</updated>
-        <content type="html"><![CDATA['대한외국인' 전 배구선수 김요한이 예능 프로그램 대한외국인에서 잘생긴 외모에 얽힌 일화를 전해 관심을 모았다. 27일 오후 방송된 케이블 채널 MBC 에브리원 대한외국인에는 스포테이너 특집으로 심수창, 이대형, 김]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드류 베리모어, 前 남편과 20년만 재회 “존경하고 사랑해”]]></title>
-        <id>https://entertain.naver.com/now/read?oid=009&amp;aid=0004870696</id>
-        <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0004870696"/>
-        <updated>2021-10-27T12:33:29.945Z</updated>
-        <content type="html"><![CDATA[배우 드류 베리모어(46)와 코미디언 톰 그린(50)이 이혼 후 20년 만에 만났다. 26일(한국시간) 톰 그린은 드류 베리모어가 진행하는 미국 CBS TV 토크쇼 ‘더 드류 베리모어 쇼’에 게스트로 출연했다. 톰]]></content>
     </entry>
 </feed>
