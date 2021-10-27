@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-10-27T16:33:10.327Z</updated>
+    <updated>2021-10-27T17:24:38.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘라디오스타’ 김윤주, 출연 소감 “좋아하는 분들과 함께해 좋았다”[M+★SNS]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001617249</id>
+        <link href="https://entertain.naver.com/now/read?oid=057&amp;aid=0001617249"/>
+        <updated>2021-10-27T17:24:31.740Z</updated>
+        <content type="html"><![CDATA[‘라디오스타’ 김윤주가 소감을 전했다. 김윤주는 지난 27일 오후 자신의 인스타그램에 “생일 축하해주셔서 감사하다”라는 글과 사진을 게재했다. 이어 “덕분에 좋은 하루 보내고 있다. 건강하고 즐겁게 잘 살겠다♥”라고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이유, 오버핏으로 귀여움 ‘물씬’…러블리한 예쁨 폭발[M+★SNS]]]></title>
         <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001617247</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003794404"/>
         <updated>2021-10-27T12:33:29.940Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 이우주 기자] 작가 허지웅이 고 신해철의 7주기를 추모했다. 허지웅은 27일 SNS를 통해 "형 나 이제 일곱살 더 먹었다. 암 걸렸는데 살았어. 형 나도 디제이한다. 형이랑 술 마시고 싶다. 이럴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[콜드플레이가 '유퀴즈'에 왜 나와?..."BTS, 우리와 노래해줘 고마워"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003794401</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003794401"/>
-        <updated>2021-10-27T12:33:29.942Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 이우주 기자] '유퀴즈' 콜드플레이가 영상 편지로 국내 팬들에게 깜짝 인사를 전했다. 27일 방송된 tvN 예능프로그램 '유퀴즈 온 더 블럭'에서는 콜드플레이의 깜짝 영상 편지가 공개됐다. 콜드플레이]]></content>
     </entry>
 </feed>
