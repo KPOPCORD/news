@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-27T02:32:31.862Z</updated>
+    <updated>2021-10-27T03:22:21.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[포브스, 에스파 인기 조명…"국경 넘어 성공 거둬"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012750188</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012750188"/>
+        <updated>2021-10-27T03:22:20.522Z</updated>
+        <content type="html"><![CDATA[블랙핑크·트와이스·있지 이을 주자로 주목 (서울-연합뉴스) 이태수 기자 = 미국 유력 경제지 포브스가 최근 공식 홈페이지에 게재한 기사를 통해 걸그룹 에스파를 두고 "국경을 넘어 성공을 거뒀다"고 평가했다. 27일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이 배우의 '건장한 훈남' 성장에 다들 놀라 뒤집어졌다[Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004498836</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004498836"/>
+        <updated>2021-10-27T03:22:20.525Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 영국 출신 배우 윌 폴터가 소셜미디어를 뜨겁게 달구고 있다. 최근 마블의 '가디언즈 오브 갤럭시 Vol. 3'에 아담 워록 역으로 캐스팅된 윌 폴터의 '건장한 훈남 성장'에 팬들이 놀라움과]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안젤리나 졸리, 가죽 드레스로 뽐낸 콜라병 몸매…매혹적 미모 [N해외연예]]]></title>
         <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005683713</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000825993"/>
         <updated>2021-10-26T07:21:32.386Z</updated>
         <content type="html"><![CDATA[그룹 이펙스(EPEX)가 두 번째 EP '바이폴라(Bipolar) Pt. 2 사랑의 서'를 발매하고 26일 오후 온라인으로 미디어 쇼케이스를 가졌다. 쇼케이스에 앞서 포즈를 취하는 이펙스 아민. 사진제공=C9엔터테인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헤일리 키요코, '오징어게임' 정호연 할로윈 분장 "완전 빠졌어"[Oh!llywood]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004498499</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004498499"/>
-        <updated>2021-10-26T07:21:32.387Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 미국 배우 겸 가수 헤일리 키요코가 '오징어게임'의 강새벽(정호연 분)으로 분장했다. 키요코는 최근 자신의 SNS에 "할로윈 오징어 게임에서 정호연 분장한 067번째 사람"이란 글을 게재했다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백승 '자연스럽게~' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000825992</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000825992"/>
-        <updated>2021-10-26T07:21:32.388Z</updated>
-        <content type="html"><![CDATA[그룹 이펙스(EPEX)가 두 번째 EP '바이폴라(Bipolar) Pt. 2 사랑의 서'를 발매하고 26일 오후 온라인으로 미디어 쇼케이스를 가졌다. 쇼케이스에 앞서 포즈를 취하는 이펙스 백승. 사진제공=C9엔터테인]]></content>
     </entry>
 </feed>
