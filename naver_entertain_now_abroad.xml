@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-27T06:24:59.943Z</updated>
+    <updated>2021-10-27T07:20:24.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[드류 베리모어∙전 남편, 20년만에 토크쇼서 재회 "유체이탈 느낌"[Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004498965</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004498965"/>
+        <updated>2021-10-27T07:20:24.138Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] '전 부부'인 할리우드 드류 베리모어(46)와 코미디언 톰 그린(50)이 20년 만에 처음으로 재회했다. 2001년 7월부터 2002년 10월까지 베리모어와 결혼생활을 했던 그린은 최근 베리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['억만장자' 킴 카다시안 SNS에 마마무 화사 등판?…대체 왜]]></title>
+        <id>https://entertain.naver.com/now/read?oid=018&amp;aid=0005071332</id>
+        <link href="https://entertain.naver.com/now/read?oid=018&amp;aid=0005071332"/>
+        <updated>2021-10-27T07:20:24.139Z</updated>
+        <content type="html"><![CDATA[[이데일리 이선영 기자] 할리우드 스타 출신의 패션·뷰티 사업가 킴 카다시안이 2.6억명이 팔로워하는 자신의 사회관계망서비스(SNS)에 마마무 멤버 화사(본명 안혜진) 사진을 게재해 눈길을 끌고 있다. 27일(한국시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[레아-민지 '올 겨울은 복고다' [MK포토]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826283</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000826253"/>
         <updated>2021-10-27T06:24:59.303Z</updated>
         <content type="html"><![CDATA[걸그룹 시크릿넘버 세 번째 싱글 'Fire Saturday (파이어 세러데이)' 발매 기념 쇼케이스가 27일 오후 서울 강남구 청담동 일지아트홀에서 열렸다. 시크릿 넘버 디타가 포토타임을 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주 '기대하세요!' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826252</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000826252"/>
-        <updated>2021-10-27T06:24:59.305Z</updated>
-        <content type="html"><![CDATA[걸그룹 시크릿넘버 세 번째 싱글 'Fire Saturday (파이어 세러데이)' 발매 기념 쇼케이스가 27일 오후 서울 강남구 청담동 일지아트홀에서 열렸다. 시크릿 넘버 주가 포토타임을 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수담 '시크릿!' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826250</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000826250"/>
-        <updated>2021-10-27T05:19:58.614Z</updated>
-        <content type="html"><![CDATA[걸그룹 시크릿넘버 세 번째 싱글 'Fire Saturday (파이어 세러데이)' 발매 기념 쇼케이스가 27일 오후 서울 강남구 청담동 일지아트홀에서 열렸다. 시크릿 넘버 수담이 포토타임을 갖고 있다.]]></content>
     </entry>
 </feed>

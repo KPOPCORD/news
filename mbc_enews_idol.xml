@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 06:24:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 07:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[포토] 박소현, '아이돌 마스터'의 '저스트 비' 쇼케 진행]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329067</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329067</guid>
+            <pubDate>Wed, 27 Oct 2021 07:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329067">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/27/c2a556bb-e4f3-41ab-b76f-dab014478937.jpg" alt="[포토] 박소현, '아이돌 마스터'의 '저스트 비' 쇼케 진행">        <div class="text-box">            <p class="summary">[포토] 박소현, '아이돌 마스터'의 '저스트 비' 쇼케 진행</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/27/c2a556bb-e4f3-41ab-b76f-dab014478937.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빅스 레오, 빠져드는 아련한 눈빛]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/329060</link>
@@ -86,14 +94,6 @@
             <pubDate>Wed, 27 Oct 2021 02:31:57 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329012">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/27/JbAqWvY9iwZs637709257978593464.jpg" alt="‘구해줘! 숙소’ 김민주, 대국민 사과 나선 이유? 장예원, MBC 첫 입성!">        <div class="text-box">            <p class="summary">‘구해줘! 숙소’ 김민주, 대국민 사과 나선 이유? 장예원, MBC 첫 입성!</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/27/JbAqWvY9iwZs637709257978593464.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[버가부 유우나, '대한외국인' 출격…멤버 총출동 응원 나선다]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329008</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329008</guid>
-            <pubDate>Wed, 27 Oct 2021 02:31:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329008">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/27/d52f3567-c304-4608-ba50-f88cf5f1209a.jpg" alt="버가부 유우나, '대한외국인' 출격…멤버 총출동 응원 나선다">        <div class="text-box">            <p class="summary">버가부 유우나, '대한외국인' 출격…멤버 총출동 응원 나선다</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/27/d52f3567-c304-4608-ba50-f88cf5f1209a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

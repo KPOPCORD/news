@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 06:24:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 07:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“K팝에서 K군것질까지” 한국문화축제 열린다 (KBS연예 ─ 음악)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=168240</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=168240</guid>
+            <pubDate>Wed, 27 Oct 2021 07:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=168240">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211027154702_ce14f3b0be9a068499775c2ec5f3536d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=168240">“K팝에서 K군것질까지” 한국문화축제 열린다</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211027154702_ce14f3b0be9a068499775c2ec5f3536d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[포브스 집중 조명 에스파, 하프 밀리언셀러 (KBS연예 ─ 음악)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=168177</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=166884">씨엔블루 오늘 컴백, 아홉 번째 미니앨범 ‘WANTED’</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211020084919_835a9022a9a7a39365c702921c4b1e0c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남우현 2년 5개월 만 귀환 '냉정과 열정 사이' (KBS연예 ─ 음악)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=166761</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=166761</guid>
-            <pubDate>Tue, 19 Oct 2021 09:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=166761">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211019174326_9aa7c27902f66f5d58105469d4f1438a.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=166761">남우현 2년 5개월 만 귀환 '냉정과 열정 사이'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211019174326_9aa7c27902f66f5d58105469d4f1438a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[겨울 장식할 뮤지컬 코미디 '젠틀맨스 가이드' (KBS연예 ─ 연예)]]></title>
@@ -688,6 +688,14 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211019132922_44bcef16318e22552e0ce5fd19b15a59_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[포토] 박소현, '아이돌 마스터'의 '저스트 비' 쇼케 진행 (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329067</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329067</guid>
+            <pubDate>Wed, 27 Oct 2021 07:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329067">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/27/c2a556bb-e4f3-41ab-b76f-dab014478937.jpg" alt="[포토] 박소현, '아이돌 마스터'의 '저스트 비' 쇼케 진행">        <div class="text-box">            <p class="summary">[포토] 박소현, '아이돌 마스터'의 '저스트 비' 쇼케 진행</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/27/c2a556bb-e4f3-41ab-b76f-dab014478937.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[빅스 레오, 빠져드는 아련한 눈빛 (MBC 연예 ─ 아이돌)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/329060</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329060</guid>
@@ -768,12 +776,74 @@
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/27/JbAqWvY9iwZs637709257978593464.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[버가부 유우나, '대한외국인' 출격…멤버 총출동 응원 나선다 (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329008</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329008</guid>
-            <pubDate>Wed, 27 Oct 2021 02:31:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329008">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/27/d52f3567-c304-4608-ba50-f88cf5f1209a.jpg" alt="버가부 유우나, '대한외국인' 출격…멤버 총출동 응원 나선다">        <div class="text-box">            <p class="summary">버가부 유우나, '대한외국인' 출격…멤버 총출동 응원 나선다</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/27/d52f3567-c304-4608-ba50-f88cf5f1209a.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[저스트비 임지민 "첫 번째 컴백, 데뷔와는 또 다른 느낌으로 떨려" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211027161607628</link>
+            <guid>https://entertain.v.daum.net/v/20211027161607628</guid>
+            <pubDate>Wed, 27 Oct 2021 07:19:54 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 조혜진 기자) 그룹 저스트비(JUST B) 임지민이 컴백 소감을 전했다. 저스트비(임지민, 이건우, 배인, JM, 전도염, 김상우) 첫 번째 싱글 앨범 '저스트 비트(JUST BEAT)' 발매 기념 쇼케이스가 27일 오후 온라인 생중계로 진행됐다.&nbsp; 4개월 만에 돌아온 저스트비는 이날 컴백 소감을 밝혔다. 임지민은 "데뷔 때보다는 덜 떨리는]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[저스트 비 임지민·전도염 "데뷔 후 첫 컴백, 색다른 떨림有" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211027161510589</link>
+            <guid>https://entertain.v.daum.net/v/20211027161510589</guid>
+            <pubDate>Wed, 27 Oct 2021 07:19:54 GMT</pubDate>
+            <content:encoded><![CDATA[저스트 비(JUST B)가 컴백 소감을 밝혔다. 27일 오후 저스트 비(임지민, 이건우, 배인, JM, 전도염, 김상우) 첫 번째 싱글 앨범 ‘JUST BEAT’ 발매 기념 온‧오프라인 쇼케이스가 열렸다. 이날 임지민은 “데뷔 활동 때보다는 덜 떨리다. 아무래도 첫 번째 컴백이다 보니 또 다른 느낌으로 떨리는 것 같다”라며 설레는 마음을 전했다. 전도염도]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[블랙핑크 리사, 'LALISA' MV 3억뷰 돌파..K팝 女 솔로 최단 신기록 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211027161425531</link>
+            <guid>https://entertain.v.daum.net/v/20211027161425531</guid>
+            <pubDate>Wed, 27 Oct 2021 07:19:54 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=선미경 기자] 그룹 블랙핑크 멤버 리사의 첫 번째 솔로 앨범 타이틀곡 ‘LALISA’ 뮤직비디오가 유튜브에서 3억뷰를 돌파했다.&nbsp; 27일 YG엔터테인먼트에 따르면 리사의 ‘LALISA’ 뮤직비디오는 이날 오후 3시 46분께 유튜브에서 조회수 3억 회를 넘어섰다. 지난 9월 10일 공개된 지 약 48일 만이다. 같은 조회수를 달성한 K팝 여성 솔로]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[블랙핑크 리사, '라리사' MV 3억뷰..K팝 女솔로 신기록 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211027161235438</link>
+            <guid>https://entertain.v.daum.net/v/20211027161235438</guid>
+            <pubDate>Wed, 27 Oct 2021 07:19:54 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 일지아트홀=공미나 기자] /사진제공=YG엔터테인먼트그룹 블랙핑크 리사의 '라리사 (LALISA)' 뮤직비디오가 공개 48일 만에 3억뷰를 돌파했다. K팝 여성 솔로 아티스트 중 최단 기록이다. 27일 소속사 YG엔터테인먼트에 따르면 리사의 '라리사' 뮤직비디오는 이날 오후 3시 46분께 유튜브에서 조회수 3억 회를 넘어섰다. 지난 9월 10일 공]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[블랙핑크 리사 'LALISA' MV 3억뷰 돌파..K팝 여성 솔로 최단 기록 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211027155520556</link>
+            <guid>https://entertain.v.daum.net/v/20211027155520556</guid>
+            <pubDate>Wed, 27 Oct 2021 07:19:54 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 김명미 기자] 블랙핑크 리사의 첫 솔로 앨범 타이틀곡 ‘LALISA’ 뮤직비디오가 유튜브에서 3억뷰를 돌파했다. 10월 27일 YG엔터테인먼트에 따르면 리사의 ‘LALISA’ 뮤직비디오는 이날 오후 3시 46분께 유튜브에서 조회수 3억 회를 넘어섰다. 지난 9월 10일 공개된 지 약 48일 만. 같은 조회수를 달성한 K팝 여성 솔로 아티스트 뮤직]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['6인조 컴백' 시크릿넘버, 나팔바지 입고 텐션 업 '불토' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211027154904254</link>
+            <guid>https://entertain.v.daum.net/v/20211027154904254</guid>
+            <pubDate>Wed, 27 Oct 2021 07:19:54 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 시크릿넘버(SECRET NUMBER)가 새로운 매력을 품고 돌아왔다. 시크릿넘버(레아, 디타, 진희, 민지, 수담, 주)는 27일 오후 서울 강남구 일지아트홀에서 세 번째 싱글 '파이어 세러데이(Fire Saturday)' 발매 기념 미디어 쇼케이스를 개최했다. 시크릿넘버의 신보는 지난해 11월 발매한 싱글 '갓 댓 붐(Got That Boom)' 이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[6인조 된 시크릿넘버, 新 레트로 요정 꿰찰까 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211027154701171</link>
+            <guid>https://entertain.v.daum.net/v/20211027154701171</guid>
+            <pubDate>Wed, 27 Oct 2021 07:19:54 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=우빈 기자]걸그룹 시크릿넘버가 팀을 재정비해 첫 컴백했다.&nbsp;27일 오후 서울 청담동 일지아트홀에서 시크릿넘버 세번째 싱글 '파이어 세러데이(Fire Saturday)' 발매 기념 쇼케이스가 열렸다.&nbsp;시크릿넘버의 신보는 지난해 11월 발매한 싱글 ‘Got That Boom’ 이후 약 11개월 만이다. 공백동안 시크릿넘버에겐 변화가 생겼다. 기존 멤]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[新 고막남친 꿈꾸는 임상현 "제 노래로 위로받길" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211027154450028</link>
+            <guid>https://entertain.v.daum.net/v/20211027154450028</guid>
+            <pubDate>Wed, 27 Oct 2021 07:19:54 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 이덕행 기자] /사진=MNH엔터테인먼트가수 임상현이 두 번째 싱글로 돌아왔다. 지난 21이 임상현의 새 싱글 '이럴거면'이 각종 온라인 음원 사이트를 통해 공개됐다. 임상현은 "첫 곡을 발매했을 때는 마냥 설렜다면 이번에는 팬분들의 기대치를 충족시켜드려야 한다는 부담감도 같이 있다. 하지만 내 노래를 세상에 내보내는 일은 언제라도 설레는 일인]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['6인조' 시크릿넘버, 더 뜨거운 '불토' 예고 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211027153457524</link>
+            <guid>https://entertain.v.daum.net/v/20211027153457524</guid>
+            <pubDate>Wed, 27 Oct 2021 07:19:54 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 6인조 그룹으로 거듭난 시크릿넘버가 더욱 강력해진 퍼포먼스를 예고했다.시크릿넘버의 세 번째 싱글 ‘파이어 세터데이(Fire Saturday)’ 발매 기념 쇼케이스가 27일 서울 강남구 일지아트홀에서 열렸다. 이날 공개되는 ‘파이어 새터데이(Fire Saturday)’는 11개월 만의 신보다. 오랜 공백 끝 컴백을 맞아 기존 멤버 레아, 디타]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["더 견고해졌다"..6인조 된 '시크릿넘버'의 새로운 시작 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211027152952280</link>
+            <guid>https://entertain.v.daum.net/v/20211027152952280</guid>
+            <pubDate>Wed, 27 Oct 2021 07:19:54 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 시크릿넘버(SECERET NUMBER)가 새로운 시작을 알렸다.시크릿넘버는 27일 오후 서울 강남구 일지아트홀에서 세 번째 싱글 ‘파이어 세러데이’(Fire Saturday) 발매 기념 쇼케이스를 열고 6인조로서의 첫 발을 뗐다.지난해 11월 싱글 ‘갓 댓 붐’(Got That Boom) 이후 11개월 만에 컴백하는 이들은. 이번 활동부터 새 멤버 민]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[걸그룹 시크릿넘버, 27일 '위드 코로나' 첫발 오프라인 쇼케이스 "1위 후보에 오르고 싶다" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
@@ -811,74 +881,88 @@
             <content:encoded><![CDATA[[마이데일리 = 오윤주 기자] 그룹 시크릿넘버(SECRET NUMBER)가 새 멤버 주, 민지와 함께 6인조로 돌아왔다. 27일 오후 시크릿넘버(레아, 디타, 진희, 민지, 수담, 주) 세 번째 싱글 '파이어 세러데이(Fire Saturday)' 발매 기념 쇼케이스가 서울 강남구 일지아트홀에서 개최됐다. 시크릿넘버의 신보는 지난해 11월 발매한 싱글 '갓]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[시크릿넘버, 6인조로 꽉 채웠다..'불토'로 화끈하게 1위 예약 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211027151201553</link>
-            <guid>https://entertain.v.daum.net/v/20211027151201553</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:26 GMT</pubDate>
-            <content:encoded><![CDATA[걸그룹 시크릿넘버(SECRET NUMBER)가 11개월 만에 화끈하게 컴백했다. 27일 오후 서울 청담동 일지아트홀에서 시크릿넘버 세번째 싱글 '파이어 세러데이(Fire Saturday)' 발매 기념 쇼케이스가 진행됐다. 시크릿넘버의 신보는 지난해 11월 발매한 싱글 ‘Got That Boom’ 이후 약 11개월 만이다. 시크릿넘버는 이번 컴백을 맞아]]></content:encoded>
+            <title><![CDATA[박재범 "'스우파' 댄서, 방송 덕 NO..이미 흥했어야 하는 분들" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211027161749693</link>
+            <guid>https://entertain.v.daum.net/v/20211027161749693</guid>
+            <pubDate>Wed, 27 Oct 2021 07:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이슬 기자) 가수 박재범이 '스우파' 댄서들을 비롯한 대한민국 댄서들에게 응원을 전하며, 자신의 생각을 밝혔다. 27일 박재범은 자신의 인스타그램에 "우승 축하드립니다"라는 글과 함께 사진을 게재했다. 공개된 사진에는 박재범과 Mnet '스트릿 우먼 파이터'(이하 '스우파') 우승 크루 홀리뱅이 담겼다. 박재범은 '스우파' 홀리뱅의 파이널]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[정세운, '볼륨' 막둥이로 막방.."라디오 매력 느낄 수 있었던 시간" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211027151141534</link>
-            <guid>https://entertain.v.daum.net/v/20211027151141534</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:26 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=선미경 기자] 가수 정세운이 ‘볼륨’의 막둥이로 마지막 방송을 진행했다.&nbsp; 정세운은 지난 26일 오후 방송된 KBS 라디오 쿨FM ‘강한나의 볼륨을 높여요’(이하 ‘볼륨’)의 ‘찐! 선곡로드’ 코너에 마지막으로 함께했다.&nbsp; 지난 해 9월부터 약 1년이 넘는 시간 동안 매주 화요일 ‘볼륨’의 막내로 청취자를 만나온 정세운은 DJ 강한나, 백아연과]]></content:encoded>
+            <title><![CDATA["이정재 참고하고 조정석에 배우고"..곽시양, '홍천기'로 찾은 색 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211027161422524</link>
+            <guid>https://entertain.v.daum.net/v/20211027161422524</guid>
+            <pubDate>Wed, 27 Oct 2021 07:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 문지연 기자] 배우 곽시양(34)이 '홍천기'를 통해 '자연스러움'을 익혔다. 26일 10.4%(닐슨코리아 전국기준)의 자체 최고 시청률을 경신하며 종영한 SBS 월화드라마 '홍천기'(하은 극본, 장태유 연출)는 신령한 힘을 가진 여화공 홍천기(김유정)와 하늘의 별자리를 읽는 붉은 눈의 남자 하람(안효섭)이 그리는 한 폭의 판타]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[시크릿 넘버, 작정하고 폭발시킨 복고풍 레트로 '흥' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211027150859441</link>
-            <guid>https://entertain.v.daum.net/v/20211027150859441</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:26 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 시크릿 넘버가 청순, 가련, 섹시를 벗어던지고 레트로 복고풍 흥을 폭발시켰다. 27일 오후 서울 강남구 일지아트홀에서 시크릿넘버(레아, 디타, 진희, 민지, 수담, 주)의 세 번째 싱글 'Fire Saturday (파이어 세러데이)' 발매 기념 미디어 쇼케이스가 열렸다. 진행은 방송인 박슬기가 맡았다. 새 멤버 민지, 주를 영입한 시크릿넘버는 이]]></content:encoded>
+            <title><![CDATA['유퀴즈' 루시드폴, 소속사 식구 유재석과 '케미' 폭발 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211027161042339</link>
+            <guid>https://entertain.v.daum.net/v/20211027161042339</guid>
+            <pubDate>Wed, 27 Oct 2021 07:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] '유 퀴즈 온 더 블럭'에서 가을을 맞아 '수확의 계절' 특집을 선보인다. 27일 저녁 8시 40분 방송되는 tvN 예능프로그램 '유 퀴즈 온 더 블럭' 128회에서는 풍성한 결실을 수확하는 자기님들과 사람 여행을 떠난다. 영농부부, 야학 선생님, 자녀 교육 멘토 박혜란 작가, 가수 겸 감귤영농인 루시드폴이 유퀴저로 출연해 저마]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["티아라·원걸 찾아봐" 시크릿넘버, 새 멤버 민지·주와 레트로로 출격 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211027150835430</link>
-            <guid>https://entertain.v.daum.net/v/20211027150835430</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:26 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 그룹 시크릿넘버가 6인조로 변화, 강렬한 레트로 콘셉트로 11개월 만에 돌아왔다. 시크릿넘버는 27일 오후 2시 서울 강남구 청담 일지아트홀에서 세 번째 싱글 '파이어 세러데이'(Fire Saturday) 발매 쇼케이스를 개최했다. 시크릿넘버는 지난해 11월 싱글 '갓 댓 붐'(Got That Boom) 이후 11개월 만]]></content:encoded>
+            <title><![CDATA['국민가수' 이병찬→김영근 국민가수戰.."반전과 이변 연속" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211027160757198</link>
+            <guid>https://entertain.v.daum.net/v/20211027160757198</guid>
+            <pubDate>Wed, 27 Oct 2021 07:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 김나연 기자] ‘내일은 국민가수’ 이병찬 김영흠 박창근 박광선 유슬기 김영근 등 화제의 실력파 참가자들이 확 달라진 이미지 변신으로 반전에 반전을 거듭한 무대를 펼친다. TV CHOSUN 글로벌 K-POP 오디션 ‘내일은 국민가수’(이하 ‘국민가수’)는 나이와 장르, 국적, 성별을 불문하고 노래를 사랑하고 무대에 대한 갈망이 있는 사람이라면]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[시크릿넘버 "목표=1위 후보·차트 50위"..나팔바지 입은 '불토' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211027150735389</link>
-            <guid>https://entertain.v.daum.net/v/20211027150735389</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:26 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이슬 기자) 그룹 시크릿넘버(SECERET NUMBER)가 11개월 만의 신곡 '불토'로 1위 후보, 차트 50위라는 포부를 밝혔다. 시크릿넘버의 세 번째 싱글 'Fire Saturday'(파이어 세러데이) 발매 기념 쇼케이스가 27일 오후 서울시 강남구 청담동 일지아트홀에서 진행됐다. 타이틀곡 '불토 (Fire Saturday)'는 레트로]]></content:encoded>
+            <title><![CDATA["김선호 술 좋아하고 여성 편력?" 대학 동문 등판, 3가지 사건으로 인성 논란 반박 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211027160607089</link>
+            <guid>https://entertain.v.daum.net/v/20211027160607089</guid>
+            <pubDate>Wed, 27 Oct 2021 07:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이하나 기자] 김선호를 둘러싼 사생활 논란이 이어지고 있는 가운데, 김선호의 대학 동문이 학창 시절 추억을 공개하며 그를 응원했다. 김선호의 대학 동문이라고 밝힌 한 누리꾼은 지난 10월 26일 한 온라인 커뮤니티에 ‘제가 겪은 대학 시절 김선호 배우의 인성에 대해 적어봅니다’라는 제목의 장문의 글과 함께 김선호의 대학 시절 사진을 공개했다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴, 'Attacca'로 5연속 밀리언셀러 등극 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211027150541270</link>
-            <guid>https://entertain.v.daum.net/v/20211027150541270</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:26 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 조혜진 기자) 그룹 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)이 미니 9집으로 5연속 밀리언셀러를 달성했다. 지난 22일 발매된 세븐틴의 미니 9집 'Attacca(아타카)'가 국내 최대 음반 판매량 집계 사이트 한터차트 기준 발매 5일 만에 앨범 판매량 115만 2,351장을 넘]]></content:encoded>
+            <title><![CDATA['유희열의 스케치북', 방영 보류된 'F20' 빈자리 채운다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211027155817696</link>
+            <guid>https://entertain.v.daum.net/v/20211027155817696</guid>
+            <pubDate>Wed, 27 Oct 2021 07:19:59 GMT</pubDate>
+            <content:encoded><![CDATA['유희열의 스케치북'을 예정보다 일찍 볼 수 있게 됐다. 'F20'이 조현병 환자들에 대한 혐오를 부추긴다는 논란에 휩싸이며 방영이 보류됐기 때문이다. 27일 KBS 측 관계자는 본지에 "오늘 편성이 확정됐다. 'F20'이 방영 예정이던 시간대에 '유희열의 스케치북'이 당겨져 방송될 예정이다"라고 밝혔다. 'F20'은 오는 29일 오후 11시 25분 KBS]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[시크릿넘버 "레트로 콘셉트, 티아라·원더걸스·'써니' 참고" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211027150235155</link>
-            <guid>https://entertain.v.daum.net/v/20211027150235155</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:26 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 그룹 시크릿넘버가 레트로 콘셉트에 대해 언급했다.레아는 27일 서울 강남구 일지아트홀에서 열린 세 번째 싱글 ‘파이어 세러데이(Fire Saturday)’ 발매 기념 쇼케이스에서 “콘셉트를 위해 티아라 선배님과 원더걸스 선배님들 영상을 많이 봤다. 영화 ‘써니’도 봤다”고 전했다.이어 “수담이가 자켓 촬영을 하는데 그 시절 ‘국민 첫사랑’의]]></content:encoded>
+            <title><![CDATA["가족의 날 불러줘" 홍현희, 제이쓴→시모 토크로 '컬투쇼' 웃음 초토화 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211027155705670</link>
+            <guid>https://entertain.v.daum.net/v/20211027155705670</guid>
+            <pubDate>Wed, 27 Oct 2021 07:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 홍현희가 남편 제이쓴부터 시모까지 유쾌한 가족 토크로 '컬투쇼'를 웃음 초토호시켰다. 10월 27일 방송된 SBS 파워FM '두시탈출 컬투쇼'(이하 '컬투쇼')에는 개그우먼 홍현희가 스페셜 DJ로 함께했다. 이날 홍현희는 오랜만의 출연에 김태균으로부터 큰 환영을 받았다. 최근 16㎏ 감량을 한 홍현희는 김태균이 이제 어엿한 미녀]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[시크릿넘버 "그룹 최초로 MBTI 'E' 멤버 합류..팀 분위기 바뀌어" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211027150013017</link>
-            <guid>https://entertain.v.daum.net/v/20211027150013017</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:26 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 오윤주 기자] 그룹 시크릿넘버(SECRET NUMBER)가 6인조 개편 후 컴백했다. 27일 오후 시크릿넘버(레아, 디타, 진희, 민지, 수담, 주) 세 번째 싱글 '파이어 세러데이(Fire Saturday)' 발매 기념 쇼케이스가 서울 강남구 일지아트홀에서 개최됐다. 시크릿멤버는 새 멤버 민지와 주의 합류 과정을 돌아봤다. 레아는 "인원]]></content:encoded>
+            <title><![CDATA['스우파', 주연으로 우뚝 선 댄서들..신드롬 계속 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211027155500532</link>
+            <guid>https://entertain.v.daum.net/v/20211027155500532</guid>
+            <pubDate>Wed, 27 Oct 2021 07:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 김나연 기자] "K팝 춤을 만드는 댄서들에게도 팬이 생길 수 있었으면 좋겠다." Mnet '스트릿 우먼 파이터'를 연출한 최정남 PD가 제작발표회에서 밝힌 기획 의도다. 처음에는 다소 터무니 없는 말이라고 생각했을 지도 모른다. 그러나 '스트릿 우먼 파이터'가 대장정의 막을 내린 지금, 최정남 PD의 말은 현실이 됐다. 8월 24일 첫 방송]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['컴백' 시크릿넘버 "첫 레트로 콘셉트 '불토', 듣고 힐링하셨으면" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211027150012012</link>
-            <guid>https://entertain.v.daum.net/v/20211027150012012</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:26 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 시크릿넘버(SECRET NUMBER)가 레트로 풍의 신나는 댄스곡을 선보이게 된 소감을 밝혔다. 시크릿넘버(레아, 디타, 진희, 민지, 수담, 주)는 27일 오후 서울 강남구 일지아트홀에서 세 번째 싱글 '파이어 세러데이(Fire Saturday)' 발매 기념 미디어 쇼케이스를 개최했다. 이번 앨범은 타이틀곡 '불토(Fire Saturday)'와 '댄]]></content:encoded>
+            <title><![CDATA["김희재 팬클럽, 기부문화확산 기여..책으로 꿈키워갔으면" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211027154655166</link>
+            <guid>https://entertain.v.daum.net/v/20211027154655166</guid>
+            <pubDate>Wed, 27 Oct 2021 07:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 가수 김희재 팬클럽으로부터 기부금을 전달받은 느티나무도서관재단이 감사함을 표했다.느티나무도서관재단 관계자는 27일 “김희재 팬클럽 ‘빛희재와 희랑별’의 기부금은 어린이를 비롯해 전연령층이 이용하는 도서관 운영 비용에 사용될 예정”이라며 “이로 인해 책으로 꿈을 키워가는 이들이 점점 더 늘어났으면 하는 마음이다”라고 밝혔다.이어 “기존의 기부]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[시크릿넘버 레아 "티아라 참고..멤버 수담, 국민첫사랑 느낌" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211027145857935</link>
-            <guid>https://entertain.v.daum.net/v/20211027145857935</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:26 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 그룹 시크릿넘버가 새 앨범 콘셉트를 위해 티아라, 원더걸스와 영화 '써니'를 참고했다고 밝혔다. 시크릿넘버는 27일 오후 2시 서울 강남구 청담 일지아트홀에서 세 번째 싱글 '파이어 세러데이'(Fire Saturday) 발매 쇼케이스를 개최했다. 이날 레아는 이번 레트로 콘셉트를 위해 참고한 점에 대해 "티아라 선배님,]]></content:encoded>
+            <title><![CDATA[김요한 "'대한외국인' 팀에 마음에 드는 사람 있다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211027153717679</link>
+            <guid>https://entertain.v.daum.net/v/20211027153717679</guid>
+            <pubDate>Wed, 27 Oct 2021 07:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 황서연 기자] ‘대한외국인’에서 전 배구선수 김요한이 마음에 드는 사람이 있다고 고백한다. 27일 방송하는 MBC에브리원 예능프로그램 ‘대한외국인’은 ‘스포테이너’ 특집으로 야구계 비주얼 양대 산맥 심수창, 이대형과 배구계 대표 꽃미남 김요한, 원조 야구 여신 최희가 출연해 퀴즈 대결을 펼친다. 2007년 LIG 그레이터스에 입단해 얼굴을]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[박군, 성추행 의혹에 초강수..폭로자 명예훼손 고소 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211027153020323</link>
+            <guid>https://entertain.v.daum.net/v/20211027153020323</guid>
+            <pubDate>Wed, 27 Oct 2021 07:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 최혜진 기자] 최근 성추행 의혹에 휘말린 가수 박군 측이 법적 대응이라는 초강수를 뒀다. 박군의 사생활 논란은 지난 22일 한 온라인 커뮤니티를 통해 게재된 '특수부대 출신 가수 P에게 가스리이팅을 당했습니다"라는 폭로글로부터 불거졌다. P의 소속사 후배였다고 밝힌 폭로자는 "P가 일방적인 성희롱과 추행을 일삼았다"고 폭로했다. 또한 P가]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["보이는 것만 믿는다"?..'갯차' 제작진→아역배우, 사생활 논란에도 김선호 지지 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211027152429072</link>
+            <guid>https://entertain.v.daum.net/v/20211027152429072</guid>
+            <pubDate>Wed, 27 Oct 2021 07:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 문지연 기자] 배우 김선호가 '사생활 논란'으로 대중들에게서 멀어지고 있는 가운데, 그럼에도 그의 옆을 지키고 있는 제작진과 배우들은 있다. 김선호는 자신의 주연작이던 tvN '갯마을 차차차'가 종영하던 날 오후 혼인을 빙자해 낙태를 종용했다는 '사생활 폭로'를 한 전여친 A씨로 인해 모든 것을 잃고 침묵 중이다. 출연 예정이던]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["본 투 비 멤버처럼"..시크릿넘버, 새 멤버들로 더 견고해진 팀워크 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
@@ -902,88 +986,11 @@
             <content:encoded><![CDATA[[스포츠경향] 가수 정진운이 웹드라마 ‘두근두근 방송사고’ OST 첫 주자로 나선다.27일 제작사 더리더스컴퍼니에 따르면 정진운이 부른 웹드라마 ‘두근두근 방송사고’의 첫 번째 OST ‘다행이에요’ 가 이날 오후 12시 각종 음원사이트를 통해 공개된다.첫 방송을 앞두고 선공개 되는 정진운의 ‘다행이에요’는 잔잔한 밴드 사운드를 기반으로 집으로 돌아가는 길]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["페이스ID도 풀려" '컬투쇼' 홍현희, 시모·제이쓴 토크로 빵터진 입담 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211027151232576</link>
-            <guid>https://entertain.v.daum.net/v/20211027151232576</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:31 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 방송인 홍현희가 남편 제이쓴과 그와 똑닮은 시어머니 에피소드로 라디오 청취자들에게 큰 웃음을 안겼다. 27일 전파를 탄 SBS 파워FM '두시탈출 컬투쇼'에서는 홍현희가 스페셜 DJ로 출연했다. 이날 홍현희는 "여기 PD님을 처음 뵀는데 저를 보자마자 예쁘다 한다. 제가 마기꾼"이라며 시작부터 유쾌한 입담으로 웃음을 줬]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['골목식당' 신철원 샤부샤부집 사장, 백종원 평가에 눈물 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211027150627338</link>
-            <guid>https://entertain.v.daum.net/v/20211027150627338</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:31 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] '백종원의 골목식당' 신철원 골목 샤부샤부집 사장이 백종원의 평가에 눈물을 쏟는다. 27일 방송되는 SBS 예능프로그램 '백종원의 골목식당'에서는 37번째 골목 '신철원' 골목 세 번째 이야기가 공개된다. 앞서 밍밍한 간을 지적받은 '전골 칼국숫집'은 육수 간을 두고 백종원과 사장님이 상반된 의견을 보였고, 2MC도 가게로 출]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[세븐틴 미니 9집 5일 만에 115만장 팔려..5연속 밀리언 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211027150303172</link>
-            <guid>https://entertain.v.daum.net/v/20211027150303172</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:31 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 이태수 기자 = 그룹 세븐틴이 지난 22일 발표한 아홉 번째 미니음반 '아타카'(Attacca)가 5일 만에 100만장 넘게 팔렸다고 소속사 플레디스엔터테인먼트가 27일 밝혔다. 이 음반은 전날까지 한터차트 기준 115만2천351장이 팔렸다. 세븐틴은 이로써 정규 3집 '언 오드'(An Ode) 이후 미니 7집 '헹가래', 스페셜 앨범 ']]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['연모' 박은빈♥로운, 아찔한 입덕 부정기 시작 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211027145845920</link>
-            <guid>https://entertain.v.daum.net/v/20211027145845920</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:31 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 황서연 기자] ‘연모’ 박은빈과 로운의 아찔한 입덕 부정기가 시작된다. 지난 25일 방송된 KBS 2TV 월화드라마 ‘연모’(극본 한희정·연출 송현욱) 5회에서 기습 포옹 엔딩을 장식한 ‘휘운 커플’ 이휘(박은빈)와 정지운(로운). 숨소리까지 느껴지는 가까운 거리에서 두 사람이 주고받은 떨림은 보는 이들의 심장 박동 수까지 폭발시키며 마치 시]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[홍현희 시모 '컬투쇼' 깜짝 전화연결, 백화점 상품권 당첨에 "가질거야" 폭소 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211027145650844</link>
-            <guid>https://entertain.v.daum.net/v/20211027145650844</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:31 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 홍현희 시어머니가 '컬투쇼'와 깜짝 전화연결됐다. 10월 27일 방송된 SBS 파워FM '두시탈출 컬투쇼'(이하 '컬투쇼')에는 개그우먼 홍현희가 스페셜 DJ로 함께했다. 이날 홍현희는 노래 이어부르기 퀴즈에서 조용필 문제가 출제되자 자신의 어머니 전화 연결을 해보자고 즉석 제안했다. "어머니가 조용필 노래는 욕심이 나시는지 진]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[힘 빠진 '홍천기'의 엔딩, 이래서 다들 OTT 보나봅니다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211027144336247</link>
-            <guid>https://entertain.v.daum.net/v/20211027144336247</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:31 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 헤어질 때 아름다운 만남이 진짜 아름다운 만남일지 모른다. 모든 극은 시작 못지않게 완성된 결말을 필요로 한다. 최종회에서 남는 여운이 또 다른 작품을 만나고 싶은 그리움의 원동력이 된다.애석하지만 SBS 드라마 ‘홍천기’는 그렇지 못했다. 지난 26일 막을 내린 ‘홍천기’는 시청률 조사업체 닐슨코리아 집계로 10.4%의 자체 최고기록을 남]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[리헤이 "고집 센 코카엔버터 '스우파'로 많이 배우고 반성했다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211027144105149</link>
-            <guid>https://entertain.v.daum.net/v/20211027144105149</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:31 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박수인 기자] 코카엔버터 리더 리헤이가 '스트릿 우먼 파이터' 종영소감을 전했다. 리헤이는 10월 27일 개인 SNS에 Mnet '스트릿 우먼 파이터' 파이널 인증샷과 함께 장문의 글을 게재했다. 리헤이는 코카엔버터가 '스트릿 우먼 파이터'에서 최종 4위를 기록한 것에 대해 "파이널 무대까지 올라오게 될 줄은 상상도 못했다. '스우파' 시작부터]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[시크릿넘버 주‧민지 "새 멤버로 합류해 기쁘다, 떨리고 설레는 감정" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211027144033130</link>
-            <guid>https://entertain.v.daum.net/v/20211027144033130</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:31 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=정유진 기자] 그룹 시크릿넘버 새 멤버 주, 민지가 합류 소감을 전했다. 시크릿넘버는 27일 서울 강남구 청담동 일지아트홀에서 열린 세 번째 싱글 '파이어 세터데이' 쇼케이스에서 "새 멤버로 합류해 기쁘다"라며 "떨리고 설레기도 하고 굉장히 복잡한 감정"이라고 했다. 시크릿넘버는 지난해 11월 발매한 싱글 '갓 댓 붐' 이후 11월 만]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[YEGNY "신곡 'Nightmare', 누군가의 악몽이 되고 싶어" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211027143758012</link>
-            <guid>https://entertain.v.daum.net/v/20211027143758012</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:31 GMT</pubDate>
-            <content:encoded><![CDATA[MBC FM4U '정오의 희망곡 김신영입니다'에 남우현, YEGNY(최예근)이 출연했다. 27일(수) 방송된 MBC FM4U '정오의 희망곡 김신영입니다'에서는 남우현, YEGNY(최예근)이 '선생님을 모십니다' 코너에서 새 앨범을 소개하고 이야기를 나눴다. 이날 DJ 김신영은 남우현, YEGNY(최예근)을 "실력은 기본, 남다른 뚝심과 열정으로 무장한]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이석훈 '젠틀맨스 가이드' 캐릭터컷 공개..몬티 나바로 변신 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211027143417863</link>
-            <guid>https://entertain.v.daum.net/v/20211027143417863</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:31 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 가수 이석훈이 뮤지컬 '젠틀맨스 가이드'에서 새로운 캐릭터를 선보인다. 10월 27일 '젠틀맨스 가이드:사랑과 살인편(이하 '젠틀맨스 가이드')' 제작사 쇼노트 공식 SNS를 통해 몬티 나바로 역을 맡은 이석훈의 캐릭터 컷 사진이 공개됐다. 사진 속 이석훈은 멋스러운 정장을 입고 책을 펼친 채 그윽한 눈빛으로 카메라를 응시하고 있다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["김선호 진실에 보탬 되고자" 대학 동기, 실제 인성 담긴 사건·사진 인증 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211027143244771</link>
-            <guid>https://entertain.v.daum.net/v/20211027143244771</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:31 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=임혜영 기자] 배우 김선호가 전 여자친구와의 사생활, 인성 논란으로 연일 화제를 모으고 있는 가운데 대학 시절 동기가 김선호의 인성을 인증하고 나섰다. 지난 26일 한 온라인 커뮤니티에는 “제가 겪은 대학 시절 김선호 배우의 인성 몇 자 적어봅니다”라는 제목으로 장문의 글이 게재됐다. 자신이 김선호의 대학 동문이자 2, 3학년을 함께 다니고 연극]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['최파타' 도영 "형 공명 '홍천기'보다 '스우파'" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211027143207745</link>
-            <guid>https://entertain.v.daum.net/v/20211027143207745</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:31 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 황서연 기자] 그룹 NCT 도영이 '스트릿 우먼 파이터'를 향한 애정을 드러냈다. 27일 오후 방송한 SBS 파워FM '최화정의 파워타임'(이하 '최파타')에는 NCT 127 멤버 태일, 쟈니, 태용, 유타, 도영, 재현, 마크, 해찬, 정우가 출연했다. 이날 도영은 형 공명에 대한 질문을 받았다. 공명이 출연 중인 SBS 드라마 '홍천기'를]]></content:encoded>
+            <title><![CDATA[드류 베리모어∙전 남편, 20년만에 토크쇼서 재회 "유체이탈 느낌" (다음 연예 ─ 뉴스 ─ 해외)]]></title>
+            <link>https://entertain.v.daum.net/v/20211027161532605</link>
+            <guid>https://entertain.v.daum.net/v/20211027161532605</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최나영 기자] '전 부부'인 할리우드 드류 베리모어(46)와 코미디언 톰 그린(50)이 20년 만에 처음으로 재회했다. 2001년 7월부터 2002년 10월까지 베리모어와 결혼생활을 했던 그린은 최근 베리모어가 진행하는 주간 토크쇼 '더 드류 배리모어 쇼'에 게스트로 출연한 것. 그는 앞서&nbsp;2020년 9월&nbsp;그린 스크린을 통해 '가상'으로 이 쇼에]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이 배우의 '건장한 훈남' 성장에 다들 놀라 뒤집어졌다 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
@@ -1035,361 +1042,368 @@
             <content:encoded><![CDATA[[OSEN=박소영 기자] 할리우드 배우 알렉 볼드윈이 촬영장에서 뜻밖의 총기 사망사고를 낸 가운데 미국의 극우파 모델 캔디스 오웬스가 그의 딸인 배우 아일랜드 볼드윈을 조롱했다.&nbsp; 캔디스 오웬스는 25일(현지시각) 자신의 SNS를 통해 알렉 볼드윈을 디스한 후 “그는 도널드 트럼프와 그의 지지자들을 무려 4년간이나 사악한 살인자로 그렸다. 알렉 볼드윈에게]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["2019년에도"..'러스트' 조감독, 알렉 볼드윈 이전에도 총기 사고 연루 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
-            <link>https://entertain.v.daum.net/v/20211026154550455</link>
-            <guid>https://entertain.v.daum.net/v/20211026154550455</guid>
-            <pubDate>Tue, 26 Oct 2021 07:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) 배우 알렉 볼드윈이&nbsp;신작 촬영 리허설 중&nbsp;소품용 총을 쐈다가 촬영감독이 사망하는 사고가 벌어진 가운데, 어떤 경위로 실탄이 해당 총에 들어가게 된 것인지에 대한 정황이 드러나고 있다. 25일(현지시간) 미국의 연예 전문매체 TMZ는 당시 사고가 일어난 영화 '러스트'의 촬영장에서&nbsp;스태프들이 문제의 소품용 총을 촬영장 밖에서 오]]></content:encoded>
+            <title><![CDATA[시크릿넘버, 싱글 '불토' 발매…새 멤버 주·민지 합류 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010795963</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010795963</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]안소윤 인턴 기자 = 그룹 '시크릿넘버'가 새 멤버 주, 민지와 함께 6인조로 컴백한다. 27일 오후 6시 시크릿넘버는 세 번째 싱글 '파이어 세러데이(Fire Saturday·불토)'를 발매한다. 이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[임영웅 '사랑은 늘 도망가', 멜론 주간인기상 중간결과 1위..압도적 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004498936</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004498936</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:44 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최나영 기자] 가수 임영웅의 데뷔 첫 OST '사랑은 늘 도망가'가 국내 최대 음원 플랫폼 멜론(Melon) 주간 인기상 중간 결과 1위를 기록하며 인기를 입증했다. 임영웅의 '사랑은 늘 도망가'는 27일]]></content:encoded>
+            <title><![CDATA[하이브 레이블즈, 美 빌보드 신설 '트렌딩 송즈'서 맹위…톱 10에 7곡 포진 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001657749</link>
+            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001657749</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 ENHYPEN(엔하이픈)부터 세븐틴까지 10월 릴레이 컴백으로 '옥토버 페스트'를 예고했던 하이브 레이블즈 아티스트가 미국 빌보드의 '핫 트렌딩 송즈 파워드 바이 트위터'에서도 맹위를 떨치고 있다. 27일 미국]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빅스 레오, 빠져드는 아련한 눈빛 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=408&amp;aid=0000137088</link>
-            <guid>https://entertain.naver.com/now/read?oid=408&amp;aid=0000137088</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:44 GMT</pubDate>
-            <content:encoded><![CDATA[빅스 레오가 아련하고 몽환적인 흑백 오피셜 포토를 공개했다. 레오 소속사 젤리피쉬는 27일 빅스 공식 SNS 채널을 통해 새 디지털싱글 ‘남아있어’ 두번째 오피셜 포토를 공개하며 컴백에 대한 기대감을 높였다. 공개된]]></content:encoded>
+            <title><![CDATA[저스트비 임지민 "첫 번째 컴백, 데뷔와는 또 다른 느낌으로 떨려" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001365097</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001365097</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 조혜진 기자) 그룹 저스트비(JUST B) 임지민이 컴백 소감을 전했다. 저스트비(임지민, 이건우, 배인, JM, 전도염, 김상우) 첫 번째 싱글 앨범 '저스트 비트(JUST BEAT)' 발매 기념 쇼]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[라잇썸 '비바체', 빌보드 월드 디지털 송 세일즈 8위 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010795638</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010795638</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:44 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]이수진 인턴 기자 = 그룹 라잇썸(LIGHTSUM)이 '비바체'로 해외에서 주목 받고 있다. 27일 소속사 큐브엔터에 따르면, '비바체'가 미국 빌보드 월드 디지털 송 세일즈 차트(30일 자)에서 8위]]></content:encoded>
+            <title><![CDATA[저스트 비 임지민·전도염 “데뷔 후 첫 컴백, 색다른 떨림有” (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826307</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826307</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[저스트 비(JUST B)가 컴백 소감을 밝혔다. 27일 오후 저스트 비(임지민, 이건우, 배인, JM, 전도염, 김상우) 첫 번째 싱글 앨범 ‘JUST BEAT’ 발매 기념 온‧오프라인 쇼케이스가 열렸다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[걸그룹 시크릿넘버, 27일 ‘위드 코로나’ 첫발 오프라인 쇼케이스 “1위 후보에 오르고 싶다” (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=021&amp;aid=0002490297</link>
-            <guid>https://entertain.naver.com/now/read?oid=021&amp;aid=0002490297</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:44 GMT</pubDate>
-            <content:encoded><![CDATA[데뷔 2년 된 걸그룹 시크릿넘버가 세 번째 싱글을 들고 돌아왔다. 시크릿넘버는 27일 오후 서울 강남구 청담동 일지아트홀에서 쇼케이스를 열고 세 번째 싱글 ‘파이어 새러데이(Fire Saturday)’를 발매했다.]]></content:encoded>
+            <title><![CDATA[원호, 일본 첫 싱글 '온 더 웨이' 발표…정식 데뷔 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0012751277</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0012751277</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 김예나 기자 = 그룹 몬스타엑스 출신 가수 원호가 27일 일본에서 첫 싱글 '온 더 웨이'(ON THE WAY)를 내고 정식 데뷔했다고 소속사 하이라인엔터테인먼트가 밝혔다. '온 더 웨이'는 원호가]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[CL, 미국 올로케 'Let It' 뮤직비디오 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001365060</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001365060</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:44 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 조혜진 기자) 가수 CL의 첫 정규앨범 'ALPHA'의 또 다른 신곡 'Let It'의 뮤직비디오가 공개됐다. 27일 오후 1시 공식 유튜브 채널을 통해 공개된 CL의 'Let It' 뮤직비디오는 'T]]></content:encoded>
+            <title><![CDATA[블랙핑크 리사, '라리사' MV 3억뷰..K팝 女솔로 신기록[공식] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003000040</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003000040</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 블랙핑크 리사의 '라리사 (LALISA)' 뮤직비디오가 공개 48일 만에 3억뷰를 돌파했다. K팝 여성 솔로 아티스트 중 최단 기록이다. 27일 소속사 YG엔터테인먼트에 따르면 리사의 '라리사' 뮤직비디오는 이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["본 투 비 멤버처럼"…시크릿넘버, 새 멤버들로 더 견고해진 팀워크[종합] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000325684</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000325684</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:44 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=정유진 기자] 그룹 시크릿넘버가 6인조로 재정비한 만큼, 더 견고해진 팀워크를 자랑한다. 시크릿넘버는 27일 서울 강남구 청담동 일지아트홀에서 세 번째 싱글 '파이어 세터데이' 쇼케이스를 열고, 새 싱]]></content:encoded>
+            <title><![CDATA[세븐틴, ‘아타카’ 발매 5일 만에 115만 장 돌파…5연속 밀리언셀러 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=016&amp;aid=0001904917</link>
+            <guid>https://entertain.naver.com/now/read?oid=016&amp;aid=0001904917</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[[헤럴드경제=고승희 기자] 그룹 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)이 새 앨범으로 5연속 밀리언셀러에 올랐다. 27일 소속사 플레디스 엔터테인먼트]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[미스피츠 첫 EP '빌리프' 뮤비, 발랄한 표정 담아 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010795604</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010795604</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:44 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]이수진 인턴 기자 = 싱어송라이터 미스피츠(msftz)의 첫 EP 뮤직비디오 티저 영상이 공개됐다. 지난 26일 가수 미스피츠는 자신의 공식 SNS를 통해 첫 EP 앨범 ‘빌리프(Belief)’ 의 타]]></content:encoded>
+            <title><![CDATA[리사, 'LALISA' 뮤비 3억뷰 돌파…K팝 여성 솔로 최단 기록 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000796812</link>
+            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000796812</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 정하은기자]블랙핑크 리사의 첫 솔로 앨범 타이틀곡 ‘LALISA’ 뮤직비디오가 유튜브에서 3억뷰를 돌파했다. 27일 YG엔터테인먼트에 따르면 리사의 ‘LALISA’ 뮤직비디오는 이날 오후 3시 46분]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["작정하고 나왔다"…시크릿 넘버, 6인조 개편→'레트로 끝판왕' 정조준 [종합] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004498931</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004498931</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:44 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김나연 기자] 시크릿 넘버가 6인조 개편후 '레트로 끝판왕' 수식어를 노리기 위해 나섰다. 27일 오후 서울시 강남구 일지아트홀에서는 시크릿 넘버 세 번째 싱글 ‘Fire Saturday’ 발매 기념 미디]]></content:encoded>
+            <title><![CDATA[임영웅, 10월 4주 차 멜론 주간 인기상 1위 질주中…10만 표 넘게 쓸어 담아 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001365080</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001365080</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이정범 기자) 임영웅 ‘사랑은 늘 도망가’가 10월 4주 차 멜론 주간 인기상 1위를 질주 중이다. 최근 멜론차트에 따르면, 임영웅의 ‘사랑은 늘 도망가’는 현재 진행 중인 10월 4주 차 멜론 주간]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[시크릿넘버 "신곡 '불토' 레트로 콘셉트, 티아라‧원더걸스‧영화 '써니' 참고해" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000325681</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000325681</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:44 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=정유진 기자] 그룹 시크릿넘버가 신곡 콘셉트를 참고한 선배 가수들을 언급했다. 시크릿넘버는 27일 서울 강남구 청담동 일지아트홀에서 열린 세 번째 싱글 '파이어 세터데이' 쇼케이스에서 "신곡 '불토']]></content:encoded>
+            <title><![CDATA[소란, 31일 새 싱글 '셔터' 발표…10cm 권정열과 특급 스포일러 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000325690</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000325690</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=장진리 기자] 밴드 소란이 새 싱글 '셔터'를 발표한다. 소속사 해피로봇레코드는 27일 소란이 오는 31일 새 싱글 '셔터'를 공개한다고 밝혔다. 소란 보컬 고영배는 방송 '십란한 밤'에서 10cm 권]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에일리, 오늘(27일) 정규 3집 '에이미' 발매… 라비 지원사격 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=408&amp;aid=0000137084</link>
-            <guid>https://entertain.naver.com/now/read?oid=408&amp;aid=0000137084</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:44 GMT</pubDate>
-            <content:encoded><![CDATA[가수 에일리(Ailee)의 새 앨범이 드디어 베일을 벗는다. 에일리는 27일 오후 6시 각종 음원 사이트를 통해 정규 3집 '에이미(AMY)'를 발매하고 '가요계 대표 디바'의 독보적인 존재감을 발휘한다. '에이미']]></content:encoded>
+            <title><![CDATA[블랙핑크 리사 'LALISA' MV 3억뷰 돌파…K팝 여성 솔로 최단 기록 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000504470</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000504470</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 김명미 기자] 블랙핑크 리사의 첫 솔로 앨범 타이틀곡 ‘LALISA’ 뮤직비디오가 유튜브에서 3억뷰를 돌파했다. 10월 27일 YG엔터테인먼트에 따르면 리사의 ‘LALISA’ 뮤직비디오는 이날 오후 3시 4]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["6인조로 꽉 채울 무대" 시크릿넘버, '불토'로 화려한 변신[종합] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003000017</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003000017</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:44 GMT</pubDate>
-            <content:encoded><![CDATA[6인조로 재편한 그룹 시크릿넘버(SECRET NUMBER, 진희 레아 수담 디타 민지 주)가 더 화려한 무대로 대중의 마음을 사로잡을 준비를 마쳤다. 시크릿넘버는 27일 오후 서울 청담동 일지아트홀에서 세 번째 싱글]]></content:encoded>
+            <title><![CDATA[블랙핑크 리사, 'LALISA' MV 3억뷰 돌파.."K팝 女솔로 최단 신기록"(공식) (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003491538</link>
+            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003491538</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[[헤럴드POP=박서연 기자]블랙핑크 리사의 첫 솔로 앨범 타이틀곡 ‘LALISA’ 뮤직비디오가 유튜브에서 3억뷰를 돌파했다. 27일 YG엔터테인먼트에 따르면 리사의 ‘LALISA’ 뮤직비디오는 이날 오후 3시 46분]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[허각, 빅플래닛메이드와 전속계약…소유·비비지와 한솥밥 [공식] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003000016</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003000016</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:44 GMT</pubDate>
-            <content:encoded><![CDATA[가수 허각이 신생 엔터테인먼트 기업 빅플래닛메이드(Big Planet Made, BPM)와 새로운 출발에 나선다. 27일 빅플래닛메이드는 "허각과 최근 전속계약을 체결했다"라고 밝혔다. 이로써 허각은 소유, VIVI]]></content:encoded>
+            <title><![CDATA[원호, '온 더 웨이'로 日 정식 데뷔…열도 접수 나섰다 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000325687</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000325687</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=장진리 기자]'글로벌 대세' 원호가 일본에서 정식 데뷔했다. 원호는 27일 0시 일본 첫 싱글 '온 더 웨이~다키시메루요~(이하 온 더 웨이)'를 발표하고 본격적인 열도 접수에 나섰다. '온 더 웨이']]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[시크릿넘버 디타 "활발한 새 멤버들, 먼저 다가와 고마웠다" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003000015</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003000015</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:44 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 시크릿넘버(SECRET NUMBER, 진희 레아 수담 디타 민지 주) 디타가 새 멤버 민주와 주에게 고마움을 표현했다. 시크릿넘버는 27일 오후 서울 청담동 일지아트홀에서 세 번째 싱글 '파이어 새러데이 (Fi]]></content:encoded>
+            <title><![CDATA['6인조 컴백' 시크릿넘버, 나팔바지 입고 텐션 업 '불토' [종합] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004621283</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004621283</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 시크릿넘버(SECRET NUMBER)가 새로운 매력을 품고 돌아왔다. 시크릿넘버(레아, 디타, 진희, 민지, 수담, 주)는 27일 오후 서울 강남구 일지아트홀에서 세 번째 싱글 '파이어 세러데이(Fire Sat]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['레트로 장인' 시크릿넘버, 불토 즐기며 컴백 "음방 1위 후보 목표" [종합] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003549290</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003549290</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:44 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 오윤주 기자] 그룹 시크릿넘버(SECRET NUMBER)가 새 멤버 주, 민지와 함께 6인조로 돌아왔다. 27일 오후 시크릿넘버(레아, 디타, 진희, 민지, 수담, 주) 세 번째 싱글 '파이어 세러데]]></content:encoded>
+            <title><![CDATA[“K팝에서 K군것질까지” 한국문화축제 열린다 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=438&amp;aid=0000040042</link>
+            <guid>https://entertain.naver.com/now/read?oid=438&amp;aid=0000040042</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[문화체육관광부는 코로나 장기화로 지친 전 세계 한류 팬을 위로하고 새로운 희망의 메시지를 전달하기 위해 11월 13일과 14일, 이틀 동안 경기도 고양시 킨텍스에서 ‘한국문화축제2021- 월드케이팝 콘서트’를 연다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2AM 정진운, 웹드라마 '두근두근 방송사고' OST 부른다 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=416&amp;aid=0000276315</link>
-            <guid>https://entertain.naver.com/now/read?oid=416&amp;aid=0000276315</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:44 GMT</pubDate>
-            <content:encoded><![CDATA[[SBS 연예뉴스 l 강경윤 기자] 가수 정진운이 웹드라마 '두근두근 방송사고' OST 첫 주자로 나선다. 27일 제작사 더리더스컴퍼니에 따르면 정진운이 부른 웹드라마 '두근두근 방송사고'의 첫 번째 OST '다행이]]></content:encoded>
+            <title><![CDATA[씨엘, ‘렛 잇’ 뮤직비디오 공개…“로드무비 같은 영상미” (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=016&amp;aid=0001904903</link>
+            <guid>https://entertain.naver.com/now/read?oid=016&amp;aid=0001904903</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[[헤럴드경제=고승희 기자] 가수 씨엘(CL)의 첫 정규앨범 ‘알파(ALPHA)’의 또 다른 신곡 ‘렛 잇(Let It)’의 뮤직비디오가 27일 오후 1시 공개됐다고 소속사 블렉체리가 밝혔다. 소속사 측은 “씨엘의 ‘]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[시크릿넘버, 6인조로 재편… 새 싱글 '파이어 새터데이' 발표 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0012750864</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0012750864</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:44 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 이태수 기자 = 걸그룹 시크릿넘버가 27일 5인조에서 6인조로 전열을 재정비하고 세 번째 싱글 '파이어 새터데이'(Fire Saturday)를 발표했다. 소속사 바인엔터테인먼트에 따르면 시크릿넘버]]></content:encoded>
+            <title><![CDATA[K-팝 전용공연장 ‘CJ라이브시티 아레나’ 공사 돌입 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000770049</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000770049</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 국내 최대 K-팝 전용 공연장이 될 ‘CJ라이브시티 아레나’ 공사가 궤도에 올랐다. CJ라이브시티(CJ LiveCity)는 27일 오후 2시 경기 고양시 일산동구 장항동 소재 아레나 공사 현장에서 착공]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[시크릿 넘버, 작정하고 폭발시킨 복고풍 레트로 '흥' [종합] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=408&amp;aid=0000137082</link>
-            <guid>https://entertain.naver.com/now/read?oid=408&amp;aid=0000137082</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:44 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 시크릿 넘버가 청순, 가련, 섹시를 벗어던지고 레트로 복고풍 흥을 폭발시켰다. 27일 오후 서울 강남구 일지아트홀에서 시크릿넘버(레아, 디타, 진희, 민지, 수담, 주)의 세 번째 싱글 'Fire Saturda]]></content:encoded>
+            <title><![CDATA[양수경, '사랑하세요' 투어 종료…원조 디바의 품격 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001365071</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001365071</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) 가수 양수경의 투어콘서트 ‘사랑하세요’가 성황리에 마무리됐다. 2년 만에 개최된 양수경의 공연 ‘사랑하세요’가 20일 춘천문화예술회관, 22일 천안예술의전당, 그리고 26일 경기아트센터(]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[시크릿넘버 "목표=1위 후보·차트 50위"…나팔바지 입은 '불토' [종합] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001365053</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001365053</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:44 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이슬 기자) 그룹 시크릿넘버(SECERET NUMBER)가 11개월 만의 신곡 '불토'로 1위 후보, 차트 50위라는 포부를 밝혔다. 시크릿넘버의 세 번째 싱글 'Fire Saturday'(파이어 세러]]></content:encoded>
+            <title><![CDATA[新 고막남친 꿈꾸는 임상현 "제 노래로 위로받길" [★FULL인터뷰] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003000021</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003000021</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[가수 임상현이 두 번째 싱글로 돌아왔다. 지난 21이 임상현의 새 싱글 '이럴거면'이 각종 온라인 음원 사이트를 통해 공개됐다. 임상현은 "첫 곡을 발매했을 때는 마냥 설렜다면 이번에는 팬분들의 기대치를]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[CL, 미국 올로케 'Let It' 뮤직비디오 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=416&amp;aid=0000276314</link>
-            <guid>https://entertain.naver.com/now/read?oid=416&amp;aid=0000276314</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:44 GMT</pubDate>
-            <content:encoded><![CDATA[[SBS 연예뉴스 ㅣ 강경윤 기자] 가수 CL의 첫 정규앨범 'ALPHA'의 또 다른 신곡 'Let It'의 뮤직비디오를 공개했다. 27일 오후 1시, 공식 유튜브 채널을 통해 공개된 CL의 'Let It' 뮤직비디]]></content:encoded>
+            <title><![CDATA[세븐틴 '아타카', 5일 만에 115만장 판매…5연속 밀리언셀러 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010795750</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010795750</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]이수진 인턴 기자 = 대세 그룹 세븐틴이 5연속 밀리언셀러를 기록했다. 27일 소속사 플레디스 엔터테인먼트에 따르면, 지난 22일 발매된 세븐틴의 아홉 번째 미니 앨범 '아타카(Attacca)'가 5일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[허각, 플레이엠 떠나 소유·은하·신비·엄지와 한솥밥 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=629&amp;aid=0000112896</link>
-            <guid>https://entertain.naver.com/now/read?oid=629&amp;aid=0000112896</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:44 GMT</pubDate>
-            <content:encoded><![CDATA[신생 엔터 빅플래닛메이드와 전속계약 체결 가수 허각이 신생 엔터테인먼트 빅플래닛메이드에 새 둥지를 틀었다. 빅플래닛메이드(Big Planet Made, BPM)는 27일 "허각과 최근 전속계약을 체결했다"고 밝혔다.]]></content:encoded>
+            <title><![CDATA[존박, '제자리' 콘셉트 포토 공개…"짙은 가을 감성" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003000019</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003000019</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[가수 존박이 신곡 '제자리' 콘셉트 포토를 공개하며 컴백 기대감을 끌어올렸다. '감성 발라더' 존박이 오는 29일 싱글 '제자리'를 발매한다. 이에 앞서 존박 소속사 뮤직팜은 지난 26일 공식 SNS 채널을 통해 존]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴, 'Attacca'로 5연속 밀리언셀러 등극 [공식입장] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001365051</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001365051</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:44 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 조혜진 기자) 그룹 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)이 미니 9집으로 5연속 밀리언셀러를 달성했다. 지난 22일 발매된 세븐틴의]]></content:encoded>
+            <title><![CDATA[소란, 싱글 '셔터' 예고…가사 맞추기 이벤트 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=629&amp;aid=0000112908</link>
+            <guid>https://entertain.naver.com/now/read?oid=629&amp;aid=0000112908</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[31일 새 싱글 '셔터(Shutter)' 발매 밴드 소란이 새 싱글 '셔터(Shutter)' 발매와 함께 특별한 이벤트를 준비했다. 지난 봄 다양한 사랑의 형태를 노래한 미니 앨범 'Beloved(비러브드)'로 많은]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[시크릿넘버 "신곡 '불토', 신나는 레트로곡..힘든 시기 힘이 됐으면" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003000012</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003000012</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:44 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 시크릿넘버(SECRET NUMBER, 진희 레아 수담 디타 민지 주)가 신곡 '불토 (Fire Saturday)'로 많은 이들에게 힘을 주고 싶다고 바랐다. 시크릿넘버는 27일 오후 서울 청담동 일지아트홀에서]]></content:encoded>
+            <title><![CDATA[라붐 '블로썸' 티저, 멤버 4명 성숙미 발산…11월 컴백 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010795748</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010795748</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]나규원 인턴 기자 = 그룹 라붐(LABOUM)이 미니 3집 블로썸(BLOSSOM)으로 돌아온다. 27일 소속사 인터파크뮤직플러스는 공식 SNS를 통해 라붐의 티저 영상을 공개했다. 영상 속 4명의 라붐]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[원호, 日 데뷔 싱글 'ON THE WAY' 오늘(27일) 발표...열도 접수 예고 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004498924</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004498924</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:44 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=선미경 기자] 가수 원호(WONHO)가 일본에서 정식 데뷔했다. 원호는 27일 0시에 일본 첫 번째 싱글 '온 더 웨이(ON THE WAY)~다키시메루요~(이하 온 더 웨이)'를 발표하고 본격적인 열도 접]]></content:encoded>
+            <title><![CDATA[‘6인조’ 시크릿넘버, 더 뜨거운 ‘불토’ 예고 [스경X현장] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000770046</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000770046</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 6인조 그룹으로 거듭난 시크릿넘버가 더욱 강력해진 퍼포먼스를 예고했다. 시크릿넘버의 세 번째 싱글 ‘파이어 세터데이(Fire Saturday)’ 발매 기념 쇼케이스가 27일 서울 강남구 일지아트홀에서]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[시크릿넘버 “레트로 콘셉트, 티아라·원더걸스·‘써니’ 참고” (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000770039</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000770039</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:44 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 그룹 시크릿넘버가 레트로 콘셉트에 대해 언급했다. 레아는 27일 서울 강남구 일지아트홀에서 열린 세 번째 싱글 ‘파이어 세러데이(Fire Saturday)’ 발매 기념 쇼케이스에서 “콘셉트를 위해 티아]]></content:encoded>
+            <title><![CDATA['스우파' 홀리뱅 리더 허니제이, '나혼산' 출연…11월 방송 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010795718</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010795718</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]나규원 인턴 기자 = 케이블 음악채널 엠넷 '스트릿 우먼 파이터'(스우파)에서 우승한 댄스 크루 홀리뱅의 리더 허니제이의 싱글 라이프가 공개된다. MBC 예능프로그램 '나 혼자 산다' 측 관계자는 27]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['컴백' 시크릿넘버 "첫 레트로 콘셉트 '불토', 듣고 힐링하셨으면" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004621242</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004621242</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:44 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 시크릿넘버(SECRET NUMBER)가 레트로 풍의 신나는 댄스곡을 선보이게 된 소감을 밝혔다. 시크릿넘버(레아, 디타, 진희, 민지, 수담, 주)는 27일 오후 서울 강남구 일지아트홀에서 세 번째 싱글 '파이]]></content:encoded>
+            <title><![CDATA[[사진]저스트비, '설렘 유발 수트핏' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004498967</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004498967</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=조은정 기자] 27일 오후 서울 광진구 예스24라이브홀에서 저스트비(JUST B)의 첫 번째 싱글 앨범 'JUST BEAT' 발매 기념 쇼케이스가 열렸다. 그룹 저스트비가 포즈를 취하고 있다. 2021.1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[시크릿넘버 ‘11개월 만에 컴백’ [포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940936</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940936</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 시크릿넘버가 27일 서울 강남구 청담동 일지아트홀에서 열린 세 번째 싱글 앨범 ‘Fire Saturday‘ 발매 기념 미디오 쇼케이스에서 타이틀곡 ’불토‘ 무대를 펼치고 있다. 주현희 기자 teth1147@do]]></content:encoded>
+            <title><![CDATA[씨엘, 신곡 ‘렛 잇’ 뮤비 공개…로드무비 같은 영상미 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004870480</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004870480</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[가수 씨엘(CL)이 첫 정규앨범 ‘알파(ALPHA)’의 또 다른 신곡 ‘렛 잇(Let It)’의 뮤직비디오를 공개했다. 27일 오후 1시, 공식 유튜브 채널을 통해 공개된 CL의 ‘렛 잇’ 뮤직비디오가 공개됐다. 2]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["거울만 보면 찍음"…서인국, 휴식기에 새로운 취미 [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000507844</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000507844</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=노규민 기자] 배우 서인국이 거울셀카에 흠뻑 빠졌다. 서인국은 27일 자신의 인스타그램에 "거울만 보면 찍음"이라는 글과 함께 여러 장의 사진을 게재했다. 사진 속 서인국은 단정한 가르마 헤어에 올블랙 패]]></content:encoded>
+            <title><![CDATA[[사진]저스트비, '시그니처 포즈' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004498966</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004498966</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=조은정 기자] 27일 오후 서울 광진구 예스24라이브홀에서 저스트비(JUST B)의 첫 번째 싱글 앨범 'JUST BEAT' 발매 기념 쇼케이스가 열렸다. 그룹 저스트비가 포즈를 취하고 있다. 2021.1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['던♥' 현아, 화사하면서도 힙한 니트룩… "섹시 깜찍해" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000748026</link>
-            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000748026</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[가수 현아가 화사하면서도 힙한 캐주얼룩을 선보였다. 현아는 10월 26일 자신의 인스타그램에 "엄마가 찍어준 사진♥소중해"라는 글과 함께 여러 장의 사진을 게재했다. 공개된 사진 속 현아는 화려한 무늬가 돋보이는 니]]></content:encoded>
+            <title><![CDATA[[포토]저스트비, 저스트 비트로 컴백해요 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004870478</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004870478</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 저스트비(JUST B/임지민, 이건우, 배인, JM, 전도염, 김상우)가 27일 오후 서울 광장동 예스24홀 열린 첫 번째 싱글 앨범 'JUST BEAT(저스트 비트)' 발매기념 쇼케이스에서 신곡을 공개하고 있]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[시크릿넘버 ‘쉿!’ [포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940935</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940935</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 시크릿넘버가 27일 서울 강남구 청담동 일지아트홀에서 열린 세 번째 싱글 앨범 ‘Fire Saturday‘ 발매 기념 미디오 쇼케이스에서 포즈를 취하고 있다. 주현희 기자 teth1147@donga.com]]></content:encoded>
+            <title><![CDATA[[T포토] 저스트비 '4개월 만의 컴백' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001198067</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001198067</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 저스트비가 27일 오후 서울 광진구 예스24 라이브홀에서 열린 싱글 앨범 'JUST BEAT(저스트 비트)' 발매기념 쇼케이스에 참석하고 있다. 한편, 타이틀곡 'TICK TOCK(틱톡)'은 트랩 비트의 전반부]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[시크릿넘버 ‘복고풍 포즈’ [포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940934</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940934</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 시크릿넘버가 27일 서울 강남구 청담동 일지아트홀에서 열린 세 번째 싱글 앨범 ‘Fire Saturday‘ 발매 기념 미디오 쇼케이스에서 포즈를 취하고 있다. 주현희 기자 teth1147@donga.com]]></content:encoded>
+            <title><![CDATA[[포토]이건우, 저스트비 맏형 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004870474</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004870474</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 저스트비(JUST B/임지민, 이건우, 배인, JM, 전도염, 김상우)가 27일 오후 서울 광장동 예스24홀 열린 첫 번째 싱글 앨범 'JUST BEAT(저스트 비트)' 발매기념 쇼케이스에서 신곡을 공개하고 있]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[시크릿넘버 ‘여섯 멤버가 채우는 쇼케이스 무대’ [포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940933</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940933</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 시크릿넘버가 27일 서울 강남구 청담동 일지아트홀에서 열린 세 번째 싱글 앨범 ‘Fire Saturday‘ 발매 기념 미디오 쇼케이스에서 타이틀곡 ’불토‘ 무대를 펼치고 있다. 주현희 기자 teth1147@do]]></content:encoded>
+            <title><![CDATA[이요원, 현실 고3 딸 엄마 미모…여신이라고 해도 믿겠네 [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000507864</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000507864</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=노규민 기자] 배우 이요원이 바닷가에서 여신 자태를 뽐냈다. 27일 이요원은 자신의 인스타그램에 짧은 영상을 게재했다. 영상 속 이요원은 바닷가에서 원피스를 입고 다양한 포즈를 취하고 있다. 긴 생머리에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[시크릿넘버 ‘흥 과다 무대’ [포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940932</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940932</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 시크릿넘버가 27일 서울 강남구 청담동 일지아트홀에서 열린 세 번째 싱글 앨범 ‘Fire Saturday‘ 발매 기념 미디오 쇼케이스에서 타이틀곡 ’불토‘ 무대를 펼치고 있다. 주현희 기자 teth1147@do]]></content:encoded>
+            <title><![CDATA[[사진]저스트비 임지민, '모델처럼' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004498963</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004498963</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=조은정 기자] 27일 오후 서울 광진구 예스24라이브홀에서 저스트비(JUST B)의 첫 번째 싱글 앨범 'JUST BEAT' 발매 기념 쇼케이스가 열렸다. 저스트비 임지민이 포즈를 취하고 있다. 2021.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[시크릿넘버 ‘11개월 만에 레트로로’ [포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940931</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940931</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 시크릿넘버가 27일 서울 강남구 청담동 일지아트홀에서 열린 세 번째 싱글 앨범 ‘Fire Saturday‘ 발매 기념 미디오 쇼케이스에서 타이틀곡 ’불토‘ 무대를 펼치고 있다. 주현희 기자 teth1147@do]]></content:encoded>
+            <title><![CDATA[[SC인터뷰] "이정재 참고하고 조정석에 배우고"..곽시양, '홍천기'로 찾은 색(종합) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003794243</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003794243</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 문지연 기자] 배우 곽시양(34)이 '홍천기'를 통해 '자연스러움'을 익혔다. 26일 10.4%(닐슨코리아 전국기준)의 자체 최고 시청률을 경신하며 종영한 SBS 월화드라마 '홍천기'(하은 극본, 장태유]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[시크릿넘버가 돌아왔어요 [포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940930</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940930</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 시크릿넘버가 27일 서울 강남구 청담동 일지아트홀에서 열린 세 번째 싱글 앨범 ‘Fire Saturday‘ 발매 기념 미디오 쇼케이스에서 타이틀곡 ’불토‘ 무대를 펼치고 있다. 주현희 기자 teth1147@do]]></content:encoded>
+            <title><![CDATA[故신해철, 오늘(27일) 사망 7주기…그리운 영원한 ‘마왕’ [MK★체크] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826306</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826306</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[가수 고(故) 신해철의 사망 7주기다. 신해철은 2014년 10월 27일 저산소 허혈성 뇌손상으로 세상을 떠났다. 복강경을 이용한 위장관 유착박리술과 위축소술을 받은 후 의식불명 상태로 지낸지 열흘 만에 세상을 떠났]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[시크릿넘버 ‘새 싱글로 돌아왔어요’ [포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940929</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940929</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 시크릿넘버가 27일 서울 강남구 청담동 일지아트홀에서 열린 세 번째 싱글 앨범 ‘Fire Saturday‘ 발매 기념 미디오 쇼케이스에서 타이틀곡 ’불토‘ 무대를 펼치고 있다. 주현희 기자 teth1147@do]]></content:encoded>
+            <title><![CDATA[원호, 일본 첫 싱글 '온 더 웨이' 발표…정식 데뷔 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0012751277</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0012751277</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 김예나 기자 = 그룹 몬스타엑스 출신 가수 원호가 27일 일본에서 첫 싱글 '온 더 웨이'(ON THE WAY)를 내고 정식 데뷔했다고 소속사 하이라인엔터테인먼트가 밝혔다. '온 더 웨이'는 원호가]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[피플] '910만 팔로워' 위하준, 광고계 떠오르는 신흥 샛별 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000279352</link>
-            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000279352</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[배우 위하준(30)이 광고계 떠오르는 신흥 샛별로 자리매김했다. 지난 2015년 영화 '차이나타운'으로 데뷔한 위하준은 JTBC 드라마 '밥 잘 사주는 예쁜 누나'(2018)에서 손예진 동생 역으로 대중에 얼굴을]]></content:encoded>
+            <title><![CDATA[[포토]JM, 강렬한 비주얼 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004870470</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004870470</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 저스트비(JUST B/임지민, 이건우, 배인, JM, 전도염, 김상우)가 27일 오후 서울 광장동 예스24홀 열린 첫 번째 싱글 앨범 'JUST BEAT(저스트 비트)' 발매기념 쇼케이스에서 신곡을 공개하고 있]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[시크릿넘버 ‘일단 찌르고 시작’ [포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940928</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000940928</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 시크릿넘버가 27일 서울 강남구 청담동 일지아트홀에서 열린 세 번째 싱글 앨범 ‘Fire Saturday‘ 발매 기념 미디오 쇼케이스에서 타이틀곡 ’불토‘ 무대를 펼치고 있다. 주현희 기자 teth1147@do]]></content:encoded>
+            <title><![CDATA['내조의 여왕' 장영란, 남편 병원 홍보에 열심 "전단지 돌려" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004870468</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004870468</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[방송인 장영란이 한방병원 원장인 남편을 위한 특급 내조를 보여준다. 장영란은 27일 인스타그램에 "사실 취직했다. 촬영 없을 때 병원에서 많은 업무를 보고있다"고 말했다. 이어 "오늘은 병원 인근 아파트를 돌며 전단]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['23kg 감량' 김빈우, "반바지" 못 입는 계절이 아쉬운 유지어터…11자 각선미 [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000507843</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000507843</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=김지원 기자] 배우 김빈우가 일상의 소소한 순간을 공유했다. 김빈우는 27일 자신의 인스타그램에 "반바지여 당분간 빠이염. 건강 관리해야 하는 계절"이라며 "#일상 #어느 여름 끝자락"을 해시태그로 달았다]]></content:encoded>
+            <title><![CDATA[류이서, ♥전진 엉덩이를 '콕'…신혼 2년차다운 밀착 백허그 [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000507863</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000507863</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=김지원 기자] 류이서·전진 부부가 경주여행을 즐겼다. 류이서는 27일 자신의 인스타그램에 "경주여행 마지막 날. 전진이 경주 가서 하고 싶었던 것 중 두 번째!"라고 글을 올렸다. 사진 속 류이서·전진 부]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에릭♥나혜미, 커플 운동화 신고 백신 접종 "2차 맞으러 옴" [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000507842</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000507842</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=박창기 기자] 그룹 신화의 에릭이 아내 나혜미와 코로나19 백신 2차 접종을 받았다. 에릭은 27일 자신의 SNS 계정에 "베프랑 화이자 2차 맞으러 옴. 배고파"라는 글과 함께 한 장의 사진을 게재했다.]]></content:encoded>
+            <title><![CDATA["모두 고생" 보아, '스우파' 종영 인사…글래머 몸매+러블리 미소 [N샷] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005684890</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005684890</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 가수 보아가 Mnet '스트릿 우먼 파이터' 종영 소감을 밝혔다. 보아는 27일 자신의 인스타그램에 "모두 고생 많으셨습니다! '스우파' 끝"이라는 글과 함께 두 장의 사진을 게재했다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["'스우파' 고생하셨습니다"…강다니엘의 작별 인사 [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000507841</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000507841</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=노규민 기자] 가수 강다니엘이 Mnet '스트릿 우먼 파이터'(이하 '스우파')를 떠나 보냈다. 강다니엘은 27일 자신의 인스타그램에 "스우파 고생하셨습니다"라는 글과 함께 사진 한 장을 게재했다. 사진에]]></content:encoded>
+            <title><![CDATA[[포토]임지민, 화려한 리더 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004870463</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004870463</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 저스트비(JUST B/임지민, 이건우, 배인, JM, 전도염, 김상우)가 27일 오후 서울 광장동 예스24홀 열린 첫 번째 싱글 앨범 'JUST BEAT(저스트 비트)' 발매기념 쇼케이스에서 신곡을 공개하고 있]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[시크릿넘버, 6인조로 꽉 채웠다…'불토'로 화끈하게 1위 예약[종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004870422</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004870422</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[걸그룹 시크릿넘버(SECRET NUMBER)가 11개월 만에 화끈하게 컴백했다. 27일 오후 서울 청담동 일지아트홀에서 시크릿넘버 세번째 싱글 '파이어 세러데이(Fire Saturday)' 발매 기념 쇼케이스가 진행]]></content:encoded>
+            <title><![CDATA[한혜진, 극세사 각선미에 뺄 살이 어디 있다고…“가을 다이어트” [스타★샷] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000595339</link>
+            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000595339</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[모델 겸 방송인 한혜진이 늘씬한 몸매를 자랑했다. 한혜진은 27일 자신의 인스타그램에 “가을 다이어트”라는 글과 함께 사진 한장을 게재했다. 공개된 사진에는 헬스장 거울 앞에서 셀카를 남기고 있는 한혜진의 모습이 담]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[임나영, 아산경찰서 홍보대사 위촉 “뜻깊은 일에 참여할 수 있어 영광” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826289</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826289</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[배우 임나영이 아산경찰서 홍보대사로 위촉됐다. 임나영은 지난 26일 충청남도 아산경찰서를 찾아 홍보대사 위촉식을 가졌다. 임나영은 홍보대사로 위촉됨과 동시에 보이스피싱, 학교폭력, 교통사고 등 각종 범죄 예방을 위한]]></content:encoded>
+            <title><![CDATA[브레이브걸스 출신 유진, 내년 결혼…“부모님도 좋아하셔” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000595338</link>
+            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000595338</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 브레이브걸스 출신 유진이 내년 결혼식을 올린다. 27일 웨딩 전문 업체 해피메리드컴퍼니는 “브레이브걸스 출신 유진이 내년 7월 한 살 연하의 남자친구와 결혼식을 올릴 예정”이라고 밝히며 웨딩 화보를 공개했다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[시크릿넘버, 6인조로 재편… 새 싱글 '파이어 새터데이' 발표 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0012750864</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0012750864</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 이태수 기자 = 걸그룹 시크릿넘버가 27일 5인조에서 6인조로 전열을 재정비하고 세 번째 싱글 '파이어 새터데이'(Fire Saturday)를 발표했다. 소속사 바인엔터테인먼트에 따르면 시크릿넘버]]></content:encoded>
+            <title><![CDATA["어딜 쳐다보는 거야?"… 제시, 이 각도가 섹시해 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000748073</link>
+            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000748073</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[가수 제시의 아찔한 몸매가 주목받고 있다. 최근 제시는 자신의 인스타그램을 통해 “Steady pace wins the race. Be the turtle not the rabbit”라는 글과 함께 여러장의 사진을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 시크릿넘버 '오늘 컴백했어요!' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003632333</link>
-            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003632333</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[걸그룹 시크릿넘버(SECRET NUMBER)가 27일 오후 서울 강남구 일지아트홀에서 진행된 세 번째 싱글 '불토'(Fire Saturday)의 발매기념 쇼케이스에 앞서 포즈를 취하고 있다. 사진=바인엔터테인먼트 제]]></content:encoded>
+            <title><![CDATA[오마이걸 아린, 청초한 예쁨에 ‘심쿵’…치명적 매력까지[M+★SNS] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001617155</link>
+            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001617155</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[오마이걸 아린이 청순한 근황을 공개했다. 아린은 27일 오후 자신의 인스타그램에 사진 여러장을 게재했다. 사진 속에는 흰 셔츠를 입고 나무 앞에서 포즈를 취한 그의 모습이 담겨있다. 청초한 매력을 물씬 풍긴 아린은]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 시크릿넘버 '신나는 복고 패션' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003632332</link>
-            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003632332</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[걸그룹 시크릿넘버(SECRET NUMBER)가 27일 오후 서울 강남구 일지아트홀에서 진행된 세 번째 싱글 '불토'(Fire Saturday)의 발매기념 쇼케이스에 앞서 포즈를 취하고 있다. 사진=바인엔터테인먼트 제]]></content:encoded>
+            <title><![CDATA[방탄소년단·세븐틴·엔하이픈, 美 빌보드 ‘핫 트렌딩 송즈’ 장악 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004870457</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004870457</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 엔하이픈부터 세븐틴까지 10월 릴레이 컴백으로 ‘옥토버 페스트’를 예고했던 하이브 레이블즈 아티스트가 미국 빌보드의 ‘핫 트렌딩 송즈 파워드 바이 트위터’에서도 맹위를 떨치고 있다. 27일 미국 음악 전문 매체]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘고3딸’ 언니? 이요원, 소녀미 폭발한 역대급 비주얼 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003632329</link>
-            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003632329</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[사진=이요원 인스타그램 캡처 배우 이요원이 역대급 동안 비주얼을 자랑했다. 27일 이요원은 인스타그램에 영상을 게재했다. 공개된 영상에는 바닷가를 거닐고 있는 이요원의 모습이 담겼다. 새하얀 원피스를 입은 이요원은]]></content:encoded>
+            <title><![CDATA[손나은, 파격 란제리 화보…청순+섹시 다하네 [스타★샷] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000595336</link>
+            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000595336</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[배우 손나은이 란제리 화보를 선보여 시선을 사로잡았다. 27일 손나은은 자신의 인스타그램에 별다른 코멘트 없이 여러 장의 사진을 게재했다. 공개된 사진에는 브랜드 속옷을 착용한 채 다양한 포즈를 취하는 손나은의 모습]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[영탁, ‘오징어 게임’ 트레이닝복 입고 달고나 게임…유쾌+시크[M+★SNS] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001617123</link>
-            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001617123</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[가수 영탁이 ‘오징어 게임’을 패러디했다. 영탁은 27일 오후 자신의 인스타그램에 사진 여러장을 게재했다. 사진 속에는 그가 넷플릭스 오리지널 시리즈 ‘오징어 게임’의 트레이드 마크인 초록색 트레이닝복을 입은 모습이]]></content:encoded>
+            <title><![CDATA[박군 측, 성추행 의혹 반박…“허위글 작성자 고소 진행” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000595335</link>
+            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000595335</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[가수 박군이 성추행 의혹을 전면 부인하며 성추행 의혹을 제기한 A 씨를 고소했다. 박군의 소속사 토탈셋 측은 27일 공식 입장을 통해 “박군은 가수 생활에 성실하고 진실되게 임해 왔으며 해당 게시물의 주장과 같은 어]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴 미니 9집 5일 만에 115만장 팔려…5연속 밀리언(종합) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0012750833</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0012750833</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[내달 온라인 콘서트 '파워 오브 러브' 개최 (서울=연합뉴스) 이태수 기자 = 그룹 세븐틴이 지난 22일 발표한 아홉 번째 미니음반 '아타카'(Attacca)가 5일 만에 100만장 넘게 팔렸다고 소속사 플레디스엔터]]></content:encoded>
+            <title><![CDATA[서동주, 동안 엄마 서정희와 커플룩…모녀 아닌 자매 비주얼 [N샷] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005684850</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005684850</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 방송인 겸 변호사 서동주가 모친 서정희와 자매 같은 비주얼을 뽐냈다. 서동주는 27일 자신의 인스타그램에 "커플룩"이라는 문장과 함께 두 장의 사진을 게재했다. 공개된 사진에서 서동주]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[제시카, 타일러 권이 반할 수 밖에…놀라운 바비인형 비주얼 [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000507838</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000507838</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=노규민 기자] 가수 제시카가 바비인형 자태로 시선을 강탈했다. 제시카는 27일 자신의 인스타그램에 여러장의 사진을 게재했다. 사진 속 제시카는 리본으로 그레이 컬러의 재킷과 미니 스커트, 여기에 검정색 하]]></content:encoded>
+            <title><![CDATA[이연희, 이순재와 애틋한 부녀지간.."두근두근!" [스타IN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003000039</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003000039</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이연희가 대선배 배우 이순재와의 애틋한 순간을 공개했다. 이연희는 27일 자신의 인스타그램에 연극 '리어왕'과 관련해 "D-3 첫공연 이제 얼마 안남았어요. 두근두근, 설레임!"이라는 글을 올렸다. 공개 된 사]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[국내 최대 K-팝 공연장 'CJ라이브시티 아레나' 공사 시작 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0012750824</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0012750824</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[아레나 착공식 개최…'대한민국 문화콘텐츠 거점' 비전도 선포 (고양=연합뉴스) 황대일 기자 = 국내 최대 K-팝 전용 공연장이 될 'CJ라이브시티 아레나' 공사가 본궤도에 올랐다. CJ라이브시티(CJ LiveCity]]></content:encoded>
+            <title><![CDATA[드류 베리모어∙전 남편, 20년만에 토크쇼서 재회 "유체이탈 느낌"[Oh!llywood] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004498965</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004498965</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:24 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최나영 기자] '전 부부'인 할리우드 드류 베리모어(46)와 코미디언 톰 그린(50)이 20년 만에 처음으로 재회했다. 2001년 7월부터 2002년 10월까지 베리모어와 결혼생활을 했던 그린은 최근 베리]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['억만장자' 킴 카다시안 SNS에 마마무 화사 등판?…대체 왜 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=018&amp;aid=0005071332</link>
+            <guid>https://entertain.naver.com/now/read?oid=018&amp;aid=0005071332</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:24 GMT</pubDate>
+            <content:encoded><![CDATA[[이데일리 이선영 기자] 할리우드 스타 출신의 패션·뷰티 사업가 킴 카다시안이 2.6억명이 팔로워하는 자신의 사회관계망서비스(SNS)에 마마무 멤버 화사(본명 안혜진) 사진을 게재해 눈길을 끌고 있다. 27일(한국시]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[레아-민지 '올 겨울은 복고다' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
@@ -1551,20 +1565,6 @@
             <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826253</guid>
             <pubDate>Wed, 27 Oct 2021 06:24:59 GMT</pubDate>
             <content:encoded><![CDATA[걸그룹 시크릿넘버 세 번째 싱글 'Fire Saturday (파이어 세러데이)' 발매 기념 쇼케이스가 27일 오후 서울 강남구 청담동 일지아트홀에서 열렸다. 시크릿 넘버 디타가 포토타임을 갖고 있다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[주 '기대하세요!' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826252</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826252</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:59 GMT</pubDate>
-            <content:encoded><![CDATA[걸그룹 시크릿넘버 세 번째 싱글 'Fire Saturday (파이어 세러데이)' 발매 기념 쇼케이스가 27일 오후 서울 강남구 청담동 일지아트홀에서 열렸다. 시크릿 넘버 주가 포토타임을 갖고 있다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[수담 '시크릿!' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826250</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826250</guid>
-            <pubDate>Wed, 27 Oct 2021 05:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[걸그룹 시크릿넘버 세 번째 싱글 'Fire Saturday (파이어 세러데이)' 발매 기념 쇼케이스가 27일 오후 서울 강남구 청담동 일지아트홀에서 열렸다. 시크릿 넘버 수담이 포토타임을 갖고 있다.]]></content:encoded>
         </item>
     </channel>
 </rss>
