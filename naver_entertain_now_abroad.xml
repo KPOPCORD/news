@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-27T03:22:21.237Z</updated>
+    <updated>2021-10-27T04:27:02.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美검찰 "배우 알렉 볼드윈 총격 사고, 형사 기소도 배제 못해"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012750311</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012750311"/>
+        <updated>2021-10-27T04:27:01.445Z</updated>
+        <content type="html"><![CDATA[격발 총알 파악에 수사 집중…"제작자 겸한 볼드윈, 법적책임 져야 할수도" (서울=연합뉴스) 이의진 기자 = 할리우드 유명 배우 알렉 볼드윈(63)이 영화 촬영 중 발사한 소품 총에 촬영 스태프가 사망한 사고에 당국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[포브스, 에스파 인기 조명…"국경 넘어 성공 거둬"]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012750188</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000825994</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000825994"/>
         <updated>2021-10-26T07:21:32.385Z</updated>
-        <content type="html"><![CDATA[그룹 이펙스(EPEX)가 두 번째 EP '바이폴라(Bipolar) Pt. 2 사랑의 서'를 발매하고 26일 오후 온라인으로 미디어 쇼케이스를 가졌다. 쇼케이스에 앞서 포즈를 취하는 이펙스 아민. 사진제공=C9엔터테인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이펙스 아민 '천진난만한 미소' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000825993</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000825993"/>
-        <updated>2021-10-26T07:21:32.386Z</updated>
         <content type="html"><![CDATA[그룹 이펙스(EPEX)가 두 번째 EP '바이폴라(Bipolar) Pt. 2 사랑의 서'를 발매하고 26일 오후 온라인으로 미디어 쇼케이스를 가졌다. 쇼케이스에 앞서 포즈를 취하는 이펙스 아민. 사진제공=C9엔터테인]]></content>
     </entry>
 </feed>
