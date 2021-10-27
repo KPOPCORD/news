@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-27T19:18:07.676Z</updated>
+    <updated>2021-10-27T20:21:49.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[故할리나 허친스, 총격 사망 직전 촬영장 사진 공개..알렉 볼드윈 앞에서 [Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004499425</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004499425"/>
+        <updated>2021-10-27T20:21:48.924Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 할리우드 배우 알렉 볼드윈이 촬영장에서 소품용 총을 쐈다가 여성 촬영감독 할리나 허친스가 사망한 가운데 영화 스태프가 고인의 마지막 사진을 공개했다. 영화 ‘러스트’ 촬영장에서 전기 기술자로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안젤리나 졸리, 엉성한 붙임머리…"미용사가 애니스톤 친구냐"]]></title>
         <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004662645</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826263</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000826263"/>
         <updated>2021-10-27T06:24:59.291Z</updated>
-        <content type="html"><![CDATA[걸그룹 시크릿넘버 세 번째 싱글 'Fire Saturday (파이어 세러데이)' 발매 기념 쇼케이스가 27일 오후 서울 강남구 청담동 일지아트홀에서 열렸다. 쇼케이스 무대를 선보이고 있는 시크릿 넘버 수담.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수담 '돌아보면 심쿵' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826262</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000826262"/>
-        <updated>2021-10-27T06:24:59.293Z</updated>
         <content type="html"><![CDATA[걸그룹 시크릿넘버 세 번째 싱글 'Fire Saturday (파이어 세러데이)' 발매 기념 쇼케이스가 27일 오후 서울 강남구 청담동 일지아트홀에서 열렸다. 쇼케이스 무대를 선보이고 있는 시크릿 넘버 수담.]]></content>
     </entry>
 </feed>

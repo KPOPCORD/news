@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-27T19:18:07.657Z</updated>
+    <updated>2021-10-27T20:21:49.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임영웅 ‘사랑은 늘 도망가’, 유튜브 총 조회수 1000만뷰 돌파 “인기 고공행진”]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003549513</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003549513"/>
+        <updated>2021-10-27T20:21:34.201Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]가수 임영웅의 신곡 '사랑은 늘 도망가'가 유튜브 총 조회수 1000만 뷰를 넘어서며 인기 고공행진을 이어갔다. 지난 11일 오후 6시 '사랑은 늘 도망가' 음원과 동시에 유튜브에 공개된]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['컴백' CL "성별 의식하지 않는 아티스트 되고파"[★FULL인터뷰]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003000157</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003000157"/>
+        <updated>2021-10-27T20:21:34.202Z</updated>
+        <content type="html"><![CDATA[가수 CL(30, 이채린)이 데뷔 첫 정규앨범으로 돌아왔다. 글로벌 걸그룹 2NE1을 이끈 주축 멤버이자 홀로 미국 시장에서 자신의 아티스트로서 존재감을 증명해냈던 CL은 스타뉴스와 서면 인터뷰를 진행하고 지난 20]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅 ‘보랏빛 엽서’ 조회수 1100만뷰 돌파, “진정성 있는 목소리”]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003549504</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004621548"/>
         <updated>2021-10-27T12:33:22.250Z</updated>
         <content type="html"><![CDATA[그룹 시크릿넘버 진희가 27일 오후 서울 청담동 일지아트홀에서 열린 세 번째 싱글 'Fire Saturday (파이어 세러데이)' 발매 기념 쇼케이스에서 포토타임을 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 시크릿넘버 진희, '귀엽게 하트 뿅뿅~']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004621547</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004621547"/>
-        <updated>2021-10-27T12:33:22.251Z</updated>
-        <content type="html"><![CDATA[그룹 시크릿넘버 진희가 27일 오후 서울 청담동 일지아트홀에서 열린 세 번째 싱글 'Fire Saturday (파이어 세러데이)' 발매 기념 쇼케이스에서 포토타임을 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 시크릿넘버 레아, '우월한 비율에 눈길~']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004621546</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004621546"/>
-        <updated>2021-10-27T12:33:22.258Z</updated>
-        <content type="html"><![CDATA[그룹 시크릿넘버 레아가 27일 오후 서울 청담동 일지아트홀에서 열린 세 번째 싱글 'Fire Saturday (파이어 세러데이)' 발매 기념 쇼케이스에서 포토타임을 갖고 있다.]]></content>
     </entry>
 </feed>

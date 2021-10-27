@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-27T19:18:07.670Z</updated>
+    <updated>2021-10-27T20:21:49.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['컴백' CL "성별 의식하지 않는 아티스트 되고파"]]></title>
+        <id>https://entertain.v.daum.net/v/20211028050010858</id>
+        <link href="https://entertain.v.daum.net/v/20211028050010858"/>
+        <updated>2021-10-27T20:21:13.370Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 윤상근 기자] /사진제공=베리체리 가수 CL(30, 이채린)이 데뷔 첫 정규앨범으로 돌아왔다. 글로벌 걸그룹 2NE1을 이끈 주축 멤버이자 홀로 미국 시장에서 자신의 아티스트로서 존재감을 증명해냈던 CL은 스타뉴스와 서면 인터뷰를 진행하고 지난 20일 발표한 자신의 첫 솔로 정규앨범 'ALPHA'에 대한 여러 이야기를 전했다. 2NE1 해체 이후]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이용 '잊혀진 계절', 40년째 '10월의 밤' 추억]]></title>
         <id>https://entertain.v.daum.net/v/20211028000011638</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211027180019992"/>
         <updated>2021-10-27T09:20:58.766Z</updated>
         <content type="html"><![CDATA[[스타뉴스 공미나 기자] /사진제공=노을 '미워지지가 않아' 뮤직비디오 캡처'발라드 대표 주자' 노을이 가을 감성과 꼭 맞는 이별 발라드로 돌아왔다. 노을은 27일 오후 6시 새 싱글 '미워지지가 않아 (Unhateable)' 음원과 뮤직비디오를 공개했다. '미워지지가 않아 (Unhateable)'는 쓸쓸한 가을 분위기와 잘 맞는 정통 발라드곡. 노을은 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가을엔 노을이지, 믿고 듣는 이별 발라드 '미워지지가 않아']]></title>
-        <id>https://entertain.v.daum.net/v/20211027180009969</id>
-        <link href="https://entertain.v.daum.net/v/20211027180009969"/>
-        <updated>2021-10-27T09:20:58.767Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 노을(이상곤, 전우성, 나성호, 강균성)이 애절한 이별 발라드로 귀환했다. 노을은 10월 27일 오후 6시 각종 음원 사이트를 통해 새 디지털 싱글 '미워지지가 않아'를 발매했다. 이번 싱글은 노을이 지난해 10월 30일 발표한 디지털 싱글 '너의 곁에만 맴돌아' 이후 1년 만에 발표한 신곡이다. 그 사이 KBS 2TV '유희]]></content>
     </entry>
 </feed>
