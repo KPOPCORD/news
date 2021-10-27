@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 21:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 22:21:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소녀시대 서현, 오픈카 타고 뽐낸 명품 비주얼 [인스타]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329099</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329099</guid>
+            <pubDate>Wed, 27 Oct 2021 22:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329099">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/28/tAfipDlWFJVL637709808630850143.jpg" alt="소녀시대 서현, 오픈카 타고 뽐낸 명품 비주얼 [인스타]">        <div class="text-box">            <p class="summary">소녀시대 서현, 오픈카 타고 뽐낸 명품 비주얼 [인스타]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/28/tAfipDlWFJVL637709808630850143.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[콜드플레이 “방탄소년단, 믿을 수 없을 정도로 훌륭해” (유 퀴즈 온 더 블럭)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/329097</link>
@@ -86,14 +94,6 @@
             <pubDate>Wed, 27 Oct 2021 08:24:13 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329081">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/27/503ea2b2-558c-416c-ab4b-e810b8d05df6.jpg" alt="[포토] 저스트비, '포인트 틱톡틱톡틱톡~'">        <div class="text-box">            <p class="summary">[포토] 저스트비, '포인트 틱톡틱톡틱톡~'</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/27/503ea2b2-558c-416c-ab4b-e810b8d05df6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 저스트비, 섹시 '틱톡' 무대]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329080</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329080</guid>
-            <pubDate>Wed, 27 Oct 2021 08:24:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329080">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/27/0edaf550-0136-4bfe-9434-7c594995d6cb.jpg" alt="[포토] 저스트비, 섹시 '틱톡' 무대">        <div class="text-box">            <p class="summary">[포토] 저스트비, 섹시 '틱톡' 무대</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/27/0edaf550-0136-4bfe-9434-7c594995d6cb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-27T21:18:18.999Z</updated>
+    <updated>2021-10-27T22:21:23.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미 검찰 "알렉 볼드윈 총격 사고, 형사 기소 배제 못 해"(종합)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012752186</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012752186"/>
+        <updated>2021-10-27T22:21:23.055Z</updated>
+        <content type="html"><![CDATA[촬영장서 실탄 뒤섞인 탄환 500발 압수…무기류 소품에 안이한 대처 FBI와 협력해 탄도 분석…"제작자 겸한 볼드윈, 법적책임 질 수도" (로스앤젤레스·서울=연합뉴스) 정윤섭 특파원 이의진 기자 = 할리우드 유명 배]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["모두 망쳐" 안젤리나 졸리 어설픈 붙임머리, 왜 그런가 보니 [해외이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003549524</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000826266"/>
         <updated>2021-10-27T06:24:59.288Z</updated>
         <content type="html"><![CDATA[걸그룹 시크릿넘버 세 번째 싱글 'Fire Saturday (파이어 세러데이)' 발매 기념 쇼케이스가 27일 오후 서울 강남구 청담동 일지아트홀에서 열렸다. 쇼케이스 무대를 선보이고 있는 시크릿 넘버 레아.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수담 '사랑스러운 보조개' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826264</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000826264"/>
-        <updated>2021-10-27T06:24:59.289Z</updated>
-        <content type="html"><![CDATA[걸그룹 시크릿넘버 세 번째 싱글 'Fire Saturday (파이어 세러데이)' 발매 기념 쇼케이스가 27일 오후 서울 강남구 청담동 일지아트홀에서 열렸다. 쇼케이스 무대를 선보이고 있는 시크릿 넘버 수담.]]></content>
     </entry>
 </feed>
