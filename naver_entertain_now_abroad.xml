@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-26T23:21:26.248Z</updated>
+    <updated>2021-10-27T01:04:10.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안젤리나 졸리, 허접한 붙임머리에 "미용사 술취했나" 비난→결국 뗐다]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000504216</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000504216"/>
+        <updated>2021-10-27T01:04:09.877Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 천하의 안젤리나 졸리가 정돈되지 않은 헤어스타일 때문에 곤욕을 치르고 있다. 할리우드 배우 안젤리나 졸리는 10월 24일(현지시간) 이탈리아 로마에서 열린 영화 '이터널스' 시사회에 딸 자하라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['듄' 속편 2023년 10월 20일 개봉 확정…HBO 맥스 동시 공개 無 [엑's 할리우드]]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001364853</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000825984"/>
         <updated>2021-10-26T07:21:32.394Z</updated>
         <content type="html"><![CDATA[그룹 이펙스(EPEX)가 두 번째 EP '바이폴라(Bipolar) Pt. 2 사랑의 서'를 발매하고 26일 오후 온라인으로 미디어 쇼케이스를 가졌다. 쇼케이스에 앞서 포즈를 취하는 이펙스 금동현. 사진제공=C9엔터테]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이펙스 '4개월만에 컴백' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000825983</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000825983"/>
-        <updated>2021-10-26T07:21:32.397Z</updated>
-        <content type="html"><![CDATA[그룹 이펙스(EPEX)가 두 번째 EP '바이폴라(Bipolar) Pt. 2 사랑의 서'를 발매하고 26일 오후 온라인으로 미디어 쇼케이스를 가졌다. 쇼케이스에 앞서 포즈를 취하는 이펙스. 사진제공=C9엔터테인먼트]]></content>
     </entry>
 </feed>
