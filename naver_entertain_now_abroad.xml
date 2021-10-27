@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-27T20:21:49.773Z</updated>
+    <updated>2021-10-27T21:18:18.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["모두 망쳐" 안젤리나 졸리 어설픈 붙임머리, 왜 그런가 보니 [해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003549524</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003549524"/>
+        <updated>2021-10-27T21:18:18.364Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 오윤주 기자] 할리우드 배우 안젤리나 졸리(45)의 '어설픈' 레드카펫 스타일이 연일 화제다. 안젤리나 졸리는 지난 24일(현지 시간) 로마 영화제에서 열린 영화 '이터널스(The Eternals)']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[故할리나 허친스, 총격 사망 직전 촬영장 사진 공개..알렉 볼드윈 앞에서 [Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004499425</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826264</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000826264"/>
         <updated>2021-10-27T06:24:59.289Z</updated>
-        <content type="html"><![CDATA[걸그룹 시크릿넘버 세 번째 싱글 'Fire Saturday (파이어 세러데이)' 발매 기념 쇼케이스가 27일 오후 서울 강남구 청담동 일지아트홀에서 열렸다. 쇼케이스 무대를 선보이고 있는 시크릿 넘버 수담.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수담 '상큼 웨이브' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826263</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000826263"/>
-        <updated>2021-10-27T06:24:59.291Z</updated>
         <content type="html"><![CDATA[걸그룹 시크릿넘버 세 번째 싱글 'Fire Saturday (파이어 세러데이)' 발매 기념 쇼케이스가 27일 오후 서울 강남구 청담동 일지아트홀에서 열렸다. 쇼케이스 무대를 선보이고 있는 시크릿 넘버 수담.]]></content>
     </entry>
 </feed>
