@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-28T22:20:10.496Z</updated>
+    <updated>2021-10-28T23:22:20.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단, 美AMA 4년 연속 노미… 대상 후보 유력]]></title>
+        <id>https://entertain.naver.com/now/read?oid=417&amp;aid=0000748684</id>
+        <link href="https://entertain.naver.com/now/read?oid=417&amp;aid=0000748684"/>
+        <updated>2021-10-28T23:22:19.476Z</updated>
+        <content type="html"><![CDATA[그룹 방탄소년단이 미국 3대 음악 시상식 중 하나인 '아메리칸뮤직어워즈(AMA)'에서 3개 부문의 수상 후보에 올랐다. '아메리칸 뮤직 어워드'는 28일(이하 현지시각) 공식 홈페이지와 SNS를 통해 올해 시상식의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTS, 아메리칸 뮤직 어워즈 '올해의 아티스트' 후보 지명]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010799433</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826709</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000826709"/>
         <updated>2021-10-28T10:23:32.567Z</updated>
-        <content type="html"><![CDATA[오마이걸 유아가 28일 오후 서울 장충동 국립극장 해오름극장에서 열린 '2021년 대한민국 대중문화예술상'에 참석해 축하공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유아 '던던 댄스' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826706</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000826706"/>
-        <updated>2021-10-28T10:23:32.568Z</updated>
         <content type="html"><![CDATA[오마이걸 유아가 28일 오후 서울 장충동 국립극장 해오름극장에서 열린 '2021년 대한민국 대중문화예술상'에 참석해 축하공연을 펼치고 있다.]]></content>
     </entry>
 </feed>
