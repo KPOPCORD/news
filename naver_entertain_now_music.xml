@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-28T18:25:29.335Z</updated>
+    <updated>2021-10-28T19:18:25.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BTS, 아메리칸뮤직어워즈 대상 후보…"아시아 가수 최초"(종합)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012755171</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012755171"/>
+        <updated>2021-10-28T19:18:11.180Z</updated>
+        <content type="html"><![CDATA['올해의 아티스트' 등 3개 부문 후보 올라…AMA 4년 연속 진출 BTS의 글로벌 팝스타 위상 인정…'버터'로 '페이버릿 팝송'상 도전 그래미상 재도전에도 청신호…외신, '올해의 앨범' 등 본상 후보 관측 (로스앤]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스트레이 키즈 리노, 생일 기념 뉴욕 타임스퀘어 대형 전광판 장식]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001365748</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003000420"/>
         <updated>2021-10-28T12:34:07.107Z</updated>
         <content type="html"><![CDATA[가수 임영웅이 장애인 축구 선수들에게 사인과 메시지로 응원을 전해 감동을 안겼다. 지난 10월 22일 유튜브 채널 픗살프리에는 부산장애인축구협회 김동은 이사가 부산 뇌병변축구대표팀에서 임영웅의 사인과 응원 메시지를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이매진 드래곤스, LoL '아케인' 테마곡 '에너미' 발매]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010799206</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010799206"/>
-        <updated>2021-10-28T12:34:07.107Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]윤준호 인턴 기자 = 미국 얼터너티브 록밴드 '이매진 드래곤스'가 28일 오후 8시(한국시각) '리그 오브 래전드(LoL)' 애니메이션 '아케인(Arcane)'의 메인 테마곡 '에너미(enemy)'를]]></content>
     </entry>
 </feed>

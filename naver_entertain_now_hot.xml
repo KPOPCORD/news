@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-10-28T18:25:29.330Z</updated>
+    <updated>2021-10-28T19:18:25.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BTS, 아메리칸뮤직어워즈 대상 후보…"아시아 가수 최초"(종합)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012755171</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012755171"/>
+        <updated>2021-10-28T19:18:18.247Z</updated>
+        <content type="html"><![CDATA['올해의 아티스트' 등 3개 부문 후보 올라…AMA 4년 연속 진출 BTS의 글로벌 팝스타 위상 인정…'버터'로 '페이버릿 팝송'상 도전 그래미상 재도전에도 청신호…외신, '올해의 앨범' 등 본상 후보 관측 (로스앤]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[노제, 꽃보다 아름다운 미모+치명적 섹시미 [M+★SNS]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001617550</id>
+        <link href="https://entertain.naver.com/now/read?oid=057&amp;aid=0001617550"/>
+        <updated>2021-10-28T19:18:18.249Z</updated>
+        <content type="html"><![CDATA[댄서 노제가 근황을 공개했다. 노제는 자신의 SNS에 사진을 올렸다. 공개된 사진 속 노제는 화보 촬영을 하고 있다. 또한 노제는 강렬한 레드립과 검정색의 헤어스타일을 하고 꽃을 들고 포즈를 취하고 있다. 특히 가녀]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘예비맘’ 우혜림, 제법 배 나온 D라인 공개 [M+★SNS]]]></title>
         <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001617549</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005688577"/>
         <updated>2021-10-28T14:20:15.811Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 권현진 기자 = 오마이걸 승희가 28일 오후 서울 중구 국립극장에서 열린 ‘제 12회 대한민국 대중문화예술상(2021)’ 시상식에 참석해 문화체육관광부 장관 표창을 받은 뒤 화려한 축하공연을 선보이고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오마이걸 지호, 앙증맞은 윙크]]></title>
-        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005688576</id>
-        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005688576"/>
-        <updated>2021-10-28T14:20:15.812Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 권현진 기자 = 오마이걸 지호가 28일 오후 서울 중구 국립극장에서 열린 ‘제 12회 대한민국 대중문화예술상(2021)’ 시상식에 참석해 문화체육관광부 장관 표창을 받은 뒤 화려한 축하공연을 선보이고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오마이걸 효정, 사랑 눈빛]]></title>
-        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005688575</id>
-        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005688575"/>
-        <updated>2021-10-28T14:20:15.813Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 권현진 기자 = 오마이걸 효정이 28일 오후 서울 중구 국립극장에서 열린 ‘제 12회 대한민국 대중문화예술상(2021)’ 시상식에 참석해 문화체육관광부 장관 표창을 받은 뒤 화려한 축하공연을 선보이고]]></content>
     </entry>
 </feed>

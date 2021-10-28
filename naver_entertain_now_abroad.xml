@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-28T18:25:29.333Z</updated>
+    <updated>2021-10-28T19:18:25.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BTS, 아메리칸뮤직어워즈 대상 후보…"아시아 가수 최초"(종합)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012755171</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012755171"/>
+        <updated>2021-10-28T19:18:25.229Z</updated>
+        <content type="html"><![CDATA['올해의 아티스트' 등 3개 부문 후보 올라…AMA 4년 연속 진출 BTS의 글로벌 팝스타 위상 인정…'버터'로 '페이버릿 팝송'상 도전 그래미상 재도전에도 청신호…외신, '올해의 앨범' 등 본상 후보 관측 (로스앤]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTS, '올해의 아티스트' 등 아메리칸뮤직어워즈 3개 부문 후보]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012755156</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000826704"/>
         <updated>2021-10-28T10:23:32.569Z</updated>
         <content type="html"><![CDATA[오마이걸 승희가 28일 오후 서울 장충동 국립극장 해오름극장에서 열린 '2021년 대한민국 대중문화예술상'에 참석해 축하공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아린 '청순하게' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826703</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000826703"/>
-        <updated>2021-10-28T10:23:32.570Z</updated>
-        <content type="html"><![CDATA[오마이걸 아린이 28일 오후 서울 장충동 국립극장 해오름극장에서 열린 '2021년 대한민국 대중문화예술상'에 참석해 축하공연을 펼치고 있다.]]></content>
     </entry>
 </feed>
