@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-28T20:22:06.439Z</updated>
+    <updated>2021-10-28T21:18:59.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BTS, 아메리칸 뮤직 어워즈 '올해의 아티스트' 후보 지명]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010799433</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010799433"/>
+        <updated>2021-10-28T21:18:58.596Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 아시아권 가수로는 처음…그룹 후보에도 올라 [서울=뉴시스] 강영진 기자 = 그룹 방탄소년단(BTS)이 미국 3대 음악 시상식 중 하나인 '2021 아메리칸뮤직어워즈(AMA)'에서 '올해의 아티스트(Ar]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTS, 아메리칸뮤직어워즈 대상 후보…"아시아 가수 최초"(종합)]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012755171</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000826706"/>
         <updated>2021-10-28T10:23:32.568Z</updated>
         <content type="html"><![CDATA[오마이걸 유아가 28일 오후 서울 장충동 국립극장 해오름극장에서 열린 '2021년 대한민국 대중문화예술상'에 참석해 축하공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[승히 '던던 댄스' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826704</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000826704"/>
-        <updated>2021-10-28T10:23:32.569Z</updated>
-        <content type="html"><![CDATA[오마이걸 승희가 28일 오후 서울 장충동 국립극장 해오름극장에서 열린 '2021년 대한민국 대중문화예술상'에 참석해 축하공연을 펼치고 있다.]]></content>
     </entry>
 </feed>
