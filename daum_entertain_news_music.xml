@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-28T12:34:22.805Z</updated>
+    <updated>2021-10-28T13:26:55.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인피니트 남우현, 비주얼·퍼포먼스 모두 독보적]]></title>
+        <id>https://entertain.v.daum.net/v/20211028220103786</id>
+        <link href="https://entertain.v.daum.net/v/20211028220103786"/>
+        <updated>2021-10-28T13:26:24.409Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김수진 기자] 그룹 인피니트(INFINITE) 남우현이 대체불가 매력으로 글로벌 팬심을 녹였다. 남우현은 28일 Mnet '엠카운트다운'에 출연해 네 번째 미니 앨범 '위드(With)'의 타이틀곡 '냉정과 열정 사이' 컴백 무대를 선보였다. 이날 남우현은 흰색 셔츠와 검은색 가죽 바지에 하네스를 더한 의상을 입어 '나른 섹시' 콘셉트를 더욱 돋보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['대중문화예술상 대통령 표창' 수상 김연자, "뿌듯하고 행복"]]></title>
         <id>https://entertain.v.daum.net/v/20211028211553901</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211028181203609"/>
         <updated>2021-10-28T09:20:47.303Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 가수 박지훈이 팬클럽 메이(MAY)를 원동력으로 한층 성장해 돌아왔다. 28일 오후 박지훈의 다섯 번째 미니앨범 '핫 앤 콜드(HOT&amp;COLD)' 발매 기념 온라인 쇼케이스가 개최됐다. '핫 앤 콜드(HOT&amp;COLD)'는 연인 사이의 부딪침과 이를 통해 성숙해지는 관계에 대해 노래한 앨범이다. '뜨거움과 차가움'이라는 사랑의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["지금이 화양연화" 박지훈, 메이와 함께 'HOT&COLD'로 이어갈 꽃길]]></title>
-        <id>https://entertain.v.daum.net/v/20211028180918510</id>
-        <link href="https://entertain.v.daum.net/v/20211028180918510"/>
-        <updated>2021-10-28T09:20:47.304Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 글 이하나 기자/사진 이재하 기자] 박지훈이 한층 성장한 모습으로 팬들과 함께 ‘화양연화’를 열었다. 10월 28일 오후 5시 박지훈의 다섯 번째 미니앨범 ‘HOT&amp;COLD’(핫 앤 콜드) 발매 기념 쇼케이스가 진행 됐다. 지난 8월 네 번째 미니앨범 ‘My Collection’(마이 컬렉션)으로 활동했던 박지훈은 2개월 만에 ‘HOT&amp;COL]]></content>
     </entry>
 </feed>
