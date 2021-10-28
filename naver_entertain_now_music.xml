@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-28T10:23:33.225Z</updated>
+    <updated>2021-10-28T11:18:11.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["피땀눈물로 이뤄"…박지훈, 단단한 각오 [종합]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001365685</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001365685"/>
+        <updated>2021-10-28T11:17:54.594Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) 가수 박지훈이 꾸준한 성장과 함께 보여줄 음악적 행보에 대한 기대감을 심었다. 박지훈은 28일 오후 다섯 번째 미니 앨범 '핫 앤 콜드(HOT&amp;COLD)' 발매 기념 쇼케이스를 온라인 생]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지코, '아무노래' 뮤비 1억뷰 돌파..데뷔 후 처음]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003000404</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012754756"/>
         <updated>2021-10-28T09:21:07.288Z</updated>
         <content type="html"><![CDATA[용감한형제의 '막내' 보이그룹…7개월 만에 '롤러코스터'로 컴백 (서울=연합뉴스) 김예나 기자 = 청춘, 사랑, 성장, 그리고 도전. 총 4부작에 걸친 앨범을 발표해 온 보이그룹 다크비(DKB)가 새로운 모습으로 대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백' 다크비 "신곡 '왜 만나' 개성있는 보컬과 랩이 감상 포인트" [인터뷰①]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003000374</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003000374"/>
-        <updated>2021-10-28T09:21:07.289Z</updated>
-        <content type="html"><![CDATA[다크비가 그루비한 신곡으로 돌아왔다. 28일 오후 6시 다크비의 첫 싱글 'Rollercoaster'가 공개됐다. 'Rollercoaster'는 다크비(DKB)가 4부작 시리즈 마무리 이후 처음 선보이는 싱글 앨범이]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-28T10:23:33.137Z</updated>
+    <updated>2021-10-28T11:18:11.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["피땀눈물로 이뤄"..박지훈, 단단한 각오]]></title>
+        <id>https://entertain.v.daum.net/v/20211028195006134</id>
+        <link href="https://entertain.v.daum.net/v/20211028195006134"/>
+        <updated>2021-10-28T11:17:34.069Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) 가수 박지훈이 꾸준한 성장과 함께 보여줄 음악적 행보에 대한 기대감을 심었다.&nbsp; 박지훈은 28일 오후 다섯 번째 미니 앨범 '핫 앤 콜드(HOT&amp;COLD)' 발매 기념 쇼케이스를 온라인 생중계로 진행했다.&nbsp; 지난 8월 선보인 네 번째 미니 앨범 '마이 컬렉션(My Collection)' 이후 2개월 만에 초고속 컴백을 알린 박]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박지훈, 'HOT&COLD' 컴백 쇼케이스 성료..또 다른 '화양연화' 열었다]]></title>
         <id>https://entertain.v.daum.net/v/20211028191711334</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211028180136221"/>
         <updated>2021-10-28T09:20:47.314Z</updated>
         <content type="html"><![CDATA[※알고 들으면 쓸모있는 신곡. '알쓸신곡'이 오늘의 노래를 소개합니다. 매일 쏟아지는 음원 속에서 모르고 놓치면 후회할 신곡을 추천해드립니다. 프로듀서 조영수가 가수 케이시(Kassy)의 목소리를 빌려 리스너들의 아련한 향수를 건드린다. 28일 케이시가 각종 온라인 음원사이트를 통해 네 번째 미니앨범 '옛이야기'를 발표했다. 지난해 10월 발매한 미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박지훈, 차갑게 식어버린 너의 맘 '시리어스']]></title>
-        <id>https://entertain.v.daum.net/v/20211028180135219</id>
-        <link href="https://entertain.v.daum.net/v/20211028180135219"/>
-        <updated>2021-10-28T09:20:47.314Z</updated>
-        <content type="html"><![CDATA[※알고 들으면 쓸모있는 신곡. '알쓸신곡'이 오늘의 노래를 소개합니다. 매일 쏟아지는 음원 속에서 모르고 놓치면 후회할 신곡을 추천해드립니다. 가수 박지훈이 사랑하는 연인과의 갈등을 강렬한 힙합 곡에 풀었다. 28일 박지훈이 각종 온라인 음원 사이트를 통해 다섯 번째 미니앨범 'HOT&amp;COLD(핫 앤 콜드)'를 발매했다. 'HOT&amp;COLD'는 연인]]></content>
     </entry>
 </feed>
