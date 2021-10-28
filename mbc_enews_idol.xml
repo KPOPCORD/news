@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 04:28:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 05:19:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오마이걸 지호, '라디오스타' 빛낸 유연성 장인 합류...이색 개인기로 '엉뚱 매력' 발산]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329165</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329165</guid>
+            <pubDate>Thu, 28 Oct 2021 05:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329165">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/28/B4bmQTRCQ4u3637710264408402614.jpg" alt="오마이걸 지호, '라디오스타' 빛낸 유연성 장인 합류...이색 개인기로 '엉뚱 매력' 발산">        <div class="text-box">            <p class="summary">오마이걸 지호, '라디오스타' 빛낸 유연성 장인 합류...이색 개인기로 '엉뚱 매력' 발산</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/28/B4bmQTRCQ4u3637710264408402614.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장수원 결혼 "연상의 비연예인 예비신부"]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/329154</link>
@@ -86,14 +94,6 @@
             <pubDate>Wed, 27 Oct 2021 23:21:44 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329113">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/28/ddxX0wBVo209637710047555163576.jpg" alt="" 전소미,="" 테디="" 프로듀싱="" 받아"…컴백="" 열기="" 최고조"="">        <div class="text-box">            <p class="summary">"전소미, 테디 프로듀싱 받아"…컴백 열기 최고조</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/28/ddxX0wBVo209637710047555163576.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄 콘서트, 외신 극찬 이끌어낸 이유]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329111</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329111</guid>
-            <pubDate>Wed, 27 Oct 2021 23:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329111">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/28/iPjlWoXldmjX637710038318945965.jpg" alt="방탄 콘서트, 외신 극찬 이끌어낸 이유">        <div class="text-box">            <p class="summary">방탄 콘서트, 외신 극찬 이끌어낸 이유</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/28/iPjlWoXldmjX637710038318945965.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
