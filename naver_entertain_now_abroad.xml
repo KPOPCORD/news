@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-28T05:19:32.040Z</updated>
+    <updated>2021-10-28T06:26:27.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안젤리나 졸리, 개성 넘치는 5남매와 공식석상[포토엔]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000504923</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000504923"/>
+        <updated>2021-10-28T06:26:26.304Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 안젤리나 졸리가 자녀들과 공식석상에 참석했다. 스플래쉬닷컴은 10월 27일(현지시간) 영국 런던에서 진행된 영화 '이터널스' 스크리닝 행사 현장을 공개했다. 안젤리나 졸리는 이날 연세대 입학으]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[키아누 리브스, '존윅' 스턴트맨들에 '롤렉스 시계' 선물.."역대 최고"[Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004499723</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004499723"/>
+        <updated>2021-10-28T06:26:26.311Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 할리우드 배우 키아누 리브스(57)가 영화 '존 윅 4' 스턴트 팀에게 '역대 최고의 선물'을 선사했다. 뉴욕포스트의 27일(현지시간) 보도에 따르면 키아누 리브스는 영화 '존 윅 4' 스턴]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[케이시 '사랑스러운 미소' [MK포토]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826610</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004498965"/>
         <updated>2021-10-27T07:20:24.138Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] '전 부부'인 할리우드 드류 베리모어(46)와 코미디언 톰 그린(50)이 20년 만에 처음으로 재회했다. 2001년 7월부터 2002년 10월까지 베리모어와 결혼생활을 했던 그린은 최근 베리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['억만장자' 킴 카다시안 SNS에 마마무 화사 등판?…대체 왜]]></title>
-        <id>https://entertain.naver.com/now/read?oid=018&amp;aid=0005071332</id>
-        <link href="https://entertain.naver.com/now/read?oid=018&amp;aid=0005071332"/>
-        <updated>2021-10-27T07:20:24.139Z</updated>
-        <content type="html"><![CDATA[[이데일리 이선영 기자] 할리우드 스타 출신의 패션·뷰티 사업가 킴 카다시안이 2.6억명이 팔로워하는 자신의 사회관계망서비스(SNS)에 마마무 멤버 화사(본명 안혜진) 사진을 게재해 눈길을 끌고 있다. 27일(한국시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[레아-민지 '올 겨울은 복고다' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826283</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000826283"/>
-        <updated>2021-10-27T06:24:59.270Z</updated>
-        <content type="html"><![CDATA[걸그룹 시크릿넘버 세 번째 싱글 'Fire Saturday (파이어 세러데이)' 발매 기념 쇼케이스가 27일 오후 서울 강남구 청담동 일지아트홀에서 열렸다. 쇼케이스 무대를 선보이고 있는 시크릿 넘버 레아, 민지.]]></content>
     </entry>
 </feed>
