@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 09:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 10:23:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박지훈, 애교는 잠시 안녕…'핫 앤 콜드'로 꽃 피운 성숙美 [종합]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329221</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329221</guid>
+            <pubDate>Thu, 28 Oct 2021 10:22:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329221">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/28/4232c065-072a-4ca7-ab39-bea638ec8e28.JPG" alt="박지훈, 애교는 잠시 안녕…'핫 앤 콜드'로 꽃 피운 성숙美 [종합]">        <div class="text-box">            <p class="summary">박지훈, 애교는 잠시 안녕…'핫 앤 콜드'로 꽃 피운 성숙美 [종합]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/28/4232c065-072a-4ca7-ab39-bea638ec8e28.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[박지훈 "악역 연기 원해, 반전 이미지 보여주고파"]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/329220</link>
@@ -86,14 +94,6 @@
             <pubDate>Thu, 28 Oct 2021 02:31:23 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329145">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/28/0eba67e0-b252-4a9c-8b68-3d23cef95208.jpg" alt="'엠카운트다운' 홀리뱅 스페셜 스테이지 예고하며 기대 ↑">        <div class="text-box">            <p class="summary">'엠카운트다운' 홀리뱅 스페셜 스테이지 예고하며 기대 ↑</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/28/0eba67e0-b252-4a9c-8b68-3d23cef95208.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['주간아이돌' T1419 건우, '오징어 게임' 명장면 묘사...싱크로율 200%]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329140</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329140</guid>
-            <pubDate>Thu, 28 Oct 2021 02:31:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329140">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/28/wl45lsVogdVY637710153498935127.jpg" alt="'주간아이돌' T1419 건우, '오징어 게임' 명장면 묘사...싱크로율 200%">        <div class="text-box">            <p class="summary">'주간아이돌' T1419 건우, '오징어 게임' 명장면 묘사...싱크로율 200%</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/28/wl45lsVogdVY637710153498935127.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
