@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-28T13:26:55.068Z</updated>
+    <updated>2021-10-28T14:20:22.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['야생돌' 윤재찬, 최종 탈락 '팀원들 눈물바다'..김현엽 극적 생존]]></title>
+        <id>https://entertain.v.daum.net/v/20211028230714423</id>
+        <link href="https://entertain.v.daum.net/v/20211028230714423"/>
+        <updated>2021-10-28T14:19:51.989Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김한길 기자] '야생돌' 윤재찬이 최종 탈락했다. 28일 밤 방송된 MBC 서바이벌 오디션 프로그램 '극한데뷔 야생돌(이하 '야생돌')' 7회에서는 지원자들이 추가 탈락을 피하기 위한 치열한 생존 게임을 벌였다. 이날 지원자들은 팀워크 최종 미션으로, '야생돌'의 두 번째 타이틀곡 '낙하산은 펴지 않을게요' 단체 퍼포먼스 완성을 위한 연습에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인피니트 남우현, 비주얼·퍼포먼스 모두 독보적]]></title>
         <id>https://entertain.v.daum.net/v/20211028220103786</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211028181232623"/>
         <updated>2021-10-28T09:20:47.299Z</updated>
         <content type="html"><![CDATA[가수 박지훈이 한 단계 더 터프해진 모습으로 돌아와 성숙한 사랑을 노래한다. 28일 박지훈이 다섯 번째 미니앨범 'HOT&amp;COLD(핫 앤 콜드)'의 발매를 알리는 쇼케이스를 온라인으로 진행했다. 약 2개월 만에 빠르게 컴백한 박지훈은 타이틀곡 'Serious(시리어스)'로 새로운 활동에 돌입한다. '시리어스'는 래퍼이자 히트 프로듀서인 페노메코가 작사와]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["♥메이와 꽃길 걷고파"..박지훈, 2개월 초고속 컴백→성장 담은 '시리어스']]></title>
-        <id>https://entertain.v.daum.net/v/20211028181203609</id>
-        <link href="https://entertain.v.daum.net/v/20211028181203609"/>
-        <updated>2021-10-28T09:20:47.303Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 가수 박지훈이 팬클럽 메이(MAY)를 원동력으로 한층 성장해 돌아왔다. 28일 오후 박지훈의 다섯 번째 미니앨범 '핫 앤 콜드(HOT&amp;COLD)' 발매 기념 온라인 쇼케이스가 개최됐다. '핫 앤 콜드(HOT&amp;COLD)'는 연인 사이의 부딪침과 이를 통해 성숙해지는 관계에 대해 노래한 앨범이다. '뜨거움과 차가움'이라는 사랑의]]></content>
     </entry>
 </feed>
