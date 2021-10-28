@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 08:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 09:21:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박지훈 "악역 연기 원해, 반전 이미지 보여주고파"]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329220</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329220</guid>
+            <pubDate>Thu, 28 Oct 2021 09:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329220">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/28/550e3a77-7c64-41c2-82c7-997ab7cab255.JPG" alt="박지훈 " 악역="" 연기="" 원해,="" 반전="" 이미지="" 보여주고파""="">        <div class="text-box">            <p class="summary">박지훈 "악역 연기 원해, 반전 이미지 보여주고파"</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/28/550e3a77-7c64-41c2-82c7-997ab7cab255.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[[포토] 가을의 고즈넉한 분위기 장착한 케이시]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/329180</link>
@@ -86,14 +94,6 @@
             <pubDate>Thu, 28 Oct 2021 02:31:23 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329140">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/28/wl45lsVogdVY637710153498935127.jpg" alt="'주간아이돌' T1419 건우, '오징어 게임' 명장면 묘사...싱크로율 200%">        <div class="text-box">            <p class="summary">'주간아이돌' T1419 건우, '오징어 게임' 명장면 묘사...싱크로율 200%</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/28/wl45lsVogdVY637710153498935127.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[움짤] 오마이걸(OMG) 지호, '던던 토끼' 매력! '뜬금없지호~' (라디오스타 B하인드②)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329136</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329136</guid>
-            <pubDate>Thu, 28 Oct 2021 02:31:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329136">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/28/c3441684-51f0-43b3-ba83-f9781a0b3aeb.jpg" alt="[움짤] 오마이걸(OMG) 지호, '던던 토끼' 매력! '뜬금없지호~' (라디오스타 B하인드②)">        <div class="text-box">            <p class="summary">[움짤] 오마이걸(OMG) 지호, '던던 토끼' 매력! '뜬금없지호~' (라디오스타 B하인드②)</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/28/c3441684-51f0-43b3-ba83-f9781a0b3aeb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
