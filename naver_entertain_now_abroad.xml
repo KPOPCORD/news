@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-27T23:22:20.816Z</updated>
+    <updated>2021-10-28T01:04:00.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[패리스 힐튼, 친구들에 보낸 결혼식 선물 요구 목록…총 7000만원]]></title>
+        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004662786</id>
+        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004662786"/>
+        <updated>2021-10-28T01:03:59.603Z</updated>
+        <content type="html"><![CDATA[할리우드 이슈메이커 패리스 힐튼의 초호화 '웨딩 레지스트리'가 화제다. 웨딩 레지스트리는 예비 신부가 친구들에게 공유하는 결혼 선물 리스트다. 27일(현지시간) 코스모폴리탄 영국판은 패리스 힐튼이 결혼식을 앞두고 친]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빌 머레이, MCU '앤트맨3' 출연 언급…배역은 비공개 [엑's 할리우드]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001365320</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001365320"/>
+        <updated>2021-10-28T01:03:59.608Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 배우 빌 머레이가 마블 시네마틱 유니버스(MCU)에 합류한다. 26일(현지시간) 미국 버라이어티는 독일 매체 FAZ를 인용, 영화 '프렌치 디스패치'의 홍보를 위한 인터뷰 도중 '앤트맨과]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['조니뎁 전처' 엠버 허드, 대리모로 낳은 딸 키우며 파격변신 "빨간머리"]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004499454</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000826270"/>
         <updated>2021-10-27T06:24:59.285Z</updated>
         <content type="html"><![CDATA[걸그룹 시크릿넘버 세 번째 싱글 'Fire Saturday (파이어 세러데이)' 발매 기념 쇼케이스가 27일 오후 서울 강남구 청담동 일지아트홀에서 열렸다. 쇼케이스 무대를 선보이고 있는 시크릿 넘버.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[레아 '사랑스러워' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826268</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000826268"/>
-        <updated>2021-10-27T06:24:59.286Z</updated>
-        <content type="html"><![CDATA[걸그룹 시크릿넘버 세 번째 싱글 'Fire Saturday (파이어 세러데이)' 발매 기념 쇼케이스가 27일 오후 서울 강남구 청담동 일지아트홀에서 열렸다. 쇼케이스 무대를 선보이고 있는 시크릿 넘버 레아.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[레아 '청순 미녀' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826267</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000826267"/>
-        <updated>2021-10-27T06:24:59.287Z</updated>
-        <content type="html"><![CDATA[걸그룹 시크릿넘버 세 번째 싱글 'Fire Saturday (파이어 세러데이)' 발매 기념 쇼케이스가 27일 오후 서울 강남구 청담동 일지아트홀에서 열렸다. 쇼케이스 무대를 선보이고 있는 시크릿 넘버 레아.]]></content>
     </entry>
 </feed>

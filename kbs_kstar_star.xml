@@ -4,9 +4,43 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 23:22:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 01:04:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트레저 요시, 팬들과 일상 소통]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=168344</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=168344</guid>
+            <pubDate>Thu, 28 Oct 2021 01:03:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=168344">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211028095946_12c08af92344b3eb45f6c07dfc145d66_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=168344">트레저 요시, 팬들과 일상 소통</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211028095946_12c08af92344b3eb45f6c07dfc145d66_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[직장인 류현경 - 바리스타 옹성우, 카카오TV '커피 한잔 할까요?']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=168316</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=168316</guid>
+            <pubDate>Thu, 28 Oct 2021 01:03:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=168316">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211028083921_2bc059b6164c84a26753001e184d9f91.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=168316">직장인 류현경 - 바리스타 옹성우, 카카오TV '커피 한잔 할까요?' </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211028083921_2bc059b6164c84a26753001e184d9f91.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[겨울 장식할 뮤지컬 코미디 '젠틀맨스 가이드']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=168155</link>
@@ -312,40 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=166878">'바리스타' 옹성우, 카카오TV &lt;커피 한잔 할까요?&gt; </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211020084259_716525b6d8293fccacb11e3cdc288026_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김준수, 징크스 OST '여전히 영원히']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=166693</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=166693</guid>
-            <pubDate>Tue, 19 Oct 2021 05:18:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=166693">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211019134159_5c6f07b64185148b42e876122fe9a596.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=166693">김준수, 징크스 OST '여전히 영원히'  </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211019134159_5c6f07b64185148b42e876122fe9a596.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤계상X고아성, 필연적 대립 '크라임 퍼즐']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=166687</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=166687</guid>
-            <pubDate>Tue, 19 Oct 2021 05:18:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=166687">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211019132922_44bcef16318e22552e0ce5fd19b15a59_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=166687">윤계상X고아성, 필연적 대립 '크라임 퍼즐'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211019132922_44bcef16318e22552e0ce5fd19b15a59_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
