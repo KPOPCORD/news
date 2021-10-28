@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-28T15:22:07.080Z</updated>
+    <updated>2021-10-28T16:32:31.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단 정국, 해리 스타일스 'Falling' 커버 공개 '청아한 음색']]></title>
+        <id>https://entertain.v.daum.net/v/20211029002317204</id>
+        <link href="https://entertain.v.daum.net/v/20211029002317204"/>
+        <updated>2021-10-28T16:31:57.572Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 방탄소년단 멤버 정국이 음악 팬들에게 또 하나의 커버 음원을 선물했다. 정국은 10월 29일 0시 방탄소년단 공식 유튜브, 공식 블로그를 통해 'Falling'(폴링) 커버 음원을 공개했다. 'Falling'은 해리 스타일스가 지난 2019년 12월 발매한 정규 앨범 'Fine Line'(파인 라인) 타이틀곡이다. 정국은 특]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["감정 변화에 중점"..박지훈, 변화와 성장]]></title>
         <id>https://entertain.v.daum.net/v/20211029000031864</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211028185012697"/>
         <updated>2021-10-28T10:22:51.548Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) 가수 박지훈이 자신감을 안고 초고속 컴백을 알렸다.&nbsp; 박지훈 다섯 번째 미니 앨범 '핫 앤 콜드(HOT&amp;COLD)' 발매 기념 쇼케이스가 28일 오후 온라인 생중계로 진행됐다.&nbsp; '핫 앤 콜드'는 지난 8월 발매한 네 번째 미니 앨범 '마이 컬렉션(My Collection)' 이후 2개월 만에 선보이는 새 미니 앨범이다. 타이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["언제 누려봤다고"..솔직한 케이시, 감히 기대 않는 성적]]></title>
-        <id>https://entertain.v.daum.net/v/20211028185002688</id>
-        <link href="https://entertain.v.daum.net/v/20211028185002688"/>
-        <updated>2021-10-28T10:22:51.549Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 가수 케이시(Kassy)가 음원 성적 부담감에 대한 겸손하고도 진솔한 답변을 전했다. 케이시 네 번째 EP앨범 '옛이야기' 발매 기념 온라인 프레스 쇼케이스가 28일 오후 열렸다. 이날 자리에는 케이시와 앨범 프로듀싱에 참여한 작곡가 조영수가 참석했다. '옛이야기'는 케이시가 지난 4월 발매한 싱글 '너의 발걸음에 빛을 비춰줄게]]></content>
     </entry>
 </feed>

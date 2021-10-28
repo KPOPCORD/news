@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-28T15:22:07.098Z</updated>
+    <updated>2021-10-28T16:32:31.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BTS, '올해의 아티스트' 등 아메리칸뮤직어워즈 3개 부문 후보]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012755156</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012755156"/>
+        <updated>2021-10-28T16:32:16.352Z</updated>
+        <content type="html"><![CDATA[아시아 가수 중 최초로 대상격 '올해의 아티스트' 후보 지명 (로스앤젤레스=연합뉴스) 정윤섭 특파원 = 그룹 방탄소년단(BTS)이 미국의 3대 음악 시상식 중 하나인 '2021 아메리칸뮤직어워즈'(AMA)에서 3개]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단 정국, 해리 스타일스 ‘Falling’ 커버 공개 '청아한 음색']]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000505161</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000505161"/>
+        <updated>2021-10-28T16:32:16.352Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 방탄소년단 멤버 정국이 음악 팬들에게 또 하나의 커버 음원을 선물했다. 정국은 10월 29일 0시 방탄소년단 공식 유튜브, 공식 블로그를 통해 'Falling'(폴링) 커버 음원을 공개했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["감정 변화에 중점"…박지훈, 변화와 성장(종합)]]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000113278</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001365685"/>
         <updated>2021-10-28T11:17:54.594Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) 가수 박지훈이 꾸준한 성장과 함께 보여줄 음악적 행보에 대한 기대감을 심었다. 박지훈은 28일 오후 다섯 번째 미니 앨범 '핫 앤 콜드(HOT&amp;COLD)' 발매 기념 쇼케이스를 온라인 생]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지코, '아무노래' 뮤비 1억뷰 돌파..데뷔 후 처음]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003000404</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003000404"/>
-        <updated>2021-10-28T10:23:12.006Z</updated>
-        <content type="html"><![CDATA[지난해 댄스 챌린지 열풍을 일으킨 가수 지코(ZICO)의 '아무노래' 뮤직비디오가 유튜브 조회수 1억뷰를 넘어섰다. 28일 소속사 KOZ엔터테인먼트에 따르면 지코가 지난해 1월 13일 발표한 디지털 싱글 '아무노래']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['집유 중 마약' 황하나, "휴대폰 없애고 시골 살겠다" 호소에도..2심 실형 구형]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003000403</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003000403"/>
-        <updated>2021-10-28T10:23:12.008Z</updated>
-        <content type="html"><![CDATA[집행유예 기간 중 마약을 투약한 혐의로 1심에서 실형을 선고 받은 남양우업 창업주 외손녀 황하나(33) 씨가 항소심에서도 실형을 구형받았다. 황 씨는 눈물을 흘리며 선처를 호소했다. 28일 서울서부지법 형사항소1-1]]></content>
     </entry>
 </feed>
