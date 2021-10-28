@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-28T06:26:27.042Z</updated>
+    <updated>2021-10-28T07:20:47.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[크리스틴 스튜어트, 파격 브라탑 드레스에 복근→팔 타투 '新공주님'[Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004499809</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004499809"/>
+        <updated>2021-10-28T07:20:46.980Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] '새로운 공주님의 룩'. 할리우드 배우 크리스틴 스튜어트(Kristen Stewart, 31)가 27일(현지시간) 미국 LA에서 열린 영화 '스펜서(Spenzer)' 행사에서 파격 브라탑에]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BTS, 美 '피플스 초이스 어워즈' 3개 부문 후보]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012754204</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012754204"/>
+        <updated>2021-10-28T07:20:46.982Z</updated>
+        <content type="html"><![CDATA['동생 그룹' TXT도 신인 부문 올라 (서울=연합뉴스) 이태수 기자 = 그룹 방탄소년단이 미국 대중문화 시상식인 '피플스 초이스 어워즈'(People's Choice Awards) 3개 부문 후보에 올랐다. 28일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안젤리나 졸리, 개성 넘치는 5남매와 공식석상[포토엔]]]></title>
         <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000504923</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005685159"/>
         <updated>2021-10-27T08:24:52.405Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 박형기 기자 = 오징어게임이 세계적인 성공을 거두며 한국 문화의 저력을 세계만방에 과시했지만 한국 사회의 모든 모순을 보여주기도 했다고 블룸버그통신이 26일(현지시간) 보도했다. 블룸버그는 오징어게임]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[99년생 수담 '나팔바지와 디스코 댄스' [MK화보]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826325</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000826325"/>
-        <updated>2021-10-27T08:24:52.408Z</updated>
-        <content type="html"><![CDATA[걸그룹 시크릿넘버 세 번째 싱글 'Fire Saturday (파이어 세러데이)' 발매 기념 쇼케이스가 27일 오후 서울 강남구 청담동 일지아트홀에서 열렸다. 시크릿 넘버의 이번 새 싱글은 지난해 11월에 발매한 싱글]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드류 베리모어∙전 남편, 20년만에 토크쇼서 재회 "유체이탈 느낌"[Oh!llywood]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004498965</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004498965"/>
-        <updated>2021-10-27T07:20:24.138Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] '전 부부'인 할리우드 드류 베리모어(46)와 코미디언 톰 그린(50)이 20년 만에 처음으로 재회했다. 2001년 7월부터 2002년 10월까지 베리모어와 결혼생활을 했던 그린은 최근 베리]]></content>
     </entry>
 </feed>

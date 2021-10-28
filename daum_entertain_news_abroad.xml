@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-10-28T06:26:27.060Z</updated>
+    <updated>2021-10-28T07:20:47.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[크리스틴 스튜어트, 파격 브라탑 드레스에 복근→팔 타투 '新공주님']]></title>
+        <id>https://entertain.v.daum.net/v/20211028161323309</id>
+        <link href="https://entertain.v.daum.net/v/20211028161323309"/>
+        <updated>2021-10-28T07:20:26.103Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] '새로운 공주님의 룩'. 할리우드 배우 크리스틴 스튜어트(Kristen Stewart, 31)가 27일(현지시간) 미국 LA에서 열린 영화 '스펜서(Spenzer)' 행사에서 파격 브라탑에 레이스로 장식된 얇은 털 치마를 입고 공식석상에 섰다.&nbsp;샤넬 오트 쿠튀르의&nbsp;패션. 영국 왕세자비인 故다이애나 스펜서를 다룬 이&nbsp;전기영화에서 스튜]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[키아누 리브스, '존윅' 스턴트맨들에 '롤렉스 시계' 선물.."역대 최고"]]></title>
         <id>https://entertain.v.daum.net/v/20211028144447888</id>
@@ -46,12 +53,5 @@
         <link href="https://entertain.v.daum.net/v/20211027163102283"/>
         <updated>2021-10-27T08:24:30.028Z</updated>
         <content type="html"><![CDATA[알렉 볼드윈의 총기사고 배경엔 신입 스태프의 실수가 있었다. 26일(현지시각) 외신에 따르면 24세의 스태프인 한나 구티에레즈-리드는 영화 '러스트' 세트장에서 무기를 취급했다. 현장 스태프에 따르면 출연진이나 스태프에 사전 이야기 없이 촬영장에서 두 차례 총을 쏘며 총 소리를 시연했다. 겨드랑이에 총을 꽂아 다른 사람들을 겨냥한 것도 수 차례 있었다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드류 베리모어∙전 남편, 20년만에 토크쇼서 재회 "유체이탈 느낌"]]></title>
-        <id>https://entertain.v.daum.net/v/20211027161532605</id>
-        <link href="https://entertain.v.daum.net/v/20211027161532605"/>
-        <updated>2021-10-27T07:20:03.679Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] '전 부부'인 할리우드 드류 베리모어(46)와 코미디언 톰 그린(50)이 20년 만에 처음으로 재회했다. 2001년 7월부터 2002년 10월까지 베리모어와 결혼생활을 했던 그린은 최근 베리모어가 진행하는 주간 토크쇼 '더 드류 배리모어 쇼'에 게스트로 출연한 것. 그는 앞서&nbsp;2020년 9월&nbsp;그린 스크린을 통해 '가상'으로 이 쇼에]]></content>
     </entry>
 </feed>
