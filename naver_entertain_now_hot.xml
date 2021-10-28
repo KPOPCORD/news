@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-10-28T17:24:02.685Z</updated>
+    <updated>2021-10-28T18:25:29.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘예비맘’ 우혜림, 제법 배 나온 D라인 공개 [M+★SNS]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001617549</id>
+        <link href="https://entertain.naver.com/now/read?oid=057&amp;aid=0001617549"/>
+        <updated>2021-10-28T18:25:22.395Z</updated>
+        <content type="html"><![CDATA[원더걸스 출신 우혜림이 D라인 몸매를 공개했다. 우혜림은 지난 28일 자신의 인스타그램에 “아이가 정말 빨리 자라고 있어요. 우리 사랑이는 딸일까요 아들일까요”라는 글을 남겼다. 짤막하게 올린 영상 속 혜림은 상의를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하이브 측 “암호화폐, 아미코인과 무관...금전 피해 각별히 유의”(공식입장)]]></title>
         <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001617547</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005688575"/>
         <updated>2021-10-28T14:20:15.813Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 권현진 기자 = 오마이걸 효정이 28일 오후 서울 중구 국립극장에서 열린 ‘제 12회 대한민국 대중문화예술상(2021)’ 시상식에 참석해 문화체육관광부 장관 표창을 받은 뒤 화려한 축하공연을 선보이고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오마이걸 비니, 예쁨 만개]]></title>
-        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005688574</id>
-        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005688574"/>
-        <updated>2021-10-28T14:20:15.814Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 권현진 기자 = 오마이걸 비니가 28일 오후 서울 중구 국립극장에서 열린 ‘제 12회 대한민국 대중문화예술상(2021)’ 시상식에 참석해 문화체육관광부 장관 표창을 받은 뒤 화려한 축하공연을 선보이고]]></content>
     </entry>
 </feed>

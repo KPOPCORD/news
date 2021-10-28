@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-28T17:24:02.693Z</updated>
+    <updated>2021-10-28T18:25:29.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['국민가수' 김영흠, 본선 1라운드 1등]]></title>
+        <id>https://entertain.v.daum.net/v/20211029024324752</id>
+        <link href="https://entertain.v.daum.net/v/20211029024324752"/>
+        <updated>2021-10-28T18:24:58.246Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 황서연 기자] '국민가수'의 김영흠이 본선 1라운드 1위를 차지했다. 28일 밤 방송한 TV조선 '내일은 국민가수'(이하 '국민가수')에서는 본선 1라운드 팀미션이 진행됐다. 첫 번째 팀은 최진솔 김도하가 속한 연합부B조였다. 두 사람은 이승철 '오늘도 난'을 선곡했고, 김도하가 실수를 하며 올하트 받기에 실패했다. 최진솔은 호평을 받은 가운]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단 정국, 해리 스타일스 'Falling' 커버 공개 '청아한 음색']]></title>
         <id>https://entertain.v.daum.net/v/20211029002317204</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211028191711334"/>
         <updated>2021-10-28T10:22:51.547Z</updated>
         <content type="html"><![CDATA[[동아닷컴] 가수 박지훈이 컴백 쇼케이스를 성료했다. 박지훈은 28일 오후 신아영의 진행 아래 다섯 번째 미니앨범 'HOT&amp;COLD(핫 앤 콜드)' 발매 기념 쇼케이스를 개최했다. 이날 박지훈은 고급스러운 블루 슈트를 착장하고 등장해 타이틀곡 'Serious(시리어스)'와 수록곡 'CHEESE(치즈)' 무대를 최초 공개했다. 박지훈은 부드러우면서 강렬한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["멈추지 않겠다"..박지훈의 성장 욕심]]></title>
-        <id>https://entertain.v.daum.net/v/20211028185012697</id>
-        <link href="https://entertain.v.daum.net/v/20211028185012697"/>
-        <updated>2021-10-28T10:22:51.548Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) 가수 박지훈이 자신감을 안고 초고속 컴백을 알렸다.&nbsp; 박지훈 다섯 번째 미니 앨범 '핫 앤 콜드(HOT&amp;COLD)' 발매 기념 쇼케이스가 28일 오후 온라인 생중계로 진행됐다.&nbsp; '핫 앤 콜드'는 지난 8월 발매한 네 번째 미니 앨범 '마이 컬렉션(My Collection)' 이후 2개월 만에 선보이는 새 미니 앨범이다. 타이]]></content>
     </entry>
 </feed>
