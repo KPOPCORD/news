@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-29T19:16:55.208Z</updated>
+    <updated>2021-10-29T20:23:17.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[창사 20주년 특집] K팝, 빌보드 20년…"1위, 쉬워졌다"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010801536</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010801536"/>
+        <updated>2021-10-29T20:23:01.684Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 2001년 김범수, '핫 싱글스 세일스' 차트로 첫 진입 2009년 보아·원더걸스, '빌보드 200'·'핫100' 점령 방탄소년단, '빌보드200' 5번 1위·'핫100' 1위 6곡 [서울=뉴시스]이재]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아, 감성 장인! 임영웅 '붉은 입술' 유튜브 오디오 트랙 100만 돌파]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003000728</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003000728"/>
+        <updated>2021-10-29T20:23:01.684Z</updated>
+        <content type="html"><![CDATA[가수 임영웅의 '붉은 입술' 유튜브 오디오 트랙이 100만 조회수를 넘어섰다. 임영웅이 지난 8월 17일 공식 유튜브 채널에 공개한 '붉은 입술' 오디오 트랙은 10월 29일 조회수 100만을 돌파했다. 임영웅은 나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미스트롯2' 김태연, '월드스타 연예대상' 인기상…트로트 스타 증명]]></title>
         <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000797613</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012757219"/>
         <updated>2021-10-29T10:23:07.662Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 김예나 기자 = 보이그룹 AB6IX(에이비식스)가 본격적인 일본 활동에 나선다. 소속사 브랜뉴뮤직은 29일 "AB6IX가 일본의 빅터엔터테인먼트와 손잡고 일본 음악 시장에 전격 데뷔한다"고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AB6IX, 일본 정식 데뷔 확정… 글로벌 행보, '현지 기대감 UP']]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001366082</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001366082"/>
-        <updated>2021-10-29T09:21:34.644Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 그룹 AB6IX (에이비식스)가 일본 정식 데뷔를 확정 짓고 본격적인 일본 시장 공략에 나선다. 브랜뉴뮤직은 29일 AB6IX가 일본의 빅터 엔터테인먼트와 손잡고 일본 음악 시장에 전격]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴이스트-아스트로-펜타곤-골든차일드-엔하이픈, AAA 출격 “화려한 행보”]]></title>
-        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003550233</id>
-        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003550233"/>
-        <updated>2021-10-29T09:21:34.653Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]그룹 뉴이스트, 아스트로, 펜타곤, 골든차일드, 엔하이픈이 ‘2021 Asia Artist Awards‘에 출격해 글로벌 여심을 사로잡는다. 뉴이스트, 아스트로, 펜타곤, 골든차일드, 엔]]></content>
     </entry>
 </feed>
