@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-29T12:33:33.628Z</updated>
+    <updated>2021-10-29T13:27:31.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아스트로 MJ, 솔로 데뷔곡 '계세요 ' 슈트 핏 매력]]></title>
+        <id>https://entertain.v.daum.net/v/20211029220746652</id>
+        <link href="https://entertain.v.daum.net/v/20211029220746652"/>
+        <updated>2021-10-29T13:26:55.463Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김수진 기자] 사진 = 판타지오뮤직그룹 아스트로 멤버 MJ가 슈트 착장으로 반전 매력을 발산했다. 아스트로 MJ는 지난 28일 오후 공식 SNS를 통해 오는 11월 3일 발매하는 첫 번째 솔로 디지털 싱글 'Happy Virus (해피 바이러스)'와 타이틀곡 '계세요 (Get Set Yo)'의 두 번째 콘셉트 포토를 공개했다. 싱그러운 매력이 돋]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에드 시런 정규 4집 앨범 '=' 전 세계 발매..새 싱글 'Overpass Graffiti' 뮤직비디디오도 공개]]></title>
+        <id>https://entertain.v.daum.net/v/20211029220013509</id>
+        <link href="https://entertain.v.daum.net/v/20211029220013509"/>
+        <updated>2021-10-29T13:26:55.463Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 우리 시대를 대표하는 팝 슈퍼스타 에드 시런(Ed Sheeran)이 29일 4번째 정규 앨범 ‘=’를 전 세계 발매했다. 발매와 함께 에드 시런은 새 싱글 ‘Overpass Graffiti’ 뮤직비디오를 오늘 오후 10시(한국시간)에 공개했다.‘Overpass Graffiti’는 새 앨범 ‘=’의 세 번째 싱글이다. 중독적이면서 신스 사운드]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하디, 연애 세포 자극 '그냥 좋아서' 첫 데뷔 무대]]></title>
         <id>https://entertain.v.daum.net/v/20211029212453937</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211029162448286"/>
         <updated>2021-10-29T08:24:05.789Z</updated>
         <content type="html"><![CDATA['스우파'의 리헤이가 프로그램에 대해 각별한 애정을 드러냈다. 29일 Mnet 댄스 서바이벌 '스트릿 우먼 파이터'(이하 '스우파')가 종영 기념 기자 간담회를 온라인으로 진행했다. 제작진을 대표해서 권영찬CP와 최정남PD이 참석했으며, 각 크루의 리더인 리정(YGX), 가비(라치카), 효진초이(원트), 노제(웨이비), 리헤이(코카N버터), 모니카(프]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단, 日 'MTV VMA' 2관왕..4년 연속 수상]]></title>
-        <id>https://entertain.v.daum.net/v/20211029161157871</id>
-        <link href="https://entertain.v.daum.net/v/20211029161157871"/>
-        <updated>2021-10-29T07:20:03.177Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 그룹 방탄소년단이 'MTV VMAJ'에서 2관왕을 차지했다. 29일 '2021 MTV 비디오 뮤직 어워드 재팬(2021 MTV Video Music Awards Japan, 이하 '2021 MTV VMAJ)'측이 공식 홈페이지를 통해 발표한 바에 따르면, 방탄소년단은 올해 이 시상식에서 'Butter'로 '베스트 그룹 비디오/인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JYP 소속 NiziU, 일본 MTV VMAJ서 2년 연속 수상..대세 존재감]]></title>
-        <id>https://entertain.v.daum.net/v/20211029160312589</id>
-        <link href="https://entertain.v.daum.net/v/20211029160312589"/>
-        <updated>2021-10-29T07:20:03.178Z</updated>
-        <content type="html"><![CDATA[[OSEN=선미경 기자] JYP엔터테인먼트(이하 JYP) 소속 가수 NiziU(니쥬)가 일본 MTV VIDEO MUSIC AWARDS JAPAN(이하 MTV VMAJ)에서 2년 연속 수상의 영광을 안았다. 29일 MTV VMAJ 2021은 공식 홈페이지를 통해 "올해 화제를 모은 영상 작품이나 곡을 많이 발표하여 음악 시장의 발전에 공헌한 아티스트에게 수여]]></content>
     </entry>
 </feed>
