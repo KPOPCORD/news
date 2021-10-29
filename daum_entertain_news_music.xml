@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-29T10:23:20.560Z</updated>
+    <updated>2021-10-29T11:18:04.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전소미, 익살스러운 악동으로 돌아왔다..신곡 'XOXO' 공개]]></title>
+        <id>https://entertain.v.daum.net/v/20211029201104913</id>
+        <link href="https://entertain.v.daum.net/v/20211029201104913"/>
+        <updated>2021-10-29T11:17:32.425Z</updated>
+        <content type="html"><![CDATA[[OSEN=이예슬 기자] 전소미가 새 앨범 ‘XOXO’로 돌아왔다. 29일 19시 아웃나우(#OUTNOW)에서는 전소미의 신곡이 최초 공개 됐다.&nbsp;전소미의 이번 앨범 'XOXO'에는 타이틀곡 'XOXO'와&nbsp; 'Don't Let Me Go&nbsp;(Feat. 기리보이)', 'Anymore', 'Watermelon', '어질어질(Outta My Head)', 'BIR]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["반쪽 같은 소리 하지 마"..전소미, 쿨한 악동의 이별 'XOXO']]></title>
         <id>https://entertain.v.daum.net/v/20211029185019446</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211029155011112"/>
         <updated>2021-10-29T07:20:03.182Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 전소미가 솔로 가수로 살아남는 고충을 털어놨다. 전소미의 첫 정규 앨범 'XOXO' 발매 기념 온라인 미디어 쇼케이스가 29일 오전 진행됐다. 솔로 가수로 2년째 활동하고 있는 전소미는 "마음을 비우기를 연습하고 실천해나가려고 한다"며 "솔로 가수로 살아가는 게 쉽지 않은 것 같다"라고 털어놨다. 이어 "살아남으려면 열심히 일하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이키 "어느덧 우리가 대중들 일상에 파고들어..너무 감사"]]></title>
-        <id>https://entertain.v.daum.net/v/20211029155003102</id>
-        <link href="https://entertain.v.daum.net/v/20211029155003102"/>
-        <updated>2021-10-29T07:20:03.183Z</updated>
-        <content type="html"><![CDATA['스우파'의 아이키가 종영 소감을 전했다. 29일 Mnet 댄스 서바이벌 '스트릿 우먼 파이터'(이하 '스우파')가 종영 기념 기자 간담회를 온라인으로 진행했다. 제작진을 대표해서 권영찬CP와 최정남PD이 참석했으며, 각 크루의 리더인 리정(YGX), 가비(라치카), 효진초이(원트), 노제(웨이비), 리헤이(코카N버터), 모니카(프라우드먼), 허니제이(]]></content>
     </entry>
 </feed>

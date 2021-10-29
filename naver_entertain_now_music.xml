@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-29T10:23:20.558Z</updated>
+    <updated>2021-10-29T11:18:04.399Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전소미, 익살스러운 악동으로 돌아왔다···신곡 ‘XOXO’ 공개 (‘아웃나우')]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004500704</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004500704"/>
+        <updated>2021-10-29T11:17:50.004Z</updated>
+        <content type="html"><![CDATA[[OSEN=이예슬 기자] 전소미가 새 앨범 ‘XOXO’로 돌아왔다. 29일 19시 아웃나우(#OUTNOW)에서는 전소미의 신곡이 최초 공개 됐다. 전소미의 이번 앨범 'XOXO'에는 타이틀곡 'XOXO'와 'Don']]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[피원하모니, 데뷔 1주년 글로벌 급성장…기대되는 앞날]]></title>
+        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000797600</id>
+        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000797600"/>
+        <updated>2021-10-29T11:17:50.017Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 김선우기자]그룹 피원하모니(P1Harmony, 기호 테오 지웅 인탁 소울 종섭)가 약 한 달 간의 미국 프로모션 활동을 마치고 돌아와 글로벌 인기를 입증하며 4세대 대표 K팝 아이돌로 자리매김했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스우파', 어떻게 '여성 댄서' 아닌 'K댄서 신드롬' 일으켰나(종합)]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010801305</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003550216"/>
         <updated>2021-10-29T08:24:21.961Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 오윤주 기자] 그룹 2am이 컴백 예열을 마쳤다. 2am은 29일 공식 SNS를 통해 새 미니앨범 '발라드 21 가을/겨울(Ballad 21 F/W)' 하이라이트 메들리를 선보였다. 공개된 영상에는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑 가득 ‘소란 팝’의 컴백…31일 싱글 ‘셔터’ 발매]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826971</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000826971"/>
-        <updated>2021-10-29T08:24:21.962Z</updated>
-        <content type="html"><![CDATA[10월 31일 밴드 소란의 새 싱글 ‘셔터 (Shutter)’가 발매된다. 지난 4월 다양한 사랑의 형태를 노래한 미니앨범 ‘Beloved’로 사랑스러운 소란 팝의 면모를 보여주었던 소란이 6개월 만에 새로운 싱글]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프라우드먼 모니카 "스우파, 인생의 '터닝 포인트'"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010801055</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010801055"/>
-        <updated>2021-10-29T08:24:21.963Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 댄스 크루 '프라우드먼'의 리더 모니카가 엠넷 '스트릿 우먼 파이터'(스우파) 를 인생의 터닝 포인트로 꼽았다. 모니카는 29일 오후 온라인으로 생중계된 엠넷 '스트릿 우먼 파이터' 종]]></content>
     </entry>
 </feed>
