@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 15:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 16:32:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘나 혼자 산다’ 2PM 준호 친누나, 미담 공개 “동생은 어릴 때부터 스윗했다”]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329374</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329374</guid>
+            <pubDate>Fri, 29 Oct 2021 16:31:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329374">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/30/KKhsFHjSmb59637711528089144233.jpg" alt="‘나 혼자 산다’ 2PM 준호 친누나, 미담 공개 “동생은 어릴 때부터 스윗했다”">        <div class="text-box">            <p class="summary">‘나 혼자 산다’ 2PM 준호 친누나, 미담 공개 “동생은 어릴 때부터 스윗했다”</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/30/KKhsFHjSmb59637711528089144233.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세븐틴 “고깃값만 천만 원 나온 적 있다” (신과 함께2)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/329345</link>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 29 Oct 2021 01:01:55 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329261">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/29/0GHVgwJESphI637710971400599851.jpg" alt="'스우파' 허니제이, 원호 격한 애정 " 섹시+여유="" 선물할래""="">        <div class="text-box">            <p class="summary">'스우파' 허니제이, 원호 격한 애정 "섹시+여유 선물할래"</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/29/0GHVgwJESphI637710971400599851.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 노미네이트…'아메리칸 뮤직 어워드' 4년 연속 정조준]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329238</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329238</guid>
-            <pubDate>Thu, 28 Oct 2021 23:21:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329238">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/29/6AL9WlAb7R4W637710897484984585.jpg" alt="방탄소년단 노미네이트…'아메리칸 뮤직 어워드' 4년 연속 정조준">        <div class="text-box">            <p class="summary">방탄소년단 노미네이트…'아메리칸 뮤직 어워드' 4년 연속 정조준</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/29/6AL9WlAb7R4W637710897484984585.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

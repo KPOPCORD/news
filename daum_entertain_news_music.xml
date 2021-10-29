@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-29T15:23:19.237Z</updated>
+    <updated>2021-10-29T16:32:27.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미스트롯2' 김태연, '월드스타 연예대상' 인기상..트로트 스타 증명]]></title>
+        <id>https://entertain.v.daum.net/v/20211030002610695</id>
+        <link href="https://entertain.v.daum.net/v/20211030002610695"/>
+        <updated>2021-10-29T16:31:54.680Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 김선우기자]‘미스트롯2’ 김태연이 권위있는 시상식들의 초대를 받으며 존재감을 발휘하고 있다. 김태연은 최근 일산 빛마루 방송센터에서 비대면으로 개최된 ‘제2회 2021 월드스타 연예대상’에서 트로트 부문 인기상을 수상한데 이어, ‘제12회 대한민국 대중문화예술상’에서 축하공연을 펼치며 명실상부 대세 트로트 스타로서의 가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['금요일은 밤이 좋아' 미스트롯'S 익숙한 갈라쇼]]></title>
         <id>https://entertain.v.daum.net/v/20211030001207601</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211029180009529"/>
         <updated>2021-10-29T09:21:14.859Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 가수 전소미가 사랑스러운 악동으로 변신했다. 전소미는 10월 29일 오후 6시 국내외 음원 사이트를 통해 첫 번째 정규 앨범 'XOXO'를 발매했다. 이번 앨범은 전소미가 지난 8월 발표한 디지털 싱글 '덤덤(DUMB DUMB)' 이후 약 3개월 만에 선보인 신보다. 솔로 데뷔 후 2년 만에 최초로 발매하는 정규 음반이라는 점도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단, 日 '2021 MTV VMA' 2관왕]]></title>
-        <id>https://entertain.v.daum.net/v/20211029174304009</id>
-        <link href="https://entertain.v.daum.net/v/20211029174304009"/>
-        <updated>2021-10-29T09:21:14.865Z</updated>
-        <content type="html"><![CDATA[[TV리포트=김명신 기자] 그룹 방탄소년단이 '2021 MTV 비디오 뮤직 어워드 재팬(2021 MTV Video Music Awards Japan, 이하 '2021 MTV VMAJ)'에서 2관왕을 차지했다.&nbsp; 29일 'MTV VMAJ' 측이 공식 홈페이지를 통해 발표한 바에 따르면, 방탄소년단은 올해 이 시상식에서 'Butter'로 '베스트 그룹 비디오/]]></content>
     </entry>
 </feed>

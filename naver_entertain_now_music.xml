@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-29T15:23:19.239Z</updated>
+    <updated>2021-10-29T16:32:27.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미스트롯2' 김태연, '월드스타 연예대상' 인기상…트로트 스타 증명]]></title>
+        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000797613</id>
+        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000797613"/>
+        <updated>2021-10-29T16:32:12.935Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 김선우기자]‘미스트롯2’ 김태연이 권위있는 시상식들의 초대를 받으며 존재감을 발휘하고 있다. 김태연은 최근 일산 빛마루 방송센터에서 비대면으로 개최된 ‘제2회 2021 월드스타 연예대상’에서 트로트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅, 유튜브 조회수 총 10억 8000만뷰 돌파 “기록 제조기”]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003550362</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003550233"/>
         <updated>2021-10-29T09:21:34.653Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]그룹 뉴이스트, 아스트로, 펜타곤, 골든차일드, 엔하이픈이 ‘2021 Asia Artist Awards‘에 출격해 글로벌 여심을 사로잡는다. 뉴이스트, 아스트로, 펜타곤, 골든차일드, 엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AB6IX, 글로벌 인기 열풍 이어간다..일본 정식 데뷔 확정[공식]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003492437</id>
-        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003492437"/>
-        <updated>2021-10-29T09:21:34.655Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=천윤혜기자]AB6IX (에이비식스)가 일본 정식 데뷔를 확정 짓고 본격적인 일본 시장 공략에 나선다. 브랜뉴뮤직은 오늘(29일), AB6IX가 일본의 빅터 엔터테인먼트와 손잡고 일본 음악 시장에 전격]]></content>
     </entry>
 </feed>
