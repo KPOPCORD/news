@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-10-29T16:32:27.567Z</updated>
+    <updated>2021-10-29T17:23:49.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오징어 게임', 미국서 일주일간 시청 시간 30억분 넘어]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012757689</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012757689"/>
+        <updated>2021-10-29T17:23:41.362Z</updated>
+        <content type="html"><![CDATA[스트리밍 콘텐츠 중 역대 6번째로 '30억분 클럽' 가입 (로스앤젤레스=연합뉴스) 정윤섭 특파원 = 넷플릭스의 한국 오리지널 드라마 '오징어 게임'이 미국에서 일주일간 누적 시청 시간 기준으로 30억분을 넘었다는 통]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["첫사랑" 준호, 32개월 조카와 극기훈련급 육아→신기루, 송어 한 상에 "소주 한 병 주세요"('나혼자산다')[종합]]]></title>
         <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003795307</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000941531"/>
         <updated>2021-10-29T13:27:23.878Z</updated>
         <content type="html"><![CDATA['다큐 플렉스' 배우 박해미가 다큐 플렉스에서 훌쩍 자란 거침없이 하이킥 시절의 아들 김혜성, 정일우에 깜짝 놀랐다. 29일 오후에 방송된 MBC 시사교양 프로그램 '다큐 플렉스'에서는 '청춘다큐-거침없이 하이킥']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태연, 이 구역 힙스터 여신 [화보]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003000706</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003000706"/>
-        <updated>2021-10-29T13:27:23.880Z</updated>
-        <content type="html"><![CDATA[컨템퍼러리 스트리트 브랜드 널디의 첫 앰배서더로 발탁된 태연의 커버 화보가 공개됐다. 더스타 매거진 11월호를 통해 공개된 이번 커버 화보에서 태연은 러블리하면서도 힙한 자신만의 스타일을 한껏 드러냈다. 공개된 사진]]></content>
     </entry>
 </feed>
