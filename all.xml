@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 06:25:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 07:20:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[원어스, 신보 티저 이미지 공개 '블러드 문' (KBS연예 ─ 음악)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=168715</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=168715</guid>
+            <pubDate>Fri, 29 Oct 2021 07:19:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=168715">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211029160555_00d44cc9c85c493037a24ed9ed31f1c9.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=168715">원어스, 신보 티저 이미지 공개 '블러드 문'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211029160555_00d44cc9c85c493037a24ed9ed31f1c9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트와이스 신곡 이름 공개, 'SCIENTIST'(사이언티스트) (KBS연예 ─ 음악)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=168652</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=167906">너드커넥션, 정규 앨범 발매 임박!</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211026084829_58e2ea37cd17b99d8091675d09ba7f75.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 일본 레코드협회 플래티넘 인증! (KBS연예 ─ 음악)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=167894</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=167894</guid>
-            <pubDate>Tue, 26 Oct 2021 01:02:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=167894">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211026084245_6a9c2396a40509930668b7f9f2d6ca6d.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=167894">방탄소년단, 일본 레코드협회 플래티넘 인증!</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211026084245_6a9c2396a40509930668b7f9f2d6ca6d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[문화체육관광부장관 표창 받은 오마이걸 "사랑해주셔서 정말 고맙다" (KBS연예 ─ 연예)]]></title>
@@ -688,6 +688,46 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211020110152_89fee6fe47e7bc791421fb8c4c0238d4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[세븐틴 “고깃값만 천만 원 나온 적 있다” (신과 함께2) (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329345</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329345</guid>
+            <pubDate>Fri, 29 Oct 2021 07:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329345">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/29/sEz0vGfZJy1t637711195979452071.jpg" alt="세븐틴 “고깃값만 천만 원 나온 적 있다” (신과 함께2)">        <div class="text-box">            <p class="summary">세븐틴 “고깃값만 천만 원 나온 적 있다” (신과 함께2)</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/29/sEz0vGfZJy1t637711195979452071.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서현 “예전보다 많이 밝아지고, 사람 대하는 게 편해졌다” [화보] (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329334</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329334</guid>
+            <pubDate>Fri, 29 Oct 2021 07:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329334">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/29/NBw76jLeYSDv637711185628494883.jpg" alt="서현 “예전보다 많이 밝아지고, 사람 대하는 게 편해졌다” [화보]">        <div class="text-box">            <p class="summary">서현 “예전보다 많이 밝아지고, 사람 대하는 게 편해졌다” [화보]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/29/NBw76jLeYSDv637711185628494883.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘야생돌’ 노윤호, 팀워크 보컬 미션 1등! 김성규 “완전 나이스” (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329333</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329333</guid>
+            <pubDate>Fri, 29 Oct 2021 07:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329333">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/29/z9cK58rLwUxy637711183460360276.jpg" alt="‘야생돌’ 노윤호, 팀워크 보컬 미션 1등! 김성규 “완전 나이스”">        <div class="text-box">            <p class="summary">‘야생돌’ 노윤호, 팀워크 보컬 미션 1등! 김성규 “완전 나이스”</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/29/z9cK58rLwUxy637711183460360276.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아스트로 MJ, 시선 사로잡는 섹시한 눈빛… 영탁 프로듀싱 ‘계세요’ 콘셉트 기대감 UP (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329332</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329332</guid>
+            <pubDate>Fri, 29 Oct 2021 07:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329332">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/29/zHSmu2SuA0Jg637711181779870379.jpg" alt="아스트로 MJ, 시선 사로잡는 섹시한 눈빛… 영탁 프로듀싱 ‘계세요’ 콘셉트 기대감 UP">        <div class="text-box">            <p class="summary">아스트로 MJ, 시선 사로잡는 섹시한 눈빛… 영탁 프로듀싱 ‘계세요’ 콘셉트 기대감 UP</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/29/zHSmu2SuA0Jg637711181779870379.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AB6IX 이대휘 대학생활 TMI→박우진 ‘헤이마마’ 무대 눈길 (아이돌라디오2) (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329331</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329331</guid>
+            <pubDate>Fri, 29 Oct 2021 07:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329331">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/29/RHe0XwSv3Wcd637711180357663510.jpg" alt="AB6IX 이대휘 대학생활 TMI→박우진 ‘헤이마마’ 무대 눈길 (아이돌라디오2)">        <div class="text-box">            <p class="summary">AB6IX 이대휘 대학생활 TMI→박우진 ‘헤이마마’ 무대 눈길 (아이돌라디오2)</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/29/RHe0XwSv3Wcd637711180357663510.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[전소미 'XOXO', 비워내니 솟아난 자신감의 열매 [종합] (MBC 연예 ─ 아이돌)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/329270</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329270</guid>
@@ -736,44 +776,67 @@
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/29/6AL9WlAb7R4W637710897484984585.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[에스파 카리나, 잠옷 입고 뽐낸 청순 비주얼…오늘도 예쁨 [인스타] (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329232</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329232</guid>
-            <pubDate>Thu, 28 Oct 2021 21:18:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329232">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/29/LsKo7T8v4JcQ637710670545116890.jpg" alt="에스파 카리나, 잠옷 입고 뽐낸 청순 비주얼…오늘도 예쁨 [인스타]">        <div class="text-box">            <p class="summary">에스파 카리나, 잠옷 입고 뽐낸 청순 비주얼…오늘도 예쁨 [인스타]</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/29/LsKo7T8v4JcQ637710670545116890.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[방탄소년단, 日 'MTV VMA' 2관왕..4년 연속 수상 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211029161157871</link>
+            <guid>https://entertain.v.daum.net/v/20211029161157871</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이슬 기자) 그룹 방탄소년단이 'MTV VMAJ'에서 2관왕을 차지했다. 29일 '2021 MTV 비디오 뮤직 어워드 재팬(2021 MTV Video Music Awards Japan, 이하 '2021 MTV VMAJ)'측이 공식 홈페이지를 통해 발표한 바에 따르면, 방탄소년단은 올해 이 시상식에서 'Butter'로 '베스트 그룹 비디오/인]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박지훈, 애교는 잠시 안녕…'핫 앤 콜드'로 꽃 피운 성숙美 [종합] (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329221</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329221</guid>
-            <pubDate>Thu, 28 Oct 2021 10:22:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329221">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/28/4232c065-072a-4ca7-ab39-bea638ec8e28.JPG" alt="박지훈, 애교는 잠시 안녕…'핫 앤 콜드'로 꽃 피운 성숙美 [종합]">        <div class="text-box">            <p class="summary">박지훈, 애교는 잠시 안녕…'핫 앤 콜드'로 꽃 피운 성숙美 [종합]</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/28/4232c065-072a-4ca7-ab39-bea638ec8e28.JPG" length="0" type="image/JPG"/>
+            <title><![CDATA[JYP 소속 NiziU, 일본 MTV VMAJ서 2년 연속 수상..대세 존재감 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211029160312589</link>
+            <guid>https://entertain.v.daum.net/v/20211029160312589</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=선미경 기자] JYP엔터테인먼트(이하 JYP) 소속 가수 NiziU(니쥬)가 일본 MTV VIDEO MUSIC AWARDS JAPAN(이하 MTV VMAJ)에서 2년 연속 수상의 영광을 안았다. 29일 MTV VMAJ 2021은 공식 홈페이지를 통해 "올해 화제를 모은 영상 작품이나 곡을 많이 발표하여 음악 시장의 발전에 공헌한 아티스트에게 수여]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박지훈 "악역 연기 원해, 반전 이미지 보여주고파" (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329220</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329220</guid>
-            <pubDate>Thu, 28 Oct 2021 09:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329220">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/28/550e3a77-7c64-41c2-82c7-997ab7cab255.JPG" alt="박지훈 " 악역="" 연기="" 원해,="" 반전="" 이미지="" 보여주고파""="">        <div class="text-box">            <p class="summary">박지훈 "악역 연기 원해, 반전 이미지 보여주고파"</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/28/550e3a77-7c64-41c2-82c7-997ab7cab255.JPG" length="0" type="image/JPG"/>
+            <title><![CDATA[BTS, 일본 MTV 비디오 뮤직 어워드 2관왕..4년 연속 수상 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211029155047136</link>
+            <guid>https://entertain.v.daum.net/v/20211029155047136</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 김예나 기자 = 그룹 방탄소년단(BTS)이 일본에서 진행된 '2021 MTV 비디오 뮤직 어워드 저팬'(2021 MTV Video Music Awards Japan)에서 2관왕을 차지했다. 29일 행사 홈페이지에 따르면 BTS는 올해 시상식에서 '버터'(Butter)로 '베스트 그룹 비디오/인터내셔널'(Best Group Video/In]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 가을의 고즈넉한 분위기 장착한 케이시 (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329180</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329180</guid>
-            <pubDate>Thu, 28 Oct 2021 06:25:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329180">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/28/L956UNG2WiaS637710295022468785.jpg" alt="[포토] 가을의 고즈넉한 분위기 장착한 케이시">        <div class="text-box">            <p class="summary">[포토] 가을의 고즈넉한 분위기 장착한 케이시</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/28/L956UNG2WiaS637710295022468785.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[전소미, '솔로' 고충 "독고다이 느낌..마음 비우는 연습" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211029155011112</link>
+            <guid>https://entertain.v.daum.net/v/20211029155011112</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이슬 기자) 전소미가 솔로 가수로 살아남는 고충을 털어놨다. 전소미의 첫 정규 앨범 'XOXO' 발매 기념 온라인 미디어 쇼케이스가 29일 오전 진행됐다. 솔로 가수로 2년째 활동하고 있는 전소미는 "마음을 비우기를 연습하고 실천해나가려고 한다"며 "솔로 가수로 살아가는 게 쉽지 않은 것 같다"라고 털어놨다. 이어 "살아남으려면 열심히 일하]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 케이시(Kassy) '방긋' 웃는 음원강자 (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329181</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329181</guid>
-            <pubDate>Thu, 28 Oct 2021 06:25:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329181">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/28/se84Cp3rPBVq637710294646527129.jpg" alt="[포토] 케이시(Kassy) '방긋' 웃는 음원강자">        <div class="text-box">            <p class="summary">[포토] 케이시(Kassy) '방긋' 웃는 음원강자</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/28/se84Cp3rPBVq637710294646527129.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[아이키 "어느덧 우리가 대중들 일상에 파고들어..너무 감사" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211029155003102</link>
+            <guid>https://entertain.v.daum.net/v/20211029155003102</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:03 GMT</pubDate>
+            <content:encoded><![CDATA['스우파'의 아이키가 종영 소감을 전했다. 29일 Mnet 댄스 서바이벌 '스트릿 우먼 파이터'(이하 '스우파')가 종영 기념 기자 간담회를 온라인으로 진행했다. 제작진을 대표해서 권영찬CP와 최정남PD이 참석했으며, 각 크루의 리더인 리정(YGX), 가비(라치카), 효진초이(원트), 노제(웨이비), 리헤이(코카N버터), 모니카(프라우드먼), 허니제이(]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[허니제이 "여성 댄서의 가벼운 이미지, '스우파'로 변했다" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211029154134837</link>
+            <guid>https://entertain.v.daum.net/v/20211029154134837</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[허니제이가 '스우파'에게 고마운 마음을 전했다. 29일 Mnet 댄스 서바이벌 '스트릿 우먼 파이터'(이하 '스우파')가 종영 기념 기자 간담회를 온라인으로 진행했다. 제작진을 대표해서 권영찬CP와 최정남PD이 참석했으며, 각 크루의 리더인 리정(YGX), 가비(라치카), 효진초이(원트), 노제(웨이비), 리헤이(코카N버터), 모니카(프라우드먼), 허]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, '2021 MTV VMAJ' 2관왕 달성 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211029153644692</link>
+            <guid>https://entertain.v.daum.net/v/20211029153644692</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 오윤주 기자] 그룹 방탄소년단이 '2021 MTV 비디오 뮤직 어워드 재팬(2021 MTV Video Music Awards Japan, 이하 '2021 MTV VMAJ)'에서 2관왕을 차지했다. 29일 'MTV VMAJ' 측이 공식 홈페이지를 통해 발표한 바에 따르면, 방탄소년단은 올해 이 시상식에서 '버터(Butter)'로 '베스트]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[가비 "콘서트 1분 만에 매진, 우리가 굉장히 중심에 있구나 느껴" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211029153632686</link>
+            <guid>https://entertain.v.daum.net/v/20211029153632686</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[가비가 '스우파'의 높은 인기에 대한 소감을 전했다. 29일 Mnet 댄스 서바이벌 '스트릿 우먼 파이터'(이하 '스우파')가 종영 기념 기자 간담회를 온라인으로 진행했다. 제작진을 대표해서 권영찬CP와 최정남PD이 참석했으며, 각 크루의 리더인 리정(YGX), 가비(라치카), 효진초이(원트), 노제(웨이비), 리헤이(코카N버터), 모니카(프라우드먼),]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[허니제이 "갈수록 열풍 된 '스우파', 부담감과 책임감 컸다" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211029152934432</link>
+            <guid>https://entertain.v.daum.net/v/20211029152934432</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[허니제이가 '스우파' 종영 소감을 전했다. 29일 Mnet 댄스 서바이벌 '스트릿 우먼 파이터'(이하 '스우파')가 종영 기념 기자 간담회를 온라인으로 진행했다. 제작진을 대표해서 권영찬 CP와 최정남 PD가 참석했으며, 각 크루의 리더인 리정(YGX), 가비(라치카), 효진초이(원트), 노제(웨이비), 리헤이(코카N버터), 모니카(프라우드먼), 허니제]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[NiziU, 日 MTV VMAJ 2년 연속 수상 영광 '대세 존재감 입증' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
@@ -818,172 +881,116 @@
             <content:encoded><![CDATA[[마이데일리 = 오윤주 기자] 트와이스가 신곡 '사이언티스트(SCIENTIST)'로 돌아온다. 트와이스는 29일 공식 SNS 등을 통해 정규 3집 '포뮬러 오브 러브: O+T=&lt;3(Formula of Love: O+T=&lt;3)' 신보 트랙리스트와 타임테이블을 공개했다. 타이틀곡명은 '사이언티스트(SCIENTIST)'로, 트와이스는 사랑 연구를 통해 얻은 결]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[트와이스, 정규 3집 타이틀곡명은 'SCIENTIST'..화려한 작가진 총출동 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211029141342996</link>
-            <guid>https://entertain.v.daum.net/v/20211029141342996</guid>
-            <pubDate>Fri, 29 Oct 2021 05:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 트와이스가 신곡 'SCIENTIST'(사이언티스트)로 돌아온다. 트와이스는 11월 12일 오후 2시 정규 3집 'Formula of Love: O+T=&lt;3'(포뮬러 오브 러브: O+T=&lt;3)를 발매한다. 25일 공식 SNS 채널에 오프닝 트레일러를 게재하고 '사랑 전문가'라는 독특한 콘셉트를 예고했고, 29일 오후 1시에는 신보]]></content:encoded>
+            <title><![CDATA['스우파' 아이키 "'스맨파'도 했으면, 男댄서 매력 펼치길" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211029161935115</link>
+            <guid>https://entertain.v.daum.net/v/20211029161935115</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 황서연 기자] 댄서 아이키가 '스트릿 우먼 파이터'의 다음 시즌, 나아가 남자 댄서들까지 조명 받는 '스맨파'의 등장을 기대했다. 29일 오후 Mnet 예능프로그램 '스트릿 우먼 파이터'(이하 '스우파') 종영 기념 온라인 기자간담회가 열렸다. 이날 기자간담회는 1, 2부로 나눠 진행됐다. 권영찬 CP, 최정남 PD가 참석한 가운데 1부에는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['11월 12일 컴백' 트와이스, 타이틀곡은 '사이언티스트'..화려한 작가진 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211029140912893</link>
-            <guid>https://entertain.v.daum.net/v/20211029140912893</guid>
-            <pubDate>Fri, 29 Oct 2021 05:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이슬 기자) 트와이스가 신곡 'SCIENTIST'(사이언티스트)로 'K팝 대표 걸그룹'의 독보적인 존재감을 발산한다. 트와이스는 11월 12일 오후 2시 정규 3집 'Formula of Love: O+T=&lt;3'(포뮬러 오브 러브: O+T=&lt;3)를 발매한다. 앞서 25일 0시 공식 SNS 채널에 오프닝 트레일러를 게재하고 '사랑 전문가'라는]]></content:encoded>
+            <title><![CDATA[이영애, 4년만에 안방극장 복귀.."'구경이', 독특하다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211029161912106</link>
+            <guid>https://entertain.v.daum.net/v/20211029161912106</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[기사내용 요약 JTBC 새 토일극 '구경이' 제작발표회 경찰 출신 보험조사관…코믹 추적극 김혜준 "통통 튀고 발랄한 캐릭터" 김해숙, 두 얼굴 변신…"완전 달라" [서울=뉴시스] 강진아 기자 = 배우 이영애가 4년 만의 안방극장 복귀작 '구경이'로 독특하면서도 새로운 드라마를 예고했다. 29일 온라인으로 진행된 JTBC 새 토일드라마 '구경이' 제작발표회]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴, 'Attacca' 초동 133만장 돌파..5연속 밀리언셀러 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211029140243656</link>
-            <guid>https://entertain.v.daum.net/v/20211029140243656</guid>
-            <pubDate>Fri, 29 Oct 2021 05:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 공미나 기자] /사진제공=플레디스엔터테인먼트그룹 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)이 미니 9집 초동 133만장을 돌파하며 5연속 밀리언셀러를 달성했다. 지난 22일 발매된 세븐틴의 미니 9집 'Attacca'(아타카)는 국내 최대 음반 판매량 집계 사이트 한터차트 기준 초동]]></content:encoded>
+            <title><![CDATA['스우파' 리헤이 "순두부엔버터 인정..춤 앞에서 진지해져" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211029161810079</link>
+            <guid>https://entertain.v.daum.net/v/20211029161810079</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 김민지 기자 = 코카엔버터 리헤이가 순두부엔버터라는 크루의 별명을 인정했다. 29일 오후 온라인으로 생중계된 엠넷 '스트릿 우먼 파이터' 종영 기념 기자간담회에서 리헤이는 순두부엔버터라는 별명에 대한 질문을 받았다. 리헤이는 "그 별명을 인정한다. 초반엔 세게 나왔지만 아니다"라며 "다만 춤이라는 게 들어가면 어둡고 진지해진다. 하지만]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[임팩트 태호, 신곡 'Tell Me' 오늘 발매 '가을 물들일 감성' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211029135744479</link>
-            <guid>https://entertain.v.daum.net/v/20211029135744479</guid>
-            <pubDate>Fri, 29 Oct 2021 05:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이하나 기자] 그룹 임팩트(IMFACT) 태호(TAE HO)가 신곡 ‘Tell Me’로 대중에게 위로의 메시지를 전한다. 태호는 10월 29일 오후 6시 각종 온라인 음원 사이트를 통해 두 번째 싱글 ‘Tell Me’(텔 미)를 발매한다. 지난 5월 어린 시절 꾸었던 꿈이 현실에 부딪혀 실패해도 끝까지 포기하지 않으면 꼭 이룰 수 있다는 응원]]></content:encoded>
+            <title><![CDATA['스우파' 아이키 "훅 성장드라마 잘 보여졌다..크루원 나보다 멘탈 강해" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211029161622018</link>
+            <guid>https://entertain.v.daum.net/v/20211029161622018</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=심언경 기자] 댄서 아이키가 자신이 이끈 크루 훅의 준우승 비결로 '성장드라마'가 안긴 감동을 꼽았다. 아이키는 29일 오후 엠넷 예능프로그램 '스트릿 우먼 파이터'(이하 '스우파') 온라인 종영간담회에서 이같이 밝혔다. 아이키가 리더인 크루인 훅은 방송 초반 최약체로 꼽혔다. 그러나 갈수록 재기발랄한 무대와 유쾌한 케미스트리로 큰 사]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴, 5연속 밀리언셀러 달성..'Attacca' 초동 133만장 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211029135350337</link>
-            <guid>https://entertain.v.daum.net/v/20211029135350337</guid>
-            <pubDate>Fri, 29 Oct 2021 05:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이슬 기자) 그룹 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)이 미니 9집으로 5연속 밀리언셀러를 달성했다. 지난 22일 발매된 세븐틴의 미니 9집 ‘Attacca’(아타카)는 국내 최대 음반 판매량 집계 사이트 한터차트 기준 초동 판매량 133만 5,862장을 기록하며 다섯 작품]]></content:encoded>
+            <title><![CDATA['스우파' 허니제이 "코카앤버터 잘 컸다..무대 보며 생각 많아져" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211029161615010</link>
+            <guid>https://entertain.v.daum.net/v/20211029161615010</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:07 GMT</pubDate>
+            <content:encoded><![CDATA['스우파'를 통해 재회한 허니제이와 리헤이가 서로에 대한 진솔한 마음을 털어놨다. Mnet 예능프로그램 '스트릿 우먼 파이터'(이하 '스우파') 종영 기념 기자간담회가 29일 오후 온라인으로 생중계됐다. 1부에는 권영찬CP, 최정남PD, 가비(라치카), 리헤이(코카앤버터), 허니제이(홀리뱅), 아이키(훅)가 참석했다. 한 크루였다가 헤어진 후 '스우파']]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[전소미 "YGX 리정과 챌린지 하고파"..자신감 있는 'XOXO' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211029135009208</link>
-            <guid>https://entertain.v.daum.net/v/20211029135009208</guid>
-            <pubDate>Fri, 29 Oct 2021 05:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이슬 기자) 가수 전소미가 자신감 있는 신곡 'XOXO' 댄스 챌린지를 YGX 리정과 하고 싶다고 전했다. 전소미의 첫 정규 앨범 'XOXO' 발매 기념 온라인 미디어 쇼케이스가 29일 오전 진행됐다. 전소미는 데뷔 2년 만에 첫 정규앨범 'XOXO'를 공개한다. 전소미가 생각하는 다양한 사랑의 관점이 담긴 'XOXO'는 동명의 타이틀곡 ']]></content:encoded>
+            <title><![CDATA[허니제이→아이키가 밝힌 #'스우파' 인기비결 #언니들 싸움 #홀리뱅 최종우승 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211029161608006</link>
+            <guid>https://entertain.v.daum.net/v/20211029161608006</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 백지은 기자] Mnet '스트릿 우먼 파이터(이하 스우파)'의 주역들이 프로그램을 마친 소회를 전했다. 29일 오후 3시 '스우파' 종영 기자간담회가 열렸다. 이날 현장에는 권영찬CP와 최정남PD, 라치카 가비, 코카N버터 리헤이, 홀리뱅 허니제이, 훅 아이키가 참여했다. '스우파'는 대중에게 알려지지 않았던 댄서들에게 스포트라]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['데뷔 1주년' 피원하모니, 스포티파이 청취자 30만 돌파..수치로 증명한 성장 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211029134316036</link>
-            <guid>https://entertain.v.daum.net/v/20211029134316036</guid>
-            <pubDate>Fri, 29 Oct 2021 05:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 보이그룹 피원하모니(P1Harmony, 기호 테오 지웅 인탁 소울 종섭)가 약 한 달 간의 미국 프로모션 활동을 마치고 돌아와 글로벌 인기를 입증하며 4세대 대표 K팝 아이돌로 자리매김했다. 탄탄한 실력을 바탕으로 글로벌한 성장을 거듭하고 있는 피원하모니의 최근 인기는 다양한 플랫폼의 통계 수치로 뚜렷하게 두드러진다. 지난해 1]]></content:encoded>
+            <title><![CDATA["시즌10까지 가자!" 허니제이→아이키, '스우파' 신드롬에 답하다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211029161024830</link>
+            <guid>https://entertain.v.daum.net/v/20211029161024830</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 허니제이, 아이키, 가비, 리헤이가 '스우파' 출연 소회를 밝혔다. 케이블채널 엠넷 '스트릿 우먼 파이터'(이하 '스우파') 측은 29일 오후, 온라인 생중계로 종영 간담회 자리를 마련했다. 여덟 댄스 크루의 리더가 모두 참석한 가운데 간담회는 두 그룹으로 나뉘어 진행, 가비(라치카)·리헤이(코카N버터)·허니제이(홀리뱅)·아]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴, 미니 9집 'Attacca' 초동 133만장..5연속 밀리언셀러 달성 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211029133734896</link>
-            <guid>https://entertain.v.daum.net/v/20211029133734896</guid>
-            <pubDate>Fri, 29 Oct 2021 05:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 그룹 세븐틴이 미니 9집으로 5연속 밀리언셀러를 달성했다. 10월 22일 발매된 세븐틴의 미니 9집 ‘Attacca’(아타카)는 국내 최대 음반 판매량 집계 사이트 한터차트 기준 초동 판매량 133만 5,862장을 기록, 다섯 작품 연속 단일 앨범으로 밀리언셀러에 등극했다. 특히 세븐틴은 올해 2연속 초동 밀리언셀러를 달성한 유일]]></content:encoded>
+            <title><![CDATA[허니제이 "리헤이 코카N버터 무대, '잘 컸다' 싶었다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211029160909785</link>
+            <guid>https://entertain.v.daum.net/v/20211029160909785</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] 허니제이 “리헤이 코카N버터 무대, ‘잘 컸다’ 싶었다” (스우파) 댄서 허니제이가 리헤이와 코카N버터 무대에 벅찬 마음을 드러냈다. 허니제이는 29일 오후 3시 온라인으로 진행된 Mnet ‘스트릿 우먼 파이터’ 종영간담회에서 “코카N버터의 무대를 보면서 ‘많이 컸다’ ‘잘 컸다’ 싶었다. 나랑 계속 했다면 나도 사람들도 이 무대를 못 봤을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[자신감 더해 컴백한 전소미 "정규 앨범, 모든 걸 쏟은 '완전체'" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211029133233782</link>
-            <guid>https://entertain.v.daum.net/v/20211029133233782</guid>
-            <pubDate>Fri, 29 Oct 2021 05:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 김예나 기자 = 솔로곡 '덤덤'(DUMB DUMB)으로 매력을 뽐냈던 전소미가 이번에는 귀여운 악동으로 변신한다. 전소미는 29일 온라인으로 열린 정규 앨범 '엑스오엑스오'(XOXO) 발매 미디어 쇼케이스에서 "나 혼자만 들어온 음악이 세상에 나온 만큼 설렌다. 팬들에게 빨리 들려드리고 싶다"고 소감을 전했다. 이번 앨범은 전소미가 솔]]></content:encoded>
+            <title><![CDATA[MC몽 리메이크 앨범 및 연말 콘서트 준비 중 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211029160900775</link>
+            <guid>https://entertain.v.daum.net/v/20211029160900775</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[MC 몽이 현재 리메이크 앨범을 준비 중이다. MC몽은 최근 인스타그램과 라이브 방송을 통해 본인의 히트곡 중 18곡을 모아 리메이크 앨범을 준비 중임을 밝힌 바 있다. 또한 가요 관계자에 따르면 MC몽은 연말 콘서트도 함께 준비 중이다. 이에 대해 MC몽 측 관계자는 YTN star에 리메이크 앨범 준비와 콘서트 준비에 대해 "아직 정확한 시점이 잡히]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['스우파' 허니제이 "반신반의하며 시작했지만 갈수록 책임감 생겼다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211029152453302</link>
-            <guid>https://entertain.v.daum.net/v/20211029152453302</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=심언경 기자] 댄서 허니제이가 '스트릿 우먼 파이터'에 임했던 각오를 전했다. 허니제이는 29일 오후 Mnet 예능프로그램 '스트릿 우먼 파이터'(이하 '스우파') 온라인 종영간담회에서 "처음 PD님과 미팅 했을 때 팬덤 얘기를 하시더라. 근데 과연 그게 가능할까 했다. 아이돌도 아니고 댄서들한테 팬덤이 생기는 게 이뤄질 수 있을까 싶어]]></content:encoded>
+            <title><![CDATA["흔한 밥신 분위기" '갯차' 촬영감독, 김선호 '밥먹다 정색' 태도논란 반박? (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211029160728739</link>
+            <guid>https://entertain.v.daum.net/v/20211029160728739</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박은해 기자] tvN '갯마을 차차차' 촬영 감독이 김선호의 촬영장 태도 논란을 반박하는 듯한 영상을 공개했다. 10월 29일 '갯마을 차차차' 촬영 감독은 자신의 인스타그램에 "어느 흔한 현장 밥씬 분위기.. '갯마을 차차차'"라는 글과 함께 김선호 영상을 게재했다. 드라마 속 밥 먹는 장면을 촬영 중인 영상에서 김선호를 포함한 배우들은 웃음이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[가비·리헤이 "'스우파' 이렇게 잘 될 줄 몰라..함께해 영광" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211029152258245</link>
-            <guid>https://entertain.v.daum.net/v/20211029152258245</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 김민지 기자 = 가비와 리헤이가 '스우파'로 많은 주목을 받는 것에 대해 감사함을 표현했다. 29일 오후 온라인으로 생중계된 엠넷 '스트릿 우먼 파이터' 종영 기념 기자간담회에서 가비와 리헤이가 프로그램을 통해 많은 사랑을 얻은 소감을 전했다. 가비는 "처음엔 이렇게까지 잘 될 줄 몰랐다. 그런데 하다보니 많이 좋아해주시고 관심 한가운데]]></content:encoded>
+            <title><![CDATA['스우파' 허니제이 "새 시즌 노리는 댄서들 많아..댄스신 업됐다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211029160510642</link>
+            <guid>https://entertain.v.daum.net/v/20211029160510642</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 김민지 기자 = 허니제이가 댄스신에서도 '스우파'에 대한 관심이 높다고 했다. 29일 오후 온라인으로 생중계된 엠넷 '스트릿 우먼 파이터' 종영 기념 기자간담회에서 리더들은 댄서들이 프로그램의 다음 시즌을 노리고 있다고 입을 모았다. 가비는 "'스우파'를 통해 댄서들이 주목 받았다 보니 다른 댄서들도 노리고 있다"라고 말했다. 이어 허]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[임영웅, KBS서 단독 공연 개최.."특별한 공연 선물하고파" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211029152235230</link>
-            <guid>https://entertain.v.daum.net/v/20211029152235230</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 정지현 기자] 가수 임영웅이 KBS로 돌아와 안방 시청자들을 만난다. '힘든 시기 평범한 일상을 살아가는 우리 모두가 영웅이다'라는 취지로 만들어진 'We're HERO, 임영웅'은 올해 2021년 12월 말, 송년특집으로 방송될 예정이다. 임영웅은 "무엇보다 KBS는 전국 어디서나 남녀노소 쉽게 접할 수 있는 친숙한 방송사이고, 또한 가]]></content:encoded>
+            <title><![CDATA['스우파' 리더들이 꼽은 최고 유행어? "노제의 '괜찮아요' 많이 따라해" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211029160405607</link>
+            <guid>https://entertain.v.daum.net/v/20211029160405607</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:07 GMT</pubDate>
+            <content:encoded><![CDATA['스우파' 크루의 리더들이 프로그램의 유행어를 직접 언급했다. Mnet 예능프로그램 '스트릿 우먼 파이터'(이하 '스우파') 종영 기념 기자간담회가 29일 오후 온라인으로 생중계됐다. 1부에는 권영찬CP, 최정남PD, 가비(라치카), 리헤이(코카앤버터), 허니제이(홀리뱅), 아이키(훅)가 참석했다. 최근 '스우파'가 인기가 많았던 만큼, 댄서들의 발언이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['구경이' 이영애 "김혜준, 우리집 찾아와 밥 먹으며 캐릭터 연구..많이 배웠다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211029150904819</link>
-            <guid>https://entertain.v.daum.net/v/20211029150904819</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=강효진 기자] 배우 이영애가 후배 김혜준과 함께 호흡을 맞춘 과정에 대해 밝혔다. 이영애는 29일 오후 2시 온라인으로 진행된 JTBC 새 토일드라마 '구경이' 제작발표회에서 김혜준과의 호흡에 대해 "드라마는 제목이 '구경이'지만 구경이 혼자서 할 수 있는 게 아니다. 함께 어우러지는 호흡이 독특하고 이상한 드라마를 더 매력있게 만들 수]]></content:encoded>
+            <title><![CDATA['더 하더 데이 폴'→'핵소 고지', 이번주 넷플릭스 신작 공개 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211029160215547</link>
+            <guid>https://entertain.v.daum.net/v/20211029160215547</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] '더 하더 데이 폴'부터 '핵소 고지'까지 넷플릭스 신작 리스트가 공개됐다. 29일 OTT 플랫폼 넷플릭스는 신작 리스트를 공개했다. 넷플릭스 영화 '더 하더 데이 폴'은 숙적 루푸스 벅이 출소한 사실을 알게 된 서부의 무법자 냇 러브가 미뤄뒀던 복수를 마무리하기 위해 흩어졌던 팀을 모아 그의 뒤를 추격하며 벌어지는 활극을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['구경이'  이영애→김혜준 ·조현철 "'이상한 드라마', 예측 불가능 한 재미될 것" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211029150904822</link>
-            <guid>https://entertain.v.daum.net/v/20211029150904822</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 백지연 기자] '구경이' 배우 이영애, 김혜준, 김해숙, 곽선영, 조현철 등 대세 배우들이 한 대모였다. 다양한 장르가 복합적으로 섞이고 배우들 역시 반전 매력으로 시청자들을 찾아간다고 알려 기대를 모았다. 29일 오후 JTBC 새주말드라마 '구경이'(극본 성초이·연출 이정흠) 온라인 제작발표회가 진행돼 이정흠 감독을 비롯해 이영애, 김혜준]]></content:encoded>
+            <title><![CDATA[크레용팝 초아, 6살 연상 사업가와 12월 25일 결혼.."내 이상형" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211029160001449</link>
+            <guid>https://entertain.v.daum.net/v/20211029160001449</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=정유진 기자] 크레용팝 초아가 12월의 신부가 된다. 초아는 오는 12월 25일 서울 모처에서 결혼식을 올린다. 예비 신랑은 6살 연상의 사업가로, 초아와 3년 전 지인 소개로 처음 만났다. 예비 신랑의 은사가 결혼식 주례를 맡았고, 초아와 유튜브 채널 '급식걸즈'로 인연을 맺은 코미디언 이세영이 사회를 맡는다. 축가는 미정이다. 초]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["새롭고, 재밌고, 어마어마해"..'구경이' 얼마나 이상한 드라마길래, 이영애도 반했다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211029150828797</link>
-            <guid>https://entertain.v.daum.net/v/20211029150828797</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=강효진 기자] JTBC 새 드라마 '구경이'가 새롭고 매력적인 드라마의 탄생을 예고했다. JTBC 새 토일드라마 '구경이' 제작발표회가 29일 오후 2시 온라인으로 진행됐다. 이날 현장에는 연출을 맡은 이정흠PD와 배우 이영애, 김혜준, 김해숙, 곽선영, 조현철이 참석했다. '구경이'는 게임도 수사도 렉 걸리면 못 참는 방구석 의심러]]></content:encoded>
+            <title><![CDATA['스우파' CP "댄서들 밤샘 노력..덕분에 K댄스 사랑 받는다고 느껴" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211029155728376</link>
+            <guid>https://entertain.v.daum.net/v/20211029155728376</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 김민지 기자 = 권영찬 CP가 댄서들의 노력에 고마워했다. 29일 오후 온라인으로 생중계된 엠넷 '스트릿 우먼 파이터' 종영 기념 기자간담회에서 제작진이 프로그램이 사랑받는 이유에 대해 추측했다. 권 CP는 "대한민국 최고 댄서들이 출연을 해주셨다. 제작진이 만든 포맷이 쉽지 않았을텐데 빡빡한 일정 속에서도 멋진 그림을 만들기 위해 밤]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['구경이' 이영애 "이상한 드라마였다..내가 보고 싶어 선택한 작품" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211029150825792</link>
-            <guid>https://entertain.v.daum.net/v/20211029150825792</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=강효진 기자] 배우 이영애가 4년 만에 컴백작으로 '구경이'를 선택한 이유를 밝혔다. 이영애는 29일 오후 2시 온라인으로 진행된 JTBC 새 토일드라마 '구경이' 제작발표회에서 이번 작품을 선택한 이유에 대해 "이상한 드라마여서 했다. 진심이다. 이상할 뿐더러 독특하고 재미있었다. 그게 가장 큰 이유였다"고 밝혔다. 이어 "제가 이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이영애 "'구경이', 이상한 드라마라 선택했다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211029150817787</link>
-            <guid>https://entertain.v.daum.net/v/20211029150817787</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[기사내용 요약 JTBC 토일극 '구경이' 제작발표회 4년만 안방극장 복귀…"재밌을 것" [서울=뉴시스] 강진아 기자 = 배우 이영애가 JTBC 새 토일드라마 '구경이'에 출연한 이유로 "이상한 드라마라서 했다. 독특하고 재미있었다"고 밝혔다. 이영애는 29일 온라인으로 진행된 '구경이' 제작발표회에서 "드라마 대본을 받고 읽었는데 자꾸 보게 됐다. 제가]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["이상한 드라마" 이영애, 파격 변신 복귀작 '구경이'..JTBC 살릴까 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211029150710739</link>
-            <guid>https://entertain.v.daum.net/v/20211029150710739</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 배우 이영애가 '구경이'로 오랜만에 안방극장에 복귀한다. 배우들과 감독 모두 "이상한 드라마"라고 입을 모아 소개했던 만큼, 이영애가 극 중에서 어떤 색다른 변신을 시도해 시청자들을 사로잡을지 벌써부터 기대가 높아지고 있다. 무엇보다 이영애가 파격적인 변신에 나선 '구경이'로 시청률 침체를 이어가고 있는 JTBC 드라마도]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이상하고 독특한데 재밌는, 이영애 표 '구경이' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211029150604699</link>
-            <guid>https://entertain.v.daum.net/v/20211029150604699</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이영애가 코믹이란 옷을 입고 거침없이 망가진다. 4년 만에 안방극장에 돌아온 그는 "이상하고 독특한데 재밌다"라고 소감을 밝히며 새로운 도전에 대한 설렘을 드러냈다. 가볍게 볼 수 있는 작품들이 시청자들의 지지를 얻고 있는 가운데, '구경이'는 흥행에 성공할 수 있을까. 그 행보에 관심이 쏠린다. 29일 오후 JTBC 새 주말극 '구경이' 온라]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["한마디로 이상한 드라마"..이영애, '구경이'로 돌아왔다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211029150509662</link>
-            <guid>https://entertain.v.daum.net/v/20211029150509662</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 정지현 기자] 배우 이영애가 종합편성채널 JTBC 새 토일드라마 '구경이'(극본 성초이 연출 이정흠)로 돌아왔다. 29일 오후 '구경이' 제작발표회가 온라인으로 진행돼 이정흠 감독, 배우 이영애, 김혜준, 김해숙, 곽선영, 조현철이 참석했다. '구경이'는 게임도 수사도 렉 걸리면 못 참는 방구석 의심러 구경이(이영애)의 하드보일드 코믹 추]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['2021 월드 케이팝 콘서트' 김형석 총감독, "팬들과 아티스트들이 공존하는 문화 만드는데 노력하겠다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211029150505659</link>
-            <guid>https://entertain.v.daum.net/v/20211029150505659</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드경제 = 서병기 선임기자]코로나19로 지친 전세계 한류 팬들에게 희망의 메시시지를 전달하는 문화 이벤트가 마련된다. 오는 11월 13일(토)과 14일(일) 경기도 일산 킨텍스에서 열리는 ‘2021 월드 케이팝 콘서트(한국문화축제)’다. 문화체육관광부(장관 황희)와 한국국제문화교류진흥원(원장 정길화)이 함께 개최하는 이 행사는 다양한 한국문화를 소개하]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['크라임 퍼즐' 윤계상 "삭발, 고민 끝에 한 결정" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211029150407635</link>
-            <guid>https://entertain.v.daum.net/v/20211029150407635</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 김종은 기자] '크라임 퍼즐' 윤계상이 삭발에 도전한 이유를 밝혔다. 올레tv·시즌(seezn) 새 오리지널 드라마 '크라임 퍼즐'(극본 최종길·연출 김상훈)의 제작발표회가 29일 오전 온라인 생중계로 진행됐다. 현장에는 김상훈 감독을 비롯해 윤계상, 고아성, 윤경호가 참석해 작품에 대해 이야기를 나눴다. '크라임 퍼즐'은 살인을 자백한 범]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이태곤‧성훈,'결사곡3' 출연 안하나..TV조선 "확정 NO, 논의 중" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211029150356626</link>
-            <guid>https://entertain.v.daum.net/v/20211029150356626</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=정유진 기자] 배우 이태곤과 성훈의 TV조선 드라마 '결혼작사 이혼작곡' 시즌3 출연 여부가 주목받고 있다. 이태곤 소속사 라마엔터테인먼트와 성훈 소속사 스탤리온엔터테인먼트는 29일 스포티비뉴스에 "TV조선 드라마 '결혼작사 이혼작곡' 시즌3에 출연하지 않는다"고 밝혔다. 반면, TV조선은 이날 스포티비뉴스에 "두 배우의 하차가 확정난]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이영애 코믹 열연+비주얼 변신..'구경이', JTBC 드라마 부진 끝낼까 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211029150303609</link>
-            <guid>https://entertain.v.daum.net/v/20211029150303609</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이영애의 파격 연기 변신으로 기대를 모으는 새 드라마 '구경이'가 올 한해 부진의 늪에서 허덕이고 있는 JTBC 드라마를 구할 수 있을지 주목된다. JTBC 새 토일드라마 '구경이' 온라인 제작발표회가 오늘(29일) JTBC 드라마 유튜브 채널을 통해 생중계 됐다. 연출을 맡은 이정흠 감독과 배우 이영애, 김혜준, 김해숙, 곽선영, 조현철이 참석해]]></content:encoded>
+            <title><![CDATA[56살 브룩 쉴즈 "'나와 캘빈클라인 사이에는 아무 것도 없어요', 성적인 의미 생각못해" (다음 연예 ─ 뉴스 ─ 해외)]]></title>
+            <link>https://entertain.v.daum.net/v/20211029160026482</link>
+            <guid>https://entertain.v.daum.net/v/20211029160026482</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]80년대 최고 스타였던 브룩 쉴즈(56)가 자신이 15살 때 촬영한 캘빈클라인 광고 논란에 대한 입장을 밝혔다. 브룩 쉴즈는 15살 나이에 해당 브랜드 모델로 활약하며 전세게 ‘캘빈클라인’ 열풍을 불어일으켰다. 당시 그가 출연한 광고 문구는 ‘나와 캘빈클라인 사이에는 아무것도 없어요’였다. 브룩 쉴즈의 1980년대 캘빈클라인]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[제이슨 모모아, '아쿠아맨2' 촬영 중 코로나19 확진 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
@@ -1014,361 +1021,501 @@
             <content:encoded><![CDATA[[OSEN=선미경 기자] 일본의 일본의 톱스타 야마시타 토모히사가 쟈니스 퇴소 후 1년 만에 드라마 주연으로 복귀한다. 일본 매체 주간문춘은 지난 27일 야마시타 토모히사가 쟈니스 소속사에서 독립한 후 처음으로 지상파 드라마 주연이 결정됐다라고 보도했다. 보도에 따르면 야마시타 토모히사는 내년 4월 방송 예정인 NHK드라마를 통해 복귀한다. 인기 만화를 원]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[크리스틴 스튜어트, 파격 브라탑 드레스에 복근→팔 타투 '新공주님' (다음 연예 ─ 뉴스 ─ 해외)]]></title>
-            <link>https://entertain.v.daum.net/v/20211028161323309</link>
-            <guid>https://entertain.v.daum.net/v/20211028161323309</guid>
-            <pubDate>Thu, 28 Oct 2021 07:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최나영 기자] '새로운 공주님의 룩'. 할리우드 배우 크리스틴 스튜어트(Kristen Stewart, 31)가 27일(현지시간) 미국 LA에서 열린 영화 '스펜서(Spenzer)' 행사에서 파격 브라탑에 레이스로 장식된 얇은 털 치마를 입고 공식석상에 섰다.&nbsp;샤넬 오트 쿠튀르의&nbsp;패션. 팔의 개성있는 타투도 돋보인다. 영국 왕세자비인 故다이애나 스]]></content:encoded>
+            <title><![CDATA[KBS, 12월 임영웅 콘서트 특집방송…"우리 모두가 영웅" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0012756787</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0012756787</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 강애란 기자 = KBS가 송년 특집으로 가수 임영웅의 콘서트를 준비했다. KBS는 지난해 연말 나훈아, 올해 추석 심수봉 쇼에 이어 12월에 임영웅의 단독 콘서트 'We're HERO, 임영웅'을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[록밴드 메스그램, 새 미니음반 '파트 오브 유' 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0012756563</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0012756563</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:35 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 이태수 기자 = 혼성 5인조 록밴드 메스그램이 새 미니음반 '파트 오브 유'(Part Of You)를 발매했다고 소속사 아이원이엔티가 29일 밝혔다. 타이틀곡 '트와일라잇'(Twilight)은 누구]]></content:encoded>
+            <title><![CDATA[방탄소년단, 日 'MTV VMA' 2관왕…4년 연속 수상 [공식입장] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001366024</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001366024</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이슬 기자) 그룹 방탄소년단이 'MTV VMAJ'에서 2관왕을 차지했다. 29일 '2021 MTV 비디오 뮤직 어워드 재팬(2021 MTV Video Music Awards Japan, 이하 '2021]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[임영웅, KBS와 손잡았다...12월말 첫 단독 공연 선보인다 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001658700</link>
-            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001658700</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:35 GMT</pubDate>
-            <content:encoded><![CDATA[가수 임영웅이 KBS로 돌아와 안방 시청자들을 만난다. '힘든 시기 평범한 일상을 살아가는 우리 모두가 영웅이다'라는 취지로 만들어진 'We're HERO, 임영웅'은 올해 2021년 12월 말, 송년특집으로 방송될]]></content:encoded>
+            <title><![CDATA[BTS, 일본 MTV 비디오 뮤직 어워드 2관왕 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0012756770</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0012756770</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 그룹 방탄소년단(BTS)이 일본에서 진행된 '2021 MTV Video Music Awards Japan'에서 2관왕을 차지했다. 29일 행사 홈페이지에 따르면 BTS는 올해 시상식에서 '버터'(B]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[NiziU, 日 MTV VMAJ 2년 연속 수상 영광 '대세 존재감 입증' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000505369</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000505369</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:35 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이민지 기자] JYP엔터테인먼트(이하 JYP) 소속 가수 NiziU(니쥬)가 일본 MTV VIDEO MUSIC AWARDS JAPAN(이하 MTV VMAJ)에서 2년 연속 수상한다. 10월 29일 MTV V]]></content:encoded>
+            <title><![CDATA[홀리뱅 허니제이 "'스우파', '섹시'가 아닌 '멋있는' 여성 댄서 보여줬죠" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010800919</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010800919</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[기사내용 요약 종영 기념 온라인 간담회 [서울=뉴시스]이재훈 기자 = "일반적으로 과거엔 '여성 댄서'라고 하면 쇼적인 부분이나 볼거리, 가벼운 느낌의 뉘앙스가 있었던 거 같아요. 그런데 '스우파'를 통해 리더십·열]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴, 미니 9집으로 '5연속 밀리언셀러' 달성 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=629&amp;aid=0000113421</link>
-            <guid>https://entertain.naver.com/now/read?oid=629&amp;aid=0000113421</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:35 GMT</pubDate>
-            <content:encoded><![CDATA[22일 발매 미니 9집 'Attacca', 음원→음반 1위 행진 그룹 세븐틴이 5연속 밀리언셀러를 달성했다. 국내 최대 음반 판매량 집계 사이트 한터차트에 따르면 지난 22일 발매된 그룹 세븐틴의 미니 9집 'Att]]></content:encoded>
+            <title><![CDATA[TS엔터, 슬리피 상대 2억원대 손해배상소송서 패소 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000797564</link>
+            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000797564</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 조현정기자] 래퍼 슬리피의 전 소속사가 전속계약을 위반했다고 슬리피를 상대로 낸 손해배상 청구 소송에서 패소했다. 서울중앙지법 민사합의34부(김양호 부장판사)는 29일 TS엔터테인먼트가 슬리피를 상대]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방탄소년단, ‘Butter’ ‘My Universe’로 日 ‘MTV VMA’ 2관왕 영예 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826926</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826926</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:35 GMT</pubDate>
+            <title><![CDATA[원어스, 신보 티저 이미지 공개 '블러드 문' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=438&amp;aid=0000040114</link>
+            <guid>https://entertain.naver.com/now/read?oid=438&amp;aid=0000040114</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[원어스(ONEUS)가 신보 티저 이미지를 추가 공개하며 컴백 기대감을 고조시켰다. 원어스는 오늘(29일) 0시, 공식 SNS를 통해 여섯 번째 미니앨범 'BLOOD MOON'(블러드 문)의 콘셉트가 담긴 티저 이미지]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독] MC몽 리메이크 앨범 및 연말 콘서트 준비 중 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001658734</link>
+            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001658734</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[MC 몽이 현재 리메이크 앨범을 준비 중이다. MC몽은 최근 인스타그램과 라이브 방송을 통해 본인의 히트곡 중 18곡을 모아 리메이크 앨범을 준비 중임을 밝힌 바 있다. 또한 가요 관계자에 따르면 MC몽은 연말 콘서]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뉴이스트→엔하이픈 등 '2021 AAA' 출연 확정 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001658733</link>
+            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001658733</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[뉴이스트, 아스트로, 펜타곤, 골든차일드, 엔하이픈이 '2021 Asia Artist Awards'에 출연한다. 뉴이스트, 아스트로, 펜타곤, 골든차일드, 엔하이픈은 오는 12월 2일에 열리는 '2021 Asia A]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘유스케’ 음악감독 강승원, 29일 신곡 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000770603</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000770603</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 음악 감독 겸 뮤지션 강승원이 신곡 ‘숨바꼭질’을 발매한다. 강승원의 신곡은 어릴 적 숨바꼭질하며 처음 느낀 외로움과 다르지 않은 지금의 외로움, 그리고 ‘너’를 찾는 간절함을 담은 노래로 강승원 특유]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[임영웅, ‘2021 올해의 브랜드 대상’ 트로피 인증샷 속 빛나는 미모 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001366019</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001366019</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이정범 기자) 임영웅의 비주얼이 눈길을 끈다. 29일 임영웅 오피셜 인스타그램에는 “[2021 올해의 브랜드 대상] 아티스트 임영웅 2021 올해의 브랜드 대상 올해의 트로트가수(남)와 올해의 광고모델]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[에버모어엔터, 보이밴드 오디션 개최→베이스‧드럼‧기타 연주 영상 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000326086</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000326086</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=정유진 기자] 가요 기획사 에버모어엔터테인먼트가 밴드 오디션 개최를 맞아 홍보 영상을 공개했다. 에버모어엔터테인먼트는 지난 25일과 27일 공식 유튜브 계정을 통해 오디션 개최 홍보를 위한 연주 영상을]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[전소미, '솔로' 고충 "독고다이 느낌…마음 비우는 연습" [종합] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001366015</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001366015</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이슬 기자) 전소미가 솔로 가수로 살아남는 고충을 털어놨다. 전소미의 첫 정규 앨범 'XOXO' 발매 기념 온라인 미디어 쇼케이스가 29일 오전 진행됐다. 솔로 가수로 2년째 활동하고 있는 전소미는 "]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[BTS, 일본 MTV 비디오 뮤직 어워드 2관왕…4년 연속 수상 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0012756658</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0012756658</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA['버터'·'마이 유니버스'로 수상…걸그룹 니쥬 '베스트 버즈 어워드' (서울=연합뉴스) 김예나 기자 = 그룹 방탄소년단(BTS)이 일본에서 진행된 '2021 MTV 비디오 뮤직 어워드 저팬'(2021 MTV Vide]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[세븐틴, 미니 9집 '아타카' 초동 133만장…단일앨범 5연속 밀리언셀러 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000326085</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000326085</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=정유진 기자] 그룹 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)이 미니 9집으로 5연속 밀리언셀러를 달성했다. 지난 22일 발매된 세븐틴의]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이승윤, 신곡 무대 최초 공개… ‘싱어게인’ TOP3 콘서트 11월 12일 개막 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=408&amp;aid=0000137348</link>
+            <guid>https://entertain.naver.com/now/read?oid=408&amp;aid=0000137348</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[‘싱어게인’ TOP3 전국투어 콘서트가 내달 12일 서울을 시작으로 대단원의 포문을 연다. 이승윤 정홍일 이무진 ‘싱어게인’ TOP3 전국투어 서울 콘서트가 오는 11월 12일부터 14일까지 올림픽공원 올림픽홀에서]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[강승원, 장필순과 콜라보…29일 신곡 ‘숨바꼭질’ 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826937</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826937</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[국내 유명 음악감독이자 뮤지션 강승원이 신곡 ‘숨바꼭질’을 발매한다. 29일 오후 6시 각종 음원사이트를 통해 발매되는 강승원의 신곡 ‘숨바꼭질’은 어릴 적 숨바꼭질 하면서 처음 느껴본 외로움과 다르지 않은 지금의]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[밴드 소란, 10월 31일 새 싱글 '셔터' 발매…세련된 소란표 팝 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000326079</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000326079</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=정유진 기자] 밴드 소란의 새 싱글 '셔터'가 발매된다. 소란은 오는 31일 새 싱글 '셔터'를 발매한다. 지난 4월 발표한 미니앨범 '비러브드' 이후 약 6개월 만에 선보이는 신보다. '셔터'는 오래]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[세븐틴 미니 9집 'Attacca' 초동 133만장, 5연속 밀리언셀러 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000797545</link>
+            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000797545</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 이웅희기자] 그룹 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)이 미니 9집으로 5연속 밀리언셀러를 달성했다. 초동 133만장으로 흥행 질주]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, '2021 MTV VMAJ' 2관왕 달성 [공식] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003550164</link>
+            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003550164</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 오윤주 기자] 그룹 방탄소년단이 '2021 MTV 비디오 뮤직 어워드 재팬(2021 MTV Video Music Awards Japan, 이하 '2021 MTV VMAJ)'에서 2관왕을 차지했다. 2]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[엔하이픈, 네이버 NOW. 스페셜 쇼 'ENHYPEN NOW: Dreamin'' 티저 오픈 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001366007</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001366007</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이정범 기자) ENHYPEN(엔하이픈)이 출연하는 네이버 NOW. 'ENHYPEN NOW: Dreamin'' 티저 영상이 공개됐다. 오는 30일(토) 오후 7시 온에어 되는 'ENHYPEN NOW: D]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아스트로 MJ, 시선 사로잡는 섹시한 눈빛… 영탁 프로듀싱 ‘계세요’ 콘셉트 기대감 UP (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=408&amp;aid=0000137343</link>
+            <guid>https://entertain.naver.com/now/read?oid=408&amp;aid=0000137343</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 아스트로 멤버 MJ가 슈트 착장으로 반전 매력을 발산했다. 아스트로 MJ는 지난 28일 오후 공식 SNS를 통해 오는 11월 3일 발매하는 첫 번째 솔로 디지털 싱글 'Happy Virus (해피 바이러스)'와]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 日 'MTV VMA'서 2관왕 영예 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010800797</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010800797</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]조민정 인턴 기자 = 그룹 방탄소년단이 '2021 MTV 비디오 뮤직 어워드 재팬(2021 MTV Video Music Awards Japan)'(이하 '2021 MTV VMAJ')에서 2관왕을 차지했]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[JYP 니쥬, 日 MTV VMAJ 2년 연속 수상 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010800796</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010800796</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]조민정 인턴 기자 = JYP엔터테인먼트 소속 가수 니쥬(NiziU)가 일본 MTV VIDEO MUSIC AWARDS JAPAN(이하 MTV VMAJ)에서 2년 연속 수상했다.다. 29일 MTV VMAJ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[HK직캠｜저스트비 임지민, 파워 넘치는 멋진 안무…수록곡 'Try' 무대 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004622368</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004622368</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 저스트비 임지민이 27일 오후 서울 광장동 예스24 라이브홀에서 열린 첫 번째 싱글 앨범 'JUST BEAT(저스트 비트)' 발매 기념 쇼케이스에 참석해 공연을 펼치고 있다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[HK직캠｜저스트비 전도염, 부드러움 속 감춰진 강렬한 카리스마…타이틀곡 'TICK TOCK' 무대 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004622366</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004622366</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 저스트비 전도염이 27일 오후 서울 광장동 예스24 라이브홀에서 열린 첫 번째 싱글 앨범 'JUST BEAT(저스트 비트)' 발매 기념 쇼케이스에 참석해 공연을 펼치고 있다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[에드 시런, 정규 4집 발표…다양한 인생 경험 녹여내 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0012756810</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0012756810</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[히트곡 '배드 해비츠' 등 수록…새 싱글 MV 오늘 밤 공개 (서울=연합뉴스) 이태수 기자 = 팝스타 에드 시런이 29일 정규 4집 '='를 발표했다고 워너뮤직이 밝혔다. 이 음반은 '+', 'x', '÷' 등 그의]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['은밀한 뉴스룸' 변호사가 본 김선호 사생활 논란, "형사상 문제 안된다" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000797565</link>
+            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000797565</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[채널 iHQ ‘은밀한 뉴스룸’. 사진| iHQ [스포츠서울 | 조현정기자] “배우 김선호의 사생활 논란, 형사상 문제 안된다?” ‘은밀한 뉴스룸’이 세간을 뜨겁게 달군 김선호의 사생활 논란을 법률적인 측면에서 짚어봐]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] '스우파' 허니제이→아이키가 밝힌 #인기비결 #시즌제 #홀리뱅 최종우승 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003795140</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003795140</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 백지은 기자] Mnet '스트릿 우먼 파이터(이하 스우파)'의 주역들이 프로그램을 마친 소회를 전했다. 29일 오후 3시 '스우파' 종영 기자간담회가 열렸다. 이날 현장에는 권영찬CP와 최정남PD, 라치]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뉴이스트-아스트로-펜타곤-골든차일드-엔하이픈, '2021 Asia Artist Awards ' 출격! 하반기 화려한 행보에 정점 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=014&amp;aid=0004731244</link>
+            <guid>https://entertain.naver.com/now/read?oid=014&amp;aid=0004731244</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 뉴이스트, 아스트로, 펜타곤, 골든차일드, 엔하이픈이 ‘2021 Asia Artist Awards‘에 출격한다. 뉴이스트, 아스트로, 펜타곤, 골든차일드, 엔하이픈은 오는 12월 2일(목)에 열리는 ‘2021]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['아는 형님' 김용명X김두영X박영진 "이진호는 내 은인" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000279580</link>
+            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000279580</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[개그맨 김용명, 김두영, 박영진이 절친 이진호의 미담을 공개했다. 30일(토) 저녁 7시 40분 방송되는 JTBC '아는 형님'에 핵폭탄급 웃음사냥꾼 개그맨 김용명, 김두영, 이은형, 허경환, 박영진, 강재준이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘농사에 진심♥’ 한태웅, 삼대의 태웅이네 김치+라면 먹방 공개 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826951</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826951</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[농사에 진심인 소년농부 한태웅이 라면과 김치 먹방을 펼쳤다. 한태웅은 28일 유튜브 채널 태웅이네에 하루에 다섯끼 먹으세요~~' 라는 영상을 게재했다. 영상에서 한태웅은 할아버지, 아버지를 모시고 짜장 라면과 김치]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[BTS, 일본 MTV 비디오 뮤직 어워드 2관왕 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0012756770</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0012756770</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 그룹 방탄소년단(BTS)이 일본에서 진행된 '2021 MTV Video Music Awards Japan'에서 2관왕을 차지했다. 29일 행사 홈페이지에 따르면 BTS는 올해 시상식에서 '버터'(B]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['오지호♥' 은보아, 패딩 후드에 쏙 들어가는 작은 얼굴…러블리 미소 [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000508369</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000508369</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=김지원 기자] 배우 오지호의 아내 은보아가 스타일리시한 면모를 뽐냈다. 은보아는 29일 자신의 인스타그램에 "요즘 같이 갑자기 추워진 날씨에 딱 맞는 패딩을 골랐어요"라는 홍보글과 함께 사진을 올렸다. 사]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[허니제이 “리헤이 코카N버터 무대, ‘잘 컸다’ 싶었다” (스우파) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000941489</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000941489</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[허니제이 “리헤이 코카N버터 무대, ‘잘 컸다’ 싶었다” (스우파) 댄서 허니제이가 리헤이와 코카N버터 무대에 벅찬 마음을 드러냈다. 허니제이는 29일 오후 3시 온라인으로 진행된 Mnet ‘스트릿 우먼 파이터’ 종]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[황신영 첫째, 삼둥이 중 가장 작게 태어났다더니..."미숙아 망막검진→검사비 700원?" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003795138</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003795138</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 정안지 기자] 개그우먼 황신영이 첫째 아서의 망막 검진을 위해 병원을 찾았다. 황신영은 29일 자신의 인스타그램 스토리에 "오늘은 첫째 아서만 미숙아 망막검진 하러 병원 외래"라며 사진을 게재했다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[써스데이 아일랜드와 공효진의 특별한 감성 ‘노마드 아뜰리에’ 공개 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000508368</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000508368</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=김병두 기자] 배우 공효진이 겨울 여신의 매력을 뽐냈다. (주)지엔코(대표 김석주)의 내추럴하고 자유로운 감성 브랜드 ’써스데이 아일랜드(Thursday Island)’에서 뮤즈 공효진과 함께 겨울 시즌 감각]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[허니제이가 전한 ‘잘 봐 언니들 싸움이다’ 비하인드 (스우파) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000941488</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000941488</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[허니제이가 전한 ‘잘 봐 언니들 싸움이다’ 비하인드 (스우파) 댄서 허니제이가 명언 비하인드를 전했다. 허니제이는 29일 오후 3시 온라인으로 진행된 Mnet ‘스트릿 우먼 파이터’ 종영간담회에서 명언 “잘 봐~ 언]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['친형 고소' 박수홍, 116억 원 법정 싸움에 쏠리는 관심 [TEN피플] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000508367</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000508367</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=박창기 기자] 올 상반기 연예계를 떠들썩하게 만들었던 방송인 박수홍의 '출연료 횡령 피해' 논란이 드디어 결실을 본다. 친형 부부를 고소한 이후 첫 단추로 오늘(29일) 손해배상 청구 소송 재판이 시작됐기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘스우파’ 우승자 허니제이가 밝힌 리더십 비결 “개인주의 좋아해” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003633106</link>
+            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003633106</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[엠넷 ‘스트릿 우먼 파이터’ 우승자 홀리뱅 리더 허니제이(본명 정하늬·사진)가 리더십의 비결을 공개했다. 허니제이는 29일 오후 온라인으로 생중계된 ‘스우파’ 종영 기념 기자간담회에 출연해 솔직한 입담을 드러냈다 이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김준현 “‘맛녀석’ 하차 이유? 괜히 불안했다”..건강이상설도 유쾌하게 해명 (찐경규) [종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003795137</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003795137</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 박아람 기자] 코미디언 김준현이 '맛있는 녀석들' 하차 이유를 밝혔다. 지난 27일 공개된 카카오TV 오리지널 웹예능 '찐경규'의 '취중찐담' 코너에서는 김준현이 출연해 솔직한 입담을 펼쳤다. 이날]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[현우 "용한 무당집서 본 머리 긴 귀신, 내게 붙어…떼내려 굿했다" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005690089</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005690089</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 김학진 기자 = 배우 현우가 귀신이 붙은 적이 있다며 믿지 못할 일화를 고백했다. 현우는 28일 오후 방송된 MBC '심야괴담회'는 '내눈에만 보여요' 특집으로 꾸며졌다. 이에 김숙은 "귀신 목격 전]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[정형돈 “토니안 소속사 시절 전폭적 지지 받아...알고보니 내돈내산”('금쪽상담소') (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004871727</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004871727</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[개그맨 정형돈이 한 때 소속사 사장이던 토니안과의 에피소드를 공개했다. 29일 채널A 예능프로그램 ‘오은영의 금쪽상담소’(이하 ‘금쪽상담소’)는 ‘정형돈이 토사장의 '1호' 연예인?! 이제서야 알게된 내돈내산 진실(]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[BTS, 일본 MTV 비디오 뮤직 어워드 2관왕…4년 연속 수상 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0012756658</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0012756658</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:26 GMT</pubDate>
+            <content:encoded><![CDATA['버터'·'마이 유니버스'로 수상…걸그룹 니쥬 '베스트 버즈 어워드' (서울=연합뉴스) 김예나 기자 = 그룹 방탄소년단(BTS)이 일본에서 진행된 '2021 MTV 비디오 뮤직 어워드 저팬'(2021 MTV Vide]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[임영웅, '붉은 입술' 음원 영상 100만뷰 돌파…깊은 음색으로 불러낸 정통 트로트 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000508366</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000508366</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=김지원 기자] 가수 임영웅이 TV조선 '사랑의 콜센타' 무대에서 선보인 '붉은 입술' 음원 영상이 100만뷰를 돌파했다. 지난 8월 17일 임영웅 공식 유튜브 채널 '임영웅'에 게시된 'Red lips (]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] 박희순 "섹시하다고? 꼭 맞는 '마이네임' 입은 덕분" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000279578</link>
+            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000279578</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[지천명의 섹시한 빌런, 배우 박희순(51)이 1020 세대의 마음을 사로잡고 있다. 박희순은 최근 공개된 넷플릭스 오리지널 시리즈 '마이 네임'에서 악마 같지만, 정이 가고, 피 칠갑을 해도 섹시한 보스 최무진을]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘스우파’ 우승자 허니제이 “댄스신 대표하는 크루...책임감 생겨” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003633100</link>
+            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003633100</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[엠넷 ‘스트릿 우먼 파이터’ 우승자 홀리뱅 리더 허니제이. 엠넷 제공 엠넷 ‘스트릿 우먼 파이터’ 우승자 홀리뱅 리더 허니제이가 ‘스우파’ 종영을 맞이해 소감을 밝혔다. 29일 오후 온라인으로 생중계된 ‘스우파’ 종]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 日 ‘MTV VMA’ 2관왕 [공식] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000941487</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000941487</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:26 GMT</pubDate>
             <content:encoded><![CDATA[그룹 방탄소년단이 '2021 MTV 비디오 뮤직 어워드 재팬(2021 MTV Video Music Awards Japan, 이하 '2021 MTV VMAJ)'에서 2관왕을 차지했다. 29일 'MTV VMAJ' 측이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방탄소년단, 日 'MTV VMA' 2관왕 차지..4년 연속 수상 기쁨 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003492352</link>
-            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003492352</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:35 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드POP=조은미 기자]그룹 방탄소년단이 '2021 MTV 비디오 뮤직 어워드 재팬(2021 MTV Video Music Awards Japan, 이하 '2021 MTV VMAJ)'에서 2관왕을 차지했다. 29일]]></content:encoded>
+            <title><![CDATA[오마이걸 지호, 태양아래 반사되는 예쁨...귀염 뽀작[TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000508362</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000508362</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=조준원 기자] 그룹 오마이걸의 지호가 일상을 전했다. 지호는 29일 자신의 인스타그램에 "I love sky"라는 글과 함께 여러 장의 사진을 게재했다. 공개된 사진 속 지호는 화려한 가디건을 입고 사진을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방탄소년단, 日 'MTV VMA' 2관왕 차지(공식) (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000505367</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000505367</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:35 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 그룹 방탄소년단이 '2021 MTV 비디오 뮤직 어워드 재팬(2021 MTV Video Music Awards Japan, 이하 '2021 MTV VMAJ)'에서 2관왕을 차지했다. 10월 2]]></content:encoded>
+            <title><![CDATA[김강우, 세상 떠난 팬 추모…“부끄럽고 고맙다” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000595491</link>
+            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000595491</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[배우 김강우가 팬의 죽음을 애도했다. 29일 김강우는 자신의 인스타그램에 오랜 팬을 추모하는 장문의 글과 함께 두 장의 사진을 게재했다. 공개된 사진에는 생전 고인의 모습이 담겨있다. 김강우의 사인을 받는 모습부터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[임영웅, 나훈아·심수봉에 이어 안방극장 콘서트…KBS 독점 공개(공식) (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826925</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826925</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:35 GMT</pubDate>
-            <content:encoded><![CDATA[가수 임영웅이 KBS로 돌아와 안방 시청자들을 만난다. ‘힘든 시기 평범한 일상을 살아가는 우리 모두가 영웅이다’라는 취지로 만들어진 는 올해 2021년 12월 말, 송년특집으로 방송될 예정이다. 임영웅은 “무엇보다]]></content:encoded>
+            <title><![CDATA[‘스우파’ CP “배틀 서바이벌 접목, 엠넷스럽게 잘한 듯” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000941486</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000941486</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[‘스우파’ CP “배틀 서바이벌 접목, 엠넷스럽게 잘한 듯” 권영찬 CP가 ‘스트릿 우먼 파이터’의 성공 비결을 분석했다. 권 CP는 29일 오후 3시 온라인으로 진행된 Mnet ‘스트릿 우먼 파이터’ 종영간담회에서]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘완전체 컴백’ 2am, 신보 베일 벗었다 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000770595</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000770595</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:35 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 그룹 2am이 신보의 하이라이트 메들리를 공개하며 완성도 높은 앨범에 대한 팬들의 기대감을 한층 더 끌어 올렸다. 2am은 29일 0시 공식 사회관계망서비스(SNS)를 통해 새 미니앨범 ‘Ballad]]></content:encoded>
+            <title><![CDATA[에드 시런, 정규 4집 발표…다양한 인생 경험 녹여내 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0012756810</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0012756810</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[히트곡 '배드 해비츠' 등 수록…새 싱글 MV 오늘 밤 공개 (서울=연합뉴스) 이태수 기자 = 팝스타 에드 시런이 29일 정규 4집 '='를 발표했다고 워너뮤직이 밝혔다. 이 음반은 '+', 'x', '÷' 등 그의]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴, 5연속 밀리언셀러 달성…'아타카' 초동 133만 장 돌파 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003550142</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003550142</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:35 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 오윤주 기자] 그룹 세븐틴이 미니 9집으로 5연속 밀리언셀러를 달성했다. 지난 22일 발매된 세븐틴의 미니 9집 '아타카(Attacca)'는 국내 최대 음반 판매량 집계 사이트 한터차트 기준 초동 판]]></content:encoded>
+            <title><![CDATA[박수진 '우아한 노래' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826953</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826953</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[2021 미스 그랜드 코리아 선발대회가 29일 오후 대전광역시 DCC 대전컨벤션센터에서 열렸다. '미스 그랜드 코리아(Miss Grand Korea)'는 '평화와 비폭력'을 주제로 시작된 세계 최고의 국제 미인 대회]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘11억 뷰 육박’…임영웅, 유튜브 채널 누적 조회 수 10억8천만 뷰 돌파 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001365989</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001365989</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:35 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이정범 기자) 임영웅 공식 유튜브 채널 ‘임영웅’의 총 조회 수가 11억 뷰에 바짝 다가서고 있다. 10월 29일 기준, 임영웅의 공식 유튜브 채널인 ‘임영웅’은 총 조회 수 10억 8천만 뷰를 돌파했]]></content:encoded>
+            <title><![CDATA[이현아 '매력적인 자기소개' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826952</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826952</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[2021 미스 그랜드 코리아 선발대회가 29일 오후 대전광역시 DCC 대전컨벤션센터에서 열렸다. '미스 그랜드 코리아(Miss Grand Korea)'는 '평화와 비폭력'을 주제로 시작된 세계 최고의 국제 미인 대회]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[임영웅 유튜브 채널 10억 8천만뷰..영웅시대와 빛나는 신화창조 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003000610</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003000610</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:35 GMT</pubDate>
-            <content:encoded><![CDATA[가수 임영웅이 유튜브 채널 총 조회 수 10억 8000만 뷰를 달성하며 빛나는 기록 행진을 이어갔다. 구독자 124만 명의 임영웅 공식 유튜브 채널은 10월 29일 총 조회수 10억 8000만 뷰를 넘어섰다. 지난]]></content:encoded>
+            <title><![CDATA[박연서 '아름다운 미소' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826950</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826950</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[2021 미스 그랜드 코리아 선발대회가 29일 오후 대전광역시 DCC 대전컨벤션센터에서 열렸다. '미스 그랜드 코리아(Miss Grand Korea)'는 '평화와 비폭력'을 주제로 시작된 세계 최고의 국제 미인 대회]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[신인선, ‘뽕디스파뤼’ MC 이찬원 지원 사격 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001365986</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001365986</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:35 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이정범 기자) 28일 오후 6시 KBS엔터테인먼트 유튜브 채널을 통해 첫 공개된 국내 최초 트롯돌 예능 ‘뽕디스파뤼’가 2MC 이찬원-김종민과 게스트 신인선과 황윤성이 함께 뽕필 가득한 축제의 서막을]]></content:encoded>
+            <title><![CDATA[임가영 '한국의 미 알릴게요!' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826949</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826949</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[2021 미스 그랜드 코리아 선발대회가 29일 오후 대전광역시 DCC 대전컨벤션센터에서 열렸다. '미스 그랜드 코리아(Miss Grand Korea)'는 '평화와 비폭력'을 주제로 시작된 세계 최고의 국제 미인 대회]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[킹덤, '블랙 크라운' 첫 주 활동 성료…美 아이튠즈 차트 1위 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010800637</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010800637</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:35 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]조민정 인턴 기자 = 그룹 '킹덤'이 컴백 첫 주 활동을 성공적으로 마쳤다. 킹덤(자한, 아이반, 치우, 아서, 단, 루이, 무진)은 지난 21일 미니 3집 '히스토리 오브 킹덤 : 3. 아이반(His]]></content:encoded>
+            <title><![CDATA[김수현 '다재다능한 열정으로!' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826948</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826948</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[2021 미스 그랜드 코리아 선발대회가 29일 오후 대전광역시 DCC 대전컨벤션센터에서 열렸다. '미스 그랜드 코리아(Miss Grand Korea)'는 '평화와 비폭력'을 주제로 시작된 세계 최고의 국제 미인 대회]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['완전체 컴백' 2am, 신보 하이라이트 메들리 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=629&amp;aid=0000113413</link>
-            <guid>https://entertain.naver.com/now/read?oid=629&amp;aid=0000113413</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:35 GMT</pubDate>
-            <content:encoded><![CDATA[다음 달 1일 새 미니앨범 'Ballad 21 F/W' 발매 '명품 발라드 그룹' 2am이 신보의 하이라이트 메들리를 공개하며 완성도 높은 앨범에 대한 팬들의 기대감을 한층 더 끌어 올렸다. 2am은 29일 0시 공]]></content:encoded>
+            <title><![CDATA[56살 브룩 쉴즈 “‘나와 캘빈클라인 사이에는 아무 것도 없어요’, 성적인 의미 생각못해”[해외이슈] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003550182</link>
+            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003550182</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]80년대 최고 스타였던 브룩 쉴즈(56)가 자신이 15살 때 촬영한 캘빈클라인 광고 논란에 대한 입장을 밝혔다. 브룩 쉴즈는 15살 나이에 해당 브랜드 모델로 활약하며 전세게 ‘캘빈클라인]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[버가부, 데뷔곡 ‘bugAboo’ MV 500만 뷰 돌파 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826921</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826921</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:35 GMT</pubDate>
-            <content:encoded><![CDATA[걸그룹 버가부(bugAboo, 초연 유우나 레이니 지인 은채 시안)가 폭발적인 성장세를 보이고 있다. 지난 25일 첫 번째 싱글 앨범 ‘bugAboo’(버가부)와 함께 가요계에 혜성처럼 등장한 버가부(bugAboo)]]></content:encoded>
+            <title><![CDATA[이선아 '행복을 전하고 싶어요' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826946</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826946</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[2021 미스 그랜드 코리아 선발대회가 29일 오후 대전광역시 DCC 대전컨벤션센터에서 열렸다. '미스 그랜드 코리아(Miss Grand Korea)'는 '평화와 비폭력'을 주제로 시작된 세계 최고의 국제 미인 대회]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[음콘협 측 "방탄소년단, K팝 앨범 시장 성장에 지대한 영향" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000797529</link>
-            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000797529</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:35 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 정하은기자]사단법인 한국음악콘텐츠협회(이하 ‘음콘협’)가 케이팝 아티스트 앨범 시장이 10배 이상 성장한 것에 대해 의견을 밝혔다. 대한민국 대표 대중음악차트 ‘가온차트’가 조사한 내용에 따르면, 2]]></content:encoded>
+            <title><![CDATA[안민정 '건강한 마인드' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826945</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826945</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[2021 미스 그랜드 코리아 선발대회가 29일 오후 대전광역시 DCC 대전컨벤션센터에서 열렸다. '미스 그랜드 코리아(Miss Grand Korea)'는 '평화와 비폭력'을 주제로 시작된 세계 최고의 국제 미인 대회]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[피원하모니가 누구야? 1년 만에 검색량 2250% 상승한 대세 아이돌 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004622341</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004622341</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:35 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 피원하모니(P1Harmony)가 약 한 달 간의 미국 프로모션을 마치고 글로벌 인기를 입증했다. 탄탄한 실력을 바탕으로 글로벌한 성장을 거듭하고 있는 피원하모니의 인기는 다양한 플랫폼의 통계 수치로 뚜렷하게 두]]></content:encoded>
+            <title><![CDATA[최지효 '발랄한 자기소개' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826944</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826944</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[2021 미스 그랜드 코리아 선발대회가 29일 오후 대전광역시 DCC 대전컨벤션센터에서 열렸다. '미스 그랜드 코리아(Miss Grand Korea)'는 '평화와 비폭력'을 주제로 시작된 세계 최고의 국제 미인 대회]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[밴드 소란, 31일 싱글 ‘셔터’ 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000770587</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000770587</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:35 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 밴드 소란이 오는 31일 싱글 ‘셔터’(Shutter)를 발매한다. 소란은 지난 24일부터 28일까지 사회적관계망서비스(SNS)를 통해 ‘셔터’ 콘셉트 티저를 선보였다. 그중 지난 24일 공개된 영상에]]></content:encoded>
+            <title><![CDATA[배우 이가온 '뮤지컬 실력이 돋보이네' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826943</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826943</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[2021 미스 그랜드 코리아 선발대회가 29일 오후 대전광역시 DCC 대전컨벤션센터에서 열렸다. '미스 그랜드 코리아(Miss Grand Korea)'는 '평화와 비폭력'을 주제로 시작된 세계 최고의 국제 미인 대회]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[강승원, 30년지기 장필순과 협업곡 '숨바꼭질' 발표 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0012756292</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0012756292</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:35 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 이태수 기자 = KBS 2TV '유희열의 스케치북' 음악감독으로도 활동하는 뮤지션 강승원이 삼십년지기 동료 뮤지션 장필순과 협업곡 '숨바꼭질'을 29일 발표한다. 강승원2집문화산업전문 유한회사에 따]]></content:encoded>
+            <title><![CDATA[임선영 '우아한 미모' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826942</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826942</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[2021 미스 그랜드 코리아 선발대회가 29일 오후 대전광역시 DCC 대전컨벤션센터에서 열렸다. '미스 그랜드 코리아(Miss Grand Korea)'는 '평화와 비폭력'을 주제로 시작된 세계 최고의 국제 미인 대회]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[트와이스, 컴백 타이틀곡은 '사이언티스트'…앤마리 참여 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004622338</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004622338</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:35 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 트와이스가 신곡 '사이언티스트(SCIENTIST)'로 돌아온다. 트와이스는 11월 12일 오후 2시 정규 3집 '포뮬러 오브 러브: O+T=&lt;3(Formula of Love: O+T=&lt;3)'을 발매한다. 컴백]]></content:encoded>
+            <title><![CDATA[안지영 프로 '미스 그랜드 코리아 도전!' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826941</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826941</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[2021 미스 그랜드 코리아 선발대회가 29일 오후 대전광역시 DCC 대전컨벤션센터에서 열렸다. '미스 그랜드 코리아(Miss Grand Korea)'는 '평화와 비폭력'을 주제로 시작된 세계 최고의 국제 미인 대회]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[트와이스, 컴백 타이틀곡은 'SCIENTIST'…앤 마리 참여 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003550131</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003550131</guid>
-            <pubDate>Fri, 29 Oct 2021 05:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 오윤주 기자] 트와이스가 신곡 '사이언티스트(SCIENTIST)'로 돌아온다. 트와이스는 29일 공식 SNS 등을 통해 정규 3집 '포뮬러 오브 러브: O+T=&lt;3(Formula of Love: O+]]></content:encoded>
+            <title><![CDATA[이지호 '부드러운 미소' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826940</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826940</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[2021 미스 그랜드 코리아 선발대회가 29일 오후 대전광역시 DCC 대전컨벤션센터에서 열렸다. '미스 그랜드 코리아(Miss Grand Korea)'는 '평화와 비폭력'을 주제로 시작된 세계 최고의 국제 미인 대회]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[B1A4, 산들 입대 앞두고 11월 10일 완전체 온라인 팬미팅 개최 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000326063</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000326063</guid>
-            <pubDate>Fri, 29 Oct 2021 05:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=정유진 기자] 그룹 B1A4가 멤버 산들의 입대를 앞두고 팬미팅을 개최, 신곡을 공개한다. 29일 B1A4 소속사 WM엔터테인먼트는 “산들의 군 입대 하루 전날인 내달 10일, B1A4가 온라인 팬미팅]]></content:encoded>
+            <title><![CDATA[지효진 '씩씩한 모습이 인상적' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826939</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826939</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[2021 미스 그랜드 코리아 선발대회가 29일 오후 대전광역시 DCC 대전컨벤션센터에서 열렸다. '미스 그랜드 코리아(Miss Grand Korea)'는 '평화와 비폭력'을 주제로 시작된 세계 최고의 국제 미인 대회]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[B1A4, 산들 입대 앞두고 내달 온라인 팬미팅…신곡도 발표 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0012756277</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0012756277</guid>
-            <pubDate>Fri, 29 Oct 2021 05:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 김예나 기자 = 그룹 B1A4가 멤버 산들의 입대를 앞두고 온라인으로 팬들과 만나 신곡을 발표한다. 소속사 WM엔터테인먼트는 29일 "산들의 입대 하루 전인 11월 10일 오후 8시 온라인 팬미팅]]></content:encoded>
+            <title><![CDATA[미스 그랜드 코리아 개최 [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826935</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826935</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[2021 미스 그랜드 코리아 선발대회가 29일 오후 대전광역시 DCC 대전컨벤션센터에서 열렸다. '미스 그랜드 코리아(Miss Grand Korea)'는 '평화와 비폭력'을 주제로 시작된 세계 최고의 국제 미인 대회]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[피원하모니, 글로벌 급성장…美 인기 심상찮다 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001365970</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001365970</guid>
-            <pubDate>Fri, 29 Oct 2021 05:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 조혜진 기자) 그룹 피원하모니(P1Harmony, 기호 테오 지웅 인탁 소울 종섭)가 약 한 달 간의 미국 프로모션 활동을 마치고 돌아와 글로벌 인기를 입증하며 4세대 대표 K팝 아이돌로 자리매김했다.]]></content:encoded>
+            <title><![CDATA[미스 그랜드 코리아 , 밸런스 심사 [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826933</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826933</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[2021 미스 그랜드 코리아 선발대회가 29일 오후 대전광역시 DCC 대전컨벤션센터에서 열렸다. '미스 그랜드 코리아(Miss Grand Korea)'는 '평화와 비폭력'을 주제로 시작된 세계 최고의 국제 미인 대회]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘편스토랑’ 정상훈, 거미에 프랜차이즈 제안 “돈방석 앉아보자” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004871706</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004871706</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[‘편스토랑’ 정상훈이 거미와 프랜차이즈를 구상하며 행복한 상상에 빠졌다. 29일 KBS2 예능프로그램 ‘신상출시 편스토랑’ (이하 ‘편스토랑’)은 ‘거미&amp;정상훈, 상훈의 짱친, 조정석한테 맞을뻔한 어마무시한 ssul]]></content:encoded>
+            <title><![CDATA[미스 그랜드 코리아, 몸매 뽐내는 참가자들 [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826932</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826932</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[2021 미스 그랜드 코리아 선발대회가 29일 오후 대전광역시 DCC 대전컨벤션센터에서 열렸다. '미스 그랜드 코리아(Miss Grand Korea)'는 '평화와 비폭력'을 주제로 시작된 세계 최고의 국제 미인 대회]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[록밴드 메스그램, 새 미니음반 '파트 오브 유' 발매 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0012756563</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0012756563</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 이태수 기자 = 혼성 5인조 록밴드 메스그램이 새 미니음반 '파트 오브 유'(Part Of You)를 발매했다고 소속사 아이원이엔티가 29일 밝혔다. 타이틀곡 '트와일라잇'(Twilight)은 누구]]></content:encoded>
+            <title><![CDATA[미스 그랜드 코리아 선발대회 개최 [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826931</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826931</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[2021 미스 그랜드 코리아 선발대회가 29일 오후 대전광역시 DCC 대전컨벤션센터에서 열렸다. '미스 그랜드 코리아(Miss Grand Korea)'는 '평화와 비폭력'을 주제로 시작된 세계 최고의 국제 미인 대회]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['검사♥' 한지혜, 11년만 얻은 딸 뒤집기 시도에 감동했네...♥넘치는 '도치맘' 일상 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003795132</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003795132</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선닷컴 정안지 기자] 배우 한지혜가 딸의 행동 하나하나에 행복한 미소를 지었다. 한지혜는 27일 자신의 인스타그램 스토리를 통해 "뒤집기 오늘 내일 할 것 같은 느낌"이라면서 사진을 게재했다. 사진 속에는]]></content:encoded>
+            <title><![CDATA[안젤리나 졸리, 눈매 똑닮은 아들 녹스와 쇼핑 나들이 [N해외연예] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005690021</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005690021</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 할리우드 톱배우 안젤리나 졸리가 아들과 함께 쇼핑을 즐겼다. 미국 연예매체 스플래시닷컴은 지난 28일(현지시간) 영국 런던 중심부에서 안젤리나 졸리가 아들 녹스와 함께 있는 모습을 포]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김강우, 팬 떠나보내고 깊은 슬픔 “그립습니다. 아주 많이요” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003795131</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003795131</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선닷컴 박아람 기자] 배우 김강우가 슬픔을 담은 추모의 글을 올렸다. 김강우는 29일 자신의 인스타그램에 팬의 생전 모습이 담긴 사진을 공개하며 "엠버님께"라는 고인을 애도하는 글을 남겼다. 그는 "저의 연]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[허니제이→리헤이 “이렇게 관심 뜨거울 줄 몰랐다, 영광스러워” (스우파) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000941484</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000941484</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[허니제이→리헤이 “이렇게 관심 뜨거울 줄 몰랐다, 영광스러워” (스우파) ‘스트릿 우먼 파이터’ 리더들이 소감을 밝혔다. 먼저 가비는 29일 오후 3시 온라인으로 진행된 Mnet ‘스트릿 우먼 파이터’ 종영간담회에서]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['얼짱시대' 故이치훈 모친, 아들과 함께 잠들다 "하늘에서 꼭 만나요" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003795129</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003795129</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 이유나 기자]얼짱시대 출신 BJ 고(故) 이치훈의 모친이 아들과 함께 영면에 들었다. 29일 이치훈 공식 인스타그램에는 가족 대리인이 "10월 29일 오후 2시 햇살 좋은 날 치훈이 형을 만나러 가는 길]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[권상우, ♥손태영 어깨에 손 올리고 데이트…여전히 달달한 신혼 [스타★샷] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000595488</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000595488</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[배우 권상우, 손태영 부부가 뉴욕 데이트를 즐겼다. 29일 손태영은 자신의 인스타그램에 “셰프님의 뜻밖의 점심 대접도 받고 날씨도 가을 가을”이라는 글과 함께 여러 장의 사진을 게재했다. 공개된 사진에는 외출에 나선]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이경규, 백신 맞자마자 라면 개발 (‘편스토랑’) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000941483</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000941483</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[KBS2 ‘편스토랑’ 라면왕 이경규가 이번에도 일을 낼까. 29일 KBS 2TV ‘신상출시 편스토랑’(이하 ‘편스토랑’)에서는 100회 특집 ‘라면 전쟁’ 결과가 공개된다. 이경규, 이영자, 류수영, 기태영, 정상훈]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['너를 닮은 사람' 고현정X신현빈 둘러싼 사건들, 타임라인 정리 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000279576</link>
-            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000279576</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[JTBC 수목드라마 '너를 닮은 사람'(극본 유보라, 연출 임현욱, 제작 셀트리온 엔터테인먼트, JTBC스튜디오)이 의문의 살인사건으로 첫 회를 시작한 뒤, 매 주 더해 가는 미스터리와 파격적인 전개로 시청자들을]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이찬원, ‘불후의 명곡’ 명품배우 특집 편 스페셜 MC 출격 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004871698</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004871698</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[이찬원이 ‘불후의 명곡’ 스페셜 MC로 출연한다. 오는 10월 30일 KBS 2TV ‘불후의 명곡’에 이찬원이 스페셜 MC로 출격해 활약한다. 이찬원은 지난해 ‘미스터트롯’을 통해 대중에게 이름을 알린 뒤, 각종 예]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[TS엔터, 래퍼 슬리피 상대 2억8000만원 손해배상 소송 패소 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003633093</link>
-            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003633093</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[래퍼 슬리피(37·본명 김성원). 슬리피 사회관계망서비스(SNS) 갈무리 래퍼 슬리피(37·본명 김성원)의 전 소속사인 TS엔터테인먼트가 슬리피를 상대로 제기한 2억8000만원의 손해배상 청구 소송에서 패소했다. 서]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘구경이’ 조현철 “‘보약 지어줄까?’ 이영애 물음에 체질 바뀌는 기분” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000595487</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000595487</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스 ‘D.P.’로 강렬한 인상을 남긴 배우 조현철이 드라마 ‘구경이’로 안방극장을 찾는다. 29일 오후 JTBC 새 토일드라마 ‘구경이’ 온라인 제작발표회가 열렸다. 이 자리에는 주연배우 이영애, 김혜준, 김해]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘구경이’ 이영애 “이상한 드라마라 선택…독특함 느껴질 것” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000595486</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000595486</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[‘구경이’ 이영애가 파격 변신을 예고한다. 29일 오후 JTBC 새 토일드라마 ‘구경이’ 온라인 제작발표회가 열렸다. 이 자리에는 주연배우 이영애, 김혜준, 김해숙, 곽선영, 조현철과 이정흠 감독이 참석해 작품에 관]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BDC 홍성준 부친상..."코로나로 장례는 조용히" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004871696</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004871696</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 BDC 홍성준이 부친상을 당했다. 29일 소속사 브랜뉴뮤직은 "BDC 홍성준의 부친께서 10월 29일 병환으로 별세하셨기에 삼가 알려드립니다"라고 전했다. 이어 "현재 홍성준은 가족과 함께 빈소(분당서울대병원)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[미스틱 첫 걸그룹 빌리, 마침내 데뷔…11월 10일 확정 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=079&amp;aid=0003568775</link>
-            <guid>https://entertain.naver.com/now/read?oid=079&amp;aid=0003568775</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[미스틱스토리의 첫 번째 걸그룹 빌리가 데뷔일을 확정했다. 미스틱스토리는 28일 밤 11시 11분 빌리(Billlie)의 타임 테이블을 공식 SNS에 게재해, 빌리가 오는 11월 10일 데뷔한다고 밝혔다. 시윤, 츠키]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이상하고 독특한데 재밌는, 이영애 표 '구경이'[종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000279573</link>
-            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000279573</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이영애가 코믹이란 옷을 입고 거침없이 망가진다. 4년 만에 안방극장에 돌아온 그는 "이상하고 독특한데 재밌다"라고 소감을 밝히며 새로운 도전에 대한 설렘을 드러냈다. 가볍게 볼 수 있는 작품들이 시청자들]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['2년 연속 브랜드 대상' 임영웅, 양손에 트로피 들고 웃음꽃 '활짝' [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000508355</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000508355</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=박창기 기자] 트로트 가수 임영웅이 '2021 올해의 브랜드 대상' 2관왕을 인증했다. 29일 임영웅의 공식 SNS 계정에는 "아티스트 임영웅 2021 올해의 브랜드 대상. 올해의 트로트 가수(남)와 올해]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이혜영 “이혼한 사람들은 부모님에게 다 미안해”(돌싱글즈2) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003795126</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003795126</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 이유나 기자]"이혼한 사람들은 부모님에게 다 미안해…" MBN '돌싱글즈2' 이혜영이 이혼 사유 공개 도중 눈물을 보인 출연자에게 '돌싱 선배'로서의 따뜻한 위로를 건넨다. 오는 31일(일) 밤 9시 2]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["축하해웅"… '대세' 임영웅, 2년 연속 브랜드 대상 2관왕 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000748920</link>
-            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000748920</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[가수 임영웅이 '브랜드 대상' 2관왕에 올라 트로피를 품에 안았다. 가수 임영웅의 공식 인스타그램에는 "2021 올해의 브랜드 대상, 아티스트 임영웅 2021 올해의 브랜드 대상. 올해의 트로트가수(남)와 올해의 광]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한효주, 단아한 고운 한복 자태...정가 듣고 싶다[TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000508354</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000508354</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=조준원 기자] 배우 한효주가 과거 일상을 전했다. 한효주는 29일 자신의 인스타그램에 '#해어화 #lovelies #정소율' 라는 글과 함께 여러 장의 사진을 게재했다. 한효주는 2015년 영화 '해어화']]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[윤후X준수 16살 폭풍성장 만남...'아빠 어디가' 10년째 우정 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003795122</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003795122</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 이유나 기자] 윤민수 아들 윤후, 이종혁 아들 준수의 10년째 우정이 공개됐다. 윤민수 아내 김민지 씨는 29일 자신의 인스타그램에 "여기보다 맛있는 스파게티는 없을꺼야!"라는 글과 사진을 게재했다. 사]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[산발한 이영애가 온다…‘구경이’ 이상해서 궁금한 드라마[종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004871691</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004871691</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[이영애표 하드보일드 코믹 추적극이 온다. 이영애가 4년 만에 안방극장 컴백작으로 선택한 ‘구경이’는 이영애의 파격 변신으로 주목받는 드라마다. 29일 오후 열린 JTBC 새 토일드라마 ‘구경이’ 온라인 제작발표회에서]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김유정 “홍천기, 어딘가에서 잘 살아가길"...애틋한 종영 소감 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004871690</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004871690</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[‘홍천기’ 김유정이 9개월의 대장정을 마치며 종영 소감을 밝혔다. 지난 26일 종영한 SBS 월화드라마 ‘홍천기’는 29일 공식 유튜브 채널에 ‘꿀이 뚝뚝 비주얼 난리난 안효섭, 김유정. 복사꽃밭 키스로 꽉 닫힌 해]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[안영미, 문체부장관 표창 수상 소감 "건강한 웃음 드리는 광대 되겠다" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004871688</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004871688</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[개그우먼 안영미가 문화체육관광부 장관 표창을 받은 소감을 밝혔다. 안영미는 지난 28일 열린 ‘2021 대한민국 대중문화예술상’에서 문화체육관광부 장관 표창을 수상하며 예능계 핫 아이콘임을 입증했다. 안영미는 수상]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘임산부’ 이지혜 “백신 접종 후 악플 쏟아져…선동하는 것 아냐” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003633089</link>
-            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003633089</guid>
-            <pubDate>Fri, 29 Oct 2021 06:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[유튜브 채널 ‘밉지않은 관종언니’ 캡처 가수 이지혜(사진)가 신종 코로나바이러스 감염증(코로나19) 백신 접종을 한 뒤 악플이 쏟아졌다고 밝혔다. 이지혜는 지난 28일 유튜브 채널 ‘밉지않은 관종언니’에 ‘산모도 백]]></content:encoded>
+            <title><![CDATA[개회사 하는 한국미인협회 김현중 회장 [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826929</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826929</guid>
+            <pubDate>Fri, 29 Oct 2021 07:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[2021 미스 그랜드 코리아 선발대회가 29일 오후 대전광역시 DCC 대전컨벤션센터에서 열렸다. '미스 그랜드 코리아(Miss Grand Korea)'는 '평화와 비폭력'을 주제로 시작된 세계 최고의 국제 미인 대회]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[곽선영 '차분한 블랙 앤 화이트 패션' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
@@ -1397,153 +1544,6 @@
             <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826912</guid>
             <pubDate>Fri, 29 Oct 2021 05:19:51 GMT</pubDate>
             <content:encoded><![CDATA[29일 오후 JTBC 새 토일드라마 &lt;구경이&gt; 온라인 제작발표회 열렸다. 이날 제작발표회에는 이영애, 김혜준, 김해숙, 곽선영, 조현철, 이정흠 감독이 참석했다. 김혜준이 제작발표회에 앞서 포토타임을 갖고 있다. 사]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이영애 '함께 파이팅해요' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826911</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826911</guid>
-            <pubDate>Fri, 29 Oct 2021 05:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[29일 오후 JTBC 새 토일드라마 &lt;구경이&gt; 온라인 제작발표회 열렸다. 이날 제작발표회에는 이영애, 김혜준, 김해숙, 곽선영, 조현철, 이정흠 감독이 참석했다. 이영애 등 출연진들이 제작발표회에 앞서 포토타임을 갖]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이영애 '세월도 빗겨간 미모' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826910</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826910</guid>
-            <pubDate>Fri, 29 Oct 2021 05:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[29일 오후 JTBC 새 토일드라마 &lt;구경이&gt; 온라인 제작발표회 열렸다. 이날 제작발표회에는 이영애, 김혜준, 김해숙, 곽선영, 조현철, 이정흠 감독이 참석했다. 이영애가 제작발표회에 앞서 포토타임을 갖고 있다. 사]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이영애 '자타공인 청순미모' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826908</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826908</guid>
-            <pubDate>Fri, 29 Oct 2021 05:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[29일 오후 JTBC 새 토일드라마 &lt;구경이&gt; 온라인 제작발표회 열렸다. 이날 제작발표회에는 이영애, 김혜준, 김해숙, 곽선영, 조현철, 이정흠 감독이 참석했다. 이영애가 제작발표회에 앞서 포토타임을 갖고 있다. 사]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전소미 '비비인형의 화려한 컴백' [MK화보] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826893</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826893</guid>
-            <pubDate>Fri, 29 Oct 2021 03:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[29일 오전 가수 전소미가 첫 번째 정규 앨범 'XOXO' 발매 기념 온라인 미디어 쇼케이스를 가졌다. 화려한 컴백 쇼케이스 무대에서 열창하는 전소미의 모습을 화보로 소개한다. 사진= 더블랙레이블 제공]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전소미 '화려한 컴백' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826891</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826891</guid>
-            <pubDate>Fri, 29 Oct 2021 03:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[29일 오전 가수 전소미가 첫 번째 정규 앨범 'XOXO' 발매 기념 온라인 미디어 쇼케이스를 가졌다. 전소미가 쇼케이스 무대에서 열창하고 있다. 사진= 더블랙레이블 제공]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전소미 '인형 비주얼' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826890</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826890</guid>
-            <pubDate>Fri, 29 Oct 2021 03:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[29일 오전 가수 전소미가 첫 번째 정규 앨범 'XOXO' 발매 기념 온라인 미디어 쇼케이스를 가졌다. 전소미가 쇼케이스 무대에서 열창하고 있다. 사진= 더블랙레이블 제공]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전소미 '양 손으로 손키스' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826889</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826889</guid>
-            <pubDate>Fri, 29 Oct 2021 03:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[29일 오전 가수 전소미가 첫 번째 정규 앨범 'XOXO' 발매 기념 온라인 미디어 쇼케이스를 가졌다. 전소미가 쇼케이스 무대에서 열창하고 있다. 사진= 더블랙레이블 제공]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전소미 '무대 위의 바비인형' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826887</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826887</guid>
-            <pubDate>Fri, 29 Oct 2021 03:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[29일 오전 가수 전소미가 첫 번째 정규 앨범 'XOXO' 발매 기념 온라인 미디어 쇼케이스를 가졌다. 전소미가 쇼케이스 무대에서 열창하고 있다. 사진= 더블랙레이블 제공]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전소미 '열정의 쇼케이스 무대' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826886</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826886</guid>
-            <pubDate>Fri, 29 Oct 2021 03:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[29일 오전 가수 전소미가 첫 번째 정규 앨범 'XOXO' 발매 기념 온라인 미디어 쇼케이스를 가졌다. 전소미가 쇼케이스 무대에서 열창하고 있다. 사진= 더블랙레이블 제공]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전소미 '때로는 섹시하게' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826885</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826885</guid>
-            <pubDate>Fri, 29 Oct 2021 03:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[29일 오전 가수 전소미가 첫 번째 정규 앨범 'XOXO' 발매 기념 온라인 미디어 쇼케이스를 가졌다. 전소미가 쇼케이스 무대에서 열창하고 있다. 사진= 더블랙레이블 제공]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전소미 '화려한 쇼케이스 무대' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826883</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826883</guid>
-            <pubDate>Fri, 29 Oct 2021 03:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[29일 오전 가수 전소미가 첫 번째 정규 앨범 'XOXO' 발매 기념 온라인 미디어 쇼케이스를 가졌다. 전소미가 쇼케이스 무대에서 열창하고 있다. 사진= 더블랙레이블 제공]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전소미 '나날이 예뻐져' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826881</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826881</guid>
-            <pubDate>Fri, 29 Oct 2021 03:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[29일 오전 가수 전소미가 첫 번째 정규 앨범 'XOXO' 발매 기념 온라인 미디어 쇼케이스를 가졌다. 전소미가 제작발표회에 앞서 포토타임을 갖고 있다. 사진= 더블랙레이블 제공]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전소미 '해맑은 미소' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826880</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826880</guid>
-            <pubDate>Fri, 29 Oct 2021 03:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[29일 오전 가수 전소미가 첫 번째 정규 앨범 'XOXO' 발매 기념 온라인 미디어 쇼케이스를 가졌다. 전소미가 제작발표회에 앞서 포토타임을 갖고 있다. 사진= 더블랙레이블 제공]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전소미 '윙크는 덤' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826879</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826879</guid>
-            <pubDate>Fri, 29 Oct 2021 03:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[29일 오전 가수 전소미가 첫 번째 정규 앨범 'XOXO' 발매 기념 온라인 미디어 쇼케이스를 가졌다. 전소미가 제작발표회에 앞서 포토타임을 갖고 있다. 사진= 더블랙레이블 제공]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전소미 '하트는 기본' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826878</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826878</guid>
-            <pubDate>Fri, 29 Oct 2021 03:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[29일 오전 가수 전소미가 첫 번째 정규 앨범 'XOXO' 발매 기념 온라인 미디어 쇼케이스를 가졌다. 전소미가 제작발표회에 앞서 포토타임을 갖고 있다. 사진= 더블랙레이블 제공]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전소미 '더욱 성숙해진 모습' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826876</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826876</guid>
-            <pubDate>Fri, 29 Oct 2021 03:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[29일 오전 가수 전소미가 첫 번째 정규 앨범 'XOXO' 발매 기념 온라인 미디어 쇼케이스를 가졌다. 전소미가 제작발표회에 앞서 포토타임을 갖고 있다. 사진= 더블랙레이블 제공]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전소미 '새침함도 매력' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826874</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826874</guid>
-            <pubDate>Fri, 29 Oct 2021 03:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[29일 오전 가수 전소미가 첫 번째 정규 앨범 'XOXO' 발매 기념 온라인 미디어 쇼케이스를 가졌다. 전소미가 제작발표회에 앞서 포토타임을 갖고 있다. 사진= 더블랙레이블 제공]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전소미 '쇼케이스 전 화려한 포즈' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826873</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826873</guid>
-            <pubDate>Fri, 29 Oct 2021 03:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[29일 오전 가수 전소미가 첫 번째 정규 앨범 'XOXO' 발매 기념 온라인 미디어 쇼케이스를 가졌다. 전소미가 제작발표회에 앞서 포토타임을 갖고 있다. 사진= 더블랙레이블 제공]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[제이슨 모모아, '아쿠아맨2' 촬영 중 코로나19 확진 [엑's 할리우드] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001365838</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001365838</guid>
-            <pubDate>Fri, 29 Oct 2021 01:02:35 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) 할리우드 배우 제이슨 모모아가 코로나19 확진 판정을 받았다. 28일(현지시간) 더 선은 제이슨 모모아가 영국에서 DC 확장 유니버스(DCEU) 영화 '아쿠아맨 앤 로스트 킹덤'(아쿠아맨]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BTS, 아시아 가수 최초로 아메리칸뮤직어워즈 대상 후보 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0012755425</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0012755425</guid>
-            <pubDate>Fri, 29 Oct 2021 01:02:35 GMT</pubDate>
-            <content:encoded><![CDATA[(로스앤젤레스=연합뉴스) 정윤섭 특파원 = 그룹 방탄소년단(BTS)이 28일(현지시간) '2021 아메리칸뮤직어워즈'(AMA) 에서 대상 격인 '올해의 아티스트' 후보에 처음으로 올랐다. 사진은 지난 3월 그래미 시]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[톰 홀랜드, '스파이더맨' 출연 이어갈까…"처음으로 계약 안 된 상태" [엑's 할리우드] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001365816</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001365816</guid>
-            <pubDate>Fri, 29 Oct 2021 01:02:35 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) 배우 톰 홀랜드가 앞으로도 '스파이더맨' 시리즈에 출연할 수 있을까. 최근 영국의 매거진 엠파이어는 마블 시네마틱 유니버스(MCU) 영화 '스파이더맨: 노 웨이 홈'의 개봉을 앞둔 톰 홀]]></content:encoded>
         </item>
     </channel>
 </rss>
