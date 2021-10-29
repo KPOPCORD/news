@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 23:22:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 01:02:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['스우파' 허니제이, 원호 격한 애정 "섹시+여유 선물할래"]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329261</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329261</guid>
+            <pubDate>Fri, 29 Oct 2021 01:01:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329261">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/29/0GHVgwJESphI637710971400599851.jpg" alt="'스우파' 허니제이, 원호 격한 애정 " 섹시+여유="" 선물할래""="">        <div class="text-box">            <p class="summary">'스우파' 허니제이, 원호 격한 애정 "섹시+여유 선물할래"</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/29/0GHVgwJESphI637710971400599851.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 노미네이트…'아메리칸 뮤직 어워드' 4년 연속 정조준]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/329238</link>
@@ -86,14 +94,6 @@
             <pubDate>Thu, 28 Oct 2021 03:21:35 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329154">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/28/ri2rY3NT2RsX637710188433128377.jpg" alt="장수원 결혼 " 연상의="" 비연예인="" 예비신부""="">        <div class="text-box">            <p class="summary">장수원 결혼 "연상의 비연예인 예비신부"</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/28/ri2rY3NT2RsX637710188433128377.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오세훈, 변신 예고! '지금, 헤어지는 중입니다' 첫 스틸 공개]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329153</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329153</guid>
-            <pubDate>Thu, 28 Oct 2021 03:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329153">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/28/WS2ud6iyVM5K637710178848062801.jpg" alt="오세훈, 변신 예고! '지금, 헤어지는 중입니다' 첫 스틸 공개">        <div class="text-box">            <p class="summary">오세훈, 변신 예고! '지금, 헤어지는 중입니다' 첫 스틸 공개</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/28/WS2ud6iyVM5K637710178848062801.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
