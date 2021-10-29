@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-29T11:18:04.395Z</updated>
+    <updated>2021-10-29T12:33:33.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하디, 연애 세포 자극 '그냥 좋아서' 첫 데뷔 무대]]></title>
+        <id>https://entertain.v.daum.net/v/20211029212453937</id>
+        <link href="https://entertain.v.daum.net/v/20211029212453937"/>
+        <updated>2021-10-29T12:32:58.378Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김수진 기자] KBS 2TV '뮤직뱅크' 화면 캡처 싱어송라이터 하디(Hardy)가 '뮤직뱅크'로 첫 데뷔 무대를 꾸몄다. 하디는 29일 KBS 2TV '뮤직뱅크'에서 데뷔 싱글 '그냥 좋아서(It's you)'의 동명 타이틀곡 '그냥 좋아서' 무대를 처음 선보였다. 이날 화이트 재킷과 블랙 팬츠를 입고 등장한 하디는 훈훈한 비주얼을 과시해 단번]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[법원, 슬리피 손 들어줬다..TS 2억8000만원 손해배상 소송 승소]]></title>
+        <id>https://entertain.v.daum.net/v/20211029203710292</id>
+        <link href="https://entertain.v.daum.net/v/20211029203710292"/>
+        <updated>2021-10-29T12:32:58.378Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 윤상근 기자] '쇼미6' 슬리피 내방인터뷰 /사진=임성균 기자 tjdrbs23@'생활고 이슈'로 주목을 받았던 래퍼 슬리피(36, 김성원)와 소속사 TS엔터테인먼트(티에스이엔티알)가 1년여 만에 재판부에서 다시 마주한 가운데 재판부가 슬리피의 손을 들어줬다. 서울중앙지방법원 제34민사부는 29일 TS엔터테인먼트가 슬리피를 상대로 제기한 2억 80]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전소미, 익살스러운 악동으로 돌아왔다..신곡 'XOXO' 공개]]></title>
         <id>https://entertain.v.daum.net/v/20211029201104913</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211029160312589"/>
         <updated>2021-10-29T07:20:03.178Z</updated>
         <content type="html"><![CDATA[[OSEN=선미경 기자] JYP엔터테인먼트(이하 JYP) 소속 가수 NiziU(니쥬)가 일본 MTV VIDEO MUSIC AWARDS JAPAN(이하 MTV VMAJ)에서 2년 연속 수상의 영광을 안았다. 29일 MTV VMAJ 2021은 공식 홈페이지를 통해 "올해 화제를 모은 영상 작품이나 곡을 많이 발표하여 음악 시장의 발전에 공헌한 아티스트에게 수여]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTS, 일본 MTV 비디오 뮤직 어워드 2관왕..4년 연속 수상]]></title>
-        <id>https://entertain.v.daum.net/v/20211029155047136</id>
-        <link href="https://entertain.v.daum.net/v/20211029155047136"/>
-        <updated>2021-10-29T07:20:03.182Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 김예나 기자 = 그룹 방탄소년단(BTS)이 일본에서 진행된 '2021 MTV 비디오 뮤직 어워드 저팬'(2021 MTV Video Music Awards Japan)에서 2관왕을 차지했다. 29일 행사 홈페이지에 따르면 BTS는 올해 시상식에서 '버터'(Butter)로 '베스트 그룹 비디오/인터내셔널'(Best Group Video/In]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전소미, '솔로' 고충 "독고다이 느낌..마음 비우는 연습"]]></title>
-        <id>https://entertain.v.daum.net/v/20211029155011112</id>
-        <link href="https://entertain.v.daum.net/v/20211029155011112"/>
-        <updated>2021-10-29T07:20:03.182Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 전소미가 솔로 가수로 살아남는 고충을 털어놨다. 전소미의 첫 정규 앨범 'XOXO' 발매 기념 온라인 미디어 쇼케이스가 29일 오전 진행됐다. 솔로 가수로 2년째 활동하고 있는 전소미는 "마음을 비우기를 연습하고 실천해나가려고 한다"며 "솔로 가수로 살아가는 게 쉽지 않은 것 같다"라고 털어놨다. 이어 "살아남으려면 열심히 일하]]></content>
     </entry>
 </feed>
