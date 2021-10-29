@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-29T20:23:16.915Z</updated>
+    <updated>2021-10-29T21:18:50.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[패리스 힐튼, 친구들에 요구한 결혼 선물…무려 '7000만 원' [해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003550373</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003550373"/>
+        <updated>2021-10-29T21:18:49.545Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 오윤주 기자] 할리우드 스타 패리스 힐튼(40)의 결혼 선물 리스트가 화제다. 최근 미국 연예매체 페이지식스 등은 패리스 힐튼의 웨딩 레지스트리를 집중 조명했다. 웨딩 레지스트리는 결혼을 앞둔 예비]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[브룩 실즈, 15세 때 '캘빈 클라인' 광고 논란에 "순진했죠"]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012757699</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826967</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000826967"/>
         <updated>2021-10-29T08:24:34.806Z</updated>
-        <content type="html"><![CDATA[2021 미스 그랜드 코리아 선발대회가 29일 오후 대전광역시 DCC 대전컨벤션센터에서 열렸다. 한국미인협회가 주최하고 퍼플스와 한국프리미엄브랜드진흥원이 주관하며 엑소바이옴코리아의 엑소좀화장품 브랜드인 엑소리젠이 후]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임가영 '아름다운 워킹' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000826966</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000826966"/>
-        <updated>2021-10-29T08:24:34.807Z</updated>
         <content type="html"><![CDATA[2021 미스 그랜드 코리아 선발대회가 29일 오후 대전광역시 DCC 대전컨벤션센터에서 열렸다. 한국미인협회가 주최하고 퍼플스와 한국프리미엄브랜드진흥원이 주관하며 엑소바이옴코리아의 엑소좀화장품 브랜드인 엑소리젠이 후]]></content>
     </entry>
 </feed>
