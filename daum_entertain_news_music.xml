@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-29T09:21:50.278Z</updated>
+    <updated>2021-10-29T10:23:20.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["반쪽 같은 소리 하지 마"..전소미, 쿨한 악동의 이별 'XOXO']]></title>
+        <id>https://entertain.v.daum.net/v/20211029185019446</id>
+        <link href="https://entertain.v.daum.net/v/20211029185019446"/>
+        <updated>2021-10-29T10:22:51.997Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 가수 전소미가 악동 같은 모습의 'XOXO'로 컴백했다. 전소미는 29일 오후 6시 첫 정규 앨범 'XOXO'를 발매하고, 동명의 타이틀곡 'XOXO'의 뮤직비디오를 공개했다.  3개월 만에 초고속 컴백을 한 전소미는 데뷔 2년 만에 첫 정규 앨범 'XOXO'로 다양한 사랑의 관점을 이야기했다. 'XOXO'에는 타이틀곡 'XOX]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['뮤직뱅크' 세븐틴, 아이유 꺾고 1위 "캐럿분들께 감사"]]></title>
+        <id>https://entertain.v.daum.net/v/20211029182518028</id>
+        <link href="https://entertain.v.daum.net/v/20211029182518028"/>
+        <updated>2021-10-29T10:22:52.000Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김종은 기자] '뮤직뱅크'에서 세븐틴이 아이유를 꺾고 1위 트로피를 차지했다. 29일 오후 방송된 KBS2 음악프로그램 '뮤직뱅크'에서는 세븐틴의 '락 위드 유(Rock with you)'와 아이유의 '스트로베리 문(strawberry moon)'이 10월 마지막 주 1위 후보에 올랐다. 이날 세븐틴은 'Rock with you'로 화려한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["죗값 달게 받겠다"고 밝힌 노엘, 11월 첫 재판받는다]]></title>
         <id>https://entertain.v.daum.net/v/20211029180725687</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211029155003102"/>
         <updated>2021-10-29T07:20:03.183Z</updated>
         <content type="html"><![CDATA['스우파'의 아이키가 종영 소감을 전했다. 29일 Mnet 댄스 서바이벌 '스트릿 우먼 파이터'(이하 '스우파')가 종영 기념 기자 간담회를 온라인으로 진행했다. 제작진을 대표해서 권영찬CP와 최정남PD이 참석했으며, 각 크루의 리더인 리정(YGX), 가비(라치카), 효진초이(원트), 노제(웨이비), 리헤이(코카N버터), 모니카(프라우드먼), 허니제이(]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허니제이 "여성 댄서의 가벼운 이미지, '스우파'로 변했다"]]></title>
-        <id>https://entertain.v.daum.net/v/20211029154134837</id>
-        <link href="https://entertain.v.daum.net/v/20211029154134837"/>
-        <updated>2021-10-29T07:20:03.184Z</updated>
-        <content type="html"><![CDATA[허니제이가 '스우파'에게 고마운 마음을 전했다. 29일 Mnet 댄스 서바이벌 '스트릿 우먼 파이터'(이하 '스우파')가 종영 기념 기자 간담회를 온라인으로 진행했다. 제작진을 대표해서 권영찬CP와 최정남PD이 참석했으며, 각 크루의 리더인 리정(YGX), 가비(라치카), 효진초이(원트), 노제(웨이비), 리헤이(코카N버터), 모니카(프라우드먼), 허]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단, '2021 MTV VMAJ' 2관왕 달성]]></title>
-        <id>https://entertain.v.daum.net/v/20211029153644692</id>
-        <link href="https://entertain.v.daum.net/v/20211029153644692"/>
-        <updated>2021-10-29T07:20:03.186Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 오윤주 기자] 그룹 방탄소년단이 '2021 MTV 비디오 뮤직 어워드 재팬(2021 MTV Video Music Awards Japan, 이하 '2021 MTV VMAJ)'에서 2관왕을 차지했다. 29일 'MTV VMAJ' 측이 공식 홈페이지를 통해 발표한 바에 따르면, 방탄소년단은 올해 이 시상식에서 '버터(Butter)'로 '베스트]]></content>
     </entry>
 </feed>
