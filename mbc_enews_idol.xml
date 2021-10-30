@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 23:21:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Oct 2021 01:01:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미주 ‘헤이마마’ VS 이은지 ‘멍청이’ 장기자랑 배틀! 막내들 제대로 붙었다 (놀면)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329377</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329377</guid>
+            <pubDate>Sat, 30 Oct 2021 01:01:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329377">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/30/woJTySGl9D3y637711829303741721.jpg" alt="미주 ‘헤이마마’ VS 이은지 ‘멍청이’ 장기자랑 배틀! 막내들 제대로 붙었다 (놀면)">        <div class="text-box">            <p class="summary">미주 ‘헤이마마’ VS 이은지 ‘멍청이’ 장기자랑 배틀! 막내들 제대로 붙었다 (놀면)</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/30/woJTySGl9D3y637711829303741721.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘나 혼자 산다’ 2PM 준호 친누나, 미담 공개 “동생은 어릴 때부터 스윗했다”]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/329374</link>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 29 Oct 2021 03:23:14 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329273">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/29/xWjTHOyOhnOt637711025086353487.jpg" alt="전소미 " '덤덤'="" 성적="" 부담?="" no…꽉="" 찬="" 'xoxo'="" 자신="" 있어""="">        <div class="text-box">            <p class="summary">전소미 "'덤덤' 성적 부담? NO…꽉 찬 'XOXO' 자신 있어"</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/29/xWjTHOyOhnOt637711025086353487.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스우파' 허니제이, 원호 격한 애정 "섹시+여유 선물할래"]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329261</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329261</guid>
-            <pubDate>Fri, 29 Oct 2021 01:01:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329261">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/29/0GHVgwJESphI637710971400599851.jpg" alt="'스우파' 허니제이, 원호 격한 애정 " 섹시+여유="" 선물할래""="">        <div class="text-box">            <p class="summary">'스우파' 허니제이, 원호 격한 애정 "섹시+여유 선물할래"</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/29/0GHVgwJESphI637710971400599851.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
