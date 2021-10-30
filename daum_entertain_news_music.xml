@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-30T01:01:59.139Z</updated>
+    <updated>2021-10-30T02:04:40.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가사가 안 들리는 아이유 노래?]]></title>
+        <id>https://entertain.v.daum.net/v/20211030110040133</id>
+        <link href="https://entertain.v.daum.net/v/20211030110040133"/>
+        <updated>2021-10-30T02:04:09.817Z</updated>
+        <content type="html"><![CDATA[아이유가 달라졌다? 가수 아이유가 지난 19일 발매한 신곡 '스트로베리 문(strwaberry moon)'의 인기가 열흘째 여전하다. '스트로베리 문'은 여전히 국내 주요 음원사이트 차트 상위권에 진입해 있고, 곡을 향한 리스너들의 관심도 높다. 역시 '냈다 하면 1위'를 꿰차는 아이유다운 행보다. 그러나 일각에서는 아이유의 변화를 지적하는 목소리도 들려온]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[던 말릭, 'PAID IN SEOUL'에 담아낸 스펙트럼의 확장]]></title>
         <id>https://entertain.v.daum.net/v/20211030100013279</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211030075955014"/>
         <updated>2021-10-29T23:21:30.703Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 방탄소년단(BTS) 제이홉(j-hope)이 순수한 소년의 모습으로 시청자들에게 힐링을 선사했다. 방탄소년단은 숲에서의 힐링 스토리를 담은 JTBC의 예능 리얼리티 프로그램 ‘인더숲 BTS편 시즌2’에 출연 중이다. 29일 방송된 ‘EP. 3 화양연화’ 편에서는 강원도 평창에서의 둘째 날 모습이 공개됐다. 7명 멤버들이 각자의 방]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단 슈가 어거스트디 믹스테이프 'AGUST D' 스포티파이 1억 7500만 스트리밍 돌파]]></title>
-        <id>https://entertain.v.daum.net/v/20211030075543993</id>
-        <link href="https://entertain.v.daum.net/v/20211030075543993"/>
-        <updated>2021-10-29T23:21:30.703Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 문완식 기자] 방탄소년단(BTS) 슈가의 어거스트 디(Agust D) 첫 믹스테이프 'Agust D'가 세계 최대 음원 플랫폼 스포티파이(Spotify)에서 1억 7500만 스트리밍을 돌파하며 또 하나의 기록을 세웠다. 2016년 8월 16일 슈가가 'Agust D'라는 이름으로 발매한 빅히트 엔터테인먼트 레이블 첫 번째 믹스 테이프 'Agus]]></content>
     </entry>
 </feed>
