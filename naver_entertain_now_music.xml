@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-30T13:24:16.941Z</updated>
+    <updated>2021-10-30T14:19:20.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[블랙핑크 지수, 어떤 각도에서도 돋보이는 미모[스타IN★]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003000860</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003000860"/>
+        <updated>2021-10-30T14:19:04.884Z</updated>
+        <content type="html"><![CDATA[그룹 블랙핑크 지수가 독특한 패션 센스를 선보였다. 지수는 30일 자신의 인스타그램에 별다른 멘트 없이 자신의 모습이 담긴 사진 여러 장을 게재했다. 사진 속 지수는 긴 생머리를 늘어뜨린 채 카메라를 바라보며 다양한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅, 멜론 TOP10에 무려 6곡 진입]]></title>
         <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0001906150</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=408&amp;aid=0000137413"/>
         <updated>2021-10-30T07:20:31.968Z</updated>
         <content type="html"><![CDATA[그룹 투모로우바이투게더가 핼러윈을 맞아 고스트헌터로 깜짝 변신했다. 투모로우바이투게더(수빈, 연준, 범규, 태현, 휴닝카이)는 지난 29일 오후 5시부터 순차적으로 공식 트위터를 통해 핼러윈 개인 및 단체 티저 사진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최성봉, '거짓 암투병' 인정 "식당일 하며 후원금 갚을 것"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000797688</id>
-        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000797688"/>
-        <updated>2021-10-30T07:20:31.970Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 김선우기자]가수 최성봉이 거짓 암투병을 인정하고 사과했다. 최성봉은 최근 엑스포츠뉴스를 통해 사과문을 전달했다. 그는 “현재 암 투병 중이 아니며, 우울병 장애, 외상후 스트레스 장애를 제외한 갑상선]]></content>
     </entry>
 </feed>
