@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-30T04:27:40.841Z</updated>
+    <updated>2021-10-30T05:18:44.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에스파, 블랙핑크 꺾고 아이돌 브랜드 2위]]></title>
+        <id>https://entertain.v.daum.net/v/20211030140555864</id>
+        <link href="https://entertain.v.daum.net/v/20211030140555864"/>
+        <updated>2021-10-30T05:18:11.830Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 에스파, 블랙핑크 꺾고 아이돌 브랜드 2위 [DA:차트] 아이돌그룹 브랜드 2021년 10월 빅데이터 분석결과, 1위는 방탄소년단이었다. 이어 에스파와 블랙핑크가 2위와 3위에 이름을 올렸다. 한국기업평판연구소는 아이돌그룹 브랜드평판 빅데이터 분석을 위해 2021년 9월 30일부터 2021년 10월 30일까지 아이돌그룹 브랜드 빅데이터 772]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[블랙핑크 리사, 영국 오피셜 차트 역주행..4주째 인기 롱런]]></title>
         <id>https://entertain.v.daum.net/v/20211030124142022</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211030092606823"/>
         <updated>2021-10-30T01:01:28.139Z</updated>
         <content type="html"><![CDATA[[티브이데일리 이기은 기자] Mnet 오디션 예능프로그램 '걸스플래닛999: 소녀대전'(이하 '걸스플래닛999')을 걸 그룹 케플러(Kep1er) 데뷔가 확정된 가운데, 멤버들을 향한 팬들의 호불호가 갈리기 시작했다. 이에 속 시끄러운 팬덤 분열이 우려를 자아내는 상황. 지난 22일 케플러 데뷔가 확정됐다. TOP9 공동 매니지먼트를 맡은 웨이크원, 스윙엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙핑크, 유튜브 구독자수 1위]]></title>
-        <id>https://entertain.v.daum.net/v/20211030090200587</id>
-        <link href="https://entertain.v.daum.net/v/20211030090200587"/>
-        <updated>2021-10-30T01:01:28.140Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이윤희 기자] 블랙핑크(BLACKPINK)의 유튜브 억대 뷰 행진이 끊임없이 이어지고 있어 주목된다. 최신곡의 뮤직비디오 조회수 상승 추이는 더욱 가팔러졌고 기존 히트곡들 또한 그 인기가 여전해 이들에 대한 글로벌 팬들의 꾸준한 사랑을 확인 중이다. 30일 YG엔터테인먼트에 따르면 블랙핑크의 정규 1집 타이틀곡 'Lovesick Girls' 뮤]]></content>
     </entry>
 </feed>

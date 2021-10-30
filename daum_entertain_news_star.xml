@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-10-30T04:27:40.840Z</updated>
+    <updated>2021-10-30T05:18:44.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[My name is, 한소희]]></title>
+        <id>https://entertain.v.daum.net/v/20211030140830943</id>
+        <link href="https://entertain.v.daum.net/v/20211030140830943"/>
+        <updated>2021-10-30T05:18:17.026Z</updated>
+        <content type="html"><![CDATA[[Dispatch=김지호기자] "내가 잘 할 수 있을까?"&nbsp; 덜컥, 겁부터 났다. 부담감이 밀려들었다. 쉽게 결정할 수가 없었다. 그도 그럴 게, 언더커버는 생전 처음 해보는 장르다. 복수도 어려운데, 액션까지 해내야 했다. &nbsp; 그래서 치열하게 고민하고, 매 순간 스스로에게 물었다.&nbsp; "내가 지우라면…, 어떻게 했을까?" 배우 한소희가 넷플릭스 '마이 네임]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['선녀들' 김종민, 'D,P.' 촬영장 방문 "공익계 해병대 출신"]]></title>
         <id>https://entertain.v.daum.net/v/20211030132203345</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211030101207491"/>
         <updated>2021-10-30T02:04:14.775Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김종은 기자] 데뷔한 지 30년이 지난 배우 박희순에게는 소박한 희망이 있었다. 자신의 이름이 제대로 기억되길 원하는 것. 그 소망을 '마이 네임'을 통해 이루고 싶다는 그다. 15일 공개된 넷플릭스 오리지널 '마이 네임'(감독 김진민)은 아버지 동훈(윤경호)을 죽인 범인을 찾기 위해 조직에 들어간 지우(한소희)가 새로운 이름으로 경찰에 잠입]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[토니안 "어머니만 넷, 父처럼 될까 결혼 두려워"]]></title>
-        <id>https://entertain.v.daum.net/v/20211030100933429</id>
-        <link href="https://entertain.v.daum.net/v/20211030100933429"/>
-        <updated>2021-10-30T02:04:14.776Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] 토니안 “어머니만 넷, 父처럼 될까 결혼 두려워” (종합) [DA:리뷰] 가수 토니안이 가정사를 공개하며 결혼에 대한 두려움을 고백했다. 토니안은 29일 방송된 채널A ‘오은영의 금쪽 상담소’에서 “결혼해서 잘 살 수 있을지 두려움이 생긴다. 좋은 남편이자 좋은 아빠가 될 수 있을까 싶다”고 고민을 언급했다. 그는 “연애할 때 어떤 스타일이]]></content>
     </entry>
 </feed>
