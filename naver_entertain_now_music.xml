@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-30T20:21:12.733Z</updated>
+    <updated>2021-10-30T21:18:43.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BTS 정국, 남다른 미모와 요리 실력으로 여심 저격]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001366661</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001366661"/>
+        <updated>2021-10-30T21:18:26.700Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 방탄소년단(BTS) 정국의 요리 실력이 눈길을 끈다. 지난 29일에는 JTBC, 위버스에서 방송된 리얼리티 프로그램 'IN THE SOOP'(인더숲) BTS편 시즌2' 3화가 방송됐다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘인간 솜사탕’ 이찬원, ‘그댈 만나러 갑니다’ 음원 100만 스트리밍 돌파]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001366660</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001366660"/>
+        <updated>2021-10-30T21:18:26.701Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 이찬원의 '그댈 만나러 갑니다' 음원이 유튜브 스트리밍 100만 회를 돌파했다. 2021년 10월 7일 이찬원 유튜브(일명 '또튜브')에는 "그댈 만나러 갑니다"이라는 제목의 음원이 게재]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["왕자님~♥" 임영웅, 외할머니·어머니와 따뜻한 집밥 100만뷰]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003000874</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000505565"/>
         <updated>2021-10-30T07:20:31.954Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이하나 기자] AB6IX (에이비식스)가 일본 정식 데뷔를 확정 짓고 본격적인 일본 시장 공략에 나선다. 브랜뉴뮤직은 지난 10월 29일 AB6IX가 일본의 빅터 엔터테인먼트와 손잡고 일본 음악 시장에 전격]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙핑크 ‘Lovesick Girls’ MV 5억뷰·‘불장난’ 7억뷰 돌파‥억대뷰 행진]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000505563</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000505563"/>
-        <updated>2021-10-30T07:20:31.964Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 블랙핑크(BLACKPINK)의 뮤직비디오가 유튜브 억대 뷰 행진을 이어가고 있다. 10월 30일 YG엔터테인먼트에 따르면 블랙핑크의 정규 1집 타이틀곡 'Lovesick Girls' 뮤직비디오]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['음악중심' 세븐틴vs아이유vs에스파, 1위 후보]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003000819</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003000819"/>
-        <updated>2021-10-30T07:20:31.965Z</updated>
-        <content type="html"><![CDATA[세븐틴, 아이유, 에스파가 '쇼! 음악중심'에서 1위 자리를 두고 겨룬다. 30일 오후 방송된 MBC '쇼! 음악중심'에서는 세븐틴의 '락 위드 유 (Rock with you)', 아이유의 '스트로베리 문 (stra]]></content>
     </entry>
 </feed>

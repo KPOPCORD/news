@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-30T20:21:12.739Z</updated>
+    <updated>2021-10-30T21:18:43.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['인간 솜사탕' 이찬원, '그댈 만나러 갑니다' 음원 100만 스트리밍 돌파]]></title>
+        <id>https://entertain.v.daum.net/v/20211031060010504</id>
+        <link href="https://entertain.v.daum.net/v/20211031060010504"/>
+        <updated>2021-10-30T21:18:06.196Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 이찬원의 '그댈 만나러 갑니다' 음원이 유튜브 스트리밍 100만 회를 돌파했다. 2021년 10월 7일 이찬원 유튜브(일명 '또튜브')에는 "그댈 만나러 갑니다"이라는 제목의 음원이 게재되었다. 이는 이찬원이 생애 최초로 발매한 그의 미니 앨범 '..선물'의 수록곡으로 영상이 따로 없는 음원이다. 그럼에도 불구하고 이 곡은 팬들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크래비티, 美타이달 매거진 특필]]></title>
         <id>https://entertain.v.daum.net/v/20211030204948247</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211030121018806"/>
         <updated>2021-10-30T03:21:46.952Z</updated>
         <content type="html"><![CDATA[영화보다 더 영화 같았던 추억의 뮤직비디오를 소개하는 엑스포츠뉴스만의 코너입니다. 당대 최고의 히트곡들을 떠올리고, 인기 스타들의 풋풋하고 신선한 과거 모습을 함께 추억해보는 '명작뮤비'. &lt;편집자주&gt; (엑스포츠뉴스 김예나 기자) 죽을 만큼 미워하고 싸우며 치열하게 사랑했던 연인도 이별 앞에 서면 모든 감정이 무의미해지죠. 이제 더 이상 미워하지도, 걱]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다크비 "나랑 초코파이 먹을래?"..#공백기 #♥비비]]></title>
-        <id>https://entertain.v.daum.net/v/20211030121002803</id>
-        <link href="https://entertain.v.daum.net/v/20211030121002803"/>
-        <updated>2021-10-30T03:21:46.953Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) ([엑's 인터뷰②]에 이어)&nbsp;그룹 다크비(DKB)가 7개월 공백기를 기다려준 비비(팬덤명)에게 고마움을 전했다. 지난 28일 첫 번째 싱글 'Rollercoaster' 다크비. 신곡 발매에 앞서 엑스포츠뉴스는 서울시 강남구에 위치한 엑스포츠뉴스 사옥에서 다크비를 만나 인터뷰를 나눴다. 다음은 다크비 인터뷰 일문일답. Q. 7개]]></content>
     </entry>
 </feed>
