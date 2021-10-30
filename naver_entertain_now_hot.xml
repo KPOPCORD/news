@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-10-30T18:24:32.983Z</updated>
+    <updated>2021-10-30T19:17:15.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지진희, 마음에 지진 일어날 멋짐이 [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000941633</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000941633"/>
+        <updated>2021-10-30T19:17:08.018Z</updated>
+        <content type="html"><![CDATA[지진희, 마음에 지진 일어날 멋짐이 [화보] 배우 지진희의 패션화보가 마리끌레르 11월 호에서 공개됐다. 공개된 화보 속 지진희는 터틀넥 스웨터와, 블랙 테일러드 팬츠를 착용해 평소 스타일리쉬한 무드를 가감 없이 보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정호연 톱모델 클래스 어디 안 가네 [화보]]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000941632</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003795542"/>
         <updated>2021-10-30T13:24:09.282Z</updated>
         <content type="html"><![CDATA[[스포츠조선 조윤선 기자] 방송인 데프콘이 故김주혁의 사망 4주기를 맞아 묘소를 찾았다. 데프콘은 30일 자신의 인스타그램에 "다른 분들처럼 저도 어제 조용히 주혁이 형 산소에 다녀왔습니다. 아시죠? 우리 구탱이형]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤계상·고아성 변신 옳았다 (크라임 퍼즐) [TV북마크]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000941623</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000941623"/>
-        <updated>2021-10-30T13:24:09.291Z</updated>
-        <content type="html"><![CDATA[올레tv·seezn 오리지널 ‘크라임 퍼즐’(연출 김상훈 극본 최종길)이 시작부터 뜨겁고 강렬하게 휘몰아쳤다. ‘크라임 퍼즐’은 29일 호평 속에 첫 공개됐다. 목적을 안고 교도소에 들어간 한승민(윤계상 분)의 미스]]></content>
     </entry>
 </feed>
