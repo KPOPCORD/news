@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-10-30T17:23:38.472Z</updated>
+    <updated>2021-10-30T18:24:32.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정호연 톱모델 클래스 어디 안 가네 [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000941632</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000941632"/>
+        <updated>2021-10-30T18:24:24.566Z</updated>
+        <content type="html"><![CDATA[정호연 톱모델 클래스 어디 안 가네 [화보] 배우 정호연의 명품 매력인 담긴 주얼리 화보가 공개됐다. 공개된 화보 속 정호연은 톱모델 다운 완벽한 프로포션과 다채로운 포즈 그리고 연기로 다져진 생동감 넘치는 눈빛으로]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘서효림♥’ 정명호, 신개념 조이 재우기 (ft. 배기성·윤정수) (슈돌)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000941631</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000941631"/>
+        <updated>2021-10-30T18:24:24.569Z</updated>
+        <content type="html"><![CDATA[배기성과 윤정수 그리고 조이 아빠 정명호의 '아재토크'가 펼쳐진다. 31일 방송되는 KBS 2TV '슈퍼맨이 돌아왔다'(약칭 '슈돌') 405회는 '10월의 어느 멋진 날에'라는 부제로 시청자를 찾아온다. 그중 정명]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장민호, 김갑수와 ‘갓파더’ 여행샷 공개…훈훈한 투샷[M+★SNS]]]></title>
         <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001617942</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000941623"/>
         <updated>2021-10-30T13:24:09.291Z</updated>
         <content type="html"><![CDATA[올레tv·seezn 오리지널 ‘크라임 퍼즐’(연출 김상훈 극본 최종길)이 시작부터 뜨겁고 강렬하게 휘몰아쳤다. ‘크라임 퍼즐’은 29일 호평 속에 첫 공개됐다. 목적을 안고 교도소에 들어간 한승민(윤계상 분)의 미스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["A씨 고백 고사했더니..." 제이세라, '유명가수 J양 성폭행 협박 의혹' 부인→강경 대응 예고 [전문]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003795540</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003795540"/>
-        <updated>2021-10-30T12:31:02.009Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 조윤선 기자] 가수 제이세라가 성폭행 협박 의혹에 대해 부인하며 강경 대응을 예고했다. 제이세라는 30일 자신의 인스타그램에 "영문도 모르고 있다가 제가 성추행을 했다는 기사를 지인들이 알려줘서 손이 떨]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[찐건나블리X박하남매, '박하블리' 결성 (슈돌)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000941616</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000941616"/>
-        <updated>2021-10-30T12:31:02.009Z</updated>
-        <content type="html"><![CDATA[찐건나블리X박하남매, '박하블리' 결성 (슈돌) '슈퍼맨이 돌아왔다' 찐건나블리와 박하남매가 ‘노래가 좋아’에 도전한다. 10월 31일 방송되는 KBS 2TV '슈퍼맨이 돌아왔다'(이하 '슈돌') 405회는 '10월]]></content>
     </entry>
 </feed>
