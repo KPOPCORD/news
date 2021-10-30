@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-10-30T08:24:21.465Z</updated>
+    <updated>2021-10-30T09:21:05.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남태현x손담비 열애설→故김주혁 故육각수 도민호 나란히 별세]]></title>
+        <id>https://entertain.v.daum.net/v/20211030175909764</id>
+        <link href="https://entertain.v.daum.net/v/20211030175909764"/>
+        <updated>2021-10-30T09:20:37.058Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 4년 전 오늘, 연예계에는 유난히 사건사고가 많았다. 두 스타가 나란히 하늘의 별이 됐고 뜻밖의 열애설도 불거졌다. 2017년 10월 30일, 시끌벅적했던 당시로 오쎈 타임머신을 타고 떠나보자 #2017년 10월 30일&nbsp; 4년 전 오늘, 너무나도 기가막힌 일이 발생했다. 오후 4시 30분께 서울 삼성동의 한 도로에서 차량이 전복되는]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['신사와 아가씨' 지현우·이세희, 데이트 현장 포착? 박하나 '충격']]></title>
+        <id>https://entertain.v.daum.net/v/20211030175356702</id>
+        <link href="https://entertain.v.daum.net/v/20211030175356702"/>
+        <updated>2021-10-30T09:20:37.059Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 김민지 기자 = '신사와 아가씨' 지현우와 이세희 사이에 미묘한 감정과 분위기가 포착돼 이목을 집중시킨다. 30일 오후 방송되는 KBS 2TV 주말드라마 '신사와 아가씨'(연출 신창석, 극본 김사경) 11회에서는 함께 즐거운 시간을 보내는 지현우(이영국 역)와 이세희(박단단 역)의 모습이 그려진다. 지난 방송에서 박단단(이세희 분)은 잃]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['원더우먼' 이하늬X이상윤X김창완, '필사적 탈출' 현장 포착]]></title>
         <id>https://entertain.v.daum.net/v/20211030172207160</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211030150619721"/>
         <updated>2021-10-30T06:24:27.012Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 자타공인 대한민국을 대표하는 배우 박주미, 주석태, 차지연이 ‘2021 Asia Artist Awards‘에 참석을 확정했다. 박주미, 주석태, 차지연은 오는 12월 2일에 열리는 ‘2021 Asia Artist Awards’(2021 아시아아티스트어워즈, 이하 ’2021 AAA’)에 출격, 대중들에게 다시 한번 눈도장을 찍을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My name is, 한소희]]></title>
-        <id>https://entertain.v.daum.net/v/20211030140830943</id>
-        <link href="https://entertain.v.daum.net/v/20211030140830943"/>
-        <updated>2021-10-30T05:18:17.026Z</updated>
-        <content type="html"><![CDATA[[Dispatch=김지호기자] "내가 잘 할 수 있을까?"&nbsp; 덜컥, 겁부터 났다. 부담감이 밀려들었다. 쉽게 결정할 수가 없었다. 그도 그럴 게, 언더커버는 생전 처음 해보는 장르다. 복수도 어려운데, 액션까지 해내야 했다. &nbsp; 그래서 치열하게 고민하고, 매 순간 스스로에게 물었다.&nbsp; "내가 지우라면…, 어떻게 했을까?" 배우 한소희가 넷플릭스 '마이 네임]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['선녀들' 김종민, 'D,P.' 촬영장 방문 "공익계 해병대 출신"]]></title>
-        <id>https://entertain.v.daum.net/v/20211030132203345</id>
-        <link href="https://entertain.v.daum.net/v/20211030132203345"/>
-        <updated>2021-10-30T04:27:16.759Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 최혜진 기자] '선녀들' 전현무, 김종민, 유병재의 군대 토크가 펼쳐진다. 31일 방송되는 MBC 예능프로그램 '선을 넘는 녀석들 : 마스터-X'(이하 '선녀들')에서는 화제의 드라마 'D.P.' 촬영장을 찾는다. 드라마 'D.P.'를 통해 재조명된 군대 내 가혹 행위, 이와 함께 2014년 발생한 윤 일병 사망 사건 진실을 파헤치는 이야기를]]></content>
     </entry>
 </feed>
