@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-10-30T03:22:18.733Z</updated>
+    <updated>2021-10-30T04:27:40.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[블랙핑크 리사, 영국 오피셜 차트 역주행…4주째 인기 롱런 [공식입장]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001366349</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001366349"/>
+        <updated>2021-10-30T04:27:27.927Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 블랙핑크 리사의 솔로 앨범 수록곡 'MONEY'가 영국 오피셜 차트서 또 한 번 순위를 끌어올리며 인기 롱런 발판을 다졌다. 29일(현지시간) 발표된 영국 오피셜 차트 싱글 톱100(Off]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미스틱 첫 걸그룹' 빌리, 세계관 트레일러 공개…신비로운 분위기 눈길]]></title>
         <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000326191</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=016&amp;aid=0001906088"/>
         <updated>2021-10-30T02:04:26.794Z</updated>
         <content type="html"><![CDATA[[헤럴드경제=고승희 기자] 가수 임영웅이 유튜브 채널의 총 조회수가 10억 8000만 뷰를 돌파 했다 30일 유튜브에 따르면 임영웅의 공식 유튜브 채널 ‘임영웅’은 10월 29일 총 조회수 10억 8000만 뷰를 달]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위아이, 2022 시즌그리팅 티저 영상 공개..물오른 비주얼]]></title>
-        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003492595</id>
-        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003492595"/>
-        <updated>2021-10-30T02:04:26.796Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=정혜연 기자]그룹 위아이(WEi)가 2022 시즌그리팅을 선보인다. 위아이는 지난 29일 공식 유튜브 채널을 통해 ‘2022 WEi Season's Greetings (Time Capsule) (202]]></content>
     </entry>
 </feed>

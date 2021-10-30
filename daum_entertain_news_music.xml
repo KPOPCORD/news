@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-30T03:22:18.727Z</updated>
+    <updated>2021-10-30T04:27:40.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[블랙핑크 리사, 영국 오피셜 차트 역주행..4주째 인기 롱런]]></title>
+        <id>https://entertain.v.daum.net/v/20211030124142022</id>
+        <link href="https://entertain.v.daum.net/v/20211030124142022"/>
+        <updated>2021-10-30T04:27:12.265Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 블랙핑크 리사의 솔로 앨범 수록곡 'MONEY'가 영국 오피셜 차트서 또 한 번 순위를 끌어올리며 인기 롱런 발판을 다졌다. 29일(현지시간) 발표된 영국 오피셜 차트 싱글 톱100(Official Singles Chart Top 100)에 따르면 리사의 'MONEY'는 46위를 기록했다. 지난주 보다 8계단 뛰어올랐다. 'MO]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신현빈, 동성 연인과 헤어졌나..에피톤 프로젝트 '미움']]></title>
         <id>https://entertain.v.daum.net/v/20211030121018806</id>
@@ -90,7 +97,7 @@
         <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) 댄스 크루 서바이벌 '스트릿 우먼 파이터(이하 '스우파')'이 Mnet의 자존심을 세웠다.&nbsp; 지난 8월 첫 선을 보인 '스우파'는 국내 최초 여성 스트릿 댄서들의 경연을 다룬 서바이벌 예능프로그램이다. 그동안 K팝을 더욱 화려하게 뒷받쳐주던 댄서들이 메인 무대로 뛰어들어 당당하게 센터 경쟁을 벌였다. 여성 댄스 크루 8팀이 국]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['걸스플래닛999 데뷔' 케플러, 팬덤 가르기 우려]]></title>
+        <title type="html"><![CDATA['걸스플래닛999 데뷔' 케플러, 팬덤 분리 현상]]></title>
         <id>https://entertain.v.daum.net/v/20211030092606823</id>
         <link href="https://entertain.v.daum.net/v/20211030092606823"/>
         <updated>2021-10-30T01:01:28.139Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211030090200587"/>
         <updated>2021-10-30T01:01:28.140Z</updated>
         <content type="html"><![CDATA[[TV리포트=이윤희 기자] 블랙핑크(BLACKPINK)의 유튜브 억대 뷰 행진이 끊임없이 이어지고 있어 주목된다. 최신곡의 뮤직비디오 조회수 상승 추이는 더욱 가팔러졌고 기존 히트곡들 또한 그 인기가 여전해 이들에 대한 글로벌 팬들의 꾸준한 사랑을 확인 중이다. 30일 YG엔터테인먼트에 따르면 블랙핑크의 정규 1집 타이틀곡 'Lovesick Girls' 뮤]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AB6IX 일본 정식 데뷔 확정]]></title>
-        <id>https://entertain.v.daum.net/v/20211030085838490</id>
-        <link href="https://entertain.v.daum.net/v/20211030085838490"/>
-        <updated>2021-10-30T01:01:28.140Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] AB6IX 일본 정식 데뷔 확정 [공식] AB6IX (에이비식스)가 일본 정식 데뷔를 확정 짓고 본격적인 일본 시장 공략에 나선다. 브랜뉴뮤직은 오늘(29일), AB6IX가 일본의 빅터 엔터테인먼트와 손잡고 일본 음악 시장에 전격 데뷔한다고 밝혔다. 매 앨범마다 멤버들이 직접 프로듀싱, 작사, 작곡은 물론 퍼포먼스 디렉팅 등 앨범 제작 과정]]></content>
     </entry>
 </feed>
