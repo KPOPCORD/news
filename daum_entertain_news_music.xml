@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-31T13:24:00.350Z</updated>
+    <updated>2021-10-31T14:19:20.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['집콘 LIVE' 쌈디 "누가 집에 오는 거 별로 안 좋아해"]]></title>
+        <id>https://entertain.v.daum.net/v/20211031224920745</id>
+        <link href="https://entertain.v.daum.net/v/20211031224920745"/>
+        <updated>2021-10-31T14:18:45.384Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 박상후 기자] '집콘 LIVE'에서 래퍼 사이먼 도미닉(쌈디)이 솔직한 심경을 밝혔다. 31일 밤 방송된 tvN 예능프로그램 '집콘 LIVE'에서는 사이먼 도미닉이 두 번째 호스트로 등장했다. 이날 그레이는 "실제 공연에 가보면 안다. 사이먼 도미닉만 할 수 있는 무대를 펼친다. 대체 불가 아티스트다"라고 칭찬했다. 로꼬도 "무대 하는 걸]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제이세라, 성추행 협박 폭로자에 재차 반박 "곧 시시비비 가려질 것"]]></title>
         <id>https://entertain.v.daum.net/v/20211031205510549</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211031141218158"/>
         <updated>2021-10-31T05:18:49.705Z</updated>
         <content type="html"><![CDATA[[스포츠조선 조지영 기자] 그룹 우주소녀(WJSN) 연정이 '리본 프로젝트'의 열 번째 주자로 참여한다. 31일 오후 6시 각종 온라인 음원사이트를 통해 연정과 써니사이드 MJ가 컬래버레이션한 음원 '수호천사'가 공개된다. '수호천사'는 지난 2007년 발매된 지아의 곡으로, 이별을 견디고 있는 남녀의 감정선을 애틋한 가삿말과 서정적 멜로디로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이승윤 '누군가를 사랑하는 사람다운 말' 타이틀 포스터 공개..컴백 기대감↑]]></title>
-        <id>https://entertain.v.daum.net/v/20211031120324155</id>
-        <link href="https://entertain.v.daum.net/v/20211031120324155"/>
-        <updated>2021-10-31T03:21:16.897Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 가수 이승윤이 ‘누군가를 사랑하는 사람다운 말’ 타이틀 포스터를 공개하며 컴백에 대한 기대감을 높였다. 이승윤 소속사 쇼플레이엔터테인먼트는 10월 30일 공식 SNS 채널을 통해 오는 11월 24일 발매 예정인 이승윤의 정규 앨범 ‘폐허가 된다 해도’의 첫 번째 타이틀 포스터를 공개했다. 공개된 타이틀 포스터에는 이승윤의 영문 이름]]></content>
     </entry>
 </feed>
