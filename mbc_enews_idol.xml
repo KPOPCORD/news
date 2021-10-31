@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 03:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 04:27:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아스트로 MJ, 트로트 가수로 변신...영탁과 첫 호흡 '계세요' 콘셉트 포토 공개]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329445</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329445</guid>
+            <pubDate>Sun, 31 Oct 2021 04:26:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329445">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/31/pL6j2QW7VIJl637712804608729830.jpg" alt="아스트로 MJ, 트로트 가수로 변신...영탁과 첫 호흡 '계세요' 콘셉트 포토 공개">        <div class="text-box">            <p class="summary">아스트로 MJ, 트로트 가수로 변신...영탁과 첫 호흡 '계세요' 콘셉트 포토 공개</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/31/pL6j2QW7VIJl637712804608729830.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트라이비, '음악중심'서 할로윈 기념 미니언즈로 변신 '시선 집중']]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/329436</link>
@@ -86,14 +94,6 @@
             <pubDate>Sat, 30 Oct 2021 02:04:04 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329378">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/30/GZDZhXsi0rrq637711864960580655.jpg" alt="B1A4 산들, ‘산테일’ 등극… KCM, 청계산 파노라마 뷰에 “유야호~” (홈즈)">        <div class="text-box">            <p class="summary">B1A4 산들, ‘산테일’ 등극… KCM, 청계산 파노라마 뷰에 “유야호~” (홈즈)</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/30/GZDZhXsi0rrq637711864960580655.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미주 ‘헤이마마’ VS 이은지 ‘멍청이’ 장기자랑 배틀! 막내들 제대로 붙었다 (놀면)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329377</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329377</guid>
-            <pubDate>Sat, 30 Oct 2021 01:01:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329377">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/30/woJTySGl9D3y637711829303741721.jpg" alt="미주 ‘헤이마마’ VS 이은지 ‘멍청이’ 장기자랑 배틀! 막내들 제대로 붙었다 (놀면)">        <div class="text-box">            <p class="summary">미주 ‘헤이마마’ VS 이은지 ‘멍청이’ 장기자랑 배틀! 막내들 제대로 붙었다 (놀면)</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/30/woJTySGl9D3y637711829303741721.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
