@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-31T18:24:09.337Z</updated>
+    <updated>2021-10-31T19:16:55.894Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[브레이브걸스 유나, 국산 유제품 소비촉진 'Thank 유 캠페인' 11월 홍보대사]]></title>
+        <id>https://entertain.v.daum.net/v/20211101040006447</id>
+        <link href="https://entertain.v.daum.net/v/20211101040006447"/>
+        <updated>2021-10-31T19:16:22.541Z</updated>
+        <content type="html"><![CDATA[브레이브걸스 유나(사진=한국유가공협회)[이데일리 스타in 윤기백 기자] 그룹 브레이브걸스 유나가 국산 유제품 소비촉진 및 소외된 이웃에게 사랑을 전하는 전도사로 나선다. 1일 한국유가공협회(회장 이창범)에 따르면, 유나는 ‘Thank 유 캠페인’의 11월 홍보대사를 맡았다. ‘유제품으로 나누는 사랑’이란 슬로건으로 진행하는 ‘Thank 유 캠페인’은 국산]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅 '사랑은 늘 도망가', 멜론 주간 OST 차트 1위 등극]]></title>
         <id>https://entertain.v.daum.net/v/20211031233002971</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211031141958332"/>
         <updated>2021-10-31T06:24:26.206Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 박미애 기자] 신인 오메가엑스(OMEGA X)가 핼러윈을 맞아 특별한 퍼포먼스를 선보였다. 오메가엑스(재한, 휘찬, 세빈, 한겸, 태동, XEN, 제현, KEVIN, 정훈, 혁, 예찬)는 31일 0시 공식 SNS 및 유튜브 채널을 통해 첫 번째 싱글 ‘WHAT‘S GOIN’ ON (왓츠 고잉 온)’ 핼러윈 버전 퍼포먼스 영상을 공개했]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스테이씨, 마녀 변신]]></title>
-        <id>https://entertain.v.daum.net/v/20211031141941329</id>
-        <link href="https://entertain.v.daum.net/v/20211031141941329"/>
-        <updated>2021-10-31T06:24:26.211Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 박미애 기자] 그룹 스테이씨(STAYC)가 핼러윈 콘셉트로 색다른 재미를 안겼다. 스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)는 31일 공식 유튜브 채널을 통해 핼러윈을 기념하는 영상을 공개했다. 공개된 영상에서 스테이씨는 좀비부터 빨간 망토, 백설공주, 마법 소녀까지 6인 6색의 개성이 묻어나는 캐릭터로 완벽하게 변신해 큰]]></content>
     </entry>
 </feed>
