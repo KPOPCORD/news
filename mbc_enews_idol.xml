@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 01:06:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 02:33:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트라이비, '음악중심'서 할로윈 기념 미니언즈로 변신 '시선 집중']]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329436</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329436</guid>
+            <pubDate>Sun, 31 Oct 2021 02:33:16 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329436">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/31/5fDcyiPllzCT637712723466620807.jpg" alt="트라이비, '음악중심'서 할로윈 기념 미니언즈로 변신 '시선 집중'">        <div class="text-box">            <p class="summary">트라이비, '음악중심'서 할로윈 기념 미니언즈로 변신 '시선 집중'</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/31/5fDcyiPllzCT637712723466620807.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['음악중심' 박지훈, 신곡 ‘시리어스’로 섹시 카리스마 발산]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/329408</link>
@@ -86,14 +94,6 @@
             <pubDate>Sat, 30 Oct 2021 01:01:22 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329377">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/30/woJTySGl9D3y637711829303741721.jpg" alt="미주 ‘헤이마마’ VS 이은지 ‘멍청이’ 장기자랑 배틀! 막내들 제대로 붙었다 (놀면)">        <div class="text-box">            <p class="summary">미주 ‘헤이마마’ VS 이은지 ‘멍청이’ 장기자랑 배틀! 막내들 제대로 붙었다 (놀면)</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/30/woJTySGl9D3y637711829303741721.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘나 혼자 산다’ 2PM 준호 친누나, 미담 공개 “동생은 어릴 때부터 스윗했다”]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329374</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329374</guid>
-            <pubDate>Fri, 29 Oct 2021 16:31:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329374">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/30/KKhsFHjSmb59637711528089144233.jpg" alt="‘나 혼자 산다’ 2PM 준호 친누나, 미담 공개 “동생은 어릴 때부터 스윗했다”">        <div class="text-box">            <p class="summary">‘나 혼자 산다’ 2PM 준호 친누나, 미담 공개 “동생은 어릴 때부터 스윗했다”</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/30/KKhsFHjSmb59637711528089144233.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
