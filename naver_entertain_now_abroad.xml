@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-10-31T06:25:03.011Z</updated>
+    <updated>2021-10-31T07:19:51.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[브루스 윌리스, 인성 폭로 등장 "식당 팁 안주고 인터뷰 9일 끌어" [Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004501848</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004501848"/>
+        <updated>2021-10-31T07:19:50.455Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 할리우드 배우 브루스 윌리스에 대한 한 기자의 폭로가 화제다. 지난 1996년 브루스 윌리스가 인터뷰를 위해 9일을 기다리게 했으며 인터뷰를 진행하러 간 식당에서 종업원에게 팁을 주지 않았다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['총기사고' 알렉 볼드윈 26세 연하 아내 "외상 후 스트레스 우려" [Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004501707</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000827051"/>
         <updated>2021-10-29T12:33:32.969Z</updated>
         <content type="html"><![CDATA[29일 오후 경남 창원NC파크에서 '2021 KBO 리그' 삼성 라이온즈와 NC 다이노스 경기가 열렸다. 경기에 앞서 에버글로우 이런이 그라운드에서 화려한 축하공연을 하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시현-이런 '야구팬들 앞에서 축하공연' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000827048</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000827048"/>
-        <updated>2021-10-29T11:18:03.727Z</updated>
-        <content type="html"><![CDATA[29일 오후 경남 창원NC파크에서 '2021 KBO 리그' 삼성 라이온즈와 NC 다이노스 경기가 열렸다. 경기에 앞서 에버글로우 시현과 이런이 그라운드에서 화려한 축하공연을 하고 있다.]]></content>
     </entry>
 </feed>
