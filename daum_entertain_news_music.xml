@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-31T14:19:20.019Z</updated>
+    <updated>2021-10-31T15:22:29.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임영웅 '사랑은 늘 도망가', 멜론 주간 OST 차트 1위 등극]]></title>
+        <id>https://entertain.v.daum.net/v/20211031233002971</id>
+        <link href="https://entertain.v.daum.net/v/20211031233002971"/>
+        <updated>2021-10-31T15:21:58.159Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 임영웅이 멜론 주간 OST 차트에서 존재감을 뽐내고 있다. 최근 멜론차트에 따르면, 임영웅의 ‘사랑은 늘 도망가’는 멜론 주간 OST 차트 1위에 올랐다. 이러한 기록은 그의 남다른 인기를 실감케 한다. 임영웅이 부른 ‘사랑은 늘 도망가’는 감성 발라더 이문세의 노래로, 작곡가 한밤(midnight)이 새롭게 편곡했다. 이 노래]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['집콘 LIVE' 쌈디 "자주 마주친 이동휘, 전생에 부부였을 것"]]></title>
+        <id>https://entertain.v.daum.net/v/20211031232920965</id>
+        <link href="https://entertain.v.daum.net/v/20211031232920965"/>
+        <updated>2021-10-31T15:21:58.160Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 박상후 기자] '집콘 LIVE'에서 쌈디가 이동휘와의 추억을 떠올렸다. 31일 밤 방송된 tvN 예능프로그램 '집콘 LIVE'에서는 사이먼 도미닉(쌈디)이 두 번째 호스트로 등장했다. 이날 MSG워너비 정상동기 멤버 김정민, 이상이, 이동휘가 쌈디의 집을 찾았다. 쌈디는 "인연이 굉장히 소중하다고 생각한다. 그런 인연이 만들어졌다는 게 쉽지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['집콘 LIVE' 쌈디 "누가 집에 오는 거 별로 안 좋아해"]]></title>
         <id>https://entertain.v.daum.net/v/20211031224920745</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211031141941329"/>
         <updated>2021-10-31T06:24:26.211Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 박미애 기자] 그룹 스테이씨(STAYC)가 핼러윈 콘셉트로 색다른 재미를 안겼다. 스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)는 31일 공식 유튜브 채널을 통해 핼러윈을 기념하는 영상을 공개했다. 공개된 영상에서 스테이씨는 좀비부터 빨간 망토, 백설공주, 마법 소녀까지 6인 6색의 개성이 묻어나는 캐릭터로 완벽하게 변신해 큰]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세븐틴 'Rock with you' 스페셜 영상 공개..치명적 매력의 007 에디션]]></title>
-        <id>https://entertain.v.daum.net/v/20211031141323188</id>
-        <link href="https://entertain.v.daum.net/v/20211031141323188"/>
-        <updated>2021-10-31T05:18:49.700Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 그룹 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)이 신곡 ‘Rock with you’ 스페셜 영상을 깜짝 공개했다. 소속사 플레디스 엔터테인먼트는 10월 31일 세븐틴 공식 유튜브 및 SNS 채널을 통해 미니 9집 ‘Attacca’(아타카)의 타이틀곡 ‘Rock with]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우주소녀 연정, 오늘 '수호천사' 리메이크 발매..감성 보이스 예고]]></title>
-        <id>https://entertain.v.daum.net/v/20211031141218158</id>
-        <link href="https://entertain.v.daum.net/v/20211031141218158"/>
-        <updated>2021-10-31T05:18:49.705Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 조지영 기자] 그룹 우주소녀(WJSN) 연정이 '리본 프로젝트'의 열 번째 주자로 참여한다. 31일 오후 6시 각종 온라인 음원사이트를 통해 연정과 써니사이드 MJ가 컬래버레이션한 음원 '수호천사'가 공개된다. '수호천사'는 지난 2007년 발매된 지아의 곡으로, 이별을 견디고 있는 남녀의 감정선을 애틋한 가삿말과 서정적 멜로디로]]></content>
     </entry>
 </feed>
