@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-31T11:17:41.219Z</updated>
+    <updated>2021-10-31T12:31:36.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제이세라, 성추행 협박 폭로자에 재차 반박 "곧 시시비비 가려질 것"]]></title>
+        <id>https://entertain.v.daum.net/v/20211031205510549</id>
+        <link href="https://entertain.v.daum.net/v/20211031205510549"/>
+        <updated>2021-10-31T12:31:03.214Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 박상후 기자] 가수 제이세라가 성추행 협박 의혹에 대한 입장을 다시 한번 밝혔다. 제이세라는 31일 자신의 인스타그램에 "편집한 녹음 파일을 구구절절 설명과 함께 올리셨더라. 녹음본 편집 이유를 너무나 잘 알지만 길게 설명할 필요 없이 명확한 절차를 위해 녹음 파일의 원본을 증거로 보낸 상황이다"라고 말문을 열었다. 이어 "당당하시면 예고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[선미, 첫 온라인 콘서트 'GOOD GIRL GONE MAD' 성료..무한 매력 발산]]></title>
         <id>https://entertain.v.daum.net/v/20211031193038757</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211031120324155"/>
         <updated>2021-10-31T03:21:16.897Z</updated>
         <content type="html"><![CDATA[[뉴스엔 김명미 기자] 가수 이승윤이 ‘누군가를 사랑하는 사람다운 말’ 타이틀 포스터를 공개하며 컴백에 대한 기대감을 높였다. 이승윤 소속사 쇼플레이엔터테인먼트는 10월 30일 공식 SNS 채널을 통해 오는 11월 24일 발매 예정인 이승윤의 정규 앨범 ‘폐허가 된다 해도’의 첫 번째 타이틀 포스터를 공개했다. 공개된 타이틀 포스터에는 이승윤의 영문 이름]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[선미, 첫 온라인 콘서트 성료..XR 무대부터 밴드 세션까지]]></title>
-        <id>https://entertain.v.daum.net/v/20211031114254701</id>
-        <link href="https://entertain.v.daum.net/v/20211031114254701"/>
-        <updated>2021-10-31T03:21:16.898Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] ‘솔로퀸’ 선미의 무한 매력이 돋보이는 첫 온라인 콘서트 ‘GOOD GIRL GONE MAD’가 성황리에 끝났다. 10월 30일 오후 2시부터 시작된 선미의 온라인 콘서트는 ‘환호, 비난, 빛, 그림자, 상청, 치유, 비상’이라는 7개의 키워드를 중심으로 구성됐다. 선미의 퍼포먼스가 돋보이는 ‘주인공’, ‘가시나’, ‘꼬리’, ‘가]]></content>
     </entry>
 </feed>
