@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-31T20:21:33.481Z</updated>
+    <updated>2021-10-31T21:18:17.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[씨엘 "YG→홀로서기, 항상 룰 깨고 싶어해..어렵지만 배워가는중"]]></title>
+        <id>https://entertain.v.daum.net/v/20211101061206816</id>
+        <link href="https://entertain.v.daum.net/v/20211101061206816"/>
+        <updated>2021-10-31T21:17:48.360Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김한길 기자] 매 활동마다 차별화된 콘셉트로 독보적 존재감을 보여왔던 가수 씨엘(CL)이 무려 데뷔 13년 만에 첫 정규 앨범을 발표했다. '원조 걸크러시'라는 수식어답게 당당하면서도 카리스마 넘치는 음악으로 자신의 정체성을 진하게 녹여냈다. 지난 20일 발매된 첫 정규 앨범 '알파(ALPHA)'에 대해 씨엘은 "13년 만에 첫 솔로 정규]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[생일 맞은 이찬원, 스타 브랜드평판 TOP6 등극]]></title>
+        <id>https://entertain.v.daum.net/v/20211101055001412</id>
+        <link href="https://entertain.v.daum.net/v/20211101055001412"/>
+        <updated>2021-10-31T21:17:48.362Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 스타 브랜드평판 2021년 10월 빅데이터 분석 결과, 이찬원이 TOP 6에 이름을 올렸다. 이찬원은 8월 해당 부문 평판에서 10위를 차지했다가, 9월 5위로 반등한 데 이어 10월 6위를 차지하며 두 달 연속 TOP 6 이내의 높은 순위를 유지하고 있다. 더구나 순위와는 별도로 브랜드평판 지수 자체로는 오히려 상승한 수치를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[브레이브걸스 유나, 국산 유제품 소비촉진 'Thank 유 캠페인' 11월 홍보대사]]></title>
         <id>https://entertain.v.daum.net/v/20211101040006447</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211031142007334"/>
         <updated>2021-10-31T06:24:26.201Z</updated>
         <content type="html"><![CDATA[[티브이데일리 가요팀] 10월 다섯째 주(10월 25일~31일)에는 가수 에일리, 박지훈, 케이시, 전소미 등 솔로 아티스트들의 컴백이 줄을 이었다. 또한 그룹 NCT 127, 이펙스, 이달의 소녀도 신보를 발매해 눈길을 사로잡았다. ◆ NCT 127 - '페이보릿(Favorite)' (발매일 10월 25일) 정규 3집 리패키지 음반 '페이보릿'에는 동]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크래비티, 9인9색 디즈니 왕자]]></title>
-        <id>https://entertain.v.daum.net/v/20211031142006333</id>
-        <link href="https://entertain.v.daum.net/v/20211031142006333"/>
-        <updated>2021-10-31T06:24:26.204Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 박미애 기자] 그룹 크래비티(CRAVITY)가 핼러윈을 기념해 특급 웃음을 선물했다. 크래비티는 지난 30일 공식 유튜브 채널을 통해 ‘2021 크래비티의 해피 핼러윈’ 콘텐츠 영상을 공개했다. 공개된 영상 속 크래비티는 핼러윈을 맞아 다양한 코스튬을 입고 라이어 게임을 진행했다. 크래비티는 벌칙 의상인 야수만을 남겨둔 채 피터팬과 알]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뱀파이어 된 오메가엑스]]></title>
-        <id>https://entertain.v.daum.net/v/20211031141958332</id>
-        <link href="https://entertain.v.daum.net/v/20211031141958332"/>
-        <updated>2021-10-31T06:24:26.206Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 박미애 기자] 신인 오메가엑스(OMEGA X)가 핼러윈을 맞아 특별한 퍼포먼스를 선보였다. 오메가엑스(재한, 휘찬, 세빈, 한겸, 태동, XEN, 제현, KEVIN, 정훈, 혁, 예찬)는 31일 0시 공식 SNS 및 유튜브 채널을 통해 첫 번째 싱글 ‘WHAT‘S GOIN’ ON (왓츠 고잉 온)’ 핼러윈 버전 퍼포먼스 영상을 공개했]]></content>
     </entry>
 </feed>
