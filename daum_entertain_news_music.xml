@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-10-31T04:27:01.978Z</updated>
+    <updated>2021-10-31T05:19:25.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세븐틴 'Rock with you' 스페셜 영상 공개..치명적 매력의 007 에디션]]></title>
+        <id>https://entertain.v.daum.net/v/20211031141323188</id>
+        <link href="https://entertain.v.daum.net/v/20211031141323188"/>
+        <updated>2021-10-31T05:18:49.700Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 그룹 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)이 신곡 ‘Rock with you’ 스페셜 영상을 깜짝 공개했다. 소속사 플레디스 엔터테인먼트는 10월 31일 세븐틴 공식 유튜브 및 SNS 채널을 통해 미니 9집 ‘Attacca’(아타카)의 타이틀곡 ‘Rock with]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우주소녀 연정, 오늘 '수호천사' 리메이크 발매..감성 보이스 예고]]></title>
+        <id>https://entertain.v.daum.net/v/20211031141218158</id>
+        <link href="https://entertain.v.daum.net/v/20211031141218158"/>
+        <updated>2021-10-31T05:18:49.705Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 조지영 기자] 그룹 우주소녀(WJSN) 연정이 '리본 프로젝트'의 열 번째 주자로 참여한다. 31일 오후 6시 각종 온라인 음원사이트를 통해 연정과 써니사이드 MJ가 컬래버레이션한 음원 '수호천사'가 공개된다. '수호천사'는 지난 2007년 발매된 지아의 곡으로, 이별을 견디고 있는 남녀의 감정선을 애틋한 가삿말과 서정적 멜로디로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이승윤 '누군가를 사랑하는 사람다운 말' 타이틀 포스터 공개..컴백 기대감↑]]></title>
         <id>https://entertain.v.daum.net/v/20211031120324155</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211031092931373"/>
         <updated>2021-10-31T01:06:09.763Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] 걸그룹 라붐(LABOUM) 솔빈과 진예가 고혹의 정점을 찍었다. 지난 30일과 31일 밤 12시 라붐(소연, 진예, 해인, 솔빈) 공식 SNS와 유튜브 채널을 통해 미니 3집 ‘BLOSSOM’(블라썸) 솔빈과 진예의 개인 티저 영상이 공개됐다. 공개된 영상 속 솔빈과 진예는 청순하면서 자유분방한 모습부터 도발적이면서 부드러운 카리스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단·세븐틴, 음반 발매 첫 주 판매량 역대 '톱10' 장악]]></title>
-        <id>https://entertain.v.daum.net/v/20211031092519308</id>
-        <link href="https://entertain.v.daum.net/v/20211031092519308"/>
-        <updated>2021-10-31T01:06:09.763Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] 그룹 방탄소년단과 세븐틴이 국내 음반 발매 첫 주 판매량 역대 ‘톱 10’을 장악, 하이브 레이블즈 아티스트들의 막강 파워를 각인시키고 있다. 30일 한터차트 집계에 따르면, 세븐틴이 지난 22일 내놓은 미니 9집 ‘Attacca’는 발매 닷새 만에 115만 장 이상 팔리는 등 일주일(10월 22일~28일) 동안 총 133만 5,8]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[픽시, 마녀의 유혹에 빠져든 요정들..후속곡 '비위치드' MV 깜짝 공개]]></title>
-        <id>https://entertain.v.daum.net/v/20211031091830205</id>
-        <link href="https://entertain.v.daum.net/v/20211031091830205"/>
-        <updated>2021-10-31T01:06:09.764Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 4세대 아이돌 픽시(PIXY)가 후속곡 '비위치드(Bewitched)' 뮤직비디오를 공개했다. 픽시(엘라, 샛별, 수아, 디아, 로라, 다정)는 오늘(31일) 0시 공식 SNS와 유튜브 채널을 통해 두 번째 미니앨범 ‘TEMPTATION’의 후속곡 '비위치드(Bewitched)' 영문 버전 뮤직비디오를 선보였다. 공개된 영상은 마녀]]></content>
     </entry>
 </feed>
