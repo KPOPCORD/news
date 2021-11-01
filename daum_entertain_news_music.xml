@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-01T15:22:31.820Z</updated>
+    <updated>2021-11-01T16:30:22.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장원영·유진 그룹명 '아이브' 확정 스타쉽 공개..전세계 팬 '흥분']]></title>
+        <id>https://entertain.v.daum.net/v/20211102002142030</id>
+        <link href="https://entertain.v.daum.net/v/20211102002142030"/>
+        <updated>2021-11-01T16:29:52.962Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김수진 기자] 장원영(왼쪽) 안유진(오른쪽) / 사진=스타쉽엔터테인먼트, 스타뉴스 김휘선 기자 '아이돌 명가' 스타쉽엔터테인먼트가 '아이브' (IVE) 로고 필름을 공개해 전세계 팬들의 폭발적인 관심을 불러일으키고 있다. 스타쉽엔터테인먼트는 1일 오후 11시 공식 SNS를 통해 '아이브' 로고 필름과 '아이브' 공식 SNS 계정를 함께 공개됐다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["청량→임팩트"..더보이즈, 한계를 논하지 말라]]></title>
         <id>https://entertain.v.daum.net/v/20211102000035804</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211101185031113"/>
         <updated>2021-11-01T10:23:12.240Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 그룹 더보이즈(THE BOYZ)가 더비(팬덤명)을 향한 남다른 애정을 드러냈다. 더보이즈 싱글 3집 'MAVERICK'(매버릭) 발매 기념 온라인 미디어 쇼케이스가 1일 오후 진행됐다. 신보 '매버릭'에는 동명의 타이틀곡 '매버릭'을 포함해 'Hypnotized'(힙노타이즈), 'Russian Roulette'(러시안 룰렛)까지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["또 앨범 낼 수 있을 정도"..임창정, 17집에 기대하는 성과]]></title>
-        <id>https://entertain.v.daum.net/v/20211101185015108</id>
-        <link href="https://entertain.v.daum.net/v/20211101185015108"/>
-        <updated>2021-11-01T10:23:12.241Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 가수 임창정이 "음악을 하는 모든 것들의 전부"라며 팬들을 향한 애정을 드러냈다. 임창정의 정규 17집 발매 기념 온·오프라인 미디어 쇼케이스가 1일 오후 개최됐다. 이번 17집에는 타이틀곡 '별거 없던 그 하루로'와 후속 타이틀곡 '나는 트로트가 싫어요'를 포함해 총 10곡의 신곡이 담겼다. 임창정은 '전 곡의 타이틀화'라는]]></content>
     </entry>
 </feed>

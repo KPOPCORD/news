@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-01T15:22:31.823Z</updated>
+    <updated>2021-11-01T16:30:22.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“골프에 진심” 지진희·조세호·구본길·손새은 공식포스터 (골벤져스)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000942019</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000942019"/>
+        <updated>2021-11-01T16:30:15.421Z</updated>
+        <content type="html"><![CDATA[tvN '골벤져스'가 공식 포스터를 공개했다. '골벤져스'는 골프에 진심인 4인이 갈수록 강력해지는 아마추어 선수들과 대결을 거쳐, 최강의 프로 선수들과 라운드에 도전하는 고품격 골프 예능이다. 배우 지진희, 방송인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["첫사랑 시작" 김윤지, 훈남 남편·결혼식 첫 공개→김원희, 문재완에 다이어트 비법 전수 ('동상이몽2') [종합]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003796476</id>
+        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003796476"/>
+        <updated>2021-11-01T16:30:15.422Z</updated>
+        <content type="html"><![CDATA[[스포츠조선닷컴 정안지 기자]'동상이몽2' 김윤지가 훈남 남편을 처음으로 공개했다. 1일 방송된 SBS '동상이몽 시즌2 - 너는 내 운명' 방송 말미에는 새롭게 합류한 이윤지와 최우성 부부의 모습이 예고됐다. 이날]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 조정민, "새 앨범·드라마 준비중…꿈은 음악치료사"②]]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000113866</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=032&amp;aid=0003107479"/>
         <updated>2021-11-01T13:26:59.193Z</updated>
         <content type="html"><![CDATA[[경향신문] 축산물 품질평가사의 밥벌이 일상 ■아무튼 출근(MBC 오후 9시) = 축산물 품질평가사 이유리씨가 출연해 밥벌이 일상을 공개한다. 이유리씨는 경매가 시작되기 전까지 축산물 등급 판정을 마치기 위해 회사에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021년 11월 2일 [케이블·위성 하이라이트]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=032&amp;aid=0003107477</id>
-        <link href="https://entertain.naver.com/now/read?oid=032&amp;aid=0003107477"/>
-        <updated>2021-11-01T13:26:59.195Z</updated>
-        <content type="html"><![CDATA[[경향신문] ■ 영화 ■ 싱크홀(캐치온1 오후 9시) = 평범한 가장 동원(김성균)은 11년간의 노력 끝에 내 집 마련에 성공한다. 동원은 보금자리 마련을 기념하며 직장 동료들을 집들이에 초대한다. 하지만 행복한 단]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['돌싱맘' 김현숙, 11kg 감량 이후 미모 최전성기 [TEN★]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000508867</id>
-        <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000508867"/>
-        <updated>2021-11-01T12:34:34.254Z</updated>
-        <content type="html"><![CDATA[[텐아시아=노규민 기자] 방송인 김현숙이 11kg 감량 이후 물오른 미모로 시선을 강탈했다. 김현숙은 1일 자신의 인스타그램에 "프로필 사진 백 만년만에 다시 찍음"이라는 글과 함께 여러장의 사진을 게재했다. 사진]]></content>
     </entry>
 </feed>
