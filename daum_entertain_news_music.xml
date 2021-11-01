@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-01T20:23:19.629Z</updated>
+    <updated>2021-11-01T21:18:33.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이찬원 팬클럽, 찬또배기 생일 기념 '사랑의 달팽이'에 600만 원 기부]]></title>
+        <id>https://entertain.v.daum.net/v/20211102060013239</id>
+        <link href="https://entertain.v.daum.net/v/20211102060013239"/>
+        <updated>2021-11-01T21:17:57.647Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 트로트 가수 이찬원 팬클럽 '찬스'의 지속적인 기부가 눈길을 끈다. 11월 1일 이찬원 팬클럽 '찬스'는 이찬원의 생일을 기념하여 '사랑의 달팽이'에 600만 원을 기부했다. 이는 이찬원의 26번째 생일을 축하하고, 그의 미니 앨범 '..선물'을 통해 많은 사람들이 희망과 위로를 받기를 소망하는 마음을 담아 이찬원의 팬클럽 '찬]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장원영·유진 그룹명 '아이브' 확정 스타쉽 공개..전세계 팬 '흥분']]></title>
         <id>https://entertain.v.daum.net/v/20211102002142030</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211101185236158"/>
         <updated>2021-11-01T10:23:12.239Z</updated>
         <content type="html"><![CDATA[러블리즈. 왼쪽부터 진, 서지수, 유지애, 류수정, 케이, 정예인, 베이비소울, 미주(사진=이데일리DB)[이데일리 스타in 김현식 기자] 걸그룹 러블리즈(베이비소울, 유지애, 서지수, 이미주, 케이, 진, 류수정, 정예인) 멤버들이 새 출발을 앞둔 소감을 전했다. 소속사 울림엔터테인먼트는 1일 러블리즈 멤버 8명 중 베이비소울만 재계약을 체결했다고 알렸다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더보이즈, '힙' 한 스푼 더한 '매버릭'.."목표=♥더비 만족"]]></title>
-        <id>https://entertain.v.daum.net/v/20211101185031113</id>
-        <link href="https://entertain.v.daum.net/v/20211101185031113"/>
-        <updated>2021-11-01T10:23:12.240Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 그룹 더보이즈(THE BOYZ)가 더비(팬덤명)을 향한 남다른 애정을 드러냈다. 더보이즈 싱글 3집 'MAVERICK'(매버릭) 발매 기념 온라인 미디어 쇼케이스가 1일 오후 진행됐다. 신보 '매버릭'에는 동명의 타이틀곡 '매버릭'을 포함해 'Hypnotized'(힙노타이즈), 'Russian Roulette'(러시안 룰렛)까지]]></content>
     </entry>
 </feed>
