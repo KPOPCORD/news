@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 02:35:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 03:22:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레게 대부 대디양키, T1419 극찬 "멋져요"]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329509</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329509</guid>
+            <pubDate>Mon, 01 Nov 2021 03:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329509">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/01/fea2d812-02d8-4123-a3d6-fbcefd92e044.jpg" alt="레게 대부 대디양키, T1419 극찬 " 멋져요""="">        <div class="text-box">            <p class="summary">레게 대부 대디양키, T1419 극찬 "멋져요"</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/01/fea2d812-02d8-4123-a3d6-fbcefd92e044.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크 리사, '오징어 게임' 영희 완벽 변신…진짜 인형같네 [인스타]]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/329486</link>
@@ -85,14 +93,6 @@
             <pubDate>Sat, 30 Oct 2021 08:23:41 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329403">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/30/5NzePnYaFNTq637712080566085393.jpg" alt="‘놀면’ 유재석-미주-하하, 프리스타일 ‘Y’ 커버 “200만 넘을 거야!”">        <div class="text-box">            <p class="summary">‘놀면’ 유재석-미주-하하, 프리스타일 ‘Y’ 커버 “200만 넘을 거야!”</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/30/5NzePnYaFNTq637712080566085393.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[투모로우바이투게더, 핼러윈 맞아 고스트헌터 변신 '올블랙 카리스마']]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329397</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329397</guid>
-            <pubDate>Sat, 30 Oct 2021 07:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329397">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/30/r9a6dNLnCZiR637712046365777207.jpg" alt="투모로우바이투게더, 핼러윈 맞아 고스트헌터 변신 '올블랙 카리스마'">        <div class="text-box">            <p class="summary">투모로우바이투게더, 핼러윈 맞아 고스트헌터 변신 '올블랙 카리스마'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/30/r9a6dNLnCZiR637712046365777207.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
