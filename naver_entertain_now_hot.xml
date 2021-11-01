@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-01T16:30:22.295Z</updated>
+    <updated>2021-11-01T17:28:27.194Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[티파니 영 “30대 되면서 기쁠 때마다 술 즐겨” [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000942020</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000942020"/>
+        <updated>2021-11-01T17:28:20.061Z</updated>
+        <content type="html"><![CDATA[가수 티파니 영이 패션지 얼루어 코리아 11월호에 참여했다. 티파니 영은 이번 화보에서 여유롭게 샴페인을 즐기며, 패셔너블하고 럭셔리한 모습을 소화했다. 샴페인을 터뜨리며 지금 누구보다 자신을 사랑하고 즐기는 활기찬]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“골프에 진심” 지진희·조세호·구본길·손새은 공식포스터 (골벤져스)]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000942019</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=032&amp;aid=0003107480"/>
         <updated>2021-11-01T13:26:59.192Z</updated>
         <content type="html"><![CDATA[[경향신문] ‘한국의 미’란 무엇인가. 돌아온 KBS 1TV &lt;역사스페셜&gt; 세 번째 에피소드는 이 오래된 질문의 전제 자체를 부정한다. 한국의 미를 찾아 하나로 정의하려는 건 일종의 집착 또는 강박이라는 것이다. 슬]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021년 11월 2일 [TV하이라이트]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=032&amp;aid=0003107479</id>
-        <link href="https://entertain.naver.com/now/read?oid=032&amp;aid=0003107479"/>
-        <updated>2021-11-01T13:26:59.193Z</updated>
-        <content type="html"><![CDATA[[경향신문] 축산물 품질평가사의 밥벌이 일상 ■아무튼 출근(MBC 오후 9시) = 축산물 품질평가사 이유리씨가 출연해 밥벌이 일상을 공개한다. 이유리씨는 경매가 시작되기 전까지 축산물 등급 판정을 마치기 위해 회사에]]></content>
     </entry>
 </feed>
