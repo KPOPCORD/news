@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 23:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 01:08:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[황치열의 애절한 감성 '그대는 행복하길']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=169155</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=169155</guid>
+            <pubDate>Mon, 01 Nov 2021 01:06:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=169155">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211101100203_7144298f592c7ca93316734c172f4e49.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=169155">황치열의 애절한 감성 '그대는 행복하길'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211101100203_7144298f592c7ca93316734c172f4e49.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세븐틴 ‘Attacca’ 활동 마무리]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=169075</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=168160">PITTA 응원한 포레스텔라의 훈훈한 우정!</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211027104539_59a33d8b66e3d3495bd7743c3ccb268f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[투모로우바이투게더, 결연한 의지 담긴 'Frost']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=168150</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=168150</guid>
-            <pubDate>Wed, 27 Oct 2021 01:02:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=168150">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211027091148_2478e9b7ec78450b8cb7fe6dd4f650ca.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=168150">투모로우바이투게더, 결연한 의지 담긴 'Frost'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211027091148_2478e9b7ec78450b8cb7fe6dd4f650ca.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
