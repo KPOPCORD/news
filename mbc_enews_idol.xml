@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 14:20:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 15:22:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[러블리즈 미주·지수·케이·지애·진·예인·수정 뿔뿔이…베이비소울은? [전문]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329565</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329565</guid>
+            <pubDate>Mon, 01 Nov 2021 15:21:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329565">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/01/Q3RMoOlzztmv637714055215892893.jpg" alt="러블리즈 미주·지수·케이·지애·진·예인·수정 뿔뿔이…베이비소울은? [전문]">        <div class="text-box">            <p class="summary">러블리즈 미주·지수·케이·지애·진·예인·수정 뿔뿔이…베이비소울은? [전문]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/01/Q3RMoOlzztmv637714055215892893.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["비투비 육성재·임현식, 미복귀 전역" [공식입장]]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/329559</link>
@@ -86,14 +94,6 @@
             <pubDate>Sun, 31 Oct 2021 04:26:25 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329445">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/31/pL6j2QW7VIJl637712804608729830.jpg" alt="아스트로 MJ, 트로트 가수로 변신...영탁과 첫 호흡 '계세요' 콘셉트 포토 공개">        <div class="text-box">            <p class="summary">아스트로 MJ, 트로트 가수로 변신...영탁과 첫 호흡 '계세요' 콘셉트 포토 공개</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/31/pL6j2QW7VIJl637712804608729830.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트라이비, '음악중심'서 할로윈 기념 미니언즈로 변신 '시선 집중']]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329436</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329436</guid>
-            <pubDate>Sun, 31 Oct 2021 02:33:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329436">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/31/5fDcyiPllzCT637712723466620807.jpg" alt="트라이비, '음악중심'서 할로윈 기념 미니언즈로 변신 '시선 집중'">        <div class="text-box">            <p class="summary">트라이비, '음악중심'서 할로윈 기념 미니언즈로 변신 '시선 집중'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/31/5fDcyiPllzCT637712723466620807.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
