@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-01T18:25:14.643Z</updated>
+    <updated>2021-11-01T19:18:24.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘눈을 맞춰 술잔을 채워’ … 박소은, 여덟 번째 온스타인웨이 콘서트에서 만나요]]></title>
+        <id>https://entertain.naver.com/now/read?oid=396&amp;aid=0000595752</id>
+        <link href="https://entertain.naver.com/now/read?oid=396&amp;aid=0000595752"/>
+        <updated>2021-11-01T19:18:18.138Z</updated>
+        <content type="html"><![CDATA[인디신의 떠오르는 루키, 박소은이 오는 5일 온·오프라인 콘서트 온스타인웨이를 통해 팬들을 만난다. 이번 공연은 (주)아티스츠카드가 주최·주관하고 온·오프라인으로 동시에 진행되는 생중계 콘서트다. 행사는 5일 오후]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송윤아 화려함+여유, 비주얼 美쳤다 (쇼윈도: 여왕의 집)]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000942021</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000941977"/>
         <updated>2021-11-01T13:26:59.190Z</updated>
         <content type="html"><![CDATA[여성 신체를 불법 촬영한 의혹을 받던 특전사 출신 유튜버 P모 씨가 검찰에 넘겨졌다. 부산경찰청 사이버수사대는 1일 여성 신체를 불법 촬영해 유포한 혐의(성폭력범죄의 처벌 등에 관한 특례법 위반)를 받는 P 씨를 검]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[핫펠트 "남자에 신뢰 없어…父도 나를 이용했구나 싶어"('연애도사')]]></title>
-        <id>https://entertain.naver.com/now/read?oid=009&amp;aid=0004872922</id>
-        <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0004872922"/>
-        <updated>2021-11-01T13:26:59.191Z</updated>
-        <content type="html"><![CDATA[가수 핫펠트(본명 박예은)가 아버지에 대한 신뢰가 무너지며 남자에 대해 불신을 갖게 됐다고 밝혔다. 1일 방송된 SBS플러스 '연애도사' 시즌2에는 핫펠트(예은)가 출연했다. 이날 핫펠트는 "'연애도사'에는 신동 오]]></content>
     </entry>
 </feed>
