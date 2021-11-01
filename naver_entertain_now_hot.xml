@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-01T17:28:27.194Z</updated>
+    <updated>2021-11-01T18:25:14.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송윤아 화려함+여유, 비주얼 美쳤다 (쇼윈도: 여왕의 집)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000942021</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000942021"/>
+        <updated>2021-11-01T18:25:06.109Z</updated>
+        <content type="html"><![CDATA[송윤아가 돌아온다. 29일 첫 방송되는 채널A 10주년특별기획 월화드라마 '쇼윈도: 여왕의 집'(극본 한보경 박혜영 연출 강솔 박대희)은 남편의 여자인 줄 모르고 불륜을 응원한 한 여자의 이야기를 그리는 미스터리 치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[티파니 영 “30대 되면서 기쁠 때마다 술 즐겨” [화보]]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000942020</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0004872922"/>
         <updated>2021-11-01T13:26:59.191Z</updated>
         <content type="html"><![CDATA[가수 핫펠트(본명 박예은)가 아버지에 대한 신뢰가 무너지며 남자에 대해 불신을 갖게 됐다고 밝혔다. 1일 방송된 SBS플러스 '연애도사' 시즌2에는 핫펠트(예은)가 출연했다. 이날 핫펠트는 "'연애도사'에는 신동 오]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘한’과 ‘곡선’이 과연 ‘한국의 미’일까]]></title>
-        <id>https://entertain.naver.com/now/read?oid=032&amp;aid=0003107480</id>
-        <link href="https://entertain.naver.com/now/read?oid=032&amp;aid=0003107480"/>
-        <updated>2021-11-01T13:26:59.192Z</updated>
-        <content type="html"><![CDATA[[경향신문] ‘한국의 미’란 무엇인가. 돌아온 KBS 1TV &lt;역사스페셜&gt; 세 번째 에피소드는 이 오래된 질문의 전제 자체를 부정한다. 한국의 미를 찾아 하나로 정의하려는 건 일종의 집착 또는 강박이라는 것이다. 슬]]></content>
     </entry>
 </feed>
