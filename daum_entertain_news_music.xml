@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-01T12:34:42.042Z</updated>
+    <updated>2021-11-01T13:27:07.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[러블리즈, 7년 만에 해체..베이비소울→이미주 손편지 "새 시작 응원 부탁"]]></title>
+        <id>https://entertain.v.daum.net/v/20211101215009856</id>
+        <link href="https://entertain.v.daum.net/v/20211101215009856"/>
+        <updated>2021-11-01T13:26:32.136Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 그룹 러블리즈가 7년 만에 각자의 길을 걷는다. 멤버들은 손편지를 통해 "새로운 시작을 응원해달라"는 당부의 글을 남겼다.&nbsp; 1일 러블리즈의 소속사 울림엔터테인먼트는 "당사와 그룹 러블리즈 멤버들의 전속 계약이 2021년 11월 16일부로 만료될 예정이다. 베이비소울을 제외한 러블리즈 멤버 7인(유지애, 서지수, 이미주, Ke]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[러블리즈, 7년만 각자의 길 "너무 슬퍼하지 않았으면"]]></title>
+        <id>https://entertain.v.daum.net/v/20211101214431741</id>
+        <link href="https://entertain.v.daum.net/v/20211101214431741"/>
+        <updated>2021-11-01T13:26:32.137Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 정하은기자]그룹 러블리즈가 각자의 길을 걷기로 했다. 리더 베이비소울을 제외한 멤버 7인이 소속사를 떠나기로 하면서 러블리즈는 사실상 해체 수순을 밟게 됐다. 1일 소속사 울림엔터테인먼트 측은 “당사와 러블리즈 멤버들의 전속 계약이 이달 16일 만료된다”며 “오랜 기간 심도 있는 논의와 숙고를 거쳐 유지애, 서지수, 이미]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅, 패딩 광고가 찰떡으로 어울리는 스타]]></title>
         <id>https://entertain.v.daum.net/v/20211101210006761</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211101182144517"/>
         <updated>2021-11-01T09:22:10.135Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이하나 기자] 베이비소울을 제외한 러블리즈 멤버 7인(유지애, 서지수, 이미주, 케이, 진, 류수정, 정예인)이 전속 계약 만료로 소속사 울림엔터테인먼트를 떠난다. 11월 1일 울림엔터테인먼트 측은 공식 보도자료를 통해 “러블리즈 7인이 16일 전속 계약이 만료된다”라며 “오랜 기간 심도 있는 논의와 숙고를 거쳐 러블리즈 멤버 7인은 새로운 자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전소미 "첫 정규앨범 'XOXO'로 오랜 꿈 이뤄"]]></title>
-        <id>https://entertain.v.daum.net/v/20211101181701404</id>
-        <link href="https://entertain.v.daum.net/v/20211101181701404"/>
-        <updated>2021-11-01T09:22:10.137Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 가수 전소미가 강렬한 매력으로 돌아왔다. 전소미는 지난 29일 오후 6시 각종 음원 사이트를 통해 첫 번째 정규 앨범 'XOXO'를 발매하고 약 3개월 만의 초고속 컴백했다. 'XOXO'에는 동명의 타이틀곡 'XOXO'를 비롯해 '덤덤(DUMB DUMB)', '돈트 렛 미 고(Don't Let Me Go) (Feat. 기리보이)']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러블리즈 해체..울림 "16일 계약만료, 각자 새출발"]]></title>
-        <id>https://entertain.v.daum.net/v/20211101181531375</id>
-        <link href="https://entertain.v.daum.net/v/20211101181531375"/>
-        <updated>2021-11-01T09:22:10.138Z</updated>
-        <content type="html"><![CDATA[[동아닷컴]  걸그룹 러블리즈가 사실상 해체한다. 울림엔터테인먼트는 1일 공식입장문을 통해 “당사와 러블리즈 멤버들의 전속 계약은 이달 16일부로 만료될 예정이다. 오랜 기간 심도 있는 논의와 숙고를 거쳐 러블리즈 멤버 7인(유지애, 서지수, 이미주, Kei, JIN, 류수정, 정예인)은 새로운 자리에서 또 다른 시작을 준비하기로 결정했으며, 당사는 멤버]]></content>
     </entry>
 </feed>
