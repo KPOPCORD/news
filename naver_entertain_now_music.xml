@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-01T10:23:43.341Z</updated>
+    <updated>2021-11-01T11:17:58.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['비투비' 육성재·임현식, 14일 미복귀 전역]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010805702</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010805702"/>
+        <updated>2021-11-01T11:17:45.024Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]안소윤 인턴 기자 = 그룹 '비투비' 임현식, 육성재가 이달 전역한다. 1일 소속사 큐브 엔터테인먼트는 "2020년 육군 현역으로 입대한 임현식과 육성재는 코로나19 확산 방지를 위한 국방의 지침에 따]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[POP초점]"새로운 시작, 응원 부탁" 러블리즈, 7년만 해체‥K팝 역사 속으로]]></title>
+        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003493369</id>
+        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003493369"/>
+        <updated>2021-11-01T11:17:45.025Z</updated>
+        <content type="html"><![CDATA[[헤럴드POP=김나율기자]그룹 러블리즈가 7년 징크스를 깨지 못하고 K팝 역사 속으로 사라진다. 1일 러블리즈의 소속사 울림엔터테인먼트 측은 러블리즈의 해체 소식을 전했다. 러블리즈는 오는 16일 전속 계약이 만료된]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[러블리즈 7인 소속사 떠난다…사실상 해체(종합)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010805700</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010805700"/>
+        <updated>2021-11-01T11:17:45.025Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 리더 베이비소울만 재계약 [서울=뉴시스] 김지은 기자 = 그룹 '러블리즈'가 각자의 길을 걷는다. 리더 베이비소울을 제외한 멤버 7인이 소속사를 떠나기로 하면서 러블리즈는 사실상 해체 수순을 밟는다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2am, 7년 만에 완전체 컴백 “박진영X방시혁 지원사격에 감동”[일문일답]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001198487</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001198487"/>
+        <updated>2021-11-01T11:17:45.028Z</updated>
+        <content type="html"><![CDATA[2am이 감성 발라드 앨범을 들고 7년 만에 완전체로 돌아왔다. 2am(조권·이창민·임슬옹·정진운)은 오늘(1일) 각종 음원 사이트를 통해 새 미니앨범 'Ballad 21 F/W'(발라드 21 가을/겨울)를 발표했다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[러블리즈, 울림과 계약 만료…"각자의 길 걷는다"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010805666</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010805666"/>
+        <updated>2021-11-01T11:17:45.028Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 리더 베이비소울만 재계약 [서울=뉴시스]안소윤 인턴 기자 = 그룹 '러블리즈'가 각자의 길을 걷는다. 리더 베이비소울을 제외한 멤버 7인이 소속사를 떠나기로 하면서 러블리즈는 사실상 해체 수순을 밟는다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더보이즈, '힙' 한 스푼 더한 '매버릭'…"목표=♥더비 만족" [종합]]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001367412</id>
@@ -144,40 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001367396"/>
         <updated>2021-11-01T09:22:26.918Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 그룹 더보이즈(THE BOYZ)가 자신감이 담긴 신곡 '매버릭'으로 컴백했다. 더보이즈는 1일 오후 6시 세 번째 싱글 'MAVERICK' 을 발매하고, 동명의 타이틀곡 'MAVERICK']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“황정민·하지원 열연” 임창정과 브리티시팝의 만남 ‘별거 없던 그 하루로’[들어보고서]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000506347</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000506347"/>
-        <updated>2021-11-01T09:22:26.919Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 매년 가을, 진한 감성으로 가슴을 울리는 발라드를 선보였던 임창정이 돌아왔다. 임창정은 11월 1일 오후 6시 각종 음원사이트를 통해 정규 17집 ‘별거 없던 그 하루로’ 전곡 음원과 타이틀곡]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["제발 이러지마"…2am, 가슴 절절 이별의 아픔 '잘 가라니' [쥬크박스]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001367395</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001367395"/>
-        <updated>2021-11-01T09:22:26.920Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) 보컬 그룹 2am을 탄생시킨 박진영이 또 하나의 2am표 발라드를 이뤄냈다. 2am 새 미니 앨범 '발라드 21 가을/겨울(Ballad 21 F/W)'이 1일 오후 6시 각종 온라인 음원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“기다리길 잘했어” 2am, 방시혁·박진영과 증명한 진가 ‘Ballad 21 F/W’[들어보고서]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000506346</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000506346"/>
-        <updated>2021-11-01T09:22:26.921Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 그룹 2am(조권·이창민·임슬옹·정진운)이 7년 만에 완전체로 돌아왔다. 2am은 11월 1일 오후 6시 각종 음원사이트에 새 미니앨범 ‘Ballad 21 F/W’(발라드 21 가을/겨울) 전]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["가까이 있어서 몰랐어"…2am, 방시혁 풀어낸 이별 하모니 [쥬크박스]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001367394</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001367394"/>
-        <updated>2021-11-01T09:22:26.921Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) 보컬 그룹 2am이 수많은 히트곡을 탄생시킨 프로듀서 방시혁과 다시 한 번 만났다. 2am 새 미니 앨범 '발라드 21 가을/겨울(Ballad 21 F/W)'이 1일 오후 6시 각종 온라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팝's신곡]"가까이 있어서 몰랐어"..2AM, 방시혁·박진영 지원 속 7년만 귀환]]></title>
-        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003493336</id>
-        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003493336"/>
-        <updated>2021-11-01T09:22:26.923Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=김지혜 기자] 그룹 2AM이 7년 만에 가요계로 돌아왔다. 1일 2AM(정진웅, 임슬옹, 조권, 이창민)은 신보 'Ballad 21 F/W'를 발매하고 완전체로 컴백했다. 이번 신보는 '만능 발라드돌']]></content>
     </entry>
 </feed>
