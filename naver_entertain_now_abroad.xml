@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-01T04:27:39.066Z</updated>
+    <updated>2021-11-01T05:19:52.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아만다 사이프리드 “코로나19 감염 사실 숨겼던 이유는~”]]></title>
+        <id>https://entertain.naver.com/now/read?oid=022&amp;aid=0003633663</id>
+        <link href="https://entertain.naver.com/now/read?oid=022&amp;aid=0003633663"/>
+        <updated>2021-11-01T05:19:52.041Z</updated>
+        <content type="html"><![CDATA[배우 아만다 사이프리드(사진)가 신종 코로나바이러스 감염증(코로나19)에 감염됐던 사실을 뒤늦게 고백했다. 사이프리드는 최근 방송된 미국 토크쇼 ‘레이트 나이트(Late Night)’에 출연해 지난 3월14일 아카데]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미란다 커, 승무원 변신…"억만장자가 반할 만"]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010804550</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000797694"/>
         <updated>2021-10-30T07:20:45.250Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 박효실기자] 팝스타 마돈나(63)가 요절한 은막의 스타 마릴린 먼로의 사망 당시 모습을 재현한 듯한 화보를 공개해 논란이 되고 있다. 미국의 연예매체 페이지식스는 29일(현지시간) V매거진에 실린 마]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[키아누 리브스 '존윅4' 스턴트팀에 개당 1천만원↑ 명품시계 선물]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000505551</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000505551"/>
-        <updated>2021-10-30T06:24:54.810Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 할리우드 배우 키아누 리브스(Keanu Reeves)가 '존 윅4' 스턴트팀에 명품 시계를 선물했다. 스턴트 배우 제레미 마리나스(Jeremy Marinas)는 최근 개인 SNS 스토리를 통해]]></content>
     </entry>
 </feed>
