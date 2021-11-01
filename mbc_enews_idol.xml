@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 08:25:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 09:22:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["비투비 육성재·임현식, 미복귀 전역" [공식입장]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329559</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329559</guid>
+            <pubDate>Mon, 01 Nov 2021 09:22:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329559">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/01/8e14a4d6-318c-4c3c-81b6-59c86285f747.jpg" alt="" 비투비="" 육성재·임현식,="" 미복귀="" 전역"="" [공식입장]"="">        <div class="text-box">            <p class="summary">"비투비 육성재·임현식, 미복귀 전역" [공식입장]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/01/8e14a4d6-318c-4c3c-81b6-59c86285f747.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[포토] 최예나, 쉿~ '피의 게임' 보러와~]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/329544</link>
@@ -86,14 +94,6 @@
             <pubDate>Sun, 31 Oct 2021 02:33:16 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329436">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/31/5fDcyiPllzCT637712723466620807.jpg" alt="트라이비, '음악중심'서 할로윈 기념 미니언즈로 변신 '시선 집중'">        <div class="text-box">            <p class="summary">트라이비, '음악중심'서 할로윈 기념 미니언즈로 변신 '시선 집중'</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/31/5fDcyiPllzCT637712723466620807.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['음악중심' 박지훈, 신곡 ‘시리어스’로 섹시 카리스마 발산]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329408</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329408</guid>
-            <pubDate>Sat, 30 Oct 2021 08:23:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329408">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/30/ahfI53hmkNQm637712098137736735.jpg" alt="'음악중심' 박지훈, 신곡 ‘시리어스’로 섹시 카리스마 발산">        <div class="text-box">            <p class="summary">'음악중심' 박지훈, 신곡 ‘시리어스’로 섹시 카리스마 발산</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/10/30/ahfI53hmkNQm637712098137736735.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
