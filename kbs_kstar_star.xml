@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 22:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 23:21:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[곽시양 열일행보, "드라마 - 예능 - 오리지널"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=169377</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=169377</guid>
+            <pubDate>Mon, 01 Nov 2021 23:20:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=169377">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211102080057_eefc63fb379cb3a52c2fed365203621d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=169377">곽시양 열일행보, "드라마 - 예능 - 오리지널"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211102080057_eefc63fb379cb3a52c2fed365203621d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빅톤 강승식, 뮤지컬 '사랑했어요' 성료 소감 "앨리스 감사합니다"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=169252</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=167013">바리스타 옹성우의 매력 '커피 한잔 할까요?'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211021084614_a7e77e20475c3dbf10380a944dfee84f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오TV '그림자미녀' 라이징 스타 총출동]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=167078</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=167078</guid>
-            <pubDate>Sat, 23 Oct 2021 01:07:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=167078">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211021131328_ee6e2f1115bc232cf6180fae329e648a.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=167078">카카오TV '그림자미녀' 라이징 스타 총출동</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211021131328_ee6e2f1115bc232cf6180fae329e648a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

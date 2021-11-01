@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 22:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 23:21:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 'Dynamite', RIAA  트리플 플래티넘]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=169372</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=169372</guid>
+            <pubDate>Mon, 01 Nov 2021 23:20:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=169372">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211102075516_d42dd086b56ee6ae3ead11f448176d76.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=169372">방탄소년단 'Dynamite', RIAA  트리플 플래티넘 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211102075516_d42dd086b56ee6ae3ead11f448176d76.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[거침없는 세븐틴의 질주, 한터 차트 2주 연속 1위!]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=169218</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=168407">민혁 '보그싶쇼' 마침표 "애정이 남달랐던 프로그램"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211028141342_29cdd38e51b36a629896ec9cb4d620d2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뮤비가 좋다] 투모로우바이투게더, 매직 아일랜드의 소년들]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=168349</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=168349</guid>
-            <pubDate>Thu, 28 Oct 2021 02:31:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=168349">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211028100435_2491a225f7ad4b991da5604e6f5ea840.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=168349">[뮤비가 좋다] 투모로우바이투게더, 매직 아일랜드의 소년들</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211028100435_2491a225f7ad4b991da5604e6f5ea840.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
