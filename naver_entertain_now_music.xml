@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-01T13:27:07.207Z</updated>
+    <updated>2021-11-01T14:20:01.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전소미 'XOXO', 퍼포먼스+가창력 맥시멈…한걸음 더 성장('뮤플리')[종합]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004502618</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004502618"/>
+        <updated>2021-11-01T14:19:48.366Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 가수 전소미가 자신만의 음악적 색깔을 첫 정규 앨범에 녹여내 사람들 앞에 꺼내보였다. 1일 오후 유튜브 채널 ‘뮤플리’를 통해 전소미의 신곡 무대가 첫 공개돼 눈길을 끌었다. 앞서 지난달 2]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[데뷔 7년 러블리즈, 소속사와 계약 만료…손편지로 해체 심경 전해]]></title>
+        <id>https://entertain.naver.com/now/read?oid=021&amp;aid=0002490876</id>
+        <link href="https://entertain.naver.com/now/read?oid=021&amp;aid=0002490876"/>
+        <updated>2021-11-01T14:19:48.366Z</updated>
+        <content type="html"><![CDATA[-미주 “러블리즈는 각자의 새로운 길을 걷지만 영원히 하나라고 생각해요” -케이 “러블리너스 진심으로 감사드립니다” -베이비소울만 재계약 올해로 데뷔 7년 된 걸그룹 러블리즈가 소속사 울림엔터테인먼트와 결별한다. 울]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전소미, 美 뉴욕 타임스퀘어 대형 전광판 장식]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003001333</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000506350"/>
         <updated>2021-11-01T09:22:26.894Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이하나 기자] 베이비소울을 제외한 러블리즈 멤버 7인(유지애, 서지수, 이미주, 케이, 진, 류수정, 정예인)이 전속 계약 만료로 소속사 울림엔터테인먼트를 떠난다. 11월 1일 울림엔터테인먼트 측은 공식 보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전소미 “첫 정규앨범 ‘XOXO’로 오랜 꿈 이뤄”[일문일답]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001198482</id>
-        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001198482"/>
-        <updated>2021-11-01T09:22:26.896Z</updated>
-        <content type="html"><![CDATA[가수 전소미가 강렬한 매력으로 돌아왔다. 전소미는 지난 29일 오후 6시 각종 음원 사이트를 통해 첫 번째 정규 앨범 'XOXO'를 발매하고 약 3개월 만의 초고속 컴백했다. 'XOXO'에는 동명의 타이틀곡 'XOX]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비투비 임현식-육성재, 14일 동반 미복귀 전역[전문]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000326579</id>
-        <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000326579"/>
-        <updated>2021-11-01T09:22:26.897Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=장진리 기자] 그룹 비투비 멤버 임현식, 육성재가 미복귀 전역한다. 큐브엔터테인먼트는 1일 "임현식, 육성재가 코로나19 확산 방지를 위한 국방부의 지침에 따라 마지막 휴가 이후 부대 복귀 없이 오는]]></content>
     </entry>
 </feed>
