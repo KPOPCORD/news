@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 01:06:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 02:34:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄 6억뷰 진기록…'버터' 뮤직비디오 저력]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329601</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329601</guid>
+            <pubDate>Tue, 02 Nov 2021 02:33:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329601">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/02/465a0a37-fe2e-4551-85d5-e0df6ed06efa.jpg" alt="방탄 6억뷰 진기록…'버터' 뮤직비디오 저력">        <div class="text-box">            <p class="summary">방탄 6억뷰 진기록…'버터' 뮤직비디오 저력</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/02/465a0a37-fe2e-4551-85d5-e0df6ed06efa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['신세계로부터' 이승기X은지원X김희철X조보아X박나래X카이 출연, 메인 포스터 공개]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/329584</link>
@@ -86,14 +94,6 @@
             <pubDate>Mon, 01 Nov 2021 03:21:56 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329509">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/01/fea2d812-02d8-4123-a3d6-fbcefd92e044.jpg" alt="레게 대부 대디양키, T1419 극찬 " 멋져요""="">        <div class="text-box">            <p class="summary">레게 대부 대디양키, T1419 극찬 "멋져요"</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/01/fea2d812-02d8-4123-a3d6-fbcefd92e044.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 리사, '오징어 게임' 영희 완벽 변신…진짜 인형같네 [인스타]]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329486</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329486</guid>
-            <pubDate>Mon, 01 Nov 2021 01:07:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329486">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/01/03f16b78-8517-4b61-9595-106811584dcb.jpg" alt="블랙핑크 리사, '오징어 게임' 영희 완벽 변신…진짜 인형같네 [인스타]">        <div class="text-box">            <p class="summary">블랙핑크 리사, '오징어 게임' 영희 완벽 변신…진짜 인형같네 [인스타]</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/01/03f16b78-8517-4b61-9595-106811584dcb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

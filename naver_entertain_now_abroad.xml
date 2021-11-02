@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-02T01:06:40.658Z</updated>
+    <updated>2021-11-02T02:34:25.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[레오나르도 디카프리오, 핼러윈 파티서 100세 노인으로 분장 “아무도 못 알아봐”[해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003551401</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003551401"/>
+        <updated>2021-11-02T02:34:25.345Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 레오나르도 디카프리오가 핼러윈을 맞아 100세 노인으로 분장했다. 연예매체 페이지식스는 1일(현지시간) 레오나르도 디카프리오가 캘리포니아 비버리힐스 파티에서 100세 노인으]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[브리트니 스피어스, 선넘은 할로윈 분장? 피범벅 시신 사진 충격 [Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004502767</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005691955"/>
         <updated>2021-10-31T03:21:47.395Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 안태현 기자 = 할리우드 배우 마고 로비(31)가 남편과 함께 유아용품 쇼핑에 나선 모습이 포착됐다. 최근 미국 연예매체 스플래시닷컴은 영국 런던에서 남편과 데이트에 나선 마고 로비의 모습을 포착한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['불륜 허용' 윌 스미스 "극단적 선택 생각한 적 있다" 눈물 [Oh!llywood]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004501621</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004501621"/>
-        <updated>2021-10-31T02:33:57.198Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 영화 '맨 인 블랙', '나는 전설이다' 등으로 유명한 할리우드 배우 윌 스미스(53)가 극단적 생각을 한 적이 있다고 고백했다. 20주안에 20파운드(약 9kg) 감량에 나선 윌 스미스는]]></content>
     </entry>
 </feed>
