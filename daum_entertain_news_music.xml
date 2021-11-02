@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-02T09:22:27.421Z</updated>
+    <updated>2021-11-02T10:25:00.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하성운, 스타크루이엔티 떠났다.."새로운 시작 응원"]]></title>
+        <id>https://entertain.v.daum.net/v/20211102190953003</id>
+        <link href="https://entertain.v.daum.net/v/20211102190953003"/>
+        <updated>2021-11-02T10:24:28.498Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 최희재 기자) 가수 하성운이 소속사 스타크루이엔티와 전속계약을 종료했다. 스타크루이엔티는 2일 공식 팬카페를 통해 "2014년 데뷔하여 지난 7년간 함께해 온 하성운 군과의 전속 계약이 2021년 10월 31일부로 종료되었음을 알려드린다"고 밝혔다. 이어 "당사와 하성운 군은 전속계약 만료를 앞두고 향후 활동에 대해 심도 있는 이야기를 나누]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[슈퍼주니어-D&E, 10년의 시간 한 데 모아 다시 시작 '제로']]></title>
         <id>https://entertain.v.daum.net/v/20211102180904628</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211102170748681"/>
         <updated>2021-11-02T08:25:46.827Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 가수 임창정이 정은지와 라디오에서 재회했다. 소속사 예스아이엠엔터테인먼트는 2일 정오 방송된 KBS Cool FM ‘정은지의 가요광장’에 임창정이 출연했다고 밝혔다.이날 임창정은 에이핑크 정은지와 오랜만에 재회한 뒤 정답게 인사를 나눠 청취자들의 미소를 유발했다. 정은지가 게스트 임창정을 소개하며 “진짜 떨린다”라고 밝히자 임창정도 재치 있]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[깨느냐 깨지느냐.. 2021 아이돌 '7년 징크스'史]]></title>
-        <id>https://entertain.v.daum.net/v/20211102163957556</id>
-        <link href="https://entertain.v.daum.net/v/20211102163957556"/>
-        <updated>2021-11-02T08:25:46.829Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 그룹 러블리도 결국 아이돌 ‘7년 징크스’를 깨지 못했다.소속사 울림엔터테인먼트는 지난 1일 “러블리즈 멤버들의 전속 계약은 2021년 11월 16일부로 만료될 예정이다. 오랜 기간 심도 있는 논의와 숙고를 거쳐 러블리즈 멤버 7인(유지애, 서지수, 이미주, Kei, JIN, 류수정, 정예인)은 새로운 자리에서 또 다른 시작을 준비하기로 결]]></content>
     </entry>
 </feed>
