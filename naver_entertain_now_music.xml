@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-02T12:33:07.981Z</updated>
+    <updated>2021-11-02T13:26:04.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하성운, 스타크루이엔티와 전속계약 종료 "재계약 않기로"(공식)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003493799</id>
+        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003493799"/>
+        <updated>2021-11-02T13:25:51.172Z</updated>
+        <content type="html"><![CDATA[[헤럴드POP=김지혜 기자] 하성운이 소속사 스타크루이엔티를 떠난다. 2일 스타크루이엔티는 하성운 공식 팬카페를 통해 "먼저 하성운 군을 아껴주시고 항상 많은 응원과 사랑을 보내주시는 팬 여러분들께 감사의 인사드린다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NCT 127, 케이팝 레이더 주간 차트 1위..조회수 폭발적]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003001592</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003493744"/>
         <updated>2021-11-02T09:22:11.996Z</updated>
         <content type="html"><![CDATA[[헤럴드POP=정혜연 기자]슈퍼주니어-D&amp;E가 오늘(2일) 슈퍼주니어-D&amp;E의 첫 정규앨범 'COUNTDOWN'의 타이틀곡 'ZERO'가 베일을 벗었다. 'COUNTDOWN'은 동해와 은혁 서로 다른 두 사람이 만나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["제작비 어마어마해"…슈퍼주니어-D&E, 10년 쏟아부은 '제로' (쥬크박스)[종합]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001367908</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001367908"/>
-        <updated>2021-11-02T09:22:11.997Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) 슈퍼주니어-D&amp;E가 유닛 데뷔 10주년을 맞아 완성도 높은 첫 정규 앨범으로 컴백했다. 슈퍼주니어-D&amp;E 첫 번째 정규 앨범 '카운트다운(COUNTDOWN)'은 2일 오후 6시 각종 온라]]></content>
     </entry>
 </feed>
