@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 07:20:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 08:26:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["실험실의 트와이스"  'STUDY ABOUT LOVE' 콘셉트 포토 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=169550</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=169550</guid>
+            <pubDate>Tue, 02 Nov 2021 08:24:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=169550">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211102162059_5416e125df80bcd7a86429b80dff986b.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=169550">"실험실의 트와이스"  'STUDY ABOUT LOVE' 콘셉트 포토 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211102162059_5416e125df80bcd7a86429b80dff986b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무대 장인 원어스, 신곡 뮤직비디오 티저 공개]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=169494</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=168582">위너 강승윤-송민호, 각자 솔로 콘서트 개최!</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211029090828_8b0a50359732c32763e2feebabcce6d3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우주소녀 연정, 리본 프로젝트 참여!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=168549</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=168549</guid>
-            <pubDate>Fri, 29 Oct 2021 01:01:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=168549">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211029084712_ff55ed9a1d378d7d8ef8a58865cbe888.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=168549">우주소녀 연정, 리본 프로젝트 참여!</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211029084712_ff55ed9a1d378d7d8ef8a58865cbe888.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

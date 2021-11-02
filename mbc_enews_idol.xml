@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 07:20:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 08:26:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트와이스 1억뷰 진기록 "세계 여성 그룹 중 최다"]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329639</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329639</guid>
+            <pubDate>Tue, 02 Nov 2021 08:25:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329639">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/02/25dd51f5-5d1f-48b7-aec7-2f00d21fc183.jpg" alt="트와이스 1억뷰 진기록 " 세계="" 여성="" 그룹="" 중="" 최다""="">        <div class="text-box">            <p class="summary">트와이스 1억뷰 진기록 "세계 여성 그룹 중 최다"</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/02/25dd51f5-5d1f-48b7-aec7-2f00d21fc183.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[라붐 솔빈, '오징어 게임' 성대모사 도전…싱크로율 평가는?(주간아이돌)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/329629</link>
@@ -86,14 +94,6 @@
             <pubDate>Mon, 01 Nov 2021 09:22:04 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329559">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/01/8e14a4d6-318c-4c3c-81b6-59c86285f747.jpg" alt="" 비투비="" 육성재·임현식,="" 미복귀="" 전역"="" [공식입장]"="">        <div class="text-box">            <p class="summary">"비투비 육성재·임현식, 미복귀 전역" [공식입장]</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/01/8e14a4d6-318c-4c3c-81b6-59c86285f747.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 최예나, 쉿~ '피의 게임' 보러와~]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329544</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329544</guid>
-            <pubDate>Mon, 01 Nov 2021 08:24:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329544">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/01/1187b635-37c6-46ec-8f96-65e4b229e585.jpg" alt="[포토] 최예나, 쉿~ '피의 게임' 보러와~">        <div class="text-box">            <p class="summary">[포토] 최예나, 쉿~ '피의 게임' 보러와~</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/01/1187b635-37c6-46ec-8f96-65e4b229e585.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
