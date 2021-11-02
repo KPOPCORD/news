@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-02T14:21:05.443Z</updated>
+    <updated>2021-11-02T15:22:38.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['7억 전신성형' 60세 데미 무어, 가슴선 드러낸 외출 패션 "파격적"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004665365</id>
+        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004665365"/>
+        <updated>2021-11-02T15:22:37.388Z</updated>
+        <content type="html"><![CDATA['7억 전신성형'으로 유명한 배우 데미 무어가 파격적인 노출 패션을 선보였다. 1일(현지시각) 데미 무어는 미국 뉴욕 모던 아트 뮤지엄에서 열린 월스트리트저널의 2021 이노베이터 어워즈에 참석했다. 이날 데미 무어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美친 할리우드 클라스..벤 애플렉, 전처+후처 아이들 다같이 핼러윈 파티 [Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004503031</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012763154"/>
         <updated>2021-11-01T23:21:41.779Z</updated>
         <content type="html"><![CDATA[(뉴욕=연합뉴스) 고일환 특파원 = 지난 주말 미국 클리블랜드에 위치한 로큰롤 명예의 전당에선 신규 헌액자들을 위한 기념행사가 열렸습니다. 올해로 36회째를 맞는 로큰롤 명예의 전당 행사에서 헌액자로 이름을 올린 스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팝가수 도자 캣, 새빨간 핼러윈 드레스로 콜라병 몸매 과시 [N해외연예]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005695278</id>
-        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005695278"/>
-        <updated>2021-11-01T12:34:41.338Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 팝가수 도자 캣이 새빨간 핼러윈 미니스커트를 입고 몸매를 과시했다. 도자 캣은 30일(미국시간) 미국 로스엔젤레스에서 열린 한 할로윈 파티에서 빨간 투피스를 입고 포즈를 취했다. 사진]]></content>
     </entry>
 </feed>
