@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-02T21:19:34.618Z</updated>
+    <updated>2021-11-02T22:22:16.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[데미 무어, 가슴골 의상에 남사친과 달달 허그..갈수록 젊어져[Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004503307</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004503307"/>
+        <updated>2021-11-02T22:22:16.005Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 할리우드 배우 데미 무어가 섹시한 의상과 달달한 포즈로 존재감을 드러냈다. 3일(한국시간) WSJ. Magazine 공식 인스타그램에는 행사장에서 촬영된 셀럽들의 사진이 게재됐다. 이 중 데]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['7억 전신성형' 60세 데미 무어, 가슴선 드러낸 외출 패션 "파격적"]]></title>
         <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004665365</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000798650"/>
         <updated>2021-11-01T23:21:41.778Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 박효실기자] 비운의 왕세자비 다이애나 스펜서에 도전한 배우 크리스틴 스튜어트(31)가 특별한 소감을 전했다. 1일(한국시간) 미국 연예매체 페이지식스는 다이애나 전기영화 '스펜서'에 출연한 스튜어트가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[월드&포토] 백신 맞고 무대에 오른 79세의 폴 매카트니]]></title>
-        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012763154</id>
-        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012763154"/>
-        <updated>2021-11-01T23:21:41.779Z</updated>
-        <content type="html"><![CDATA[(뉴욕=연합뉴스) 고일환 특파원 = 지난 주말 미국 클리블랜드에 위치한 로큰롤 명예의 전당에선 신규 헌액자들을 위한 기념행사가 열렸습니다. 올해로 36회째를 맞는 로큰롤 명예의 전당 행사에서 헌액자로 이름을 올린 스]]></content>
     </entry>
 </feed>
