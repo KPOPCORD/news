@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-02T13:26:04.966Z</updated>
+    <updated>2021-11-02T14:21:05.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[온앤오프, 동반 입대 결정…외국인 멤버 제외 [공식입장 전문]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001368087</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001368087"/>
+        <updated>2021-11-02T14:20:51.081Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 최희재 기자) 그룹 온앤오프가 동반 입대한다. 온앤오프는 2일 오후 공식 팬카페를 통해 외국인 멤버 유를 제외한 효진, 이션, 제이어스, 와이엇, MK가 동반 입대한다고 밝혔다. 효진은 자필편지를 통해]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘더쇼’ 시크릿넘버, 화요일부터 기대되는 ‘불토’…중독성 甲 레트로걸 변신]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828104</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000828104"/>
+        <updated>2021-11-02T14:20:51.082Z</updated>
+        <content type="html"><![CDATA[걸그룹 시크릿넘버(SECRET NUMBER)가 신나는 레트로 댄스 파티를 펼쳤다. 시크릿넘버(레아, 디타, 진희, 민지, 수담, 주)는 2일 오후 방송된 SBS MTV ‘더쇼’에 출연해 세 번째 싱글 ‘Fire Sa]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하성운, 스타크루이엔티와 결별…"재계약 않기로" [공식]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004623831</id>
+        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004623831"/>
+        <updated>2021-11-02T14:20:51.082Z</updated>
+        <content type="html"><![CDATA[가수 하성운이 소속사 스타크루이엔티와 결별한다. 2일 스타크루이엔티는 "2014년 데뷔해 지난 7년간 함께해 온 하성운 군과의 전속 계약이 2021년 10월 31일부로 종료되었음을 알려드린다"고 밝혔다. 이어 "당사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하성운, 스타크루이엔티와 전속계약 종료 "재계약 않기로"(공식)]]></title>
         <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003493799</id>
@@ -158,26 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000326789"/>
         <updated>2021-11-02T09:22:11.992Z</updated>
         <content type="html"><![CDATA[[스포티비뉴스=정유진 기자] 올해 유닛 10주년을 맞은 슈퍼주니어-D&amp;E가 팬들의 사랑을 업고, 새 출발 하는 '카운트다운'을 시작했다. 슈퍼주니어-D&amp;E는 2일 오후 6시 각종 음원 사이트를 통해 정규 1집 '카운]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10주년 슈퍼주니어-D&E, 너 없이는 아무것도 아닌 'ZERO'[들어보고서]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000506711</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000506711"/>
-        <updated>2021-11-02T09:22:11.993Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 슈퍼주니어-D&amp;E가 유닛 데뷔 10주년을 맞았다. 슈퍼주니어-D&amp;E는 11월 2일 오후 6시 첫 정규앨범 'COUNTDOWN(카운트다운)'을 발매, 타이틀곡 'ZERO(제로)' 음원과 뮤직비디]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팝's신곡]"'남아있어' 끝도 없이" 2년 만에 돌아온 빅스 레오의 이별 감성]]></title>
-        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003493745</id>
-        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003493745"/>
-        <updated>2021-11-02T09:22:11.996Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=박서연 기자]빅스 레오가 촉촉한 이별 감성으로 돌아왔다. 오늘(2일) 오후 6시 레오의 새 디지털 싱글 '남아있어'가 베일을 벗었다. 소집해제 후 약 2년 만에 컴백한 레오의 신곡 '남아있어'는 오랫동]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팝's신곡]"점점 희미해져 가"..슈퍼주니어-D&E, 너 없는 난 'ZERO']]></title>
-        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003493744</id>
-        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003493744"/>
-        <updated>2021-11-02T09:22:11.996Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=정혜연 기자]슈퍼주니어-D&amp;E가 오늘(2일) 슈퍼주니어-D&amp;E의 첫 정규앨범 'COUNTDOWN'의 타이틀곡 'ZERO'가 베일을 벗었다. 'COUNTDOWN'은 동해와 은혁 서로 다른 두 사람이 만나]]></content>
     </entry>
 </feed>
