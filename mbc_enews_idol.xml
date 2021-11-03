@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 04:27:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 05:19:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['주간아이돌' 라붐, 좌충우돌 랜덤 플레이 댄스 도전]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329692</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329692</guid>
+            <pubDate>Wed, 03 Nov 2021 05:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329692">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/03/21f975a2-1fcb-46c2-8a32-d3b94c149d1a.jpg" alt="'주간아이돌' 라붐, 좌충우돌 랜덤 플레이 댄스 도전">        <div class="text-box">            <p class="summary">'주간아이돌' 라붐, 좌충우돌 랜덤 플레이 댄스 도전</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/03/21f975a2-1fcb-46c2-8a32-d3b94c149d1a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전소미 3천만뷰 위엄 "'XOXO' 독보적"]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/329683</link>
@@ -86,14 +94,6 @@
             <pubDate>Tue, 02 Nov 2021 02:33:47 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329601">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/02/465a0a37-fe2e-4551-85d5-e0df6ed06efa.jpg" alt="방탄 6억뷰 진기록…'버터' 뮤직비디오 저력">        <div class="text-box">            <p class="summary">방탄 6억뷰 진기록…'버터' 뮤직비디오 저력</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/02/465a0a37-fe2e-4551-85d5-e0df6ed06efa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이진혁 "응원법 들으며 무대 처음…안무 잊을 정도로 좋아"(아이돌라디오2)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329594</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329594</guid>
-            <pubDate>Tue, 02 Nov 2021 06:25:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329594">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/02/b3fb1826-0050-4c0c-aa72-1d76b1575a5f.JPG" alt="이진혁 " 응원법="" 들으며="" 무대="" 처음…안무="" 잊을="" 정도로="" 좋아"(아이돌라디오2)"="">        <div class="text-box">            <p class="summary">이진혁 "응원법 들으며 무대 처음…안무 잊을 정도로 좋아"(아이돌라디오2)</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/02/b3fb1826-0050-4c0c-aa72-1d76b1575a5f.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
