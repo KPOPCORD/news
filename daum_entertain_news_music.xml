@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-03T15:23:52.602Z</updated>
+    <updated>2021-11-03T16:33:22.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이펙스, 美 타이달 선정 라이징..커버 장식]]></title>
+        <id>https://entertain.v.daum.net/v/20211104010005641</id>
+        <link href="https://entertain.v.daum.net/v/20211104010005641"/>
+        <updated>2021-11-03T16:32:48.403Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] [사진 = C9엔터테인먼트 제공]그룹 EPEX(이펙스)가 글로벌 루키의 행보를 보이고 있다. 최근 전 세계 고음질 음원 스트리밍 서비스 플랫폼 미국 '타이달(TIDAL)'은 라이징 케이팝 아티스트(Rising K-Pop Artists)로 이펙스를 소개했다. 타이달은 날이 갈수록 치열해지는 케이팝 업계에서 이펙스를 라이징 아티스트로 선정해 R]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[킹덤, 미니 3집도 美 빌보드 차트 또 진입..'글로벌 인기 입증']]></title>
         <id>https://entertain.v.daum.net/v/20211104001714353</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211103180301771"/>
         <updated>2021-11-03T09:21:56.407Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 그룹 아스트로 MJ가 흥겨운 세미 트로트로 '솔로 가수'로서 첫발을 뗐다. MJ는 3일 오후 6시 각종 온라인 음원 사이트를 통해 첫 번째 디지털 싱글 'Happy Virus (해피 바이러스)'를 발매, 타이틀곡 '계세요 (Get Set Yo)'의 뮤직비디오를 동시 공개했다. 아스트로의 메인 보컬인 MJ는 지난해 MBC '최애]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라붐, '상상더하기' 역주행 기운 받고 꽃길로]]></title>
-        <id>https://entertain.v.daum.net/v/20211103180133735</id>
-        <link href="https://entertain.v.daum.net/v/20211103180133735"/>
-        <updated>2021-11-03T09:21:56.412Z</updated>
-        <content type="html"><![CDATA['상상더하기' 역주행 인기에 라붐이 다시 뭉쳤다. 소속사도 옮기고 팀을 재정비하며 2막을 열었다. 라붐은 3일 오후 6시 각종 음원사이트를 통해 새 앨범 '블러썸'(BLOSSOM)을 발매했다. 6인조로 데뷔해 소연, 진예, 해인, 솔빈까지 4인조로 재편한 이들은 "컴백을 기다려왔다. 빨리 무대를 보여드리고 싶었다. 새로운 소속사와 함께 하게 됐고 멤버]]></content>
     </entry>
 </feed>
