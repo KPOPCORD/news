@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 23:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 01:04:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위키미키 김도연, 대자연 속 역대급 세련美 발산]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329651</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329651</guid>
+            <pubDate>Wed, 03 Nov 2021 01:03:59 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329651">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/03/d151f43b-fdd8-4271-a2ce-20c69e40bd53.jpg" alt="위키미키 김도연, 대자연 속 역대급 세련美 발산">        <div class="text-box">            <p class="summary">위키미키 김도연, 대자연 속 역대급 세련美 발산</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/03/d151f43b-fdd8-4271-a2ce-20c69e40bd53.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단, ‘My Universe’로 美 빌보드 ‘핫 100’ 차트 5주 연속 상위권!]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/329650</link>
@@ -86,14 +94,6 @@
             <pubDate>Tue, 02 Nov 2021 01:06:00 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329576">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/02/79bd44b6-876e-47b9-8fb0-7df592ba6db7.jpg" alt="방탄소년단, 여전한 'Dynamite'…트리플 플래티넘 쾌거">        <div class="text-box">            <p class="summary">방탄소년단, 여전한 'Dynamite'…트리플 플래티넘 쾌거</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/02/79bd44b6-876e-47b9-8fb0-7df592ba6db7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['영탁 프로듀싱' 아스트로 MJ '계세요', 티저부터 후끈]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329573</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329573</guid>
-            <pubDate>Tue, 02 Nov 2021 01:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329573">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/02/78c7b91e-0405-4a80-8aec-1b957e9c0fbf.jpg" alt="'영탁 프로듀싱' 아스트로 MJ '계세요', 티저부터 후끈">        <div class="text-box">            <p class="summary">'영탁 프로듀싱' 아스트로 MJ '계세요', 티저부터 후끈</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/02/78c7b91e-0405-4a80-8aec-1b957e9c0fbf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
