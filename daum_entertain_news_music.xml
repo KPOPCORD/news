@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-03T10:23:14.979Z</updated>
+    <updated>2021-11-03T11:19:21.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[180도 달라진 라붐 "'상상더하기' 역주행, 7년 보상받은 느낌"]]></title>
+        <id>https://entertain.v.daum.net/v/20211103195001856</id>
+        <link href="https://entertain.v.daum.net/v/20211103195001856"/>
+        <updated>2021-11-03T11:18:46.984Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 그룹 라붐(LABOUM)이 '상상더하기' 역주행을 통해 7년 고생을 보상받은 느낌이라고 소감을 전했다. 라붐의 미니 3집 'BLOSSOM'(블러썸)의 발매 기념 온·오프라인 미디어 쇼케이스가 서울 용산구 한남동 블루스퀘어에서 3일 오후 진행됐다. 4인조로 팀 정비, 소속사 이적 등 다양한 변화를 겪은 라붐은 2019년 9월 정규]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제이세라 측 "성범죄 피해 사실..법적 절차로 진실 밝힐 것"]]></title>
+        <id>https://entertain.v.daum.net/v/20211103192303368</id>
+        <link href="https://entertain.v.daum.net/v/20211103192303368"/>
+        <updated>2021-11-03T11:18:46.985Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 공미나 기자] /사진=제이세라 SNS 가수 제이세라가 성폭행 무고 협박을 했다는 의혹에 대해 정면 반박하고 법적 대응에 나섰다. 제이세라 법률대리인 법무법인 대륜 최이선 변호사는 3일 공식 입장문을 통해 "제이세라는 2021년 8월 6일 밤 수면제를 먹고 잠이 든 상태에서 상대방에게 성범죄를 당했다"라고 밝혔다. 이어 "너무나 수치스러웠지만 자연]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[라붐, 역주행 신화 이어갈까?]]></title>
         <id>https://entertain.v.daum.net/v/20211103190304986</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211103180002656"/>
         <updated>2021-11-03T09:21:56.422Z</updated>
         <content type="html"><![CDATA[[스타뉴스 공미나 기자] /사진=MJ '계세요' 뮤직비디오 캡처그룹 아스트로 MJ가 영탁과 김태연의 지원사격을 받고 트로트 가수로 화려한 시작을 알렸다. MJ는 3일 오후 6시 첫 번째 디지털 싱글 '해피 바이러스 (Happy Virus)'와 타이틀곡 '계세요 (Get Set Yo)' 뮤직비디오를 공개했다. 이번 싱글은 MJ가 트로트 가수로 내딛는 첫 발.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아스트로 MJ, 트로트도 청량하네! '트롯돌' 포문 열 '계세요']]></title>
-        <id>https://entertain.v.daum.net/v/20211103180001654</id>
-        <link href="https://entertain.v.daum.net/v/20211103180001654"/>
-        <updated>2021-11-03T09:21:56.423Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 정하은기자]그룹 아스트로 MJ가 청량감 가득한 트로트로 돌아왔다. 3일 아스트로 MJ가 첫 번째 솔로 디지털 싱글 ‘Happy Virus (해피 바이러스)’의 타이틀곡 ‘계세요 (Get Set Yo)’를 발매하고 솔로로 첫발을 뗀다. MJ는 이러한 이력과 강점을 십분 살린 자신만의 세미 트로트 곡을 통해 앨범명 그대로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트와이스, 귀여운 악동 변신..반전미 가득한 정규 3집 티저]]></title>
-        <id>https://entertain.v.daum.net/v/20211103180000649</id>
-        <link href="https://entertain.v.daum.net/v/20211103180000649"/>
-        <updated>2021-11-03T09:21:56.431Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 그룹 트와이스가 정규 3집 개인 티저 이미지를 추가 오픈하고 반전미를 선사했다. 트와이스는 오는 12일 세 번째 정규 앨범 '포뮬러 오브 러브: O+T=&lt;3'(Formula of Love: O+T=&lt;3) 발매를 앞두고 오프닝 트레일러, 트랙리스트, 타임테이블, 콘셉트 이미지 등 티징 콘텐츠를 순차 공개 중이다. 지난 2일]]></content>
     </entry>
 </feed>
