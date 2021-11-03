@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-03T13:25:53.825Z</updated>
+    <updated>2021-11-03T14:21:03.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주니(JUNNY), 10일 새 싱글 'HIDE & SICK' 발매 확정]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003001927</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003001927"/>
+        <updated>2021-11-03T14:20:47.968Z</updated>
+        <content type="html"><![CDATA[올라운더 뮤지션 주니(JUNNY)가 신곡으로 돌아온다. 소속사 모브컴퍼니는 3일 "주니가 오는 10일 새 싱글 'HIDE &amp; SICK (하이드 앤 식)'을 발매한다"라고 밝혔다. 이와 함께 지난 2일 오후 공식 SN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전소미, 스포티파이 글로벌 앨범 데뷔 차트 3위]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003001926</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003001926"/>
+        <updated>2021-11-03T14:20:47.970Z</updated>
+        <content type="html"><![CDATA[가수 전소미가 '솔로 퀸'으로서 독보적인 존재감을 과시했다. 전소미는 세계 최대 음원 플랫폼 스포티파이(Spotify)가 지난 1일(한국시간 기준) 공개한 '톱 10 글로벌 앨범 데뷔(Top 10 Global Alb]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기타리스트 함춘호 "가장 후회하는 일은 기타 배운 것"…왜?]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010811340</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=415&amp;aid=0000005897"/>
         <updated>2021-11-03T09:22:17.187Z</updated>
         <content type="html"><![CDATA[[앳스타일 이민경 기자] NCT 127의 정규 3집 누적 음반 판매량이 358만장을 넘어서는 대기록을 세웠다. NCT 127은 9월 17일 발매된 정규 3집 ‘Sticker’(스티커)가 2,406,507장, 10월]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘재즈송라이터’ 모달, 계절 테마송 ‘가갸거겨울’ 발매 [공식]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000771823</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000771823"/>
-        <updated>2021-11-03T09:22:17.187Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 화려하지만 담백한 스캣을 선보일 재즈송라이터 모달이 신곡 ‘가갸거겨울(가을과 겨울 사이)’을 3일 발매했다. 모달이 로칼하이레코즈를 통해 발매하는 두 번째 신곡 ‘가갸거겨울(가을과 겨울 사이)’은 ‘가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라붐, '블라썸'으로 역주행 신화 이어갈까 [종합]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001198671</id>
-        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001198671"/>
-        <updated>2021-11-03T09:22:17.187Z</updated>
-        <content type="html"><![CDATA[라붐이 4인조로 재정비해 완전히 달라진 분위기로 존재감을 뽐냈다. 3일 오후 온라인 생중계로 라붐의 미니 앨범 3집 '블라썸(BLOSSOM)' 밤매 기념 쇼케이스가 열렸다. 라붐의 타이틀곡 '키스 키스'는 멤버 소연]]></content>
     </entry>
 </feed>
