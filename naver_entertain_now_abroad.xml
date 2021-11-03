@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-03T08:25:07.995Z</updated>
+    <updated>2021-11-03T09:22:33.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[크리스틴 스튜어트, 동성 연인과 약혼 발표…“우린 결혼할 것”]]></title>
+        <id>https://entertain.naver.com/now/read?oid=396&amp;aid=0000595932</id>
+        <link href="https://entertain.naver.com/now/read?oid=396&amp;aid=0000595932"/>
+        <updated>2021-11-03T09:22:32.926Z</updated>
+        <content type="html"><![CDATA[할리우드 배우 크리스틴 스튜어트가 동성 연인과 약혼을 발표했다. CNN, 피플 등 현지 매체는 2일 크리스틴 스튜어트가 하워드 스턴과의 인터뷰에서 시나리오 작가인 동성 연인 딜런 메이어와 약혼 사실을 발표했다고 밝혔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[솔빈 '사랑스러운 미소' [MK포토]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828281</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000828251"/>
         <updated>2021-11-03T08:25:07.369Z</updated>
         <content type="html"><![CDATA[걸그룹 라붐(소연, 솔빈, 진예, 해인)이 3일 오후 서울 한남동 블루스퀘어에서 미니 앨범 3집 '블라썸(BLOSSOM)' 발매 기념 쇼케이스를 가졌다. 라붐이 화려한 쇼케이스 무대를 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진예 '신뢰가는 승무원 미소' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828248</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000828248"/>
-        <updated>2021-11-03T08:25:07.371Z</updated>
-        <content type="html"><![CDATA[걸그룹 라붐(소연, 솔빈, 진예, 해인)이 3일 오후 서울 한남동 블루스퀘어에서 미니 앨범 3집 '블라썸(BLOSSOM)' 발매 기념 쇼케이스를 가졌다. 쇼케이스 앞서 라붐 진예가 포토타임을 갖고 있다.]]></content>
     </entry>
 </feed>
