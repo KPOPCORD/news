@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-04T17:26:27.631Z</updated>
+    <updated>2021-11-04T18:25:41.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김재희-최대성, 코로나19 위기 극복 위해 사랑의열매에 마스크 5만 장 기부]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001369091</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001369091"/>
+        <updated>2021-11-04T18:25:28.103Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 사랑의열매 사회복지공동모금회(회장 조흥식)는 그룹 ‘부활’ 보컬 출신 가수 김재희와 TV조선 ‘미스터트롯’ 출신 가수 최대성이 3일 코로나19로 어려움을 겪는 이웃을 위해 마스크 5만 장]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[레드엔젤, 제4회 쿠션라이브 ‘WE ALL ARE ONE’4번째 K-POP 콘서트 성료]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001369089</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=438&amp;aid=0000040342"/>
         <updated>2021-11-04T10:23:12.010Z</updated>
         <content type="html"><![CDATA[하이브는 오늘(4일) 오전, ‘2021 공동체와 함께 하는 하이브 회사 설명회’를 공식 유튜브 채널을 통해 온라인으로 공개하며 ‘Boundless’의 기조 아래 확장하고 있는 하이브 비즈니스 모델의 현재와 미래를 공]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빅스 레오, 새 싱글 ‘남아있어’ 쇼트필름 공개... 절정의 섹시미]]></title>
-        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001198802</id>
-        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001198802"/>
-        <updated>2021-11-04T09:21:20.828Z</updated>
-        <content type="html"><![CDATA[빅스 레오가 섹시미와 아련미 모두를 담은 쇼트 필름을 공개하며 팬심을 들썩이게 만들고 있다. 젤리피쉬는 4일 빅스 공식 SNS 채널을 통해 레오의 새 디지털 싱글 ‘남아있어’ 쇼트 필름을 공개하며 뜨거운 반응을 얻고]]></content>
     </entry>
 </feed>

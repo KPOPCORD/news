@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-04T17:26:27.632Z</updated>
+    <updated>2021-11-04T18:25:41.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[차승원·이설, 흥미진진 첫 만남 (‘어느날’)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000942869</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000942869"/>
+        <updated>2021-11-04T18:25:34.265Z</updated>
+        <content type="html"><![CDATA[쿠팡플레이 시리즈 ‘어느 날’ 차승원과 이설의 강렬한 첫 만남이 공개됐다. 오는 11월 27일(토)에 첫 공개될 쿠팡플레이 시리즈 ‘어느 날’(연출 이명우)은 평범한 대학생에서 하룻밤 사이 살인 용의자가 된 김현수(]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지현우, ‘취중 고백’ 이세희와 묘한 분위기 (신사와 아가씨)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000942868</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000942868"/>
+        <updated>2021-11-04T18:25:34.267Z</updated>
+        <content type="html"><![CDATA[KBS2 주말드라마 ‘신사와 아가씨’ 지현우가 취중 고백했던 이세희와 마주한다. 오는 6일(토) KBS 2TV 주말드라마 ‘신사와 아가씨’(연출 신창석/ 극본 김사경) 13회에서는 지현우(이영국 역)와 이세희(박단단]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임창정 “지인들 적응 잘 못 해” 이유는? (신과함께2)]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000942867</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003797946"/>
         <updated>2021-11-04T14:19:58.004Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 이게은기자] 방송인 이세영이 반전 몸매를 자랑했다. 4일 이세영은 자신의 인스타그램에 자신의 사진을 게재했다. 사진 속 이세영은 브라톱에 레깅스 차림으로 늘씬한 몸매를 과시하고 있다. 군살 없이 탄탄]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지드래곤, 1월이면 삼촌! 권다미♥김민준 임신 공개]]></title>
-        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000799778</id>
-        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000799778"/>
-        <updated>2021-11-04T14:19:58.005Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 박효실기자] 가수 지드래곤이 곧 삼촌이 된다. 2년전 배우 김민준과 결혼한 누나 다미씨가 내년 1월 아들을 낳는다는 소식을 전했다. 다미씨는 4일 자신의 SNS를 통해 제법 얼굴 형태를 갖춘 태아 초]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이찬원 “여친과 먹고픈 고향음식은..” (칼의 전쟁)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000942847</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000942847"/>
-        <updated>2021-11-04T14:19:58.007Z</updated>
-        <content type="html"><![CDATA[‘칼의 전쟁’ 이찬원이 첫 요리 예능을 진행하는 소감을 밝혔다. tvN STORY, LG헬로비전 新 예능 ‘칼의 전쟁’(연출 현돈/LG헬로비전)은 대한민국 팔도 대표 명인들이 각 지역의 명예를 걸고 향토 음식과 식재]]></content>
     </entry>
 </feed>
