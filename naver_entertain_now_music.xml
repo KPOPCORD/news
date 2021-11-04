@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-04T12:33:37.902Z</updated>
+    <updated>2021-11-04T13:26:07.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[산다라박 “복근 만들고 독기 품은 MAMA 무대, 2NE1 마지막 될줄은‥”(레전드 아티스트)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000507524</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000507524"/>
+        <updated>2021-11-04T13:25:52.562Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 산다라박이 2NE1이 마지막으로 참석했던 MAMA 무대를 공개했다. 11월 4일 방송된 Mnet ‘MAMA THE ORIGINAL K-POP AWARD-MAMA LEGEND ARTIST’에서는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[그렇게 발뺌하더니…영탁, 음원 사재기 1호 가수 오명 '대표 검찰송치'(종합)]]></title>
         <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000507523</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003002193"/>
         <updated>2021-11-04T09:21:20.849Z</updated>
         <content type="html"><![CDATA[가수 강성훈이 신곡 컴백을 예고하며 팬들의 기대를 높였다. 강성훈은 지난 3일 자신의 인스타그램을 통해 "이단옆차기와 타이틀곡 준비 완료"라는 글과 함께 여러 장의 사진을 공개했다. 공개된 사진 속 강성훈은 인기 작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양다일, 이별 감성 신곡 '널 그리워하고 있어' 10일 발매]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001368819</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001368819"/>
-        <updated>2021-11-04T09:21:20.849Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) 가수 양다일이 이별 감성 신곡을 발표한다. 양다일은 10일 각종 온라인 음원사이트를 통해 새 싱글 '널 그리워하고 있어'를 발매한다. 제작사 브랜뉴뮤직과 니즈뮤직 엔터테인먼트가 공동 제작]]></content>
     </entry>
 </feed>
