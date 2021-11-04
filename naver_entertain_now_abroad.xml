@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-04T05:20:23.847Z</updated>
+    <updated>2021-11-04T06:26:30.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아버지 벗어났더니…브리트니 "엄마가 7억 요구, 내 인생 망쳐"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004666241</id>
+        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004666241"/>
+        <updated>2021-11-04T06:26:29.447Z</updated>
+        <content type="html"><![CDATA[팝가수 브리트니 스피어스가 아버지가 후견인에서 물러나는 대신 약 23억원을 달라고 요구해 곤욕을 치른 가운데 이번엔 어머니가 변호 비용으로 7억원을 요구해 몸살을 앓고 있다. 3일(현지시각) BBC, 피플 등 해외]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['23세 연하♥︎' 디카프리오, 100세 노인 변신 "아무도 못알아봐" [Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004504048</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000828269"/>
         <updated>2021-11-03T08:25:07.352Z</updated>
         <content type="html"><![CDATA[걸그룹 라붐(소연, 솔빈, 진예, 해인)이 3일 오후 서울 한남동 블루스퀘어에서 미니 앨범 3집 '블라썸(BLOSSOM)' 발매 기념 쇼케이스를 가졌다. 라붐 솔빈이 포인트 안무를 선보이고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라붐 '4인체제, 여신 컨셉으로 컴백' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828268</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000828268"/>
-        <updated>2021-11-03T08:25:07.352Z</updated>
-        <content type="html"><![CDATA[걸그룹 라붐(소연, 솔빈, 진예, 해인)이 3일 오후 서울 한남동 블루스퀘어에서 미니 앨범 3집 '블라썸(BLOSSOM)' 발매 기념 쇼케이스를 가졌다. 라붐이 화려한 쇼케이스 무대를 갖고 있다.]]></content>
     </entry>
 </feed>
