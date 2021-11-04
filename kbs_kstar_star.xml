@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 08:25:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 09:21:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["3년 만이야"  뮤지컬 '더 데빌' 포스터 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=170076</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=170076</guid>
+            <pubDate>Thu, 04 Nov 2021 09:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=170076">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211104175159_3fa0b0ae20fe5357aafb4b657975f007.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=170076">"3년 만이야"  뮤지컬 '더 데빌' 포스터 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211104175159_3fa0b0ae20fe5357aafb4b657975f007.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["슈퍼캐스팅, 방탄소년단" 네이버웹툰, 하이브 오리지널 콘텐츠 라인업 공개]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=169997</link>
@@ -330,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=168642">문화체육관광부장관 표창 받은 오마이걸 "사랑해주셔서 정말 고맙다"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211029140724_0a0e3af787bc9ac0639e95ea2fecd837.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 '레드북' 열띤 호응 속 앵콜 중계!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=168593</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=168593</guid>
-            <pubDate>Fri, 29 Oct 2021 03:23:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=168593">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211029115758_83de45ad0fbd787110ab2eb932c8034f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=168593">뮤지컬 '레드북' 열띤 호응 속 앵콜 중계!</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211029115758_83de45ad0fbd787110ab2eb932c8034f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
