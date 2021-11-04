@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-04T18:25:41.119Z</updated>
+    <updated>2021-11-04T19:17:29.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영탁 "정직하게 음악" 해명했었는데…회사 대표는 사재기로 검찰 송치 [종합]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001369094</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001369094"/>
+        <updated>2021-11-04T19:17:13.840Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 가수 영탁의 '니가 왜 거기서 나와' 음원 사재기 의혹이 사실로 드러난 가운데, 영탁 소속사 대표가 혐의를 인정했다. 서울경찰청은 4일 소속사 밀라그로 이 대표 등을 상대로 영탁의 '니가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김재희-최대성, 코로나19 위기 극복 위해 사랑의열매에 마스크 5만 장 기부]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001369091</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001368867"/>
         <updated>2021-11-04T10:23:12.008Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 래퍼 염따가 최근 여러 구설에 휘말린 가운데, 그가 출연 중인 '쇼미10'에도 하차 요구가 잇따르고 있다. Mnet 서바이벌 프로그램 '쇼미더머니 10'(이하 '쇼미10')의 공식 홈페이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하이브 'Boundless’ "팬과 함께 글로벌하게 산업확장"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=438&amp;aid=0000040342</id>
-        <link href="https://entertain.naver.com/now/read?oid=438&amp;aid=0000040342"/>
-        <updated>2021-11-04T10:23:12.010Z</updated>
-        <content type="html"><![CDATA[하이브는 오늘(4일) 오전, ‘2021 공동체와 함께 하는 하이브 회사 설명회’를 공식 유튜브 채널을 통해 온라인으로 공개하며 ‘Boundless’의 기조 아래 확장하고 있는 하이브 비즈니스 모델의 현재와 미래를 공]]></content>
     </entry>
 </feed>
