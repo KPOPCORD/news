@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 07:21:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 08:25:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하이브 “역대 분기 최대실적 기록” (KBS연예 ─ 음악)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=170024</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=170024</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=170024">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211104170518_0f0759e316ca66091e8a299afb476f14.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=170024">하이브 “역대 분기 최대실적 기록”</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211104170518_0f0759e316ca66091e8a299afb476f14.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기자간담회] 에스파의 SMU 유튜브 마스터링 프로젝트 "원곡을 살리면서 에스파만의 느낌을 추가" (KBS연예 ─ 음악)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=169990</link>
@@ -331,21 +348,21 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211101105921_6b3821eb5bb1c73f0fb4466bc7e31bbd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[싱어송라이터 권진아, 단독 콘서트 '우리의 방식' (KBS연예 ─ 음악)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=169186</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=169186</guid>
-            <pubDate>Mon, 01 Nov 2021 02:33:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=169186">	<span class="img-box hh">
+            <title><![CDATA["슈퍼캐스팅, 방탄소년단" 네이버웹툰, 하이브 오리지널 콘텐츠 라인업 공개 (KBS연예 ─ 연예)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=169997</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=169997</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=169997">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211101105259_61a9251f125b84849e11ba1f127f0917.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211104114246_f1b13bc46b81d566708bfbac62653e68.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=169186">싱어송라이터 권진아, 단독 콘서트 '우리의 방식'</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=169997">"슈퍼캐스팅, 방탄소년단" 네이버웹툰, 하이브 오리지널 콘텐츠 라인업 공개 </a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211101105259_61a9251f125b84849e11ba1f127f0917.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211104114246_f1b13bc46b81d566708bfbac62653e68.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오정연의 '리어왕' 첫 공연 활약! (KBS연예 ─ 연예)]]></title>
@@ -672,23 +689,6 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211029115758_83de45ad0fbd787110ab2eb932c8034f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[박은빈, 아스퍼거 증후군을 지닌 천재로 변신! (KBS연예 ─ 연예)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=168568</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=168568</guid>
-            <pubDate>Fri, 29 Oct 2021 01:01:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=168568">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211029090025_e691e1d5777a0875d2275035f15a9b09.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=168568">박은빈, 아스퍼거 증후군을 지닌 천재로 변신!</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211029090025_e691e1d5777a0875d2275035f15a9b09.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['너의 밤이 되어줄게' 김종현 "뉴이스트 멤버들에 연기 도움 많이 받아" (MBC 연예 ─ 아이돌)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/329799</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329799</guid>
@@ -777,6 +777,48 @@
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/03/50b031d4-fbb5-4282-b0dd-9450b27c6ddc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['음원사재기 실체月!'..영탁 소속사 대표, 혐의 최초 공식인정 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211104171655662</link>
+            <guid>https://entertain.v.daum.net/v/20211104171655662</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:40 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최나영 기자] 가수 영탁의 소속사 대표가 음원 사재기 혐의를 인정하고 사과했다. 이는 가요팬들에게 충격을 안겨주는 가운데 해당 혐의를 처음 공식 인정한 사례란 점에서도 눈여겨볼 만 하다. 밀라그로 이재규 대표는 4일 지난 해에 이어 다시금 불거진&nbsp;'니가 왜 거기서 나와'의 음원 사재기 이슈에 대해 "이번 사건의 혐의점을 모두 인정하고 있으며 깊이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[BTS로 이것까지 만든다고? 하이브의 'Boundless' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211104164439456</link>
+            <guid>https://entertain.v.daum.net/v/20211104164439456</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:40 GMT</pubDate>
+            <content:encoded><![CDATA[아이즈 ize 한수진 기자그룹 방탄소년단(BTS) 소속사&nbsp;하이브(HYBE)가 오리지널 스토리를 이용한 웹툰·웹소설,&nbsp;방탄소년단 게임, NFT(대체불가능토큰)&nbsp;등 다각도 사업 확장에 나선다.하이브는 4일 '2021 공동체와 함께 하는 하이브 회사 설명회'(이하 회사설명회)를 개최해 Boundless(끝이 없는)의 기조 아래 확장하고 있는 하이브 비즈니스 모델]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[영탁 둘러싼 연이은 논란, 호감 이미지 어쩌나 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211104163807255</link>
+            <guid>https://entertain.v.daum.net/v/20211104163807255</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:40 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 박상후 기자] 가수 영탁을 둘러싼 논란이 끊이지 않고 있다. 상표권 분쟁부터 히트곡 사재기 논란 등이 겹치며 계속된 구설에 휩싸이고 있는 가운데, 그동안 쌓아온 영탁의 이미지 타격이 불가피해 보인다. 4일 경찰에 따르면 영탁 소속사 밀라그로 이재규 대표는 음악산업진흥에 위한 법률 위반 혐의로 기소 의견을 달아 검찰에 송치됐다. 스트리밍 조작]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[영탁 소속사 대표 "음원 사재기 인정..영탁은 몰랐다" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211104163151974</link>
+            <guid>https://entertain.v.daum.net/v/20211104163151974</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:40 GMT</pubDate>
+            <content:encoded><![CDATA[가수 영탁의 소속사 밀라그로 이재규 대표가 음원 사재기 혐의를 인정하고 사과했다. 4일 오후 밀라그로 이 대표는 공식 입장문을 통해 "이번 사건의 혐의점을 모두 인정하고 있으며 깊이 반성하고 후회하고 있다. 그동안 조사에 성실히 임했으며, 사실관계 소명을 했다"고 밝혔다. 이어 "지난 2019년, 음원 스트리밍 방법에 대해 알게 되었고, 무명가수의 곡을]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소문만 무성하던 '음원 사재기' 첫 확인..가요계 파문 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211104163136960</link>
+            <guid>https://entertain.v.daum.net/v/20211104163136960</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:40 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 이태수 기자 = 트로트 가수 영탁의 히트곡 '니가 왜 거기서 나와'가 음원 사재기에 연루됐다는 사실이 밝혀지면서 가요계는 "드디어 올 것이 왔다"는 분위기다. 지난 수년간 음원 사재기가 횡행한다는 소문은 무성했지만, 사실로 확인된 건 처음이다. 이번 사안의 경우 경찰 수사를 통해서 진상이 드러났을 뿐 아니라 당사자도 잘못을 인정했다. 4]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[하이브 위버스샵 소비자 피해 속출, 방만 운영 언제까지 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211104162920880</link>
+            <guid>https://entertain.v.daum.net/v/20211104162920880</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:40 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 하이브(HYBE)가 방만한 위버스샵(Weverse Shop) 운영으로 이용자들의 비판을 받고 있다. 서울시전자상거래센터 공지에 따르면 10월 한 달 동안 서울시전자상거래센터에 접수된 위버스샵 관련 소비자 피해 상담은 총 271건이다. 이 중 23건은 미처리 건으로 분류됐다. 위버스샵은 서울시전자상거래센터 집계 기준 10월 피해다발]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['대마 혐의' 정일훈, 반성문 77건 제출..항소심 3차 공판은 연기 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
             <link>https://entertain.v.daum.net/v/20211104155928715</link>
             <guid>https://entertain.v.daum.net/v/20211104155928715</guid>
@@ -840,151 +882,109 @@
             <content:encoded><![CDATA[[동아닷컴] 영탁 소속사 대표 ‘음원 사재기’ 혐의 인정 [전문] 가수 영탁의 소속사 밀라그로 대표가 ‘음원 사재기’ 혐의를 인정했다. 밀라그로 이재규 대표는 4일 공식입장을 통해 “이번 사건의 혐의점을 모두 인정하고 있으며 깊이 반성하고 후회하고 있다. 그동안 조사에 성실히 임했으며, 사실관계 소명을 했다”고 시인했다. 그는 “2019년 음원 스트리밍]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[트와이스, 3번째 컴백 티저..펑키&러블리 무드 '빛나는 비주얼' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211104151742929</link>
-            <guid>https://entertain.v.daum.net/v/20211104151742929</guid>
-            <pubDate>Thu, 04 Nov 2021 06:25:58 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 윤상근 기자] /사진제공=JYP엔터테인먼트 걸그룹 트와이스가 3번째 개인 티저 이미지를 공개하고 컴백 기대감을 폭발시켰다. 소속사 JYP엔터테인먼트는 4일 공식 SNS 채널에 트와이스 정규 3집 'Formula of Love: O+T=&lt;3'(포뮬러 오브 러브: O+T=&lt;3) 개별 콘셉트 사진을 게재했다. 트와이스는 앞서 지적인 분위기의 'STU]]></content:encoded>
+            <title><![CDATA[방청객이 돌아온다..방송가, 위드코로나에 '관객 대면 녹화' 속속 재개 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211104171614641</link>
+            <guid>https://entertain.v.daum.net/v/20211104171614641</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:45 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 김민지 기자 = 위드코로나(단계적 일상 회복)에 맞춰 방송가도 관객들과의 대면 녹화를 속속 재개한다. 4일 뉴스1 취재 결과, tvN 공개 코미디 프로그램 '코미디빅리그'는 오는 9일, 약 1년8개월 만에 현장 방청을 진행할 예정이다. '코미디빅리그'는 공개 코미디 프로그램인 만큼 관객과 소통, 호흡 역시 재미 포인트 중 하나다. 이에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[하이브 2022 프로젝트 기대 #BTS웹툰 #팝걸그룹 #日오디션 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211104151218694</link>
-            <guid>https://entertain.v.daum.net/v/20211104151218694</guid>
-            <pubDate>Thu, 04 Nov 2021 06:25:58 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 윤상근 기자] /사진제공=하이브톱 아이돌그룹 방탄소년단(BTS, RM 진 지민 제이홉 슈가 뷔 정국)과 투모로우바이투게더, ENHYPEN 등을 이끌고 글로벌 영향력을 넓혀가고 있는 하이브가 2022년 지향하고 있는 주요 계획을 언급하며 앞으로의 활약에 대한 기대감을 전했다. 하이브는 4일 온라인을 통해 '2021년 공동체와 함께하는 하이브 회사]]></content:encoded>
+            <title><![CDATA[류승룡 '장르만로맨스' 막장·멜로·코믹·위로 다 담은 인생 이야기 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211104170801378</link>
+            <guid>https://entertain.v.daum.net/v/20211104170801378</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:45 GMT</pubDate>
+            <content:encoded><![CDATA[장르'만' 로맨스인 것이 맞았다. 단순 로맨스와 멜로만 그린 것이 아닌, 다양한 인물들이 얽히고 설킨 다채로운 사건 사고를 통해 사회적 편견을 넘어선 '사람'의 인생 이야기를 재치있게 담아냈다. 배우에서 감독의 이름으로 장편 상업영화를 선보이게 된 조은지 감독의 재치도 합격점이다. 믿고보는 배우 류승룡의 힘과, 이번 작품으로 스크린 데뷔 신고식을 치르]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[영탁 소속사 대표 "음원 사재기 인정..욕심에 이성 잃었다" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211104150915547</link>
-            <guid>https://entertain.v.daum.net/v/20211104150915547</guid>
-            <pubDate>Thu, 04 Nov 2021 06:25:58 GMT</pubDate>
-            <content:encoded><![CDATA[음원 사재기 혐의로 검찰에 송치된 트로트 가수 영탁(본명 박영탁, 38)의 소속사 밀라그로 이재규 대표가 혐의를 인정하고 고개를 숙였다. 이 대표는 4일 공식입장을 통해 “불미스러운 사건으로 우려와 걱정을 끼쳐드려 진심으로 죄송하다는 말씀드린다. 저는 이번 사건의 혐의점을 모두 인정하고 있으며 깊이 반성하고 후회하고 있다”라고 밝혔다. 이어 “지난 2]]></content:encoded>
+            <title><![CDATA[영탁 소속사 대표, 음원 사재기 '찐이야' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211104170708363</link>
+            <guid>https://entertain.v.daum.net/v/20211104170708363</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:45 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 김나연 기자] 가수 영탁의 소속사 대표가 음원 사재기 혐의를 인정하고 사과했다. 영탁의 히트곡 '니가 왜 거기서 나와'를 둘러싼 음원 사재기 논란은 결국 사실로 드러났다. 서울경찰청은 지난 1일 음원 사재기(음악산업진흥에 관한 법률 위반) 등 혐의로 소속사 밀라그로 이재규 대표를 기소 의견으로 검찰에 송치했다. 그는 2019년 영탁의 발매]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[영탁 소속사 대표, 음원 사재기 인정 "영탁 본인은 관여 NO" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211104150853526</link>
-            <guid>https://entertain.v.daum.net/v/20211104150853526</guid>
-            <pubDate>Thu, 04 Nov 2021 06:25:58 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 가수 영탁의 소속사 밀라그로 이재규 대표가 음원 사재기 의혹을 인정했다. 이재규 대표는 11월 4일 공식 보도자료를 통해 영탁의 노래 ‘니가 왜 거기서 나와’ 음원 사재기 논란 관련 공식입장을 밝혔다. 이 대표는 "이번 사건의 혐의점을 모두 인정하고 있으며 깊이 반성하고 후회하고 있다. 그동안 조사에 성실히 임했으며, 사실관계 소명]]></content:encoded>
+            <title><![CDATA["웃음 뒤에 오는 묵직한 공감"..'장르만 로맨스', '똘끼' 가득한 '케미' 대잔치 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211104170512286</link>
+            <guid>https://entertain.v.daum.net/v/20211104170512286</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:45 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=강효진 기자] 영화 '장르만 로맨스'가 독특하고 매력적인 캐릭터들의 케미스트리로 관객들을 사로잡기 위해 나섰다. 영화 '장르만 로맨스'(감독 조은지) 언론시사회 및 기자간담회가 4일 오후 2시 서울 용산 아이파크몰 CGV에서 열렸다. 이날 현장에는 조은지 감독과 배우 류승룡, 오나라, 성유빈, 무진성이 참석했다. '장르만 로맨스'는 평]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["영탁은 몰랐어요" 소속사 대표, 음원 사재기 인정+사과 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211104150800494</link>
-            <guid>https://entertain.v.daum.net/v/20211104150800494</guid>
-            <pubDate>Thu, 04 Nov 2021 06:25:58 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박소영 기자] 가수 영탁의 소속사 대표가 음원 사재기 혐의를 인정하고 사과했다.&nbsp; 밀라그로 이재규 대표는 4일 ‘니가 왜 거기서 나와’의 음원 사재기 이슈에 대해 “이번 사건의 혐의점을 모두 인정하고 있으며 깊이 반성하고 후회하고 있다. 조사에 성실히 임했으며, 사실관계 소명을 했다”고 밝혔다.&nbsp; 서울경찰청은&nbsp;지난 1일, '니가 왜 거기서 나와']]></content:encoded>
+            <title><![CDATA['홍천기' 끝났어도 관심 계속..안효섭 필모 복습 ing (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211104170041136</link>
+            <guid>https://entertain.v.daum.net/v/20211104170041136</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:45 GMT</pubDate>
+            <content:encoded><![CDATA[SBS 월화극 '홍천기'를 끝낸 배우 안효섭을 향한 대중의 관심이 현재 진행형이다. 극 중 1인 3역을 소화, 극의 중심을 이끈 안효섭에 빠져든 이들은 카멜레온 같은 안효섭의 필모그래피 복습에 한창이다. 안효섭은 지난 2015년 방송된 MBC 단막극 '퐁당퐁당 LOVE'를 통해 연기자로 데뷔했다. 데뷔작으로 사극을 경험하게 된 안효섭은 극 중 말 타는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[영탁 소속사 대표, 음원사재기 사과 "영탁에게 누 끼쳐 미안해" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211104150311229</link>
-            <guid>https://entertain.v.daum.net/v/20211104150311229</guid>
-            <pubDate>Thu, 04 Nov 2021 06:25:58 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 정하은기자]가수 영탁 소속사가 음원 사재기 의혹에 대해 사과했다. 영탁 소속사 밀라그로는 4일 공식입장문을 통해 이재규 대표의 음원 사재기에 대해 사과의 뜻을 밝혔다. 이재규 대표는 “우선 이렇게 불미스러운 사건으로 우려와 걱정을 끼쳐드려 진심으로 죄송하다”고 운을 떼며, “저는 이번 사건의 혐의점을 모두 인정하고 있으]]></content:encoded>
+            <title><![CDATA[박진영 "2AM 신곡 이미 9년 전에 줬던 것, 방시혁이 깠나?" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211104165856050</link>
+            <guid>https://entertain.v.daum.net/v/20211104165856050</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:45 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 서지현 기자] 박진영이 2AM 신곡 '잘 가라니'에 대한 비하인드를 밝혔다. 11월 3일 유튜브 채널 조권의 보권말권에 '드디어 다시 뭉쳤습니다 JYPX2am' 편이 공개됐다. 이날 JYP엔터테인먼트 사옥을 찾은 임슬옹은 "비 형이 여기 1층 지었다는데 우리는 그래도 화장실 정도 만들지 않았을까"라고 말했다. 이에 정진운은 "옥상 조경 중에 나무]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['홍천기' 1인3역 안효섭, "하람아, 수고했다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211104161432305</link>
-            <guid>https://entertain.v.daum.net/v/20211104161432305</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드경제 = 서병기 선임기자]지난 26일 종영한 SBS 월화드라마 ‘홍천기’(극본 하은, 연출 장태유) 마지막 회에서는 하람(안효섭)의 행복한 미래가 그려졌다. 붉은 만월이 뜨는 봉인식 당일, 마왕의 힘에 괴로워하던 하람은 완성된 어용에 마왕을 성공적으로 봉인시켰다. 마왕에게서 벗어난 하람은 오랜 시간 잃었던 시력을 되찾고, 첫사랑까지 이루는 아름다운]]></content:encoded>
+            <title><![CDATA['너의밤' 아이돌 연기 우려?..정인선 "내가 반성할 정도" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211104165040744</link>
+            <guid>https://entertain.v.daum.net/v/20211104165040744</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:45 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스] 최지윤 기자 = "너무 잘해서 내가 반성할 정도였다." 탤런트 정인선이 아이돌 스타들과 호흡한 소감을 내비쳤다. 정인선은 4일 온라인으로 진행한 SBS TV 일요극 '너의 밤이 되어줄게' 제작발표회에서 "과분하게도 다섯 남자들과 맞추게 됐다. 각자 성격과 콘셉트가 달라서 자연스러운 케미를 형성했다"며 "드라마가 처음인 친구들에게 긴장을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["신도시 개발 목적은 주거 안정, 사회적 논의 있어야" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211104161200210</link>
-            <guid>https://entertain.v.daum.net/v/20211104161200210</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[[이영광 기자] 9월 초부터 한국 사회를 달군 키워드는 '대장동'. 대장동 개발은 이재명 더불어민주당 대선 후보가 성남시장이었던 2015년 시작했던 도시 개발 사업으로 이 사업에 참여한 화천대휴라는 회사가 천문학적인 수익을 내면서 특혜 의혹이 불거졌다. 지난 10월 26일 MBC &lt; PD수첩 &gt;에서는 '대장동 설계와 쩐주' 편이 방송되었다. 곽상도 국민의힘]]></content:encoded>
+            <title><![CDATA[설수현, ♥남편에 꿀 뚝뚝 떨어졌는데.."다음 생에 또 결혼? 안 태어나겠다" 눈물 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211104164605542</link>
+            <guid>https://entertain.v.daum.net/v/20211104164605542</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:45 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 박아람 기자] 배우 설수현이 그 동안 감춰왔던 속마음을 고백했다. 지난 3일 유튜브채널 '점점tv'의 '신(神)의 한 수 복 받으쇼(Show)'에서는 설수현이 출연했다. 이날 설수현은 남편과의 러브스토리를 공개해 눈길을 끌었다. 짧은 머리로 등장한 설수현의 모습에 무속인은 "왜 머리카락을 다 자르셨냐"고 물어보자 설수현은 "얼]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['컬투쇼' 모니카 "따라 죽을 수 있어"·립제이 "언니 몫까지.." (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211104160606995</link>
-            <guid>https://entertain.v.daum.net/v/20211104160606995</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[안무가 모니카와 립제이의 진한 우정이 눈길을 끈다. 4일 방송된 SBS 라디오 파워FM '두시탈출 컬투쇼'에는 모니카, 립제이, 가비, 리정이 게스트로 출연했다. 모니카는 지난 3일 방송된 tvN 예능프로그램 ‘유 퀴즈 온 더 블럭’에 출연해 "만약에 효원(립제이)이가 죽으면 어떤 기분일까 생각해본 적 있는데 따라 죽을 수도 있겠다는 생각이 들 정도"라]]></content:encoded>
+            <title><![CDATA[이지훈 갑질논란+대본개입 의혹까지..'스폰서' 방송도 전에 구설 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211104164432455</link>
+            <guid>https://entertain.v.daum.net/v/20211104164432455</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:45 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] IHQ가 개국 드라마로 야심차게 준비한 ‘스폰서’가 주연 배우 이지훈과 관련된 각종 구설로 방송이 시작되기도 전에 논란의 중심에 섰다.지난 3일 주연 배우 이지훈이 촬영장에 동반한 지인이 스태프에게 욕설을 했다는 사실이 알려졌고, 4일에는 이지훈이 대본에 개입하면서 스태프의 절반이 교체됐다는 주장이 제기됐다. ‘스폰서’ 제작사와 IHQ 측은]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['나는 SOLO' 몰표녀 정숙은 누구를 선택할까? 영철이냐, 정수냐 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211104160506949</link>
-            <guid>https://entertain.v.daum.net/v/20211104160506949</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드경제 = 서병기 선임기자]3일 방송된 NQQ와 SBS PLUS의 리얼 데이팅 프로그램 ‘나는 SOLO’ 17회에서는 솔로나라 3기 13인의 두 번째 데이트가 흥미진진하게 펼쳐졌다. '여자 의자왕'이라 할 수 있는 ‘몰표녀’ 정숙은 세 남자의 선택을 받아 연거푸 데이트를 하며 뜨거운 인기를 재확인시켰다. 그러나 마지막에, “자꾸 신경 쓰이는 사람이]]></content:encoded>
+            <title><![CDATA['장르만 로맨스' 조은지 감독 "배우→감독으로 장편 데뷔, '전부' 새롭다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211104164319414</link>
+            <guid>https://entertain.v.daum.net/v/20211104164319414</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:45 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=강효진 기자] 조은지 감독이 배우에서 감독으로 장편 데뷔에 나선 소감을 밝혔다. 조은지 감독은 4일 오후 2시 서울 용산 아이파크몰 CGV에서 열린 영화 '장르만 로맨스'(감독 조은지) 언론시사회 및 기자간담회에 참석했다. 이날 조은지 감독은 배우에서 감독으로서 장편 데뷔작을 처음 공개하며 느낀 점에 대해 "새롭게 와닿았던 점은 '전부]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['갯마을차차차' 김선호♥신민아 효과!..스튜디오드래곤, 3분기 매출 1161억 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211104160403918</link>
-            <guid>https://entertain.v.daum.net/v/20211104160403918</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박소영 기자] 프리미엄 스토리텔러 그룹 스튜디오드래곤(대표이사 강철구,&nbsp;김영규)이&nbsp;2021년&nbsp;3분기 실적을 발표했다. 스튜디오드래곤은&nbsp;3분기 매출&nbsp;1,161억원으로,&nbsp;전년 동기 대비&nbsp;9.2%&nbsp;성장했다.&nbsp;악마판사,&nbsp;너는 나의 봄,&nbsp;갯마을 차차차,&nbsp;마녀 식당으로 오세요,&nbsp;하이클래스,&nbsp;유미의 세포들 등 멀티 장르 콘텐츠를 다양한 플랫폼에 유통하며 국내]]></content:encoded>
+            <title><![CDATA['달리와감자탕' 김민재♥박규영, '달무 커플' 달달한 아침 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211104163708225</link>
+            <guid>https://entertain.v.daum.net/v/20211104163708225</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:45 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 황서연 기자] ‘달리와 감자탕’ 김민재가 ‘모닝 엔젤’ 자태를 뿜뿜하며 잠든 박규영을 세상 사랑스럽게 바라보는 장면이 포착됐다. KBS2 수목드라마 ‘달리와 감자탕’(극본 손은혜·연출 이정섭) 측은 4일 진무학(김민재)과 그의 ‘모닝 엔젤’이 된 김달리(박규영)의 모습이 담은 스틸을 공개했다. 앞서 3일 방송한 ‘달리와 감자탕’ 13화에서]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[팽현숙 "최양락, 나와 결혼했기 때문에 사는 것..날 사랑하지 않아" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211104160348907</link>
-            <guid>https://entertain.v.daum.net/v/20211104160348907</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = '결혼은 미친 짓이야' 최양락 팽현숙이 결혼 생활에 대해 이야기했다. 4일 오후 온라인을 통해 진행된 IHQ '결혼은 미친 짓이야' 제작발표회에는 송은이, 신봉선, 최양락, 팽현숙, 권진영, 여윤정이 참석해 이야기를 나눴다. 이날 최양락은 결혼 생활에 대해 "내 주변에 있는 사람들은 다 잘했다고 한다"고 자랑했다. 하지만]]></content:encoded>
+            <title><![CDATA["33년 노하우 대방출"..최양락♥︎팽현숙→권진영, 결혼은 미친 짓일까? (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211104163550174</link>
+            <guid>https://entertain.v.daum.net/v/20211104163550174</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:45 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김나연 기자] 3인 3색 부부의 리얼한 일상이 공개된다. 4일 오후 IHQ '결혼은 미친 짓이야' 온라인 제작발표회가 진행됐다. 제작발표회에는 송은이, 신봉선, 최양락, 팽현숙, 권진영, 여윤정이 참석했다. ‘결혼은 미친 짓이야’는 산전수전 공중전을 다 겪고도 유독 결혼이 두렵기만 한 '미혼' 개그우먼들에게 개그우먼 '기혼'인들이 선사하는 현실판]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['킹덤'→'갯마을 차차차'..스튜디오드래곤, 3분기 매출액 1161억 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211104160243860</link>
-            <guid>https://entertain.v.daum.net/v/20211104160243860</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) 스튜디오드래곤이 2021년 3분기 실적을 발표했다. 스튜디오드래곤은 3분기 매출 1,161억원으로, 전년 동기 대비 9.2% 성장했다. '악마판사', '너는 나의 봄', '갯마을 차차차', '마녀 식당으로 오세요', '하이클래스', '유미의 세포들' 등 멀티 장르 콘텐츠를 다양한 플랫폼에 유통하며 국내외 레퍼런스 확대에 힘쓴]]></content:encoded>
+            <title><![CDATA[래퍼 염따, '4억 매출' 티셔츠 알고보니 표절.."대가 지불할 것" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211104163307042</link>
+            <guid>https://entertain.v.daum.net/v/20211104163307042</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:45 GMT</pubDate>
+            <content:encoded><![CDATA[래퍼 염따(본명 염현수, 37)가 4억 매출을 올렸다고 자랑한 티셔츠 디자인 도용 논란에 휩싸였다. 염따는 논란이 커지자 "정당한 대가를 지불하겠다"고 고개를 숙였으나 싸늘한 시선은 계속 이어지고 있다. 힙합신에서 큰 사랑을 받고 있는 염따는 그동안 독특한 디자인의 굿즈로 많은 수익을 창출해왔으나 최근 티셔츠 디자인 도용 논란에 휩싸였다. 미국 디자이너]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['통증의풍경' 길해연 "이런 걸 할 수 있나 싶었다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211104160128827</link>
-            <guid>https://entertain.v.daum.net/v/20211104160128827</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 황서연 기자] 배우 길해연이 TV시네마에 대한 기대감을 드러냈다. 4일 오후 KBS2 드라마 스페셜 2021-TV 시네마 '통증의 풍경' 제작발표회가 온라인 중계로 진행됐다. 현장에는 임세준 PD, 배우 안내상 길해연 백지원이 참석해 작품에 대한 이야기를 나눴다. '통증의 풍경'은 고독사로 위장한 연쇄살인이 발생하는 허름한 동네, 범인의 고해]]></content:encoded>
+            <title><![CDATA['장르만 로맨스' 류승룡 "조은지 감독에 황제 케어 받아..내 필모에 방점될 듯" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211104163301031</link>
+            <guid>https://entertain.v.daum.net/v/20211104163301031</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:45 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=강효진 기자] 배우 류승룡이 조은지 감독과의 호흡에 대해 칭찬을 아끼지 않았다. 류승룡은 4일 오후 2시 서울 용산 아이파크몰 CGV에서 열린 영화 '장르만 로맨스'(감독 조은지) 언론시사회 및 기자간담회에 참석했다. 이날 류승룡은 조은지 감독과의 호흡에 대해 "어려운 질문이다. (답변에)시간이 부족할 거 같다"고 웃으며 "황제 케어를]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[주지훈 "달에서 한 달 살기 비용 453억, 비싸지 않네요" 이유는? (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211104160016773</link>
-            <guid>https://entertain.v.daum.net/v/20211104160016773</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 정지현 기자] 새롭게 진화하는 우주적 인류, 코스모스 사피엔스는 어떤 모습일까. 4일 방송되는 KBS 1TV '키스 더 유니버스'의 대미를 장식할 제3편 '코스모스 사피엔스'에서는 우주로 향하는 인류의 성장 드라마가 그려진다. 앞서 AR 기술로 되살아난 티라노와 사투를 벌이고 화성으로 가상 투어를 떠나는 등 시간과 공간을 넘나드는 황홀한]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['결혼은 미친짓' 권진영 "남편, 결혼 전엔 그렇게 안씻는줄 몰랐다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211104155613609</link>
-            <guid>https://entertain.v.daum.net/v/20211104155613609</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = '결혼은 미친 짓이야' 권진영이 연하 남편과의 결혼 생활에 대해 이야기했다. 4일 오후 온라인을 통해 진행된 IHQ '결혼은 미친 짓이야' 제작발표회에는 송은이, 신봉선, 최양락, 팽현숙, 권진영, 여윤정이 참석해 이야기를 나눴다. 이날 권진영은 남편과 예능에 출연하게 된 이유에 대해 "사실 망설였다"며 "부부예능이 결혼]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['결미야' 팽현숙♥최양락→권진영이 들려줄 결혼의 현실 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211104155610606</link>
-            <guid>https://entertain.v.daum.net/v/20211104155610606</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 김종은 기자] 코미디언 송은이와 신봉선이 '결혼은 미친 짓이야'에서 다양한 코미디언 커플의 일상을 지켜보며 결혼의 해답을 찾아 나선다. IHQ 새 예능프로그램 '결혼은 미친 짓이야' 제작발표회가 4일 오후 온라인 생중계로 진행됐다. 현장에는 송은이, 신봉선, 최양락, 팽현숙, 권진영, 여윤정이 참석해 프로그램에 대한 이야기를 나눴다. 이날]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['국민가수' 이병찬, '데스매치' 영상 선공개..눈물 쏟은 이유는? (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211104155603600</link>
-            <guid>https://entertain.v.daum.net/v/20211104155603600</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 김나연 기자] ‘국민가수’ 이병찬의 ‘데스매치’ 경연 영상이 선공개 됐다. 4일 방송되는 TV CHOSUN 글로벌 K-POP 오디션 ‘내일은 국민가수’(이하 ‘국민가수’)는 5회 맛보기 영상을 선공개해 ‘데스매치’의 살 떨리는 긴장감을 엿보게 했다. 선공개 영상은 이병찬이 왕관 모양으로 빛나는 조명을 받으며 뚜벅뚜벅 등장하자, “어린왕자 같다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["'1호가'와 달라"..'미혼'송은이·신봉선→♥팽락, '결혼은 미친짓이야' 新부부예능 탄생 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211104155418542</link>
-            <guid>https://entertain.v.daum.net/v/20211104155418542</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 문지연 기자] 또 하나의 '부부 예능 프로그램'이 시청자들을 찾아온다. 4일 iHQ는 신규 예능프로그램 '결혼은 미친짓이야'를 신종 코로나바이러스 감염증(코로나19) 확산 방지를 위한 온라인 생중계로 진행했다. 행사에는 송은이, 신봉선, 최양락, 팽현숙, 권진영, 여윤정이 참석했다. 행사는 당초 오후 2시에 진행될 예정이었으나,]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['결혼은 미친 짓이야' 권진영 "'엄마가 뿔났다' 강부자 대사 듣고 새벽에 벌떡" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211104155402530</link>
-            <guid>https://entertain.v.daum.net/v/20211104155402530</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[“‘엄마가 뿔났다’에서 강부자 선생님의 대사를 보고 새벽에 벌떡 일어났다. ‘사람으로 태어났으면 짝짓기 한 번은 해봐야 할 거 아니냐’는 대사였다.” 방송인 권진영이 ‘결혼’에 대한 생각을 밝혔다. 4일 오후 열린 IHQ 새 예능 ‘결혼은 미친 짓이야’ 온라인 제작발표회에서 “많은 분들이 제가 미혼인 줄 아는데 결혼을 했다”며 “결혼은 계속 맞춰가는 작업]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['결혼은 미친짓' 신봉선 "쿵짝 맞는 남자와 결혼하고파" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211104155314491</link>
-            <guid>https://entertain.v.daum.net/v/20211104155314491</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = '결혼은 미친 짓이야' 신봉선이 결혼하고 싶은 남편상에 대해 말했다. 4일 오후 온라인을 통해 진행된 IHQ '결혼은 미친 짓이야' 제작발표회에는 송은이, 신봉선, 최양락, 팽현숙, 권진영, 여윤정이 참석해 이야기를 나눴다. 이날 신봉선은 "아무리 지지고 볶더라도 쿵짝이 맞는 부분들이 다 하나씩 있더라"며 "이 많은 사]]></content:encoded>
+            <title><![CDATA['결혼은 미친 짓이야' 최양락, 주작 얘기에 발끈 "예능은 예능으로 봐야" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211104162412683</link>
+            <guid>https://entertain.v.daum.net/v/20211104162412683</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:45 GMT</pubDate>
+            <content:encoded><![CDATA[수많은 관찰 예능들이 주작(지어낸 이야기) 논란에 휩싸여 왔다. JTBC '1호가 될 순 없어'에 이어 다시 한 번 부부 관찰 예능으로 돌아오는 개그맨 최양락은 이에 대한 솔직한 생각을 밝혔다. 방송의 큰 흐름이 아닌 일부분에 대해 지적하는 건 억울하다는 입장이다. 4일 IHQ '결혼은 미친 짓이야'의 온라인 제작발표회가 진행됐다. 이 자리에는 송은이 신봉]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['원더우먼' 갤 가돗, 디즈니 '백설공주' 실사판 왕비 역 캐스팅 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
@@ -1022,354 +1022,354 @@
             <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;배우 로버트 다우니 주니어와 맷 데이먼이 크리스토퍼 놀란 감독의 차기작 ‘오펜하이머’에 출연한다. 2일(현지 시간) 배급사 유니버설 픽쳐스 측은 두 배우가 크리스토퍼 놀란의 신작에 출연을 결정했다고 발표했다. 로버트 다우니 주니어가 미국 원자력 위원회 위원장 루이스 스트라우스 역을, 맷 데이먼이 맨해튼 프로젝트를 지휘한 레슬리 그로]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[하이브, 3분기 매출 3410억원 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000772056</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000772056</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 하이브(HYBE, 대표이사 박지원)가 4일 잠정실적 공시 및 기관투자가 대상 콘퍼런스 콜을 통해 3분기 매출액 3,410억 원, 영업이익 656억 원(K-IFRS 연결 기준, 외부 감사인의 검토 완료되]]></content:encoded>
+            <title><![CDATA[美 포브스, 킹덤 ‘빌보드 성적’에 주목 “K팝 세계서 가장 흥미진진한 이름” (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828488</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828488</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:58 GMT</pubDate>
+            <content:encoded><![CDATA['판타지돌' 킹덤(KINGDOM)이 미국 포브스와 빌보드의 극찬을 받으며 글로벌 인기를 다시 증명했다. 미국 경제 전문지 포브스(Forbes)는 3일(현지시각) 공식 홈페이지에 'NCT 127, 세븐틴, 킹덤, BT]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[요아리 11일 ‘빛그림’ 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000772055</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000772055</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 가수 요아리가 새 싱글 ‘빛그림’으로 돌아온다. 소속사 제이지스타는 4일 사회적관계망서비스(SNS)를 통해 요아리의 디지털 싱글 ‘빛그림’ 티저 이미지를 공개했다. 공개된 티저 이미지 속 요아리는 측면]]></content:encoded>
+            <title><![CDATA[홍자, 스타트롯 女 3위 등극..트롯 여신의 인기 '대단' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002189</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002189</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[가수 홍자가 스타랭킹 스타트롯 여자 랭킹 3위에 올랐다. 홍자는 10월 28일 오후 3시 1분부터 11월 4일 오후 3시까지 진행된 스타트롯 여자 랭킹 10월 5주(12차) 투표에서 1만3339표를 얻어 3위에 이름]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['컴백' TO1(티오원), '리:얼라이즈'로 증명할 더 단단해진 청춘 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004624618</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004624618</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 TO1(티오원)의 두 번째 미니앨범이 베일을 벗는다. TO1(치훈, 동건, 찬, 지수, 민수, 재윤, 제이유, 경호, 제롬, 웅기)은 4일 오후 6시 각종 온라인 음원 사이트를 통해 두 번째 미니앨범 '리:얼라]]></content:encoded>
+            <title><![CDATA[정동원, 단독 콘서트 티켓 오픈 1분 만에 전석 매진…막강 티켓 파워 과시 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=408&amp;aid=0000137829</link>
+            <guid>https://entertain.naver.com/now/read?oid=408&amp;aid=0000137829</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[가수 정동원이 단독 콘서트를 1분 만에 매진시켰다. 오는 26일부터 28일까지 3일간 블루스퀘어 마스터카드홀에서 진행되는 '정동원棟동 이야기話화 콘서트(1st JEONG DONG WON’S TALK CONCERT)']]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[드림노트, 美 포브스 조명 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000772052</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000772052</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] iMe KOREA 소속 걸그룹 드림노트가 10월26일 ‘Dreams Alive’로 컴백해서 많은 관심 받았다. 미국 경제전문이 포브스가 온라인판 포브스릉 통해 드림노트에 대한 호평을 남겼다. 포브스와]]></content:encoded>
+            <title><![CDATA[하이브 “역대 분기 최대실적 기록” (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=438&amp;aid=0000040335</link>
+            <guid>https://entertain.naver.com/now/read?oid=438&amp;aid=0000040335</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[하이브가 오늘(4일) 오전, 잠정실적 공시 및 기관투자가 대상 콘퍼런스 콜을 통해 3분기 매출액 3,410억 원, 영업이익 656억 원(K-IFRS 연결 기준, 외부 감사인의 검토 완료되기 이전 회사의 가결산 수치)]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[임영웅, 12주 연속 스타트롯 랭킹 1위..'불변의 인기' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002145</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002145</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[가수 임영웅이 스타랭킹 스타트롯 남자 랭킹에서 12주 연속 1위에 오르며 불변의 인기를 입증했다. 임영웅은 10월 28일 오후 3시 1분부터 11월 4일 오후 3시까지 진행된 스타트롯 남자 랭킹 10월 5주(12차)]]></content:encoded>
+            <title><![CDATA[태양, 지드래곤이 선물한 한정판 운동화…우정은 영원 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010813485</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010813485</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]안소윤 인턴 기자 = 그룹 '빅뱅' 태양이 지드래곤과 돈독한 우정을 자랑했다. 4일 태양은 자신의 인스타그램 계정 스토리에 사진 한 장을 게재했다. 공개된 사진에는 지드래곤이 선물해준 운동화가 담겨 있]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[크래비티, ‘베니 비디 비치’로 전 세계 자랑한 한국의 美 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828451</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828451</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 크래비티(CRAVITY)가 전 세계 K-POP 팬들을 위해 특별한 무대를 펼쳤다. 크래비티는 지난 3일 오후 KBS 2TV에서 방송된 ‘2021 창원 K-POP 월드 페스티벌’에 출연했다. 이날 크래비티는 대한]]></content:encoded>
+            <title><![CDATA[세븐틴, 'Attacca' 가온차트 2주 연속 1위..올해 유일 2연속 초동 밀리언셀러 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002187</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002187</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)이 미니 9집으로 국내외 차트 정상을 싹쓸이했다. 세븐틴은 지난달 22일 발매된 미니 9집 'Attacca]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[몬스타엑스, 컴백 예열 시작…스케줄 오픈 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003552218</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003552218</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 오윤주 기자] 그룹 몬스타엑스가 컴백 콘텐츠 라인업을 오픈했다. 몬스타엑스는 4일 공식 SNS 채널을 통해 새 미니앨범 '노 리밋(No Limit)' 스케줄 포스터를 공개했다. 공개된 스케줄에 따르면]]></content:encoded>
+            <title><![CDATA[전유진, 스타트롯 女 2위 등극..트롯 요정을 막을 수 없다 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002185</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002185</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[가수 전유진이 스타랭킹 스타트롯 여자 랭킹 2위에 올랐다. 전유진은 10월 28일 오후 3시 1분부터 11월 4일 오후 3시까지 진행된 스타트롯 여자 랭킹 10월 5주(12차) 투표에서 3만6226표를 얻어 2위에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘브평 3관왕’ 임영웅, 44주 차 가온 소셜차트 TOP4…트로트가수 원탑 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001368783</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001368783</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이정범 기자) 임영웅이 2021년 44주 차 가온 소셜차트 트로트가수 1위에 올랐다. 가온차트에 따르면 임영웅은 2021년 44주 차 가온 소셜차트 TOP4에 올랐다. 집계 기간은 10월 24일부터 1]]></content:encoded>
+            <title><![CDATA[美 포브스·빌보드 칼럼니스트가 주목한 '킹덤 성장세' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010813470</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010813470</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]이수진 인턴 기자 = 그룹 킹덤(KINGDOM)이 미국 포브스지와 빌보드 칼럼니스트의 조명을 받았다. 4일 소속사 GF엔터는 미 경제 전문지 포브스(Forbes)지와 음원 집계 차트 빌보드지 칼럼니스트]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[크래비티 ‘베니 비디 비치’로 한국 아름다움 전달 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000772044</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000772044</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 그룹 크래비티(CRAVITY)가 전 세계 K-POP 팬들을 위한 특별한 무대를 펼쳤다. 크래비티는 지난 3일 오후 KBS 2TV에서 방송된 ‘2021 창원 K-POP 월드 페스티벌’에 출연했다. 이날]]></content:encoded>
+            <title><![CDATA[장민호, 스타트롯 男 3위 등극..예능+노래 다 잡고 훨훨 난다 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002182</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002182</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[가수 장민호가 스타랭킹 스타트롯 남자 부문에서 3위를 차지하며 여전한 '트롯 맏형'의 인기를 보여주고 있다. 장민호는 10월 28일 오후 3시 1분부터 11월 4일 오후 3시까지 진행된 스타트롯 남자 랭킹 10월 5]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[요아리, 11일 컴백..새 싱글 '빛그림' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002144</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002144</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[가수 요아리가 새 싱글 '빛그림'으로 11일 컴백한다. 4일 소속사 제이지스타는 공식 SNS 채널을 통해 요아리의 디지털 싱글 '빛그림'의 티저 이미지를 공개했다. 공개된 티저 이미지는 한 폭의 동양화 같은 느낌과]]></content:encoded>
+            <title><![CDATA[위아이 김준서, 폴킴 '커피 한 잔 할래요' 커버 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010813458</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010813458</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]조민정 인턴 기자 = 위아이 김준서가 달달한 음색으로 팬들에게 설렘을 선물했다. 김준서는 지난 3일 위아이(장대현, 김동한, 유용하, 김요한, 강석화, 김준서) 공식 유튜브 채널을 통해 폴킴의 '커피]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[정동원, 남다른 티켓 파워…1분만에 3회차 전석 동나 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010813261</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010813261</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]안소윤 인턴 기자 = 가수 정동원이 남다른 티켓 파워를 입증했다. 4일 정동원의 첫 번째 단독 콘서트 '정동원棟동 이야기話화 콘서트(1st JEONG DONG WON'S TALK CONCERT)'가 전]]></content:encoded>
+            <title><![CDATA["오직 1등이여라" 송가인, 스타랭킹 스타트롯 12주 연속 정상 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002181</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002181</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[가수 송가인이 또 다시 스타랭킹 스타트롯 여자 랭킹 1위에 올랐다. 송가인은은 10월 28일 오후 3시 1분부터 11월 4일 오후 3시까지 진행된 스타트롯 여자 랭킹 10월 5주(12차) 투표에서 8만2003표를 얻]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['日 데뷔 20주년' 보아, 5일 디지털 싱글 'My Dear' 공개[공식] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004504138</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004504138</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=선미경 기자] '아시아의 별' 보아(BoA, 에스엠엔터테인먼트 소속)의 일본 새 디지털 싱글 ‘My Dear’(마이 디어)가 5일 공개된다. 올해 일본 데뷔 20주년을 맞은 보아는 오는 5일 0시 각종 글]]></content:encoded>
+            <title><![CDATA[방탄소년단·투바투 효과..하이브 3분기 매출 3410억 "역대 최대" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002180</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002180</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 방탄소년단(BTS) 소속사 하이브(HYBE, 대표이사 박지원)가 아티스트 앨범 판매 호조에 힘입어 역대 분기 최대 실적을 기록했다. 하이브는 잠정실적 공시 및 기관투자가 대상 콘퍼런스 콜을 통해 3분기 매출액]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방탄소년단, 日 오리콘 주간 영상차트 3개부문 정상 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010813238</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010813238</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]이재훈 기자 = 그룹 '방탄소년단'(BTS)이 일본 오리콘 주간 영상 차트에서 3개 부문 정상에 올랐다. 4일 오리콘에 따르면, 방탄소년단은 최신 차트(11월 8일 자 / 집계 기간 10월 25일~31]]></content:encoded>
+            <title><![CDATA['유스케' 허니제이, 홀리뱅 '정화요비'..반전 가창력 최초 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003494587</link>
+            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003494587</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[[헤럴드POP=정혜연 기자]‘스트릿 우먼 파이터’의 최종 우승 크루 ‘홀리뱅’이 스케치북에 출격했다. 홀리뱅은 ‘스우파’에서의 파이널 미션곡 ‘Venom’으로 첫 무대를 장식하며 충격적인 퍼포먼스로 현장을 들썩이게]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[염따, 연이은 논란..'4억 수익' 티셔츠 디자인 무단 도용 사과[★NEWSing] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002143</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002143</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[래퍼 염따가 연일 논란에 시달리고 있다. 이번엔 4억원 수익을 낸 티셔츠가 디자인 무단 사용 논란에 휩싸인 가운데, 곧바로 사과에 나섰다. 일러스트레이터 코린나 마린은 4일 자신의 인스타그램에 "한국 래퍼 염따가 내]]></content:encoded>
+            <title><![CDATA[슈퍼주니어-D&E, 오늘(4일) '엠카'서 신곡 'ZERO' 무대 첫 공개..매력 극대화 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004504165</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004504165</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=선미경 기자] 그룹 슈퍼주니어-D&amp;E가 이번 주 음악 방송에서 신곡 ‘ZERO’ 무대를 공개한다. 슈퍼주니어-D&amp;E는 오늘(4일) 케이블채널 Mnet ‘엠카운트다운’과 내일(5일) KBS 2TV ‘뮤직뱅크]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[광주1세대 통기타가수 이장순 기린다, 빛고을렉처콘서트 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010813225</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010813225</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[기사내용 요약 '포크음악으로 광주를 노래하다' 11일 오후 7시30분 빛고을아트스페이스 [광주=뉴시스] 류형근 기자 = 광주지역 1세대 통기타 가수 고 이장순의 음악세계를 조명하는 콘서트가 광주에서 펼쳐진다. 광주문]]></content:encoded>
+            <title><![CDATA[염따, '4억 매출' 티셔츠 디자인 도용 사과 "대가 지불할 것" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000799564</link>
+            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000799564</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 정하은기자]엠넷 ‘쇼미더머니10’에 프로듀서로 출연하고 있는 래퍼 염따(본명 염현수)가 최근 자신이 제작해 판매한 티셔츠의 디자인 도용 논란에 대해 사과했다. 염따는 4일 자신의 SNS 스토리를 통해]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“장애물? 오히려 좋다” TO1의 진짜 성장 [인터뷰] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000772041</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000772041</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 그룹 TO1이 더 단단해진 팀워크로 돌아왔다. TO1은 4일 미니 2집 ‘리얼라이즈(RE:ALIZE)’를 발표했다. 전작 이후 6개월 만의 컴백이다. 소속사간 갈등과 팀명 변경 등의 고비를 딛고 돌아온]]></content:encoded>
+            <title><![CDATA[김뮤지엄, 신곡 'Round and Round' 오늘(4일) 발매..확고한 음악관 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003494583</link>
+            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003494583</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[[헤럴드POP=정혜연 기자]롤링스톤 코리아는 홈페이지를 통해 오후 6시께 가수 김뮤지엄 과의 인터뷰를 공개한다.고 밝혔다. 롤링스톤 코리아와의 인터뷰가 공개되는 같은 시각 김뮤지엄의 신곡 ‘Round and Roun]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[먼데이키즈, 오늘 '물고기자리' 리메이크 발매…애틋한 겨울 감성 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003552204</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003552204</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 오윤주 기자] 가수 먼데이키즈(이진성)가 겨울 감성을 담은 신곡을 발매한다. 먼데이키즈는 4일 오후 6시 전 온라인 음원 사이트를 통해 새 디지털 싱글 ‘물고기자리’를 발매한다. '물고기자리'는 지난]]></content:encoded>
+            <title><![CDATA[영탁 소속사 대표 "음원 사재기 인정...깊이 반성하고 후회" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=416&amp;aid=0000276655</link>
+            <guid>https://entertain.naver.com/now/read?oid=416&amp;aid=0000276655</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[[SBS 연예뉴스 ㅣ 강경윤 기자] 가수 영탁 소속사 대표 이 모 씨가 음원 사재기를 했다는 사실을 인정했다. 이 씨는 4일 본지가 단독 보도한 음원사재기(음악산업진흥에 관한 법률 위반)혐의로 검찰 송치 보도에 대해]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[H.O.T 장우혁, 24일 새 싱글 '어때Tonight' 컴백 확정[공식] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004504132</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004504132</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=선미경 기자] 그룹 H.O.T 출신 가수 장우혁이 1년 만에 돌아온다. 장우혁은 지난 3일 오후에 공식 SNS를 통해 싱글 앨범 '어때Tonight' 컴백 스케줄 이미지를 게재했다. 공개된 스케줄에 따르면]]></content:encoded>
+            <title><![CDATA[하이브, BTS '버터' 대박에…분기 실적 역대 최고(종합) (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0012771041</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0012771041</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:58 GMT</pubDate>
+            <content:encoded><![CDATA["BTS LA 공연 등으로 4분기 매출 성장 기대" (서울=연합뉴스) 이태수 기자 = 하이브가 올해 3분기 신종 코로나바이러스 감염증(코로나19) 여파에도 방탄소년단의 히트곡 '버터'에 힘입어 역대 최고 실적을 달성]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[영탁 소속사, '음원사재기 혐의' 인정…"깊이 반성, 영탁은 몰랐다" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010813173</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010813173</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]안소윤 인턴 기자 = 트로트 가수 영탁의 소속사 밀라그로 대표가 '음원 사재기' 혐의로 검찰에 송치된 것과 관련 공식 입장을 밝혔다. 4일 밀라그로의 이재규 대표는 "불미스러운 사건으로 우려와 걱정을]]></content:encoded>
+            <title><![CDATA[영탁, '변함없는 인기' 스타트롯 男랭킹 12주 연속 2위 수성 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002175</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002175</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[가수 영탁이 스타랭킹 스타트롯 남자 랭킹에서 2위에 올랐다. 영탁은 10월 28일 오후 3시 1분부터 11월 4일 오후 3시까지 진행된 스타트롯 남자 랭킹 10월 5주(12차) 투표에서 12만4106표를 얻어 임영웅]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[영탁 소속사 대표, 음원 사재기 인정 "독단적 진행…가수는 관여NO" [공식입장 전문] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003552201</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003552201</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 강다윤 기자] 가수 영탁의 소속사 밀라그로 이재규 대표가 음원 사재기 혐의를 인정했다. 4일 이재규 대표는 '니가 왜 거기서 나와' 음원 사재기 혐의에 대해 "이번 사건의 혐의점을 모두 인정하고 있으]]></content:encoded>
+            <title><![CDATA[BTS로 이것까지 만든다고? 하이브의 'Boundless' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=465&amp;aid=0000005202</link>
+            <guid>https://entertain.naver.com/now/read?oid=465&amp;aid=0000005202</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 방탄소년단(BTS) 소속사 하이브(HYBE)가 오리지널 스토리를 이용한 웹툰·웹소설, 방탄소년단 게임, NFT(대체불가능토큰) 등 다각도 사업 확장에 나선다. 하이브는 4일 '2021 공동체와 함께 하는 하이브]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[정동원, 첫 단독 콘서트 티켓 오픈 1분 만에 매진…역대급 티켓 전쟁 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828442</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828442</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[가수 정동원이 남다른 티켓 파워를 과시했다. 정동원의 ‘정동원棟동 이야기話화 콘서트(1st JEONG DONG WON’S TALK CONCERT)’가 전 회차 매진되었다. 특히 정동원은 티켓 오픈 1분 만에 3회차]]></content:encoded>
+            <title><![CDATA[하이브 3분기 매출 3,410억원-영업이익 656억원 기록 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001661144</link>
+            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001661144</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[하이브(HYBE, 대표이사 박지원)가 4일 잠정실적 공시 및 기관투자가 대상 콘퍼런스 콜을 통해 3분기 매출액 3,410억 원, 영업이익 656억 원(K-IFRS 연결 기준, 외부 감사인의 검토 완료되기 이전 회사의]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이승환, 2년 만에 신곡 낸다…18일 발라드 '어쩜' 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004624590</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004624590</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[가수 이승환이 2년 만에 신곡을 공개한다. 4일 소속사 드림팩토리는 "이승환이 오는 18일 신곡 '어쩜'을 발표한다"고 밝혔다. '어쩜'은 이승환이 작사하고 유명 작곡가 황성제가 속한 JPG와 버터플라이가 작곡을 맡]]></content:encoded>
+            <title><![CDATA[경찰, '차트조작 의혹' 영탁 소속사 대표 검찰로 송치 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010813407</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010813407</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[기사내용 요약 이모 대표 등, 음악산업진흥법 위반 등 혐의 적용 '니가 왜 거기서 나와' 관련 수천만원 전달 혐의 [서울=뉴시스] 이윤희 기자 = 경찰이 가수 영탁(박영탁) 음원 차트 조작 의혹이 불거진 소속사 대표]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[송가인, 트롯스타 3달 연속 1위 등극…역시 대세 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001368749</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001368749</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이정범 기자) 가수 송가인이 트롯스타 투표에서 12주 연속 압도적 1위에 오르며 뜨거운 인기를 입증했다. 송가인은 지난 10월 28일부터 11월 4일까지 스타랭킹 플랫폼에서 진행된 ‘트롯스타 여자 1위]]></content:encoded>
+            <title><![CDATA[영탁 소속사 대표 "음원 사재기 인정…영탁은 몰랐다" [공식입장] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=408&amp;aid=0000137827</link>
+            <guid>https://entertain.naver.com/now/read?oid=408&amp;aid=0000137827</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[가수 영탁의 소속사 밀라그로 이재규 대표가 음원 사재기 혐의를 인정하고 사과했다. 4일 오후 밀라그로 이 대표는 공식 입장문을 통해 "이번 사건의 혐의점을 모두 인정하고 있으며 깊이 반성하고 후회하고 있다. 그동안]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[라포엠·라비던스, 따로 또 같이…'그레이트 콘서트 시리즈' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010813075</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010813075</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스] 강진아 기자 = 크로스오버 그룹 '라포엠'과 '라비던스'가 오는 12~13일에 세종문화회관 대극장에서 '2021 그레이트 콘서트 시리즈'를 선보인다. 4일 세종문화회관에 따르면 오는 12일 라포엠과]]></content:encoded>
+            <title><![CDATA[소문만 무성하던 '음원 사재기' 첫 확인…가요계 파문 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0012770987</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0012770987</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:58 GMT</pubDate>
+            <content:encoded><![CDATA["갑자기 떴다가 순위 곤두박질 사례 많아"…자정기회 목소리도 (서울=연합뉴스) 이태수 기자 = 트로트 가수 영탁의 히트곡 '니가 왜 거기서 나와'가 음원 사재기에 연루됐다는 사실이 밝혀지면서 가요계는 "드디어 올 것]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[H.O.T·SES·보아 MV 다시 태어난다…“SM의 자산이자 K팝의 역사” (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=016&amp;aid=0001908557</link>
-            <guid>https://entertain.naver.com/now/read?oid=016&amp;aid=0001908557</guid>
-            <pubDate>Thu, 04 Nov 2021 06:26:15 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드경제=고승희 기자] 1세대 아이돌 H.O.T, S.E.S, 신화부터 ‘아시아의 별’ 보아는 물론 1990∼2000년대 초반 큰 사랑을 받은 추억의 뮤직비디오를 다시 만난다. ‘레전드 K팝’ 뮤직비디오의 고화질]]></content:encoded>
+            <title><![CDATA[하이브 위버스샵 소비자 피해 속출, 방만 운영 언제까지[이슈와치] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000507459</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000507459</guid>
+            <pubDate>Thu, 04 Nov 2021 08:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 하이브(HYBE)가 방만한 위버스샵(Weverse Shop) 운영으로 이용자들의 비판을 받고 있다. 서울시전자상거래센터 공지에 따르면 10월 한 달 동안 서울시전자상거래센터에 접수된 위버스샵]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토]오나라, 물오른 미모 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004874472</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004874472</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[배우 오나라가 4일 오후 서울 용산 CGV에서 열린 영화 '장르만 로맨스' 언론시사회 및 기자간담회에서 포토타임을 갖고 있다. &lt;사진제공=NEW &gt;]]></content:encoded>
+            <title><![CDATA[일본서 올해 유행어상 후보에 '오징어게임' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0012771185</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0012771185</guid>
+            <pubDate>Thu, 04 Nov 2021 08:25:06 GMT</pubDate>
+            <content:encoded><![CDATA[한일관계 교착에도 문화교류 '활발' 반영 코로나 관련 용어 많아 (도쿄=연합뉴스) 이세원 특파원 = 일본 유명 출판사가 매년 발표하는 올해의 유행어 및 새로운 말 대상 후보에 한국드라마 '오징어 게임'이 포함됐다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘결혼은 미친 짓이야’ 결혼이 두려운 그들을 위한 독한 수다[종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004874471</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004874471</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[‘결혼은 미친 짓’일까. 개그우먼 부부들이 실제 결혼생활을 보여주며 해답을 찾아간다. ‘결혼은 미친짓이야’는 기혼인 선후배를 바라보는 미혼 개그우먼의 결혼에 대한 백만 가지 독한 수다 프로그램으로 최양락, 팽현숙 부]]></content:encoded>
+            <title><![CDATA[방청객이 돌아온다...방송가, 위드코로나에 '관객 대면 녹화' 속속 재개 [N초점] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005703298</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005703298</guid>
+            <pubDate>Thu, 04 Nov 2021 08:25:06 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 김민지 기자 = 위드코로나(단계적 일상 회복)에 맞춰 방송가도 관객들과의 대면 녹화를 속속 재개한다. 4일 뉴스1 취재 결과, tvN 공개 코미디 프로그램 '코미디빅리그'는 오는 9일, 약 1년8개월]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토]류승룡-성유빈-오나라-무진성, 영화로 뭉쳤다 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004874469</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004874469</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[배우 류승룡 오나라 성유빈 무진성이 4일 오후 서울 용산 CGV에서 열린 영화 '장르만 로맨스' 언론시사회 및 기자간담회에서 포토타임을 갖고 있다. &lt;사진제공=NEW &gt;]]></content:encoded>
+            <title><![CDATA[이혜성, 환한 미소에 ‘심쿵’…♥전현무 또 반하겠네 [스타★샷] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000596039</link>
+            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000596039</guid>
+            <pubDate>Thu, 04 Nov 2021 08:25:06 GMT</pubDate>
+            <content:encoded><![CDATA[아나운서 출신 방송인 이혜성이 일상을 공유했다. 이혜성은 4일 자신의 인스타그램에 “애기 당근 수확. 당근이 이렇게 작고 소중하다니…”라는 글과 함께 사진을 게재했다. 공개된 사진에는 농장에서 직접 수확한 당근을 든]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이하늬, 애정 가득 고백..."나의 사랑 김창완 선배님" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004874467</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004874467</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이하늬가 드라마 '원더우먼'에서 함께한 김창완에게 가득한 애정을 표현했다. 이하늬는 4일 자신의 인스타그램에 "나의 사랑 김창완 선배님. 밥 사주러 파주 세트장까지 라이딩해서 오시는 선배님. 이 시간이 또 얼마]]></content:encoded>
+            <title><![CDATA[현아, 다른 남자 앞에서 속옷만 입고…♥던 허락 받았나? [스타★샷] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000596038</link>
+            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000596038</guid>
+            <pubDate>Thu, 04 Nov 2021 08:25:06 GMT</pubDate>
+            <content:encoded><![CDATA[가수 현아가 날씬한 몸매를 자랑했다. 4일 현아는 자신의 인스타그램에 하트 이모티콘 여러 개와 함께 한장의 사진을 게재했다. 공개된 사진에는 거울 앞에서 포즈를 취하는 현아의 모습이 담겨있다. 과감한 노출로 완벽한]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토]파이팅 하는 영화 '장르만 로맨스' 주역들 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004874466</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004874466</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[감독 조은자 배우 류승룡 오나라 성유빈 무진성이 4일 오후 서울 용산 CGV에서 열린 영화 '장르만 로맨스' 언론시사회 및 기자간담회에서 포토타임을 갖고 있다. &lt;사진제공=NEW &gt;]]></content:encoded>
+            <title><![CDATA[블핑 제니, 선글라스+무표정으로 시크미…치명적인 초미니 패션 [스타★샷] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000596037</link>
+            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000596037</guid>
+            <pubDate>Thu, 04 Nov 2021 08:25:06 GMT</pubDate>
+            <content:encoded><![CDATA[블랙핑크 제니가 시크한 매력을 뽐냈다. 4일 제니는 자신의 인스타그램에 별다른 코멘트 없이 여러 장의 사진을 게재했다. 공개된 사진에는 초미니스커트에 롱부츠를 착용한 제니의 모습이 담겨있다. 제니는 늘씬한 각선미와]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 오나라 '물오른 미모' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003634975</link>
-            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003634975</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[배우 오나라가 4일 오후 서울 용산 CGV에서 열린 영화 '장르만 로맨스'의 언론시사회 및 기자간담회에서 포토타임을 갖고 있다. 사진제공=NEW]]></content:encoded>
+            <title><![CDATA[박해수·수현·이희준, 강렬 시너지 (‘키마이라’) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000942757</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000942757</guid>
+            <pubDate>Thu, 04 Nov 2021 08:25:06 GMT</pubDate>
+            <content:encoded><![CDATA[배우 박해수, 수현, 이희준이 ‘키마이라’를 통해 강렬한 시너지를 보여주고 있다. OCN 토일드라마 ‘키마이라’에서 박해수(차재환 역), 수현(유진 역), 이희준(이중엽 역)은 각 캐릭터에 완벽 몰입해 환상적인 호흡]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토]류승룡, 대체불가 배우 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004874464</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004874464</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[배우 류승룡이 4일 오후 서울 용산 CGV에서 열린 영화 '장르만 로맨스' 언론시사회 및 기자간담회에서 포토타임을 갖고 있다. &lt;사진제공=NEW &gt;]]></content:encoded>
+            <title><![CDATA[하이브, 3분기 영업익 656억 원…역대 분기 최대실적 기록 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828486</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828486</guid>
+            <pubDate>Thu, 04 Nov 2021 08:25:06 GMT</pubDate>
+            <content:encoded><![CDATA[하이브(HYBE, 대표이사 박지원)가 4일 잠정실적 공시 및 기관투자가 대상 콘퍼런스 콜을 통해 3분기 매출액 3,410억 원, 영업이익 656억 원(K-IFRS 연결 기준, 외부 감사인의 검토 완료되기 이전 회사의]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 성유빈 '후남의 정석' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003634974</link>
-            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003634974</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[배우 성유빈이 4일 오후 서울 용산 CGV에서 열린 영화 '장르만 로맨스'의 언론시사회 및 기자간담회에서 포토타임을 갖고 있다. 사진제공=NEW]]></content:encoded>
+            <title><![CDATA['던♥' 현아, 속옷 차림에 하이힐만...41.3kg '반전 글래머' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003797659</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003797659</guid>
+            <pubDate>Thu, 04 Nov 2021 08:25:06 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조윤선 기자] 가수 현아가 반전 글래머 몸매를 뽐냈다. 현아는 4일 자신의 인스타그램에 하트 이모티콘과 함께 사진을 게재했다. 사진에는 속옷 차림에 노란색 하이힐을 신은 현아가 한쪽 다리를 들고 포즈를]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토]류승룡-무진성, 스크린에서 만났어요 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004874463</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004874463</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[배우 류승룡 무진성이 4일 오후 서울 용산 CGV에서 열린 영화 '장르만 로맨스' 언론시사회 및 기자간담회에서 포토타임을 갖고 있다. &lt;사진제공=NEW &gt;]]></content:encoded>
+            <title><![CDATA['이병헌♥' 이민정, 꽃미소 속에 아찔한 옆트임 치마...은근히 섹시美[TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000509548</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000509548</guid>
+            <pubDate>Thu, 04 Nov 2021 08:25:06 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=조준원 기자] 배우 이민정이 촬영이 즐거운 근황을 공개했다. 이민정은 4일 자신의 인스타그램에 "촬영중"이라며 웃음 가득한 이모티콘과 한 장의 사진을 게재했다. 공개된 사진 속 더블 버튼 화이트 재킷에 롱]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[최민수 오토바이 교통사고 “일정 조율 중” [공식입장] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000942736</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000942736</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[최민수 오토바이 교통사고 “일정 조율 중” [공식] 배우 최민수가 오토바이를 타다 교통사고를 당했다. 4일 최민수의 소속사 율엔터테인먼트 관계자는 동아닷컴에 최민수가 이날 오후 오토바이를 타다 교통사고로 부상을 입었]]></content:encoded>
+            <title><![CDATA[사유리, 아들 첫 돌 축하…훌쩍 큰 자이언트 베이비 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004874515</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004874515</guid>
+            <pubDate>Thu, 04 Nov 2021 08:25:06 GMT</pubDate>
+            <content:encoded><![CDATA[방송인 사유리가 아들 젠의 첫 돌을 축하했다. 사유리는 지난 3일 인스타그램에 "해피 버스데이 투 젠. 11월 4일 돌 축하해요"라는 글과 함께 사진을 올렸다. 사진에는 엄마 사유리가 정성스레 만든 돌상을 앞에 두고]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김세라, 레이싱모델 7번째 시즌 종료…"여전히 가슴 벅찬 일" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005703106</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005703106</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 김학진 기자 = 모델 겸 방송인 김세라가 레이싱모델로 7번째 시즌을 마친 소감을 밝혔다. 지난달 김세라는 영암 국제 자동차 경주장에서 열린 전남GT를 끝으로 2021시즌 레이싱모델 활동을 마무리했다.]]></content:encoded>
+            <title><![CDATA[최민수, 오토바이 교통사고…소속사 측 “큰 부상 아냐”(공식입장) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828485</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828485</guid>
+            <pubDate>Thu, 04 Nov 2021 08:25:06 GMT</pubDate>
+            <content:encoded><![CDATA[배우 최민수가 오토바이를 타다 교통사고를 당했다. 최민수의 소속사 매니지먼트 율 관계자는 4일 MK스포츠에 “최민수는 현재 병원에서 검사를 진행 중이고 걱정할 만큼 크게 다친 것은 아니다”라고 밝혔다. 이어 “영화]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘나혼산’ 화사, 코로나19 백신 2차 접종 디데이…‘1초 컷’에 당황? (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000596026</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000596026</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[‘나 혼자 산다’ 화사가 코로나19 백신 2차 접종을 앞두고 만반의 준비에 나선다. 따뜻한 소파 침대부터 백신 만찬 키트까지 만든 화사가 무사히 2차 접종을 마쳤을지 이목이 쏠린다. 5일 방송되는 MBC ‘나 혼자]]></content:encoded>
+            <title><![CDATA[[종합] 류승룡 '장르만로맨스' 막장·멜로·코믹·위로 다 담은 인생 이야기 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000280049</link>
+            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000280049</guid>
+            <pubDate>Thu, 04 Nov 2021 08:25:06 GMT</pubDate>
+            <content:encoded><![CDATA[장르'만' 로맨스인 것이 맞았다. 단순 로맨스와 멜로만 그린 것이 아닌, 다양한 인물들이 얽히고 설킨 다채로운 사건 사고를 통해 사회적 편견을 넘어선 '사람'의 인생 이야기를 재치있게 담아냈다. 배우에서 감독의]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토]류승룡-성유빈, 장르만 로맨스 사랑해주세요 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004874461</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004874461</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[배우 류승룡 성유빈이 4일 오후 서울 용산 CGV에서 열린 영화 '장르만 로맨스' 언론시사회 및 기자간담회에서 포토타임을 갖고 있다. &lt;사진제공=NEW &gt;]]></content:encoded>
+            <title><![CDATA[‘오징어 게임’ 아누팜 “블랙핑크♥, 제니 사인도 받아” (멜론) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000942755</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000942755</guid>
+            <pubDate>Thu, 04 Nov 2021 08:25:06 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스 시리즈 ‘오징어 게임’ 알리 역을 맡아 세계적인 인기를 모으고 있는 배우 아누팜 트리파티가 멜론 스테이션 프로그램 ‘영화&amp; 박선영입니다’에 출연해 긍정 에너지를 전파했다. 지난 3일 ‘영화]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[태연, 귀요미→어깨+복부 노출 180도 '파격 변신' [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000509531</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000509531</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=노규민 기자] 소녀시대 태연이 팔색조 매력을 뽐냈다. 태연은 4일 자신의 인스타그램에 여러장의 사진을 게재했다. 사진 속 태연은 핑크 컬러 헤어를 양갈래로 묶고, 양볼에 주근깨를 찍어 만화영화 주인공 '빨]]></content:encoded>
+            <title><![CDATA['장르만 로맨스', '극한 작가' 류승룡·감독 조은지의 귀여운 코미디 [N현장](종합) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005703288</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005703288</guid>
+            <pubDate>Thu, 04 Nov 2021 08:25:06 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 류승룡이 조은지 감독의 데뷔작 '장르만 로맨스'로 또 한 번 코미디 연기를 보여준다. 4일 오후 서울 용산구 CGV용산아이파크몰에서 진행된 영화 '장르만 로맨스'(감독 조은지)의]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토]조은지, 감독으로 시사회 참석해요 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004874459</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004874459</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[조은지 감독이 4일 오후 서울 용산 CGV에서 열린 영화 '장르만 로맨스' 언론시사회 및 기자간담회에서 포토타임을 갖고 있다. &lt;사진제공=NEW &gt;]]></content:encoded>
+            <title><![CDATA['악마판사' 김경일, 바이브액터스와 전속계약..송선미와 한솥밥 [공식] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002186</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002186</guid>
+            <pubDate>Thu, 04 Nov 2021 08:25:06 GMT</pubDate>
+            <content:encoded><![CDATA[배우 김경일이 바이브액터스와 전속계약을 맺었다. 바이브액터스는 4일 김경일과 전속계약 체결 소식을 알리며 "김경일은 장르에 구애받지 않는 걸 넘어서 자신만의 장르를 개척할 줄 아는 배우다. 연기에 대한 열정을 마음껏]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토]무진성, 훈훈한 손인사 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004874456</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004874456</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[배우 무진성이 4일 오후 서울 용산 CGV에서 열린 영화 '장르만 로맨스' 언론시사회 및 기자간담회에서 포토타임을 갖고 있다. &lt;사진제공=NEW &gt;]]></content:encoded>
+            <title><![CDATA['갯차'·'킹덤:아신전' 제작 스튜디오드래곤, 3분기 매출 1161억 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005703284</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005703284</guid>
+            <pubDate>Thu, 04 Nov 2021 08:25:06 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 윤효정 기자 = 제작사 스튜디오드래곤(대표이사 강철구, 김영규)이 2021년 3분기 실적을 발표했다. 4일 스튜디오드래곤은 올 3분기 매출 1161억원으로, 전년 동기 대비 9.2% 성장했다고 밝혔다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토]류승룡-오나라, 하트도 귀엽게 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004874455</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004874455</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[배우 류승룡 오나라가 4일 오후 서울 용산 CGV에서 열린 영화 '장르만 로맨스' 언론시사회 및 기자간담회에서 포토타임을 갖고 있다. &lt;사진제공=NEW &gt;]]></content:encoded>
+            <title><![CDATA[최민수 교통사고, 오토바이 운전 중 차량과 충돌… 현재 상태는? (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000751075</link>
+            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000751075</guid>
+            <pubDate>Thu, 04 Nov 2021 08:25:06 GMT</pubDate>
+            <content:encoded><![CDATA[배우 최민수(59)가 오토바이를 타다 교통사고로 부상을 당했다. 4일 뉴스1에 따르면 "최민수는 병원에서 필요한 검사를 받고 있다"며 "큰 부상을 입은 것은 아니고 입원까지는 하지 않아도 되는 걸로 보인다, 앞으로의]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아이키, 훅 멤버들과 제주 여행 "서투른 파이터들" [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000509530</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000509530</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=신소원 기자] 댄서 아이키가 제주 여행 모습을 전했다. 4일 아이키는 자신의 인스타그램에 "잘봐! 5개월 만에 첫 휴식이다. 서투른 제주 파이터들"이라는 글과 함께 사진을 게재했다. 공개된 사진 속에는 감]]></content:encoded>
+            <title><![CDATA[최민수, 오토바이 교통사고로 부상 "크게 다치진 않아" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000799573</link>
+            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000799573</guid>
+            <pubDate>Thu, 04 Nov 2021 08:25:06 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 정하은기자]배우 최민수가 오토바이 사고로 부상을 당한 것으로 알려졌다. 4일 한 매체에 따르면 최민수는 이날 오후 1시 45분쯤 서울 이태원동 도로에서 차선을 변경하던 도중 앞 차량과 부딪치는 사고를]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토]무진성, 장르만 로맨스 기대해주세요 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004874454</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004874454</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[배우 무진성이 4일 오후 서울 용산 CGV에서 열린 영화 '장르만 로맨스' 언론시사회 및 기자간담회에서 포토타임을 갖고 있다. &lt;사진제공=NEW &gt;]]></content:encoded>
+            <title><![CDATA[최민수, 오토바이 교통사고… "큰 부상은 없어, 검사 진행 중"(공식) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001661157</link>
+            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001661157</guid>
+            <pubDate>Thu, 04 Nov 2021 08:25:06 GMT</pubDate>
+            <content:encoded><![CDATA[배우 최민수가 오토바이를 타던 중 교통사고를 당했다. 4일 최민수의 소속사 관계자는 YTN star에 "최민수 씨가 교통사고를 당해 현재 병원에서 검사를 받고 있는 중"이라고 밝혔다. 이어 "큰 부상을 당한 것은 아]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토]오나라, 영화도 사랑해주세요 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004874453</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004874453</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[배우 오나라가 4일 오후 서울 용산 CGV에서 열린 영화 '장르만 로맨스' 언론시사회 및 기자간담회에서 포토타임을 갖고 있다. &lt;사진제공=NEW &gt;]]></content:encoded>
+            <title><![CDATA[스테파니, '23세 연상' ♥미국인 남친도 놀랄 '브라탑 자태'...배 타투 파격적 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003797649</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003797649</guid>
+            <pubDate>Thu, 04 Nov 2021 08:25:06 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 이게은기자] 가수 스테파니가 완벽한 몸매를 자랑했다. 4일 스테파니는 자신의 인스타그램에 "Less is more"라는 글과 사진을 게재했다. 공개된 사진 속 스테파니는 브라탑을 입고 탄탄한 보디라인]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘성폭행 고소’ 제이세라 “성범죄 저지르는 상황에서도 자신 지켜냈다” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000596025</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000596025</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[가수 제이세라가 성폭행 협박 의혹을 제기한 남성 A씨에게 법적 대응을 예고한 가운데, 강경한 입장을 나타냈다. 4일 제이세라는 자신의 인스타그램을 통해 “오해가 있으신 것 같아 말씀드립니다”라며 입을 열었다. 제이세]]></content:encoded>
+            <title><![CDATA[이하늬, B사 고가의 바이크 타고 '활짝'…주인은? 김창완 [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000509547</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000509547</guid>
+            <pubDate>Thu, 04 Nov 2021 08:25:06 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=노규민 기자] 배우 이하늬가 선배 김창완의 오토바이에 올랐다. 이하늬는 4일 자신의 인스타그램에 "나의사랑 김창완 선배님. 밥 사주러 파주 세트장까지 라이딩해서 오시는 선배님. 이 시간이 또 얼마나 그리울]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토]조은지, 감독 아닌 배우 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004874452</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004874452</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[조은지 감독이 4일 오후 서울 용산 CGV에서 열린 영화 '장르만 로맨스' 언론시사회 및 기자간담회에서 포토타임을 갖고 있다. &lt;사진제공=NEW &gt;]]></content:encoded>
+            <title><![CDATA[YG 트레저, ‘남고괴담’ 분위기 장난 아닌데? (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000596035</link>
+            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000596035</guid>
+            <pubDate>Thu, 04 Nov 2021 08:25:06 GMT</pubDate>
+            <content:encoded><![CDATA[새 웹드라마 '남고괴담'의 첫 방송이 8일 앞으로 다가온 가운데 오싹한 기운이 감도는 대사 일부가 공개돼 글로벌 팬들의 궁금증을 유발했다. YG엔터테인먼트는 4일 공식 SNS에 트레저의 '남고괴담' 캐릭터 포스터를]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘너의 밤’ 윤지성 “첫 드라마 도전, 하루하루 감사하며 준비” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000596024</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000596024</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[가수 윤지성이 배우로서 도전장을 던진다. 감정연기가 돋보일 ‘너의 밤이 되어줄게’의 김유찬을 통해서다. 4일 오후 SBS 새 일요드라마 ‘너의 밤이 되어줄게’의 온라인 제작발표회가 열렸다. 이 자리에는 주연배우 정인]]></content:encoded>
+            <title><![CDATA['결혼은 미친 짓이야' 팽현숙 "33년 결혼생활 노하우 대방출" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0012771104</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0012771104</guid>
+            <pubDate>Thu, 04 Nov 2021 08:25:06 GMT</pubDate>
+            <content:encoded><![CDATA[송은이 "냉탕·온탕 다 보는 느낌"…오늘 오후 8시 30분 IHQ 첫 방송 (서울=연합뉴스) 김정진 기자 박소연 인턴기자 = 결혼생활 33년 차 팽현숙부터 6년 차 권진영, 2년 차 여윤정까지. '결혼 선배' 개그우]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[故 박지선 1주기…김원효 “겁나 보고 싶네” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003634973</link>
-            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003634973</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[김원효 인스타그램 캡처 개그맨 김원효(사진)가 고(故) 박지선을 추억했다. 김원효는 4일 인스타그램에 “멋쟁이 희극인 박지선 아~놔 겁나 보고 싶네...지선아~잘 지내지? 오빠 다시 개그한다. 심심하면 그곳에서 봐~]]></content:encoded>
+            <title><![CDATA[정동원, 첫 단독 콘서트 티켓 1분 만에 매진 ‘역대급 파워’ (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000596034</link>
+            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000596034</guid>
+            <pubDate>Thu, 04 Nov 2021 08:25:06 GMT</pubDate>
+            <content:encoded><![CDATA[가수 정동원이 남다른 티켓 파워를 과시했다. 가수 정동원의 ‘정동원棟동 이야기話화 콘서트(1st JEONG DONG WON’S TALK CONCERT)’가 전 회차 매진되었다. 특히 정동원은 티켓 오픈 1분 만에 3]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토]무진성, 시크한 손인사 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004874451</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004874451</guid>
-            <pubDate>Thu, 04 Nov 2021 07:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[배우 무진성이 4일 오후 서울 용산 CGV에서 열린 영화 '장르만 로맨스' 언론시사회 및 기자간담회에서 포토타임을 갖고 있다. &lt;사진제공=NEW &gt;]]></content:encoded>
+            <title><![CDATA[이병헌♥이민정, 돈을 얼마나 버는거야.."동시간대 촬영" 열일부부 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003797648</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003797648</guid>
+            <pubDate>Thu, 04 Nov 2021 08:25:06 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 이유나 기자] 배우 이병헌과 이민정 부부가 대세 열일 부부의 면모를 엿보였다. 4일 이민정 인스타그램에는 "촬영중"이라며 화이트 치마 정장을 입은 자신의 모습을 공개했다. 촬영이 즐거운 듯 얼굴에 미소가]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아버지 벗어났더니…브리트니 "엄마가 7억 요구, 내 인생 망쳐" (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
