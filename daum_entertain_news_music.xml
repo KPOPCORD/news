@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-04T19:17:29.229Z</updated>
+    <updated>2021-11-04T20:22:07.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스테이씨, 스포티파이 이퀄 캠페인 11월 아티스트]]></title>
+        <id>https://entertain.v.daum.net/v/20211105050010615</id>
+        <link href="https://entertain.v.daum.net/v/20211105050010615"/>
+        <updated>2021-11-04T20:21:37.167Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] [사진 = 스포티파이 제공]그룹 스테이씨(STAYC)가 스포티파이 ‘이퀄(EQUAL) 캠페인’ 11월 대표 아티스트로 선정됐다. 소속사 하이업엔터테인먼트는 “스테이씨가 세계 최대 오디오 음원 스트리밍 플랫폼 스포티파이(Spotify)의 ‘이퀄 코리아’ 및 ‘이퀄 글로벌’ 플레이리스트 11월 대표 아티스트로 선정됐다. 글로벌 선정은 한국 아티]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[메타버스·NFT 무한확장.. ICT공룡 변신한 엔터업계]]></title>
         <id>https://entertain.v.daum.net/v/20211105040007022</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211104215015029"/>
         <updated>2021-11-04T13:25:34.352Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이하나 기자] 산다라박이 2NE1이 마지막으로 참석했던 MAMA 무대를 공개했다. 11월 4일 방송된 Mnet ‘MAMA THE ORIGINAL K-POP AWARD-MAMA LEGEND ARTIST’에서는 2NE1의 시상식 추억이 공개 됐다. 2NE1은 2014년 여름 그룹 활동을 잠시 중단하고 개인 활동 집중했던 상황이었다. 2015년 12월]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그렇게 발뺌하더니..영탁, 음원 사재기 1호 가수 오명 '대표 검찰송치']]></title>
-        <id>https://entertain.v.daum.net/v/20211104212519550</id>
-        <link href="https://entertain.v.daum.net/v/20211104212519550"/>
-        <updated>2021-11-04T12:33:07.102Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 가수 영탁이 음원 사재기 1호 가수라는 오명을 면치 못하게 됐다. 소속사 대표가 사재기 의혹을 시인한 것. 11월 4일 서울경찰청 사이버수사대에 따르면 영탁 소속사 밀라그로 이재규 대표는 11월 1일 음악산업진흥에 관한 법률 위반, 형법 위반 등 혐의로 불구속 송치됐다. 영탁 소속사 대표는 2019년 영탁 노래 '니가 왜 거기서 나]]></content>
     </entry>
 </feed>

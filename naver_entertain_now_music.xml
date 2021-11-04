@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-04T19:17:29.231Z</updated>
+    <updated>2021-11-04T20:22:07.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[카리스마 임영웅, '영웅본색' 마이 넘버원 히어로 중간투표 1위]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002265</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003002265"/>
+        <updated>2021-11-04T20:21:53.678Z</updated>
+        <content type="html"><![CDATA[가수 임영웅의 카리스마 넘치는 모습이 팬심을 사로잡고 있다. 임영웅이 모델로 활약 중인 웰메이드는 '웰메이드 영웅본색' 공개 기념 '당신의 HERO에게 투표하세요' 이벤트를 진행 중이다. '웰메이드 영웅본색'에 등장]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[추가열, 대한적십자사에 청소년 장학금 100만 원 기부]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001369098</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001369098"/>
+        <updated>2021-11-04T20:21:53.683Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 가수 추가열은 대한적십자사(회장 신희영) 서울사무소를 방문하여 ‘누구나 캠페인’ 기부금을 전달했다. ´누구나 캠페인´은 코로나19로 힘들어하는 취약계층의 안전할 권리, 건강할 권리, 꿈을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영탁 "정직하게 음악" 해명했었는데…회사 대표는 사재기로 검찰 송치 [종합]]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001369094</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003002218"/>
         <updated>2021-11-04T10:23:12.005Z</updated>
         <content type="html"><![CDATA[걸 그룹 트라이비(TRI.BE, 송선 켈리 진하 현빈 지아 소은 미레)가 '우주로'(WOULD YOU RUN) 음악 방송 활동을 마무리했다. 트라이비는 4일 방송된 Mnet 음악 프로그램 '엠카운트다운'에 출연해 첫]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송가인, 김태균 에세이 홍보 자처 "이제 그냥 즐기려고요" [스타IN★]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002216</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003002216"/>
-        <updated>2021-11-04T10:23:12.006Z</updated>
-        <content type="html"><![CDATA[가수 송가인이 개그맨 김태균의 에세이 홍보를 자처했다. 송가인은 4일 자신의 인스타그램을 통해 "저도요! 이제그냥즐기려고요! 고맙습니다"라는 글과 함께 한 장의 사진을 올렸다. 공개된 사진은 김태균의 에세이 '이제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["염따 하차, 힙합 사랑하는 이들의 염원"…'쇼미10' 하차 요구 폭주]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001368867</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001368867"/>
-        <updated>2021-11-04T10:23:12.008Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 래퍼 염따가 최근 여러 구설에 휘말린 가운데, 그가 출연 중인 '쇼미10'에도 하차 요구가 잇따르고 있다. Mnet 서바이벌 프로그램 '쇼미더머니 10'(이하 '쇼미10')의 공식 홈페이]]></content>
     </entry>
 </feed>
