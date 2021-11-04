@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-04T16:31:50.216Z</updated>
+    <updated>2021-11-04T17:26:27.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임창정 “지인들 적응 잘 못 해” 이유는? (신과함께2)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000942867</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000942867"/>
+        <updated>2021-11-04T17:26:20.672Z</updated>
+        <content type="html"><![CDATA[채널S ‘신과 함께 시즌2’ 임창정이 정규 17집 타이틀 곡 ‘별거 없던 그 하루로’비화를 전한다. 5일 채널S 예능 프로그램 ‘신과 함께 시즌2’(프로듀서 김수현, 연출 진선미)에서는 데뷔 31년 차 만능 멀티테이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일레인, ‘크라임 퍼즐’ OST 참여]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000942866</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000942847"/>
         <updated>2021-11-04T14:19:58.007Z</updated>
         <content type="html"><![CDATA[‘칼의 전쟁’ 이찬원이 첫 요리 예능을 진행하는 소감을 밝혔다. tvN STORY, LG헬로비전 新 예능 ‘칼의 전쟁’(연출 현돈/LG헬로비전)은 대한민국 팔도 대표 명인들이 각 지역의 명예를 걸고 향토 음식과 식재]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신현빈, 웨딩드레스 입고도 수심 가득 (‘너닮사’)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000942846</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000942846"/>
-        <updated>2021-11-04T14:19:58.011Z</updated>
-        <content type="html"><![CDATA[JTBC 수목드라마 ‘너를 닮은 사람’(극본 유보라, 연출 임현욱) 구해원(신현빈 분)이 순백의 웨딩드레스를 입었다. 그러나 결혼식에 참석한 모두가 웃음기 없이 심각한 표정을 짓고 있어 무슨 일이 일어났는지 궁금하게]]></content>
     </entry>
 </feed>
