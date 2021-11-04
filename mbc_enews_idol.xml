@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 06:26:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 07:21:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['너의 밤이 되어줄게' 김종현 "뉴이스트 멤버들에 연기 도움 많이 받아"]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329799</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329799</guid>
+            <pubDate>Thu, 04 Nov 2021 07:20:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329799">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/04/4a029071-62b9-4964-a018-189c805bb734.jpg" alt="'너의 밤이 되어줄게' 김종현 " 뉴이스트="" 멤버들에="" 연기="" 도움="" 많이="" 받아""="">        <div class="text-box">            <p class="summary">'너의 밤이 되어줄게' 김종현 "뉴이스트 멤버들에 연기 도움 많이 받아"</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/04/4a029071-62b9-4964-a018-189c805bb734.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['야생돌', 더욱 살벌해진 1대1 배틀 돌입…"이 악물고 할 것"]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/329762</link>
@@ -86,14 +94,6 @@
             <pubDate>Wed, 03 Nov 2021 08:24:30 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329724">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/03/50b031d4-fbb5-4282-b0dd-9450b27c6ddc.jpg" alt="[포토] 라붐 소연, '상상 더하는 무대'">        <div class="text-box">            <p class="summary">[포토] 라붐 소연, '상상 더하는 무대'</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/03/50b031d4-fbb5-4282-b0dd-9450b27c6ddc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라붐 솔빈 "유정 탈퇴 후 빈 자리, 부담감과 책임감 있어"]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329706</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329706</guid>
-            <pubDate>Wed, 03 Nov 2021 08:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329706">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/03/906d0d1c-9620-4f59-846f-36d6cf43fcde.jpg" alt="라붐 솔빈 " 유정="" 탈퇴="" 후="" 빈="" 자리,="" 부담감과="" 책임감="" 있어""="">        <div class="text-box">            <p class="summary">라붐 솔빈 "유정 탈퇴 후 빈 자리, 부담감과 책임감 있어"</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/03/906d0d1c-9620-4f59-846f-36d6cf43fcde.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
