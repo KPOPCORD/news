@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-05T04:27:30.631Z</updated>
+    <updated>2021-11-05T05:19:16.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아리아나 그란데·신시아 에리보, '위키드' 영화판 캐스팅…'캣츠' 악몽 지울까 [엑's 할리우드]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001369294</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001369294"/>
+        <updated>2021-11-05T05:19:16.009Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 팝스타 아리아나 그란데가 뮤지컬 원작 영화 '위키드'에 출연을 확정지었다. 4일(현지시간) 미국 데드라인을 비롯한 다수 매체는 아리아나 그란데와 신시아 에리보가 각각 글린다와 엘파바 역으]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['동성연인과 약혼' 크리스틴 스튜어트, 환한 미소…여전한 고혹미 [N해외연예]]]></title>
         <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005704762</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000828274"/>
         <updated>2021-11-03T08:25:07.348Z</updated>
         <content type="html"><![CDATA[걸그룹 라붐(소연, 솔빈, 진예, 해인)이 3일 오후 서울 한남동 블루스퀘어에서 미니 앨범 3집 '블라썸(BLOSSOM)' 발매 기념 쇼케이스를 가졌다. 쇼케이스 앞서 포즈를 취하는 라붐 솔빈.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소연 '사랑스럽게~' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828273</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000828273"/>
-        <updated>2021-11-03T08:25:07.349Z</updated>
-        <content type="html"><![CDATA[걸그룹 라붐(소연, 솔빈, 진예, 해인)이 3일 오후 서울 한남동 블루스퀘어에서 미니 앨범 3집 '블라썸(BLOSSOM)' 발매 기념 쇼케이스를 가졌다. 쇼케이스에 앞서 포즈를 취하는 라붐 소연.]]></content>
     </entry>
 </feed>

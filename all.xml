@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 04:27:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 05:19:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[버나드 박, 3년 만에 가요계 컴백 (KBS연예 ─ 음악)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=170314</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=170314</guid>
+            <pubDate>Fri, 05 Nov 2021 05:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=170314">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211105133544_5a127e7b9e2590ff7f864278b08c67d0.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=170314">버나드 박, 3년 만에 가요계 컴백 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211105133544_5a127e7b9e2590ff7f864278b08c67d0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 아스트로 MJ, "트로트 데뷔, 아로하 팬분들의 응원에 힘입어" (KBS연예 ─ 음악)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=170250</link>
@@ -331,21 +348,38 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211102083415_728542779e0accf6c60690b80499050d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[방탄소년단 'Dynamite', RIAA  트리플 플래티넘 (KBS연예 ─ 음악)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=169372</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=169372</guid>
-            <pubDate>Mon, 01 Nov 2021 23:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=169372">	<span class="img-box hh">
+            <title><![CDATA[아스트로 윤산하 "매력적인 친구여서 저도 모르게 빠져들었던 것 같아" (KBS연예 ─ 연예)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=170336</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=170336</guid>
+            <pubDate>Fri, 05 Nov 2021 05:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=170336">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211102075516_d42dd086b56ee6ae3ead11f448176d76.jpg" alt="대체 텍스트">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211105134739_304dbd77198587c9476460117902033c.jpg" alt="대체 텍스트">
 			</span>
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=169372">방탄소년단 'Dynamite', RIAA  트리플 플래티넘 </a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=170336">아스트로 윤산하 "매력적인 친구여서 저도 모르게 빠져들었던 것 같아"</a></span>
 	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211102075516_d42dd086b56ee6ae3ead11f448176d76.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211105134739_304dbd77198587c9476460117902033c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['숨은 그 놈 찾기' 주연, 배우 민채은 발탁! (KBS연예 ─ 연예)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=170330</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=170330</guid>
+            <pubDate>Fri, 05 Nov 2021 05:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=170330">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211105134454_a2e7c9a79ced5958712eff2573417857.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=170330">'숨은 그 놈 찾기' 주연, 배우 민채은 발탁!</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211105134454_a2e7c9a79ced5958712eff2573417857.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] ‘도서관 런웨이’ 윤고은 작가 "결혼이 두 사람의 삶에서 낭만을 챙겨주는 제도였으면" (KBS연예 ─ 연예)]]></title>
@@ -655,38 +689,12 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211101095846_c859ce53a50916132923026832c9f283.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[남우현-조성윤, 연말 뮤지컬 '잭더리퍼' 합류 (KBS연예 ─ 연예)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=169124</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=169124</guid>
-            <pubDate>Mon, 01 Nov 2021 03:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=169124">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211101084541_6933d7bd8b96a2097efba186f7278cfd.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=169124">남우현-조성윤, 연말 뮤지컬 '잭더리퍼' 합류</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211101084541_6933d7bd8b96a2097efba186f7278cfd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이규형, 카페 빌런  '커피 한잔 할까요?' 특별출연 (KBS연예 ─ 연예)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=168989</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=168989</guid>
-            <pubDate>Sun, 31 Oct 2021 01:05:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=168989">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211031091152_6cff4ba0e14eab019c39606c6f2169cd.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=168989">이규형, 카페 빌런  '커피 한잔 할까요?' 특별출연  </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211031091152_6cff4ba0e14eab019c39606c6f2169cd.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA["제니야, 저녁 먹자" 옥외광고로 데이트 신청한 필리핀 사업가…팬들 "소름" (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329875</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329875</guid>
+            <pubDate>Fri, 05 Nov 2021 05:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329875">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/05/3b580cc4-e8a3-4012-9e7d-05810f32cbcb.jpg" alt="" 제니야,="" 저녁="" 먹자"="" 옥외광고로="" 데이트="" 신청한="" 필리핀="" 사업가…팬들="" "소름""="">        <div class="text-box">            <p class="summary">"제니야, 저녁 먹자" 옥외광고로 데이트 신청한 필리핀 사업가…팬들 "소름"</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/05/3b580cc4-e8a3-4012-9e7d-05810f32cbcb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['너의 밤이 되어줄게' 김종현 "뉴이스트 멤버들에 연기 도움 많이 받아" (MBC 연예 ─ 아이돌)]]></title>
@@ -769,12 +777,46 @@
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/03/4a3f431c-f551-4717-b231-1e7597ee8ea9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[포토] 라붐 소연, '상상 더하는 무대' (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329724</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329724</guid>
-            <pubDate>Wed, 03 Nov 2021 08:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329724">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/03/50b031d4-fbb5-4282-b0dd-9450b27c6ddc.jpg" alt="[포토] 라붐 소연, '상상 더하는 무대'">        <div class="text-box">            <p class="summary">[포토] 라붐 소연, '상상 더하는 무대'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/03/50b031d4-fbb5-4282-b0dd-9450b27c6ddc.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['걸스플래닛999' Kep1er 측 "악플러 선처없이 강경 대응" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211105141416962</link>
+            <guid>https://entertain.v.daum.net/v/20211105141416962</guid>
+            <pubDate>Fri, 05 Nov 2021 05:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 그룹 케플러(Kep1er)의 매니지먼트를 담당하는 웨이크원, 스윙엔터테인먼트가 온라인 악성 게시물에 강경한 대응을 시사했다. 케플러(최유진, 샤오팅, 마시로, 김채현, 김다연, 히카루, 휴닝바히에, 서영은, 강예서) 공동 매니지먼트를 맡은 웨이크원, 스윙엔터테인먼트 측은 11월 5일 공식 SNS 계정을 통해 ‘온라인 악성 게시물 강]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['사랑 그 자체' 트와이스, 컴백 개인티저 공개..하트 여신 미모 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211105140858823</link>
+            <guid>https://entertain.v.daum.net/v/20211105140858823</guid>
+            <pubDate>Fri, 05 Nov 2021 05:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 그룹 트와이스가 새 앨범 개인 티저 이미지에서 사랑스러움을 한껏 뽐냈다. 소속사 JYP엔터테인먼트 측은 11월 5일 오후 1시 공식 SNS 채널에 트와이스 정규 3집 'Formula of Love : O+T=&lt;3'(포뮬러 오브 러브 : O+T=&lt;3)의 개별 콘셉트 사진을 추가 오픈하고 컴백 분위기를 고조시켰다. 앞서 공개한 오프닝]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[추운날엔 따뜻한 발라드 한곡 어때요? (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211105140809810</link>
+            <guid>https://entertain.v.daum.net/v/20211105140809810</guid>
+            <pubDate>Fri, 05 Nov 2021 05:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[아이즈 ize 한수진 기자바람은 더욱 스산해졌고, 귀가 슬슬 시려온다. 새로이&nbsp;겨울 옷을 꺼내입게 되는 요즘&nbsp;플레이리스트도 새옷을 갈아입힐 때가 왔다. 어느 때보다 노래의 따뜻한 기운이 필요한 계절이다. 때마침 가요계도 온기 가득한 발라드 가수들의 컴백이 잇따르고 있다. 플레이리스트를 따뜻하게&nbsp;데워 줄 반가운 가수의 컴백을 살펴본다.'프로 이별러' 양다일,]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[슈퍼주니어, 오늘 밤 데뷔 16주년 기념 라이브..하우스 파티 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211105134236258</link>
+            <guid>https://entertain.v.daum.net/v/20211105134236258</guid>
+            <pubDate>Fri, 05 Nov 2021 05:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=선미경 기자] 그룹 슈퍼주니어가 데뷔&nbsp;16주년을 기념하는 카운트다운 라이브를 진행한다. 해당 라이브는 오늘(5일) 오후 11시부터 약&nbsp;1시간 가량 슈퍼주니어 유튜브 채널을 통해 펼쳐지며,&nbsp;멤버들이 다락방에 모여 ‘하우스 파티’를 하는 아기자기한 콘셉트로 꾸며진다. 오는&nbsp;6일 데뷔&nbsp;16주년을 축하하며 펼쳐지는 라이브인 만큼,&nbsp;근황 토크,&nbsp;밸런스 게]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["협박·강요 없었다" 양현석, 비아이 마약수사 무마 첫 공판..혐의 전면 부인 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211105133033015</link>
+            <guid>https://entertain.v.daum.net/v/20211105133033015</guid>
+            <pubDate>Fri, 05 Nov 2021 05:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 공미나 기자] 그룹 아이콘 전 멤버 비아이의 마약 수사 무마 혐의로 기소된 양현석 전 YG엔터테인먼트 대표 프로듀서가 5일 오전 서울 서초구 중앙지방법원에서 진행된 첫 공판에 출석하고 있다.  양 전 대표는 2016년 비아이가 마약을 구매해 흡입했다는 의혹을 고발한 공익제보자 한모씨를 회유·협박해 수사를 무마하려 한 혐의로 재판에 넘겨졌다. 20]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[라붐, '블러썸 꽃길로 정주행' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211105132700934</link>
+            <guid>https://entertain.v.daum.net/v/20211105132700934</guid>
+            <pubDate>Fri, 05 Nov 2021 05:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[[SBS연예뉴스 | 백승철 기자] 그룹 라붐이 지난 3일 오후 서울 용산구 블루스퀘어에서 열린 미니 3집 'Blossom'(블러썸) 발매 기념 미디어 쇼케이스에서 타이틀곡 'Kiss Kiss' 무대를 선보이고 있다. 그룹 라붐이 4인조로 재편해 가요계로 돌아왔다. 특히 올해 '상상더하기'가 역주행을 한 이후 처음으로 선보이는 앨범으로 팬들의 기대를 모으고]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[임영웅 '사랑은 늘 도망가' 유튜브 총 조회수 1400만뷰 돌파 '인기 고공행진' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
@@ -840,46 +882,67 @@
             <content:encoded><![CDATA[[뉴스엔 이민지 기자] 가수 니브(NIve)가 디지털 싱글을 선보인다. 니브는 오는 11월 9일 디지털 싱글 ‘party without u’를 전세계 동시 발표한다. 니브(NIve)는 신곡 발매에 앞서 네 차례에 걸쳐 특유의 재치를 담은 티저 영상을 공개, 팬들의 기대를 모으고 있다. 새로운 싱글 ‘party without u’는 피츠카토 현 사운드가]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김희재, 팬사랑 어쩜 좋아..팬송 '별, 그대' 11일 발표 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211105105945344</link>
-            <guid>https://entertain.v.daum.net/v/20211105105945344</guid>
-            <pubDate>Fri, 05 Nov 2021 02:32:59 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박소영 기자] 트로트 가수 김희재가 팬들을 위한 신곡을 발표한다. 김희재가 오는 11일 오후 6시 각종 음원사이트를 통해 신곡 ‘별, 그대’를 발매한다. 신곡 ‘별, 그대’는 세련된 발라드 풍의 트로트 곡으로 팬들과 대중에게 따스한 선물이 되어줄 전망이다. 김희재가 팬클럽 ‘희랑별’을 생각하며 직접 작사한 이 곡은 신예 작곡가 정재민과 김희재가]]></content:encoded>
+            <title><![CDATA['전참시' 허성태 출연..청정 무공해 일상 大공개 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211105141606010</link>
+            <guid>https://entertain.v.daum.net/v/20211105141606010</guid>
+            <pubDate>Fri, 05 Nov 2021 05:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 백지연 기자] '전지적 참견 시점' 월드 빌런 허성태가 뜬다. 6일 방송되는 MBC 예능프로그램 '전지적 참견 시점'에는 '오징어 게임'으로 전 세계를 달군 허성태가 출격, 반전의 '허블리' 일상을 보여준다. '오징어 게임'의 덕수 캐릭터로 단숨에 월드 와이드 빌런으로 등극한 허성태가 '전참시' 카메라에 포착됐다. 작품 속 소름 끼치는 악역]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[SM엔터 할로윈 코스튬 콘테스트, 우승상금은 기부 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211105100420257</link>
-            <guid>https://entertain.v.daum.net/v/20211105100420257</guid>
-            <pubDate>Fri, 05 Nov 2021 02:32:59 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이민지 기자] SM엔터테인먼트가 할로윈 코스튬 콘테스트 우승 상금을 보호종료아동 자립 지원을 위한 후원금으로 기부했다. SM은 지난 10월 31일 ‘SMTOWN WONDERLAND 2021 - Welcome to SM HALLOWEEN HOUSE’(에스엠타운 원더랜드 2021 - 웰컴 투 할로윈 하우스)를 개최, 매년 뜨거운 호응을 얻어왔던 SM]]></content:encoded>
+            <title><![CDATA[정모 "K팝의 역사 조용필 씨, 저를 알아봐 주셔서 가문의 영광으로" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211105141202910</link>
+            <guid>https://entertain.v.daum.net/v/20211105141202910</guid>
+            <pubDate>Fri, 05 Nov 2021 05:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[MBC FM4U '정오의 희망곡 김신영입니다'에 가수 정모가 출연했다. 5일(금) 방송된 MBC FM4U '정오의 희망곡 김신영입니다'에서는 가수 정모가 '아무노래 TOP7' 코너에 출연해 '바람 노래'를 소개했다. 이날 DJ 김신영이 "SNS에 이은형 씨가 정모 씨를 흉내내는 영상을 올리셨다. 너무 닮았더라"고 말하자 정모는 "평상시에는 이은형 씨와]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[느와르 이준용, 8일 군입대..육군 현역 복무 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211105100005051</link>
-            <guid>https://entertain.v.daum.net/v/20211105100005051</guid>
-            <pubDate>Fri, 05 Nov 2021 01:03:37 GMT</pubDate>
-            <content:encoded><![CDATA[느와르 이준용(사진=SNS)[이데일리 스타in 김현식 기자] 보이그룹 느와르(NOIR) 멤버 이준용이 국방의 의무를 이행하기 위해 잠시 팬들 곁을 떠난다. 5일 가요계에 따르면 이준용은 오는 8일 훈련소에 입소한다. 이준용은 기초군사훈련을 받은 뒤 육군 현역으로 복무할 예정이다. 코로나19 확산 방지를 위해 입대 당일 팬들과 만나는 별도의 행사는 진행하지]]></content:encoded>
+            <title><![CDATA[로켓펀치 쥬리, '쥬리풀데이즈' 새 단장 예고..시즌3에 글로벌 팬 '관심 집중' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211105141023861</link>
+            <guid>https://entertain.v.daum.net/v/20211105141023861</guid>
+            <pubDate>Fri, 05 Nov 2021 05:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[[한국경제TV 디지털이슈팀 유병철  기자]그룹 로켓펀치(Rocket Punch) 쥬리가 새로운 콘텐츠로 돌아온다. 쥬리는 5일 오후 7시 네이버 브이 라이브(V LIVE)를 통해 새 콘텐츠 '쥬리풀데이즈3(JURIFUL DAYS 3)' 제작발표회를 진행한다. '쥬리풀데이즈'는 쥬리가 글로벌 팬들에게 K팝 아이돌의 세계와 자신의 일상 등을 소개하는 콘텐츠다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['음원사재기 논란' 영탁 측, 이성 되찾고 추가입장 내야 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211105093753292</link>
-            <guid>https://entertain.v.daum.net/v/20211105093753292</guid>
-            <pubDate>Fri, 05 Nov 2021 01:03:37 GMT</pubDate>
-            <content:encoded><![CDATA[[이데일리 스타in 김현식 기자] “제가 잠시 좀 일이 있어서요…. 나중에 설명 드리겠습니다.” 4일 늦은 오후 연락이 닿은 가수 영탁의 소속사 밀라그로 이재규 대표의 말이다. 이데일리는 이 대표에게 음원사재기 논란에 대한 추가 입장을 듣고자 연락을 취했다. 하지만 이 대표는 “일이 좀 있어서 나중에 설명드리겠다”는 말만 되풀이 한 뒤 통화를 끝냈다. 그]]></content:encoded>
+            <title><![CDATA[양현석 '비아이 마약 무마' 첫 공판, 혐의 전면 부인..양측 격렬 대립 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211105140601766</link>
+            <guid>https://entertain.v.daum.net/v/20211105140601766</guid>
+            <pubDate>Fri, 05 Nov 2021 05:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 아이콘 전 멤버 비아이(본명 김한빈, 25)의 마약 수사 무마 혐의로 기소된 양현석(51) 전 YG엔터테인먼트 대표 프로듀서의 첫 공판에서 검찰과 변호인 측이 격렬하게 대립했다. 서울중앙지법 형사합의23부(재판장 유영근)는 5일 오전 10시 양현석의 특정범죄 가중처벌 등에 관한 법률 위반(보복협박) 등의 혐의에 대한 첫 공판을 진행했다. 양 전]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김희재, 11일 신곡 '별, 그대' 발매 "팬클럽 희랑별 위한 선물" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211105093045010</link>
-            <guid>https://entertain.v.daum.net/v/20211105093045010</guid>
-            <pubDate>Fri, 05 Nov 2021 01:03:37 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 트로트 가수 김희재가 신곡을 발표한다. 김희재가 오는 11월 11일 오후 6시 각종 음원사이트를 통해 신곡 ‘별, 그대’를 발매한다. 신곡 ‘별, 그대’는 세련된 발라드 풍의 트로트 곡으로 팬들과 대중에게 따스한 선물이 되어줄 전망이다. 김희재가 팬클럽 ‘희랑별’을 생각하며 직접 작사한 이 곡은 신예 작곡가 정재민과 김희재가 공동]]></content:encoded>
+            <title><![CDATA[오윤아, 슬립 드레스 완벽 소화..부국제 준비 비하인드 공개 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211105140238667</link>
+            <guid>https://entertain.v.daum.net/v/20211105140238667</guid>
+            <pubDate>Fri, 05 Nov 2021 05:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 송오정 기자] 배우 오윤아가 부산국제영화제 비하인드를 전했다. 11월 4일 유튜브 채널 'Oh!윤아TV' 에 부산 국제 영화제 현장 브이로그 영상이 게재됐다. 부산에 있는 한 호텔에서 아침을 연 오윤아는 "제가 부산에 온 이유는 오늘 부산국제영화제가 열리기 때문이다"라고 설명했다. 이어 "영화 '방법:재차의'를 통해 오랜만에 스크린에 복귀를 했는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[로켓펀치 쥬리, '쥬리풀데이즈3'로 돌아온다, 글로벌 팬 '관심 집중' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211105092318781</link>
-            <guid>https://entertain.v.daum.net/v/20211105092318781</guid>
-            <pubDate>Fri, 05 Nov 2021 01:03:37 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 이웅희기자] 그룹 로켓펀치(Rocket Punch) 쥬리가 새로운 콘텐츠로 돌아온다. ‘쥬리풀데이즈’ 새 단장을 예고하며 글로벌 팬들의 관심이 집중되고 있다. 쥬리는 5일 오후 7시 네이버 브이 라이브(V LIVE)를 통해 새 콘텐츠 ‘쥬리풀데이즈3(JURIFUL DAYS 3)’ 제작발표회를 진행한다. ‘쥬리풀데이즈’는 쥬리가]]></content:encoded>
+            <title><![CDATA['최파타' 노을 강균성 "'청혼', 2AM 노래인 줄 아는 분 많아" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211105135810565</link>
+            <guid>https://entertain.v.daum.net/v/20211105135810565</guid>
+            <pubDate>Fri, 05 Nov 2021 05:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 노을이 '청혼'이 2AM 커버로 유명세를 타며 생긴 나름의 문제점을 전했다. 11월 5일 방송된 SBS 파워FM '최화정의 파워타임'(이하 '최파타') 최애 초대석 코너에는 가을 신곡 '미워지지가 않아 (Unhateable)'로 돌아온 가수 노을이 출연했다. 이날 노을은 자신의 노래를 커버해준 후배들에 대한 고마움을 드러냈다. 강]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['최파타' 노을 강균성 "국내 공연 음향 화딱지 나, 만족한 적 없다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211105134600321</link>
+            <guid>https://entertain.v.daum.net/v/20211105134600321</guid>
+            <pubDate>Fri, 05 Nov 2021 05:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 노을 강균성이 프로페셔널한 면모를 드러냈다. 11월 5일 방송된 SBS 파워FM '최화정의 파워타임'(이하 '최파타') 최애 초대석 코너에는 가을 신곡 '미워지지가 않아 (Unhateable)'로 돌아온 가수 노을이 출연했다. 이날 노을 멤버들은 콘서트를 앞두고 있음을 전하며, 가장 중요하게 준비하고 있는 것으로 '음향'을 언급했]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[강균성 "연애 中일 때 방송서 안 한다고 거짓말한 적 있어" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211105134003211</link>
+            <guid>https://entertain.v.daum.net/v/20211105134003211</guid>
+            <pubDate>Fri, 05 Nov 2021 05:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 백지연 기자] '최화정의 파워타임' 노을 강균성이 연애 중일 때 거짓말을 한 적이 있다고 밝혔다. 5일 오후 방송된 SBS 파워 FM '최화정의 파워타임'에 노을이 게스트로 등장했다. 이날 방송에서 DJ 최화정은 신혼인 이상곤에게 "행복하냐"고 물었다. 이상곤은 "한창 좋을 때여서 행복하다"며 아내에 대한 애정을 과시해 훈훈함을 자아냈다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["김종국, 약으로 근육 키웠다?"..해외 보디빌더 저격에 "자랑해야겠다" 부인 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211105132752953</link>
+            <guid>https://entertain.v.daum.net/v/20211105132752953</guid>
+            <pubDate>Fri, 05 Nov 2021 05:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 이우주 기자] 캐나다 유명 해외 보디빌더가 김종국에게 '로이더' 의혹을 제기한 가운데, 김종국이 이를 간접적으로 부인했다. 김종국은 지난 4일 자신의 유튜브 채널 '짐종국'을 통해 '운동할 시간이 없다는 사람에게 보여주세요…제발'이라는 제목의 영상을 게재했다. 영상 속 김종국은 "많은 분들이 운동 소요 시간 때문에 고민하시]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['최파타' 노을 강균성 "결혼해 꼭 아이 낳아야 하나, 가치관 혼란 와" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
@@ -924,69 +987,6 @@
             <content:encoded><![CDATA[[스포츠투데이 백지연 기자] '전지적 참견 시점' 댄서 모니카와 립제이가 출격한다. 6일 방송되는 MBC 예능프로그램 '전지적 참견 시점' 177회에는 대세 중의 대세 '스우파' 모니카와 립제이가 출연, 리얼한 일상을 공개한다. 전국을 댄스 본능으로 들끓게 한 '스트릿 우먼 파이터'의 모니카와 립제이가 '전참시'에 뜬다. 모니카와 립제이는 댄스 크루 프라우]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김종국, 약물 의혹 부인 "자랑하고 다녀도 될 듯" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211105125525387</link>
-            <guid>https://entertain.v.daum.net/v/20211105125525387</guid>
-            <pubDate>Fri, 05 Nov 2021 04:27:04 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김수정 인턴기자) 김종국이 '약물 의혹'에 대해 간접 부인했다. 김종국은 지난 4일, 자신의 유튜브 채널 영상에 "꾸준한 노력과 정신력만으로도 46세에 남성호르몬 9.24다. 2년 전이라 지금은 좀 낮아졌을 수도 있지만"이라고 운을 떼며 "여러분들도 충분히 가능하다. 이제는 좀 더 자랑하고 다녀도 될 것 같다. 이게 많이 대단한 거였나보다"]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["부스터 안 먹어"..김종국, 약물 의혹 보란듯이 저격? (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211105125252337</link>
-            <guid>https://entertain.v.daum.net/v/20211105125252337</guid>
-            <pubDate>Fri, 05 Nov 2021 04:27:04 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박소영 기자] 김종국이 자신을 둘러싼 약물 의혹에&nbsp;보란듯이 일상 운동 영상을 남겼다.&nbsp;&nbsp; 김종국은 4일 자신의 유튜브 채널에 올린 영상을 통해 “시간은 짧게, 하지만 강도 있게 하는 운동법을 알려드리겠다”며 “퇴근하고 바로 집에 가려면 차도 많이 밀린다. 아니면 점심시간을 이용해서, 아침 운동을 하고 일 가는 분들도 많다. 진짜 운동을 못할 땐]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김선호, 또다시 미담.."회사 설득, 박혜경 뮤비 무보수 자청" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211105125002264</link>
-            <guid>https://entertain.v.daum.net/v/20211105125002264</guid>
-            <pubDate>Fri, 05 Nov 2021 04:27:04 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) 사생활 논란에 휩싸였던 배우 김선호에 대한 미담이 계속해서 전해지고 있다. 자신을 가수 박혜경 컴백 곡 프로듀싱을 맡았다고 소개한 프로듀서 A씨는 5일 인스타그램에 "김선호님과 관련한 에피소드가 있어 한 글자 적는다. 개인적으로 너무 좋은 분이라 느꼈고 감사함을 느꼈던 기억이 있기에 안타까운 마음에 직접 경험한 내용을 토대로]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이경실 "나보다 팔자 더러운 X 없어"→정선희 "내가 언니 이겨" 상 중에 웃음터진 사연 '호걸언니' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211105124700232</link>
-            <guid>https://entertain.v.daum.net/v/20211105124700232</guid>
-            <pubDate>Fri, 05 Nov 2021 04:27:04 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박은해 기자] 이경실과 정선희가 개그우먼의 유쾌한 삶의 방식을 털어놓았다. 11월 4일 '호걸언니' 유튜브 채널에는 '경실&amp;선희, 의리 싫어! 이제 변절의 아이콘 될 거야! 외친 이유?!/경실의 가방에 멸치가 들어있었던 사연/선희, "내가 언니 이겼다!" 경실이 선희에게 진 것은?'이라는 제목 영상이 게재됐다. 이날 이경실은 "나는 마녀사냥을 당]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한서희 "5억 받았으면 입 다물었다" 증언, YG 재판 새 국면 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211105124050147</link>
-            <guid>https://entertain.v.daum.net/v/20211105124050147</guid>
-            <pubDate>Fri, 05 Nov 2021 04:27:04 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박판석 기자]&nbsp;양현석 YG엔터테인먼트&nbsp;전 대표 프로듀서가 한서희를 협박 한적 없다고 무죄를 주장했다. 한서희는 자신을 조사한 경찰관 A에게 5억원을 받았으면 공익제보를 하지 않았을 것이라는 취지의 말을 한것이 드러났다. 서울중앙지법 형사합의23부(재판장 유영근)는 이날 오전 양현석의 특정범죄 가중처벌 등에 관한 법률 위반(보복협박) 등의 혐의에]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아바, 40년 만에 새 항해..오늘 앨범 '보야지' 발매 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211105123117989</link>
-            <guid>https://entertain.v.daum.net/v/20211105123117989</guid>
-            <pubDate>Fri, 05 Nov 2021 04:27:04 GMT</pubDate>
-            <content:encoded><![CDATA[기사내용 요약 1982년 해체 이후 재결성…내년 5월 런던서 홀로그램 콘서트 [서울=뉴시스]이재훈 기자 = 스웨덴의 전설적인 4인 혼성 팝그룹 '아바(ABBA)'가 40년 만인 5일 새 앨범 '보야지(Voyage)'를 발매했다. 최근 발매된 새 싱글 '아이 스틸 해브 페이스 인 유(I Still Have Faith In You)'와 '돈트 셧 미 다운(]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["저 따위가 감히"..이지훈, 작가 교체+바지 벗고 갑질 난동 '억울함 호소' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211105121817747</link>
-            <guid>https://entertain.v.daum.net/v/20211105121817747</guid>
-            <pubDate>Fri, 05 Nov 2021 03:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박소영 기자] 갑질 논란에 휘말린 배우 이지훈이 긴 해명글을 남겼다.&nbsp; 이지훈은 5일 오전 개인 SNS에 “죄송스럽게도 이제야 솔직한 저의 말씀을 드립니다. 우선 이유불문하고 제 친구와 현장 FD분과의 마찰이 발생하게 된 점에 대하여 진심으로 송구하다는 말씀을 드립니다”라는 글을 남겼다.&nbsp; 이어 그는 “사실 저는 어떠한 대화가 오갔는지 모릅니다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['금쪽같은 내새끼' 귀신이 두려워 이상 행동 보이는 막내 사연 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211105121508670</link>
-            <guid>https://entertain.v.daum.net/v/20211105121508670</guid>
-            <pubDate>Fri, 05 Nov 2021 03:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 백지연 기자] '금쪽같은 내새끼'에서 귀신을 무서워해 이상행동을 보이는 금쪽이의 모습이 공개됐다. 5일 방송되는 채널A 예능프로그램 '요즘 육아 - 금쪽같은 내새끼'에서는 귀신이 두려워 이상 행동을 보이는 막내의 사연이 공개된다. 이날 스튜디오에서는 세쌍둥이를 키우고 있는 부부가 출연한다. 엄마는 “세쌍둥이 중 막내가 평소 이상한 말을 자주]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['검은 태양' 정문성 "양면의 캐릭터, 어려웠지만 좋았다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211105115807304</link>
-            <guid>https://entertain.v.daum.net/v/20211105115807304</guid>
-            <pubDate>Fri, 05 Nov 2021 03:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 김종은 기자] 배우 정문성이 '검은 태양'과 '뫼비우스 : 검은 태양'에서 두 개의 면을 지닌 장천우 역을 연기한 소감을 전했다. 정문성은 5일 오전 진행된 MBC 금토드라마 '검은 태양'(극본 박석호·연출 김성용) 및 '뫼비우스 : 검은 태양'(극본 유상·연출 위득규) 종영 기념 인터뷰에서 "같은 캐릭터를 맡았지만 두 작품 속에서의 온도가]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[킴 카다시안♥피트 데이비슨 열애설, "파파라치와 경호원 실랑이 벌이며 신경전" (다음 연예 ─ 뉴스 ─ 해외)]]></title>
             <link>https://entertain.v.daum.net/v/20211105060010145</link>
             <guid>https://entertain.v.daum.net/v/20211105060010145</guid>
@@ -999,6 +999,153 @@
             <guid>https://entertain.v.daum.net/v/20211105054749065</guid>
             <pubDate>Thu, 04 Nov 2021 21:19:11 GMT</pubDate>
             <content:encoded><![CDATA[[뉴스엔 박수인 기자] 팝가수 브리트니 스피어스(Britney Spears) 어머니가 아버지에 이어 딸에게 돈을 요구했다. 11월 3일(현지시각) 영국 매체 BBC는 브리트니 스피어스 어머니가 최근 딸을 변호한 것에 대해 변호사 수임료 포함 65만달러(한화 약 7억 7천만 원)을 요구했다고 보도했다. 앞서 브리트니 스피어스는 자신의 후견인인 아버지와 법정]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[컴백 앞둔 정동원, 반전 그림 실력 공개 “과감하게 그려야” (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828785</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828785</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[가수 정동원이 화가로 변신했다. 정동원은 오는 17일 첫 정규 앨범 ‘그리움, 아낌없이 주는 나무’로 컴백한다. 이에 앞서 정동원 소속사 쇼플레이엔터테인먼트는 지난 4일 유튜브 채널을 통해 ‘D-DAY’ 두 번째 에]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[정준하(MC 민지), '밤하늘에 별처럼(전어)' MV 티저...댄스 퍼포먼스 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001369308</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001369308</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김수정 인턴기자) 정준하(MC 민지)가 신곡으로 댄스 퍼포먼스를 선사한다. 정준하와 MC 민지는 5일 SNS를 통해 두 번째 싱글 '밤하늘에 별처럼 (전어)'의 뮤직비디오 티저 영상을 게재했다. 해당]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[슈퍼주니어-D&E, 美 FOX5 채널 유명 토크쇼 ‘굿데이 뉴욕’ 출연 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828784</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828784</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼주니어-D&amp;E가 미국 FOX5 채널의 유명 토크쇼 ‘Good Day New York’(굿데이 뉴욕)에 출연하며 글로벌 팬들에게 깊은 인상을 남겼다. 미국 뉴욕 현지 시간으로 11월 4일 오전 9시, 슈퍼주니어-D]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['걸스플래닛999' Kep1er(케플러) 측 "악플러 선처없이 강경 대응"(공식) (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000507720</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000507720</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 그룹 케플러(Kep1er)의 매니지먼트를 담당하는 웨이크원, 스윙엔터테인먼트가 온라인 악성 게시물에 강경한 대응을 시사했다. 케플러(최유진, 샤오팅, 마시로, 김채현, 김다연, 히카루, 휴닝바]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[트와이스 컴백 개인 티저 추가 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001661505</link>
+            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001661505</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[트와이스가 새 앨범 개인 티저 이미지를 공개했다. JYP엔터테인먼트는 5일 오후 1시 공식 SNS 채널에 트와이스 정규 3집 'Formula of Love : O+T=&lt;3'(포뮬러 오브 러브 : O+T=&lt;3)의 개별]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['사랑 그 자체' 트와이스, 컴백 개인티저 공개…하트 여신 미모 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000507713</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000507713</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 그룹 트와이스가 새 앨범 개인 티저 이미지에서 사랑스러움을 한껏 뽐냈다. 소속사 JYP엔터테인먼트 측은 11월 5일 오후 1시 공식 SNS 채널에 트와이스 정규 3집 'Formula of Lo]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[추운날엔 따뜻한 발라드 한곡 어때요? (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=465&amp;aid=0000005205</link>
+            <guid>https://entertain.naver.com/now/read?oid=465&amp;aid=0000005205</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[바람은 더욱 스산해졌고, 귀가 슬슬 시려온다. 새로이 겨울 옷을 꺼내입게 되는 요즘 플레이리스트도 새옷을 갈아입힐 때가 왔다. 어느 때보다 노래의 따뜻한 기운이 필요한 계절이다. 때마침 가요계도 온기 가득한 발라드]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[트와이스, 러블리 매력 가득 담긴 개인 티저 추가 공개 "사랑 그 자체" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003494936</link>
+            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003494936</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[[헤럴드POP=임의정 기자] 트와이스가 새 앨범 개인 티저 이미지에서 사랑스러움을 한껏 뽐냈다. JYP엔터테인먼트는 5일 오후 1시 공식 SNS 채널에 트와이스 정규 3집 'Formula of Love : O+T=&lt;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[투모로우바이투게더, 日 패션 매거진 ‘ar’ 커버 장식 “일본 아티스트와 첫 협업 영광" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000507712</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000507712</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 그룹 투모로우바이투게더가 일본 패션 매거진 ‘ar’의 커버를 장식했다. 투모로우바이투게더(수빈, 연준, 범규, 태현, 휴닝카이)는 11월 12일 발매 예정인 일본 패션 매거진 ‘ar’ 12월호]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘FNC 제작’ 日 걸그룹 오디션 프로 동시간대 ‘시청률 1위’ (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=016&amp;aid=0001908994</link>
+            <guid>https://entertain.naver.com/now/read?oid=016&amp;aid=0001908994</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[[헤럴드경제 = 서병기 선임기자]FNC재팬이 제작하는 초대형 일본 걸그룹 오디션 프로그램이 연일 뜨거운 화제다. NTV ‘Who is Princess? -Girls Group Debut Survival Program]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[임영웅, 탄생 11100일 기념 기부요정 등극 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001369304</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001369304</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이정범 기자) 임영웅이 가수 카테고리 제14대 기부요정으로 선정되어 기부한다. 임영웅은 셀럽 인기 순위 서비스 ‘최애돌 셀럽’에서 팬 영웅시대의 관심과 호응으로 70,255,624표를 받았다. 11월]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[거장 엔리오 모리꼬네 헌정앨범 나온다…일볼로, 음원 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010815054</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010815054</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]이수진 인턴 기자 = 3인조 팝페라 그룹 일 볼로(Il Volo)가 전설적인 영화음악가 엔니오 모리꼬네(Ennio Morricone) 헌정 앨범 ‘일 볼로 싱즈 모리꼬네(Il Volo Sings Mor]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[양다일, 새 싱글 '널 그리워하고 있어' 10일 발매(공식) (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003494932</link>
+            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003494932</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[[헤럴드POP=임의정 기자]'프로 이별러' 양다일이 감성 발라드로 돌아온다. 양다일이 오는 10일(수) 오후 6시에 새로운 싱글 ‘널 그리워하고 있어’를 발매한다. 제작사 브랜뉴뮤직과 니즈뮤직 엔터테인먼트가 공동 제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[정준하(MC 민지), 새 싱글 '밤하늘에 별처럼' M/V 티저 공개..신나는 퍼포먼스 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003494921</link>
+            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003494921</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[[헤럴드POP=임의정 기자]정준하(MC 민지)가 신곡으로 댄스 퍼포먼스를 선사한다. 정준하와 MC 민지는 5일 정오 SNS를 통해 두 번째 싱글 '밤하늘에 별처럼 (전어)'의 뮤직비디오 티저 영상을 게재했다. 해당]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[버나드 박, 3년 만에 가요계 컴백 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=438&amp;aid=0000040370</link>
+            <guid>https://entertain.naver.com/now/read?oid=438&amp;aid=0000040370</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[버나드 박이 3년 만에 가요계에 컴백한다. JYP엔터테인먼트는 5일 0시 공식 SNS 채널에 버나드 박 새 디지털 싱글 'Bad Influence'의 트랙리스트 이미지를 게재했다. 앞서 공개한 컴백 어나운스먼트 이미]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[양현석, 첫 공판서 '비아이 마약 수사 무마' 혐의 부인…"협박 없었다" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001369293</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001369293</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 그룹 아이콘 전 멤버 비아이(김한빈)의 마약 혐의 수사를 무마한 혐의로 기소된 양현석 전 YG엔터테인먼트 총괄프로듀서(대표)가 첫 정식 재판에서 혐의를 부인하는 입장을 재확인했다. 5일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이펙스, 데뷔 5개월만 '2021 MAMA' 3개부문 후보…올해 최대 기대주 존재감 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000327332</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000327332</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=정유진 기자] 그룹 이펙스가 '2021 MAMA' 3개 부문 후보에 이름을 올렸다. 이펙스 소속사 C9엔터테인먼트는 "이펙스(위시, 금동현, 뮤, 아민, 백승, 에이든, 예왕, 제프)가 오는 12월 1]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[빌보드·스포티파이가 인정한 니브, 9일 신곡 ‘party without u’ 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=021&amp;aid=0002491476</link>
+            <guid>https://entertain.naver.com/now/read?oid=021&amp;aid=0002491476</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[뛰어난 프로듀싱 실력으로 주목을 받고 있는 가수 니브(NIve)가 오는 9일 디지털 싱글 ‘party without u’를 전세계 동시 발표한다. ‘party without u’는 피츠카토 현 사운드가 인상적인 Po]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["협박·강요 없었다" 양현석, 비아이 마약수사 무마 첫 공판..혐의 전면 부인[종합] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002385</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002385</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 아이콘 전 멤버 비아이(25, 김한빈)의 마약 무마 혐의로 기소된 양현석(51) 전 YG엔터테인먼트 대표 프로듀서가 혐의를 전면 부인했다. 5일 오전 서울중앙지법 형사합의23부(유영근 부장판)는 특정범죄 가중처]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[해외가 주목하는 니브, 9일 신곡 '파티 위드아웃 유' 발표 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000327328</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000327328</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=장진리 기자] 가수 니브가 신곡을 발표한다. 니브는 9일 오후 6시 디지털 싱글 '파티 위드아웃 유'를 공개한다. '파티 위드 아웃 유'는 피츠카토 현 사운드가 인상적인 팝 알앤비 장르의 곡으로 기타,]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['너의 밤' 드라마 속 밴드 루나, 싱글 '뷰티풀…' 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010815037</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010815037</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]이수진 인턴 기자 = 드라마 '너의 밤이 되어줄게'의 아이돌 밴드 루나가 현실에서 싱글 앨범을 발표한다. 5일 제작사 빅오션ENM은 공식 SNS를 통해 오는 8일 낮 12시에 공개되는 SBS 드라마 ']]></content:encoded>
         </item>
         <item>
             <title><![CDATA[김희재, 11일 신곡 ‘별, 그대’ 발매…“팬클럽 ‘희랑별’ 위한 선물” (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
@@ -1029,326 +1176,186 @@
             <content:encoded><![CDATA[[SBS 연예뉴스 l 강경윤 기자] 연예인 지망생에게 소속 가수였던 비아이 마약 사건과 관련해 진술을 번복하라고 강요한 혐의로 재판에 넘겨진 YG엔터테인먼트 양현석 전 대표 프로듀서가 혐의를 전면 부인했다. 서울중앙]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[애령 섹스텟 ‘달콤한 재즈교실’ 연다 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000772305</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000772305</guid>
-            <pubDate>Fri, 05 Nov 2021 04:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] ‘재린이’들을 위한 교육형 재즈콘서트 ‘달콤한 재즈교실’이 열린다. 대중들은 재즈를 멋지게 생각하고 호기심을 가지고 있지만, 동시에 어려움을 느끼기도 한다. 모르고 들어도 멋진 재즈이지만, 잘 알고 들]]></content:encoded>
+            <title><![CDATA[김대건, KAFA 장편 영화 ‘모르는 이야기’ 출연 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000596160</link>
+            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000596160</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[김대건이 한국영화아카데미(KAFA) 제15기 장편연구과정작품 영화 ‘모르는 이야기’ 출연을 확정 지었다. ‘모르는 이야기’는 꿈에서 깨고 싶지 않은 자들의 환상이 끝없이 이어지는 판타지 영화로 김대건은 현실보다 매혹]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘데뷔 5개월차’ 이펙스, 신인상→올해의 앨범까지 ‘2021 MAMA’ 노미네이트 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828770</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828770</guid>
-            <pubDate>Fri, 05 Nov 2021 04:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 EPEX(이펙스)가 '2021 MAMA'에서 3개 부문 후보에 이름을 올렸다. 5일 C9엔터테인먼트는 "이펙스(위시, 금동현, 뮤, 아민, 백승, 에이든, 예왕, 제프)가 오는 12월 11일 개최되는 '2021]]></content:encoded>
+            <title><![CDATA[나영석 "성공하면 신차 풀옵션"…'온동천재 안재현' 안재현 일생일대 도전 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003798106</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003798106</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 이승미 기자]안재현이 자존심을 걸고 고난이도 플라테스 동작에 도전한다. 5일 방송되는 tvN '운동천재 안재현'에서는 안재현이 내기 상품이 걸린 필라테스 고난이도 동작에 도전한다. 나영석PD가 "성공하면]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[FNC 재팬, 초대형 日 걸그룹 오디션 화제..동시간대 시청률 1위 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003494881</link>
-            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003494881</guid>
-            <pubDate>Fri, 05 Nov 2021 04:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드POP=김나율기자]FNC재팬이 제작하는 초대형 일본 걸그룹 오디션 프로그램이 연일 뜨거운 화제다. NTV ‘Who is Princess? -Girls Group Debut Survival Program-(이하]]></content:encoded>
+            <title><![CDATA[‘그랜파’ 첫 게스트 김용건 “기 죽이면 노동청에 고발…” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004874892</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004874892</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[76세 최고령 캐디로 나선 김용건이 ‘그랜파 4인방’과 거침없는 티키타카를 발휘하며 ‘도캐디’ 도경완을 위협(?)한다. 6일(토) 밤 9시 30분 첫 방송하는 MBN ‘인생필드 평생동반-그랜파’에서는 김용건이 첫 게]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘FNC 제작’ 日 걸그룹 오디션 프로그램 동시간대 시청률 1위 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000507668</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000507668</guid>
-            <pubDate>Fri, 05 Nov 2021 04:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] FNC재팬이 제작하는 초대형 일본 걸그룹 오디션 프로그램이 연일 뜨거운 화제다. NTV ‘Who is Princess? -Girls Group Debut Survival Program-(이하]]></content:encoded>
+            <title><![CDATA['예비 딸바보' 조현재 "좋은 아빠, 노력하는 배우 되겠다" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000751381</link>
+            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000751381</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[배우 조현재가 딸바보에 등극했다. 조현재는 5일 개인 인스타그램에 "진심으로 다시 한번 우리사랑이의 탄생을 축복해주셔서 진심으로 감사드립니다"라며 인사했다. 그는 "좋은 아버지이자 언제나 노력하는 배우 되겠습니다"라]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[공소원, '트위스트킹' 스페셜 DJ 출격…'트롯 바비인형' 입담 어떨까 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004624971</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004624971</guid>
-            <pubDate>Fri, 05 Nov 2021 04:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[가수 공소원이 숨겨놓은 입담을 대방출한다. 공소원은 5일 오후 7시 방송되는 BTN라디오 '트위스트 킹 남승민입니다'(이하 '트위스트킹')에 스페셜 DJ로 출연한다. 이날 공소원은 넘치는 끼와 매력은 물론, 차분하면]]></content:encoded>
+            <title><![CDATA['국민 영수증' 김영옥 "64년 동안 3달 쉬었을 때 빼고는 모두 일했다" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=014&amp;aid=0004734945</link>
+            <guid>https://entertain.naver.com/now/read?oid=014&amp;aid=0004734945</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:08 GMT</pubDate>
+            <content:encoded><![CDATA['국민 영수증' 김영옥이 남다른 예능감으로 박영진을 혼쭐낸다. 오늘(5일) 밤 9시 10분 방송되는 KBS Joy 예능 프로그램 '국민 영수증' 9회에서는 대한민국 현역 최고령 여배우 김영옥의 영수증을 분석하는 3M]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[임영웅, 32주연속 아이돌차트 랭킹 1위 '차트 장악한 히어로' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000507664</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000507664</guid>
-            <pubDate>Fri, 05 Nov 2021 04:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 가수 임영웅이 10월 5주 차 아이돌차트 평점랭킹에서 최다 득표 영예를 안았다. 11월 5일 아이돌차트에 따르면 10월 29일부터 11월 4일까지 집계된 평점랭킹에서 임영웅은 60만 5,594]]></content:encoded>
+            <title><![CDATA[양미라, 아들도 '멍'하게 만든 유부초밥 '어떻길래?'..."왜 서호가 만든거냐고 하는데?" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003798105</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003798105</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 정안지 기자] 배우 양미라의 아들이 엄마표 유부초밥을 보고 고민에 빠졌다. 양미라는 5일 자신의 인스타그램 스토리를 통해 "서호 주려고 유부초밥 만들었는데 솜이만 관심"이라며 사진을 게재했다. 사진]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[88라이징, 美 로즈볼 스타디움서 'HITC 페스티벌' 연다…화려한 라인업 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004624970</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004624970</guid>
-            <pubDate>Fri, 05 Nov 2021 04:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 미디어 회사 88라이징이 'Head In the Clouds 페스티벌'을 통해 아시안 아티스트들의 존재감을 전 세계에 전한다. 88라이징은 오는 6, 7일 양일간 미국 캘리포니아주 패서디나 로즈볼 스타디움에서]]></content:encoded>
+            <title><![CDATA['너의 밤' 밴드 루나(LUNA), 8일 싱글 'Beautiful Breakup' 발매 예고 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=014&amp;aid=0004734941</link>
+            <guid>https://entertain.naver.com/now/read?oid=014&amp;aid=0004734941</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[드라마 '너의 밤이 되어줄게'의 글로벌 아이돌 밴드 루나(LUNA, 윤태인 서우연 이신 김유찬 우가온)가 싱글 앨범을 발표한다. 제작사 빅오션ENM 측은 5일 0시 공식 SNS를 통해 오는 8일 정오 공개되는 SBS]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스테이씨, '색안경' 안무 파트체인지 도전..."아주 난장판이다" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001369269</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001369269</guid>
-            <pubDate>Fri, 05 Nov 2021 04:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김수정 인턴기자) 그룹 스테이씨(STAYC)가 비글미 넘치는 매력을 선보였다. 스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)는 지난 4일 공식 유튜브 채널을 통해 첫 번째 미니앨범 'STEREOT]]></content:encoded>
+            <title><![CDATA[느와르 준용, 육군 현역 입대...감사의 마음 눌러 쓴 손편지 공개 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001619326</link>
+            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001619326</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[느와르(NOIR)의 준용이 육군 현역으로 입대한다. 준용(본명 이준용)의 소속사 럭팩토리 측에서는 5일 정오 느와르의 공식 인스타그램을 통해 그의 입대 소식을 알렸다. 준용은 팬덤 루미에르 (Lumiere)를 위해]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에이티즈 홍중 美 타임스퀘어 광고 장식, '글로벌 핫 아이콘' 대세 입증! (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000799887</link>
-            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000799887</guid>
-            <pubDate>Fri, 05 Nov 2021 04:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 이웅희기자] 그룹 에이티즈 홍중의 생일을 맞아 미국 뉴욕 타임스퀘어 대형 전광판을 장식했다. 후즈팬 지원 속에 글로벌 핫 아이콘임을 입증했다. 지난 4일 글로벌 케이팝 팬덤 플랫폼 ‘후즈팬(Whosf]]></content:encoded>
+            <title><![CDATA[김태희, 청순부터 섹시까지…변함없는 ‘여신 미모’ (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003635300</link>
+            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003635300</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[배우 김태희가 우아한 미모로 여신 자태를 뽐냈다. 김태희는 5일 자신의 인스타그램을 통해 "정말 오랜만이죠^^"라며 "너무 오래간만에 업로드하려고 보니 애플리케이션도 못 찾아서 한참 헤맸네요"라는 글과 함께 사진을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아바, 40년 만에 새 항해…오늘 앨범 '보야지' 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010814978</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010814978</guid>
-            <pubDate>Fri, 05 Nov 2021 04:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[기사내용 요약 1982년 해체 이후 재결성…내년 5월 런던서 홀로그램 콘서트 [서울=뉴시스]이재훈 기자 = 스웨덴의 전설적인 4인 혼성 팝그룹 '아바(ABBA)'가 40년 만인 5일 새 앨범 '보야지(Voyage)']]></content:encoded>
+            <title><![CDATA['션♥' 정혜영, 본업 돌아오니 더 예뻐진 '애넷맘'…이렇게 우아해도 되나 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003798102</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003798102</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 이우주 기자] 배우 정혜영이 더 아름다워진 미모를 자랑했다. 정혜영은 5일 자신의 SNS를 통해 "부산에서의 촬영"이라는 글과 함께 여러 장의 사진을 게재했다. 공개된 사진 속에는 촬영 중 잠시 쉬고]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[임영웅 부캐 임영광 떴다 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000772297</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000772297</guid>
-            <pubDate>Fri, 05 Nov 2021 03:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 가수 임영웅의 공식 유튜브 채널 커뮤니티에 지난 2일 ‘2021.11.5. AM 8:00’만 적힌 한 장의 사진이 업로드 돼 많은 이들의 상상력을 자극했던 사진에 대한 궁금증이 풀렸다. 5일 오전 8시]]></content:encoded>
+            <title><![CDATA['갓파더' 김갑수, 이정재와 친분 과시... '목포 투어'에 등장? (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=014&amp;aid=0004734935</link>
+            <guid>https://entertain.naver.com/now/read?oid=014&amp;aid=0004734935</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:08 GMT</pubDate>
+            <content:encoded><![CDATA['갓파더' 국민 아들들의 험난한 여정이 시작된다. 오는 6일 토요일 밤 10시 30분 방송하는 KBS2 예능 프로그램 '新가족관계증명서 갓파더'(이하 '갓파더')에선 국민부자(父子)들과 함께 우지원이 게스트로 출연해]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[88라이징, 6일·7일 美 로즈볼 스타디움서 'HITC 페스티벌' 개최(공식) (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003494868</link>
-            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003494868</guid>
-            <pubDate>Fri, 05 Nov 2021 03:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드POP=박서현기자] 글로벌 미디어 회사 88라이징이 'Head In the Clouds 페스티벌'을 통해 아시안 아티스트들의 존재감을 떨친다. 88라이징은 오는 6일, 7일 양일간 미국 캘리포니아주 패서디나]]></content:encoded>
+            <title><![CDATA[공명, 군 입대 예정? "입대 영장 나오지 않은 상태"[공식] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002388</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002388</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[배우 공명 측이 군 입대 관련 입장을 밝혔다. 소속사 사람엔터테인먼트 관계자는 5일 스타뉴스에 "공명 배우는 입대 영장이 나오지 않은 상태고 현재로서 군입대 관련 아무것도 정해진 바 없다"라고 밝혔다. 공명은 지난]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[글로벌 보이그룹 INI, 데뷔싱글로 日차트 석권 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000772292</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000772292</guid>
-            <pubDate>Fri, 05 Nov 2021 03:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 글로벌 보이그룹 INI가 데뷔싱글 ‘A’로 일본 오리콘과 빌보드 재팬 차트 등에서 1위를 차지했다. INI(아이앤아이)는 야후 재팬의 영상 플랫폼 ‘GYAO!’의 ‘프로듀스 101 재팬 시즌2’를 통해]]></content:encoded>
+            <title><![CDATA[김종국, 약물 의혹 부인 “꾸준한 노력과 정신력으로 가능” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003635298</link>
+            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003635298</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[유튜브 채널 ‘김종국 GYM JONG KOOK’ 캡처 가수 김종국(사진)이 약물을 먹고 근육을 키운 게 아니냐는 의혹을 간접적으로 부인했다. 김종국은 4일 유튜브 채널 ‘김종국 GYM JONG KOOK’에 ‘운동할]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[영탁, 선 긋고 발 빼도 '사재기 1호 가수' 불변 [엑's 이슈] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001369247</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001369247</guid>
-            <pubDate>Fri, 05 Nov 2021 03:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김예나 기자) 가수 영탁 소속사 대표의 '음원 사재기 인정 논란'이 파장을 일으키는 가운데, 정작 당사자인 영탁은 입을 다물고 있다. 이미 업계 '사재기 1호 가수'라는 타이틀이 붙은 영탁의 책임감 있]]></content:encoded>
+            <title><![CDATA['힛트쏭' H.O.T. 팬 레이디제인 vs 젝스키스 팬 나비 출격...'찐' 덕후들의 만남 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=014&amp;aid=0004734932</link>
+            <guid>https://entertain.naver.com/now/read?oid=014&amp;aid=0004734932</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:08 GMT</pubDate>
+            <content:encoded><![CDATA['이십세기 힛트쏭'에서 영원한 가요계 라이벌 H.O.T.와 젝스키스를 소환한다 오늘(5일) 밤 8시 방송하는 KBS Joy '이십세기 힛트쏭'(이하 '힛트쏭')은 '가요계 세기의 라이벌전 H.O.T. vs 젝스키스']]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘前 빅히트 프로듀서’ 아도라, 5일 ‘MAKE U DANCE’로 정식 가수 데뷔 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828763</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828763</guid>
-            <pubDate>Fri, 05 Nov 2021 03:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[싱어송라이터 겸 프로듀서 아도라(ADORA)의 데뷔 디지털 싱글이 발매된다. 5일 오후 6시 각종 온라인 음원사이트를 통해 공개되는 아도라의 데뷔곡 ‘MAKE U DANCE (feat. 은하 of VIVIZ)’는 트]]></content:encoded>
+            <title><![CDATA['듄', 월드 와이드 흥행 수익 3억 달러…국내서는 100만 돌파 목전 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005704820</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005704820</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '듄'(감독 드니 빌뇌브)의 월드 와이드 흥행 수익이 3억 달러를 넘어섰다. 국내에서는 장르적인 한계를 뛰어넘어 100만 관객 돌파를 예고하고 있다. '듄'은 북미에서만 7천 5]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한국음반산업협회, 유튜브와 ‘뮤직비디오 리마스터링 프로젝트’ 진행 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828762</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828762</guid>
-            <pubDate>Fri, 05 Nov 2021 03:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[(사)한국음반산업협회(대표자 회장 이덕요, 이하 음산협)가 유튜브와 옛 명곡들의 뮤직비디오 리마스터링 프로젝트를 진행한다. 5일 음산협 측은 “지난 4일부터 유튜브와 뮤직비디오 리마스터링 프로젝트를 시작했다. 이번]]></content:encoded>
+            <title><![CDATA[양현석, 법정 출석…‘비아이 마약수사 무마’ 혐의 부인 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828778</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828778</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 아이콘 전 멤버 비아이(본명 김한빈)의 마약 혐의 수사를 무마한 혐의로 기소된 양현석 전 YG엔터테인먼트 총괄프로듀서가 첫 정식 재판에서 혐의 부인을 재확인했다. 서울중앙지법 형사합의23부(유영근 부장판사)는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빅히트 출신 프로듀서 아도라, 오늘 가수 데뷔…'메이크 유 댄스' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010814812</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010814812</guid>
-            <pubDate>Fri, 05 Nov 2021 03:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]이수진 인턴 기자 = 프로듀서 아도라(ADORA)가 싱어송라이터로 데뷔한다. 5일 소속사 오라 엔터테인먼트에 따르면 아도라는 이날 오후 6시에 '메이크 유 댄스'를 공개한다. 댄스 팝 장르의 곡이다.]]></content:encoded>
+            <title><![CDATA["1222 생일 축하♥"… 더보이즈 에릭 위한 특별 이벤트 진행 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=629&amp;aid=0000114654</link>
+            <guid>https://entertain.naver.com/now/read?oid=629&amp;aid=0000114654</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[지하철 전광판부터 버스 광고까지 풍성한 선물 준비 '팬앤스타'가 그룹 더보이즈 에릭의 생일 서포트를 오픈했다. 아이돌 순위 정보를 전하는 사이트 '팬앤스타'에서 5일 에릭을 위해 특별 이벤트를 진행하고 있다. 다음]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[비투비 이민혁, 가을밤에 잘 어울리는 신곡 ‘알아’ 발표 [MK★오늘의신곡] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828761</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828761</guid>
-            <pubDate>Fri, 05 Nov 2021 03:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 비투비의 멤버 이민혁이 5일 디지털 싱글 ‘알아 (Good Night)’를 정식 발매한다. 비투비 래퍼 이민혁이 쌀쌀한 가을에 어울리는 따뜻한 감성 발라드를 공개한다. 신곡 ‘알아 (Good Night)’는 포]]></content:encoded>
+            <title><![CDATA[양현석, 비아이 마약수사 무마 혐의 부인…"협박한 적 없다" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000509741</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000509741</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=우빈 기자] 그룹 아이콘의 전 멤버 비아이의 마약 사건과 관련해 진술을 번벅하라고 강요한 혐의로 재판에 넘겨진 YG엔터테인먼트 양현석 전 대표 프로듀서가 혐의를 전면 부인했다. 서울중앙지법 형사합의23부(]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[비투비 이민혁, 디지털 싱글 '알아' 정식 발매...오늘(5일) 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001369237</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001369237</guid>
-            <pubDate>Fri, 05 Nov 2021 03:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김수정 인턴기자) 비투비 이민혁이 오늘(5일) 디지털 싱글 '알아 (Good Night)'를 정식 발매한다. 이민혁의 신곡 '알아 (Good Night)'는 포근하고 아련한 이민혁의 감성적인 보컬이 돋]]></content:encoded>
+            <title><![CDATA[강혜원, 2022 시즌 그리팅 '수필집' 한복 사진 공개 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=014&amp;aid=0004734928</link>
+            <guid>https://entertain.naver.com/now/read?oid=014&amp;aid=0004734928</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 아이즈원 출신 강혜원이 한복의 고전미를 제대로 뽐냈다. 에잇디엔터테인먼트는 5일 한복을 입고 단아한 자태를 보여주고 있는 강혜원의 '수필집' 사진을 공개해 이목을 모았다. 사진 속 강혜원은 연한 베이지색의 한복]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[비투비 이민혁 ‘알아’로 홀로서기 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000772280</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000772280</guid>
-            <pubDate>Fri, 05 Nov 2021 02:33:18 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 그룹 비투비 멤버 이민혁이 가을 감성을 안고 왔다. 이민혁 소속사 큐브 엔터테인먼트는 5일 이민혁이 신곡 ‘알아’(Good Night)를 정식 발매한다고 밝혔다. ‘알아’는 이날 오후 6시 주요 음원사]]></content:encoded>
+            <title><![CDATA['12월 생일' 소원 위한 깜짝 선물 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=629&amp;aid=0000114653</link>
+            <guid>https://entertain.naver.com/now/read?oid=629&amp;aid=0000114653</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[지하철 전광판부터 버스 광고까지 풍성한 선물 준비 "소원, 태어나줘서 고마워!" 아이돌 순위 정보를 전하는 사이트 '팬앤스타'가 5일 소원을 위해 특별한 이벤트를 진행하고 있다. 12월 7일 생일을 맞이하는 그를 축]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[앳뉴스] ‘트롯돌’ 김희재, 희랑별 위한 신곡 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=415&amp;aid=0000005917</link>
-            <guid>https://entertain.naver.com/now/read?oid=415&amp;aid=0000005917</guid>
-            <pubDate>Fri, 05 Nov 2021 02:33:18 GMT</pubDate>
-            <content:encoded><![CDATA[[앳스타일 황연도 기자] ‘트롯돌’ 김희재가 팬들을 위한 신곡을 발표한다. 신곡 ‘별, 그대’는 세련된 발라드 풍의 트로트 곡으로 팬들과 대중에게 따스한 선물이 되어줄 전망이다. 김희재가 팬클럽 ‘희랑별’을 생각하며]]></content:encoded>
+            <title><![CDATA[강수정, '최애 동물은 뱀'…영특한 子 때문에 "기분 매우 좋아짐" [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000509740</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000509740</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=서예진 기자] 아나운서 출신 방송인 강수정이 영특한 아들 자랑에 나섰다. 강수정은 5일 자신의 SNS에 “좋아하는 동물을 뱀이라고. 학교 선생님과 상담하는데 계속 칭찬하셔서 기분 매우 좋아짐”이라며 한 장]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[꼬북 유정, 이른 추위 녹이는 래시가드 화보 투척[★SNS] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000799894</link>
-            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000799894</guid>
-            <pubDate>Fri, 05 Nov 2021 04:27:22 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 박효실기자] 브레이브걸스 유정이 연자줏빛 래시가드를 입고 가는 여름을 아쉬워했다. 유정은 5일 자신의 SNS에 "이제 진짜 추워지려나보다. 안녕 여름"이라는 글과 함께 브레이브걸스가 모델로 활동한 패]]></content:encoded>
+            <title><![CDATA['미야자키 미호' 데뷔 14주년 기념 깜짝 이벤트 선물 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=629&amp;aid=0000114652</link>
+            <guid>https://entertain.naver.com/now/read?oid=629&amp;aid=0000114652</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[지하철 전광판부터 버스 광고까지 초특급 선물 준비 "미호, 데뷔 축하해!" 아이돌 순위 정보를 전하는 사이트 '팬앤스타'가 30일 미야자키 미호를 위해 특별한 이벤트를 진행하고 있다. 12월 26일 기념일을 맞이하는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박민영, 주얼리보다 더 빛나…세련미+카리스마 폭발 [화보] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000596156</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000596156</guid>
-            <pubDate>Fri, 05 Nov 2021 04:27:22 GMT</pubDate>
-            <content:encoded><![CDATA[배우 박민영의 독보적인 우아함이 담긴 홀리데 주얼리 화보가 공개됐다. 패션 매거진 &lt;하퍼스 바자&gt;는 박민영과 주얼리 브랜드가 함께 한 화보를 공개했다. 공개된 화보 속 박민영은 변함없이 아름다운 미모와 세련된 분위기]]></content:encoded>
+            <title><![CDATA[신예은, 발레복 입고 너무 가녀린 몸매 '허리가 한줌'...쭉 뻗은 다리 '유연성 놀랍네' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003798100</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003798100</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 정안지 기자] 배우 신예은이 발레로 유연성을 자랑했다. 신예은은 5일 자신의 인스타그램을 통해 "좋아하는 순간"이라며 사진을 게재했다. 사진 속에는 발레를 배우고 있는 신예은의 모습이 담겨있다. 봉을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["K팝 진짜 이해하려면"…과거 MV 고화질로 보자 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=079&amp;aid=0003571567</link>
-            <guid>https://entertain.naver.com/now/read?oid=079&amp;aid=0003571567</guid>
-            <pubDate>Fri, 05 Nov 2021 04:27:22 GMT</pubDate>
-            <content:encoded><![CDATA[H.O.T.부터 천상지희까지 SM엔터테인먼트 소속 가수들과 룰라, 유피, 엄정화, 스페이스에이 등 1990년대 가수들의 뮤직비디오와 음원이 고화질로 공개된다. 4일 오전, SM엔터테인먼트와 유튜브의 '리마스터링 프로]]></content:encoded>
+            <title><![CDATA['2021 GEE', 조유리-라잇썸-펜타곤 등 'ICT 스테이지' 무대 선다 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=014&amp;aid=0004734926</link>
+            <guid>https://entertain.naver.com/now/read?oid=014&amp;aid=0004734926</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[국내 엔터테인먼트 산업의 혁신과 발전을 모색하는 '2021 글로벌 엔터테인먼트 엑스포(2021 Global Entertainment Expo)'(이하 '2021 GEE')가 K-POP 아티스트와 최신 기술로 꾸민 무]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘듄’ 글로벌 수익 3억 달러 돌파 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000942952</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000942952</guid>
-            <pubDate>Fri, 05 Nov 2021 04:27:22 GMT</pubDate>
-            <content:encoded><![CDATA[‘듄’ 글로벌 수익 3억 달러 돌파 영화 ‘듄’에 대한 전 세계 관객들의 사랑이 뜨겁다. 월드 와이드 흥행 수익이 3억 달러를 넘어섰고 국내에서는 장르적인 한계를 뛰어넘어 100만 관객 돌파를 예고하고 있다. 강력한]]></content:encoded>
+            <title><![CDATA['이영돈♥' 황정음, '둘째 임신' 후 태교 제대로…제주도에서 호사 누리는 중 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003798099</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003798099</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 이우주 기자] 배우 황정음이 둘째를 위해 힐링 태교를 하고 있다. 황정음 5일 자신의 SNS를 통해 하트 이모티콘과 함께 여러 장의 사진을 게재했다. 공개된 사진 속에는 넓은 숲길에서 휴식 중인 황정]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["박혜경 뮤비, 직접 회사 설득해 노페이 출연"…김선호, 미담제조기 등극? (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000751355</link>
-            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000751355</guid>
-            <pubDate>Fri, 05 Nov 2021 04:27:22 GMT</pubDate>
-            <content:encoded><![CDATA[사생활 논란에 휩싸였던 배우 김선호에 대한 미담이 전해졌다. 자신을 가수 박혜경 컴백 곡 프로듀싱을 맡았다고 소개한 프로듀서 A씨는 5일 인스타그램에 "김선호님과 관련한 에피소드가 있어 한 글자 적는다. 개인적으로]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['윤형빈♥' 정경미, 5kg 빼더니 턱선이 뾰족하네 '살이 쏙'...만보걷기 할만하네 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003798096</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003798096</guid>
-            <pubDate>Fri, 05 Nov 2021 04:27:22 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선닷컴 정안지 기자] 개그우먼 정경미가 다이어트 성공 후 날렵해진 턱선을 자랑했다. 정경미는 5일 자신의 인스타그램을 통해 "폴라티의 계절"라면서 사진을 게재했다. 사진 속에는 스케줄을 위해 차를 타고 이동]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘션♥’ 정혜영, 애넷맘 미모가 이 정도…“부산에서 촬영” [스타★샷] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000596153</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000596153</guid>
-            <pubDate>Fri, 05 Nov 2021 04:27:22 GMT</pubDate>
-            <content:encoded><![CDATA[배우 정혜영이 우아한 미모를 자랑했다. 정혜영은 5일 자신의 인스타그램에 “부산에서의 촬영”이라는 글과 함께 사진 두 장을 게재했다. 공개된 사진에는 하늘색 코트를 입고 눈을 감은 채 미소 짓고 있는 정혜영의 모습이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[사진]노을 강균성,'남친룩 정석' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004504766</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004504766</guid>
-            <pubDate>Fri, 05 Nov 2021 04:27:22 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김성락 기자] 5일 오후 서울 양천구 SBS 목동 사옥에서 SBS 파워FM ‘최화정의 파워타임’이 진행됐다. 노을 강균성이 취재진을 향해 포즈를 취하고 있다. 2021.11.05 /ksl0919@osen.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[사진]노을 전우성,'완벽한 가을 느낌' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004504764</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004504764</guid>
-            <pubDate>Fri, 05 Nov 2021 04:27:22 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김성락 기자] 5일 오후 서울 양천구 SBS 목동 사옥에서 SBS 파워FM ‘최화정의 파워타임’이 진행됐다. 노을 전우성이 취재진을 향해 포즈를 취하고 있다. 2021.11.05 /ksl0919@osen.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[“함께 정답 찾아가는 과정” 가슴 울린 심사위원 어록 (풍류대장) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000942951</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000942951</guid>
-            <pubDate>Fri, 05 Nov 2021 04:27:22 GMT</pubDate>
-            <content:encoded><![CDATA[JTBC ‘풍류대장-힙한 소리꾼들의 전쟁’(약칭 ‘풍류대장’) 심사위원들의 공감 어록이 화제다. ‘풍류대장’이 2일 치열했던 2라운드를 마쳤다. 칼을 갈고 나온 소리꾼들의 레전드 무대는 감동을 안겼다. 여기에 심사위]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['방구석 1열' 영화 '팬데믹·미스트'로 알아보는 단계적 일상회복 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000280133</link>
-            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000280133</guid>
-            <pubDate>Fri, 05 Nov 2021 04:27:22 GMT</pubDate>
-            <content:encoded><![CDATA[영화를 통해 '단계적 일상회복' 시대에 우리가 준비해야 할 자세에 대해 알아본다. 7일(일) 방송되는 JTBC '방구석 1열'은 '코로나19 단계적 일상회복'이라는 특별한 주제로 코로나19 상황과 비슷한 모습이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[유태오 감독 데뷔작 ‘로그 인 벨지움’ 12월 개봉 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000942950</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000942950</guid>
-            <pubDate>Fri, 05 Nov 2021 04:27:22 GMT</pubDate>
-            <content:encoded><![CDATA[유태오 감독 데뷔작 ‘로그 인 벨지움’ 12월 개봉 배우 유태오의 감독 데뷔작 ‘로그 인 벨지움’이 12월 개봉을 확정하고 런칭 포스터를 공개했다. 12월 개봉을 확정한 배우 유태오의 감독 데뷔작 ‘로그 인 벨지움’]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토] B.A.P 정대현, '오늘은 내가 선두로' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=014&amp;aid=0004734914</link>
-            <guid>https://entertain.naver.com/now/read?oid=014&amp;aid=0004734914</guid>
-            <pubDate>Fri, 05 Nov 2021 04:27:22 GMT</pubDate>
-            <content:encoded><![CDATA[[FN스타 이승훈 기자] 군복무중인 B.A.P 정대현이 5일 서울 방이동 올림픽공원 우리금융아트홀에서 진행되는 육군 창작 뮤지컬 '메이사의 노래' 공연일정에 참석했다. totopurdy_star@fnnews.com]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[사진]노을 전우성,'가을 느낌' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004504760</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004504760</guid>
-            <pubDate>Fri, 05 Nov 2021 04:27:22 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김성락 기자] 5일 오후 서울 양천구 SBS 목동 사옥에서 SBS 파워FM ‘최화정의 파워타임’이 진행됐다. 노을 전우성이 방송국으로 향하고 있다. 2021.11.05 /ksl0919@osen.co.kr]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[사진]노을 강균성-전우성,'최파타 출연' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004504758</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004504758</guid>
-            <pubDate>Fri, 05 Nov 2021 04:27:22 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김성락 기자] 5일 오후 서울 양천구 SBS 목동 사옥에서 SBS 파워FM ‘최화정의 파워타임’이 진행됐다. 노을 강균성, 전우성이 방송국으로 향하고 있다. 2021.11.05 /ksl0919@osen.c]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토] B.A.P 정대현, '가려도 잘생김' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=014&amp;aid=0004734913</link>
-            <guid>https://entertain.naver.com/now/read?oid=014&amp;aid=0004734913</guid>
-            <pubDate>Fri, 05 Nov 2021 04:27:22 GMT</pubDate>
-            <content:encoded><![CDATA[[FN스타 이승훈 기자] 군복무중인 B.A.P 정대현이 5일 서울 방이동 올림픽공원 우리금융아트홀에서 진행되는 육군 창작 뮤지컬 '메이사의 노래' 공연일정에 참석했다. totopurdy_star@fnnews.com]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[T포토] 강균성-전우성 '라디오에서 만나요~' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001198846</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001198846</guid>
-            <pubDate>Fri, 05 Nov 2021 04:27:22 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 '노을' 강균성, 전우성이 5일 오후 SBS 파워FM '최화정의 파워타임' 라디오 방송을 위해 서울 양천구 목동 SBS 사옥에 들어서고 있다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[T포토] 강균성-전우성 '따뜻한 출근 인사' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001198845</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001198845</guid>
-            <pubDate>Fri, 05 Nov 2021 04:27:22 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 '노을' 강균성, 전우성이 5일 오후 SBS 파워FM '최화정의 파워타임' 라디오 방송을 위해 서울 양천구 목동 SBS 사옥에 들어서고 있다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토] B.A.P 정대현, '오랜만에 모습' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=014&amp;aid=0004734909</link>
-            <guid>https://entertain.naver.com/now/read?oid=014&amp;aid=0004734909</guid>
-            <pubDate>Fri, 05 Nov 2021 04:27:22 GMT</pubDate>
-            <content:encoded><![CDATA[[FN스타 이승훈 기자] 군복무중인 B.A.P 정대현이 5일 서울 방이동 올림픽공원 우리금융아트홀에서 진행되는 육군 창작 뮤지컬 '메이사의 노래' 공연일정에 참석했다. totopurdy_star@fnnews.com]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[사진]노을 강균성,'모델 포스' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004504754</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004504754</guid>
-            <pubDate>Fri, 05 Nov 2021 04:27:22 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김성락 기자] 5일 오후 서울 양천구 SBS 목동 사옥에서 SBS 파워FM ‘최화정의 파워타임’이 진행됐다. 노을 강균성이 취재진을 향해 포즈를 취하고 있다. 2021.11.05 /ksl0919@osen.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[T포토] 강균성-전우성 '나란히 출근' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001198844</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001198844</guid>
-            <pubDate>Fri, 05 Nov 2021 04:27:22 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 '노을' 강균성, 전우성이 5일 오후 SBS 파워FM '최화정의 파워타임' 라디오 방송을 위해 서울 양천구 목동 SBS 사옥에 들어서고 있다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[사진]노을 강균성-전우성,'반갑게 인사' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004504751</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004504751</guid>
-            <pubDate>Fri, 05 Nov 2021 04:27:22 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김성락 기자] 5일 오후 서울 양천구 SBS 목동 사옥에서 SBS 파워FM ‘최화정의 파워타임’이 진행됐다. 노을 강균성, 전우성이 취재진을 향해 포즈를 취하고 있다. 2021.11.05 /ksl0919@]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이지훈, 촬영장 갑질 논란에 직접 해명 “바지 벗고 난동부린 적 없어… 억장 무너져” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003635279</link>
-            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003635279</guid>
-            <pubDate>Fri, 05 Nov 2021 04:27:22 GMT</pubDate>
-            <content:encoded><![CDATA[드라마 '스폰서' 촬영 현장에서 스태프에게 갑질을 했다는 주장에 대해 배우 이지훈이 직접 입장을 밝혔다. 5일 이지훈은 자신의 인스타그램을 통해 "죄송스럽게도 이제야 솔직한 저의 말씀을 드린다. 우선 이유불문하고 제]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토] B.A.P 정대현, '늠름한 모습' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=014&amp;aid=0004734907</link>
-            <guid>https://entertain.naver.com/now/read?oid=014&amp;aid=0004734907</guid>
-            <pubDate>Fri, 05 Nov 2021 04:27:22 GMT</pubDate>
-            <content:encoded><![CDATA[[FN스타 이승훈 기자] 군복무중인 B.A.P 정대현이 5일 서울 방이동 올림픽공원 우리금융아트홀에서 진행되는 육군 창작 뮤지컬 '메이사의 노래' 공연일정에 참석했다. totopurdy_star@fnnews.com]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[T포토] 강균성-전우성 '최타파 출근해요' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001198843</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001198843</guid>
-            <pubDate>Fri, 05 Nov 2021 04:27:22 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 '노을' 강균성, 전우성이 5일 오후 SBS 파워FM '최화정의 파워타임' 라디오 방송을 위해 서울 양천구 목동 SBS 사옥에 들어서고 있다.]]></content:encoded>
+            <title><![CDATA[아리아나 그란데·신시아 에리보, '위키드' 영화판 캐스팅…'캣츠' 악몽 지울까 [엑's 할리우드] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001369294</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001369294</guid>
+            <pubDate>Fri, 05 Nov 2021 05:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) 팝스타 아리아나 그란데가 뮤지컬 원작 영화 '위키드'에 출연을 확정지었다. 4일(현지시간) 미국 데드라인을 비롯한 다수 매체는 아리아나 그란데와 신시아 에리보가 각각 글린다와 엘파바 역으]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['동성연인과 약혼' 크리스틴 스튜어트, 환한 미소…여전한 고혹미 [N해외연예] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
@@ -1517,13 +1524,6 @@
             <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828274</guid>
             <pubDate>Wed, 03 Nov 2021 08:25:07 GMT</pubDate>
             <content:encoded><![CDATA[걸그룹 라붐(소연, 솔빈, 진예, 해인)이 3일 오후 서울 한남동 블루스퀘어에서 미니 앨범 3집 '블라썸(BLOSSOM)' 발매 기념 쇼케이스를 가졌다. 쇼케이스 앞서 포즈를 취하는 라붐 솔빈.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[소연 '사랑스럽게~' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828273</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828273</guid>
-            <pubDate>Wed, 03 Nov 2021 08:25:07 GMT</pubDate>
-            <content:encoded><![CDATA[걸그룹 라붐(소연, 솔빈, 진예, 해인)이 3일 오후 서울 한남동 블루스퀘어에서 미니 앨범 3집 '블라썸(BLOSSOM)' 발매 기념 쇼케이스를 가졌다. 쇼케이스에 앞서 포즈를 취하는 라붐 소연.]]></content:encoded>
         </item>
     </channel>
 </rss>

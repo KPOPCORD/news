@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 04:27:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 05:19:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["제니야, 저녁 먹자" 옥외광고로 데이트 신청한 필리핀 사업가…팬들 "소름"]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329875</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329875</guid>
+            <pubDate>Fri, 05 Nov 2021 05:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329875">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/05/3b580cc4-e8a3-4012-9e7d-05810f32cbcb.jpg" alt="" 제니야,="" 저녁="" 먹자"="" 옥외광고로="" 데이트="" 신청한="" 필리핀="" 사업가…팬들="" "소름""="">        <div class="text-box">            <p class="summary">"제니야, 저녁 먹자" 옥외광고로 데이트 신청한 필리핀 사업가…팬들 "소름"</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/05/3b580cc4-e8a3-4012-9e7d-05810f32cbcb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['너의 밤이 되어줄게' 김종현 "뉴이스트 멤버들에 연기 도움 많이 받아"]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/329799</link>
@@ -86,14 +94,6 @@
             <pubDate>Wed, 03 Nov 2021 08:24:30 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329725">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/03/4a3f431c-f551-4717-b231-1e7597ee8ea9.jpg" alt="[포토] 라붐 소연, '유후후~' 반해버렸어?">        <div class="text-box">            <p class="summary">[포토] 라붐 소연, '유후후~' 반해버렸어?</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/03/4a3f431c-f551-4717-b231-1e7597ee8ea9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 라붐 소연, '상상 더하는 무대']]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329724</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329724</guid>
-            <pubDate>Wed, 03 Nov 2021 08:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329724">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/03/50b031d4-fbb5-4282-b0dd-9450b27c6ddc.jpg" alt="[포토] 라붐 소연, '상상 더하는 무대'">        <div class="text-box">            <p class="summary">[포토] 라붐 소연, '상상 더하는 무대'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/03/50b031d4-fbb5-4282-b0dd-9450b27c6ddc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
