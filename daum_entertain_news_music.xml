@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-05T02:33:34.377Z</updated>
+    <updated>2021-11-05T03:22:07.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영탁, 선 긋고 발 빼도 '사재기 1호 가수' 불변]]></title>
+        <id>https://entertain.v.daum.net/v/20211105115020074</id>
+        <link href="https://entertain.v.daum.net/v/20211105115020074"/>
+        <updated>2021-11-05T03:21:37.177Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) 가수 영탁 소속사 대표의 '음원 사재기 인정 논란'이 파장을 일으키는 가운데, 정작 당사자인 영탁은 입을 다물고 있다. 이미 업계 '사재기 1호 가수'라는 타이틀이 붙은 영탁의 책임감 있는 행동이 보여질 때다.&nbsp; 영탁 소속사 밀라그로 이재규 대표는 지난 4일, 영탁의 '니가 왜 거기서 나와' 음원 사재기 의혹과 관련해 모두 인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비투비 이민혁, 오늘 자작곡 '알아' 발표]]></title>
         <id>https://entertain.v.daum.net/v/20211105112724347</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211105083352498"/>
         <updated>2021-11-05T01:03:37.377Z</updated>
         <content type="html"><![CDATA[[OSEN=선미경 기자] 스타쉽의 신인 그룹 아이브(IVE)의 세 번째 멤버 원영이 공개됐다.&nbsp; 지난 3일 오후 아이브 공식 SNS 채널을 통해 원영의 프로필 이미지가 게재됐다.&nbsp;&nbsp; 공개된 이미지 속 원영은 긴 생머리의 스타일링으로 마치 첫사랑을 떠올리게 하는 비주얼을 드러내는가 하면, 흑백 사진을 통해선 차분하면서도 우아한 분위기까지 자아내고 있다.&nbsp; 또]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하이브, 일본 오디션 전세계 방영..'아이랜드' 4인 합류]]></title>
-        <id>https://entertain.v.daum.net/v/20211105083310490</id>
-        <link href="https://entertain.v.daum.net/v/20211105083310490"/>
-        <updated>2021-11-05T01:03:37.379Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 공미나 기자] '아이랜드' 출신 케이?니콜라스?의주?타키 /사진제공=하이브 레이블즈 재팬 하이브 일본 보이그룹 멤버를 뽑는 '앤오디션'(&amp;AUDITION)이 내년 전 세계로 송출된다. 하이브(HYBE)의 일본 본사 하이브 재팬(HYBE JAPAN)과 산하 레이블인 하이브 레이블즈 재팬이 선보일 오디션 프로그램 '앤오디션'이 2022년 일본 방송]]></content>
     </entry>
 </feed>
