@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-05T11:19:28.325Z</updated>
+    <updated>2021-11-05T12:33:46.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['쇼미더머니 10', 오늘 음원미션…"우승하러 나왔어요"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010816012</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010816012"/>
+        <updated>2021-11-05T12:33:30.729Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]이수진 인턴 기자 = 엠넷 '쇼미더머니 10' 4팀의 음원미션 무대가 공개된다. 5일 오후 11시에 방송 예정인 Mnet '쇼미더머니 10' 에서는 팀래퍼 캐스팅이 완료된 20명의 래퍼들이 꿈의 무대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FNC 日 걸그룹 오디션 프로그램 동시간대 시청률 '1위']]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002439</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001369445"/>
         <updated>2021-11-05T09:22:15.827Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김수정 인턴기자) 가수 손태진이 새 앨범으로 팬들을 만난다. 소속사 미스틱스토리는 5일 "손태진이 오는 15일 첫 번째 EP The Present 'At The Time (더 프레젠트 앳 더 타임)'을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국음반산업협회, 유튜브와 손 잡고 옛 명곡 MV 되살린다]]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004625137</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004625137"/>
-        <updated>2021-11-05T09:22:15.828Z</updated>
-        <content type="html"><![CDATA[한국음반산업협회가 유튜브와 옛 명곡들의 뮤직비디오 리마스터링 프로젝트를 진행한다. 5일 한국음반산업협회(이하 음산협)는 "지난 4일부터 유튜브와 뮤직비디오 리마스터링 프로젝트를 시작했다. 이번 프로젝트는 우리 대중들]]></content>
     </entry>
 </feed>
