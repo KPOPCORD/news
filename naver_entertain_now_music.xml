@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-05T12:33:46.734Z</updated>
+    <updated>2021-11-05T13:25:50.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하이브 방시혁 의장,“‘무경계’ 시대엔, ‘왜 하는가’에 대한 본질 기억해야”]]></title>
+        <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0001909112</id>
+        <link href="https://entertain.naver.com/now/read?oid=016&amp;aid=0001909112"/>
+        <updated>2021-11-05T13:25:37.761Z</updated>
+        <content type="html"><![CDATA[[헤럴드경제 = 서병기 선임기자]“경계 없는 확장” 하이브가 지난 4일 ‘2021 공동체와 함께 하는 하이브 회사 설명회’(이하 회사설명회)를 공식 유튜브 채널을 통해 온라인으로 공개하며 ‘Boundless’의 기조]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['쇼미더머니 10', 오늘 음원미션…"우승하러 나왔어요"]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010816012</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010815770"/>
         <updated>2021-11-05T09:22:15.825Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]이수진 인턴 기자 = 그룹 비투비 멤버 이민혁이 자작곡 '알아(Good Night)'로 가을밤을 물들인다. 5일 큐브엔터는 비투비 이민혁이 이날 오후 6시에 발매하는 디지털 싱글 '알아(Good Nig]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['포디콰' 손태진, 첫 EP The Present 'At The Time'...15일 발매]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001369445</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001369445"/>
-        <updated>2021-11-05T09:22:15.827Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김수정 인턴기자) 가수 손태진이 새 앨범으로 팬들을 만난다. 소속사 미스틱스토리는 5일 "손태진이 오는 15일 첫 번째 EP The Present 'At The Time (더 프레젠트 앳 더 타임)'을]]></content>
     </entry>
 </feed>

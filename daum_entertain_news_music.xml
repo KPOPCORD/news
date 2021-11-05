@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-05T12:33:46.727Z</updated>
+    <updated>2021-11-05T13:25:50.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하이브 방시혁 의장,"'무경계' 시대엔, '왜 하는가'에 대한 본질 기억해야"]]></title>
+        <id>https://entertain.v.daum.net/v/20211105214758862</id>
+        <link href="https://entertain.v.daum.net/v/20211105214758862"/>
+        <updated>2021-11-05T13:25:21.742Z</updated>
+        <content type="html"><![CDATA[[헤럴드경제 = 서병기 선임기자]“경계 없는 확장” 하이브가 지난 4일 ‘2021 공동체와 함께 하는 하이브 회사 설명회’(이하 회사설명회)를 공식 유튜브 채널을 통해 온라인으로 공개하며 ‘Boundless’의 기조 아래 확장하고 있는 하이브 비즈니스 모델의 현재와 미래를 공유했다. 하이브가 정의하는 ‘Boundless’는 ▲국가와 지역 ▲산업과 산업 ▲팬]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[빅톤, 5주년 팬송 티저 공개]]></title>
         <id>https://entertain.v.daum.net/v/20211105202415289</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211105171930083"/>
         <updated>2021-11-05T08:24:10.427Z</updated>
         <content type="html"><![CDATA[[TV리포트 = 하수나 기자] 그룹 비투비 멤버 이민혁이 자작곡 '알아 (Good Night)’로 가을밤을 달콤하게 물들이는 가운데 이번 곡에 가장 신경을 썼던 점에 대해 ‘힐링’이라고 강조했다.&nbsp; 오늘(5일) 오후 6시 발표하는 이민혁의 디지털 싱글 '알아 (Good Night)'는 포근하고 아련한 이민혁의 감성적인 보컬이 돋보이는 발라드 곡으로, 부드럽]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바이브 '불후' 전설 합류..벤·알리·에일리·남우현 출격]]></title>
-        <id>https://entertain.v.daum.net/v/20211105170751765</id>
-        <link href="https://entertain.v.daum.net/v/20211105170751765"/>
-        <updated>2021-11-05T08:24:10.427Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 윤상근 기자] /사진제공=KBS '불후의 명곡'이 전설 가수로 바이브를 소환한다. 오는 6일 방송되는 KBS 2TV '불후의 명곡' 530회는 바이브 편으로 꾸며진다. 데뷔 20년차에 들어선 바이브는 '미워도 다시 한번', '사진을 보다가', '그 남자 그 여자' 등 발매하는 곡마다 히트시킨 히트곡 제조기로, 애절한 감성과 폭발적인 가창력으로 대]]></content>
     </entry>
 </feed>
