@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-05T03:22:07.792Z</updated>
+    <updated>2021-11-05T04:27:30.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['동성연인과 약혼' 크리스틴 스튜어트, 환한 미소…여전한 고혹미 [N해외연예]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005704762</id>
+        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005704762"/>
+        <updated>2021-11-05T04:27:29.823Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 최근 동성 연인과 약혼 소식을 전한 할리우드 배우 크리스틴 스튜어트의 근황이 공개됐다. 미국 연예매체 스플래시닷컴은 4일(이하 현지시간) 미국 뉴욕에서 크리스틴 스튜어트를 포착했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[킴 카다시안♥피트 데이비슨 열애설, “파파라치와 경호원 실랑이 벌이며 신경전”[해외이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003552498</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000828273"/>
         <updated>2021-11-03T08:25:07.349Z</updated>
         <content type="html"><![CDATA[걸그룹 라붐(소연, 솔빈, 진예, 해인)이 3일 오후 서울 한남동 블루스퀘어에서 미니 앨범 3집 '블라썸(BLOSSOM)' 발매 기념 쇼케이스를 가졌다. 쇼케이스에 앞서 포즈를 취하는 라붐 소연.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라붐 '4인조로 돌아왔어요' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828272</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000828272"/>
-        <updated>2021-11-03T08:25:07.350Z</updated>
-        <content type="html"><![CDATA[걸그룹 라붐(소연, 솔빈, 진예, 해인)이 3일 오후 서울 한남동 블루스퀘어에서 미니 앨범 3집 '블라썸(BLOSSOM)' 발매 기념 쇼케이스를 가졌다. 쇼케이스에 앞서 포즈를 취하는 라붐.]]></content>
     </entry>
 </feed>
