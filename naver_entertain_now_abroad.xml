@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-05T06:25:15.210Z</updated>
+    <updated>2021-11-05T07:21:17.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["커크 더글러스가 나탈리 우드 성폭행했다"-우드 동생 폭로]]></title>
+        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005705250</id>
+        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005705250"/>
+        <updated>2021-11-05T07:21:17.337Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 박형기 기자 = 할리우드의 전설 커크 더글러스가 또 다른 전설인 나탈리 우드를 성폭행했다고 우드의 여동생이 폭로했다고 영국의 BBC가 5일 보도했다. 우드의 여동생 라나는 우드가 10대일 때 더글러스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美SNL서 이정재 연기한 그 남자, 이혼소송 카다시안과 염문설 [할리웃톡]]]></title>
         <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000799904</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828278</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000828278"/>
         <updated>2021-11-03T08:25:07.346Z</updated>
-        <content type="html"><![CDATA[걸그룹 라붐(소연, 솔빈, 진예, 해인)이 3일 오후 서울 한남동 블루스퀘어에서 미니 앨범 3집 '블라썸(BLOSSOM)' 발매 기념 쇼케이스를 가졌다. 쇼케이스 앞서 포즈를 취하는 라붐 솔빈.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[솔빈 '도발적인 고혹미' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828276</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000828276"/>
-        <updated>2021-11-03T08:25:07.347Z</updated>
         <content type="html"><![CDATA[걸그룹 라붐(소연, 솔빈, 진예, 해인)이 3일 오후 서울 한남동 블루스퀘어에서 미니 앨범 3집 '블라썸(BLOSSOM)' 발매 기념 쇼케이스를 가졌다. 쇼케이스 앞서 포즈를 취하는 라붐 솔빈.]]></content>
     </entry>
 </feed>

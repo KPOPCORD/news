@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 06:25:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 07:21:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[브브걸 유정, '군살 제로' 몸매…"이제 진짜 추워지려나" [인스타]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329883</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329883</guid>
+            <pubDate>Fri, 05 Nov 2021 07:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329883">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/05/b7dbaa45-28fa-4ed1-99d4-360c7b8f7e93.jpg" alt="브브걸 유정, '군살 제로' 몸매…" 이제="" 진짜="" 추워지려나"="" [인스타]"="">        <div class="text-box">            <p class="summary">브브걸 유정, '군살 제로' 몸매…"이제 진짜 추워지려나" [인스타]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/05/b7dbaa45-28fa-4ed1-99d4-360c7b8f7e93.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["제니야, 저녁 먹자" 옥외광고로 데이트 신청한 필리핀 사업가…팬들 "소름"]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/329875</link>
@@ -86,14 +94,6 @@
             <pubDate>Wed, 03 Nov 2021 08:24:30 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329726">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/03/647c9fad-a8a0-4cb5-ac36-8bacb2174e57.jpg" alt="[포토] 라붐 소연, '키스키스~'">        <div class="text-box">            <p class="summary">[포토] 라붐 소연, '키스키스~'</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/03/647c9fad-a8a0-4cb5-ac36-8bacb2174e57.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 라붐 소연, '유후후~' 반해버렸어?]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329725</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329725</guid>
-            <pubDate>Wed, 03 Nov 2021 08:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329725">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/03/4a3f431c-f551-4717-b231-1e7597ee8ea9.jpg" alt="[포토] 라붐 소연, '유후후~' 반해버렸어?">        <div class="text-box">            <p class="summary">[포토] 라붐 소연, '유후후~' 반해버렸어?</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/03/4a3f431c-f551-4717-b231-1e7597ee8ea9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
