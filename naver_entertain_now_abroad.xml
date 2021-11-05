@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-05T05:19:16.765Z</updated>
+    <updated>2021-11-05T06:25:15.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美SNL서 이정재 연기한 그 남자, 이혼소송 카다시안과 염문설 [할리웃톡]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000799904</id>
+        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000799904"/>
+        <updated>2021-11-05T06:25:14.586Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 박효실기자] 팝스타 카니예 웨스트와 이혼소송 중인 모델 겸 사업가 킴 카다시안(41)이 13살 연하의 배우 피트 데이비슨(28)과 열애설이 불거져 할리우드의 이목이 집중되고 있다. 두 사람의 사이가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아리아나 그란데·신시아 에리보, '위키드' 영화판 캐스팅…'캣츠' 악몽 지울까 [엑's 할리우드]]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001369294</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828276</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000828276"/>
         <updated>2021-11-03T08:25:07.347Z</updated>
-        <content type="html"><![CDATA[걸그룹 라붐(소연, 솔빈, 진예, 해인)이 3일 오후 서울 한남동 블루스퀘어에서 미니 앨범 3집 '블라썸(BLOSSOM)' 발매 기념 쇼케이스를 가졌다. 쇼케이스 앞서 포즈를 취하는 라붐 솔빈.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[솔빈 '성숙한 모습으로 컴백한 막내' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828274</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000828274"/>
-        <updated>2021-11-03T08:25:07.348Z</updated>
         <content type="html"><![CDATA[걸그룹 라붐(소연, 솔빈, 진예, 해인)이 3일 오후 서울 한남동 블루스퀘어에서 미니 앨범 3집 '블라썸(BLOSSOM)' 발매 기념 쇼케이스를 가졌다. 쇼케이스 앞서 포즈를 취하는 라붐 솔빈.]]></content>
     </entry>
 </feed>
