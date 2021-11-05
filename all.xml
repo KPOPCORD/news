@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 20:23:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 21:20:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -689,6 +689,14 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211101095846_c859ce53a50916132923026832c9f283.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[장원영, 양갈래 머리 완벽 소화…러블리 모먼트 [인스타] (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329910</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329910</guid>
+            <pubDate>Fri, 05 Nov 2021 21:19:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329910">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/05/HMYb8EWQEha9637717491101157588.jpg" alt="장원영, 양갈래 머리 완벽 소화…러블리 모먼트 [인스타]">        <div class="text-box">            <p class="summary">장원영, 양갈래 머리 완벽 소화…러블리 모먼트 [인스타]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/05/HMYb8EWQEha9637717491101157588.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘나혼산’ 화사가 선택한 백신 대비 최고의 보양식은? (MBC 연예 ─ 아이돌)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/329920</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329920</guid>
@@ -769,12 +777,25 @@
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/05/124b5910-01ba-4198-a252-f2649d208d26.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[브브걸 유정, '군살 제로' 몸매…"이제 진짜 추워지려나" [인스타] (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329883</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329883</guid>
-            <pubDate>Fri, 05 Nov 2021 07:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329883">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/05/b7dbaa45-28fa-4ed1-99d4-360c7b8f7e93.jpg" alt="브브걸 유정, '군살 제로' 몸매…" 이제="" 진짜="" 추워지려나"="" [인스타]"="">        <div class="text-box">            <p class="summary">브브걸 유정, '군살 제로' 몸매…"이제 진짜 추워지려나" [인스타]</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/05/b7dbaa45-28fa-4ed1-99d4-360c7b8f7e93.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[김석진만의 색으로 채운 힐링 캔버스..방탄소년단, 인더숲 마지막 이야기 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211106061717798</link>
+            <guid>https://entertain.v.daum.net/v/20211106061717798</guid>
+            <pubDate>Fri, 05 Nov 2021 21:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 문완식 기자] 방탄소년단 진(BTS JIN)방탄소년단(BTS) 진이 인더숲에서 다채로운 매력으로 팬심을 사로잡았다. 지난 5일 JTBC와 위버스에서 리얼리티 프로그램인 '인더숲 BTS편 시즌2'(In the SOOP BTS ver. Season 2) 4번째 이야기인 EP.4 BTS UNIVERSE가 방송됐다. 지난주에 이어 팀으로 나눠 족구를 하]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['찬또배기' 이찬원, '사랑의 콜센타' 노래 모음 200만 뷰 돌파 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211106060015513</link>
+            <guid>https://entertain.v.daum.net/v/20211106060015513</guid>
+            <pubDate>Fri, 05 Nov 2021 21:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이정범 기자) 이찬원의 '사랑의 콜센타 노래 모음' 영상이 조회 수 200만 뷰를 넘어섰다. 지난 2020년 9월 5일 미스&amp;미스터트롯 공식계정 유튜브 채널에는 “사랑의 콜센타 이찬원 노래모음 1시간 연속 듣기”라는 제목의 영상이 게재됐다. 영상 속에는 '해 뜰 날(원곡: 송대관)'을 필두로 '쓰리랑 (원곡: 유지나)'까지 이찬원이 '사랑의]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['쇼미더머니10' 개코X코쿤 팀, 그 누구보다 빛난 팀워크 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211106060015512</link>
+            <guid>https://entertain.v.daum.net/v/20211106060015512</guid>
+            <pubDate>Fri, 05 Nov 2021 21:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 박상후 기자] '쇼미더머니10'에서 개코, 코드 쿤스트 팀이 남다른 팀워크로 이목을 사로잡았다. 5일 밤 방송된 Mnet 예능프로그램 '쇼미더머니10'에서는 팀 래퍼 캐스팅이 완료된 20명의 래퍼들이 꿈의 무대 '음원미션'에 돌입했다. 이날 개코X코드 쿤스트 팀은 가장 어색한 모습을 보였다. 조광일과 신스는 "어색하고 편한 상태는 아니었던]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[영광씨, 시작부터 영광..임영웅 '영광극장' 유튜브 인기 동영상 1위 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
@@ -861,25 +882,88 @@
             <content:encoded><![CDATA[[스포츠서울|조현정기자] 가수 겸 방송인 김종국이 해외 보디빌더가 ‘로이더’(약물로 근육을 키우는 사람) 의혹을 제기한 데 대해 간접적으로 부인했다. 김종국은 지난 4일 자신의 유튜브 채널에 평소처럼 운동 조언 영상을 올린 뒤 고정 댓글로 해당 의혹을 에둘러 반박했다. 그는 “꾸준한 노력과 정신력만으로 46세에 남성 호르몬 수치]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[그룹 느와르 준용, 육군 현역 입대 "성장해서 돌아오겠다" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211105181914693</link>
-            <guid>https://entertain.v.daum.net/v/20211105181914693</guid>
-            <pubDate>Fri, 05 Nov 2021 09:21:57 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 김한길 기자] 9인조 보이그룹 느와르(NOIR)의 준용(본명 이준용)이 육군 현역으로 입대한다. 소속사 럭팩토리 측에서는 5일 느와르의 공식 SNS를 통해 그의 입대 소식을 알렸다. 준용은 직접 쓴 손편지를 통해 "국가의 부름을 받아 11월 8일 군입대가 결정됐다. 지난 2018년 데뷔 후 어느새 2021년이 지나가고 있다"라며 팬들을 향해]]></content:encoded>
+            <title><![CDATA['해피니스' 영화 같은 장르물 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211106060206609</link>
+            <guid>https://entertain.v.daum.net/v/20211106060206609</guid>
+            <pubDate>Fri, 05 Nov 2021 21:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 이기은 기자] '해피니스‘가 감염병 사태를 장르물답게 실감나게 표현해냈다. 5일 밤 방송된 tvN 금토드라마 '해피니스‘(극본 연출) 첫 방송 1회에서는 등장인물 윤새봄(한효주), 정이현(박형식), 한태석(조우진) 등을 둘러싼 감염병 시대 서막이 열렸다. 이날 윤새봄은 경찰특공대 전술요원으로 특공대 내부에서 감염병이 인 상황에 직면했다. 동료]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[비투비 래퍼 이민혁, 위로가 되는 감성 발라더 변신 '알아' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211105180008314</link>
-            <guid>https://entertain.v.daum.net/v/20211105180008314</guid>
-            <pubDate>Fri, 05 Nov 2021 09:21:57 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 비투비 래퍼 이민혁이 감성 발라드를 선보인다. 이민혁은 11월 5일 오후 6시 디지털 싱글 '알아(Good Night)'을 발매했다. '알아(Good Night)'는 부드럽게 감싸 안아주는 듯한 멜로디와 지친 마음을 알아주는 가사가 어우러진 감성 발라드 곡이다. "잘 있다는 난 괜찮다는 말이 이리도 힘든 건가요. 한순간도 쉬운]]></content:encoded>
+            <title><![CDATA[소연 "4인조 재편 라붐, 걱정 컸지만..더 욕심내서 컴백" ② (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211106060037554</link>
+            <guid>https://entertain.v.daum.net/v/20211106060037554</guid>
+            <pubDate>Fri, 05 Nov 2021 21:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[[편집자주]'K팝 열풍'의 중심에는 아이돌 그룹이 있다. 이들은 강렬한 음악과 퍼포먼스로 전세계 음악팬들을 사로잡고 있다. 특히 요즘엔 단순히 무대 위에 서는 것을 넘어 소속 그룹이 소화할 노래를 직접 작사 작곡 및 프로듀싱하는, 이른바 '아티스트돌'도 늘었다. 실력파 아이돌들이 증가하고 있다는 점은 K팝 글로벌 광풍에 긍정적 신호다. &lt;뉴스1&gt;은 [아이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[트와이스, 개인 티저 추가 공개..'하트 여신, 사랑 그 자체' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211105174624962</link>
-            <guid>https://entertain.v.daum.net/v/20211105174624962</guid>
-            <pubDate>Fri, 05 Nov 2021 09:21:57 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 박윤진 기자] 그룹 트와이스가 새 앨범 개인 티저 이미지에서 사랑스러움을 한껏 뽐냈다. JYP엔터테인먼트는 5일 오후 1시 공식 SNS 채널에 트와이스 정규 3집 '포뮬러 오브 러브 : O+T=&lt;3(Formula of Love : O+T=&lt;3)'의 개별 콘셉트 사진을 추가 오픈했다. 앞서 공개한 오프닝 트레일러에서 '트와이스 러브 랩(T]]></content:encoded>
+            <title><![CDATA[라붐 소연 "자작곡 '체온' 타이틀될 줄 몰라..단연 '최애곡'" ① (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211106060031546</link>
+            <guid>https://entertain.v.daum.net/v/20211106060031546</guid>
+            <pubDate>Fri, 05 Nov 2021 21:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[[편집자주]'K팝 열풍'의 중심에는 아이돌 그룹이 있다. 이들은 강렬한 음악과 퍼포먼스로 전세계 음악팬들을 사로잡고 있다. 특히 요즘엔 단순히 무대 위에 서는 것을 넘어 소속 그룹이 소화할 노래를 직접 작사 작곡 및 프로듀싱하는, 이른바 '아티스트돌'도 늘었다. 실력파 아이돌들이 증가하고 있다는 점은 K팝 글로벌 광풍에 긍정적 신호다. &lt;뉴스1&gt;은 [아이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[제2의 '오겜' 기대했건만..전지현도 못살린 '지리산' 패착 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211106060027536</link>
+            <guid>https://entertain.v.daum.net/v/20211106060027536</guid>
+            <pubDate>Fri, 05 Nov 2021 21:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스] 최지윤 기자 = 기대가 크면 실망도 큰 법이다. 한류스타 전지현과 스타작가 김은희 만남만으로 관심을 받기 충분했다. 때마침 넷플릭스 '오징어게임' 신드롬이 일어 'K-드라마' 열풍을 이어갈 것이라고 예상했다. 글로벌 그룹 '방탄소년단' 멤버 진이 OST에 참여하고, 산을 배경으로 해 위드 코로나 시대 등산 붐 등 경제 선순환 효과 기대]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['나혼자산다' 허니제이 제1지원군, 엄마 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211106060018516</link>
+            <guid>https://entertain.v.daum.net/v/20211106060018516</guid>
+            <pubDate>Fri, 05 Nov 2021 21:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 이기은 기자] ‘나혼자산다’ 허니제이에겐 늘 어머니의 응원이 함께 했다. 5일 밤 방송된 MBC 예능프로그램 ‘나 혼자 산다’에서는 홀리뱅 리더 허니제이 일상이 그려졌다. 이날 허니제이는 Mnet 예능프로그램 ‘스트릿 우먼 파이터’ 결승전 일과를 마치고 어머니와 오랜만에 통화를 했다. 어머니는 “우리 딸이 최고다”라며 딸의 성공을 축하했다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['둘째 임신' 이지혜 "첫째 때랑 달라, 그냥 낳으면 낳는 것"..♥문재완 "관심 필요해" [종합 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211106060013511</link>
+            <guid>https://entertain.v.daum.net/v/20211106060013511</guid>
+            <pubDate>Fri, 05 Nov 2021 21:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 강다윤 기자] 방송인 이지혜(41)가 직접 챙긴 출산 준비물을 공개했다. 4일 이지혜가 운영하는 유튜브 채널 '밉지않은 관종언니'에는 '관종언니의 본격적 둘째 출산 준비!! 큰태리의 상의 탈의..? 국민 출산템, 육아템 대공개!!'라는 제목의 영상이 게재됐다. 공개된 영상에서 이지혜는 "태리도 컸지만 제 배도 많이 컸다. 출산이 아마 방송]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['슬기로운 산촌생활' 신원호 PD, 99즈와 만끽한 종영 여운 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211106060010505</link>
+            <guid>https://entertain.v.daum.net/v/20211106060010505</guid>
+            <pubDate>Fri, 05 Nov 2021 21:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 박상후 기자] '슬기로운 산촌생활'에서 신원호 PD가 99즈와 추억을 떠올리며 '슬의생' 종영의 아쉬움을 달랬다. 5일 밤 방송된 tvN 예능프로그램 '슬기로운 산촌생활'에서는 조정석, 유연석, 정경호, 김대명, 전미도의 일상이 그려졌다. 이날 조정석, 유연석, 정경호, 김대명은 저녁 메뉴로 오삼불고기, 시래기된장국을 준비했다. 특히 조정]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['해피니스' 한효주, 광인병 감염자 밀접 접촉 "짐승처럼 물어뜯어" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211106060008498</link>
+            <guid>https://entertain.v.daum.net/v/20211106060008498</guid>
+            <pubDate>Fri, 05 Nov 2021 21:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 최혜진 기자] '해피니스' 한효주가 광인병 밀접 접촉자가 됐다. 5일 첫 방송된 tvN 새 금토드라마 '해피니스'(극본 한상운·연출 안길호)에서는 광인병 감염 위기에 처한 윤새봄(한효주)의 모습이 그려졌다. 이날 경찰특공대 에이스 윤새봄은 광인병 증세를 보이는 이종태에게 공격을 당했다. 윤새봄은 가까스로 몸을 구했으나 광인병 밀접 접촉자로]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김용건 "기 죽이면 노동청에 고발.." (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211106060008495</link>
+            <guid>https://entertain.v.daum.net/v/20211106060008495</guid>
+            <pubDate>Fri, 05 Nov 2021 21:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] 사진 제공=MBN ‘그랜파’76세 최고령 캐디로 나선 배우 김용건이 ‘그랜파 4인방’과 거침없는 티키타카를 발휘하며 ‘도캐디’ 도경완을 위협한다. 6일(토) 첫 방송하는 MBN ‘인생필드 평생동반-그랜파’에서는 김용건이 첫 게스트로 출격해, 이순재-박근형-백일섭-임하룡과 함께 제주도로 골프 여행을 떠난다. 그동안 도경완이 ‘그랜파 4인방’을]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['나혼산' 허니제이 "6년째 자취, 최근 자가 마련" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211106060007493</link>
+            <guid>https://entertain.v.daum.net/v/20211106060007493</guid>
+            <pubDate>Fri, 05 Nov 2021 21:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 최혜진 기자] '나혼산' 허니제이가 자가 구매 소식을 전햇다. 5일 방송된 MBC 예능프로그램 '나 혼자 산다'(이하 '나혼산')에서는 댄서 허니제이의 일상이 그려졌다. 이날 허니제이는 "혼자 산지 6년 차"라며 "어릴 때부터 당연하게 춤을 췄다. 중학교 때 대회를 나갔고, 공연 섭외가 들어와 공연하러 다녔다. 그렇게 22년을 보냈다"고 전]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["'부르는 게 값'인 김선호가 소속사 직접 설득해 '노개런티' 출연을.." (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211106060006491</link>
+            <guid>https://entertain.v.daum.net/v/20211106060006491</guid>
+            <pubDate>Fri, 05 Nov 2021 21:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 배우 김선호가 '사생활 논란'에 휩싸인 것과 달리, 연예계에선 미담이 이어지고 있다. 프로듀서 A 씨는 5일 자신의 인스타그램에 김선호의 사진과 함께 장문의 글을 올렸다. 가수 박혜경의 신곡 프로듀싱을 맡았다는 A 씨는 "김선호와 관련한 에피소드가 있어서 적는다. 개인적으로 너무 좋은 분이라 느꼈고 감사함을 느꼈던 기억이 있]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[달빛요정 역전만루홈런, 오늘 11주기 '루저'들 위로했던 뮤지션 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211106060003484</link>
+            <guid>https://entertain.v.daum.net/v/20211106060003484</guid>
+            <pubDate>Fri, 05 Nov 2021 21:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박수인 기자] 1인 프로젝트 밴드 달빛요정 역전만루홈런(본명 이진원)이 세상을 떠난지 11년이 흘렀다. 달빛요정 역전만루홈런 이진원은 지난 2010년 11월 6일 뇌출혈 입원 6일 만에 사망했다. 1일 자택에서 쓰러진 이진원은 뇌출혈로 중환자실에 입원했으나 끝내 의식을 되찾지 못하고 6일 사망했다. 달빛요정 역전만루홈런은 2003년 홈레코딩 방식]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["'쇼미10' 변할 때 됐다" 코드 쿤스트 건의에 탈락자도 음원 참여 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
@@ -903,88 +987,11 @@
             <content:encoded><![CDATA[(서울=뉴스1) 안태현 기자 = *작품의 주요 내용을 포함한 스포일러가 있습니다. 애플TV플러스(애플TV+)가 한국 정식 론칭과 함께 내놓은 첫 한국 오리지널 시리즈 'Dr. 브레인'(감독 김지운)이 지난 4일 베일을 벗었다. 1회가 먼저 공개된 뒤, 매주 토요일(4회는 26일 금요일) 공개되는 'Dr. 브레인'은 1회부터 만만치 않은 흡인력과 신선함을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[조정석X김대명, 16년만 최고의 호흡? 옥수수밭 베기 '거금' 벌었다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211106045002628</link>
-            <guid>https://entertain.v.daum.net/v/20211106045002628</guid>
-            <pubDate>Fri, 05 Nov 2021 20:23:23 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 이지현 기자 = 조정석, 김대명이 옥수수밭을 초토화시켰다. 지난 5일 방송된 tvN 예능 프로그램 '슬기로운 산촌생활'에서는 배우 조정석, 김대명이 옥수수밭 베기 작업을 통해 '거금'을 벌고 뿌듯해 했다. 이날 두 사람은 일해야 할 옥수수밭을 보고는 깜짝 놀랐다. 일이 고되고 끝이 없어 보였지만 남다른 호흡을 과시하며 정했던 양을 베]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김경란, 부모님 과한 애착 고백.."서로 병들어가는 기분" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211106045000627</link>
-            <guid>https://entertain.v.daum.net/v/20211106045000627</guid>
-            <pubDate>Fri, 05 Nov 2021 20:23:23 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 박하나 기자 = '금쪽 상담소' 방송인 김경란이 부모님의 과한 애착으로 힘들었던 경험을 고백했다. 지난 5일 오후 9시 30분에 방송된 채널A 예능 프로그램 '오은영의 금쪽 상담소'('금쪽 상담소')에서는 KBS 아나운서 출신 방송인 김경란의 이야기가 공개됐다. 김경란은 "자식 이기는 부모가 있다고 생각했다"라며 부모님의 과한 애착으로]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[달빛요정역전만루홈런 이진원, 뇌출혈 사망 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211106043002579</link>
-            <guid>https://entertain.v.daum.net/v/20211106043002579</guid>
-            <pubDate>Fri, 05 Nov 2021 20:23:23 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자]돌아보면 늘 다사다난하기만 했던 연예가. 그 역사 속의 '오늘'을 되짚어 봅니다. 달빛요정역전만루홈런 이진원, 뇌출혈 사망 (2010년 11월 6일) 1인 프로젝트 밴드 '달빛요정역전만루홈런'으로 활동하던 이진원이 뇌출혈로 세상을 떠났다. 향년 37세. 달빛요정역전만루홈런 공식사이트에는 "이진원씨가 6일 오전 8시13분 이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['해피니스' 좀비병, 실패한 치료제 탓? 한효주x박형식 쌍방고백 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211106012700121</link>
-            <guid>https://entertain.v.daum.net/v/20211106012700121</guid>
-            <pubDate>Fri, 05 Nov 2021 16:31:43 GMT</pubDate>
-            <content:encoded><![CDATA[고등학교 친구로 처음 만난 한효주와 박형식이 13년 뒤, 끈끈한 우정을 이어갔다. 13년이 지난 어느날 한효주는 박형식에게 대뜸 결혼하자고 고백했다. 5일 첫 방송된 tvN 금토드라마 '해피니스'에서는 윤새봄(한효주 분)과 정이현(박형식 분)의 고등학교 시절 첫만남 13년 이후, 윤새봄은 경찰이, 정이현은 야구선수가 된 현재 모습이 그려졌다. 이날 정이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['쇼미10' 개코→자이언티, 4팀의 치열한 무대.. 탈락자 선정까지 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211106011500032</link>
-            <guid>https://entertain.v.daum.net/v/20211106011500032</guid>
-            <pubDate>Fri, 05 Nov 2021 16:31:43 GMT</pubDate>
-            <content:encoded><![CDATA['쇼미10' 4명의 탈락자가 결정됐다. 5일 방송된 Mnet 힙합 서바이벌 '쇼미더머니 10'(이하 '쇼미10')에서는 4팀의 치열한 음원 미션 무대가 그려졌다. 이날 자이언티-슬롬은 '티슬라' 팀원들과 함께 최면사를 찾았고, 각자 신경쓰이는 래퍼, 파이널에 올라갈 멤버 등을 말하며 서로에 대해 알아갔다. 티슬라는 '트러블'이라는 주제의 비트를 들]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['나혼산' 허니제이, 카리스마 리더→울보 꿀정.."댄서 외 생각해 본 적 없어" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211106005730857</link>
-            <guid>https://entertain.v.daum.net/v/20211106005730857</guid>
-            <pubDate>Fri, 05 Nov 2021 16:31:43 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트=김은정 기자] 허니제이의 일상이 공개됐다. 5일 오후 방송된 MBC ‘나 혼자 산다’에는 댄서 허니제이가 출연했다. 허니제이는 댄스 서바이벌 프로그램 '스트릿 우먼 파이터'(이하 '스우파')의 우승팀 홀리뱅의 수장이다. 한국 걸스힙합씬에서 22년 동안 활동한 레전드 댄서인 그의 우승 후의 이야기가 펼쳐졌다. 이날 허니제이는 "어릴 때부터 당연]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[비오, 음원 미션서도 호평.."우리와 방향 달라" 언오피셜보이 탈락 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211106005325853</link>
-            <guid>https://entertain.v.daum.net/v/20211106005325853</guid>
-            <pubDate>Fri, 05 Nov 2021 16:31:43 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 이지현 기자 = '쇼미더머니 10' 비오가 음원 미션에서도 호평을 받았다. 5일 오후 방송된 Mnet 예능 프로그램 '쇼미더머니 10'에서는 음원 미션을 통해 4명의 탈락자가 결정됐다. 그레이X마이노 팀에는 화제의 참가자 비오를 비롯해 머드 더 스튜던트, 아넌딜라이트, 지구인, 언오피셜보이 등이 속해 있었다. 연습 때부터 친해진 이들]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['해피니스' 한효주, 박형식 옥상서 밀어 떨어뜨렸다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211106005101851</link>
-            <guid>https://entertain.v.daum.net/v/20211106005101851</guid>
-            <pubDate>Fri, 05 Nov 2021 16:31:43 GMT</pubDate>
-            <content:encoded><![CDATA[한효주가 박형식을 학교 옥상에서 떨어뜨렸다. 5일 첫 방송된 tvN 금토드라마 '해피니스(Happiness)'에서는 윤새봄(한효주 분)과 정이현(박형식 분)의 고등학생 모습이 그려졌다. 이날 정이현은 야구선수로서 인생이 꺾인 것에 답답함을 느껴 학교 옥상에 올라가있어 이목을 끌었다. 경찰과 119 대원들이 그를 구하기 위해 찾아왔고, 기다리기 싫었던 윤새]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['쇼미10' 개코X코드 쿤스트, 완벽한 음원미션 팀 무대에 '고민' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211106004801844</link>
-            <guid>https://entertain.v.daum.net/v/20211106004801844</guid>
-            <pubDate>Fri, 05 Nov 2021 16:31:43 GMT</pubDate>
-            <content:encoded><![CDATA['쇼미10' 코코팀의 완벽한 무대가 그려졌다. 5일 방송된 Mnet 힙합 서바이벌 '쇼미더머니 10'(이하 '쇼미10')에서는 개코-코드 쿤스트 '코코'팀의 5차 음원미션 무대가 공개됐다. 이날 '코코'팀은 다른 팀과 다르게 유독 어색해하는 모습을 보였다. 그 모습을 본 코드 쿤스트 "이것부터 시작하자. 서로 존댓말하는 팀이 우리밖에 없는 것 같다"]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[화사, 문어·바지락 이용한 백신 대비 보양식은?.."라면이다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211106004705843</link>
-            <guid>https://entertain.v.daum.net/v/20211106004705843</guid>
-            <pubDate>Fri, 05 Nov 2021 16:31:43 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 박하나 기자 = '나 혼자 산다' 가수 화사가 백신 대비 보양식으로 라면을 끓였다. 5일 오후에 방송된 MBC 예능 프로그램 '나 혼자 산다'에서는 코로나19 백신 2차 접종을 앞두고 몸보신을 위한 보양식을 만드는 화사의 모습이 공개됐다. 백신 2차 접종을 앞둔 화사가 걱정되는 마음에 박나래, 어머니 등에게 전화를 걸어 2차 접종 후기를]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['해방타운' 허재, 최영재와 알콩달콩 장어 먹방 "이종혁 보다 낫다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211106004500826</link>
-            <guid>https://entertain.v.daum.net/v/20211106004500826</guid>
-            <pubDate>Fri, 05 Nov 2021 16:31:43 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트 = 하수나 기자] 허재와 최영재가 알콩달콩한 장어 먹방으로 형제케미를 뽐냈다.&nbsp; 5일 방송된 JTBC '해방타운‘에선 허재의 갱년기 극복 프로젝트가 펼쳐졌다. 갱년기 허재를 위해 최영재가 운동처방을 해주며 두 사람의 관계가 더욱 돈독해졌다.&nbsp; 함께 장어 먹방을 하는 두 사람. 허재가 먼저 장어꼬리를 최영재의 접시에 놔주며 스윗허재의 면모를 드러]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[K-좀비 열풍 이을 '해피니스'.."연기 어색" 혹평도 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211106004128774</link>
-            <guid>https://entertain.v.daum.net/v/20211106004128774</guid>
-            <pubDate>Fri, 05 Nov 2021 16:31:43 GMT</pubDate>
-            <content:encoded><![CDATA[K-좀비의 인기를 이을 새로운 작품이 탄생한 걸까. '해피니스'가 강렬한 스토리로 안방극장에 긴장감을 안겨줬다. 다만 배우들의 연기에 대해서는 호불호가 갈렸다. 지난 5일 tvN 드라마 '해피니스'가 첫 방송됐다. 이 작품은 근미래를 배경으로 계층 사회의 축소판인 아파트에 고립된 이들의 생존기를 담은 뉴노멀 도시 스릴러다. 다양한 인간 군상이 모여 사는 대]]></content:encoded>
+            <title><![CDATA[41살 킴 카다시안, 14살 연하 피트 데이비슨과 열애 "진심으로 애정어린 데이트" (다음 연예 ─ 뉴스 ─ 해외)]]></title>
+            <link>https://entertain.v.daum.net/v/20211106060015514</link>
+            <guid>https://entertain.v.daum.net/v/20211106060015514</guid>
+            <pubDate>Fri, 05 Nov 2021 21:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]카니예 웨스트와 이혼한 할리우드 모델 킴 카다시안(41)과 인기 코미디언 피트 데이비슨(27)의 열애설이 연일 화제다. 연예매체 페이지식스는 4일(현지시간) 관계자의 말을 인용해, 이들의 뉴욕 데이트는 “서로에게 진심으로 애정어린 것 같았다”고 전했다. 3일 피트 데이비슨은 뉴욕 맨해튼의 A급 개인 회원 클럽인 제로 본드]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[킴 카다시안, '아리아나 그란데 전 남친' 피트 데이비슨과 열애설 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
@@ -1022,18 +1029,39 @@
             <content:encoded><![CDATA[세계적 차트에서 인기를 끄는 포스트말론과 위켄드가 컬래버레이션 노래를 냈다. 두 사람은 5일 합작 싱글 'One Right Now'(원 라이트 나우)를 발표했다. 해당 트랙은 포스트말론의 새 앨범에 수록될 것으로 보인다. 공식 음원 영상은 포스트말론 유튜브 채널에서 볼 수 있다. 위켄드는 "마이 브라더"라며 하트 이모티콘까지 달아 우정을 드러냈다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[킴 카다시안♥피트 데이비슨 열애설, "파파라치와 경호원 실랑이 벌이며 신경전" (다음 연예 ─ 뉴스 ─ 해외)]]></title>
-            <link>https://entertain.v.daum.net/v/20211105060010145</link>
-            <guid>https://entertain.v.daum.net/v/20211105060010145</guid>
-            <pubDate>Thu, 04 Nov 2021 21:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]카니예 웨스트와 이혼한 킴 카다시안이 최근 떠오르는 미국 코미디언 피트 데이비슨과 이틀 연속으로 데이트를 하는 등 핑크빛 분위기를 내고 있다. 연예매체 페이지식스는 3일(현지시간) “킴 카다시안과 피트 데이비슨의 소문난 열애는 이틀 연속 저녁을 먹으러 가면서 뜨거워지고 있는 것으로 보인다”고 전했다. 이날 피트 데이비슨은]]></content:encoded>
+            <title><![CDATA[김석진만의 색으로 채운 힐링 캔버스..방탄소년단, 인더숲 마지막 이야기 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002492</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002492</guid>
+            <pubDate>Fri, 05 Nov 2021 21:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[방탄소년단(BTS) 진이 인더숲에서 다채로운 매력으로 팬심을 사로잡았다. 지난 5일 JTBC와 위버스에서 리얼리티 프로그램인 '인더숲 BTS편 시즌2'(In the SOOP BTS ver. Season 2) 4번째]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[브리트니 스피어스, 母의 7억 요구에 "父가 내 후견인 되도록..내 인생 망쳤다" (다음 연예 ─ 뉴스 ─ 해외)]]></title>
-            <link>https://entertain.v.daum.net/v/20211105054749065</link>
-            <guid>https://entertain.v.daum.net/v/20211105054749065</guid>
-            <pubDate>Thu, 04 Nov 2021 21:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박수인 기자] 팝가수 브리트니 스피어스(Britney Spears) 어머니가 아버지에 이어 딸에게 돈을 요구했다. 11월 3일(현지시각) 영국 매체 BBC는 브리트니 스피어스 어머니가 최근 딸을 변호한 것에 대해 변호사 수임료 포함 65만달러(한화 약 7억 7천만 원)을 요구했다고 보도했다. 앞서 브리트니 스피어스는 자신의 후견인인 아버지와 법정]]></content:encoded>
+            <title><![CDATA[BTS 정국, 여심을 저격하는 수트 비주얼 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001369737</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001369737</guid>
+            <pubDate>Fri, 05 Nov 2021 21:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이정범 기자) 방탄소년단(BTS) 정국의 비주얼이 눈길을 끌었다. 지난 5일 코웨이 공식 유튜브 채널, SNS에는 방탄소년단의 새 영상이 공개됐다. 그중 정국은 짙은 차콜 수트를 입고 귀티 넘치는 자태]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘찬또배기’ 이찬원, ‘사랑의 콜센타’ 노래 모음 200만 뷰 돌파 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001369736</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001369736</guid>
+            <pubDate>Fri, 05 Nov 2021 21:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이정범 기자) 이찬원의 '사랑의 콜센타 노래 모음' 영상이 조회 수 200만 뷰를 넘어섰다. 지난 2020년 9월 5일 미스&amp;미스터트롯 공식계정 유튜브 채널에는 “사랑의 콜센타 이찬원 노래모음 1시간]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[임영웅 팬들, 어려운 이웃 위한 사랑나눔 김장 봉사..선한 영향력 실천 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002489</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002489</guid>
+            <pubDate>Fri, 05 Nov 2021 21:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[가수 임영웅의 팬들이 김장 봉사로 어려운 이웃들에게 사랑을 나누며 선한 영향력을 실천했다. 임영웅 팬클럽 영웅시대 영웅사랑 포천누나들은 지난 11월 5일 경기도 자원봉사센터 지원사업인 포천시 김치 담그기 김장 봉사에]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[빅마마 신연아→싱어송라이터 짙은, 창작가요제 ‘BE THE STAR 콘테스트’ 심사위원 참여 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001369732</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001369732</guid>
+            <pubDate>Fri, 05 Nov 2021 21:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이정범 기자) 관악문화재단(대표이사 차민태)이 세상에 없는 음악 발굴 프로젝트 'Be The Star 콘테스트' 본선을 오는 11월 12일(금) 관악아트홀에서 개최한다. 신예 싱어송라이터를 발굴하는 ']]></content:encoded>
         </item>
         <item>
             <title><![CDATA[감성 장인의 감동 승부수..임영웅 '배신자' 900만뷰 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
@@ -1176,39 +1204,60 @@
             <content:encoded><![CDATA[(엑스포츠뉴스 이정범 기자) ‘트롯바비’ 홍지윤의 기부가 눈길을 끈다. (재)한국소아암재단(이사장 이성희)은 가수 홍지윤이 ‘선한트롯’ 10월 가왕전 상금 50만 원을 기부했다고 5일 전했다. (재)한국소아암재단은]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['뮤직뱅크' 세븐틴, 출연 없이 1위..슈주 D&E·라붐 컴백[★밤TView] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002425</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002425</guid>
-            <pubDate>Fri, 05 Nov 2021 10:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[아이돌그룹 세븐틴이 '뮤직뱅크' 정상에 올랐다. 세븐틴이 5일 방송된 KBS 2TV '뮤직뱅크'에서 정상을 차지했다. 이날 1위 후보로는 세븐틴 'Rock with you'와 NCT 127 'Favorite'(Vam]]></content:encoded>
+            <title><![CDATA['진화♥' 함소원, 짙은 쌍꺼풀 자랑하며 라면 먹방 [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000509833</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000509833</guid>
+            <pubDate>Fri, 05 Nov 2021 21:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=서예진 기자] 방송인 함소원이 진한 쌍꺼풀을 뽐냈다. 함소원은 5일 자신의 SNS에 “라면 먹고갈래요”라는 멘트와 함께 여러 편의 동영상을 게재했다. 공개된 영상에는 함소원의 야무진 라면 먹방이 담겼다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한서희 "YG 마약수사 공조로 석방" 증언..양현석 "한서희 협박 안해" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000799944</link>
-            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000799944</guid>
-            <pubDate>Fri, 05 Nov 2021 10:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 아이콘 전 멤버 비아이의 마약 수사 무마 혐의로 기소된 양현석 전 YG엔터테인먼트 대표 프로듀서가 5일 오전 서울 서초구 서울중앙지법에서 열리는 첫 공판에 참석하고 있다.사진|공동취재단 [스포츠서울|조현정기자]]]></content:encoded>
+            <title><![CDATA["김선호♥=나의 이유" 한글 응원..'해외 팬덤'도 움직였다 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003798492</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003798492</guid>
+            <pubDate>Fri, 05 Nov 2021 21:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 이유나 기자] 배우 김선호 글로벌 팬덤이 그의 복귀를 응원했다. 김선호 글로벌 팬덤은 최근 '김선호, 당신은 나의 이유'라는 제목의 뮤비 형태의 응원 영상을 유튜브에 공개했다. 8분이 넘는 시간의 뮤비]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[몬스타엑스 19일 복귀 앞두고 '노 리밋' 트랙리스트 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000799943</link>
-            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000799943</guid>
-            <pubDate>Fri, 05 Nov 2021 09:22:15 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 이웅희기자] 그룹 몬스타엑스(MONSTA X)가 새 앨범 트랙리스트를 공개했다. 형원과 주헌, 아이엠의 자작곡 진가가 발휘되고 있는 가운데 몬스타엑스의 색깔이 짙어진 느낌을 주고 있다. 몬스타엑스는]]></content:encoded>
+            <title><![CDATA[박민정, 둘째 딸=♥조현재 붕어빵..."부었어도 예쁘다고 해줘" 사랑꾼 남편 자랑 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003798491</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003798491</guid>
+            <pubDate>Fri, 05 Nov 2021 21:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조윤선 기자] 배우 조현재의 아내이자 전 프로골퍼 박민정의 둘째 출산 소감을 밝혔다. 박민정은 5일 자신의 인스타그램에 "조리원 생활 8일 차. 축하해 주신 모든 분들께 감사드립니다. 이제 셋째는 없습니]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["90년대 MV를 고화질로"…음산협X유튜브, MV 리마스터링 프로젝트 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001369458</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001369458</guid>
-            <pubDate>Fri, 05 Nov 2021 09:22:15 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 하지원 기자) 한국음반산업협회가 유튜브와 옛 명곡들의 뮤직비디오 리마스터링 프로젝트를 진행한다. 5일 음산협 측은 “지난 4일부터 유튜브와 뮤직비디오 리마스터링 프로젝트를 시작했다. 이번 프로젝트는 우]]></content:encoded>
+            <title><![CDATA['백도빈♥' 정시아 "가을 타는지"…도마뱀 향한 지극정성 [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000509832</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000509832</guid>
+            <pubDate>Fri, 05 Nov 2021 21:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=김지원 기자] 배우 정시아가 일상의 소소한 순간을 공유했다. 정시아는 5일 자신의 인스타그램에 "요즘 납작이가 가을을 타는지 눈만 뜨면 창밖을 한없이 보고있어요. 사막에 사는 아이라서 감기걸릴까봐 산책을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘뮤직뱅크’ 박지훈, 영화 같은 퍼포먼스 ‘시리어스’ (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828828</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828828</guid>
-            <pubDate>Fri, 05 Nov 2021 09:22:15 GMT</pubDate>
-            <content:encoded><![CDATA[가수 박지훈이 뜨겁고도 차가운 매력을 보이며 ‘만능 아티스트’ 면모를 입증했다. 박지훈은 5일 방송된 KBS 2TV ‘뮤직뱅크’에 출연해 새 미니앨범 ‘HOT&amp;COLD(핫 앤 콜드)’ 타이틀곡 ‘Serious(시리어]]></content:encoded>
+            <title><![CDATA[신정환 "사고 친 女연예인에 자숙 상담, '11년간 수입 없어도 산다' 위로" ('전라스') (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003798489</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003798489</guid>
+            <pubDate>Fri, 05 Nov 2021 21:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 이우주 기자] 가수 신정환이 어쩌다 보니 사고 친 연예인들의 상담원이 됐다고 밝혔다. 5일 윤종신과 신정환이 운영하는 유튜브 채널 '전라스 그러지마오'에서는 '사람들은 왜 점집에 가는가?(자숙, 가스]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김용건 “기 죽이면 노동청에 고발..” (그랜파) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000943107</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000943107</guid>
+            <pubDate>Fri, 05 Nov 2021 21:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[76세 최고령 캐디로 나선 배우 김용건이 ‘그랜파 4인방’과 거침없는 티키타카를 발휘하며 ‘도캐디’ 도경완을 위협한다. 6일(토) 첫 방송하는 MBN ‘인생필드 평생동반-그랜파’에서는 김용건이 첫 게스트로 출격해,]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['임신 31주' 이지혜, 예약제 카페서 귀여운 "짝꿍"과 "노는 게 제일 좋아" [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000509826</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000509826</guid>
+            <pubDate>Fri, 05 Nov 2021 21:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=김지원 기자] 가수 이지혜가 가족 나들이를 즐겼다. 이지혜는 5일 자신의 인스타그램에 "너랑 노는 게 제일 좋아 #내 사랑 #엄마 꽃 꽂아주기 #재밌지 #너와의 휴가 #세젤행 #내 짝꿍 #내 베프", "여]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘리틀 이동국’ 장시우, 롤모델은 안정환? (뭉찬2) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000943106</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000943106</guid>
+            <pubDate>Fri, 05 Nov 2021 21:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[축구 천재 5인방이 ‘어쩌다벤져스’를 찾아온다. 오는 7일(일) JTBC ‘뭉쳐야 찬다 시즌2’에서는 유소년 축구 전통의 강호 전북 U15에 소속된 축구 천재 김예건, 노연우, 이사무엘, 장시우, 안우혁이 ‘어쩌다벤]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['43세' 유민, '활동 중단'에도 여전한 우윳빛 미모…보조개 미소까지 '청순' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
@@ -1330,60 +1379,11 @@
             <content:encoded><![CDATA[제작사와 스태프의 엇갈린 주장...'마의 7년' 넘기지 못한 러블리즈 남자 배우가 촬영장 갑질과 스태프 교체 의혹으로 논란에 휩싸였습니다. 이를 둘러싼 양측의 주장이 엇갈리고 있어 논란은 쉽게 사그러들지 않고 있습니]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[백종원♥소유진 선행...NCT 127, 트리플 밀리언셀러 등극 [TF업앤다운(상)] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=629&amp;aid=0000114743</link>
-            <guid>https://entertain.naver.com/now/read?oid=629&amp;aid=0000114743</guid>
-            <pubDate>Fri, 05 Nov 2021 15:22:31 GMT</pubDate>
-            <content:encoded><![CDATA[반소영, 김성 PD와 백년가약 요리연구가와 배우 부부가 자녀들과 함께 선한 영향력을 행사했습니다. 또한 여배우와 PD는 웨딩 화보와 함께 결혼 소식을 전했습니다. 보이 그룹은 트리플 밀리언셀러에 등극하며 막강한 음반]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[장민호, 父김갑수 이정재 자랑에 부러움 (‘갓파더’) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000943094</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000943094</guid>
-            <pubDate>Fri, 05 Nov 2021 15:22:31 GMT</pubDate>
-            <content:encoded><![CDATA[KBS2 예능프로그램 '갓파더' 국민 아들들의 험난한 여정이 시작된다. 6일 KBS2 예능 프로그램 '新가족관계증명서 갓파더'(이하 '갓파더')에선 국민부자(父子)들과 함께 우지원이 게스트로 출연해 시청자들에게 역대]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[박솔미, 집 최초 공개→♥한재석과 결혼 비하인드 "날짜 잡고 이별 통보"('편스토랑')[종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003798477</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003798477</guid>
-            <pubDate>Fri, 05 Nov 2021 15:22:31 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조윤선 기자] 배우 박솔미가 '편스토랑'을 통해 집을 최초로 공개했다. 5일 방송된 KBS 2TV '신상출시 편스토랑'(이하 '편스토랑')에는 박솔미가 신입 편셰프로 합류했다. 이날 박솔미는 "요리 잘하]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['태국재벌♥' 신주아 "넓다 넓어"…49억 대저택도, 대리석 식탁도 [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000509820</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000509820</guid>
-            <pubDate>Fri, 05 Nov 2021 15:22:31 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=김지원 기자] 배우 신주아가 태국에서 근황을 전했다. 신주아는 5일 자신의 인스타그램 스토리에 "넓다 넓어. 홈그램. 신주아"라고 글을 올렸다. 사진 속 신주아는 보헤미안 스타일의 원피스를 입고 방콕의 대]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[최여진 "이혼 콤플렉스로 캐나다行, 사기·학비 부족으로 발레 포기" ('백반기행')[종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003798476</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003798476</guid>
-            <pubDate>Fri, 05 Nov 2021 15:22:31 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선닷컴 이우주 기자] '백반기행' 최여진이 캐나다까지 가서 발레를 해야 했던 이유를 털털어놨다. 5일 방송된 TV조선 '허영만의 백반기행'에서는 배우 최여진이 태안 맛집을 찾았다. 최여진이 처음으로 향한 곳]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['사업가♥' 이시영, G사 초대로 북한산뷰 5성급호텔서 힐링데이 [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000509819</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000509819</guid>
-            <pubDate>Fri, 05 Nov 2021 15:22:31 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=김지원 기자] 배우 이시영이 호텔에서 힐링을 즐겼다. 이시영은 5일 자신의 인스타그램에 "북한산 모든 능선이 한눈에 보이는 곳에서 따뜻한 수영이라니. 감사합니다. 너무 좋은 곳에서 잘 쉬었어요"라고 글을]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[안내상X길해연, 기묘한 분위기 (‘통증의 풍경’) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000943091</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000943091</guid>
-            <pubDate>Fri, 05 Nov 2021 15:22:31 GMT</pubDate>
-            <content:encoded><![CDATA[TV 시네마 ‘통증의 풍경’이 숨 막히는 추적 스릴러로 시청자들을 사로잡는다. 5일(오늘) UHD KBS 드라마 스페셜 2021-TV 시네마 ‘통증의 풍경’(연출 임세준/ 극본 임세준, 송슬기)은 허름한 동네에서 벌]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['딸바보 예약' 윤주만♥김예린. 오늘 득녀..."세상 모든 엄마들 존경해요"[★SNS] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000800051</link>
-            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000800051</guid>
-            <pubDate>Fri, 05 Nov 2021 15:22:31 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울|조현정기자] 배우 윤주만이 득녀했다. 윤주만은 5일 자신의 인스타그램에 “오늘 오후 5시 35분에 우리 현똑이가 태어났습니다”라는 글과 함께 사진 한 장을 게재했다. 공개된 사진에는 갓 태어난 딸을 안고]]></content:encoded>
+            <title><![CDATA[41살 킴 카다시안, 14살 연하 피트 데이비슨과 열애 “진심으로 애정어린 데이트”[해외이슈] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003552862</link>
+            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003552862</guid>
+            <pubDate>Fri, 05 Nov 2021 21:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]카니예 웨스트와 이혼한 할리우드 모델 킴 카다시안(41)과 인기 코미디언 피트 데이비슨(27)의 열애설이 연일 화제다. 연예매체 페이지식스는 4일(현지시간) 관계자의 말을 인용해, 이들의]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아누팜, '오징어 게임' 199번 달고 준PO 시구 [MK화보] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
@@ -1552,13 +1552,6 @@
             <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003552498</guid>
             <pubDate>Thu, 04 Nov 2021 21:19:32 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]카니예 웨스트와 이혼한 킴 카다시안이 최근 떠오르는 미국 코미디언 피트 데이비슨과 이틀 연속으로 데이트를 하는 등 핑크빛 분위기를 내고 있다. 연예매체 페이지식스는 3일(현지시간) “킴]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[브리트니 스피어스, 母의 7억 요구에 "父가 내 후견인 되도록‥내 인생 망쳤다" (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000507535</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000507535</guid>
-            <pubDate>Thu, 04 Nov 2021 21:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박수인 기자] 팝가수 브리트니 스피어스(Britney Spears) 어머니가 아버지에 이어 딸에게 돈을 요구했다. 11월 3일(현지시각) 영국 매체 BBC는 브리트니 스피어스 어머니가 최근 딸을 변호한 것에]]></content:encoded>
         </item>
     </channel>
 </rss>

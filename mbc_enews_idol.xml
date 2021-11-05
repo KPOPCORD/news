@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 20:23:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 21:20:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장원영, 양갈래 머리 완벽 소화…러블리 모먼트 [인스타]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329910</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329910</guid>
+            <pubDate>Fri, 05 Nov 2021 21:19:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329910">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/05/HMYb8EWQEha9637717491101157588.jpg" alt="장원영, 양갈래 머리 완벽 소화…러블리 모먼트 [인스타]">        <div class="text-box">            <p class="summary">장원영, 양갈래 머리 완벽 소화…러블리 모먼트 [인스타]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/05/HMYb8EWQEha9637717491101157588.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘나혼산’ 화사가 선택한 백신 대비 최고의 보양식은?]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/329920</link>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 05 Nov 2021 08:24:04 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329891">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/05/124b5910-01ba-4198-a252-f2649d208d26.JPG" alt="[포토] 남우현, 염색완료! 역시 '핫가이~' ">        <div class="text-box">            <p class="summary">[포토] 남우현, 염색완료! 역시 '핫가이~' </p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/05/124b5910-01ba-4198-a252-f2649d208d26.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[브브걸 유정, '군살 제로' 몸매…"이제 진짜 추워지려나" [인스타]]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329883</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329883</guid>
-            <pubDate>Fri, 05 Nov 2021 07:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329883">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/05/b7dbaa45-28fa-4ed1-99d4-360c7b8f7e93.jpg" alt="브브걸 유정, '군살 제로' 몸매…" 이제="" 진짜="" 추워지려나"="" [인스타]"="">        <div class="text-box">            <p class="summary">브브걸 유정, '군살 제로' 몸매…"이제 진짜 추워지려나" [인스타]</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/05/b7dbaa45-28fa-4ed1-99d4-360c7b8f7e93.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

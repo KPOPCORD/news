@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-05T20:23:50.311Z</updated>
+    <updated>2021-11-05T21:20:36.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[41살 킴 카다시안, 14살 연하 피트 데이비슨과 열애 “진심으로 애정어린 데이트”[해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003552862</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003552862"/>
+        <updated>2021-11-05T21:20:36.175Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]카니예 웨스트와 이혼한 할리우드 모델 킴 카다시안(41)과 인기 코미디언 피트 데이비슨(27)의 열애설이 연일 화제다. 연예매체 페이지식스는 4일(현지시간) 관계자의 말을 인용해, 이들의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아누팜, '오징어 게임' 199번 달고 준PO 시구 [MK화보]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828876</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003552498"/>
         <updated>2021-11-04T21:19:32.994Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]카니예 웨스트와 이혼한 킴 카다시안이 최근 떠오르는 미국 코미디언 피트 데이비슨과 이틀 연속으로 데이트를 하는 등 핑크빛 분위기를 내고 있다. 연예매체 페이지식스는 3일(현지시간) “킴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브리트니 스피어스, 母의 7억 요구에 "父가 내 후견인 되도록‥내 인생 망쳤다"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000507535</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000507535"/>
-        <updated>2021-11-04T21:19:32.995Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 팝가수 브리트니 스피어스(Britney Spears) 어머니가 아버지에 이어 딸에게 돈을 요구했다. 11월 3일(현지시각) 영국 매체 BBC는 브리트니 스피어스 어머니가 최근 딸을 변호한 것에]]></content>
     </entry>
 </feed>
