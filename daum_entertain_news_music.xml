@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-05T10:23:25.522Z</updated>
+    <updated>2021-11-05T11:19:28.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하이브 재팬 '앤오디션' 2022년 방송 확정 "전세계 활약 목표"]]></title>
+        <id>https://entertain.v.daum.net/v/20211105195009666</id>
+        <link href="https://entertain.v.daum.net/v/20211105195009666"/>
+        <updated>2021-11-05T11:18:52.953Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 윤상근 기자] /사진제공=하이브 레이블즈 재팬 하이브 레이블즈 재팬(HYBE LABELS JAPAN)이 주최하는 '앤오디션'(&amp;AUDITION)이 내년 전 세계로 송출된다. 하이브(HYBE) 일본 본사 하이브 재팬(HYBE JAPAN)과 산하 레이블인 하이브 레이블즈 재팬이 선보이는 오디션 프로그램 '앤오디션'이 2022년 일본 방송과 유튜브]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[몽니 7년만 정규앨범..22일 'Firmament' 발매]]></title>
+        <id>https://entertain.v.daum.net/v/20211105194245430</id>
+        <link href="https://entertain.v.daum.net/v/20211105194245430"/>
+        <updated>2021-11-05T11:18:52.955Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 윤상근 기자] /사진제공=모던보이엔터테인먼트밴드 몽니(보컬 김신의, 베이스 이인경, 기타 공태우, 드럼 정훈태)가 약 7년 만에 정규앨범을 발매한다. 몽니는 지난 4일 오후 공식 SNS를 통해 정규 5집 'Firmament'(퍼머먼트) 재킷 이미지를 공개하며 발매 소식을 알렸다. 공개된 재킷은 몽환적인 창공(Firmament)의 분위기가 담긴 이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원어스, 한국의 멋 MV 티저 추가 공개]]></title>
         <id>https://entertain.v.daum.net/v/20211105191625952</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211105170351646"/>
         <updated>2021-11-05T08:24:10.431Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 가수 영탁의 소속사 대표가 음원 사재기를 인정한 가운데, 영탁이 대표와 함께 사재기를 모의한 정황이 공개돼 진위에 대한 관심이 뜨겁다. 영탁 소속사 밀라그로 이재규 대표는 11월 4일 "이번 사건 혐의점을 모두 인정하고 있으며 깊이 반성하고 후회하고 있다. 개인적인 욕심에 잠시 이성을 잃고 하지 말아야 할 행동을 했다. 이유 불문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비투비 이민혁 "자작곡 '알아' 내 진심 언제나 닿기를"]]></title>
-        <id>https://entertain.v.daum.net/v/20211105165942498</id>
-        <link href="https://entertain.v.daum.net/v/20211105165942498"/>
-        <updated>2021-11-05T08:24:10.432Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 윤상근 기자] /사진제공=큐브엔터테인먼트아이돌그룹 비투비 멤버 이민혁이 자작곡 '알아'(Good Night)로 컴백한 소감을 직접 전했다. 이민혁은 5일 오후 6시 주요 온라인 음원 사이트를 통해 새 디지털 싱글 '알아'(Good Night)를 발매한다. '알아'는 포근하고 아련한 이민혁의 감성적인 보컬이 돋보이는 발라드 곡으로, 부드럽게 감싸]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미스트롯2' 홍지윤, 한국소아암재단 기부 동참]]></title>
-        <id>https://entertain.v.daum.net/v/20211105165532372</id>
-        <link href="https://entertain.v.daum.net/v/20211105165532372"/>
-        <updated>2021-11-05T08:24:10.433Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 윤상근 기자] /사진=홍지윤'미스트롯2' 선 출신 홍지윤이 기부 행렬에 나섰다. (재)한국소아암재단(이사장 이성희)은 5일 "홍지윤이 선한트롯 10월 가왕전 상금 50만원을 기부했다"라고 전했다. (재)한국소아암재단은 가수 홍지윤 이름으로 기부한 상금으로 소아암, 백혈병, 희귀난치질환으로 고통받고 있는 환우들의 정서지원사업에 사용할 예정이라고 밝]]></content>
     </entry>
 </feed>
