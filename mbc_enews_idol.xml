@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 16:32:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 17:26:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘나혼산’ 화사가 선택한 백신 대비 최고의 보양식은?]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329920</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329920</guid>
+            <pubDate>Fri, 05 Nov 2021 17:25:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329920">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/06/gNVsnzLQwxLz637717604844783335.jpg" alt="‘나혼산’ 화사가 선택한 백신 대비 최고의 보양식은?">        <div class="text-box">            <p class="summary">‘나혼산’ 화사가 선택한 백신 대비 최고의 보양식은?</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/06/gNVsnzLQwxLz637717604844783335.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[포토] 정은지, '나 도시 여자야~']]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/329900</link>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 05 Nov 2021 07:20:41 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329883">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/05/b7dbaa45-28fa-4ed1-99d4-360c7b8f7e93.jpg" alt="브브걸 유정, '군살 제로' 몸매…" 이제="" 진짜="" 추워지려나"="" [인스타]"="">        <div class="text-box">            <p class="summary">브브걸 유정, '군살 제로' 몸매…"이제 진짜 추워지려나" [인스타]</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/05/b7dbaa45-28fa-4ed1-99d4-360c7b8f7e93.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["제니야, 저녁 먹자" 옥외광고로 데이트 신청한 필리핀 사업가…팬들 "소름"]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329875</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329875</guid>
-            <pubDate>Fri, 05 Nov 2021 05:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329875">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/05/3b580cc4-e8a3-4012-9e7d-05810f32cbcb.jpg" alt="" 제니야,="" 저녁="" 먹자"="" 옥외광고로="" 데이트="" 신청한="" 필리핀="" 사업가…팬들="" "소름""="">        <div class="text-box">            <p class="summary">"제니야, 저녁 먹자" 옥외광고로 데이트 신청한 필리핀 사업가…팬들 "소름"</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/05/3b580cc4-e8a3-4012-9e7d-05810f32cbcb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

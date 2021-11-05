@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-05T16:32:08.393Z</updated>
+    <updated>2021-11-05T17:26:20.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[구자성 “‘스폰서’는 폭발하는 야망”]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000943098</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000943098"/>
+        <updated>2021-11-05T17:26:13.233Z</updated>
+        <content type="html"><![CDATA[배우 구자성이 ‘스폰서’를 통해 억눌렀던 욕망을 폭발시키는 야망캐릭터로 변신한다. 오는 29일(월) 밤 10시 30분 첫 방송 되는 새 월화드라마 ‘스폰서’(연출 이철/ 극본 한희정)는 원하는 것을 얻기 위해 수단과]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지현우, 박하나 울린다 (‘신사와 아가씨’)]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000943097</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000943080"/>
         <updated>2021-11-05T14:20:53.501Z</updated>
         <content type="html"><![CDATA[tvN '운동천재 안재현'(연출 신효정, 하무성) 안재현이 일생일대 도전을 한다. 오늘(5일, 금) '운동천재 안재현'에서는 안재현이 역대급 내기 상품이 걸린 필라테스 고난이도 동작에 도전한다. 나영석PD가 "성공하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이하늬→이원근, 진서연 퇴치 작전 개시? (‘원더우먼’)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000943077</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000943077"/>
-        <updated>2021-11-05T13:25:43.977Z</updated>
-        <content type="html"><![CDATA[SBS 금토드라마 ‘원더우먼(One the Woman)’ 이하늬, 이상윤, 이원근, 김창완, 예수정이 한 데 모여 심각하게 대화를 나눈다. SBS 금토드라마 ‘원 더 우먼(One the Woman)’(연출 최영훈 /]]></content>
     </entry>
 </feed>
