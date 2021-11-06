@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-06T14:19:23.290Z</updated>
+    <updated>2021-11-06T15:21:20.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[김용건 "나락으로 떨어졌지만, 돌 초대"…마음고생에도 잃지 않았던 유머(종합)]]></title>
+        <title type="html"><![CDATA['너의 밤' 정인선 이준영, 꽉 잡은 두손 '설레는 케미' [TF움짤뉴스]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000114790</id>
+        <link href="https://entertain.naver.com/now/read?oid=629&amp;aid=0000114790"/>
+        <updated>2021-11-06T15:21:12.300Z</updated>
+        <content type="html"><![CDATA[아이돌 로맨틱 코미디 그린 SBS 새 일요드라마 배우 정인선과 이준영이 두손을 꽉 잡고 안방극장을 찾아옵니다. 정인선과 이준영은 4일 열린 SBS 일요드라마 '너의 밤이 되어줄게'(극본 유소원 서정은, 연출 안지숙)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김정은, 이혜영 사진 실력에 "어메이징..감사"[스타IN★]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002625</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003002625"/>
+        <updated>2021-11-06T15:21:12.301Z</updated>
+        <content type="html"><![CDATA[배우 김정은이 절친 이혜영과 우정을 드러냈다. 김정은은 6일 자신의 인스타그램에 이혜영이 찍은 사진을 게재했다. 공개된 사진 속에는 아늑한 분위기의 음식점에서 지인과 식사를 즐기는 김정은, 이혜영의 모습이 담겨있다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김용건 "나락으로 떨어졌었지만…돌 초대" 마음고생에도 잃지 않았던 유머(종합)]]></title>
         <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005706644</id>
         <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005706644"/>
         <updated>2021-11-06T14:19:14.942Z</updated>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003798606"/>
         <updated>2021-11-06T09:21:40.116Z</updated>
         <content type="html"><![CDATA[[스포츠조선 조윤선 기자] 가수 겸 배우 이지훈의 일본인 아내 아야네가 악플에 대한 고충을 토로했다. 아야네는 6일 자신의 인스타그램에 "드디어 내일 엑스칼리버 공연이 끝나고 드디어 내일모레 결혼식이에요. 두근두근.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오뚜기3세' 함연지, 디즈니 '엔칸토: 마법의 세계' 한국 더빙판 주인공!]]></title>
-        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000800124</id>
-        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000800124"/>
-        <updated>2021-11-06T09:21:40.117Z</updated>
-        <content type="html"><![CDATA[사진|샌드박스네트워크 [스포츠서울|조현정기자]‘오뚜기 3세’인 배우 함연지가 디즈니 판타지 뮤지컬 어드벤처 ‘엔칸토: 마법의 세계’의 한국 더빙판의 주인공으로 캐스팅됐다. 최근 월트디즈니 컴퍼니 코리아는 함연지가 디]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘브브걸’ 유정, 볼륨감+애플힙 드러낸 치명적 수영복 자태]]></title>
-        <id>https://entertain.naver.com/now/read?oid=022&amp;aid=0003635565</id>
-        <link href="https://entertain.naver.com/now/read?oid=022&amp;aid=0003635565"/>
-        <updated>2021-11-06T09:21:40.118Z</updated>
-        <content type="html"><![CDATA[사진=유정 인스타그램 캡처 사진=유정 인스타그램 캡처 브레이브걸스 멤버 유정(본명 남유정)이 치명적인 수영복 자태를 뽐냈다. 5일 유정은 인스타그램에 사진을 게재했다. 공개된 사진에는 수영복을 입고 포즈를 취하고 있]]></content>
     </entry>
 </feed>

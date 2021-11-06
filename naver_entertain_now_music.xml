@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-06T14:19:23.239Z</updated>
+    <updated>2021-11-06T15:21:20.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트레저, 웹드라마 '남고괴담' 티저.."교실에 의문의 누군가 있다"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002630</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003002630"/>
+        <updated>2021-11-06T15:21:04.777Z</updated>
+        <content type="html"><![CDATA[YG 대형 그룹 트레저가 섬뜩한 분위기의 웹드라마 '남고괴담'를 선보인다. 트레저의 새 웹드라마 '남고괴담' 티저가 5일 밤 10시 최초 공개됐다. 영상은 '분신사바' 주문을 외우는 최현석과 방예담의 모습으로 시작됐]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[버가부, '신인개발팀'서 'Next Level'→'ASAP' 댄스로 시선 강탈]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002626</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003002626"/>
+        <updated>2021-11-06T15:21:04.784Z</updated>
+        <content type="html"><![CDATA[걸그룹 버가부(bugAboo, 초연 유우나 레이니 지인 은채 시안)가 남다른 존재감을 뽐냈다. 버가부는 지난 5일 8시 공개된 1theK '신인개발팀'에 출연, 자기 PR을 위한 수험표 만들기 코너에서 주체할 수 없]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘음악중심’ 박지훈, ‘Serious’로 농익은 성숙미 과시]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829150</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000507889"/>
         <updated>2021-11-06T06:24:17.149Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 그룹 비투비의 멤버 이민혁이 신곡 '알아 (Good Night)' 리릭 비디오를 공개했다. 큐브 엔터테인먼트 11월 5일 오후 6시 비투비의 공식 온라인 채널을 통해 디지털 싱글 '알아 (Go]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임영웅, 최근 28일 유튜브뮤직 조회수 톱2..영웅의 시대 '활짝']]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002576</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003002576"/>
-        <updated>2021-11-06T06:24:17.149Z</updated>
-        <content type="html"><![CDATA[가수 임영웅이 유튜브 뮤직 최근 28일 조회수 톱2를 기록하며 빛나는 인기를 과시했다. 11월 6일 유튜브 음악 차트 및 통계에 따르면 임영웅은 최근 28일 한국 유튜브 뮤직 조회수에서 4850만 뷰를 기록, 2위에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브레이브걸스→온앤오프, 안동 K-POP 온라인 콘서트 출격]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001369879</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001369879"/>
-        <updated>2021-11-06T06:24:17.158Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 경상북도와 안동시가 주최하고 엘지헬로비전 영남방송이 주관하는 K-POP 온라인 콘서트가 11월 13일 토요일, 오후 6시부터 8시 30분까지 아이돌 전문 온라인 플랫폼인 U+ 아이돌 Li]]></content>
     </entry>
 </feed>
