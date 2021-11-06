@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-06T16:31:39.280Z</updated>
+    <updated>2021-11-06T17:23:59.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최민수, 오토바이 교통사고→갈비뼈 골절로 긴급 수술]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829160</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000829160"/>
+        <updated>2021-11-06T17:23:52.083Z</updated>
+        <content type="html"><![CDATA[배우 최민수가 오토바이 교통사고를 당한 가운데, 결국 수술대에 올랐다. 최민수는 지난 4일 용산구 이태원동 도로에서 오토바이를 운행하던 중 다른 승용차와 추돌해 갈비뼈와 쇄골 등이 골절됐다. 최민수는 당시 병원으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['너의 밤' 정인선 이준영, 꽉 잡은 두손 '설레는 케미' [TF움짤뉴스]]]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000114790</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000800125"/>
         <updated>2021-11-06T09:21:40.116Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 안은재기자]정준하(MC 민지)가 약 5개월만에 신곡으로 돌아온다. 정준하(MC 민지)는 6일 오후 6시 각종 온라인 음원사이트를 통해 두 번째 싱글 ‘밤하늘에 별처럼 (전어)’을 발매한다. 정준하(M]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['♥이지훈과 결혼 D-2' 아야네, 악플 고충 토로 "DM으로 보내달라"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003798606</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003798606"/>
-        <updated>2021-11-06T09:21:40.116Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 조윤선 기자] 가수 겸 배우 이지훈의 일본인 아내 아야네가 악플에 대한 고충을 토로했다. 아야네는 6일 자신의 인스타그램에 "드디어 내일 엑스칼리버 공연이 끝나고 드디어 내일모레 결혼식이에요. 두근두근.]]></content>
     </entry>
 </feed>
