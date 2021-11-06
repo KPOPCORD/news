@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-06T11:17:53.135Z</updated>
+    <updated>2021-11-06T12:32:17.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["행복은 가까운 곳에" 김현중, '프리즘 타임'으로 전한 희망]]></title>
+        <id>https://entertain.v.daum.net/v/20211106210503019</id>
+        <link href="https://entertain.v.daum.net/v/20211106210503019"/>
+        <updated>2021-11-06T12:31:47.860Z</updated>
+        <content type="html"><![CDATA[[스포츠투데이 최혜진 기자] 가수 김현중이 '프리즈 타임'을 통해 희망찬 미래를 그려나갔다. 김현중은 6일 저녁 7시, 온라인 콘서트 '2021 김현중 먼슬리 콘서트 프리즘 타임(2021 KIM HYUN JOONG Monthly concert Prism Time)' 일곱 번째 공연을 개최했다. '프리즘타임'은 한국을 포함한 전세계 국가에 라이브로 실시간]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['프리즘 타임' 팬사랑 전한 김현중, 7개월 여정 특별한 마침표]]></title>
+        <id>https://entertain.v.daum.net/v/20211106210206000</id>
+        <link href="https://entertain.v.daum.net/v/20211106210206000"/>
+        <updated>2021-11-06T12:31:47.862Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 박상후 기자] '프리즘 타임'에서 그룹 SS501 출신 가수 김현중이 다채로운 무대로 7개월 여정의 마침표를 찍었다. '2021 김현중 먼슬리 콘서트 프리즘 타임(2021 KIM HYUN JOONG Monthly concert Prism Time) 마지막 공연이 6일 서울 서대문구에 위치한 연세대학교 신촌캠퍼스 100주년 기념관에서 개최됐다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미쓰에이 출신 민, 해체 4년만 솔로 컴백]]></title>
         <id>https://entertain.v.daum.net/v/20211106173619519</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211106110418537"/>
         <updated>2021-11-06T02:32:29.110Z</updated>
         <content type="html"><![CDATA[[티브이데일리 이기은 기자] 좋은 가수와 그가 부른 레전드 음악은 언제나 한 몸일 테다. 세기를 장악한 대한민국 발라드 퀸, 가수 전유나가 브라운관에 여전히 아름다운 근황을 전했다. 명곡의 재현과 비화는 늦가을, 시청자들의 눈시울마저 붉히기 충분했다. 1989년 대학가요제를 통해 이름을 알리고 데뷔한 전유나는 명곡 '너를 사랑하고도'를 통해 전 국민에게 세]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영탁 "'음원 사재기' 몰랐다..수사기관서 무혐의 밝혀져"]]></title>
-        <id>https://entertain.v.daum.net/v/20211106104111306</id>
-        <link href="https://entertain.v.daum.net/v/20211106104111306"/>
-        <updated>2021-11-06T02:32:29.111Z</updated>
-        <content type="html"><![CDATA[[스포츠서울|조현정기자] 가수 영탁이 ‘음원 사재기’ 논란에 대해 말문을 열었다. 영탁은 6일 팬 카페에 글을 올려 “언론에 보도된 의혹처럼 제가 이 건에 대해 알고 있었다는 것은 사실이 아니다”라며 “저는 이미 수사기관에 출석해 조사를 받았고, 이 건과 관련해 무혐의로 밝혀졌다”고 주장했다. 앞서 영탁의 소속사인 밀라그로의 이재규 대표는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넬 김종완, 오늘 '지리산' OST '시간의 틈 사이로' 발매]]></title>
-        <id>https://entertain.v.daum.net/v/20211106100800017</id>
-        <link href="https://entertain.v.daum.net/v/20211106100800017"/>
-        <updated>2021-11-06T02:32:29.112Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 밴드 넬(NELL)의 ‘김종완’이 tvN ‘지리산’ OST의 세 번째 주자로 나선다. 지리산에서 벌어지는 연이은 의문의 사고에 대해 본격적인 전개가 이루어지고 있는 tvN 토일드라마 ‘지리산’. 과거와 현재의 사건들 속 단서들이 연결되면서 더욱 거대한 핏빛 미스터리를 예고하는 가운데 11월 6일 OST Part.3 ‘시간의 틈 사이]]></content>
     </entry>
 </feed>
