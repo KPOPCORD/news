@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-06T09:21:47.099Z</updated>
+    <updated>2021-11-06T10:23:06.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["차트의 영웅!" 임영웅,멜론 톱10 중 1위 포함, 6곡 진입]]></title>
+        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000800129</id>
+        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000800129"/>
+        <updated>2021-11-06T10:22:50.508Z</updated>
+        <content type="html"><![CDATA[[스포츠서울|조현정기자]가수 임영웅이 국내 최대 음원 플랫폼 멜론 TOP100 톱10에 6곡을 진입시키며 다시 한번 존재감을 과시했다. 멜론에 따르면 임영웅은 6일 오전 8시 기준 ‘사랑은 늘 도망가’(1위), ‘이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김종국,'로이더' 의혹 반박..."모든 검사받을 것,선수등록도 고민"(전문)]]></title>
         <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000800126</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003552959"/>
         <updated>2021-11-06T05:19:34.631Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 오윤주 기자] 가수 원호가 첫 오프라인 단독 콘서트를 앞두고 무빙 포스터를 공개했다. 소속사 하이라인엔터테인먼트는 6일 정오 공식 SNS를 통해 원호의 첫 오프라인 콘서트 '위 아 영(WE ARE Y]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미스에이 출신' 민, 신곡 'ONION' 컴백 …해체 후 4년만]]></title>
-        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000800095</id>
-        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000800095"/>
-        <updated>2021-11-06T05:19:34.632Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 안은재기자]미쓰에이 출신 민(이민영)이 그룹 해체 4년만에 솔로 신곡 ‘어니언(ONION)’으로 돌아온다. 지난 5일 소속사 K타이거즈엔터테인먼트는 공식 SNS를 통해 민(이민영)의 새로운 솔로 앨범]]></content>
     </entry>
 </feed>
