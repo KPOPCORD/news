@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-06T19:16:45.176Z</updated>
+    <updated>2021-11-06T20:22:24.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김옥빈, 미모의 세 자매...귀요미 둘째→쌍둥이 같은 막내 채서진 '우월 유전자']]></title>
+        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003798651</id>
+        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003798651"/>
+        <updated>2021-11-06T20:22:17.209Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 조윤선 기자] 배우 김옥빈이 미모의 동생들과 찍은 사진을 공개했다. 김옥빈은 6일 자신의 인스타그램에 "간만의 세 자매♥ 볼 통통해진 둘째. 귀엽다 햄토리"라는 글과 함께 여러 장의 사진을 게재했다. 사]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['싱글맘' 이지현, 자가격리 중 子와 칼싸움→줄다리기.."오늘도 불태웠다"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003798650</id>
+        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003798650"/>
+        <updated>2021-11-06T20:22:17.210Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 조윤선 기자] 쥬얼리 출신 이지현이 아이들과 함께하는 자가격리 고충을 토로했다. 이지현은 6일 자신의 인스타그램에 "오늘도 불태웠다. 아이들과 하는 자가격리 쉽지 않네요. 이제 제발 자자"라는 글과 함께]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최민수, 오토바이 교통사고→갈비뼈 골절로 긴급 수술]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829160</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0004875231"/>
         <updated>2021-11-06T10:22:58.316Z</updated>
         <content type="html"><![CDATA[가수 박지훈이 농익은 매력을 선사했다. 박지훈은 6일 방송된 MBC '쇼! 음악중심'에 출연해 새 미니앨범 'HOT&amp;COLD(핫 앤 콜드)'의 타이틀곡 'Serious(시리어스)' 무대를 꾸몄다. 이날 박지훈은 시크]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김종국, '로이더 의혹' 정면 대응 "모든 검사 다 받을 것"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000114782</id>
-        <link href="https://entertain.naver.com/now/read?oid=629&amp;aid=0000114782"/>
-        <updated>2021-11-06T09:21:40.112Z</updated>
-        <content type="html"><![CDATA[해외 유튜버, 김종국 저격 "약 먹고 만든 근육" 가수 김종국이 '로이더(약물을 복용해 몸을 키우는 사람) 논란'에 직접 입장을 밝혔다. 6일 김종국은 자신이 운영하는 유튜브 채널 '김종국 GYM JONG KOOK']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정준하(MC 민지), 오늘(6일) '밤하늘에 별처럼(전어)' 발매…정과장 잇는다]]></title>
-        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000800125</id>
-        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000800125"/>
-        <updated>2021-11-06T09:21:40.116Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 안은재기자]정준하(MC 민지)가 약 5개월만에 신곡으로 돌아온다. 정준하(MC 민지)는 6일 오후 6시 각종 온라인 음원사이트를 통해 두 번째 싱글 ‘밤하늘에 별처럼 (전어)’을 발매한다. 정준하(M]]></content>
     </entry>
 </feed>

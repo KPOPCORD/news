@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-06T19:16:45.178Z</updated>
+    <updated>2021-11-06T20:22:24.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['늑대가 나타났다' 이랑 "연대가 중요…음악뿐 아니라 동료 찾는 게 목표"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010816757</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010816757"/>
+        <updated>2021-11-06T20:22:10.610Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 5년 만에 발매한 정규 3집 호평 [서울=뉴시스]이재훈 기자 = 싱어송라이터 이랑(35)의 정규 3집 '늑대가 나타났다'는 올해 기념비 같은 음반 중 하나다. 음반과 동명의 타이틀곡 '늑대가 나타났다']]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[송가인, 스케줄 마치고 늦은 밤 식사.."너무 맛있다"[스타IN★]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002637</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003002637"/>
+        <updated>2021-11-06T20:22:10.610Z</updated>
+        <content type="html"><![CDATA[가수 송가인이 스케줄로 바쁜 일상을 공개했다. 송가인은 6일 오후 11시께 자신의 인스타그램 스토리에 "이제야 저녁. 너무 맛있다"라며 식사 중인 사진을 게재했다. 공개된 사진은 석쇠 위에 갈비가 구워지는 모습이 담]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트레저, 웹드라마 '남고괴담' 티저.."교실에 의문의 누군가 있다"]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002630</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001369892"/>
         <updated>2021-11-06T06:24:17.139Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 임영웅의 인기가 눈길을 끈다. 6일 발표된 아이돌차트 10월 4주 차(21.10.25~21.10.31) 아차랭킹에서 임영웅은 총점 5878점을 기록했다. 이는 전체 TOP4, 남성 솔로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11월에도 계속되는 인기…임영웅, 유튜브 뮤직 최근 한 달 최다 조회 수 TOP2]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001369888</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001369888"/>
-        <updated>2021-11-06T06:24:17.139Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 임영웅이 최근 한 달 기준 국내 유튜브 뮤직 차트 최다 재생수 TOP2, 남성 가수 1위에 올랐다. 11월 6일 한국 유튜브 뮤직 차트에 따르면, 임영웅이 최근 28일 기준 최다 조회 아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비투비 이민혁, 자작곡 '알아 (Good Night)' 리릭비디오 공개]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000507889</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000507889"/>
-        <updated>2021-11-06T06:24:17.149Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 그룹 비투비의 멤버 이민혁이 신곡 '알아 (Good Night)' 리릭 비디오를 공개했다. 큐브 엔터테인먼트 11월 5일 오후 6시 비투비의 공식 온라인 채널을 통해 디지털 싱글 '알아 (Go]]></content>
     </entry>
 </feed>

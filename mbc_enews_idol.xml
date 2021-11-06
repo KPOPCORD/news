@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Nov 2021 19:16:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Nov 2021 20:22:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[샤이니 민호, 빛나는 미모…명품 비주얼 자랑 [인스타]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329970</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329970</guid>
+            <pubDate>Sat, 06 Nov 2021 20:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329970">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/06/mqVSoa0pkvPY637718399126609710.jpg" alt="샤이니 민호, 빛나는 미모…명품 비주얼 자랑 [인스타]">        <div class="text-box">            <p class="summary">샤이니 민호, 빛나는 미모…명품 비주얼 자랑 [인스타]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/06/mqVSoa0pkvPY637718399126609710.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[라붐, ‘키스 키스’ 볼하트 엔딩요정은 누구? (쇼! 음악중심)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/329949</link>
@@ -86,14 +94,6 @@
             <pubDate>Sat, 06 Nov 2021 02:32:23 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329923">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/06/VmDm3l859jgU637717900993118460.jpg" alt="‘복면가왕’ 윤지성, 파격 무대에 기립박수 “이렇게 부르신 분은 처음!”">        <div class="text-box">            <p class="summary">‘복면가왕’ 윤지성, 파격 무대에 기립박수 “이렇게 부르신 분은 처음!”</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/06/VmDm3l859jgU637717900993118460.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장원영, 양갈래 머리 완벽 소화…러블리 모먼트 [인스타]]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329910</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329910</guid>
-            <pubDate>Fri, 05 Nov 2021 21:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329910">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/05/HMYb8EWQEha9637717491101157588.jpg" alt="장원영, 양갈래 머리 완벽 소화…러블리 모먼트 [인스타]">        <div class="text-box">            <p class="summary">장원영, 양갈래 머리 완벽 소화…러블리 모먼트 [인스타]</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/05/HMYb8EWQEha9637717491101157588.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
