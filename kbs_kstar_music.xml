@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Nov 2021 10:23:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Nov 2021 11:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전소미 'XOXO' 틱톡 언박싱 라이브  진행]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=170591</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=170591</guid>
+            <pubDate>Sat, 06 Nov 2021 11:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=170591">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211106192948_1cd17164d976833d9c56185573d3bbdf.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=170591">전소미 'XOXO' 틱톡 언박싱 라이브  진행</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211106192948_1cd17164d976833d9c56185573d3bbdf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[버나드 박, 3년 만에 가요계 컴백]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=170314</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=169442">반가운 윤하의 컴백, '엔드 띠어리'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211102090926_2fe1655c597f1d158a8d84b9c67d251f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 2am의 새로운 감성 발라드 "박진영 프로듀서, 천군만마를 얻은 느낌"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=169399</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=169399</guid>
-            <pubDate>Tue, 02 Nov 2021 01:05:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=169399">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211102083415_728542779e0accf6c60690b80499050d.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=169399">[인터뷰] 2am의 새로운 감성 발라드 "박진영 프로듀서, 천군만마를 얻은 느낌"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211102083415_728542779e0accf6c60690b80499050d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

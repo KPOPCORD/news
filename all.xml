@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Nov 2021 10:23:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Nov 2021 11:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전소미 'XOXO' 틱톡 언박싱 라이브  진행 (KBS연예 ─ 음악)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=170591</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=170591</guid>
+            <pubDate>Sat, 06 Nov 2021 11:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=170591">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211106192948_1cd17164d976833d9c56185573d3bbdf.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=170591">전소미 'XOXO' 틱톡 언박싱 라이브  진행</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211106192948_1cd17164d976833d9c56185573d3bbdf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[버나드 박, 3년 만에 가요계 컴백 (KBS연예 ─ 음악)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=170314</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=169442">반가운 윤하의 컴백, '엔드 띠어리'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211102090926_2fe1655c597f1d158a8d84b9c67d251f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 2am의 새로운 감성 발라드 "박진영 프로듀서, 천군만마를 얻은 느낌" (KBS연예 ─ 음악)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=169399</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=169399</guid>
-            <pubDate>Tue, 02 Nov 2021 01:05:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=169399">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211102083415_728542779e0accf6c60690b80499050d.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=169399">[인터뷰] 2am의 새로운 감성 발라드 "박진영 프로듀서, 천군만마를 얻은 느낌"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211102083415_728542779e0accf6c60690b80499050d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[찬희와 은서, 카카오TV '징크스' 위기 끝 해피 엔딩 (KBS연예 ─ 연예)]]></title>
@@ -882,6 +882,90 @@
             <content:encoded><![CDATA[[뉴스엔 이민지 기자] 밴드 넬(NELL)의 ‘김종완’이 tvN ‘지리산’ OST의 세 번째 주자로 나선다. 지리산에서 벌어지는 연이은 의문의 사고에 대해 본격적인 전개가 이루어지고 있는 tvN 토일드라마 ‘지리산’. 과거와 현재의 사건들 속 단서들이 연결되면서 더욱 거대한 핏빛 미스터리를 예고하는 가운데 11월 6일 OST Part.3 ‘시간의 틈 사이]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA['컬투쇼' 채연 "눈물 셀카 웃음거리? 지금은 굳은살 박혀 괜찮아" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211106201634694</link>
+            <guid>https://entertain.v.daum.net/v/20211106201634694</guid>
+            <pubDate>Sat, 06 Nov 2021 11:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[가수 채연이 열정적인 라이브와 입담으로 청취자들에게 에너지를 전했다. 채연은 6일 오후 방송된 SBS 라디오 파워FM ‘두시탈출 컬투쇼’에 출연해 “컬투쇼에는 2, 3년 만에 온 것 같다. 방청객들이 함께 계실 때 출연하고 그 이후로는 처음 온 것 같다. 신곡 ‘난 가끔 눈물을 흘린다’로 컴백했는데 곡 제목이 레전드 ‘눈물 셀카’여서 많은 분들이 웃으시]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['컬투쇼' 채연, 청취자 사연 듣고 '둘이서' 열창 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211106200415593</link>
+            <guid>https://entertain.v.daum.net/v/20211106200415593</guid>
+            <pubDate>Sat, 06 Nov 2021 11:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 가수 채연이 SBS 라디오 ‘컬투쇼’에 출연해 열정적인 라이브와 입담으로 청취자들에게 에너지를 전했다.채연은 6일 오후 방송된 SBS 라디오 파워FM ‘두시탈출 컬투쇼’에 출연했다. 그는 “2~3년 만에 온 것 같다. 신곡 ‘난 가끔 눈물을 흘린다’로 컴백했는데 제목이 레전드 ‘눈물 셀카’여서 많은 분들이 웃으시는 편”이라고 인사했다.채연은]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['놀뭐' 유재석X정준하X하하X신봉선X미주, 첫 단체 사진 "이젠 가족" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211106195400504</link>
+            <guid>https://entertain.v.daum.net/v/20211106195400504</guid>
+            <pubDate>Sat, 06 Nov 2021 11:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=김은정 기자] 5인방이 첫 단체 사진을 찍었다. 6일 오후 방송된 MBC ‘놀면 뭐하니?+'에서 유재석, 정준하, 하하, 신봉선, 미주가 ‘뭉치면 퇴근’ 게임을 진행했다. 이날 유재석, 정준하, 하하는 모임과 동시에 자연스럽게 막간 유부남 토크를 선보였다. 정준하가 먼저 "로하도 아빠 따라 마술에 빠져서 학교 장기자랑 10등 안에서 들어서 좋아]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['놀면 뭐하니' 5인5색 취향 뭉치면 퇴근, 4회 만에 성공 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211106195400505</link>
+            <guid>https://entertain.v.daum.net/v/20211106195400505</guid>
+            <pubDate>Sat, 06 Nov 2021 11:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[유재석·정준하·하하·신봉선·이미주가 4회 만에 같은 취향을 선택했다. 6일 방송된 MBC 예능 프로그램 '놀면 뭐하니'에서는 같은 선택을 하면 퇴근하는 뭉치면 퇴근 특집이 꾸며졌다. 이날 다섯 멤버가 같은 선택을 하면 모두 퇴근하는 '뭉치면 퇴근' 특집이 방송됐다. 멤버들은 아침 식사 선택지를 받았다. 유재석은 "다섯 명이 다 모일 수 없겠다"고 우려를]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['놀면 뭐하니?' 정준하-미주, 친해지길 바라?..4회 만에 퇴근 성공 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211106195146483</link>
+            <guid>https://entertain.v.daum.net/v/20211106195146483</guid>
+            <pubDate>Sat, 06 Nov 2021 11:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] ‘놀면 뭐하니?’ 멤버들이 4회 만에 퇴근에 성공했다.6일 오후 방송된 MBC ‘놀면 뭐하니?’에서는 뭉치면 퇴근 특집이 전파를 탔다..이날 대기실에 유재석, 하하, 정준하는 영문도 모른 채 모였다. 자녀 이야기로 꽃을 피우던 중 유재석은 “연예인들이 낯가리는 사람이 되게 많다. 미나, 미주도 낯 무지하게 가린다”라고 말했다. 그 말에 정준]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['놀토' 아이키X노제 "크루에 영입하고픈 멤버? 김동현→박나래" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211106195030470</link>
+            <guid>https://entertain.v.daum.net/v/20211106195030470</guid>
+            <pubDate>Sat, 06 Nov 2021 11:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=김은정 기자] 아이키와 노제가 도레미들 중 크루에 영입하고 싶은 멤버를 뽑았다. 6일 오후 방송된 tvN ‘놀라운 토요일’에는 댄서 아이키와 노제가 출연했다. 아이키와 노제는 ‘스트릿 우먼 파이터’에서 각각 훅과 웨이비 크루를 이낀 수장들로, 다른 스타일을 리더십과 존재감을 뽐내며 인기몰이 중이다. 이날 '최근 인기를 실감하느냐?'는 질문에 아]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["자숙 루트 묻더라"..신정환, 사고 친 연예인 고민 상담 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211106195002468</link>
+            <guid>https://entertain.v.daum.net/v/20211106195002468</guid>
+            <pubDate>Sat, 06 Nov 2021 11:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 하지원 기자) 신정환이 사고 친 연예인의 고민을 들어준 적이 있다고 고백했다. 5일 유튜브 채널 '전라스 그러지마오'에는 '사람들은 왜 점집에 가는가?(자숙, 가스라이팅, 어슈어런스)'라는 제목의 영상이 게재됐다. 이날 윤종신은 가스라이팅에 대해 "방송에나 나오는 얘기인 줄 알았는데 우리 관계가 가스라이팅 하는 위치가 아닌가 생각한다"라고]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["우리 가족됐다" '놀뭐' 뭉치면 퇴근 성공..정준하·미주 친해지길 바라 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211106194823461</link>
+            <guid>https://entertain.v.daum.net/v/20211106194823461</guid>
+            <pubDate>Sat, 06 Nov 2021 11:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = '놀면 뭐하니?' 멤버들이 '뭉치면 퇴근' 특집을 통해 서로를 더 알아가는 시간을 가졌다. 6일 방송된 MBC '놀면 뭐하니?'에서는 '뭉치면 퇴근' 특집이 진행됐다. 갑자기 주어진 하루의 시간 동안 멤버들은 3개의 선택지 중 하나를 선택해 모두가 뭉치면 퇴근하는 게임을 시작했다. 먼저 아침 식사 장소로 '국밥집' '인싸]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[포레스텔라, 전율 선사한 4중창 '살다가'..왕중왕전 진출 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211106194440438</link>
+            <guid>https://entertain.v.daum.net/v/20211106194440438</guid>
+            <pubDate>Sat, 06 Nov 2021 11:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 이아영 기자 = 크로스오버 그룹 포레스텔라가 '살다가'로 바이브 편에서 우승했다. 6일 방송된 KBS 2TV '불후의 명곡'에서는 아티스트 바이브 특집이 펼쳐졌다. 이날 벤과 한해가 첫 번째 순서로 뽑혔다. 벤&amp;한해는 '사진을 보다가'를 선곡했다. 한해의 랩으로 시작한 뒤 벤이 아련한 음색으로 이별 후의 감성을 이어갔다. 무대를 본 에일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['놀면 뭐하니?+' 유재석, 신봉선 나이에 깜짝 "♥나경은 보다 언니구나" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211106194034408</link>
+            <guid>https://entertain.v.daum.net/v/20211106194034408</guid>
+            <pubDate>Sat, 06 Nov 2021 11:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[‘놀면 뭐하니?+’ 유재석이 신봉선을 어색해하는 모습을 보였다. 6일 오후 방송된 MBC 예능프로그램 ‘놀면 뭐하니?+’에서는 유재석, 정준하, 하하, 신봉선, 미주의 ‘뭉치면 퇴근’ 특집이 공개됐다. 이날 유재석은 PC방, 발마사지, 한강뷰 카페 중에 발마사지를 선택했다. 유재석은 먼저 도착한 신봉선을 보고 어색해했다. 발마사지 도중 정적이 흐르자,]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[영탁, '음원 사재기' 논란에 입 열었다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211106193820392</link>
+            <guid>https://entertain.v.daum.net/v/20211106193820392</guid>
+            <pubDate>Sat, 06 Nov 2021 11:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[가수 영탁이 '음원 사재기' 논란에 대해 직접 입장을 밝혔다. 영탁은 6일 자신의 팬카페에 "언론에 보도된 의혹처럼 제가 이 건에 대해 알고 있었다는 것은 사실이 아니다"라고 주장했다. 이어 "저는 이미 수사기관에 출석해 조사를 받았고 이 건과 관련해 무혐의로 밝혀졌다"라면서 "보도된 카톡방은 대표님이 고용한 매니저와 방송 일정을 공유하기 위해 만들어]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[바이브 "'그 남자 그 여자', 데뷔 10년 만에 돈 벌게 해 준 곡" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211106193720386</link>
+            <guid>https://entertain.v.daum.net/v/20211106193720386</guid>
+            <pubDate>Sat, 06 Nov 2021 11:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 이아영 기자 = 바이브가 '그 남자 그 여자'에 얽힌 특별한 의미를 전했다. 6일 방송된 KBS 2TV '불후의 명곡'에서는 아티스트 바이브 특집이 펼쳐졌다. 이날 남우현은 '다시 와주라'를 선곡했다. 벤은 "둘이 불러도 힘든 노래인데 혼자 해낸 것이 정말 신기하다. 윤민수도 정말 힘들어하는 노래다"며 남우현의 가창력에 감탄했다. 류재현]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['놀면 뭐하니?' 정준하 "미주 연락처 묻기 쑥스러워.. 로하 엄마가 당부" 폭소 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
             <link>https://entertain.v.daum.net/v/20211106190730192</link>
             <guid>https://entertain.v.daum.net/v/20211106190730192</guid>
@@ -889,7 +973,7 @@
             <content:encoded><![CDATA[[스포츠투데이 이소연 기자] 개그맨 정준하가 가수 미주와 어색한 사이라고 고백했다. 6일 방송된 MBC 예능 프로그램 '놀면 뭐하니'에서는 아들 지호와 딸 나은을 언급하는 유재석의 모습이 그려졌다. 이날 유재석은 "연예인들 중에서도 낯 가리는 사람 참 많다. 봉선이도 낯 무지하게 가린다. 미주도 마찬가지다"고 말했다. 정준하는 "나 아직도 미주 연락처 모른]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['놀면 뭐하니' 정준하, 미주와 어색한 관계 고백.."미주 연락처 모른다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <title><![CDATA['놀면 뭐하니' 정준하, 미주와 어색한 사이 고백.."연락처 몰라" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
             <link>https://entertain.v.daum.net/v/20211106190600179</link>
             <guid>https://entertain.v.daum.net/v/20211106190600179</guid>
             <pubDate>Sat, 06 Nov 2021 10:22:35 GMT</pubDate>
@@ -901,90 +985,6 @@
             <guid>https://entertain.v.daum.net/v/20211106185743129</guid>
             <pubDate>Sat, 06 Nov 2021 10:22:35 GMT</pubDate>
             <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = '놀면 뭐하니?' 정준하가 자신을 빠진 단톡방이 존재한다는 사실에 서운한 마음을 슬쩍 내비쳤다. 6일 방송된 MBC '놀면 뭐하니?'에서는 하하 신봉선과 식사를 하는 정준하의 모습이 그려졌다. 이날 하하는 신봉선에게 "미주는 왜 사진을 올린 거야?"라며 "미주가 우리 방에 자기 셀카를 올렸어"라고 말했다. 이에 정준하는]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['놀면 뭐하니' 유재석 "딸 나은, 댄스에 관심 있어..子 지호, 춤 관심 X" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211106185100086</link>
-            <guid>https://entertain.v.daum.net/v/20211106185100086</guid>
-            <pubDate>Sat, 06 Nov 2021 10:22:35 GMT</pubDate>
-            <content:encoded><![CDATA[유재석은 아들 지호와 딸 나은의 다른 취향을 언급했다. 6일 방송된 MBC 예능 프로그램 '놀면 뭐하니'에서는 아들 지호와 딸 나은을 언급하는 유재석의 모습이 그려졌다. 유재석은 댄스에 대한 관심이 많은 딸 나은을 언급했다. 그는 "나은이를 기대하고 있다"고 운을 뗐다. 유재석은 "나은이가 댄스 그런 쪽에 관심 있다"며 "자기가 연기자가 되겠다고 그러잖아]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[바이브 류재현 "'사진을 보다가', 아내와 연애 중 이별 상상하며 썼다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211106184703068</link>
-            <guid>https://entertain.v.daum.net/v/20211106184703068</guid>
-            <pubDate>Sat, 06 Nov 2021 10:22:35 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 이아영 기자 = 바이브 류재현이 '사진을 보다가'에 숨은 이야기를 전했다. 6일 방송된 KBS 2TV '불후의 명곡'에서는 아티스트 바이브 특집이 펼쳐졌다. 이날 벤과 한해가 첫 번째 순서로 뽑혔다. 벤&amp;한해는 '사진을 보다가'를 선곡했다. 한해의 랩으로 시작한 뒤 벤이 아련한 음색으로 이별 후의 감성을 이어갔다. 무대를 본 에일리는 "]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아이키·노제 "'스우파'보다 '놀토'가 더 힘들어" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211106184507052</link>
-            <guid>https://entertain.v.daum.net/v/20211106184507052</guid>
-            <pubDate>Sat, 06 Nov 2021 10:22:35 GMT</pubDate>
-            <content:encoded><![CDATA[6일 방송하는 tvN ‘놀라운 토요일’에는 엠넷 ‘스트릿 우먼 파이터’의 리더 아이키와 노제가 출연한다.파워풀한 ‘헤이 마마’ 댄스로 오프닝을 장식한 두 사람을 도레미들이 반갑게 맞이했다. ‘스우파’에서 팀원들의 자존감을 높여주는 리더로 눈길을 끈 아이키는 신동엽을 보며 많은 것을 배운다고 말해 궁금증을 모았다. “다른 사람 말을 잘 들어주고 동물을 사랑하]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[남우현 "소집해제 2달..10년 만에 나온 '불후의 명곡' 많이 바뀌었다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211106184505051</link>
-            <guid>https://entertain.v.daum.net/v/20211106184505051</guid>
-            <pubDate>Sat, 06 Nov 2021 10:22:35 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 이소연 기자] 인피니트 출신 남우현이 10년 만에 '불후의 명곡'에 출연한 소감을 밝혔다. 6일 방송된 KBS2 '불후의 명곡'은 아티스트 바이브 편으로 꾸며졌다. 인피니트 보컬 출신 남우현은 "소집해제한 지 2달밖에 안 됐다. 2011년도쯤 '불후의 명곡' 초창기 멤버다. 오랜만에 오니 많은 게 바뀌었다"고 말했다. "어떤 게 바뀌었냐"는]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['전참시' 모니카 "소개팅 들어오면 무조건 할 것" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211106184007022</link>
-            <guid>https://entertain.v.daum.net/v/20211106184007022</guid>
-            <pubDate>Sat, 06 Nov 2021 10:22:35 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 황서연 기자] '전지적 참견 시점'에서 댄서 모니카와 립제이가 연애 토크를 펼친다. 6일 방송하는 MBC 예능프로그램 '전지적 참견 시점'(이하 '전참시') 177회에서는 모니카와 립제이의 연애에 대한 솔직한 입담이 공개된다. 이날 모니카와 립제이는 누가 먼저랄 것도 없이 "외롭다~"라고 털어놔 눈길을 끈다. 특히 모니카는 "고백하고 싶어!"]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['불후' 벤, 결혼식서 윤민수 오열 "우리 둘이 이별하나 놀랐을 것" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211106183330986</link>
-            <guid>https://entertain.v.daum.net/v/20211106183330986</guid>
-            <pubDate>Sat, 06 Nov 2021 10:22:35 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트=김은정 기자] 벤이 자신의 결혼식 날 오열한 윤민수의 이야기를 전했다. 6일 오후 방송된 KBS 2TV '불후의 명곡'은 ‘아티스트 바이브 편’으로 꾸며졌다. 이날 MC들은 역대급 라인업에 감탄했다. 임정희&amp;DK, 알리, 벤&amp;한해, 남우현, 에일리, 포레스텔라 등 쟁쟁한 가수들이 출연했기 때문. MC들은 "12월 녹화 예정인 왕중왕전에 출연하려]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127  아이유 제치고 '쇼! 음악중심' 1위 "누구보다 감사드리는 시즈니" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211106182915956</link>
-            <guid>https://entertain.v.daum.net/v/20211106182915956</guid>
-            <pubDate>Sat, 06 Nov 2021 10:22:35 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 이소연 기자] 그룹 NCT 127이 1위를 차지했다. 6일 오후 방송된 MBC '쇼! 음악중심(이하 '음악중심')'에서 NCT 127은 ‘페이버릿(Favorite)’라는 신곡으로 세븐틴의 'Rock with you',아이유의 'Strawberry monn'가 1위를 두고 경합을 벌였다. 이날 음원, 방송, 투표 집계 결과 NCT 127이 1위]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["도핑검사 받고 싶다"..김종국, 로이더 논란 비웃는 K-근육 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211106175709724</link>
-            <guid>https://entertain.v.daum.net/v/20211106175709724</guid>
-            <pubDate>Sat, 06 Nov 2021 09:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박소영 기자] 가수 김종국이 자신을 둘러싼 약물 의혹에 코웃음을 쳤다.&nbsp; 김종국은 6일 오후 자신의 유튜브 채널 커뮤니티에 “살다 살다 별. 너무 재밌고 신나는 이슈네요~ㅎ 그냥 웃어 넘기고 가볍게 영상과 댓글로 재미 정도 드리려고 했는데 이게 뉴스에까지 나오면서 그냥 넘어가기에는”이라는 글을 남겼다.&nbsp; 이어 그는 “필요하다면 세상에 존재하는 모]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김종국, '약물로 키운 근육' 저격에 "모든 검사 다 받아볼 작정" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211106175525704</link>
-            <guid>https://entertain.v.daum.net/v/20211106175525704</guid>
-            <pubDate>Sat, 06 Nov 2021 09:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 박윤진 기자] 가수 김종국이 해외 유명 헬스 유튜버가 제기한 '로이더(약물을 복용해 근육을 키운 사람)' 의혹에 "세상에 존재하는 모든 검사를 다 받아볼 작정"이라는 입장을 밝혔다. 6일 김종국은 자신의 유튜브 채널 'GYM종국' 커뮤니티에 "살다 살다 별, 너무 재밌고 신나는 이슈"라며 "그냥 웃어 넘기고 가볍게 영상과 댓글로 재미 정]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아이키·노제, '놀토' 출격 "영입하고 싶은 멤버는.." (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211106174606616</link>
-            <guid>https://entertain.v.daum.net/v/20211106174606616</guid>
-            <pubDate>Sat, 06 Nov 2021 09:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 황서연 기자] ‘놀라운 토요일’에 댄서 아이키, 노제가 출격한다. 6일 저녁 방송하는 tvN 예능프로그램  ‘놀라운 토요일’(이하  ‘놀토’)에는 Mnet ‘스트릿 우먼 파이터’(이하 ‘스우파’) 리더 아이키와 노제가 스튜디오를 찾는다. 앞서 진행된 녹화에서 파워풀한 ‘헤이 마마’ 댄스로 오프닝을 장식한 두 사람을 도레미들이 반갑게 맞이했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['전참시' 허성태, '오징어 게임' 알리와 재회..특별한 하루 공개 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211106172842394</link>
-            <guid>https://entertain.v.daum.net/v/20211106172842394</guid>
-            <pubDate>Sat, 06 Nov 2021 09:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[6일 방송, '오징어 게임' 비하인드 大공개 [더팩트｜박지윤 기자] '전지적 참견 시점' 허성태가 '오징어 게임' 알리와 깜짝 재회한다. 6일 밤 방송되는 MBC 예능프로그램 '전지적 참견 시점'에서는 배우 허성태가 인도 출신 배우 아누팜 트리파티와 함께한 특별한 하루가 그려진다. 넷플릭스 시리즈 '오징어 게임'으로 전 세계를 사로잡은 허성태는 '오징어]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['약물 의혹'에 김종국 신났다.."선수 등록 고민 중" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211106165005907</link>
-            <guid>https://entertain.v.daum.net/v/20211106165005907</guid>
-            <pubDate>Sat, 06 Nov 2021 08:23:30 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 최희재 기자) 김종국이 '약물 의혹'에 유쾌한 반격을 시작했다. 김종국은 6일 유튜브 채널 '김종국 GYM JONG KOOK'에 "살다 살다 별... 너무 재밌고 신나는 이슈네요"라는 글을 게재하며 '약물 의혹'에 정면 반박했다. 앞서 유명 해외 헬스 유튜버 겸 보디빌더 그렉 듀셋(Greg Doucette)은 김종국이 '로이더'일 것이라고]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[크리스틴 스튜어트, 동성연인이 끼워준 약혼반지 가격은 296만원 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
@@ -1006,6 +1006,41 @@
             <guid>https://entertain.v.daum.net/v/20211105222233397</guid>
             <pubDate>Fri, 05 Nov 2021 13:25:30 GMT</pubDate>
             <content:encoded><![CDATA[미국 래퍼 카니예 웨스트와 이혼소송 중인 모델 겸 사업가 킴 카다시안(41)이 13살 연하의 코미디언 피트 데이비슨(28)과 열애설이 불거졌다. 지난 3일(현지시간) 페이지식스 등 다수 매체의 보도에 따르면 미국 'SNL'에 출연 중인 피트 데이비슨이 최근 킴 카다시안을 자신의 고향인 뉴욕 스태튼 아일랜드로 데려가 저녁 식사를 대접했다. 이에 미국 내]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘음악중심’ 박지훈, ‘Serious’로 농익은 성숙미 과시 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829150</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829150</guid>
+            <pubDate>Sat, 06 Nov 2021 11:17:39 GMT</pubDate>
+            <content:encoded><![CDATA[가수 박지훈이 농익은 매력을 선사했다. 박지훈은 6일 방송된 MBC '쇼! 음악중심'에 출연해 새 미니앨범 'HOT&amp;COLD(핫 앤 콜드)'의 타이틀곡 'Serious(시리어스)' 무대를 꾸몄다. 이날 박지훈은 시크]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘음악중심’ 진예, 러블리한 볼하트로 엔딩요정 장식…‘Kiss Kiss’ (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829149</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829149</guid>
+            <pubDate>Sat, 06 Nov 2021 11:17:39 GMT</pubDate>
+            <content:encoded><![CDATA[걸그룹 라붐(LABOUM) 진예가 활짝 피어난 꽃미모로 팬심을 저격했다. 라붐(소연, 진예, 해인, 솔빈)은 6일 오후 방송된 MBC ‘쇼! 음악중심’에 출연했다. 이날 신곡 ‘Kiss Kiss’로 무대를 꾸민 라붐]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘제2의 싸이’ 프랑스 가수 므슈 드니, 오늘(6일) 데뷔곡 ‘Saranghae’ 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829146</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829146</guid>
+            <pubDate>Sat, 06 Nov 2021 11:17:39 GMT</pubDate>
+            <content:encoded><![CDATA[제2의 싸이로 인기를 끌고 있는 프렌치 아티스트 Monsieur Denis(므슈 드니)가 로칼하이레코즈와 함께 한국에서 첫 음반을 발매한다. 6일 정오 각종 음원사이트를 통해 므슈 드니의 데뷔곡 ‘Saranghae(]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[전소미 'XOXO' 틱톡 언박싱 라이브 진행 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=438&amp;aid=0000040410</link>
+            <guid>https://entertain.naver.com/now/read?oid=438&amp;aid=0000040410</guid>
+            <pubDate>Sat, 06 Nov 2021 11:17:39 GMT</pubDate>
+            <content:encoded><![CDATA[전소미가 첫 번째 정규 앨범 발매를 기념해 팬들과 시간을 가졌다. 전소미는 5일(금) 오후 8시, 글로벌 숏폼 모바일 비디오플랫폼 틱톡(TikTok) 공식 채널을 통해 '전소미 라이브 [XOXO] (JEON SOMI]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[YG 트레저, 웹드라마 '남고괴담' 티저 영상 최초 공개 "섬뜩 오싹" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003553028</link>
+            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003553028</guid>
+            <pubDate>Sat, 06 Nov 2021 11:17:39 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]YG 대형 그룹 트레저의 새 웹드라마 '남고괴담' 티저 영상이 5일 밤 10시 최초 공개됐다. 영상은 '분신사바' 주문을 외우는 최현석과 방예담의 모습으로 시작됐다. 이들의 "지금 여기에]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["차트의 영웅!" 임영웅,멜론 톱10 중 1위 포함, 6곡 진입 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
@@ -1148,39 +1183,46 @@
             <content:encoded><![CDATA[(엑스포츠뉴스 이정범 기자) 경상북도와 안동시가 주최하고 엘지헬로비전 영남방송이 주관하는 K-POP 온라인 콘서트가 11월 13일 토요일, 오후 6시부터 8시 30분까지 아이돌 전문 온라인 플랫폼인 U+ 아이돌 Li]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[비투비 이민혁 '알아' 리릭 영상 공개...'가을밤 힐링송' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001198895</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001198895</guid>
-            <pubDate>Sat, 06 Nov 2021 05:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 비투비의 멤버 이민혁이 신곡 '알아 (Good Night)' 리릭 비디오를 공개해 눈길을 모았다. 큐브 엔터테인먼트 지난 5일 오후 6시 비투비의 공식 온라인 채널을 통해 디지털 싱글 '알아 (Good Nigh]]></content:encoded>
+            <title><![CDATA[美 트래비스 스콧 콘서트 도중 압사 사고…300여명 사상 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003635575</link>
+            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003635575</guid>
+            <pubDate>Sat, 06 Nov 2021 11:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[미 힙합 콘서트 도중 압사 사고 최소 8명 숨지고 수백명 다쳐 2021년 11월5일 미국 텍사스주 휴스턴 NRG 파크에서 열린 아스트로월드 뮤직 페스티벌에서 래퍼 트래비스 스콧이 공연을 하고 있다. AP=연합뉴스 미]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[원호, 첫 오프라인 단독콘서트 'WE ARE YOUNG'...무빙 포스터 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004505509</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004505509</guid>
-            <pubDate>Sat, 06 Nov 2021 05:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=선미경 기자] 가수 원호(WONHO)가 첫 번째 오프라인 단독 콘서트를 앞두고 무빙 포스터를 공개했다. 소속사 하이라인엔터테인먼트는 6일 정오에 공식 SNS를 통해 원호의 첫 오프라인 콘서트 '위 아 영(]]></content:encoded>
+            <title><![CDATA[유재석 "딸 나은 꿈=연기자, 춤에도 관심 있어...子지호는 춤 레슨 거부" ('놀면 뭐하니+') (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003798629</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003798629</guid>
+            <pubDate>Sat, 06 Nov 2021 11:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조윤선 기자] 유재석이 딸 나은이와 아들 지호에 대해 이야기했다. 6일 방송된 MBC '놀면 뭐하니?+'에서는 대기실에 모여서 자녀들에 대한 이야기를 나누는 유재석, 정준하, 하하의 모습이 그려졌다. 이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[페라리 9대 등장…버가부, 데뷔곡 뮤직비디오부터 역대급 스케일[이슈S] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000327502</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000327502</guid>
-            <pubDate>Sat, 06 Nov 2021 05:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=정유진 기자] 걸그룹 버가부(초연, 유우나, 레이니, 지인, 은채, 시안)의 데뷔곡 '버가부' 뮤직비디오가 뜨거운 반응을 얻고 있다. '버가부' 뮤직비디오에 붉은색 고급 외제 스포츠카 페라리가 모두 9]]></content:encoded>
+            <title><![CDATA[윤서령, ‘하루가중계’ 게스트로 출격…MC하루와 깐부 케미 발산 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001619555</link>
+            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001619555</guid>
+            <pubDate>Sat, 06 Nov 2021 11:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[MC하루가 윤서령과 깨발랄 ‘깐부 케미’로 시청자들의 웃음을 책임졌다. MC하루는 지난 5일 오후 공식 유튜브 채널을 통해 ‘하루가중계’ 영상을 공개, 소속사 식구인 ‘트롯 아이돌’ 윤서령과 흥미로운 토크 및 게임으]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[미스틱 걸그룹 빌리, 데뷔곡 MV 티저 공개→완성형 비주얼 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003552960</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003552960</guid>
-            <pubDate>Sat, 06 Nov 2021 05:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 오윤주 기자] 미스틱스토리 첫 걸그룹 빌리(Billlie)가 데뷔곡에 대한 관심을 고조시켰다. 빌리는 6일 공식 SNS와 유튜브를 통해 첫 번째 미니앨범 '더 빌리지 오브 퍼셉션 : 챕터 1(the]]></content:encoded>
+            <title><![CDATA[MC하루X윤서령, ‘오징어게임’ 달고나 만들기→댄스까지…깐부 케미 발산 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829147</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829147</guid>
+            <pubDate>Sat, 06 Nov 2021 11:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[MC하루가 윤서령과 깨발랄 ‘깐부 케미’로 시청자들의 웃음을 책임졌다. MC하루는 지난 5일 오후 공식 유튜브 채널을 통해 ‘하루가중계’ 영상을 공개, 소속사 식구인 ‘트롯 아이돌’ 윤서령과 흥미로운 토크 및 게임으]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[원호, 첫 오프라인 단독 콘서트 D-7…무빙 포스터 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003552959</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003552959</guid>
-            <pubDate>Sat, 06 Nov 2021 05:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 오윤주 기자] 가수 원호가 첫 오프라인 단독 콘서트를 앞두고 무빙 포스터를 공개했다. 소속사 하이라인엔터테인먼트는 6일 정오 공식 SNS를 통해 원호의 첫 오프라인 콘서트 '위 아 영(WE ARE Y]]></content:encoded>
+            <title><![CDATA[허성태, '오징어게임' 역대급 힘들었던 장면은? "찍을 때 여러 번 토해" ('전참시') (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003798628</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003798628</guid>
+            <pubDate>Sat, 06 Nov 2021 11:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조윤선 기자] 배우 허성태가 '오징어 게임' 비하인드 스토리를 공개한다. 6일 방송되는 MBC '전지적 참견 시점'(기획 박정규 / 연출 노시용, 채현석 / 이하 '전참시')에서는 '오징어 게임' 알리와]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[TEN피플] '아빠 살린 늦둥이' 김용건·김구라, 낙태종용→태도논란 '탈출' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000509938</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000509938</guid>
+            <pubDate>Sat, 06 Nov 2021 11:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=서예진 기자] 꼬물이 늦둥이가 두 아빠를 살렸다. 76세 나이에 아빠가 되는 김용건과 52세에 둘째를 품에 안은 김구라의 이야기다. 반백이 넘은 나이에 아이를 얻었다는 것도 놀랍지만, 타이밍 좋게도 늦둥이]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[김종국 반박 “로이더 의혹? 세상 존재하는 모든 검사 다 받겠다”(전문) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
@@ -1314,48 +1356,6 @@
             <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005706471</guid>
             <pubDate>Sat, 06 Nov 2021 08:23:49 GMT</pubDate>
             <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 배우 문근영이 슬픈 표정의 사진을 공개했다. 문근영은 지난 5일 자신의 인스타그램에 "나와 은수 사이"라는 글과 한 장의 사진을 게재했다. 문근영이 언급한 은수는 오는 12월 방송되는]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[최수종 60세 맞아? 소년미 넘치는 비주얼…53세 하희라도 여전한 미모 [N샷] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005706451</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005706451</guid>
-            <pubDate>Sat, 06 Nov 2021 08:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 베우 하희라와 최수종 부부가 더욱 어려진 동안 미모를 자랑했다. 하희라는 6일 자신의 인스타그램 스토리에 "오늘도 '살림남' 감사합니다"라는 글과 한 장의 셀카를 게재했다. 공개된 사]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[최민수, 오토바이 사고로 갈비뼈·쇄골 골절…오늘(6일) 수술 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000596240</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000596240</guid>
-            <pubDate>Sat, 06 Nov 2021 08:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[배우 최민수가 오토바이 교통사고로 오늘(6일) 수술을 받는다. 6일 연합뉴스의 보도에 따르면 최민수는 사고 이후 증상이 악화돼 이날 병원을 다시 찾아 진료를 받았고, 오늘 오후 4시 수술을 앞두고 있다. 최민수는 교]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['미국行' 이정재, 넷플릭스 CEO 만났다…환한 웃음 [N샷] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005706439</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005706439</guid>
-            <pubDate>Sat, 06 Nov 2021 08:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 배우 이정재가 글로벌 엔터테인먼트 스트리밍 서비스 넷플릭스의 CEO와 만났다. 이정재는 6일(한국시간) 자신의 인스타그램에 영문으로 "로스앤젤레스에서"라는 글을 적고 한 장의 사진을]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[미쓰에이 출신 민, 해체 4년 만에 솔로 컴백[공식] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004875218</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004875218</guid>
-            <pubDate>Sat, 06 Nov 2021 07:20:13 GMT</pubDate>
-            <content:encoded><![CDATA[미쓰에이 출신 민(이민영)이 신곡 ‘ONION’으로 솔로로 돌아온다. 지난 5일 소속사 K타이거즈엔터테인먼트는 공식 SNS를 통해 민(이민영)의 새로운 솔로 앨범 ‘ONION’ 티저 영상을 공개해 기대감을 높였다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['SNL코리아' 조진웅 출격…'스우파' 댄서들 깜짝 지원사격 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004875216</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004875216</guid>
-            <pubDate>Sat, 06 Nov 2021 07:20:13 GMT</pubDate>
-            <content:encoded><![CDATA[조진웅이 'SNL코리아' 엔딩 호스트로 나선다. 오늘(6일) 공개되는 쿠팡플레이 'SNL 코리아' 리부트 시즌의 대장정을 마무리할 마지막 회 호스트로 영화 '공작', '아가씨', '독전', 드라마 '시그널' 등 다채]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한지민X한효주, 한자매의 단풍놀이…김연경 "♥" [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000509929</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000509929</guid>
-            <pubDate>Sat, 06 Nov 2021 07:20:13 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=태유나 기자] 배우 한지민이 한효주와 단풍놀이를 즐겼다. 한지민은 6일 자신의 인스타그램에 "Healing~ 고맙고 감사해hyo"라는 글과 함께 사진들을 게재했다. 이날 공개된 사진에는 공원에서 단풍 구경]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[크리스틴 스튜어트, 동성연인이 끼워준 약혼반지 가격은 296만원[해외이슈] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
