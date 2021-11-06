@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-06T08:23:56.202Z</updated>
+    <updated>2021-11-06T09:21:47.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미쓰에이 출신 민, 해체 4년만 솔로 컴백]]></title>
+        <id>https://entertain.v.daum.net/v/20211106173619519</id>
+        <link href="https://entertain.v.daum.net/v/20211106173619519"/>
+        <updated>2021-11-06T09:21:16.830Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 공미나 기자] /사진제공=K타이거즈엔터테인먼트미쓰에이 출신 민(이민영)이 그룹 해체 4년 만에 돌아온다. 지난 5일 소속사 K타이거즈엔터테인먼트는 공식 SNS를 통해 민(이민영)의 새로운 솔로 앨범 'ONION' 티저 영상을 공개했다. 티저 영상 속 민은 타이틀곡 'ONION' 스펠링이 움직이는 비비드한 색감의 배경에서 섹시하면서도 귀여운 매력을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['음중' NCT127 1위 "시즈니 고마워"..2am·라붐·더보이즈 컴백]]></title>
         <id>https://entertain.v.daum.net/v/20211106163836726</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211106100800017"/>
         <updated>2021-11-06T02:32:29.112Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 밴드 넬(NELL)의 ‘김종완’이 tvN ‘지리산’ OST의 세 번째 주자로 나선다. 지리산에서 벌어지는 연이은 의문의 사고에 대해 본격적인 전개가 이루어지고 있는 tvN 토일드라마 ‘지리산’. 과거와 현재의 사건들 속 단서들이 연결되면서 더욱 거대한 핏빛 미스터리를 예고하는 가운데 11월 6일 OST Part.3 ‘시간의 틈 사이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙핑크 리사, 빌보드 핫100 재진입의 가치]]></title>
-        <id>https://entertain.v.daum.net/v/20211106100001882</id>
-        <link href="https://entertain.v.daum.net/v/20211106100001882"/>
-        <updated>2021-11-06T01:02:44.500Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 윤상근 기자] /사진제공=YG엔터테인먼트 걸그룹 블랙핑크(BLACKPINK, 지수 제니 로제 리사) 멤버 리사의 2번째 빌보드 핫100 차트인 성공은 그 자체로 큰 의미를 지닌다. 64년 역사상 한국 가수들에게는 성역과도 다름이 없었던 빌보드 핫100 차트가 '강남스타일'의 싸이와 '21세기 비틀즈의 재림' 방탄소년단의 글로벌 인기 속에 약간의]]></content>
     </entry>
 </feed>

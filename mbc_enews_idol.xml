@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Nov 2021 08:23:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Nov 2021 09:21:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[라붐, ‘키스 키스’ 볼하트 엔딩요정은 누구? (쇼! 음악중심)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329949</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329949</guid>
+            <pubDate>Sat, 06 Nov 2021 09:21:11 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329949">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/06/oDHFwAar2Z9p637718165132691546.jpg" alt="라붐, ‘키스 키스’ 볼하트 엔딩요정은 누구? (쇼! 음악중심)">        <div class="text-box">            <p class="summary">라붐, ‘키스 키스’ 볼하트 엔딩요정은 누구? (쇼! 음악중심)</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/06/oDHFwAar2Z9p637718165132691546.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['음중' 아스트로 MJ, 김태연과 중독성 만점 '계세요' 무대 선사]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/329948</link>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 05 Nov 2021 21:19:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329910">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/05/HMYb8EWQEha9637717491101157588.jpg" alt="장원영, 양갈래 머리 완벽 소화…러블리 모먼트 [인스타]">        <div class="text-box">            <p class="summary">장원영, 양갈래 머리 완벽 소화…러블리 모먼트 [인스타]</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/05/HMYb8EWQEha9637717491101157588.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘나혼산’ 화사가 선택한 백신 대비 최고의 보양식은?]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329920</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329920</guid>
-            <pubDate>Fri, 05 Nov 2021 17:25:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329920">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/06/gNVsnzLQwxLz637717604844783335.jpg" alt="‘나혼산’ 화사가 선택한 백신 대비 최고의 보양식은?">        <div class="text-box">            <p class="summary">‘나혼산’ 화사가 선택한 백신 대비 최고의 보양식은?</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/06/gNVsnzLQwxLz637717604844783335.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
