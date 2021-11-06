@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-06T07:20:23.187Z</updated>
+    <updated>2021-11-06T08:23:56.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['음중' NCT127 1위 "시즈니 고마워"..2am·라붐·더보이즈 컴백]]></title>
+        <id>https://entertain.v.daum.net/v/20211106163836726</id>
+        <link href="https://entertain.v.daum.net/v/20211106163836726"/>
+        <updated>2021-11-06T08:23:25.519Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이하나 기자] NCT 127이 ‘쇼! 음악중심’에서 1위에 올랐다. 11월 6일 방송된 MBC ‘쇼! 음악중심’에서 NCT 127은 ‘Favorite(Vampire)’로 세븐틴, 아이유를 제치고 1위를 차지했다. 1위 수상 후 NCT 127 태일은 “이 상을 안겨준 시즈니(공식 팬덤명)에게 감사하다. 이수만 선생님을 비롯해서 도와주신 많은 분]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['음악중심' 더보이즈 "'매버릭', 우리만의 색을 담은 곡"]]></title>
+        <id>https://entertain.v.daum.net/v/20211106163536700</id>
+        <link href="https://entertain.v.daum.net/v/20211106163536700"/>
+        <updated>2021-11-06T08:23:25.519Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 공미나 기자]  /사진=MBC '쇼! 음악중심' 방송화면 캡처그룹 더보이즈(THE BOYZ)가 '쇼! 음악중심'에서 화려하게 컴백했다. 더보이즈는 6일 오후 방송된 MBC '쇼! 음악중심'에서 신곡 '매버릭 (MAVERICK)'으로 컴백 무대를 펼쳤다. 무대에 앞서 진행된 인터뷰에서 멤버 영훈은 "3개월 만에 초고속 컴백했다"며 "멋진 무대 준]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[산이 "'쇼미10' 탈락 아쉽지만 홀가분, 또 도전하고파"]]></title>
         <id>https://entertain.v.daum.net/v/20211106154102034</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211106100001882"/>
         <updated>2021-11-06T01:02:44.500Z</updated>
         <content type="html"><![CDATA[[스타뉴스 윤상근 기자] /사진제공=YG엔터테인먼트 걸그룹 블랙핑크(BLACKPINK, 지수 제니 로제 리사) 멤버 리사의 2번째 빌보드 핫100 차트인 성공은 그 자체로 큰 의미를 지닌다. 64년 역사상 한국 가수들에게는 성역과도 다름이 없었던 빌보드 핫100 차트가 '강남스타일'의 싸이와 '21세기 비틀즈의 재림' 방탄소년단의 글로벌 인기 속에 약간의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 D-3' 원어스, 폭넓은 음악적 스펙트럼 예고..'블러드 문']]></title>
-        <id>https://entertain.v.daum.net/v/20211106095848871</id>
-        <link href="https://entertain.v.daum.net/v/20211106095848871"/>
-        <updated>2021-11-06T01:02:44.500Z</updated>
-        <content type="html"><![CDATA[[OSEN=선미경 기자] 그룹 원어스(ONEUS)가 신보의 하이라이트 메들리를 공개하며 컴백 임박을 알렸다. 원어스는 지난 5일 오후 6시에 공식 SNS를 통해 여섯 번째 미니 앨범 'BLOOD MOON'(블러드 문)의 하이라이트 메들리를 공개했다.&nbsp; 영상에는 타이틀곡 '월하미인 (月下美人 : LUNA)'을 비롯해 'Intro : 창 (窓 : Window)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴이스트표 '오징어게임'..추억의 게임과 가을여행]]></title>
-        <id>https://entertain.v.daum.net/v/20211106095025813</id>
-        <link href="https://entertain.v.daum.net/v/20211106095025813"/>
-        <updated>2021-11-06T01:02:44.501Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 공미나 기자] 러브 스토리(L.O.Λ.E STORY: INSIDE OUT)'의 'EP 26. 비 오면 뭐 하지? (RAINY DAY PICNIC) #2 /사진제공=플레디스엔터테인먼트그룹 뉴이스트(JR, 아론, 백호, 민현, 렌)가 추억의 게임과 함께 가을 여행을 즐겼다. 지난 5일 오후 뉴이스트 공식 유튜브 채널을 통해 공개된 자체 콘텐츠 '러브]]></content>
     </entry>
 </feed>
