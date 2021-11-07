@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-07T16:31:36.620Z</updated>
+    <updated>2021-11-07T17:23:53.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조현, 교복에도 숨길 수 없는 청순+섹시미 [똑똑SNS]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829457</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000829457"/>
+        <updated>2021-11-07T17:23:45.524Z</updated>
+        <content type="html"><![CDATA[걸그룹 베리굿 출신 조현이 일상을 공개했다. 조현은 지난 7일 자신의 인스타그램에 “여러분 맛있는 저녁 식사 하세요”라는 글과 함께 사진을 올렸다. 공개된 사진 속 조현은 교복을 입고 카메라를 향해 포즈를 취하고 있]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박서준 런던에서 느끼는 자유로움 [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000943421</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000943421"/>
+        <updated>2021-11-07T17:23:45.525Z</updated>
+        <content type="html"><![CDATA[박서준 런던에서 느끼는 자유로움 [화보] 최근 할리우드 영화에 합류해 세간의 이목을 사로잡은 글로벌 스타 박서준과 함께한 화보가 공개됐다. 가장 최근 런던에서의 자유로운 박서준을 담아 낸 이번 화보는 유명 포토그래퍼]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅, 셀프 부캐 언급 후 칭찬 “귀여우시네요” [M+★SNS]]]></title>
         <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001619735</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000943412"/>
         <updated>2021-11-07T15:21:38.444Z</updated>
         <content type="html"><![CDATA[7일 서울 광진구 광장동 비스타워커힐 서울에서 열린 ‘2021 세종대왕 소헌왕후’ 선발대회에서 모도리 지를 수상한 여환수가 2020 소헝왕후 진 윤소희(왼쪽)와 미인협회 김현중 회장(오른쪽)과 기념 촬영을 하고 있다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최인영 ‘모도리 진 수상에 깜짝’ [포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000943411</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000943411"/>
-        <updated>2021-11-07T15:21:38.446Z</updated>
-        <content type="html"><![CDATA[7일 서울 광진구 광장동 비스타워커힐 서울에서 열린 ‘2021 세종대왕 소헌왕후’ 선발대회에서 모도리 진을 수상한 최인영이 꽃다발을 떨어뜨리고 있다. ‘세종대왕 소헌왕후 선발대회’는 우리 역사상 가장 위대한 성군인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최인영 ‘모도리 진 수상했어요’ [포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000943410</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000943410"/>
-        <updated>2021-11-07T15:21:38.447Z</updated>
-        <content type="html"><![CDATA[7일 서울 광진구 광장동 비스타워커힐 서울에서 열린 ‘2021 세종대왕 소헌왕후’ 선발대회에서 모도리 진을 수상한 2020 소헝왕후 진 윤소희(왼쪽)와 미인협회 김현중 회장(오른쪽)과 기념 촬영을 하고 있다. ‘세종]]></content>
     </entry>
 </feed>
