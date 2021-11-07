@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-07T22:22:48.812Z</updated>
+    <updated>2021-11-07T23:23:24.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트래비스 스캇, 공연장 사망 사고에 "망연자실" 심경 고백[할리우드비하인드]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000508313</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000508313"/>
+        <updated>2021-11-07T23:23:24.022Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 힙합 뮤지션 트래비스 스캇이 공연장 사망 사고에 심경을 털어놨다. 11월 7일(현지시간) CNN에 따르면 6일 미국 텍사스주 휴스턴에서 열린 아스트로월드 페스티벌에서 사망사고가 발생했다. 트래]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['7년째 공개 열애 중' 이정재·임세령, 美 행사 동반참석…애정전선 굳건]]></title>
+        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005708015</id>
+        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005708015"/>
+        <updated>2021-11-07T23:23:24.022Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 윤효정 기자 = 배우 이정재와 임세령 대상그룹 부회장 커플이 공식행사에 함께 참석해 이목을 끌고 있다. 이정재와 임 부회장은 6일(현지시간) 미국 LA 카운티 미술관에서 열린 'LACMA 아트 필름]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이정재, ♥임세령과 美 공식석상 참석…다정한 7년 공개 연인]]></title>
         <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000508307</id>
@@ -164,20 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829427</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000829427"/>
         <updated>2021-11-07T12:32:24.337Z</updated>
-        <content type="html"><![CDATA['2021 세종대왕 소헌왕후 선발대회'가 7일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. ‘세종대왕 소헌왕후 선발대회’는 우리 역사상 가장 위대한 성군인 세종대왕을 널리 알리고 업적을 계승, 발전시키기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우태욱 '내가 왔다' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829426</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000829426"/>
-        <updated>2021-11-07T12:32:24.338Z</updated>
-        <content type="html"><![CDATA['2021 세종대왕 소헌왕후 선발대회'가 7일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. ‘세종대왕 소헌왕후 선발대회’는 우리 역사상 가장 위대한 성군인 세종대왕을 널리 알리고 업적을 계승, 발전시키기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전병찬 '당당하게!' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829425</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000829425"/>
-        <updated>2021-11-07T12:32:24.339Z</updated>
         <content type="html"><![CDATA['2021 세종대왕 소헌왕후 선발대회'가 7일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. ‘세종대왕 소헌왕후 선발대회’는 우리 역사상 가장 위대한 성군인 세종대왕을 널리 알리고 업적을 계승, 발전시키기]]></content>
     </entry>
 </feed>
