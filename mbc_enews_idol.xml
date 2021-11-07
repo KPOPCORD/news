@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Nov 2021 02:34:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Nov 2021 03:22:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[B1A4, '거대한 말' 디지털 커버+티저 이미지 공개 "산들 입대 전 마지막 신보"]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329995</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329995</guid>
+            <pubDate>Sun, 07 Nov 2021 03:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329995">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/07/rvQrmxrWXd1c637718831465646420.jpg" alt="B1A4, '거대한 말' 디지털 커버+티저 이미지 공개 " 산들="" 입대="" 전="" 마지막="" 신보""="">        <div class="text-box">            <p class="summary">B1A4, '거대한 말' 디지털 커버+티저 이미지 공개 "산들 입대 전 마지막 신보"</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/07/rvQrmxrWXd1c637718831465646420.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단-콜드플레이 협업곡 ‘My Universe’ MV, 1억뷰 돌파]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/329989</link>
@@ -86,14 +94,6 @@
             <pubDate>Sat, 06 Nov 2021 02:32:23 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329932">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/06/RvhAuOKjowrh637717939439276319.jpg" alt="현우 " 우연히="" 기광이="" 몸="" 봤다"…="" 이기광="" "노출증="" 아니야"="" (브래드pt&gym캐리)"="">        <div class="text-box">            <p class="summary">현우 "우연히 기광이 몸 봤다"… 이기광 "노출증 아니야" (브래드PT&amp;GYM캐리)</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/06/RvhAuOKjowrh637717939439276319.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘징크스’ SF9 찬희-우주소녀 은서, 애정 확인 키스로 ‘해피엔딩’]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329930</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329930</guid>
-            <pubDate>Sat, 06 Nov 2021 02:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329930">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/06/IxT8rknjgdqt637717936375911766.jpg" alt="‘징크스’ SF9 찬희-우주소녀 은서, 애정 확인 키스로 ‘해피엔딩’">        <div class="text-box">            <p class="summary">‘징크스’ SF9 찬희-우주소녀 은서, 애정 확인 키스로 ‘해피엔딩’</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/06/IxT8rknjgdqt637717936375911766.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
