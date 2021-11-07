@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-07T14:19:47.502Z</updated>
+    <updated>2021-11-07T15:21:45.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영탁, 아이돌차트 10월 기부스타 1위]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001370390</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001370390"/>
+        <updated>2021-11-07T15:21:30.469Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 가수 영탁이 아이돌차트 10월 기부스타 1위에 올랐다. 최근 아이돌차트 측은 가수 영탁이 아이돌차트 10월 기부스타 1위에 올랐다고 밝혔다. 영탁의 팬들은 10월 한 달간 아이돌차트를 통]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["모르겠다만, 귀여우시네요" 임영웅, 임영광씨 전폭 응원]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002801</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003002801"/>
+        <updated>2021-11-07T15:21:30.472Z</updated>
+        <content type="html"><![CDATA[가수 임영웅이 임영광 씨에 대해 알지 못한다면서도 전폭적인 응원을 보내 눈길을 끈다. 임영웅은 7일 오후 자신의 인스타그램에 세간의 화제인 임영광 씨에 대해 "임영광씨요?? 누구신지 모르겠다만, 귀여우시네요"라고 밝]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단·콜드플레이 협업곡 ‘My Universe’ 뮤직비디오, 유튜브 조회수 1억뷰 돌파]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003553272</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003002717"/>
         <updated>2021-11-07T06:25:41.432Z</updated>
         <content type="html"><![CDATA['아름다운 청년' 임영웅의 '잊어야 한다는 마음으로' 영상이 100만 뷰를 넘어섰다. 지난 5월 6일 유튜브 채널 미스&amp;미스터트롯 공식계정에 공개된 '임영웅 '잊어야 한다는 마음으로' 뽕숭아학당' 영상은 11월 7일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[감성 장인에 젖어듭니다..임영웅 '어느날 문득' 1600만뷰]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002715</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003002715"/>
-        <updated>2021-11-07T06:25:41.432Z</updated>
-        <content type="html"><![CDATA[가수 임영웅의 감성 가득한 '어느날 문득' 영상이 1600만 뷰를 달성했다. 임영웅이 지난해 10월 9일 자신의 유튜브 채널에 공개한 '임영웅 '어느날 문득'사랑의 콜센타' 영상은 11월 7일 조회수 1600만 뷰를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공식] '공연 여제' 거미, 수원서 전국투어 뜨거운 포문]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003798892</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003798892"/>
-        <updated>2021-11-07T06:25:41.432Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 백지은 기자] 가수 거미가 '공연 여제'로 뜨겁게 컴백했다. 거미는 6일 수원에서 전국투어 콘서트 '다시, 윈터 발라드'의 포문을 열었다. 코로나19 확산으로 인한 사회적 거리두기로 2년 만에 팬들과 만]]></content>
     </entry>
 </feed>
