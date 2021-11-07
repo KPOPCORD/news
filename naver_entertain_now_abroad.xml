@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-07T09:20:52.329Z</updated>
+    <updated>2021-11-07T10:23:01.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[심신 '세종대왕 소헌왕후 선발대회 축하공연' [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829376</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000829376"/>
+        <updated>2021-11-07T10:23:00.940Z</updated>
+        <content type="html"><![CDATA['2021 세종대왕 소헌왕후 선발대회'가 7일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. ‘세종대왕 소헌왕후 선발대회’는 우리 역사상 가장 위대한 성군인 세종대왕을 널리 알리고 업적을 계승, 발전시키기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트래비스 스콧 공연 중 압사 사고…최소 8명 숨졌다 [엑's 해외이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001370349</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828870</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000828870"/>
         <updated>2021-11-05T10:23:24.794Z</updated>
-        <content type="html"><![CDATA[5일 오후 잠실야구장에서 2021 KBO리그 준PO 2차전 LG 트윈스와 두산 베어스의 경기가 벌어졌다. 이날 경기에서 ‘오징어 게임’에 출연해 인기를 끌었던 인도 출신 배우 아누팜(배역 알리)이 '오징어 게임'에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아누팜 '스트라이크 시구 나갑니다' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828846</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000828846"/>
-        <updated>2021-11-05T10:23:24.795Z</updated>
         <content type="html"><![CDATA[5일 오후 잠실야구장에서 2021 KBO리그 준PO 2차전 LG 트윈스와 두산 베어스의 경기가 벌어졌다. 이날 경기에서 ‘오징어 게임’에 출연해 인기를 끌었던 인도 출신 배우 아누팜(배역 알리)이 '오징어 게임'에서]]></content>
     </entry>
 </feed>
