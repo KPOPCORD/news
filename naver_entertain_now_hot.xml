@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-07T13:25:32.307Z</updated>
+    <updated>2021-11-07T14:19:47.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[6년만에 입 연 이영범, "바람 안 피웠다. 인격살인자 법적조치" 경고[전문]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000800472</id>
+        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000800472"/>
+        <updated>2021-11-07T14:19:39.968Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 박효실기자] 배우 이영범이 이혼한지 6년만에 이혼사유에 대해 처음으로 입을 열었다. 더 이상 자신과 전처 노유정의 이혼을 둘러싼 소문을 두고볼 수 없다는 판단으로 보인다. 이영범은 7일 공식 입장문을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘노유정 이혼’ 이영범 외도설 부인…법적대응 예고 [종합]]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000943400</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000943373"/>
         <updated>2021-11-07T12:32:17.998Z</updated>
         <content type="html"><![CDATA[7일 서울 광진구 광장동 비스타워커힐 서울에서 열린 ‘2021 세종대왕 소헌왕후’ 선발대회에서 모도리 부문 여자 405번 유보경이 워킹 퍼포먼스를 하고 있다. ‘세종대왕 소헌왕후 선발대회’는 우리 역사상 가장 위대한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이정본 ‘한복의 아름다운 선’ [포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000943372</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000943372"/>
-        <updated>2021-11-07T12:32:17.999Z</updated>
-        <content type="html"><![CDATA[7일 서울 광진구 광장동 비스타워커힐 서울에서 열린 ‘2021 세종대왕 소헌왕후’ 선발대회에서 모도리 부문 여자 406번 이정본이 워킹 퍼포먼스를 하고 있다. ‘세종대왕 소헌왕후 선발대회’는 우리 역사상 가장 위대한]]></content>
     </entry>
 </feed>

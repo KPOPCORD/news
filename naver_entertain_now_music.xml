@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-07T13:25:32.319Z</updated>
+    <updated>2021-11-07T14:19:47.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단·콜드플레이 협업곡 ‘My Universe’ 뮤직비디오, 유튜브 조회수 1억뷰 돌파]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003553272</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003553272"/>
+        <updated>2021-11-07T14:19:33.285Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]그룹 방탄소년단과 콜드플레이(Coldplay)의 협업곡 ‘My Universe’ 뮤직비디오가 1억뷰를 돌파했다. 지난 9월 30일 콜드플레이 공식 유튜브 채널을 통해 공개된 ‘My Uni]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전소미, 서울 도심 전광판 점령..'솔로 퀸']]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002774</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003798892"/>
         <updated>2021-11-07T06:25:41.432Z</updated>
         <content type="html"><![CDATA[[스포츠조선 백지은 기자] 가수 거미가 '공연 여제'로 뜨겁게 컴백했다. 거미는 6일 수원에서 전국투어 콘서트 '다시, 윈터 발라드'의 포문을 열었다. 코로나19 확산으로 인한 사회적 거리두기로 2년 만에 팬들과 만]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11월에도 계속되는 인기…임영웅, 지니뮤직 차트 TOP10 싹쓸이]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001370223</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001370223"/>
-        <updated>2021-11-07T06:25:41.432Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 임영웅의 지니뮤직 차트 속 남다른 존재감이 눈길을 끈다. 지니뮤직에 따르면, 임영웅의 노래들이 TOP100 차트 상위권에서 남다른 존재감을 드러내고 있다. 11월 7일 오전 기준, 1위]]></content>
     </entry>
 </feed>
