@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-07T11:18:01.896Z</updated>
+    <updated>2021-11-07T12:32:25.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전소미, 서울 도심 전광판 점령..'솔로 퀸']]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002774</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003002774"/>
+        <updated>2021-11-07T12:32:11.777Z</updated>
+        <content type="html"><![CDATA['솔로퀸' 전소미가 서울 도심을 빛내고 있다. 전소미의 첫 번째 정규 앨범 'XOXO' 발매를 알리는 이미지는 지난달 30일부터 서울 강남역, 올림픽대로 등에 위치한 옥외전광판을 통해 음악 팬들을 만나는 중이다. 해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[POP초점]트래비스 스콧, 공연 중 압사 사고→최소 8명 사망.."망연자실했다"]]></title>
         <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003495560</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001370223"/>
         <updated>2021-11-07T06:25:41.432Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 임영웅의 지니뮤직 차트 속 남다른 존재감이 눈길을 끈다. 지니뮤직에 따르면, 임영웅의 노래들이 TOP100 차트 상위권에서 남다른 존재감을 드러내고 있다. 11월 7일 오전 기준, 1위]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YG 트레저, 웹드라마 '남고괴담' D-5, 글로벌팬 들썩]]></title>
-        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003553142</id>
-        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003553142"/>
-        <updated>2021-11-07T06:25:41.432Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]YG 대형 그룹 트레저의 새 웹드라마 '남고괴담'이 서서히 베일을 벗으며 글로벌 팬들의 관심이 치솟고 있다. YG엔터테인먼트는 7일 공식 블로그에 트레저 12명 멤버의 학생증 사진이 담긴]]></content>
     </entry>
 </feed>
