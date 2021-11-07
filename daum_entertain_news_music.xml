@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-07T07:21:49.208Z</updated>
+    <updated>2021-11-07T08:24:07.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원어스 새 앨범 기대 포인트 셋]]></title>
+        <id>https://entertain.v.daum.net/v/20211107165553120</id>
+        <link href="https://entertain.v.daum.net/v/20211107165553120"/>
+        <updated>2021-11-07T08:23:37.435Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 원어스 새 앨범 기대 포인트 셋 원어스(ONEUS)가 독보적인 콘셉트로 6개월 만에 컴백한다. 원어스는 9일 오후 6시 각종 음원 사이트를 통해 여섯 번째 미니앨범 'BLOOD MOON'(블러드 문)을 발표한다. 신보에는 타이틀곡 '월하미인 (月下美人 : LUNA)'을 비롯해 'Intro : 창 (窓 : Window) (Feat. 최예림)']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['컬투쇼' 라붐 "'상상더하기' 역주행, 실감 나지 않았다"]]></title>
         <id>https://entertain.v.daum.net/v/20211107161355036</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211107103011146"/>
         <updated>2021-11-07T02:33:51.579Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김현식 기자] ‘싱어게인’ 우승자 출신 가수 이승윤이 정규 앨범 발매를 앞두고 새 OST로 팬들에게 먼저 목소리를 들려줬다. 이승윤이 가창한 곡은 JTBC ‘너를 닮은 사람’ 네 번째 OST ‘아이 엠 로스트’(I Am Lost). 지난 4일 정식 음원으로 발매됐다. 음원 발매 후 이데일리와 서면 인터뷰를 진행한 이승윤은 “OST 참여]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원어스, 신보 'BLOOD MOON' 기대 포인트 3..#적월도 #국악 #퍼포먼스]]></title>
-        <id>https://entertain.v.daum.net/v/20211107102653088</id>
-        <link href="https://entertain.v.daum.net/v/20211107102653088"/>
-        <updated>2021-11-07T02:33:51.580Z</updated>
-        <content type="html"><![CDATA[[OSEN=지민경 기자]&nbsp;'무대천재' 원어스(ONEUS)가 독보적인 콘셉트로 6개월 만에 컴백한다. 원어스는 9일 오후 6시 각종 음원 사이트를 통해 여섯 번째 미니앨범 'BLOOD MOON'(블러드 문)을 발표한다.&nbsp; 신보에는 타이틀곡 '월하미인 (月下美人 : LUNA)'을 비롯해 'Intro : 창 (窓 : Window) (Feat. 최예림)', '사랑]]></content>
     </entry>
 </feed>

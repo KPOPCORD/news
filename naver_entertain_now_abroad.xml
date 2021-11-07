@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-07T07:21:49.185Z</updated>
+    <updated>2021-11-07T08:24:07.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윌 스미스, '킹 리차드' 출연진에 본인 출연료 일부 지급한 사연? [엑's 할리우드]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001370298</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001370298"/>
+        <updated>2021-11-07T08:24:07.191Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 배우 윌 스미스가 동료 배우들을 위해 엄청난 금액의 돈을 사용한 사실이 전해졌다. 6일(현지시간) 미국 할리우드 리포터(THR)는 영화 '킹 리차드'가 HBO 맥스(HBO Max)로 동시]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['선녀들' 프로파일러 표창원 출격, 여운형 암살 사건 미스터리 파헤친다]]></title>
+        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003799069</id>
+        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003799069"/>
+        <updated>2021-11-07T08:24:07.192Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 이승미 기자]국내 최고 프로파일러 표창원이 '여운형 암살 사건'의 미스터리를 파헤친다. 7일 방송되는 MBC '선을 넘는 녀석들 : 마스터-X'에서는 김구, 여운형 등 정치 지도자들이 줄줄이 암살 테러를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[말포이X위즐리 남매, '해리포터' 20주년 앞두고 반가운 재회 [Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004506130</id>
@@ -164,20 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828839</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000828839"/>
         <updated>2021-11-05T10:23:24.806Z</updated>
-        <content type="html"><![CDATA[5일 오후 서울 잠실구장에서 '2021 KBO 포스트시즌' 준플레이오프 2차전 LG 트윈스와 두산 베어스의 경기가 열렸다. 넷플릭스 '오징어 게임'에서 199번 알리를 연기한 배우 아누팜이 멋진 시구를 하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[킴 카다시안, 이혼 소송 중 열애설…13살 연하 피트 데이비슨과 이틀 연속 저녁식사?]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000507773</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000507773"/>
-        <updated>2021-11-05T10:23:24.807Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박은해 기자] 할리우드 스타 킴 카다시안(41)과 코미디언 피트 데이비슨(28)의 염문설이 불거졌다. 11월 3일(현지시간) 미국 연예 매체 페이지식스에 따르면 킴 카다시안과 피트 데이비슨은 이틀 연속 데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오징어 게임 199번 알리의 멋진 시구 [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828838</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000828838"/>
-        <updated>2021-11-05T10:23:24.810Z</updated>
         <content type="html"><![CDATA[5일 오후 서울 잠실구장에서 '2021 KBO 포스트시즌' 준플레이오프 2차전 LG 트윈스와 두산 베어스의 경기가 열렸다. 넷플릭스 '오징어 게임'에서 199번 알리를 연기한 배우 아누팜이 멋진 시구를 하고 있다.]]></content>
     </entry>
 </feed>
