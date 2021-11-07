@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-07T03:22:11.104Z</updated>
+    <updated>2021-11-07T04:27:11.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['환호→비명' 5만명 몰린 美래퍼 공연서 8명 사망 비극[할리웃톡]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000800194</id>
+        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000800194"/>
+        <updated>2021-11-07T04:27:10.649Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 박효실기자] 신종 코로나바이러스 감염증으로 잔뜩 움츠렸던 엔터테인먼트 업계가 서서히 활기를 되찾는 가운데, 미국에서 충격적인 야외공연 사고가 발생했다. 미국 뉴욕타임즈, US위클리 등 여러 매체에서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트래비스 스캇, 공연중 8명 압사 비극에 충격 “경찰-유족 적극 지원”]]></title>
         <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000508164</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000828836"/>
         <updated>2021-11-05T10:23:24.812Z</updated>
         <content type="html"><![CDATA[5일 오후 서울 잠실구장에서 '2021 KBO 포스트시즌' 준플레이오프 2차전 LG 트윈스와 두산 베어스의 경기가 열렸다. 넷플릭스 '오징어 게임'에서 199번 알리를 연기한 배우 아누팜이 멋진 시구를 펼친 뒤 박세]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오징어 게임' 아누팜, 포스트 시즌 시구까지! [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828835</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000828835"/>
-        <updated>2021-11-05T10:23:24.812Z</updated>
-        <content type="html"><![CDATA[5일 오후 서울 잠실구장에서 '2021 KBO 포스트시즌' 준플레이오프 2차전 LG 트윈스와 두산 베어스의 경기가 열렸다. 넷플릭스 '오징어 게임'에서 199번 알리를 연기한 배우 아누팜이 멋진 시구를 펼친 뒤 인사]]></content>
     </entry>
 </feed>
