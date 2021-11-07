@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-07T18:23:41.180Z</updated>
+    <updated>2021-11-07T19:18:39.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[홀리뱅 허니제이 “큰 사랑, 책임감 느껴” [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000943423</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000943423"/>
+        <updated>2021-11-07T19:18:32.861Z</updated>
+        <content type="html"><![CDATA[홀리뱅 허니제이 “큰 사랑, 책임감 느껴” [화보] 뜨겁고도 치열했던 멋진 ‘언니들’의 싸움이 끝나고, 올해 이슈 프로그램 Mnet &lt;스트릿 우먼 파이터&gt;의 최종 승자는 바로 리더 허니제이가 이끄는 홀리뱅으로 결정됐]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이유·카이, 화보 장인들의 만남]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000943422</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000943414"/>
         <updated>2021-11-07T15:21:38.442Z</updated>
         <content type="html"><![CDATA[7일 서울 광진구 광장동 비스타워커힐 서울에서 열린 ‘2021 세종대왕 소헌왕후’ 선발대회에서 모도리 선을 수상한 조혜영이 2020 송아리 진 고서연(왼쪽)과 김호성 심사위원장(오른쪽)과 기념 촬영을 하고 있다. ‘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모도리 지, 축하 꽃다발 받는 여환수 [포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000943413</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000943413"/>
-        <updated>2021-11-07T15:21:38.443Z</updated>
-        <content type="html"><![CDATA[7일 서울 광진구 광장동 비스타워커힐 서울에서 열린 ‘2021 세종대왕 소헌왕후’ 선발대회에서 모도리 지를 수상한 여환수가 김현중 미인협회 회장으로부터 꽃다발을 받고 있다. ‘세종대왕 소헌왕후 선발대회’는 우리 역사]]></content>
     </entry>
 </feed>

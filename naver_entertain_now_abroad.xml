@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-07T18:23:41.178Z</updated>
+    <updated>2021-11-07T19:18:39.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마약 콘서트였나…미국 광란의 8명 압사 사고 수사 확대]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012776426</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012776426"/>
+        <updated>2021-11-07T19:18:39.393Z</updated>
+        <content type="html"><![CDATA[콘서트 중 마약 주사기 투여 의혹에 전문 수사관 투입 14·16살 고교생 등 10∼20대 압사…트래비스 스콧 "큰 충격" (로스앤젤레스=연합뉴스) 정윤섭 특파원 = 미국 힙합 스타 트래비스 스콧이 개최한 콘서트에서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 세종대왕 소헌왕후 선발대회, 엄지원-김성수 [MK포토]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829449</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829422</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000829422"/>
         <updated>2021-11-07T12:32:24.341Z</updated>
-        <content type="html"><![CDATA['2021 세종대왕 소헌왕후 선발대회'가 7일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. ‘세종대왕 소헌왕후 선발대회’는 우리 역사상 가장 위대한 성군인 세종대왕을 널리 알리고 업적을 계승, 발전시키기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김현희 '모도리 부문 참가해요' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829421</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000829421"/>
-        <updated>2021-11-07T12:32:24.343Z</updated>
         <content type="html"><![CDATA['2021 세종대왕 소헌왕후 선발대회'가 7일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. ‘세종대왕 소헌왕후 선발대회’는 우리 역사상 가장 위대한 성군인 세종대왕을 널리 알리고 업적을 계승, 발전시키기]]></content>
     </entry>
 </feed>
