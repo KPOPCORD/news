@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-07T19:18:39.986Z</updated>
+    <updated>2021-11-07T20:21:33.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[월드&포토] "지옥 같았다"…8명 압사한 '아비규환' 미 콘서트]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012776428</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012776428"/>
+        <updated>2021-11-07T20:21:32.517Z</updated>
+        <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 정윤섭 특파원 = 지난 5일(현지시간) 미국 텍사스주 휴스턴에서 8명이 사람에 깔려 숨지는 사고가 발생했습니다. 힙합 스타 트래비스 스콧의 콘서트가 순식간에 참사의 무대로 돌변했습니다. 스콧]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마약 콘서트였나…미국 광란의 8명 압사 사고 수사 확대]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012776426</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829423</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000829423"/>
         <updated>2021-11-07T12:32:24.340Z</updated>
-        <content type="html"><![CDATA['2021 세종대왕 소헌왕후 선발대회'가 7일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. ‘세종대왕 소헌왕후 선발대회’는 우리 역사상 가장 위대한 성군인 세종대왕을 널리 알리고 업적을 계승, 발전시키기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여환수 '부채 들고 여유' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829422</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000829422"/>
-        <updated>2021-11-07T12:32:24.341Z</updated>
         <content type="html"><![CDATA['2021 세종대왕 소헌왕후 선발대회'가 7일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. ‘세종대왕 소헌왕후 선발대회’는 우리 역사상 가장 위대한 성군인 세종대왕을 널리 알리고 업적을 계승, 발전시키기]]></content>
     </entry>
 </feed>
