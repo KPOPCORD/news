@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-07T08:24:07.910Z</updated>
+    <updated>2021-11-07T09:20:52.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["박수소리 멈추지 않길" 원어스, 뜨거웠던 1년 만의 콘서트]]></title>
+        <id>https://entertain.v.daum.net/v/20211107181448810</id>
+        <link href="https://entertain.v.daum.net/v/20211107181448810"/>
+        <updated>2021-11-07T09:20:21.001Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 그룹 원어스가 단독 콘서트를 통해 팬들과 만났다.원어스는 7일 온·오프라인으로 동시 진행된 콘서트 ‘원어스 시어터 : 적월도’를 개최했다.이날 공연은 ‘컴백 홈’과 ‘발키리’ 무대로 막을 올렸다. 이후 ‘블랙 미러’와 ‘Shut Up 받고 Crazy Hot’ ‘에어플레인’ 등의 무대를 이어갔다.이후 팬들과 마주한 원어스는 벅찬 소감을 전했다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원어스, 완벽 라이브+퍼포먼스로 '무대 맛집' 인증→신곡 최초 공개]]></title>
+        <id>https://entertain.v.daum.net/v/20211107181046746</id>
+        <link href="https://entertain.v.daum.net/v/20211107181046746"/>
+        <updated>2021-11-07T09:20:21.002Z</updated>
+        <content type="html"><![CDATA[[OSEN=지민경 기자] 그룹 원어스가 화려한 라이브와 신곡 최초 공개 무대까지 풍성한 퍼포먼스로 글로벌 팬들을 사로잡았다. 원어스는 7일 오후 온·오프라인에서 동시에 진행된 단독 콘서트 'ONEUS THEATRE : 적월도(赤月圖)'를 통해 글로벌 팬들과 만났다.&nbsp; 지난 7월 시작한 스페셜 프로젝트 'ONEUS THEATRE'의 연장선 상에 있는 원어스의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원어스 새 앨범 기대 포인트 셋]]></title>
         <id>https://entertain.v.daum.net/v/20211107165553120</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211107111201874"/>
         <updated>2021-11-07T02:33:51.578Z</updated>
         <content type="html"><![CDATA[[SBS 연예뉴스 l 강경윤 기자] 가수 채연이 열정적인 라이브와 입담으로 청취자들에게 에너지를 전했다. 채연은 지난 6일 오후 방송된 SBS 라디오 파워FM '두시탈출 컬투쇼'에 출연해 "컬투쇼에는 2, 3년 만에 온 것 같다. 방청객들이 함께 계실 때 출연하고 그 이후로는 처음 온 것 같다. 신곡 '난 가끔 눈물을 흘린다'로 컴백했는데 곡 제목이 레전드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['요절 가수' 배호, 오늘 50주기..반세기 지나도 뜨거운 인기]]></title>
-        <id>https://entertain.v.daum.net/v/20211107110500740</id>
-        <link href="https://entertain.v.daum.net/v/20211107110500740"/>
-        <updated>2021-11-07T02:33:51.578Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 가수 배호(본명 배만금)가 50주기를 맞이했다. 11월 7일은 배호가 세상을 떠난 지 50년이 되는 날이다. 1942년 4월 24일 생 배호는 1971년 11월 7일 영면에 들었다. 배호는 생전 1963년 1집 앨범 '두메산골'로 정식 데뷔했다. 생전 '돌아가는 삼각지', '누가 울어', '안개 낀 장충단 공원', '굿바이', '마]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이승윤 "제주서 접한 'I Am Lost', 와 이건 해야지! 싶었죠"]]></title>
-        <id>https://entertain.v.daum.net/v/20211107103011146</id>
-        <link href="https://entertain.v.daum.net/v/20211107103011146"/>
-        <updated>2021-11-07T02:33:51.579Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김현식 기자] ‘싱어게인’ 우승자 출신 가수 이승윤이 정규 앨범 발매를 앞두고 새 OST로 팬들에게 먼저 목소리를 들려줬다. 이승윤이 가창한 곡은 JTBC ‘너를 닮은 사람’ 네 번째 OST ‘아이 엠 로스트’(I Am Lost). 지난 4일 정식 음원으로 발매됐다. 음원 발매 후 이데일리와 서면 인터뷰를 진행한 이승윤은 “OST 참여]]></content>
     </entry>
 </feed>
