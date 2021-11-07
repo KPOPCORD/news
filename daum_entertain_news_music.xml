@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-07T10:23:01.537Z</updated>
+    <updated>2021-11-07T11:18:01.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['복면가왕' 김재환→원미연도 막지 못한 '곰발바닥' 2연승]]></title>
+        <id>https://entertain.v.daum.net/v/20211107193716781</id>
+        <link href="https://entertain.v.daum.net/v/20211107193716781"/>
+        <updated>2021-11-07T11:17:24.724Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 김재환과 원미연, 그리고 많은 실력파 가수들의 무대도 '곰발바닥'의 2연승은 막지 못했다. 7일 저녁 방송된 MBC 예능프로그램 '복면가왕'에서는 가왕 '곰발바닥'의 2연승을 막기 위한 복면 가수들의 무대가 펼쳐졌다. 이날 2라운드 무대에서는 다음 라운드에 진출하기 위한 복면가수들의 치열한 대결이 펼쳐졌다. 이 과정에서 '깍]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신촌블루스 김상우 "난 지디와 동갑, 외모 편견 깨고 싶다"]]></title>
         <id>https://entertain.v.daum.net/v/20211107190406435</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211107140519493"/>
         <updated>2021-11-07T05:18:26.025Z</updated>
         <content type="html"><![CDATA[[티브이데일리 박상후 기자] 그룹 티오원(TO1)은 힘든 시련 속에서도 굳건한 팀워크로 값진 성장을 이뤄냈다. 여전히 같은 목표를 향해 달려가는 이들의 열정은 그 무엇보다 단단했다. 지난 4일 두 번째 미니앨범 '리:얼라이즈(RE:ALIZE)'로 6개월 만에 컴백한 티오원(치훈, 동건, 찬, 지수, 민수, 재윤, 제이유, 경호, 제롬, 웅기)은 "공백기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[거미, 2년만에 관객과 뜨거운 만남..좌석간 거리두기에도 매진]]></title>
-        <id>https://entertain.v.daum.net/v/20211107135226254</id>
-        <link href="https://entertain.v.daum.net/v/20211107135226254"/>
-        <updated>2021-11-07T05:18:26.025Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 가수&nbsp;거미가 6일 경기도&nbsp;수원에서&nbsp;2021&nbsp;전국투어콘서트&nbsp;‘다시, Winter Ballad'의 첫 포문을 열고&nbsp;‘믿고 보는 콘서트’&nbsp;공연 여제로 뜨겁게 컴백했다. ‘공연 여신’&nbsp;거미가 돌아왔다.&nbsp;거미는 코로나19&nbsp;확산으로 인한 사회적 거리두기로&nbsp;2년 만에 만난 팬과 관객들의 반가운 환호에 감격의 눈물을 보이기도 했다.&nbsp;거미는 콘서트]]></content>
     </entry>
 </feed>

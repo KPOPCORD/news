@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Nov 2021 10:23:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Nov 2021 11:18:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[군 입대 앞둔 산들 직접 작사, 작곡 '거대한 말' (KBS연예 ─ 음악)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=170735</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=170735</guid>
+            <pubDate>Sun, 07 Nov 2021 11:16:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=170735">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211107192707_e004aea4a0c7b688c3f465a995b29c25.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=170735">군 입대 앞둔 산들 직접 작사, 작곡 '거대한 말'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211107192707_e004aea4a0c7b688c3f465a995b29c25.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전소미 'XOXO' 틱톡 언박싱 라이브  진행 (KBS연예 ─ 음악)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=170591</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=169494">무대 장인 원어스, 신곡 뮤직비디오 티저 공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211102111430_f19bbcc015e8b998015349fd658c4f88_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반가운 윤하의 컴백, '엔드 띠어리' (KBS연예 ─ 음악)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=169442</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=169442</guid>
-            <pubDate>Tue, 02 Nov 2021 01:05:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=169442">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211102090926_2fe1655c597f1d158a8d84b9c67d251f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=169442">반가운 윤하의 컴백, '엔드 띠어리'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211102090926_2fe1655c597f1d158a8d84b9c67d251f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[화보] 박주현 매거진 비하인드컷 ‘청순함과 유니크한 분위기’ (KBS연예 ─ 연예)]]></title>
@@ -689,6 +689,14 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211101141724_15cf99a1181d86c0fa92fb3498678ded.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김재환=‘엔딩요정’, 윤지성 “첫 글자에 누군지 알아. 워너원의 목소리” (복가) (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/330010</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/330010</guid>
+            <pubDate>Sun, 07 Nov 2021 11:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/330010">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/07/X0M7uaVtCbJ0637719116217198584.jpg" alt="김재환=‘엔딩요정’, 윤지성 “첫 글자에 누군지 알아. 워너원의 목소리” (복가)">        <div class="text-box">            <p class="summary">김재환=‘엔딩요정’, 윤지성 “첫 글자에 누군지 알아. 워너원의 목소리” (복가)</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/07/X0M7uaVtCbJ0637719116217198584.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[B1A4, '거대한 말' 디지털 커버+티저 이미지 공개 "산들 입대 전 마지막 신보" (MBC 연예 ─ 아이돌)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/329995</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329995</guid>
@@ -769,12 +777,11 @@
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/06/XKvYhQuV2fYX637718131740255988.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[현우 "우연히 기광이 몸 봤다"… 이기광 "노출증 아니야" (브래드PT&GYM캐리) (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329932</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329932</guid>
-            <pubDate>Sat, 06 Nov 2021 02:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329932">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/06/RvhAuOKjowrh637717939439276319.jpg" alt="현우 " 우연히="" 기광이="" 몸="" 봤다"…="" 이기광="" "노출증="" 아니야"="" (브래드pt&gym캐리)"="">        <div class="text-box">            <p class="summary">현우 "우연히 기광이 몸 봤다"… 이기광 "노출증 아니야" (브래드PT&amp;GYM캐리)</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/06/RvhAuOKjowrh637717939439276319.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['복면가왕' 김재환→원미연도 막지 못한 '곰발바닥' 2연승 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211107193716781</link>
+            <guid>https://entertain.v.daum.net/v/20211107193716781</guid>
+            <pubDate>Sun, 07 Nov 2021 11:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 김종은 기자] 김재환과 원미연, 그리고 많은 실력파 가수들의 무대도 '곰발바닥'의 2연승은 막지 못했다. 7일 저녁 방송된 MBC 예능프로그램 '복면가왕'에서는 가왕 '곰발바닥'의 2연승을 막기 위한 복면 가수들의 무대가 펼쳐졌다. 이날 2라운드 무대에서는 다음 라운드에 진출하기 위한 복면가수들의 치열한 대결이 펼쳐졌다. 이 과정에서 '깍]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[신촌블루스 김상우 "난 지디와 동갑, 외모 편견 깨고 싶다" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
@@ -875,11 +882,74 @@
             <content:encoded><![CDATA[[티브이데일리 박상후 기자] 그룹 티오원(TO1)은 힘든 시련 속에서도 굳건한 팀워크로 값진 성장을 이뤄냈다. 여전히 같은 목표를 향해 달려가는 이들의 열정은 그 무엇보다 단단했다. 지난 4일 두 번째 미니앨범 '리:얼라이즈(RE:ALIZE)'로 6개월 만에 컴백한 티오원(치훈, 동건, 찬, 지수, 민수, 재윤, 제이유, 경호, 제롬, 웅기)은 "공백기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[거미, 2년만에 관객과 뜨거운 만남..좌석간 거리두기에도 매진 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211107135226254</link>
-            <guid>https://entertain.v.daum.net/v/20211107135226254</guid>
-            <pubDate>Sun, 07 Nov 2021 05:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최나영 기자] 가수&nbsp;거미가 6일 경기도&nbsp;수원에서&nbsp;2021&nbsp;전국투어콘서트&nbsp;‘다시, Winter Ballad'의 첫 포문을 열고&nbsp;‘믿고 보는 콘서트’&nbsp;공연 여제로 뜨겁게 컴백했다. ‘공연 여신’&nbsp;거미가 돌아왔다.&nbsp;거미는 코로나19&nbsp;확산으로 인한 사회적 거리두기로&nbsp;2년 만에 만난 팬과 관객들의 반가운 환호에 감격의 눈물을 보이기도 했다.&nbsp;거미는 콘서트]]></content:encoded>
+            <title><![CDATA['집사부일체' 스우파 8인, 남다른 댄스→솔직한 입담..남다른 우먼파워 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211107200601016</link>
+            <guid>https://entertain.v.daum.net/v/20211107200601016</guid>
+            <pubDate>Sun, 07 Nov 2021 11:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[스트릿 우먼 파이터 8인이 솔직한 입담으로 우먼파워를 뽐냈다. 7일 방송된 SBS 예능 프로그램 ‘집사부일체’에서는 스트릿 우먼 파이터(이하 '스우파') 멤버들이 우먼파워 특집 1탄을 꾸몄다. 이날 스우파 주역 훅의 아이키·뤠이젼, 프라우드먼의 모니카·립제이, YGX의 리정·여진, 라치카의 가비·리안이 우먼파워 특집 1탄에 출연했다. 스우파 멤버들은 헤이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[유재석 김종국 반응에 "윤은혜 불러도 될 듯" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211107200543013</link>
+            <guid>https://entertain.v.daum.net/v/20211107200543013</guid>
+            <pubDate>Sun, 07 Nov 2021 11:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] 유재석 김종국 반응에 “윤은혜 불러도 될 듯” (종합) [DA:리뷰] SBS ‘런닝맨’이 윤은혜에게 거듭 러브콜을 보냈다. 김종국과 송지효 그리고 윤은혜의 삼각 러브라인을 기어코 만들겠다는 의지를 또 한 번 드러냈다. 7일 방송된 SBS ‘런닝맨’에서는 김종국의 절친 장혁이 게스트로 출연한 가운데 ‘런닝 산악회’ 레이스가 진행됐다. 먼저 두]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김종국, 터무니없는 약물 의혹 제기에 "황당하다 검사 다 받을 것" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211107200334987</link>
+            <guid>https://entertain.v.daum.net/v/20211107200334987</guid>
+            <pubDate>Sun, 07 Nov 2021 11:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[가수 김종국이 캐나다 헬스 유튜버 그렉 듀셋(Greg Doucette)이 제기한 의혹에 대해 재차 반박했다. 7일 김종국은 자신의 SNS 채널에 '황당하다. 뭐가 됐던 호르몬 수치가 외부 주입인지 스스로 몸에서 만들어 낸 건지 검사하면 다 나온다. 모든 검사를 순차적으로 다해 나갈 테니까 그냥 재밌게 즐겨달라'며 그렉이 제기한 로이더(약물로 근육을 키우]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['복면' 가왕 곰발바닥, 해피핼러윈 원미연 꺾고 2연승 가왕 등극 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211107200130972</link>
+            <guid>https://entertain.v.daum.net/v/20211107200130972</guid>
+            <pubDate>Sun, 07 Nov 2021 11:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트 = 하수나 기자] 가왕 곰발바닥이 해피핼러윈 원미연을 누르고 2연승 가왕에 등극했다.&nbsp; 7일 방송된 MBC '복면가왕‘에선 가왕 곰발바닥과 여기에 도전장을 낸 복면가수의 무대가 펼쳐졌다.&nbsp; 이날 2라운드 준결승전 첫 번째 조에선 깍두기와 해피핼러윈의 대결이 펼쳐졌다. 깍두기는 플라이 투 더 스카이의 ‘sea of love'를 선곡, 감미로운 감]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["이렇게 잘 될 줄이야" 모니카→아이키 밝힌 #스우파 #광고 #인기 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211107195154882</link>
+            <guid>https://entertain.v.daum.net/v/20211107195154882</guid>
+            <pubDate>Sun, 07 Nov 2021 11:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = '스트릿 우먼 파이터' 8인이 춤을 시작한 이야기부터 방송 출연 비화까지 전하며 솔직한 입담을 펼쳤다. 7일 오후 방송된 SBS '집사부일체'에는 엠넷 '스트릿 우먼 파이터'(이하 '스우파') 댄서인 모니카, 아이키, 가비, 리정, 여진, 립제이, 리안, 뤠이젼 8인이 게스트로 출연했다. 이날 이승기는 '스우파'와 함께]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['1박 2일' "조금의 변화 생겼지만" 문세윤, '김선호 하차' 조심스러운 언급 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211107195106878</link>
+            <guid>https://entertain.v.daum.net/v/20211107195106878</guid>
+            <pubDate>Sun, 07 Nov 2021 11:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 김수현기자] 배우 김선호가 하차한 가운데 문세윤이 100회 특집에 이를 언급했다. 7일 방송된 KBS 2TV '1박 2일 시즌4'(이하 1박 2일)에서는 100회를 맞이해 제주도로 향한 멤버들의 '꿀'같은 '단내 투어'를 떠났다. 제주도에 도착한 멤버들, 김종민은 "제주도는 와도와도 예쁘다"]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['집사부' 모니카→아이키, '스우파' 후 톱스타 광고 섭렵 "후배들에게 성공 이어주고파" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211107195030873</link>
+            <guid>https://entertain.v.daum.net/v/20211107195030873</guid>
+            <pubDate>Sun, 07 Nov 2021 11:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=이혜미 기자] ‘스우파’의 댄서들이 ‘집사부일체’를 접수했다. 7일 방송된 SBS ‘집사부일체’에선 ‘스트릿 우먼 파이터’의 주역들이 한 자리에 모여 진솔한 이야기를 나눴다. 이들은 ‘우먼파워’ 신드롬의 주인공들. 강렬한 걸크러쉬를 내뿜는 게스트들의 등장에 유독 위축된 모습을 보였던 양세형은 “나는 지질하다. ‘집사부일체’에서만 세다”며 너스레]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['복면가왕' 곰발바닥, 2연승 성공..이현→김재환 정체 공개 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211107194145824</link>
+            <guid>https://entertain.v.daum.net/v/20211107194145824</guid>
+            <pubDate>Sun, 07 Nov 2021 11:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] ‘복면가왕’ 이현, 김상우, 김재환, 원미연이 정체를 공개했다.7일 오후 방송된 MBC ‘복면가왕’에서는 가왕 곰발바닥에 도전하는 복면 가수 4인의 무대가 전파를 탔다.이날 2라운드 첫 번째는 깍두기와 해피핼러윈의 대결이 펼쳐졌다. 깍두기는 플라이 투 더 스카이 ‘Sea Of Love’를 선곡해 감미로운 목소리로 애절한 무대를 선사했다.해피]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['복면가왕' 곰발바닥 2연승 성공..해피핼러윈은 원미연 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211107193444752</link>
+            <guid>https://entertain.v.daum.net/v/20211107193444752</guid>
+            <pubDate>Sun, 07 Nov 2021 11:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 이아영 기자 = '복면가왕' 곰발바닥이 해피핼러윈을 꺾고 2연승에 성공했다. 7일 방송된 MBC '복면가왕'에서는 164대 가왕 결정전이 펼쳐졌다. 이날 깍두기는 플라이 투 더 스카이의 '씨 오브 러브'를 불렀다. 해피핼러윈은 김건모의 '미련'을 선곡해 짙고 애절한 감성을 표현했다. 투표 결과 해피핼러윈이 승리, 3라운드에 진출했다. 깍]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['집사부일체' 모니카 "잘하면 본전 생각에 스우파 주저..후배들 위해 출연 결심" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211107193304737</link>
+            <guid>https://entertain.v.daum.net/v/20211107193304737</guid>
+            <pubDate>Sun, 07 Nov 2021 11:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[모니카가 스우파 출연의 비하인드 스토리를 언급했다. 7일 방송된 SBS 예능 프로그램 ‘집사부일체’에서는 스트릿 우먼 파이터(이하 '스우파') 멤버들이 우먼파워 특집 1탄을 꾸몄다. 모니카는 스우파 출연을 망설였다는 사실을 공개했다. 그는 "출연 제안을 받고 심사위원으로 섭외된 줄 알았다"고 했다. 이어 "출연 미팅을 하고 나서 심사위원이 아닌 참가자로]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['1박 2일' 김선호 하차 간접 언급 "변화가 생겼다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
@@ -917,76 +987,6 @@
             <content:encoded><![CDATA[(서울=뉴스1) 이아영 기자 = '복면가왕' 엔딩요정이 언빌리버블을 꺾고 3라운드에 올랐다. 7일 방송된 MBC '복면가왕'에서는 가왕에 도전하는 복면 가수들의 2라운드 대결이 펼쳐졌다. 언빌리버블이 무대에 올랐다. 낯선 반주 후에 익숙한 가사가 흘러나왔다. 바로 '나야 나'를 록 버전으로 편곡한 것이었다. 이에 질세라 엔딩요정은 에스파의 '넥스트]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['집사부일체' 모니카→아이키, 은평구로 '대동단결'..가비, "저는 화곡동이에요" 시무룩 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211107190300423</link>
-            <guid>https://entertain.v.daum.net/v/20211107190300423</guid>
-            <pubDate>Sun, 07 Nov 2021 10:22:34 GMT</pubDate>
-            <content:encoded><![CDATA[[SBS연예뉴스 | 김효정 에디터] 스우파 리더들이 은평구로 뭉쳤다. 7일 방송된 SBS '집사부일체'에서는 대한민국에서 가장 핫한 스우파의 댄서들이 사부로 등장했다. 이날 방송에서 이들의 등장에 이승기와 김동현은 찐팬임을 인증했다. 특히 이승기는 "진짜 팬이다. 사실 오늘 여기 와서 이 분들을 보는데 대선 주자들을 만날 때 보다 더 떨렸다"라고 솔직하게]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[건축가 유현준, 통창+연못 있는 사무실 공개 "집 세들어 살아 내 방 사무실에 만들어" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211107190225417</link>
-            <guid>https://entertain.v.daum.net/v/20211107190225417</guid>
-            <pubDate>Sun, 07 Nov 2021 10:22:34 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 건축가 유현준이 통창, 천창이 있는 사무실을 공개했다. 11월 7일 방송된 KTBC 시사 교양 프로그램 '차이나는 클라스 - 인생수업' 230회에서는 건축가 유현준 교수가 일곱 번째 인생지기로 출연했다. 이날 유현준 교수는 자신의 공간에 대해 "아파트에 세들어 살고 있다. 내 맘대로 꾸미지 못하니, 대신 사무실을 제 맘대로 꾸미고]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['1박2일' 딘딘X라비, 일타강사 문세윤 가르침 받았다.. '먹방 샛별' 등극 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211107185400339</link>
-            <guid>https://entertain.v.daum.net/v/20211107185400339</guid>
-            <pubDate>Sun, 07 Nov 2021 10:22:34 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트=이혜미 기자] ‘1박2일’ 딘딘과 라비가 일타강사 문세윤의 가르침을 받아 먹방 샛별로 거듭났다. 7일 방송된 KBS 2TV ‘1박2일’에선 연정훈 김선호 문세윤 김종민 딘딘 라비의 순천 여행기가 공개됐다. 이날 저녁식사 복불복에서 승리한 딘딘과 라비는 순천 바다 한 상을 받아들고 함박웃음을 지었다. 매콤하게 버무려낸 꼬막 무침에 이들은 “적당한]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김종국, 약물 의혹에 직접 검사+반박 "살다보니 재밌는 이슈" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211107184633257</link>
-            <guid>https://entertain.v.daum.net/v/20211107184633257</guid>
-            <pubDate>Sun, 07 Nov 2021 10:22:34 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 안윤지 기자] 가수 김종국/사진=JTBC가수 김종국이 약물 투여 의혹에 휘말렸다. 이에 그는 직접 검사 및 해명하며 결백함을 증명했다. 김종국은 지난 6일 자신의 유튜브 채널 '김종국 GYM JONG KOOK' 커뮤니티를 통해 "살다 살다 별.. 너무 재밌고 신나는 이슈다"라며 약물 투여 의혹을 언급했다. 앞서 캐나다 헬스 트레이너 그렉 듀셋은]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이승기, '스우파' 출연에 "대선주자 만날 때보다 더 떨린다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211107184316217</link>
-            <guid>https://entertain.v.daum.net/v/20211107184316217</guid>
-            <pubDate>Sun, 07 Nov 2021 10:22:34 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 김종은 기자] '집사부일체' 멤버들이 '스트릿 우먼 파이터'를 향한 팬심을 드러냈다. 7일 저녁 방송된 SBS 예능프로그램 '집사부일체'에서는 '프라우드먼' 모니카, 립제이, 'YGX' 리정, 여진, '훅' 아이키, 뤠이젼, '라치카' 가비, 리안이 사부로 출연했다. 이날 '스트릿 우먼 파이터' 출연진들은 화제의 곡 'Hey Mama'에 맞]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['복면가왕' 깍두기는 오션 출신 이현..해피핼러윈 3R 진출 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211107183639138</link>
-            <guid>https://entertain.v.daum.net/v/20211107183639138</guid>
-            <pubDate>Sun, 07 Nov 2021 10:22:34 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 이아영 기자 = '복면가왕' 해피핼러윈이 깍두기를 꺾고 3라운드에 진출했다. 7일 방송된 MBC '복면가왕'에서는 가왕에 도전하는 복면 가수들의 2라운드 대결이 펼쳐졌다. 이날 깍두기는 플라이 투 더 스카이의 '씨 오브 러브'를 불렀다. 해피핼러윈은 김건모의 '미련'을 선곡해 짙고 애절한 감성을 표현했다. 투표 결과 해피핼러윈이 승리,]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['런닝맨' 장혁, "삼각은 NO, 양쪽에 뭐가 있어"..X맨 시절 김종국 '러브라인' 언급 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211107183600112</link>
-            <guid>https://entertain.v.daum.net/v/20211107183600112</guid>
-            <pubDate>Sun, 07 Nov 2021 10:22:34 GMT</pubDate>
-            <content:encoded><![CDATA[[SBS연예뉴스 | 김효정 에디터] 장혁이 절친 김종국의 러브라인을 언급했다. 7일 방송된 SBS '런닝맨'에서는 런닝산악회 레이스가 펼쳐졌다. 이날 방송에서 멤버들은 30분 동안 노가리 타임을 즐겼다. 5초 이상 정적이 흐르면 경비 1만 원이 추가되는 룰에 따라 멤버들은 끊임없이 대화를 나눴다. 그러던 중 지석진은 김종국에게 "채연이가 너 좋아했다는 이야]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['런닝맨' 장혁, 꼴찌지만 행운의 사나이..양세찬-지석진 벌칙 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211107183516097</link>
-            <guid>https://entertain.v.daum.net/v/20211107183516097</guid>
-            <pubDate>Sun, 07 Nov 2021 10:22:34 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] ‘런닝맨’ 레이스에 꼴찌한 장혁이 벌칙 당첨에서 살아남았다.7일 오후 방송된 SBS ‘런닝맨’에서는 런닝 산악회 특집으로 배우 장혁이 출격했다.이날 유재석은 난해한 패션 사이 지석진을 보며 “돗자리 미리 깔아 놓으신 거에요?”라며 그의 패션을 지적했다. 해양구조대를 연상시키는 지석진은 유독 작은 가방을 멨고 그 모습에 하하는 “이거 소울이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['런닝맨' 김종국, 절친 장혁 등장에 행복.. 지석진X양세찬, 비운의 강릉 원정대 결성 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211107183430087</link>
-            <guid>https://entertain.v.daum.net/v/20211107183430087</guid>
-            <pubDate>Sun, 07 Nov 2021 10:22:34 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트=이혜미 기자] ‘런닝맨’ 김종국이 절친 장혁의 등장에 행복감을 표했다. 미션에 나선 장혁이 최하위에 머물고도 벌칙을 면제받는 행운을 누린 가운데 지석진과 양세찬은 비운의 강릉 원정대를 결성, 벌칙을 수행했다.&nbsp; 7일 방송된 SBS ‘런닝맨’에선 장혁이 게스트로 출연해 런닝 산악회를 함께했다. 산악회 콘셉트에 따라 나이가 화두가 된 가운데 런닝맨]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['런닝맨' 장혁, 런닝산악회 신입회원으로 등장..지석진·양세찬, 벌칙 당첨 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211107183311071</link>
-            <guid>https://entertain.v.daum.net/v/20211107183311071</guid>
-            <pubDate>Sun, 07 Nov 2021 10:22:34 GMT</pubDate>
-            <content:encoded><![CDATA[장혁이 런닝산악회 신입회원으로 활약했다. 7일 방송된 SBS 예능 프로그램 ‘런닝맨’에서는 런닝산악회의 추계 야유회 특집이 다뤄졌다. 이날 장혁과 함께 런닝산악회의 추계 야유회 특집이 방송됐다. 산악회 멤버들은 단풍 코스를 즐기며 경비를 지출했다. 유재석은 "오늘 나들이 하기 딱 좋은 날씨다"며 만족감을 드러냈다. 멤버들은 첫 번째 미션 '노가리 마니또']]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[트래비스 스콧 공연 중 압사 사고..최소 8명 숨졌다 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
             <link>https://entertain.v.daum.net/v/20211107181003731</link>
             <guid>https://entertain.v.daum.net/v/20211107181003731</guid>
@@ -994,7 +994,7 @@
             <content:encoded><![CDATA[(엑스포츠뉴스 조혜진 기자) 미국 래퍼 트래비스 스콧의 공연장에서 압사 사고가 발생했다. BBC 등에 따르면 트래비스 스콧은 지난 5일(현지시간) 미국 텍사스 휴스턴에서 힙합 공연을 가졌다.&nbsp; 트래비스 스콧은 이날 개막식 무대에 올랐고, 그가 등장하자 약 5만명의 관객들이 무대 앞쪽으로 몰려들면서 사고가 일어났다.&nbsp; 이 사고로 인해 최소 8명이 사망한 것으]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[카녜이 웨스트, 기괴한 헤어 "브리트니 삭발에 경의 표한 것" (다음 연예 ─ 뉴스 ─ 해외)]]></title>
+            <title><![CDATA['양극성 장애' 카녜이 웨스트, 브리트니 삭발 오마주? 기괴한 버즈컷 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
             <link>https://entertain.v.daum.net/v/20211107175052180</link>
             <guid>https://entertain.v.daum.net/v/20211107175052180</guid>
             <pubDate>Sun, 07 Nov 2021 09:20:30 GMT</pubDate>
@@ -1062,6 +1062,34 @@
             <guid>https://entertain.v.daum.net/v/20211107060005645</guid>
             <pubDate>Sat, 06 Nov 2021 21:18:49 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 조지 클루니가 영국 ‘데일리 메일’을 비롯한 몇몇 매체에 자신의 자녀 사진을 보도하지 말아달라고 요구했다. 5일(현지시간) BBC에 따르면, 조지 클루니는 “아내가 하는 일의 특성상 그녀는 테러 단체와 맞서 재판을 받게 되고 우리는 가족을 안전하게 지키기 위해 가능한 한 많은 예방조치를 취하게 된다. 만약 어떤]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[POP초점]트래비스 스콧, 공연 중 압사 사고→최소 8명 사망.."망연자실했다" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003495560</link>
+            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003495560</guid>
+            <pubDate>Sun, 07 Nov 2021 11:17:45 GMT</pubDate>
+            <content:encoded><![CDATA[[헤럴드POP=박서연 기자]미국 래퍼 트래비스 스콧이 공연하는 도중 압사 사고가 발생해 최소 8명이 숨졌다. 5일(현지시간) CNN, AP통신 등 외신에 따르면 이날 미국 텍사스 주 휴스턴 NRG파크에서 개최된 '아]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[거미, 전국투어 콘서트 개최..'믿고 보는 공연 여제' 컴백 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003495557</link>
+            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003495557</guid>
+            <pubDate>Sun, 07 Nov 2021 11:17:45 GMT</pubDate>
+            <content:encoded><![CDATA[[헤럴드POP=정혜연 기자]거미가 어제 수원에서 2021 전국투어콘서트 ‘다시, Winter Ballad'의 첫 포문을 열고 ‘믿고 보는 콘서트’ 공연 여제로 뜨겁게 컴백했다. 매년 전국 투어 매진과 완벽에 가까운]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[군 입대 앞둔 산들 직접 작사, 작곡 '거대한 말' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=438&amp;aid=0000040441</link>
+            <guid>https://entertain.naver.com/now/read?oid=438&amp;aid=0000040441</guid>
+            <pubDate>Sun, 07 Nov 2021 11:17:45 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 B1A4가 신곡 ‘거대한 말’의 디지털 커버와 티저 이미지를 공개했다. 7일 B1A4의 소속사 WM엔터테인먼트는 공식 SNS 채널을 통해 새 디지털 싱글 ‘거대한 말’의 커버 이미지와 개인 티저 이미지를 게시했]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[원어스, ‘BLOOD MOON’ 기대포인트... ‘과거↔현대’ 잇는 퍼포먼스 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001198934</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001198934</guid>
+            <pubDate>Sun, 07 Nov 2021 11:17:45 GMT</pubDate>
+            <content:encoded><![CDATA[원어스(ONEUS)가 독보적인 콘셉트로 6개월 만에 컴백한다. 원어스는 9일 오후 6시 각종 음원 사이트를 통해 여섯 번째 미니앨범 'BLOOD MOON'(블러드 문)을 발표한다. 신보에는 타이틀곡 '월하미인 (月下]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[프루던스, 새 싱글 '레인 레인' 발매…록 신스팝 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
@@ -1211,32 +1239,32 @@
             <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]YG 대형 그룹 트레저의 새 웹드라마 '남고괴담'이 서서히 베일을 벗으며 글로벌 팬들의 관심이 치솟고 있다. YG엔터테인먼트는 7일 공식 블로그에 트레저 12명 멤버의 학생증 사진이 담긴]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[차트는 늘 히어로..임영웅, 지니차트 톱10 싹쓸이 '빛나는 나날' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002716</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002716</guid>
-            <pubDate>Sun, 07 Nov 2021 06:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[차트는 늘 히어로. 가수 임영웅이 국내 주요 음원 플랫폼 지니(Genie) 차트 톱10을 싹쓸이 하며 '차트의 제왕' 면모를 빛냈다. 임영웅은 11월 7일 오전 7시 기준 지니 차트 1위부터 10위까지 석권했다. 1]]></content:encoded>
+            <title><![CDATA[유재석 김종국 반응에 “윤은혜 불러도 될 듯” (종합) [DA:리뷰] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000943323</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000943323</guid>
+            <pubDate>Sun, 07 Nov 2021 11:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[유재석 김종국 반응에 “윤은혜 불러도 될 듯” (종합) [DA:리뷰] SBS ‘런닝맨’이 윤은혜에게 거듭 러브콜을 보냈다. 김종국과 송지효 그리고 윤은혜의 삼각 러브라인을 기어코 만들겠다는 의지를 또 한 번 드러냈다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[임영웅, 음원차트 1~10위 줄세우기 성공..반박불가 차트킹 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004506121</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004506121</guid>
-            <pubDate>Sun, 07 Nov 2021 06:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최나영 기자] 가수 임영웅이 차트 상위권을 점령하며 음원 줄세우기에 성공했다. 7일 오전 7시 기준 음원 사이트 지니 음원 차트 TOP 100에서 임영웅의 노래 10곡이 1위 부터 10위까지 싹쓸이 했다.]]></content:encoded>
+            <title><![CDATA[이하늬는 원더우먼, 이상윤은 슈퍼맨..마블 나와도 되겠어[스타IN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002768</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002768</guid>
+            <pubDate>Sun, 07 Nov 2021 11:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이하늬, 이상윤 등이 '원더우먼' 공약을 지켰다. 이하늬는 7일 자신의 SNS를 통해 "저희 공약지키러 왔어요. 공약 이향인데 벌칙 같은 건 기분 탓이죠?"란 글을 게재했다. 공개된 사진 속 이하늬는 캐릭터 원]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[하이브 사업확장 선 넘었다?… 뿔난 BTS 팬들에 제동 걸리나 [스경X초점] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000772646</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000772646</guid>
-            <pubDate>Sun, 07 Nov 2021 06:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 그룹 BTS가 소속된 하이브의 ‘바운드리스(Boundless)’ 사업 확장 계획에 팬들이 ‘선을 넘었다’는 비난을 쏟아내며 불매 운동을 예고했다. 최근 트위터 등 SNS에서는 ‘하이브_불매’ 등의 키워]]></content:encoded>
+            <title><![CDATA[유튜버·MCN 참여 K-콘텐츠크리에이터연합회 출범 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0012776335</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0012776335</guid>
+            <pubDate>Sun, 07 Nov 2021 11:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 이태수 기자 = 유튜버와 크리에이터 기획사 등으로 구성된 단체인 사단법인 K-콘텐츠크리에이터연합회(KFCC)가 8일 서울 코엑스에서 출범식을 연다고 KFCC가 7일 밝혔다. KFCC는 문화체육관광부]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[거미, 전국투어 콘서트 '다시, Winter Ballad' 시작 "울컥해 눈물나" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000800216</link>
-            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000800216</guid>
-            <pubDate>Sun, 07 Nov 2021 05:18:45 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 김선우기자]거미가 수원에서 2021 전국투어콘서트 ‘다시, Winter Ballad‘의 첫 포문을 열었다. 매년 전국 투어 매진과 완벽에 가까운 평점으로 화제가 되었던 ‘공연 여신’ 거미가 돌아왔다.]]></content:encoded>
+            <title><![CDATA['갑질 논란' 이지훈, SNS 심경 고백…"방패막이 삼지마" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=629&amp;aid=0000114846</link>
+            <guid>https://entertain.naver.com/now/read?oid=629&amp;aid=0000114846</guid>
+            <pubDate>Sun, 07 Nov 2021 11:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[7일 SNS 통해 의미심장한 메시지 남겨 스태프 갑질 논란을 사고 있는 배우 이지훈이 심경을 고백했다. 이지훈은 7일 자신의 SNS 스토리에 두 건물 사이에 하늘이 보이는 사진에 "앞뒤없는 당신들의 거짓말을 들어도]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[강아라-서상현 ‘나르샤 부문 진-지 수상했어요’ [포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
@@ -1386,207 +1414,179 @@
             <content:encoded><![CDATA[(서울=연합뉴스) 한국 대중문화가 미국 로스앤젤레스(LA) 주민들을 하나로 만들었습니다. 6일(현지시간) LA 카운티 컬버시티 다운타운 광장에서 열린 한국드라마 '오징어 게임' 놀이 행사 덕분이었는데요. 참석자 500여 명은 서로 이름도 성도 모르지만, 오징어 게임을 하며 장장 6시간 동안 함박웃음을 지으며 잔치 분위기를...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[강아라 ‘한글이 새겨진 한복 입고’ [포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000943280</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000943280</guid>
-            <pubDate>Sun, 07 Nov 2021 09:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[7일 서울 광진구 광장동 비스타워커힐 서울에서 열린 ‘2021 세종대왕 소헌왕후’ 선발대회에서 나르샤 부문 여자 210번 강아라가 워킹 퍼포먼스를 하고 있다. ‘세종대왕 소헌왕후 선발대회’는 우리 역사상 가장 위대한]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김라온 ‘진지한 눈빛’ [포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000943279</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000943279</guid>
-            <pubDate>Sun, 07 Nov 2021 09:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[7일 서울 광진구 광장동 비스타워커힐 서울에서 열린 ‘2021 세종대왕 소헌왕후’ 선발대회에서 나르샤 부문 여자 202번 김라온이 워킹 퍼포먼스를 하고 있다. ‘세종대왕 소헌왕후 선발대회’는 우리 역사상 가장 위대한]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[박수아 ‘귀여운 워킹’ [포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000943278</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000943278</guid>
-            <pubDate>Sun, 07 Nov 2021 09:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[7일 서울 광진구 광장동 비스타워커힐 서울에서 열린 ‘2021 세종대왕 소헌왕후’ 선발대회에서 나르샤 부문 여자 213번 박수아가 워킹 퍼포먼스를 하고 있다. ‘세종대왕 소헌왕후 선발대회’는 우리 역사상 가장 위대한]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김연서 ‘너무 떨려요’ [포토] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000943277</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000943277</guid>
-            <pubDate>Sun, 07 Nov 2021 09:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[7일 서울 광진구 광장동 비스타워커힐 서울에서 열린 ‘2021 세종대왕 소헌왕후’ 선발대회에서 나르샤 부문 여자 209번 김연서가 워킹 퍼포먼스를 하고 있다. ‘세종대왕 소헌왕후 선발대회’는 우리 역사상 가장 위대한]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[심신 '세종대왕 소헌왕후 선발대회 축하공연' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829376</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829376</guid>
-            <pubDate>Sun, 07 Nov 2021 10:23:00 GMT</pubDate>
+            <title><![CDATA[정숙향 '한복 무대' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829415</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829415</guid>
+            <pubDate>Sun, 07 Nov 2021 11:18:01 GMT</pubDate>
             <content:encoded><![CDATA['2021 세종대왕 소헌왕후 선발대회'가 7일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. ‘세종대왕 소헌왕후 선발대회’는 우리 역사상 가장 위대한 성군인 세종대왕을 널리 알리고 업적을 계승, 발전시키기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[트래비스 스콧 공연 중 압사 사고…최소 8명 숨졌다 [엑's 해외이슈] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001370349</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001370349</guid>
-            <pubDate>Sun, 07 Nov 2021 09:20:51 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 조혜진 기자) 미국 래퍼 트래비스 스콧의 공연장에서 압사 사고가 발생했다. BBC 등에 따르면 트래비스 스콧은 지난 5일(현지시간) 미국 텍사스 휴스턴에서 힙합 공연을 가졌다. 트래비스 스콧은 이날 개]]></content:encoded>
+            <title><![CDATA[조혜영 '순백의 한복 자태' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829414</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829414</guid>
+            <pubDate>Sun, 07 Nov 2021 11:18:01 GMT</pubDate>
+            <content:encoded><![CDATA['2021 세종대왕 소헌왕후 선발대회'가 7일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. ‘세종대왕 소헌왕후 선발대회’는 우리 역사상 가장 위대한 성군인 세종대왕을 널리 알리고 업적을 계승, 발전시키기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세종대왕 소헌왕후 선발대회 나르샤 부문 진 강아라 [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829355</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829355</guid>
-            <pubDate>Sun, 07 Nov 2021 09:20:51 GMT</pubDate>
-            <content:encoded><![CDATA['2021 세종대왕 소헌왕후 선발대회'가 7일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. 나르샤 부문 '진'에 뽑힌 강아라가 포즈를 취하고 있다.]]></content:encoded>
+            <title><![CDATA[박노경 '한복 입고 우아하게' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829413</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829413</guid>
+            <pubDate>Sun, 07 Nov 2021 11:18:01 GMT</pubDate>
+            <content:encoded><![CDATA['2021 세종대왕 소헌왕후 선발대회'가 7일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. ‘세종대왕 소헌왕후 선발대회’는 우리 역사상 가장 위대한 성군인 세종대왕을 널리 알리고 업적을 계승, 발전시키기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[나르샤 부문 남자 1위, 서상현 [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829352</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829352</guid>
-            <pubDate>Sun, 07 Nov 2021 09:20:51 GMT</pubDate>
-            <content:encoded><![CDATA['2021 세종대왕 소헌왕후 선발대회'가 7일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. 나르샤 부문 '지'에 뽑힌 서상현 군이 포즈를 취하고 있다.]]></content:encoded>
+            <title><![CDATA[안윤지 '모도리 부문 참가해요' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829412</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829412</guid>
+            <pubDate>Sun, 07 Nov 2021 11:18:01 GMT</pubDate>
+            <content:encoded><![CDATA['2021 세종대왕 소헌왕후 선발대회'가 7일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. ‘세종대왕 소헌왕후 선발대회’는 우리 역사상 가장 위대한 성군인 세종대왕을 널리 알리고 업적을 계승, 발전시키기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[카녜이 웨스트, 기괴한 헤어 "브리트니 삭발에 경의 표한 것"[Oh!llywood] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004506303</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004506303</guid>
-            <pubDate>Sun, 07 Nov 2021 09:20:51 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최나영 기자] 세계적인 뮤지션 카녜이 웨스트(44)가 최근 파격적인 헤어스타일로 화제를 모은 가운데 그것이 팝가수 브리트니 스피어스의 삭발에 경의를 표한 것이라고 말했다. 웨스트는 지난 주 미국 마이애미에]]></content:encoded>
+            <title><![CDATA[정종범 '무대를 즐겨' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829411</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829411</guid>
+            <pubDate>Sun, 07 Nov 2021 11:18:01 GMT</pubDate>
+            <content:encoded><![CDATA['2021 세종대왕 소헌왕후 선발대회'가 7일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. ‘세종대왕 소헌왕후 선발대회’는 우리 역사상 가장 위대한 성군인 세종대왕을 널리 알리고 업적을 계승, 발전시키기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[소리디딤 전해옥 '세종대왕 소헌왕후 축하공연' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829330</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829330</guid>
-            <pubDate>Sun, 07 Nov 2021 09:20:51 GMT</pubDate>
-            <content:encoded><![CDATA['2021 세종대왕 소헌왕후 선발대회'가 7일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. 소리디딤 전해옥이 축하공연을 펼치고 있다.]]></content:encoded>
+            <title><![CDATA[김시현 '위풍당당' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829410</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829410</guid>
+            <pubDate>Sun, 07 Nov 2021 11:18:01 GMT</pubDate>
+            <content:encoded><![CDATA['2021 세종대왕 소헌왕후 선발대회'가 7일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. ‘세종대왕 소헌왕후 선발대회’는 우리 역사상 가장 위대한 성군인 세종대왕을 널리 알리고 업적을 계승, 발전시키기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[윌 스미스, '킹 리차드' 출연진에 본인 출연료 일부 지급한 사연? [엑's 할리우드] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001370298</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001370298</guid>
-            <pubDate>Sun, 07 Nov 2021 08:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) 배우 윌 스미스가 동료 배우들을 위해 엄청난 금액의 돈을 사용한 사실이 전해졌다. 6일(현지시간) 미국 할리우드 리포터(THR)는 영화 '킹 리차드'가 HBO 맥스(HBO Max)로 동시]]></content:encoded>
+            <title><![CDATA[신재엽 '당당하게' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829409</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829409</guid>
+            <pubDate>Sun, 07 Nov 2021 11:18:01 GMT</pubDate>
+            <content:encoded><![CDATA['2021 세종대왕 소헌왕후 선발대회'가 7일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. ‘세종대왕 소헌왕후 선발대회’는 우리 역사상 가장 위대한 성군인 세종대왕을 널리 알리고 업적을 계승, 발전시키기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['선녀들' 프로파일러 표창원 출격, 여운형 암살 사건 미스터리 파헤친다 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003799069</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003799069</guid>
-            <pubDate>Sun, 07 Nov 2021 08:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 이승미 기자]국내 최고 프로파일러 표창원이 '여운형 암살 사건'의 미스터리를 파헤친다. 7일 방송되는 MBC '선을 넘는 녀석들 : 마스터-X'에서는 김구, 여운형 등 정치 지도자들이 줄줄이 암살 테러를]]></content:encoded>
+            <title><![CDATA[우지영 '단아한 매력' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829408</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829408</guid>
+            <pubDate>Sun, 07 Nov 2021 11:18:01 GMT</pubDate>
+            <content:encoded><![CDATA['2021 세종대왕 소헌왕후 선발대회'가 7일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. ‘세종대왕 소헌왕후 선발대회’는 우리 역사상 가장 위대한 성군인 세종대왕을 널리 알리고 업적을 계승, 발전시키기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[말포이X위즐리 남매, '해리포터' 20주년 앞두고 반가운 재회 [Oh!llywood] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004506130</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004506130</guid>
-            <pubDate>Sun, 07 Nov 2021 06:25:54 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=지민경 기자] 영화 '해리포터와 마법사의 돌' 20주년을 일주일 앞두고 말포이와 위즐리 남매들이 만났다. 지난 7일 톰 펠튼은 자신의 인스타그램에 "드레이코는 속으로 항상 빨강 머리가 되고 싶어 했어"라는]]></content:encoded>
+            <title><![CDATA[안태희 '우아한 발걸음' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829407</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829407</guid>
+            <pubDate>Sun, 07 Nov 2021 11:18:01 GMT</pubDate>
+            <content:encoded><![CDATA['2021 세종대왕 소헌왕후 선발대회'가 7일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. ‘세종대왕 소헌왕후 선발대회’는 우리 역사상 가장 위대한 성군인 세종대왕을 널리 알리고 업적을 계승, 발전시키기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[할리우드Y] 트래비스 스콧 공연 중 압사 사고…최소 8명 사망 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001662135</link>
-            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001662135</guid>
-            <pubDate>Sun, 07 Nov 2021 06:25:54 GMT</pubDate>
-            <content:encoded><![CDATA[래퍼 트래비스 스콧 공연에서 압사 사고가 일어나 사망자가 발생했다. BBC 등에 따르면 5일(현지시간) 밤 미국 텍사스 휴스턴에서 열린 음악 축제 '아스트로월드' 개막식 무대에서 관객 압사 사고가 일어났다. 이날 개]]></content:encoded>
+            <title><![CDATA[조윤주 '아름답게' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829406</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829406</guid>
+            <pubDate>Sun, 07 Nov 2021 11:18:01 GMT</pubDate>
+            <content:encoded><![CDATA['2021 세종대왕 소헌왕후 선발대회'가 7일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. ‘세종대왕 소헌왕후 선발대회’는 우리 역사상 가장 위대한 성군인 세종대왕을 널리 알리고 업적을 계승, 발전시키기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['환호→비명' 5만명 몰린 美래퍼 공연서 8명 사망 비극[할리웃톡] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000800194</link>
-            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000800194</guid>
-            <pubDate>Sun, 07 Nov 2021 04:27:10 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 박효실기자] 신종 코로나바이러스 감염증으로 잔뜩 움츠렸던 엔터테인먼트 업계가 서서히 활기를 되찾는 가운데, 미국에서 충격적인 야외공연 사고가 발생했다. 미국 뉴욕타임즈, US위클리 등 여러 매체에서]]></content:encoded>
+            <title><![CDATA[이예진 '설레는 워킹' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829405</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829405</guid>
+            <pubDate>Sun, 07 Nov 2021 11:18:01 GMT</pubDate>
+            <content:encoded><![CDATA['2021 세종대왕 소헌왕후 선발대회'가 7일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. ‘세종대왕 소헌왕후 선발대회’는 우리 역사상 가장 위대한 성군인 세종대왕을 널리 알리고 업적을 계승, 발전시키기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[트래비스 스캇, 공연중 8명 압사 비극에 충격 “경찰-유족 적극 지원” (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000508164</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000508164</guid>
-            <pubDate>Sun, 07 Nov 2021 03:22:10 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 미국 가수 트래비스 스캇(Travis Scott)이 공연 중 8명의 관객이 압사한 사고에 대해 공식 성명을 발표했다. 트래비스 스캇은 11월 6일(현지시간) 공식 트위터를 통해 "지난밤 발생한]]></content:encoded>
+            <title><![CDATA[윤은심 '한복의 아름다움' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829404</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829404</guid>
+            <pubDate>Sun, 07 Nov 2021 11:18:01 GMT</pubDate>
+            <content:encoded><![CDATA['2021 세종대왕 소헌왕후 선발대회'가 7일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. ‘세종대왕 소헌왕후 선발대회’는 우리 역사상 가장 위대한 성군인 세종대왕을 널리 알리고 업적을 계승, 발전시키기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[공연 중 압사사고 8명 사망..트래비스 스콧 "망연자실" 오열[Oh!llywood] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004505979</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004505979</guid>
-            <pubDate>Sun, 07 Nov 2021 03:22:10 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최나영 기자] 세계적 힙합 뮤지션 트래비스 스콧(29)이 개최한 힙합 공연에서 압사 사고가 발생해 최소 8명이 숨지고 수백 명이 다쳤다고 BBC, 로이터 등 6일(현지시간) 전했다. 보도에 따르면 5일 오]]></content:encoded>
+            <title><![CDATA[이선민 '아름다워' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829403</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829403</guid>
+            <pubDate>Sun, 07 Nov 2021 11:18:01 GMT</pubDate>
+            <content:encoded><![CDATA['2021 세종대왕 소헌왕후 선발대회'가 7일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. ‘세종대왕 소헌왕후 선발대회’는 우리 역사상 가장 위대한 성군인 세종대왕을 널리 알리고 업적을 계승, 발전시키기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[윌 스미스, 아내 불륜 알고도 이혼 안한 이유 “우리 목표=性 아냐”[할리우드비하인드] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000508153</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000508153</guid>
-            <pubDate>Sun, 07 Nov 2021 02:34:22 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 미국 배우 겸 가수 윌 스미스(Will Smith, 53)가 아내의 불륜 사실을 알고도 결혼 생활을 유지하는 이유를 밝혔다. 11월 5일(현지시간) 미국 연예 매체 피플(People)에 따르면]]></content:encoded>
+            <title><![CDATA[김영난-유슬지 '단아한 한복 자태를 뽐내' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829402</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829402</guid>
+            <pubDate>Sun, 07 Nov 2021 11:18:01 GMT</pubDate>
+            <content:encoded><![CDATA['2021 세종대왕 소헌왕후 선발대회'가 7일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. ‘세종대왕 소헌왕후 선발대회’는 우리 역사상 가장 위대한 성군인 세종대왕을 널리 알리고 업적을 계승, 발전시키기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에버 앤더슨, 母 밀라 요보비치와 다정한 투샷…완벽한 복붙 미모 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001370068</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001370068</guid>
-            <pubDate>Sun, 07 Nov 2021 01:08:33 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) 배우 에버 앤더슨이 엄마와 붕어빵 외모를 인증했다. 6일(현지시간) 에버 앤더슨은 자신의 인스타그램에 HIV, 에이즈 및 코로나19로 고통받는 이들을 위한 모금 행사에 참석한 후 사진을]]></content:encoded>
+            <title><![CDATA[정서빈 '매력적인 한복 자태' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829401</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829401</guid>
+            <pubDate>Sun, 07 Nov 2021 11:18:01 GMT</pubDate>
+            <content:encoded><![CDATA['2021 세종대왕 소헌왕후 선발대회'가 7일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. ‘세종대왕 소헌왕후 선발대회’는 우리 역사상 가장 위대한 성군인 세종대왕을 널리 알리고 업적을 계승, 발전시키기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[윌 스미스, 아내 '불륜 허용' 하면서도 행복한 이유[Oh!llywood] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004505897</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004505897</guid>
-            <pubDate>Sun, 07 Nov 2021 01:08:33 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최나영 기자] 할리우드 배우 윌 스미스(53)가 '오픈 메리지' 생활을 하고 있는 아내와의 관계에 높은 만족도를 드러냈다. 윌 스미스는 곧 출간될 자서전 '윌'의 홍보를 위해 애플 TV+ '오프라의 대화']]></content:encoded>
+            <title><![CDATA[김민아 '무대를 즐겨요' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829400</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829400</guid>
+            <pubDate>Sun, 07 Nov 2021 11:18:01 GMT</pubDate>
+            <content:encoded><![CDATA['2021 세종대왕 소헌왕후 선발대회'가 7일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. ‘세종대왕 소헌왕후 선발대회’는 우리 역사상 가장 위대한 성군인 세종대왕을 널리 알리고 업적을 계승, 발전시키기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[브리트니, 父 후견 벗어나자마자…母 거액 요구 몸살 [주말POP콘] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=018&amp;aid=0005079931</link>
-            <guid>https://entertain.naver.com/now/read?oid=018&amp;aid=0005079931</guid>
-            <pubDate>Sat, 06 Nov 2021 23:21:29 GMT</pubDate>
-            <content:encoded><![CDATA[브리트니 스피어스. [이데일리 스타in 김보영 기자] 이데일리가 한 주 간 쏟아진 팝가수 및 빌보드 이슈들을 모아 가볍게 읽을 수 있는 요약 코너를 준비했습니다. 매 주말 핫한 주간 팝소식들을 선정해 소개합니다. 팝]]></content:encoded>
+            <title><![CDATA[김미래 '즐거운 한복 패션쇼' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829399</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829399</guid>
+            <pubDate>Sun, 07 Nov 2021 11:18:01 GMT</pubDate>
+            <content:encoded><![CDATA['2021 세종대왕 소헌왕후 선발대회'가 7일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. ‘세종대왕 소헌왕후 선발대회’는 우리 역사상 가장 위대한 성군인 세종대왕을 널리 알리고 업적을 계승, 발전시키기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[조지 클루니 “쌍둥이 사진 노출하지 말아달라, 테러단체 표적된다” 호소[해외이슈] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003553075</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003553075</guid>
-            <pubDate>Sat, 06 Nov 2021 21:19:12 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 조지 클루니가 영국 ‘데일리 메일’을 비롯한 몇몇 매체에 자신의 자녀 사진을 보도하지 말아달라고 요구했다. 5일(현지시간) BBC에 따르면, 조지 클루니는 “아내가 하는 일]]></content:encoded>
+            <title><![CDATA[김진영 '단아한 미소' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829398</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829398</guid>
+            <pubDate>Sun, 07 Nov 2021 11:18:01 GMT</pubDate>
+            <content:encoded><![CDATA['2021 세종대왕 소헌왕후 선발대회'가 7일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. ‘세종대왕 소헌왕후 선발대회’는 우리 역사상 가장 위대한 성군인 세종대왕을 널리 알리고 업적을 계승, 발전시키기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[크리스틴 스튜어트, 동성연인이 끼워준 약혼반지 가격은 296만원[해외이슈] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003552961</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003552961</guid>
-            <pubDate>Sat, 06 Nov 2021 05:19:47 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]최근 동성연인 딜런 마이어와 약혼한 크리스틴 스튜어트의 반지에 관심이 쏠리고 있다. 크리스틴 스튜어트는 2일(현지시간) 라디오 채널 시리우스XM의 ‘하워드 스턴 쇼’에 출연해 약혼 사실을]]></content:encoded>
+            <title><![CDATA[박정현-서가은 '우아한 한복 자태' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829397</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829397</guid>
+            <pubDate>Sun, 07 Nov 2021 11:18:01 GMT</pubDate>
+            <content:encoded><![CDATA['2021 세종대왕 소헌왕후 선발대회'가 7일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. ‘세종대왕 소헌왕후 선발대회’는 우리 역사상 가장 위대한 성군인 세종대왕을 널리 알리고 업적을 계승, 발전시키기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[41살 킴 카다시안, 14살 연하 피트 데이비슨과 열애 “진심으로 애정어린 데이트”[해외이슈] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003552862</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003552862</guid>
-            <pubDate>Fri, 05 Nov 2021 21:20:36 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]카니예 웨스트와 이혼한 할리우드 모델 킴 카다시안(41)과 인기 코미디언 피트 데이비슨(27)의 열애설이 연일 화제다. 연예매체 페이지식스는 4일(현지시간) 관계자의 말을 인용해, 이들의]]></content:encoded>
+            <title><![CDATA[이수영-허연수 '소헌왕후 선발대회 참가' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829396</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829396</guid>
+            <pubDate>Sun, 07 Nov 2021 11:18:01 GMT</pubDate>
+            <content:encoded><![CDATA['2021 세종대왕 소헌왕후 선발대회'가 7일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. ‘세종대왕 소헌왕후 선발대회’는 우리 역사상 가장 위대한 성군인 세종대왕을 널리 알리고 업적을 계승, 발전시키기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아누팜, '오징어 게임' 199번 달고 준PO 시구 [MK화보] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828876</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828876</guid>
-            <pubDate>Fri, 05 Nov 2021 10:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[5일 오후 잠실야구장에서 2021 KBO리그 준PO 2차전 LG 트윈스와 두산 베어스의 경기가 벌어졌다. 이날 경기에서 ‘오징어 게임’에 출연해 인기를 끌었던 인도 출신 배우 아누팜(배역 알리)이 '오징어 게임'에서]]></content:encoded>
+            <title><![CDATA[황윤희 '단아한 미소' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829395</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829395</guid>
+            <pubDate>Sun, 07 Nov 2021 11:18:01 GMT</pubDate>
+            <content:encoded><![CDATA['2021 세종대왕 소헌왕후 선발대회'가 7일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. ‘세종대왕 소헌왕후 선발대회’는 우리 역사상 가장 위대한 성군인 세종대왕을 널리 알리고 업적을 계승, 발전시키기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아누팜 '시구 기념구 받는 오징어 게임 알리' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828875</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828875</guid>
-            <pubDate>Fri, 05 Nov 2021 10:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[5일 오후 잠실야구장에서 2021 KBO리그 준PO 2차전 LG 트윈스와 두산 베어스의 경기가 벌어졌다. 이날 경기에서 ‘오징어 게임’에 출연해 인기를 끌었던 인도 출신 배우 아누팜(배역 알리)이 '오징어 게임'에서]]></content:encoded>
+            <title><![CDATA[최설화 '한복 워킹' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829394</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829394</guid>
+            <pubDate>Sun, 07 Nov 2021 11:18:01 GMT</pubDate>
+            <content:encoded><![CDATA['2021 세종대왕 소헌왕후 선발대회'가 7일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. ‘세종대왕 소헌왕후 선발대회’는 우리 역사상 가장 위대한 성군인 세종대왕을 널리 알리고 업적을 계승, 발전시키기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['오징어 게임' 아누팜 '두산의 승리 기원 시구' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828873</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828873</guid>
-            <pubDate>Fri, 05 Nov 2021 10:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[5일 오후 잠실야구장에서 2021 KBO리그 준PO 2차전 LG 트윈스와 두산 베어스의 경기가 벌어졌다. 이날 경기에서 ‘오징어 게임’에 출연해 인기를 끌었던 인도 출신 배우 아누팜(배역 알리)이 '오징어 게임'에서]]></content:encoded>
+            <title><![CDATA[조민경 '아름답다' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829393</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829393</guid>
+            <pubDate>Sun, 07 Nov 2021 11:18:01 GMT</pubDate>
+            <content:encoded><![CDATA['2021 세종대왕 소헌왕후 선발대회'가 7일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. ‘세종대왕 소헌왕후 선발대회’는 우리 역사상 가장 위대한 성군인 세종대왕을 널리 알리고 업적을 계승, 발전시키기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아누팜 '야구팬들 박수 받으며 시구' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828871</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828871</guid>
-            <pubDate>Fri, 05 Nov 2021 10:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[5일 오후 잠실야구장에서 2021 KBO리그 준PO 2차전 LG 트윈스와 두산 베어스의 경기가 벌어졌다. 이날 경기에서 ‘오징어 게임’에 출연해 인기를 끌었던 인도 출신 배우 아누팜(배역 알리)이 '오징어 게임'에서]]></content:encoded>
+            <title><![CDATA[오민지 '아름다운 미소' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829392</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829392</guid>
+            <pubDate>Sun, 07 Nov 2021 11:18:01 GMT</pubDate>
+            <content:encoded><![CDATA['2021 세종대왕 소헌왕후 선발대회'가 7일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. ‘세종대왕 소헌왕후 선발대회’는 우리 역사상 가장 위대한 성군인 세종대왕을 널리 알리고 업적을 계승, 발전시키기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아누팜 '오징어 게임 199번 달고 시구' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828870</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000828870</guid>
-            <pubDate>Fri, 05 Nov 2021 10:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[5일 오후 잠실야구장에서 2021 KBO리그 준PO 2차전 LG 트윈스와 두산 베어스의 경기가 벌어졌다. 이날 경기에서 ‘오징어 게임’에 출연해 인기를 끌었던 인도 출신 배우 아누팜(배역 알리)이 '오징어 게임'에서]]></content:encoded>
+            <title><![CDATA[유다윤 '우아한 발걸음' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829391</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829391</guid>
+            <pubDate>Sun, 07 Nov 2021 11:18:01 GMT</pubDate>
+            <content:encoded><![CDATA['2021 세종대왕 소헌왕후 선발대회'가 7일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. ‘세종대왕 소헌왕후 선발대회’는 우리 역사상 가장 위대한 성군인 세종대왕을 널리 알리고 업적을 계승, 발전시키기]]></content:encoded>
         </item>
     </channel>
 </rss>

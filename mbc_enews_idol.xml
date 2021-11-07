@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Nov 2021 10:23:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Nov 2021 11:18:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김재환=‘엔딩요정’, 윤지성 “첫 글자에 누군지 알아. 워너원의 목소리” (복가)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/330010</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/330010</guid>
+            <pubDate>Sun, 07 Nov 2021 11:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/330010">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/07/X0M7uaVtCbJ0637719116217198584.jpg" alt="김재환=‘엔딩요정’, 윤지성 “첫 글자에 누군지 알아. 워너원의 목소리” (복가)">        <div class="text-box">            <p class="summary">김재환=‘엔딩요정’, 윤지성 “첫 글자에 누군지 알아. 워너원의 목소리” (복가)</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/07/X0M7uaVtCbJ0637719116217198584.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[B1A4, '거대한 말' 디지털 커버+티저 이미지 공개 "산들 입대 전 마지막 신보"]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/329995</link>
@@ -86,14 +94,6 @@
             <pubDate>Sat, 06 Nov 2021 08:23:20 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329941">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/06/XKvYhQuV2fYX637718131740255988.jpg" alt="'쇼! 음악중심' 전소미, 독보적 비주얼… 'XOXO'로 화려한 컴백">        <div class="text-box">            <p class="summary">'쇼! 음악중심' 전소미, 독보적 비주얼… 'XOXO'로 화려한 컴백</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/06/XKvYhQuV2fYX637718131740255988.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현우 "우연히 기광이 몸 봤다"… 이기광 "노출증 아니야" (브래드PT&GYM캐리)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329932</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329932</guid>
-            <pubDate>Sat, 06 Nov 2021 02:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329932">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/06/RvhAuOKjowrh637717939439276319.jpg" alt="현우 " 우연히="" 기광이="" 몸="" 봤다"…="" 이기광="" "노출증="" 아니야"="" (브래드pt&gym캐리)"="">        <div class="text-box">            <p class="summary">현우 "우연히 기광이 몸 봤다"… 이기광 "노출증 아니야" (브래드PT&amp;GYM캐리)</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/06/RvhAuOKjowrh637717939439276319.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
