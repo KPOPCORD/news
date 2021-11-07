@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-07T20:21:33.197Z</updated>
+    <updated>2021-11-07T21:18:49.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BTS 정국, 기타 치는 잘생긴 남자]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001370409</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001370409"/>
+        <updated>2021-11-07T21:18:01.251Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 방탄소년단(BTS) 정국의 비주얼이 눈길을 끈다. 최근 버티컬 시어터 애플리케이션 '스매쉬'(smash.) 공식 트위터 계정은 스매쉬 시티에서 휴가를 보내는 방탄소년단 멤버 정국의 모습이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘순정마초’ 이찬원, ‘남자의 다짐’ 유튜브 100만 스트리밍 돌파]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001370408</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001370408"/>
+        <updated>2021-11-07T21:18:01.252Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 이찬원의 ‘남자의 다짐’ 음원이 유튜브 스트리밍 100만 회를 넘어섰다. 지난 10월 7일 이찬원 유튜브(일명 '또튜브') 채널에는 “남자의 다짐”이라는 제목의 음원이 게재됐다. 이는 이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영탁, 아이돌차트 10월 기부스타 1위]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001370390</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000800281"/>
         <updated>2021-11-07T06:25:41.432Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 정하은기자]가수 김종국이 해외 유명 헬스 유튜버 그렉 듀셋이 제기한 ‘로이더’(약물로 근육을 키우는 사람) 의혹에 재차 반박했다. 7일 오후 김종국은 자신의 유튜브 채널 ‘GYM종국’ 유튜브 커뮤니티]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTS 진, tvN ‘지리산’ 네 번째 OST 금일 발매…감미로운 음색 뽐내]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001370228</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001370228"/>
-        <updated>2021-11-07T06:25:41.432Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 세계적인 그룹 방탄소년단(BTS)의 진이 부른 tvN ‘지리산’ OST가 금일 6시 발매된다. 자신들의 생명을 걸고 산을 지키며 진실을 밝히려는 레인저 ‘이강’(전지현 분)과 ‘현조’(주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아름다운 청년' 임영웅, '잊어야 한다는 마음으로' 100만뷰]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003002717</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003002717"/>
-        <updated>2021-11-07T06:25:41.432Z</updated>
-        <content type="html"><![CDATA['아름다운 청년' 임영웅의 '잊어야 한다는 마음으로' 영상이 100만 뷰를 넘어섰다. 지난 5월 6일 유튜브 채널 미스&amp;미스터트롯 공식계정에 공개된 '임영웅 '잊어야 한다는 마음으로' 뽕숭아학당' 영상은 11월 7일]]></content>
     </entry>
 </feed>
