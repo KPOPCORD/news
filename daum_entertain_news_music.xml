@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-07T06:25:54.738Z</updated>
+    <updated>2021-11-07T07:21:49.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['컬투쇼' 라붐 "'상상더하기' 역주행, 실감 나지 않았다"]]></title>
+        <id>https://entertain.v.daum.net/v/20211107161355036</id>
+        <link href="https://entertain.v.daum.net/v/20211107161355036"/>
+        <updated>2021-11-07T07:21:19.083Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 그룹 라붐이 역주행 신화를 썼던 과거를 회상했다. 7일 오후 방송된 SBS 파워FM '두시탈출 컬투쇼'에는 라붐(소연, 진예, 해인, 솔빈)이 게스트로 출연했다. 이날 라붐은 시작부터 "신곡을 홍보하러 나왔다"며 대놓고 신곡을 홍보함과 동시에 "이미 정주행 활약을 펼치고 있다. '상상더하기'처럼 큰 사랑을 받는 게 이번 활동의]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임영웅 '어느날 문득' 유튜브 1600만뷰 돌파, 꾸준한 인기]]></title>
+        <id>https://entertain.v.daum.net/v/20211107161053966</id>
+        <link href="https://entertain.v.daum.net/v/20211107161053966"/>
+        <updated>2021-11-07T07:21:19.084Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 가수 임영웅이 부른 '어느날 문득' 무대 영상이 1,600만 뷰를 기록했다. 지난해 10월 9일 임영웅 공식 유튜브 채널을 통해 공개된 임영웅의 '어느날 문득' 공연 영상은 최근 조회수 1,600만 건을 돌파했다. 해당 영상은 임영웅이 지난해 방영된 TV조선 트로트 서바이벌 프로그램 '사랑의 콜센타'에서 선보인 무대 영상이다. 1년]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김종국, 뜬금없는 로이더 논란에 "참 황당하다"]]></title>
         <id>https://entertain.v.daum.net/v/20211107152207828</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211107102653088"/>
         <updated>2021-11-07T02:33:51.580Z</updated>
         <content type="html"><![CDATA[[OSEN=지민경 기자]&nbsp;'무대천재' 원어스(ONEUS)가 독보적인 콘셉트로 6개월 만에 컴백한다. 원어스는 9일 오후 6시 각종 음원 사이트를 통해 여섯 번째 미니앨범 'BLOOD MOON'(블러드 문)을 발표한다.&nbsp; 신보에는 타이틀곡 '월하미인 (月下美人 : LUNA)'을 비롯해 'Intro : 창 (窓 : Window) (Feat. 최예림)', '사랑]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단 진, '지리산' OST 'Yours' 오늘 전세계 동시 발매]]></title>
-        <id>https://entertain.v.daum.net/v/20211107100658771</id>
-        <link href="https://entertain.v.daum.net/v/20211107100658771"/>
-        <updated>2021-11-07T01:08:04.410Z</updated>
-        <content type="html"><![CDATA[[OSEN=지민경 기자]&nbsp;세계적인 그룹 ‘방탄소년단’의 ‘진’이 부른 tvN ‘지리산’ OST가 금일 6시 발매된다. 자신들의 생명을 걸고 산을 지키며 진실을 밝히려는 레인저 ‘이강’(전지현 분)과 ‘현조’(주지훈 분)의 이야기를 그린 tvN ‘지리산’. 미스터리의 실체를 향한 추적이 시작되고, 현조(주지훈 분)가 지리산에서 일어나는 죽음의 환영을 보게 된]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리밋, 7개월 만에 신곡 '비가 내려와' 발매..애절 보이스 '기대']]></title>
-        <id>https://entertain.v.daum.net/v/20211107095211508</id>
-        <link href="https://entertain.v.daum.net/v/20211107095211508"/>
-        <updated>2021-11-07T01:08:04.411Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;가수&nbsp;리밋(Limit)이&nbsp;애틋한&nbsp;이별&nbsp;감성을&nbsp;선사한다. 리밋(Limit)은&nbsp;7일&nbsp;오후&nbsp;6시&nbsp;각종&nbsp;온라인&nbsp;음원&nbsp;사이트를&nbsp;통해&nbsp;새&nbsp;싱글&nbsp;'비가&nbsp;내려와'를&nbsp;발매한다. 리밋의&nbsp;신곡은&nbsp;지난&nbsp;4월&nbsp;발매된&nbsp;‘멈추지&nbsp;않을게&nbsp;(On&amp;On)’&nbsp;이후&nbsp;약&nbsp;7개월&nbsp;만이다.&nbsp;리밋은&nbsp;'멈추지&nbsp;않을게&nbsp;(On&amp;On)'를&nbsp;통해&nbsp;밝고&nbsp;청량한&nbsp;감성을&nbsp;전했다면&nbsp;이번&nbsp;앨]]></content>
     </entry>
 </feed>
