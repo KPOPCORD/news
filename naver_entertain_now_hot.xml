@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-08T18:25:38.636Z</updated>
+    <updated>2021-11-08T19:18:31.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단, '아메리칸 뮤직 어워즈' 무대서 '버터' 공연]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012778769</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012778769"/>
+        <updated>2021-11-08T19:18:24.532Z</updated>
+        <content type="html"><![CDATA[미 래퍼 메건 더 스탤리언과 함께 '버터' 리믹스 버전 초연 (로스앤젤레스=연합뉴스) 정윤섭 특파원 = 그룹 방탄소년단(BTS)이 미국 3대 음악 시상식 중 하나인 '아메리칸 뮤직 어워즈'(AMA) 무대에서 히트곡]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[혜리 러블리 매력 끝판왕 [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000943679</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000943679"/>
+        <updated>2021-11-08T19:18:24.533Z</updated>
+        <content type="html"><![CDATA[혜리 러블리 매력 끝판왕 [화보] 연기자 혜리의 영 캐주얼 브랜드 겨울 화보가 공개됐다. 이번 화보는 자연이 어우러진 배경에서 혜리가 지닌 특유의 무드를 담아 아름다운 하모니를 이뤄냈다. 공개된 화보 속 혜리는 다양]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘매력’이 인간이라면, 에릭남 [포토]]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000943678</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003003023"/>
         <updated>2021-11-08T13:28:44.486Z</updated>
         <content type="html"><![CDATA[배우 이규한(41)이 폭행 시비에 휘말려 검찰 조사를 받고 있다. 최근 두 편의 드라마에서 돌연 하차한데 이어 SNS 활동까지 중단한 그가 어떤 일로 불미스러운 폭행 사건에 연루됐는지 관심이 쏠린다 8일 스타뉴스 취]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['폭행 시비' 이규한 "목숨 걸고 폭행·폭언 없었다…공황장애 심해져" [전문]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003799500</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003799500"/>
-        <updated>2021-11-08T13:28:44.486Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 조윤선 기자] 배우 이규한이 폭행 시비로 검찰에 송치된 것과 관련해 입장을 밝혔다. 이규한은 8일 자신의 인스타그램에 "좋지 않은 소식을 전해드려 그저 마음이 무겁다"며 글을 올렸다. 이어 "2020년]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이규한, 폭행 시비로 검찰 송치…경찰 "양측 입장 엇갈려"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005710121</id>
-        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005710121"/>
-        <updated>2021-11-08T13:28:44.486Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 안태현 기자,정혜민 기자 = 배우 이규한(41)이 폭행 시비 속에 검찰에 송치됐다. 8일 서울 강남경찰서에 따르면 이규한은 지난해 서울 강남 인근에서 폭행을 저지른 혐의로 최근 검찰에 송치됐다. 이규]]></content>
     </entry>
 </feed>
