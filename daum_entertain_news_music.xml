@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-08T03:23:36.048Z</updated>
+    <updated>2021-11-08T04:28:58.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['쇼미더머니10' 12월 개최, 역대 최대 규모 예고]]></title>
+        <id>https://entertain.v.daum.net/v/20211108131834262</id>
+        <link href="https://entertain.v.daum.net/v/20211108131834262"/>
+        <updated>2021-11-08T04:28:29.052Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] '쇼미더머니' 콘서트가 방송 10주년을 맞아 역대 최대 규모로 꾸며진다. '쇼미더머니10'의 화제의 무대들을 현장에서 직접 만나볼 수 있는 Mnet 오리지널 콘서트가 12월 11일, 12일 이틀간 올림픽공원 KSPO DOME에서 개최된다. 이번 콘서트는 누적관객 약 3만 5천명에 도달하는 명실상부 국내 최고의 힙합 콘서트가 될]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그룹 느와르 이준용 유호연 콜라보, 첫 싱글 발표]]></title>
+        <id>https://entertain.v.daum.net/v/20211108125740811</id>
+        <link href="https://entertain.v.daum.net/v/20211108125740811"/>
+        <updated>2021-11-08T04:28:29.053Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 9인조 아이돌그룹 느와르(NOIR)의 멤버 이준용, 유호연이 데뷔 첫 디지털싱글 앨범을 발표 한다. 소속사 럭팩토리는 이준용이 보컬, 유호연이 작사, 작곡, 프로듀싱을 맡아 콜라보로 만든 디지털 싱글 앨범 ‘런(RUN)’을 11월 8일 정오에 발표한다고 밝혔다.평소 그룹 활동을 할 때에도 케미가 잘 맞았던 두 멤버는 이준용의 군입대를 앞두고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[B1A4, 신곡 '거대한 말' 라이브 트레일러 공개..산들 입대 전 뜻깊은 선물]]></title>
         <id>https://entertain.v.daum.net/v/20211108121841218</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211108103451847"/>
         <updated>2021-11-08T02:32:57.721Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 그룹 티아라(T-ARA)가 '미디어·콘텐츠' 대표주자 딩고(dingo)와 손을 잡았다. 모바일 미디어 채널 딩고는 8일 오전 10시 딩고 뮤직 유튜브 채널 커뮤니티와 공식 SNS 채널을 통해 티아라의 새 앨범 단체 티저 이미지를 공개했다. 공개된 이미지에는 카우보이를 연상케 하는 의상을 입은 티아라 멤버들의 뒷모습이 담겨 있어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경다솜, 3개월만 컴백..겨울 추위 달래주는 '위로가 필요해']]></title>
-        <id>https://entertain.v.daum.net/v/20211108102929618</id>
-        <link href="https://entertain.v.daum.net/v/20211108102929618"/>
-        <updated>2021-11-08T02:32:57.722Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 싱어송라이터 경다솜이&nbsp;따뜻한 노래로 리스터들의 추위를 달래준다. 경다솜이 3개월 만에 ‘내 맘대로 할래’에 이어 '위로가 필요해'로 컴백했다. '위로가 필요해'는 로파이 감성의 R&amp;B 장르의 곡.&nbsp;고된 하루, 사람들의 시선을 느끼는 피곤함에 대해 솔직하게 표현한 가사가 인상적이다.&nbsp; 경다솜은 이 노래에 대해 "'잘하지 않아도 된다']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진해성, 서대문 전광판 주인공]]></title>
-        <id>https://entertain.v.daum.net/v/20211108102819568</id>
-        <link href="https://entertain.v.daum.net/v/20211108102819568"/>
-        <updated>2021-11-08T02:32:57.724Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] 가수 진해성이 트롯픽 이벤트 주인공으로 선정됐다. 트롯스타 투표 웹서비스 ‘트롯픽’(trotpick)에 따르면, 진해성은 '올해 신곡 뮤비 나왔으면 대박났을 것 같은 가수는?'을 주제로한 스페셜 투표에서 8만7980 포인트를 획득해 1위를 차지했다. 이로써 진해성의 홍보 영상은 오는 11월 15일부터 11월17일까지 3일간 서울 서대문 초]]></content>
     </entry>
 </feed>
