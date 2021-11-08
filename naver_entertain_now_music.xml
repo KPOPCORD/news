@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-08T12:33:01.738Z</updated>
+    <updated>2021-11-08T13:28:56.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제 18회 자라섬 재즈페스티벌 성료]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000772949</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000772949"/>
+        <updated>2021-11-08T13:28:36.603Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] ‘가을날의 재즈 축제’ 자라섬 재즈페스티벌이 성료됐다. 지난 5일부터 7일까지 경기도 가평 자라섬에서 개최된 제18회 자라섬재즈페스티벌이 정부에서 발표한 단계적 일상회복 이행계획에 따라 문화체육관광부와]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[앳뉴스] 스페이스오디티, ‘2021 케이팝 (((레이더))) 틱톡’에서 케이팝 팬덤 유행 발표]]></title>
         <id>https://entertain.naver.com/now/read?oid=415&amp;aid=0000005945</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=415&amp;aid=0000005933"/>
         <updated>2021-11-08T08:25:09.048Z</updated>
         <content type="html"><![CDATA[[앳스타일 박승현 기자] NCT 127과 NCT DREAM이 나란히 음반 판매량 300만장을 돌파했다. 올해 5월 첫 정규 앨범을 발표한 NCT DREAM과 9월 정규 3집으로 컴백한 NCT 127은 국내를 비롯해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2AM 미니4집 ‘Ballad 21 F/W’ 활동 성료]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000772903</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000772903"/>
-        <updated>2021-11-08T08:25:09.049Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 2AM이 ‘명품 발라드 그룹’의 저력을 과시했다. 2AM은 지난 4일 Mnet ‘엠카운트다운’을 시작으로 5일 KBS2 ‘뮤직뱅크’, 6일 MBC ‘쇼! 음악중심’에 출연해 ‘Ballad 21 F/W’]]></content>
     </entry>
 </feed>
