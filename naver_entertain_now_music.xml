@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-08T13:28:56.542Z</updated>
+    <updated>2021-11-08T14:20:52.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[매드클라운, 그_냥 신곡 '이사' 피처링..'반전 조합']]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003003027</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003003027"/>
+        <updated>2021-11-08T14:20:37.065Z</updated>
+        <content type="html"><![CDATA[싱어송라이터 그_냥이 신곡 '이사'(feat.매드클라운)를 오는 13일 공개한다. 그_냥의 신곡 '이사'는 지난 6월 발표한 EP '일_기 Page.1' 이후 5개월 만에 공개되는 노래로 래퍼 매드클라운이 피처링에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제 18회 자라섬 재즈페스티벌 성료]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000772949</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003495946"/>
         <updated>2021-11-08T08:25:09.047Z</updated>
         <content type="html"><![CDATA[[헤럴드POP=김나율기자]그룹 티아라가 소속사의 지원 없이 4년 만에 완전체로 컴백한다. 8일 딩고를 통해 티아라의 새 앨범 단체 티저 이미지가 공개됐다. 티아라는 카우보이를 연상시키는 비주얼로 눈길을 끌었으며, 오]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[앳뉴스] NCT 127-NCT DREAM, 음반 판매량 300만장 돌파 ‘겹경사’]]></title>
-        <id>https://entertain.naver.com/now/read?oid=415&amp;aid=0000005933</id>
-        <link href="https://entertain.naver.com/now/read?oid=415&amp;aid=0000005933"/>
-        <updated>2021-11-08T08:25:09.048Z</updated>
-        <content type="html"><![CDATA[[앳스타일 박승현 기자] NCT 127과 NCT DREAM이 나란히 음반 판매량 300만장을 돌파했다. 올해 5월 첫 정규 앨범을 발표한 NCT DREAM과 9월 정규 3집으로 컴백한 NCT 127은 국내를 비롯해]]></content>
     </entry>
 </feed>
