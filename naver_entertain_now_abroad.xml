@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-08T06:26:53.701Z</updated>
+    <updated>2021-11-08T07:21:01.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빈 디젤, 드웨인 존슨에 화해 신청.."'분노의 질주'로 돌아오길" [Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004506650</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004506650"/>
+        <updated>2021-11-08T07:21:00.539Z</updated>
+        <content type="html"><![CDATA[[OSEN=지민경 기자] 할리우드 배우 빈 디젤이 드웨인 존슨에게 영화 '분노의 질주' 시리즈에 돌아오라며 화해의 손을 내밀었다. 빈 디젤은 지난 7일(현지 시간) 자신의 인스타그램에 "내 동생 드웨인. 때가 되었다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조지 클루니 “쌍둥이 자녀 얼굴 보도 말아달라‥테러 표적 돼” 당부]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000508660</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000508660"/>
+        <updated>2021-11-08T07:21:00.542Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 할리우드 배우 조지 클루니가 쌍둥이 자녀의 얼굴을 공개하지 말아달라는 편지를 현지 매체에 보냈다. 11월 6일(현지시간) BBC 보도에 따르면 할리우드 배우 조지 클루니는 아이들을 위험에 빠뜨]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NFC 입소하는 이용 [MK포토]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829603</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000829518"/>
         <updated>2021-11-08T02:33:25.911Z</updated>
         <content type="html"><![CDATA[배우 이정재, 박해수, 황동혁 감독, 싸이런 픽쳐스 김지연 대표, 이병헌이 미국에서 진행된 행사에 참석했다. 6일(현지시간) 미국 LA 카운티 미술관에서 ‘LACMA(LA카운티 뮤지엄) 아트+필름 갈라’가 개최됐다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['예신' 패리스힐튼, LA갈라쇼서 나홀로 웨딩드레스 가봉? [할리웃톡]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000800552</id>
-        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000800552"/>
-        <updated>2021-11-08T02:33:25.914Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 박효실기자] 뭔가 TPO에 맞지 않는 드레스였다. 지난 6일(현지시간) 미국 로스앤젤레스에서 열린 'LA카운티 뮤지엄 아트+필름 갈라(LACMA) 2021' 포토월에 선 배우 패리스 힐튼이 웨딩드레스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스티븐 연, 아내 조아나 박과 함께 美 행사 왔어요~ [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829513</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000829513"/>
-        <updated>2021-11-08T02:33:25.917Z</updated>
-        <content type="html"><![CDATA[배우 이스티븐 연이 미국에서 진행된 행사에 참석했다. 6일(현지시간) 미국 LA 카운티 미술관에서 ‘LACMA(LA카운티 뮤지엄) 아트+필름 갈라’가 개최됐다. 2021 아트+필름 갈라 행사는 현대미술과 영상예술 발]]></content>
     </entry>
 </feed>
