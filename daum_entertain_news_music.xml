@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-08T20:23:26.247Z</updated>
+    <updated>2021-11-08T21:18:40.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이찬원, '뽕디스파뤼' 속 다양한 매력 눈길]]></title>
+        <id>https://entertain.v.daum.net/v/20211109060011596</id>
+        <link href="https://entertain.v.daum.net/v/20211109060011596"/>
+        <updated>2021-11-08T21:18:10.381Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 이찬원의 다양한 매력이 눈길을 끌고 있다. 지난 4일 오후 6시 KBS 엔터테인먼트 유튜브 채널을 통해 ‘뽕디스파뤼’ 2회가 공개됐다. 이찬원의 MC 자질과 예능감, 노래까지 모든 매력을 알집으로 보여줘 ‘뽕디스파뤼’는 방송 2회 만에 팬들에게 ‘대혜자’ 프로그램으로 자리매김했다. ‘뽕디스파뤼’는 이찬원과 김종민 2MC 체제로서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단, 21일 美 '아메리칸뮤직어워드' 퍼포머 출연 확정..대상 후보 위엄]]></title>
         <id>https://entertain.v.daum.net/v/20211109003049020</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211108151729668"/>
         <updated>2021-11-08T06:26:20.337Z</updated>
         <content type="html"><![CDATA[[스포츠조선 문지연 기자] '과몰입'을 부르는 '망돌' 코튼캔디의 이야기가 온다. 8일 오후 JTBC는 새 월화드라마 'IDOL [아이돌 : The Coup]'(정윤정 극본, 노종찬 연출, 이하 '아이돌')의 제작발표회를 신종 코로나바이러스 감염증(코로나19) 확산 방지를 위한 온라인 생중계로 진행했다. 행사에는 노종찬 PD와 안희연, 곽시양]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트와이스, 17곡 하이라이트 메들리 공개]]></title>
-        <id>https://entertain.v.daum.net/v/20211108151255527</id>
-        <link href="https://entertain.v.daum.net/v/20211108151255527"/>
-        <updated>2021-11-08T06:26:20.338Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] (사진제공: JYP엔터테인먼트)그룹 트와이스가 다양한 매력을 가득 채운 정규 3집의 하이라이트 메들리를 공개했다. 트와이스는 2020년 10월 정규 2집 'Eyes wide open'(아이즈 와이드 오픈) 이후 약 1년 만인 11월 12일 새 정규 앨범 'Formula of Love: O+T=&lt;3'(포뮬러 오브 러브: O+T=&lt;3)를 발매한]]></content>
     </entry>
 </feed>
