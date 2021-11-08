@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-08T07:21:01.180Z</updated>
+    <updated>2021-11-08T08:25:22.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[칸예 웨스트, 22살 연하 한국계 모델과 열애..“어머니가 흑인 혼혈”]]></title>
+        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003799454</id>
+        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003799454"/>
+        <updated>2021-11-08T08:25:22.003Z</updated>
+        <content type="html"><![CDATA[[스포츠조선닷컴 박아람 기자] 할리우드 스타 킴 카다시안과 이혼 절차를 밟고 있는 미국 래퍼 칸예 웨스트(44)에게 22살 연하 여자친구가 생겼다. 지난 7일(현지시간) 미국 연예 매체 '페이지식스'는 웨스트와 모델]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엘르 패닝, '오징어 게임' 박해수·정호연·이정재와 인증샷…'성덕'된 오로라 공주]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001370656</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001370656"/>
+        <updated>2021-11-08T08:25:22.004Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 배우 엘르 패닝이 '오징어 게임' 출연진과의 만남을 가졌다. 7일(현지시간) 엘르 패닝은 자신의 인스타그램 스토리에 "오늘 밤의 하이라이트"라는 글과 함께 사진을 게재했다. 공개된 사진에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[빈 디젤, 드웨인 존슨에 화해 신청.."'분노의 질주'로 돌아오길" [Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004506650</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=052&amp;aid=0001662400"/>
         <updated>2021-11-08T02:33:25.911Z</updated>
         <content type="html"><![CDATA[할리우드 배우 빈 디젤이 동료 드웨인 존슨에 화해를 요청했다. 7일(현지 시각) 빈 디젤은 자신의 SNS 계정에 드웨인 존슨과의 한 장면이 담긴 영화 '분노의 질주' 스틸컷을 게시하며 "내 동생 드웨인에게"라는 서두]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에릭남, 美 ‘LACMA’ 참석…시크한 눈빛 [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829521</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000829521"/>
-        <updated>2021-11-08T02:33:25.911Z</updated>
-        <content type="html"><![CDATA[가수 에릭남이 미국에서 진행된 행사에 참석했다. 6일(현지시간) 미국 LA 카운티 미술관에서 ‘LACMA(LA카운티 뮤지엄) 아트+필름 갈라’가 개최됐다. 2021 아트+필름 갈라 행사는 현대미술과 영상예술 발전을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이정재·박해수·이병헌, 美 행사 참석…뜨거운 ‘오징어게임’ 열풍 [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829518</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000829518"/>
-        <updated>2021-11-08T02:33:25.911Z</updated>
-        <content type="html"><![CDATA[배우 이정재, 박해수, 황동혁 감독, 싸이런 픽쳐스 김지연 대표, 이병헌이 미국에서 진행된 행사에 참석했다. 6일(현지시간) 미국 LA 카운티 미술관에서 ‘LACMA(LA카운티 뮤지엄) 아트+필름 갈라’가 개최됐다.]]></content>
     </entry>
 </feed>

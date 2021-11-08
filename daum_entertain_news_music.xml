@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-08T07:21:01.172Z</updated>
+    <updated>2021-11-08T08:25:22.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[티아라, 4년 만에 새 앨범 발매..15일 컴백 확정]]></title>
+        <id>https://entertain.v.daum.net/v/20211108171017737</id>
+        <link href="https://entertain.v.daum.net/v/20211108171017737"/>
+        <updated>2021-11-08T08:24:52.224Z</updated>
+        <content type="html"><![CDATA[[OSEN=지민경 기자]&nbsp;그룹&nbsp;티아라(T-ARA)가 '미디어·콘텐츠' 대표주자 딩고(dingo)와 손을 잡았다.&nbsp; 모바일 미디어 채널 딩고는 8일 오전 10시 딩고 뮤직 유튜브 채널 커뮤니티와 공식 SNS 채널을 통해&nbsp;티아라의 새 앨범 단체 티저 이미지를 공개했다.&nbsp; 공개된 이미지에는 카우보이를 연상케 하는 의상을 입은&nbsp;티아라&nbsp;멤버들의 뒷모습이 담겨 있어]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가호·준·린지, 2년만에 대면 콘서트.."팬들과 함께할 수 있어 행복"]]></title>
+        <id>https://entertain.v.daum.net/v/20211108164123823</id>
+        <link href="https://entertain.v.daum.net/v/20211108164123823"/>
+        <updated>2021-11-08T08:24:52.230Z</updated>
+        <content type="html"><![CDATA[[OSEN=지민경 기자]&nbsp;플라네타리움 레코드 소속 아티스트 가호,&nbsp;준,&nbsp;린지가 오랜만에 대면으로 관객과 함께하는 콘서트를 마치며 위드코로나를 시작했다. 가호,&nbsp;준,&nbsp;린지는 지난&nbsp;11월&nbsp;5일 노들섬 라이브 하우스에서 한강 노들섬 개장&nbsp;2주년 기획 공연&nbsp;‘더 원더 윅스(THE WONDER WEEKS)’의 무대를 가졌다. 이번 공연은 플라네타리움 레코드가 코로나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["챕터2 시작" 라붐, 역주행 기적으로 만난 새로운 기회]]></title>
         <id>https://entertain.v.daum.net/v/20211108153627381</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211108135739465"/>
         <updated>2021-11-08T05:19:10.179Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] '팝페라 퀸' 팝페라 가수&nbsp;이사벨이 제1회 '개더링 2021' 오프닝 무대를 장식했다. 올해 처음으로 열린 제1회 '2021 차세대 해외입양 동포 모국 방문'(일명 '개더링 2021')은 해외 입양인들의 모국과 유대감을 강화하고 네트워킹 장을 마련하고자 재외동포재단과 외교부가 함께 준비했으며 11월 6일부터 8일까지 3일간 온·오프]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세븐틴 'Attacca', 가온차트 10월 리테일 앨범차트 1위]]></title>
-        <id>https://entertain.v.daum.net/v/20211108132916554</id>
-        <link href="https://entertain.v.daum.net/v/20211108132916554"/>
-        <updated>2021-11-08T05:19:10.181Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이덕행 기자] /사진=가온차트세븐틴의 9th Mini Album `Attacca`가 가온 10월 월간 리테일 앨범차트에서 1위의 영예를 안았다. 10월 22일에 발매된 세븐틴의 9th Mini Album `Attacca`는 발매 주간인 2021년 43주차 리테일 앨범차트에서 1위에 랭크되며 2주 연속 1위를 유지한 바 있다. 월간 리테일 앨범차트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['쇼미더머니10' 12월 개최, 역대 최대 규모 예고]]></title>
-        <id>https://entertain.v.daum.net/v/20211108131834262</id>
-        <link href="https://entertain.v.daum.net/v/20211108131834262"/>
-        <updated>2021-11-08T04:28:29.052Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] '쇼미더머니' 콘서트가 방송 10주년을 맞아 역대 최대 규모로 꾸며진다. '쇼미더머니10'의 화제의 무대들을 현장에서 직접 만나볼 수 있는 Mnet 오리지널 콘서트가 12월 11일, 12일 이틀간 올림픽공원 KSPO DOME에서 개최된다. 이번 콘서트는 누적관객 약 3만 5천명에 도달하는 명실상부 국내 최고의 힙합 콘서트가 될]]></content>
     </entry>
 </feed>
