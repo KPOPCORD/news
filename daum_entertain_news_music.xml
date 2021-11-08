@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-08T15:22:49.741Z</updated>
+    <updated>2021-11-08T16:33:21.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단, 21일 美 '아메리칸뮤직어워드' 퍼포머 출연 확정..대상 후보 위엄]]></title>
+        <id>https://entertain.v.daum.net/v/20211109003049020</id>
+        <link href="https://entertain.v.daum.net/v/20211109003049020"/>
+        <updated>2021-11-08T16:32:40.976Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 방탄소년단(RM, 진, 슈가, 제이홉, 지민, 뷔, 정국)이 미국 대중음악 시상식 '2021 아메리칸 뮤직 어워드(2021 American Music Awards, 이하 AMAs)' 출연을 확정했다. 방탄소년단은 11월 8일(미국 현지시간 기준) 공식 SNS를 통해 11월 21일 미국 로스앤젤레스(LA)에서 진행되는 'AMAs]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['징크스' 강찬희 종영소감 "로맨스 어렵지만 재밌어"]]></title>
         <id>https://entertain.v.daum.net/v/20211108184030070</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211108151255527"/>
         <updated>2021-11-08T06:26:20.338Z</updated>
         <content type="html"><![CDATA[[동아닷컴] (사진제공: JYP엔터테인먼트)그룹 트와이스가 다양한 매력을 가득 채운 정규 3집의 하이라이트 메들리를 공개했다. 트와이스는 2020년 10월 정규 2집 'Eyes wide open'(아이즈 와이드 오픈) 이후 약 1년 만인 11월 12일 새 정규 앨범 'Formula of Love: O+T=&lt;3'(포뮬러 오브 러브: O+T=&lt;3)를 발매한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트와이스, 정규 3집 하이라이트 메들리 공개..고퀄리티 음악 예고]]></title>
-        <id>https://entertain.v.daum.net/v/20211108145316676</id>
-        <link href="https://entertain.v.daum.net/v/20211108145316676"/>
-        <updated>2021-11-08T06:26:20.341Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이덕행 기자] /사진=JYP 엔터테인먼트컴백을 나흘 앞둔 트와이스가 다양한 매력을 가득 채운 정규 3집의 하이라이트 메들리를 공개하고 열기를 고조시켰다. 트와이스는 2020년 10월 정규 2집 'Eyes wide open'(아이즈 와이드 오픈) 이후 약 1년 만인 11월 12일 새 정규 앨범 'Formula of Love: O+T=&lt;3'(포뮬러]]></content>
     </entry>
 </feed>

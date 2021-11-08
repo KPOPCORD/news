@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-08T15:22:49.746Z</updated>
+    <updated>2021-11-08T16:33:21.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단, 21일 美 ‘아메리칸뮤직어워드’ 퍼포머 출연 확정…대상 후보 위엄]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000508745</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000508745"/>
+        <updated>2021-11-08T16:33:01.177Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 방탄소년단(RM, 진, 슈가, 제이홉, 지민, 뷔, 정국)이 미국 대중음악 시상식 '2021 아메리칸 뮤직 어워드(2021 American Music Awards, 이하 AMAs)' 출연]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅, ‘최애돌 셀럽’ 11월 기부천사 1위 등극…밀알복지재단에 기부]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001370745</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010819699"/>
         <updated>2021-11-08T09:22:39.981Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]전재경 인턴 기자 = 가수 김수희가 입담을 뽐냈다. 김수희는 8일 방송된 TBS FM '최일구의 허리케인 라디오'에 출연해 변함없는 라이브 실력을 뽐냈다. 그는 "평상시에는 목소리를 아낄 필요가 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티아라, 4년 만에 새 앨범 발매..15일 컴백 확정 [공식]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004506678</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004506678"/>
-        <updated>2021-11-08T08:25:09.042Z</updated>
-        <content type="html"><![CDATA[[OSEN=지민경 기자] 그룹 티아라(T-ARA)가 '미디어·콘텐츠' 대표주자 딩고(dingo)와 손을 잡았다. 모바일 미디어 채널 딩고는 8일 오전 10시 딩고 뮤직 유튜브 채널 커뮤니티와 공식 SNS 채널을 통해]]></content>
     </entry>
 </feed>
