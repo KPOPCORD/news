@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Nov 2021 23:23:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 01:04:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['등교전 망설임' 아이키 "취미반 수업하는 기분" 독설]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/330051</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/330051</guid>
+            <pubDate>Mon, 08 Nov 2021 01:04:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/330051">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/08/bee857c3-4f85-49f4-b322-01c8f16b31e6.jpg" alt="'등교전 망설임' 아이키 " 취미반="" 수업하는="" 기분"="" 독설"="">        <div class="text-box">            <p class="summary">'등교전 망설임' 아이키 "취미반 수업하는 기분" 독설</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/08/bee857c3-4f85-49f4-b322-01c8f16b31e6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김재환=‘엔딩요정’, 윤지성 “첫 글자에 누군지 알아. 워너원의 목소리” (복가)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/330010</link>
@@ -86,14 +94,6 @@
             <pubDate>Sat, 06 Nov 2021 08:23:20 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329942">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/06/KYEMYXk0OEfN637718133230415315.jpg" alt="'음악중심' 박지훈, 농익은 성숙美… 글로벌 팬 마음에 '저장'">        <div class="text-box">            <p class="summary">'음악중심' 박지훈, 농익은 성숙美… 글로벌 팬 마음에 '저장'</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/06/KYEMYXk0OEfN637718133230415315.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['쇼! 음악중심' 전소미, 독보적 비주얼… 'XOXO'로 화려한 컴백]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/329941</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/329941</guid>
-            <pubDate>Sat, 06 Nov 2021 08:23:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/329941">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/06/XKvYhQuV2fYX637718131740255988.jpg" alt="'쇼! 음악중심' 전소미, 독보적 비주얼… 'XOXO'로 화려한 컴백">        <div class="text-box">            <p class="summary">'쇼! 음악중심' 전소미, 독보적 비주얼… 'XOXO'로 화려한 컴백</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/06/XKvYhQuV2fYX637718131740255988.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
