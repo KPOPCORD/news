@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-08T16:33:21.079Z</updated>
+    <updated>2021-11-08T17:26:50.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘매력’이 인간이라면, 에릭남 [포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000943678</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000943678"/>
+        <updated>2021-11-08T17:26:43.421Z</updated>
+        <content type="html"><![CDATA[‘매력’이 인간이라면, 에릭남 [포토] 가수 에릭남이 6일(현지시간) 미국 LA 카운티 미술관에서 열린 ‘LACMA 아트 필름 갈라’ 행사에 참석했다. ‘LACMA 아트 필름 갈라’는 영화 프로그램 확장을 위한 운영]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[혜리 화보, 러블리+서정적인 분위기]]></title>
         <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001619997</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005710121"/>
         <updated>2021-11-08T13:28:44.486Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 안태현 기자,정혜민 기자 = 배우 이규한(41)이 폭행 시비 속에 검찰에 송치됐다. 8일 서울 강남경찰서에 따르면 이규한은 지난해 서울 강남 인근에서 폭행을 저지른 혐의로 최근 검찰에 송치됐다. 이규]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['윤전일♥' 김보미, 출산 후 17kg 감량했다더니...군살 없이 잘록한 몸매]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003799498</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003799498"/>
-        <updated>2021-11-08T13:28:44.512Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 이우주 기자] 배우 김보미가 출산 후 완벽하게 돌아온 몸매를 자랑했다. 김보미는 8일 자신의 SNS를 통해 "안녕하세요 리우 엄마에용"이라는 글과 함께 여러 장의 사진을 게재했다. 공개된 사진 속에는]]></content>
     </entry>
 </feed>
