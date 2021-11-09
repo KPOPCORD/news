@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-09T16:34:16.669Z</updated>
+    <updated>2021-11-09T17:27:54.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오징어 게임' 시즌2 나온다…황동혁 감독 "선택의 여지 없다"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012781456</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012781456"/>
+        <updated>2021-11-09T17:27:53.554Z</updated>
+        <content type="html"><![CDATA[(로스앤젤레스 AP=연합뉴스) 넷플릭스 드라마 '오징어 게임'이 시즌2로 돌아온다고 이 드라마의 창작자인 황동혁 감독이 밝혔다. 황 감독은 8일 밤(현지시간) 미국 로스앤젤레스(LA)에서 열린 한 행사에서 AP 통신]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제임스 건, MCU '가오갤3' 촬영 첫 날 인증…"작업하는 데 큰 기쁨 안겨" [엑's 할리우드]]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001371252</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000829811"/>
         <updated>2021-11-09T07:21:44.424Z</updated>
         <content type="html"><![CDATA[배우 윤나무가 9일 진행된 SBS 새 금토드라마 '지금, 헤어지는 중입니다' 제작발표회에 참석해 포즈를 취하고 있다. 사진=SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송혜교 '그림같은 미모' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829810</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000829810"/>
-        <updated>2021-11-09T07:21:44.425Z</updated>
-        <content type="html"><![CDATA[배우 송혜교가 9일 진행된 SBS 새 금토드라마 '지금, 헤어지는 중입니다' 제작발표회에 참석해 포즈를 취하고 있다. 사진=SBS]]></content>
     </entry>
 </feed>
