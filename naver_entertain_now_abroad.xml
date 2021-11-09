@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-09T08:25:25.223Z</updated>
+    <updated>2021-11-09T09:22:33.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윌 스미스 "맞아 피 토하는 母보며 아버지 죽일 생각도.." 트라우마 고백[Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004507272</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004507272"/>
+        <updated>2021-11-09T09:22:32.810Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 할리우드 배우 윌 스미스가 체중과 함께 어린 시절의 정신적 충격의 무게도 덜어낼 수 있을까. 윌 스미스는 최근 자신의 체중 감량 여정을 담은 유튜브 콘텐츠 'Best Shape of My L]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구슬치기와 비슷한 태국의 동전던지기 놀이]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012780825</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000829807"/>
         <updated>2021-11-09T07:21:44.429Z</updated>
         <content type="html"><![CDATA[배우 박효주가 9일 진행된 SBS 새 금토드라마 '지금, 헤어지는 중입니다' 제작발표회에 참석해 포즈를 취하고 있다. 사진=SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김주헌-최희서 '매력 커플' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829806</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000829806"/>
-        <updated>2021-11-09T07:21:44.430Z</updated>
-        <content type="html"><![CDATA[배우 김주헌, 최희서가 9일 온라인으로 진행된 SBS 새 금토드라마 '지금, 헤어지는 중입니다' 제작발표회에 참석해 포즈를 취하고 있다. 사진=SBS]]></content>
     </entry>
 </feed>
