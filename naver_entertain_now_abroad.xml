@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-09T11:19:03.463Z</updated>
+    <updated>2021-11-09T12:33:46.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["레오, 이리와 봐"…베이조스, 여친과 눈 맞춘 디카프리오에 경고]]></title>
+        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004668224</id>
+        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004668224"/>
+        <updated>2021-11-09T12:33:45.489Z</updated>
+        <content type="html"><![CDATA[글로벌 기업 아마존의 창업자 겸 CEO(최고경영자)인 제프 베이조스가 할리우드 배우 레오나르도 디카프리오에게 농담 섞인 경고글을 남겼다. 제프 베이조스는 9일(이하 한국시간) 자신의 트위터에 "레오, 여기로 와 봐,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[영상]"정말 재밌어요"…태국 참전용사·여배우도 '오겜 원더풀']]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012781135</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829809</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000829809"/>
         <updated>2021-11-09T07:21:44.427Z</updated>
-        <content type="html"><![CDATA[배우 송혜교가 9일 진행된 SBS 새 금토드라마 '지금, 헤어지는 중입니다' 제작발표회에 참석해 포즈를 취하고 있다. 사진=SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송혜교 '돋보이는 각선미' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829808</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000829808"/>
-        <updated>2021-11-09T07:21:44.428Z</updated>
         <content type="html"><![CDATA[배우 송혜교가 9일 진행된 SBS 새 금토드라마 '지금, 헤어지는 중입니다' 제작발표회에 참석해 포즈를 취하고 있다. 사진=SBS]]></content>
     </entry>
 </feed>
