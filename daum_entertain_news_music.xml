@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-09T12:33:46.206Z</updated>
+    <updated>2021-11-09T13:27:22.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신인선, 대한민국 해군 호국음악회 열창]]></title>
+        <id>https://entertain.v.daum.net/v/20211109221341089</id>
+        <link href="https://entertain.v.daum.net/v/20211109221341089"/>
+        <updated>2021-11-09T13:26:47.552Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김수진 기자] 신인선과 박보검  2021 대한민국해군 호국음악회를 트로트 대세 신인선이 힘껏 달구었다. 9일 오후 서울 올림픽 공원 올림픽홀에서 열린 해군 창설 기념 76주년 대한민국해군 호국 음악회가 열렸다. 해군홍보단 출신 신인선은 '고맙소'로 등장을 알렸다. 실력파 가수답게 그는 놀라운 가창력을 뽐냈다. 노래에 이어 유쾌하게 말문을 튼 신]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임창정 측 "코로나19 양성 판정, 방역 지침 따라 치료 중"]]></title>
+        <id>https://entertain.v.daum.net/v/20211109221007028</id>
+        <link href="https://entertain.v.daum.net/v/20211109221007028"/>
+        <updated>2021-11-09T13:26:47.553Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 박상후 기자] 가수 임창정이 신종 코로나 바이러스 감염증(코로나19) 양성 판정을 받았다. 소속사 YES IM 엔터테인먼트 측은 9일 티브이데일리에 "임창정이 방송 녹화를 위해 PCR 검사를 받은 결과, 코로나19 양성 판정을 받았다"라고 밝혔다. 이어 "현재 임창정은 방역 지침에 따라 치료 중이다. 방송 활동 등 스케줄도 조율하고 있다"]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임창정 코로나19 확진..컴백 활동 적신호 "건강 최우선"]]></title>
         <id>https://entertain.v.daum.net/v/20211109212539077</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211109180220037"/>
         <updated>2021-11-09T09:22:00.088Z</updated>
         <content type="html"><![CDATA[[OSEN=지민경 기자] 그룹 원어스가 국악과 케이팝을 절묘하게 조합한 신곡 '월하미인'으로 한국의 아름다움을 세계에 알린다. 원어스는 9일 오후 6시 각종 음원사이트를 통해 여섯 번째 미니앨범 'BLOOD MOON'(블러드 문) 전곡 음원과 타이틀곡 '월하미인(月下美人 : LUNA)' 뮤직비디오를 공개했다.&nbsp; 지난 1월 데뷔 첫 정규앨범 'DEVIL' 발]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['한국의 미' 장착한 원어스의 '월하미인']]></title>
-        <id>https://entertain.v.daum.net/v/20211109180012940</id>
-        <link href="https://entertain.v.daum.net/v/20211109180012940"/>
-        <updated>2021-11-09T09:22:00.088Z</updated>
-        <content type="html"><![CDATA[그룹 원어스(ONEUS)가 한국의 미를 한껏 담아 팬들을 찾아왔다. 원어스(레이븐, 서호, 이도, 건희, 환웅, 시온)는 9일 오후 6시 여섯 번째 미니앨범 ‘BLOOD MOON’(블러드 문) 발매와 함께 타이틀곡 뮤직비디오를 공개했다. 새 미니앨범 ‘블러드 문’은 ‘적월도’의 전설에 대한 신비로운 이야기를 담아 낸 앨범이다. 전작에서 뱀파이어가 된 인간]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원어스표 서사의 정점, 동양적 색채 더한 '월하미인']]></title>
-        <id>https://entertain.v.daum.net/v/20211109180002919</id>
-        <link href="https://entertain.v.daum.net/v/20211109180002919"/>
-        <updated>2021-11-09T09:22:00.089Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 정하은기자] 그룹 원어스(ONEUS)가 명불허전 퍼포먼스와 함께 동양적인 색채의 고혹미 가득한 매력으로 돌아왔다. 원어스가 여섯 번째 미니앨범 ‘BLOOD MOON(블러드 문)’의 타이틀곡 ‘월하미인(月下美人 : LUNA)’으로 6개월만에 컴백했다. ‘밤에 피는 꽃’을 뜻하는 ‘월하미인’은 ‘가자 (LIT)’에 이어 또]]></content>
     </entry>
 </feed>
