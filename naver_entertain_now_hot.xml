@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-09T13:27:22.105Z</updated>
+    <updated>2021-11-09T14:20:51.711Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임창정, 컴백 8일 만에 코로나19 확진…"활동 잠정 중단"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012781429</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012781429"/>
+        <updated>2021-11-09T14:20:45.094Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 김정진 기자 = 가수 임창정이 컴백 8일 만에 신종 코로나바이러스 감염증(코로나19) 확진 판정을 받았다. 임창정 측은 9일 "임창정이 방송 녹화를 위해 유전자증폭(PCR) 검사를 받은 결과 코로나]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임창정 확진, 전날 이지훈♥아야네 축가]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000943930</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000943930"/>
+        <updated>2021-11-09T14:20:45.096Z</updated>
+        <content type="html"><![CDATA[임창정 확진, 전날 이지훈♥아야네 축가 가수 임창정이 코로나19 확진 판정을 받은 가운데 전날 결혼식 축가를 부른 사실이 전해졌다. 9일 소속사 측 관계자는 동아닷컴에 임창정이 이날 오후 8시께 코로나19 확진 판정]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임창정, 코로나19 확진]]></title>
+        <id>https://entertain.naver.com/now/read?oid=009&amp;aid=0004876648</id>
+        <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0004876648"/>
+        <updated>2021-11-09T14:20:45.097Z</updated>
+        <content type="html"><![CDATA[가수 임창정이 정규 17집으로 컴백한지 8일 만에 코로나19 확진 판정을 받았다. 임창정 소속사는 9일 “한 방송 촬영을 앞두고 선제 대응 차원에서 PCR검사를 받았고, 코로나19 양성 판정을 받았다”고 밝혔다. 소]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임창정, 컴백 8일만 코로나19 확진 "치료 전념할 것" [공식]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003800196</id>
+        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003800196"/>
+        <updated>2021-11-09T14:20:45.098Z</updated>
+        <content type="html"><![CDATA[[스포츠조선닷컴 이우주 기자] 가수 임창정이 컴백 8일만에 코로나19 확진 판정을 받았다. 임창정 소속사 측은 9일 "임창정이 이날 오후 8시께 코로나19 확진 판정을 받았다"고 밝혔다. 임창정 측은 활동을 중단하고]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[홍석천, 결국 SNS 상담 중단.…“돈 부탁 못 도와드려 죄송”]]></title>
+        <id>https://entertain.naver.com/now/read?oid=396&amp;aid=0000596505</id>
+        <link href="https://entertain.naver.com/now/read?oid=396&amp;aid=0000596505"/>
+        <updated>2021-11-09T14:20:45.100Z</updated>
+        <content type="html"><![CDATA[방송인 홍석천이 SNS 상담을 중단하겠다고 선언했다. 9일 홍석천은 자신의 인스타그램에 “새벽부터 드라마 촬영하고 피곤하고 지치지만 머리 비우고 싶을땐 그냥 운동으로 생각을 단순히 하자. 상담도 이제 그만하자. 내]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김승현‧한정원 이혼, 결혼 3년만 파경]]></title>
+        <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001620274</id>
+        <link href="https://entertain.naver.com/now/read?oid=057&amp;aid=0001620274"/>
+        <updated>2021-11-09T14:20:45.101Z</updated>
+        <content type="html"><![CDATA[농구 국가대표 출신 김승현과 배우 한정원이 이혼했다. 9일 스포티비뉴스는 김승현과 한정원이 결혼 3년 만에 파경을 맞았다고 보도했다. 보도에 따르면 최근 김승현과 한정원의 협의 이혼을 했고, 2018년 5월 결혼한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김승현·한정원, 결혼 3년 6개월만 파경…포털사이트 '배우자'란 삭제]]></title>
         <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003800194</id>
@@ -137,47 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003800098"/>
         <updated>2021-11-09T12:33:38.131Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 이우주 기자] 방송인 홍석천이 SNS를 통한 상담을 중단하기로 결심했다. 홍석천은 9일 자신의 SNS를 통해 "새벽부터 드라마 촬영하고 피곤하고 지치지만 머리 비우고 싶을 땐 그냥 운동으로 생각을 단]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가희, 춤추다 현타왔나..."한국에선 42세 엄마, 발리에선 40세인데"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003800096</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003800096"/>
-        <updated>2021-11-09T12:33:38.131Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 정안지 기자]그룹 애프터스쿨 출신 가희가 춤 사랑을 드러냈다. 가희는 9일 자신의 인스타그램 스토리를 통해 사진을 게재했다. 사진 속 가희는 춤 연습을 위해 연습실을 찾았다. "춤 출때 제일 행복하다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김승현, ♥한정원 이혼설…사기죄 이어 안타까운 소식 [종합]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000943903</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000943903"/>
-        <updated>2021-11-09T12:33:38.131Z</updated>
-        <content type="html"><![CDATA[김승현, ♥한정원 이혼설…사기죄 이어 안타까운 소식 [종합] 농구 국가대표 출신 김승현과 배우 한정원의 이혼설이 제기됐다. 9일 스포티비뉴스는 “김승현과 한정원이 최근 협의 이혼했다. 다만 이혼 사유는 알려지지 않았]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조정민, ‘헬로트로트’ 첫방 본방사수 독려…백스테이지 MC로 출격[M+★SNS]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001620258</id>
-        <link href="https://entertain.naver.com/now/read?oid=057&amp;aid=0001620258"/>
-        <updated>2021-11-09T12:33:38.131Z</updated>
-        <content type="html"><![CDATA[가수 조정민이 ‘헬로트로트’ 본방사수를 독려했다. 9일 오후 조정민은 자신의 공식 SNS 채널을 통해 여러 장의 사진을 공개했다. 공개된 사진에서 조정민은 환하게 웃는 모습과 우월한 비주얼로 시선을 끄는가 하면, M]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이경규 딸 이예림, 결혼식 앞두고 실종된 볼살…"소녀놀이" [TEN★]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000510464</id>
-        <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000510464"/>
-        <updated>2021-11-09T12:33:38.131Z</updated>
-        <content type="html"><![CDATA[[텐아시아=서예진 기자] 결혼을 앞둔 배우 이예림이 브라이덜 샤워 파티 인증샷을 공개했다. 이예림은 9일 자신의 SNS에 "행복한 날을 만들어준 내 소중한 친구들이랑. 소녀 놀이 처음 해보는데 너무 즐거웠어"라며 여]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이상해 며느리' 김윤지, 점점 예뻐지는 새댁...이쁘게 봐주셔서 감사[TEN★]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000510463</id>
-        <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000510463"/>
-        <updated>2021-11-09T12:33:38.143Z</updated>
-        <content type="html"><![CDATA[[텐아시아=조준원 기자] 배우 김윤지가 일상을 전했다. 김윤지는 9일 자신의 인스타그램에 "어제 동상이몽 방송보시고 정말 많은분들이 보내주신 디엠들 댓글들 읽으며 날은 춥지만 마음만은 참 따뜻한 하루 보내고 있네요!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김성주 子 김민국, "내년 지방선거 불출마합니다" 선언 '무슨 일?']]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003800078</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003800078"/>
-        <updated>2021-11-09T12:33:38.144Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 정안지 기자] 방송인 김성주의 아들 김민국이 내년 6월 지방선거 불출마를 선언(?)했다. 김민국은 9일 자신의 인스타그램을 통해 "출마 안합니다"라면서 영상 캡처 사진을 게재했다. 영상은 내년 6월]]></content>
     </entry>
 </feed>
