@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-09T09:22:33.449Z</updated>
+    <updated>2021-11-09T10:24:22.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[영상]"정말 재밌어요"…태국 참전용사·여배우도 '오겜 원더풀']]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012781135</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012781135"/>
+        <updated>2021-11-09T10:24:21.873Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 전세계적으로 흥행을 거둔 '오징어 게임'의 인기는 태국에서도 다르지 않습니다. 언론에서도 관련 기사를 심심치 않게 볼 수 있는데요. 그런 인기를 바탕으로 최근 태국에서도 오징어 게임에 나오는 한국 놀이들을 체험할 기회가 생겼습니다. 방콕 주재 한국문화원이 '한국놀이 체험전'을 마련한 겁니다. 이욱헌 주태...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윌 스미스 "맞아 피 토하는 母보며 아버지 죽일 생각도.." 트라우마 고백[Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004507272</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000829808"/>
         <updated>2021-11-09T07:21:44.428Z</updated>
         <content type="html"><![CDATA[배우 송혜교가 9일 진행된 SBS 새 금토드라마 '지금, 헤어지는 중입니다' 제작발표회에 참석해 포즈를 취하고 있다. 사진=SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박효주 '사랑스러워' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829807</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000829807"/>
-        <updated>2021-11-09T07:21:44.429Z</updated>
-        <content type="html"><![CDATA[배우 박효주가 9일 진행된 SBS 새 금토드라마 '지금, 헤어지는 중입니다' 제작발표회에 참석해 포즈를 취하고 있다. 사진=SBS]]></content>
     </entry>
 </feed>
