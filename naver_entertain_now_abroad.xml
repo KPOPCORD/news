@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-09T02:33:02.465Z</updated>
+    <updated>2021-11-09T03:22:40.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[80세 방송인 왜 이러나… "걸그룹 멤버 임신시킬 수 있어"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=417&amp;aid=0000752378</id>
+        <link href="https://entertain.naver.com/now/read?oid=417&amp;aid=0000752378"/>
+        <updated>2021-11-09T03:22:39.445Z</updated>
+        <content type="html"><![CDATA[일본 프리랜서 아나운서 토쿠미츠 카즈오(80)가 성희롱 발언으로 물의를 빚고 있다. 1941년생인 토쿠미츠 카즈오는 지난달 30일 코미디 콤비 '아사쿠사 키드' 멤버가 운영하는 유튜브 채널 '스이도바시 히카세의 이상]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021년 전 세계 박스오피스 순위에 중국 내수용 영화가 3편이나?]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003553681</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000508660"/>
         <updated>2021-11-08T07:21:00.542Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 할리우드 배우 조지 클루니가 쌍둥이 자녀의 얼굴을 공개하지 말아달라는 편지를 현지 매체에 보냈다. 11월 6일(현지시간) BBC 보도에 따르면 할리우드 배우 조지 클루니는 아이들을 위험에 빠뜨]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFC 입소하는 이용 [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000829603</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000829603"/>
-        <updated>2021-11-08T06:26:53.085Z</updated>
-        <content type="html"><![CDATA[파울루 벤투 감독이 이끄는 한국 축구대표팀이 아랍에미리트(UAE), 이라크와의 월드컵 최종예선 5·6차전을 앞두고 8일 오후 경기도 파주국가대표트레이닝센터(NFC)에 소집됐다. 2승2무(승점 8)로 이란(3승1무 승]]></content>
     </entry>
 </feed>
