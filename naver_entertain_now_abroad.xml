@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-09T04:27:57.202Z</updated>
+    <updated>2021-11-09T05:19:26.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘오징어게임’ 이정재X정호연X박해수 LA 레드카펫 포착, 다정하게 팔짱 끼고]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000508961</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000508961"/>
+        <updated>2021-11-09T05:19:25.303Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 넷플릭스 '오징어 게임' 배우들과 감독이 LA에서 포착됐다. '오징어 게임' 주연 배우인 이정재, 정호연, 박해수는 11월 8일(현지시간) 미국 로스앤젤레스에서 진행된 '오징어 게임' 스크리닝]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[태국의 참전용사도 참여한 '한국 놀이 체험전']]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012779978</id>
@@ -55,7 +62,7 @@
         <content type="html"><![CDATA[한국문화원, 태국어 발음 '오, 찡러 게임'으로 관심 유도 참전용사들·태국배우 참여 사전행사…오늘부터 체험 가능 (방콕=연합뉴스) 김남권 특파원 = 전세계적인 흥행을 거둔 넷플릭스의 한국 오리지널 드라마 '오징어 게]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[리즈 위더스푼, 얼룩말 소파에 누워..요염하기 짝이없네 [Oh!llywood]]]></title>
+        <title type="html"><![CDATA[리즈 위더스푼, 얼룩말 소파에 누워..말벅지 자랑 [Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004507019</id>
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004507019"/>
         <updated>2021-11-09T02:33:01.781Z</updated>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004667672"/>
         <updated>2021-11-08T09:22:54.728Z</updated>
         <content type="html"><![CDATA[할리우드 배우 조지 클루니가 쌍둥이 자녀의 얼굴을 공개하지 말아달라는 서한을 해외 언론에 보냈다. 영국 BBC는 조지 클루니와 그의 아내인 변호사 아말 클루니는 해외 언론에 공개 서한을 보냈다고 지난 6일(현지시간)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[칸예 웨스트, 킴 카다시안 이혼 절차→22살 연하 한국계 모델과 열애설 [엑's 해외이슈]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001370685</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001370685"/>
-        <updated>2021-11-08T09:22:54.729Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김노을 기자) 미국 래퍼 칸예 웨스트가 할리우드 스타 킴 카다시안과 이혼 절차를 밟고 있는 가운데 열애설이 불거졌다. 지난 7일(현지시간) 미국 연예매체 페이지식스는 "칸예 웨스트와 모델 비네트리아가]]></content>
     </entry>
 </feed>
