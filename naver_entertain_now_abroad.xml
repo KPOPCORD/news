@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-10T07:20:40.721Z</updated>
+    <updated>2021-11-10T08:27:08.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[영상] '눈빛 5초'에 와글…베이조스 여친, 디캐프리오 어떻게 봤길래]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012783959</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012783959"/>
+        <updated>2021-11-10T08:27:07.646Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) = 제프 베이조스(57) 아마존 창업자의 여자친구가 할리우드 스타 배우 리어내도 디캐프리오(46)를 흠모하는 듯한 눈빛으로 바라보는 동영상이 SNS에서 화제를 낳고 있습니다. 미국 한 연예매체가 8일(현지시간) 트위터에 올린 'LACMA 2021 아트+ 필름 갈라' 라는 행사 영상인데요. 베이조스의 여자...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[브리트니 동생 "미성년자 때 임신, 부모 낙태강요에 도망쳤다"[Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004507851</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004507851"/>
+        <updated>2021-11-10T08:27:07.647Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 팝스타 브리트니 스피어스의 동생이자 배우인 제이미 린 스피어스가 10대 임신 문제로 부모, 특히 아버지와 끔찍한 갈등을 겪었음을 털어놨다. 브리트니 스피어스가 아버지 제이미 스피어스와의 '독]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스 "오징어게임 시즌2 논의 중이지만 확정된 건 없다"]]></title>
         <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005715029</id>
@@ -164,20 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000830029</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000830029"/>
         <updated>2021-11-10T04:29:39.711Z</updated>
-        <content type="html"><![CDATA[가수 소유가 10일 오후 서울 강남구 서초동 모나코 스페이스에서 열린 주류 브랜드 행사에 참석해 포토타임을 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소유 '과감한 패션' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000830027</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000830027"/>
-        <updated>2021-11-10T04:29:39.712Z</updated>
-        <content type="html"><![CDATA[가수 소유가 10일 오후 서울 강남구 서초동 모나코 스페이스에서 열린 주류 브랜드 행사에 참석해 포토타임을 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소유 '상큼 하트' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000830026</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000830026"/>
-        <updated>2021-11-10T04:29:39.713Z</updated>
         <content type="html"><![CDATA[가수 소유가 10일 오후 서울 강남구 서초동 모나코 스페이스에서 열린 주류 브랜드 행사에 참석해 포토타임을 갖고 있다.]]></content>
     </entry>
 </feed>
