@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-10T05:17:42.428Z</updated>
+    <updated>2021-11-10T06:25:40.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘총기 사고 충격’ 알렉 볼드윈 근황 포착, 아내와 외출[파파라치컷]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000509545</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000509545"/>
+        <updated>2021-11-10T06:25:40.024Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 알렉 볼드윈이 아내와 외출했다. 스플래쉬닷컴은 11월 9일(현지시간) 뉴욕 길거리에서 포착된 배우 알렉 볼드윈 모습을 공개했다. 알렉 볼드윈은 이날 아내 힐라리아와 외출했다. 부부는 늦둥이 아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["무감각한 관종"..카다시안, '8명 사망' 이후 SNS 몸매자랑에 비난 쇄도 [Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004507767</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000830017</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000830017"/>
         <updated>2021-11-10T03:23:18.496Z</updated>
-        <content type="html"><![CDATA[가수 소유가 10일 오후 서울 강남구 서초동 모나코 스페이스에서 열린 주류 브랜드 행사에 참석해 포토타임을 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소유 '매력적인 스타일' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000830016</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000830016"/>
-        <updated>2021-11-10T03:23:18.497Z</updated>
         <content type="html"><![CDATA[가수 소유가 10일 오후 서울 강남구 서초동 모나코 스페이스에서 열린 주류 브랜드 행사에 참석해 포토타임을 갖고 있다.]]></content>
     </entry>
 </feed>
