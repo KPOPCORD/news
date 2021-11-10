@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-10T19:18:28.011Z</updated>
+    <updated>2021-11-10T20:24:16.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['Jimin, the Legend Maker' 방탄소년단 지민, 스스로의 삶을 신화로..예술가이자 영웅서사의 롤모델 '집중 조명']]></title>
+        <id>https://entertain.v.daum.net/v/20211111051744810</id>
+        <link href="https://entertain.v.daum.net/v/20211111051744810"/>
+        <updated>2021-11-10T20:23:45.057Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 문완식 기자] 방탄소년단 지민(BTS JIMIN)'전 세계 최고의 아이돌'로 꼽히고 있는 방탄소년단(BTS) 지민이 신화적 삶의 롤모델로 평가, 팬들의 큰 호응을 얻고 있다. 문화 매거진 쿨투라(CULTULA) 11월 호는 특집 기사를 통해 방탄소년단 각 멤버들을 조명했다. 지민을 집중 조명한 콘텐츠 기획자이자 미술학 박사 차민주는 "삶을 신]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이상번 '꽃나비 사랑', 가수보다 노래가 더 유명]]></title>
         <id>https://entertain.v.daum.net/v/20211111000003010</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211110180017228"/>
         <updated>2021-11-10T09:22:14.695Z</updated>
         <content type="html"><![CDATA[미스틱스토리 1호 걸그룹 빌리(Billlie)가 화려하게 데뷔했다. 빌리(시윤, 츠키, 수현, 하람, 문수아, 하루나)는 10일 오후 6시 첫 번째 미니앨범 ‘the Billage of perception : chapter one (더 빌리지 오브 퍼셉션 : 챕터 원)’ 발매와 함께 타이틀곡 뮤직비디오를 공개했다. ‘더 빌리지 오브 퍼셉션 : 챕터 원’은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[B1A4, 10년 함께 한 이들 향한 애틋하고 '거대한 말']]></title>
-        <id>https://entertain.v.daum.net/v/20211110180012221</id>
-        <link href="https://entertain.v.daum.net/v/20211110180012221"/>
-        <updated>2021-11-10T09:22:14.696Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] B1A4가 팬들에게 특별한 선물을 남겼다. B1A4는 11월 10일 오후 6시 신곡 '거대한 말'을 발매했다. 지난 4월 선보인 디지털 싱글 '10TIMES' 이후 7개월여만에 선보이는 완전체 신곡이다. 무엇보다 올해 데뷔 10주년을 맞이한 B1A4가 멤버 산들의 군입대를 하루 앞두고 발매한 신곡이라 의미를 더한다. '거대한]]></content>
     </entry>
 </feed>
