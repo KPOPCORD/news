@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-10T18:23:03.714Z</updated>
+    <updated>2021-11-10T19:18:28.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[상처투성이 김수현, 이설과 조사실 첫 만남 (‘어느 날’)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000944270</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000944270"/>
+        <updated>2021-11-10T19:18:19.380Z</updated>
+        <content type="html"><![CDATA[쿠팡플레이 시리즈 ‘어느 날’ 김수현과 이설이 살인 용의자와 신입 변호사로 맞닥뜨린다. 오는 11월 27일(토) 0시(금 밤 12시)에 첫 공개될 쿠팡플레이 시리즈 ‘어느 날’(감독 이명우)은 평범한 대학생에서 하룻]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주상욱, 카리스마 이방원 변신 (‘태종 이방원’)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000944269</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000944269"/>
+        <updated>2021-11-10T19:18:19.382Z</updated>
+        <content type="html"><![CDATA[KBS 1TV 새 대하드라마 ‘태종 이방원’ 주상욱이 격변의 시대를 이끌었던 리더 이방원으로 분한다. KBS 1TV 새 대하드라마 ‘태종 이방원’(연출 김형일, 심재현/ 극본 이정우)은 고려라는 구질서를 무너뜨리고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김상중 MC ‘더솔져스’ 19일 첫방송]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000944268</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000801428"/>
         <updated>2021-11-10T14:20:44.169Z</updated>
         <content type="html"><![CDATA[[스포츠서울|조현정기자]가수 겸 배우 박유천이 연예 활동 중단 위기를 맞았다. 10일 연예계에 따르면 서울중앙지법은 박유천의 매니지먼트를 위탁받은 예스페라가 박유천을 상대로 낸 방송 출연·연예 활동 금지 가처분 신청]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘라스’ 배윤정 “임신 후 25kg↑, 맘카페 등업 제일 어려워” [TV체크]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000944249</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000944249"/>
-        <updated>2021-11-10T14:20:44.169Z</updated>
-        <content type="html"><![CDATA[안무가 배윤정이 MBC ‘라디오스타’에서 11살 연하 남편과 결혼에 골인하기까지의 러브스토리를 공개한다. 최근 ‘늦깎이 엄마’에 등극한 배윤정은 시험관 시술 후기부터 임신 후 25kg이 증가한 사연까지 ‘댄스퀸’의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘멜랑꼴리아’ 임수정, 제자들과 첫만남은? [TV체크]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000944248</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000944248"/>
-        <updated>2021-11-10T14:20:44.170Z</updated>
-        <content type="html"><![CDATA[tvN 15주년 특별기획 수목드라마 '멜랑꼴리아' 임수정이 자신만의 특별한 고급수학반을 개강한다. ‘멜랑꼴리아’는 특혜 비리의 온상인 한 사립고를 배경으로, 수학 천재와 교사의 통념과 편견을 뛰어넘는, 수학보다 아름]]></content>
     </entry>
 </feed>
