@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-10T22:22:56.299Z</updated>
+    <updated>2021-11-10T23:21:29.508Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['세 아이父' 매튜 맥커너히, "어린이 백신 의무화 반대" [Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004508365</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004508365"/>
+        <updated>2021-11-10T23:21:28.886Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 할리우드 배우 매튜 맥커너히가 어린이에 대한 COVID-19(신종 코로나바이러스 감염증) 백신 의무화에 반대 입장을 표했다. 매튜 맥커너히는 자신의 세 아이들이 COVID-19 백신을 맞도록]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배우 매코너헤이 "5~11세 백신 의무화 안 돼…정보 더 필요"]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012784640</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005715430"/>
         <updated>2021-11-10T09:22:42.980Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 팝스타 레이디 가가의 근황이 공개됐다. 미국연예매체 스플래시닷컴은 9일(현지시간) 영국 런던에서 브랜드 관련 행사에 참석한 레이디 가가를 포착했다. 사진에서 레이디 가가는 망사 스타킹]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['앤트 맨' 폴 러드, 2021년 현존 최고 섹시남 선정]]></title>
-        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005715385</id>
-        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005715385"/>
-        <updated>2021-11-10T09:22:42.983Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 최서윤 기자 = 영화배우 폴 러드(52)가 올해 최고 섹시한 남성으로 꼽혔다. 대중연예전문매체 피플지는 10일(현지시간) 현재 살아있는 세계 최고의 섹시남에 러드가 선정됐다고 발표했다. 러드는 196]]></content>
     </entry>
 </feed>
