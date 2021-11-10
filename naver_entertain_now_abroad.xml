@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-10T13:26:24.623Z</updated>
+    <updated>2021-11-10T14:20:52.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[레이디 가가, 파격 시스루+망사스타킹…'디바'의 아찔한 패션]]></title>
+        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004668853</id>
+        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004668853"/>
+        <updated>2021-11-10T14:20:51.476Z</updated>
+        <content type="html"><![CDATA[팝 가수 레이디 가가가 아찔한 레드카펫 패션을 선보였다. 레이디 가가는 9일(현지시간) 영국 런던에서 열린 영화 '하우스 오브 구찌' 시사회에 참석했다. 이날 레이디 가가는 속옷이 비치는 파격적인 보랏빛 시스루 튤]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[허니제이 '추위 쯤이야, 배꼽 드러내고 화끈한 시구' [MK화보]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000830165</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012783959"/>
         <updated>2021-11-10T08:27:07.646Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) = 제프 베이조스(57) 아마존 창업자의 여자친구가 할리우드 스타 배우 리어내도 디캐프리오(46)를 흠모하는 듯한 눈빛으로 바라보는 동영상이 SNS에서 화제를 낳고 있습니다. 미국 한 연예매체가 8일(현지시간) 트위터에 올린 'LACMA 2021 아트+ 필름 갈라' 라는 행사 영상인데요. 베이조스의 여자...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브리트니 동생 "미성년자 때 임신, 부모 낙태강요에 도망쳤다"[Oh!llywood]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004507851</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004507851"/>
-        <updated>2021-11-10T08:27:07.647Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 팝스타 브리트니 스피어스의 동생이자 배우인 제이미 린 스피어스가 10대 임신 문제로 부모, 특히 아버지와 끔찍한 갈등을 겪었음을 털어놨다. 브리트니 스피어스가 아버지 제이미 스피어스와의 '독]]></content>
     </entry>
 </feed>
