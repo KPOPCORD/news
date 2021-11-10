@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-10T12:34:08.456Z</updated>
+    <updated>2021-11-10T13:26:24.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘유재하 음악경연대회’ 올해도 온라인으로 개최]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000773528</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000773528"/>
+        <updated>2021-11-10T13:26:11.471Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] ‘싱어송라이터 산실’로 불리는 32년 역사의 유재하 음악경연대회가 코로나19 여파로 지난해에 이어 올해도 온라인으로 열린다. CJ문화재단은 오는 13일 오후 7시 CJ문화재단 유튜브 채널 ‘아지트 라이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전인권, 6년만의 새 노래 ‘잔잔한 울림’]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000773527</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000773527"/>
+        <updated>2021-11-10T13:26:11.472Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] “내 고향은 우리 엄마 뱃속 혹은 커다란 우주의 한복판 살길 찾아 많은 생각 끝에 가고 가다 보니 어느새 이곳에…” ‘록의 대부’ 전인권이 6년여 만에 내놓은 새 노래의 가사 일부다. 전인권은 9일 오]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[힙합씬 콘서트, 온·오프 꾼들의 향연]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000773515</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001371610"/>
         <updated>2021-11-10T09:22:30.580Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 그룹 빌리(Billlie)가 장대한 세계관을 품은 타이틀곡 '링 바이 링'으로 화려한 데뷔를 알렸다. 빌리는 10일 오후 6시 각종 음원 사이트를 통해 첫 번째 미니앨범 'the Bill]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미스틱스토리 1호 걸그룹 빌리의 화려한 데뷔…‘링 바이 링’ [MK★컴백]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000830107</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000830107"/>
-        <updated>2021-11-10T09:22:30.581Z</updated>
-        <content type="html"><![CDATA[미스틱스토리 1호 걸그룹 빌리(Billlie)가 화려하게 데뷔했다. 빌리(시윤, 츠키, 수현, 하람, 문수아, 하루나)는 10일 오후 6시 첫 번째 미니앨범 ‘the Billage of perception : cha]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팝's신곡]"구하러 나가겠어"‥'미스틱 걸그룹' 빌리, 데뷔로 울리는 벨 'RING X RING']]></title>
-        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003496910</id>
-        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003496910"/>
-        <updated>2021-11-10T09:22:30.582Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=박서현기자] '완성형 아이돌' 걸그룹 빌리가 드디어 세상 밖으로 나온다. 10일 오후 6이 걸그룹 빌리(시윤, 츠키, 수현, 하람, 문수아, 하루나)의 첫 번째 미니앨범 'the Billage of p]]></content>
     </entry>
 </feed>
