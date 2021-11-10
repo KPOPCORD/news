@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-10T14:20:52.258Z</updated>
+    <updated>2021-11-10T15:22:13.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[나의 인생곡㊷] 이상번 '꽃나비 사랑', 가수보다 노래가 더 유명]]></title>
+        <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000115480</id>
+        <link href="https://entertain.naver.com/now/read?oid=629&amp;aid=0000115480"/>
+        <updated>2021-11-10T15:21:59.805Z</updated>
+        <content type="html"><![CDATA[트로트가 밝고 젊어졌다. 최근 몇 년 사이 방송가에 트로트 오디션 프로그램이 활성화되면서다. 전통적으로 중장년층 전유물처럼 여겨지던 트로트 팬층도 훨씬 넓고 깊고 다양해졌다. 덕분에 잊혔던 곡들이 리바이벌 돼 역주행]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단, 콘서트 DVD ‘BTS 맵 오브 더 솔’로 日 레코드협회 ‘골드’ 인증]]></title>
+        <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0001911128</id>
+        <link href="https://entertain.naver.com/now/read?oid=016&amp;aid=0001911128"/>
+        <updated>2021-11-10T15:21:59.808Z</updated>
+        <content type="html"><![CDATA[[헤럴드경제=고승희 기자] 그룹 방탄소년단이 ‘BTS 맵 더 솔 원(MAP OF THE SOUL ON:E)’ DVD로 일본 레코드협회로부터 ‘골드’ 인증을 받았다. 10일 일본 레코드협회 발표에 따르면, 지난해 10]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘유재하 음악경연대회’ 올해도 온라인으로 개최]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000773528</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000509602"/>
         <updated>2021-11-10T09:22:30.578Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] B1A4가 팬들에게 특별한 선물을 남겼다. B1A4는 11월 10일 오후 6시 신곡 '거대한 말'을 발매했다. 지난 4월 선보인 디지털 싱글 '10TIMES' 이후 7개월여만에 선보이는 완전체]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“구해줘” 빌리, 윤종신 걸그룹 당찬 출사표 ‘링 바이 링’[들어보고서]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000509601</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000509601"/>
-        <updated>2021-11-10T09:22:30.579Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 윤종신 표 아이돌 그룹 빌리(Billlie)가 가요계에 당찬 출사표를 던졌다. 빌리는 11월 10일 오후 6시 국내외 음원 사이트를 통해 미니 1집 앨범 'the Billage of perce]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빌리, '아이유 사단'에 미스터리 한 스푼…중독성 강한 '링 바이 링' [쥬크박스]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001371610</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001371610"/>
-        <updated>2021-11-10T09:22:30.580Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 그룹 빌리(Billlie)가 장대한 세계관을 품은 타이틀곡 '링 바이 링'으로 화려한 데뷔를 알렸다. 빌리는 10일 오후 6시 각종 음원 사이트를 통해 첫 번째 미니앨범 'the Bill]]></content>
     </entry>
 </feed>
