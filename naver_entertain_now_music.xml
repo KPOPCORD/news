@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-10T20:24:16.813Z</updated>
+    <updated>2021-11-10T21:17:58.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['하데스타운' 시우민·강홍석 "함께라면 누구보다 강하리라 믿어"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010825327</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010825327"/>
+        <updated>2021-11-10T21:17:44.956Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 오르페우스·헤르메스 역으로 호평 내년 2월27일까지 역삼동 LG아트센터 [서울=뉴시스]이재훈 기자 = 노래는 세상을 구원한다. 뮤지컬 '하데스타운'(극작·작곡·작사 아나이스 미첼, 연출 레이첼 챠브킨)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[살 지분 많아도 우아해~" 백지영, 파격 드레스에 수줍은 미소[★SNS]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=468&amp;aid=0000801478</id>
+        <link href="https://entertain.naver.com/now/read?oid=468&amp;aid=0000801478"/>
+        <updated>2021-11-10T21:17:44.957Z</updated>
+        <content type="html"><![CDATA[[스포츠서울|조현정기자]‘발라드의 여왕’ 백지영이 화려한 드레스를 입고 근황을 전했다. 백지영은 10일 자신의 인스타그램에 “오늘 간만에 얄딱꾸리한 옷 입었다ㅎㅎㅎ 이러케 살 지분 많은 옷은 앞으로 좀 고민해봐야지ㅋ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BTS 뷔, 팔색조 매력으로 여심 저격]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001371952</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001371952"/>
+        <updated>2021-11-10T21:17:44.965Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 방탄소년단(BTS) 뷔의 비주얼이 눈길을 끈다. 지난 8일 빅히트 뮤직 네이버 공식 계정에 “[BTS] 방탄소년단+아미=문제없스타”라는 제목의 ‘2022 방탄소년단 시즌 그리팅’ 사진이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘찬또배기’ 이찬원, ‘미운 사내’ 클린 버전 200만 뷰 돌파]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001371951</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001371951"/>
+        <updated>2021-11-10T21:17:44.967Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 이찬원의 ‘미운 사내’ 클린 버전 영상이 유튜브 조회수 200만 뷰를 넘어섰다. 지난해 10월 30일 ‘미스&amp;미스터트롯’ 공식 유튜브 채널에는 “【클린버전】이찬원 - 미운 사내. 사랑의]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임영웅 '비망록' 100만 돌파..진한 록 스피릿 '무한장르 히어로']]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003003704</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003003704"/>
+        <updated>2021-11-10T21:17:44.969Z</updated>
+        <content type="html"><![CDATA[가수 임영웅의 스무 살의 찬가 '비망록' 유튜브 음원 영상이 100만 스트리밍을 돌파했다. 임영웅이 지난 9월 7일 공식 유튜브 채널에 공개한 '비망록' 음원 영상은 11월 10일 100만 스트리밍을 넘어섰다. '비]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['Jimin, the Legend Maker' 방탄소년단 지민, 스스로의 삶을 신화로..예술가이자 영웅서사의 롤모델 '집중 조명']]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003003699</id>
@@ -144,40 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010824936"/>
         <updated>2021-11-10T10:23:32.359Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = "우리가 두려워하던 일이 이미 일어나고 있다. 심각한 변화가 지구를 아프게 하고 있다. 지구의 평균 기온이 2도 상승한다면 세계 인구의 3분의 1이 지속적으로 극심한 더위에 노출되는 것]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["책 많이 읽어라"…빌리, '소속사 선배' 김영철의 특별한 조언 [종합]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001371662</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001371662"/>
-        <updated>2021-11-10T10:23:32.360Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 그룹 빌리(Billlie)가 소속사 대표 프로듀서 윤종신, 소속사 선배 김영철에게 들은 조언을 전했다. 빌리(시윤·츠키·수현·하람·문수아·하루나)의 첫 번째 미니앨범 '더 빌리지 오브 퍼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전소미 1위…'XOXO'로 유튜브 MV 차트 휩쓸어]]></title>
-        <id>https://entertain.naver.com/now/read?oid=408&amp;aid=0000138287</id>
-        <link href="https://entertain.naver.com/now/read?oid=408&amp;aid=0000138287"/>
-        <updated>2021-11-10T10:23:32.361Z</updated>
-        <content type="html"><![CDATA[가수 전소미가 유튜브 뮤직비디오 차트 1위를 차지하며 '원톱 솔로' 타이틀을 더욱 확고히 했다. 전소미의 첫 번째 정규 앨범 'XOXO'의 동명 타이틀곡 'XOXO' 뮤직비디오는 8일 기준 한국 유튜브 뮤직비디오 톱]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘쇼! 챔피언’ 라붐, ‘Kiss Kiss’로 성숙美 발산…퍼포먼스 맛집]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000830108</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000830108"/>
-        <updated>2021-11-10T09:22:30.569Z</updated>
-        <content type="html"><![CDATA[걸그룹 라붐(LABOUM)이 화려한 퍼포먼스로 팬심을 사로잡았다. 라붐(소연, 진예, 해인, 솔빈)은 10일 오후 5시 방송된 MBC M, MBC every1 ‘쇼! 챔피언’에 출연, 무대를 완벽 장악했다. 이날 타]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빌리, 색다른 윤종신표 걸그룹..미스터리 '링 바이 링'[6시★살롱]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003003617</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003003617"/>
-        <updated>2021-11-10T09:22:30.571Z</updated>
-        <content type="html"><![CDATA['미스틱스토리 1호 걸그룹' 빌리(Billlie·시윤, 츠키, 수현, 하람, 문수아, 하루나)가 가요계 화려한 출사표를 던졌다. 빌리는 10일 오후 6시 첫 번째 미니앨범 '더 빌리지 오브 퍼셉션 : 챕터 원 (th]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세븐틴, 12월 日 스페셜 싱글 ‘아이노치카라’ 발매[공식]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001199185</id>
-        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001199185"/>
-        <updated>2021-11-10T09:22:30.573Z</updated>
-        <content type="html"><![CDATA[그룹 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)이 오는 12월 일본 컴백을 확정 지었다. 지난 9일 오후 소속사 플레디스 엔터테인먼트는 세븐틴 공식 홈페]]></content>
     </entry>
 </feed>

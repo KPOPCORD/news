@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-10T20:24:16.809Z</updated>
+    <updated>2021-11-10T21:17:58.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BTS 뷔, 팔색조 매력으로 여심 저격]]></title>
+        <id>https://entertain.v.daum.net/v/20211111060021512</id>
+        <link href="https://entertain.v.daum.net/v/20211111060021512"/>
+        <updated>2021-11-10T21:17:23.804Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 방탄소년단(BTS) 뷔의 비주얼이 눈길을 끈다. 지난 8일 빅히트 뮤직 네이버 공식 계정에 “[BTS] 방탄소년단+아미=문제없스타”라는 제목의 ‘2022 방탄소년단 시즌 그리팅’ 사진이 게재됐다. 그중 뷔는 흑발의 짧은 헤어로 찢어진 블랙진, 화려한 나염의 블랙 티셔츠를 입고 얼굴에 타투를 새겨 넣은 록스타 스타일을 하고 있다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['찬또배기' 이찬원, '미운 사내' 클린 버전 200만 뷰 돌파]]></title>
+        <id>https://entertain.v.daum.net/v/20211111060015502</id>
+        <link href="https://entertain.v.daum.net/v/20211111060015502"/>
+        <updated>2021-11-10T21:17:23.806Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 이찬원의 ‘미운 사내’ 클린 버전 영상이 유튜브 조회수 200만 뷰를 넘어섰다. 지난해 10월 30일 ‘미스&amp;미스터트롯’ 공식 유튜브 채널에는 “【클린버전】이찬원 - 미운 사내. 사랑의 콜센타 30화”이라는 제목의 영상이 게재됐다. 영상 속에는 원곡자인 유지나 앞에서 ‘미운 사내’ 무대를 열창하고 있는 이찬원의 모습이 담겨 있다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['Jimin, the Legend Maker' 방탄소년단 지민, 스스로의 삶을 신화로..예술가이자 영웅서사의 롤모델 '집중 조명']]></title>
         <id>https://entertain.v.daum.net/v/20211111051744810</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211110180114284"/>
         <updated>2021-11-10T09:22:14.688Z</updated>
         <content type="html"><![CDATA[[OSEN=이승훈 기자] 그룹 빌리(시윤, 츠키, 수현, 하람, 문수아, 하루나)가 한 편의 미스테리 동화같은 역대급 콘셉트로 K팝 시장에 당찬 출사표를 던졌다.&nbsp; 빌리(Billlie)는 오늘(10일) 오후 6시 각종 온라인 음원 사이트를 통해 첫 번째 미니앨범 'the Billage of perception : chapter one (더 빌리지 오브 퍼셉]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["그루비룸 전폭 지원"..미란이, 람보르기니 타고 질주]]></title>
-        <id>https://entertain.v.daum.net/v/20211110180105276</id>
-        <link href="https://entertain.v.daum.net/v/20211110180105276"/>
-        <updated>2021-11-10T09:22:14.694Z</updated>
-        <content type="html"><![CDATA[※알고 들으면 쓸모있는 신곡. '알쓸신곡'이 오늘의 노래를 소개합니다. 매일 쏟아지는 음원 속에서 모르고 놓치면 후회할 신곡을 추천해드립니다.  래퍼 미란이가 그루비룸의 전폭적 지원 속에 음악적 성장을 보여준다. 미란이는 10일 오후 6시 새 싱글 'Lambo!'(람보!)를 발매했다. 지난 4월 'Daisy'(데이지) 이후 7개월 만이자, 그루비룸이 수장]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미스틱스토리 1호 걸그룹 빌리의 화려한 데뷔..'링 바이 링']]></title>
-        <id>https://entertain.v.daum.net/v/20211110180017228</id>
-        <link href="https://entertain.v.daum.net/v/20211110180017228"/>
-        <updated>2021-11-10T09:22:14.695Z</updated>
-        <content type="html"><![CDATA[미스틱스토리 1호 걸그룹 빌리(Billlie)가 화려하게 데뷔했다. 빌리(시윤, 츠키, 수현, 하람, 문수아, 하루나)는 10일 오후 6시 첫 번째 미니앨범 ‘the Billage of perception : chapter one (더 빌리지 오브 퍼셉션 : 챕터 원)’ 발매와 함께 타이틀곡 뮤직비디오를 공개했다. ‘더 빌리지 오브 퍼셉션 : 챕터 원’은]]></content>
     </entry>
 </feed>

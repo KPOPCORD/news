@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-10T20:24:16.807Z</updated>
+    <updated>2021-11-10T21:17:58.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배우 매코너헤이 "5~11세 백신 의무화 안 돼…정보 더 필요"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012784640</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012784640"/>
+        <updated>2021-11-10T21:17:57.531Z</updated>
+        <content type="html"><![CDATA["백신 음모론은 지지 안 해…마스크는 자유를 위한 작은 불편" (샌프란시스코=연합뉴스) 정성호 특파원 = 할리우드 배우 매슈 매코너헤이가 어린이들에게 신종 코로나바이러스 감염증(코로나19) 백신의 접종을 의무화해선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[레이디 가가, 파격 시스루+망사스타킹…'디바'의 아찔한 패션]]></title>
         <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004668853</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005715385"/>
         <updated>2021-11-10T09:22:42.983Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 최서윤 기자 = 영화배우 폴 러드(52)가 올해 최고 섹시한 남성으로 꼽혔다. 대중연예전문매체 피플지는 10일(현지시간) 현재 살아있는 세계 최고의 섹시남에 러드가 선정됐다고 발표했다. 러드는 196]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[영상] '눈빛 5초'에 와글…베이조스 여친, 디캐프리오 어떻게 봤길래]]></title>
-        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012783959</id>
-        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012783959"/>
-        <updated>2021-11-10T08:27:07.646Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) = 제프 베이조스(57) 아마존 창업자의 여자친구가 할리우드 스타 배우 리어내도 디캐프리오(46)를 흠모하는 듯한 눈빛으로 바라보는 동영상이 SNS에서 화제를 낳고 있습니다. 미국 한 연예매체가 8일(현지시간) 트위터에 올린 'LACMA 2021 아트+ 필름 갈라' 라는 행사 영상인데요. 베이조스의 여자...]]></content>
     </entry>
 </feed>
