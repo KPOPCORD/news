@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-10T23:21:29.508Z</updated>
+    <updated>2021-11-11T01:06:47.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“내 자식들에게 코로나 백신 강요하지 마!” 매튜 맥커너히 “음모론은 아니다”[해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003554515</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003554515"/>
+        <updated>2021-11-11T01:06:46.358Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘달라스 바이어스 클럽’으로 아카데미 남우주연상을 수상하고 한국에서 ‘인터스텔라’로 인기가 높은 할리우드 스타 매튜 맥커너히(52)가 자식들에게 코로나 백신을 맞으라고 강요하지 않겠다고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['세 아이父' 매튜 맥커너히, "어린이 백신 의무화 반대" [Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004508365</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000830109"/>
         <updated>2021-11-10T10:23:46.912Z</updated>
         <content type="html"><![CDATA[10일 오후 서울 잠실구장에서 '2021 KBO 포스트시즌 플레이오프 2차전' 삼성 라이온즈와 두산 베어스 경기가 열렸다. 경기에 앞서 인기 예능 '스트릿 우먼 파이터' 에서 최종 우승한 실력파 댄서 허니제이가 시구]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[레이디 가가, 망사스타킹에 킬힐…파격 시스루 드레스까지 [N해외연예]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005715430</id>
-        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005715430"/>
-        <updated>2021-11-10T09:22:42.980Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 팝스타 레이디 가가의 근황이 공개됐다. 미국연예매체 스플래시닷컴은 9일(현지시간) 영국 런던에서 브랜드 관련 행사에 참석한 레이디 가가를 포착했다. 사진에서 레이디 가가는 망사 스타킹]]></content>
     </entry>
 </feed>
