@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-11T13:25:16.855Z</updated>
+    <updated>2021-11-11T14:21:15.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['국민가수' 이병찬 대국민 투표 1위, 2위 이솔로몬 '탈락 위기']]></title>
+        <id>https://entertain.v.daum.net/v/20211111231316835</id>
+        <link href="https://entertain.v.daum.net/v/20211111231316835"/>
+        <updated>2021-11-11T14:20:39.282Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 황서연 기자] '내일은 국민가수'에서 이병찬이 대국민 투표 1위를 수성했다. 11일 밤 방송한 TV조선 예능프로그램 '내일은 국민가수'(이하 '국민가수')에서는 본선 2차 1대 1 데스매치 무대가 펼쳐졌다. 이에 앞서 방송 시작과 함께 본선 2차 진출자 30명의 3주 차 대국민 응원 투표 순위가 공개됐다. 1위는 지난 방송에서 '아름다운 이별]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['엠카' NCT127, 더보이즈 제치고 1위..올해 마지막 방송]]></title>
         <id>https://entertain.v.daum.net/v/20211111195750379</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211111174622747"/>
         <updated>2021-11-11T09:21:15.238Z</updated>
         <content type="html"><![CDATA[[OSEN=이승훈 기자]&nbsp;그룹 라붐(솔빈, 해인, 소연, 진예)이 4인 체제로 재정비한 후 한층 더 성장한 음악으로 돌아왔다.&nbsp; 지난 3일 세 번째 미니앨범 'BLOSSOM'을 발매한 라붐은 최근 OSEN과 컴백 기념 인터뷰를 진행했다.&nbsp; 이날 라붐 솔빈은 "'라붐'이라는 이름으로 활동을 이어나가고 싶었던 마음이 가장 컸다. 네 사람 모두 같은 생각이어서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더보이즈, 신곡 '매버릭' 음악방송 2관왕..팬콘 앞두고 본격 트로피 사냥]]></title>
-        <id>https://entertain.v.daum.net/v/20211111173557414</id>
-        <link href="https://entertain.v.daum.net/v/20211111173557414"/>
-        <updated>2021-11-11T09:21:15.239Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박은해 기자] 그룹 더보이즈(THE BOYZ)가 신곡 ‘매버릭(MAVERICK)’으로 음악방송 2관왕을 차지했다. 더보이즈는 11월 10일 방송된 MBC M, MBC every1 음악 프로그램 '쇼! 챔피언'에서 싱글 3집 타이틀곡 ‘매버릭’으로 ‘챔피언 송’을 거머쥐었다. 앞서 11월 9일에는 SBS MTV ‘더쇼’에서 컴백 후 첫 1위에 올랐]]></content>
     </entry>
 </feed>
