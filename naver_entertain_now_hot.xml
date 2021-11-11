@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-11T16:32:39.226Z</updated>
+    <updated>2021-11-11T17:27:05.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이지훈·한채영·지이수, 포스터 공개 (‘스폰서’)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000944532</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000944532"/>
+        <updated>2021-11-11T17:26:58.625Z</updated>
+        <content type="html"><![CDATA[‘스폰서’ 이지훈, 한채영, 지이수가 각기 다른 뒤틀린 욕망 서사를 그려낸다. 오는 29일(월) 밤 10시 30분 첫 방송 되는 새 월화드라마 ‘스폰서’(연출 이철/ 극본 한희정) 측은 이지훈, 한채영, 지이수의 2]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전현무, 3년만에 컴백 ‘무지개 달력’ 촬영 (나혼산)]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000944531</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000944522"/>
         <updated>2021-11-11T14:21:07.045Z</updated>
         <content type="html"><![CDATA[11일 SBS '꼬리에 꼬리를 무는 그날 이야기'(이하 '꼬꼬무') 에서는 1991년 소말리아 내전 당시 남과 북이 함께한 소말리아 수도 모가디슈 탈출기를 장트리오의 이야기와 현지에 있던 인물들의 증언을 통해 생생하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘멜랑꼴리아’ 이도현, 임수정이 찾던 천재…변화 맞이 [TV체크]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000944521</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000944521"/>
-        <updated>2021-11-11T13:25:09.366Z</updated>
-        <content type="html"><![CDATA[tvN 15주년 특별기획 수목드라마 '멜랑꼴리아' 이도현의 숨길 수 없는 천재성이 드러난다. tvN 15주년 특별기획 수목드라마 ‘멜랑꼴리아’(극본 김지운/ 연출 김상협)가 수학 교사 지윤수(임수정 분)와 수학 천재]]></content>
     </entry>
 </feed>
