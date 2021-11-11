@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-11T14:21:15.243Z</updated>
+    <updated>2021-11-11T15:22:38.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이이언·데이먼스 이어, 델리스파이스 '챠우챠우' 리메이크]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010828000</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010828000"/>
+        <updated>2021-11-11T15:22:22.289Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]김예지 인턴 기자 = 밴드 '못'의 이이언과 뮤지션 데이먼스 이어가 1세대 모던 록밴드 '델리스파이스'의 '챠우챠우'를 리메이크한 음원을 12일 오후 6시에 공개한다. 카카오엔터테인먼트의 '고백 프로젝]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엑소 카이, 1년 만에 솔로 컴백…30일 새 앨범 ‘Peaches’ 발매]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000830633</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000830633"/>
+        <updated>2021-11-11T15:22:22.290Z</updated>
+        <content type="html"><![CDATA[엑소 카이가 1년 만에 솔로 가수로 컴백한다. 카이의 두 번째 미니앨범 ‘Peaches’(피치스)는 오는 30일 발매되며, 다양한 분위기의 총 6곡이 수록되어 있다. 카이는 작년 11월 첫 미니앨범 ‘KAI’로 솔로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하이브 레이블즈, 日 오리콘 앨범 랭킹+골드 디스크 인증…막강 파워 과시]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000830630</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003003976"/>
         <updated>2021-11-11T10:23:20.746Z</updated>
         <content type="html"><![CDATA[가수 전유진이 스타랭킹 스타트롯 여자 랭킹 2위에 올랐다. 전유진은 11월 4일 오후 3시 1분부터 11월 11일 오후 3시까지 진행된 스타트롯 여자 랭킹 11월 1주(13차) 투표에서 3만4818표를 얻어 1위를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['엠카' 블리처스 '내적댄스' 상큼+기분 좋은 무대]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003003975</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003003975"/>
-        <updated>2021-11-11T10:23:20.747Z</updated>
-        <content type="html"><![CDATA['엠카운트다운'에서 블리처스(BLITZERS)가 '내적댄스'로 상큼한 무대를 선보였다. 11일 오후 방송된 Mnet 음악프로그램 '엠카운트다운'에서 블리처스(진화, 고유, 주한, 샤, 크리스, 루탄, 우주) '내적댄]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송가인, 2021 대한민국을 빛낸 10인 수상 "뜻깊은 상, 감사해"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001372242</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001372242"/>
-        <updated>2021-11-11T10:23:20.748Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 하지원 기자) 가수 송가인이 ‘2021 대한민국을 빛낸 10인 대상’에서 수상의 영예를 안았다. 송가인은 11일 서울경제연합이 주최하는 ‘2021 대한민국을 빛낸 10인 대상’에서 대중가수 트로트 부문]]></content>
     </entry>
 </feed>

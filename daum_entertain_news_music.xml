@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-11T14:21:15.286Z</updated>
+    <updated>2021-11-11T15:22:38.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['국민가수', 박장현 '한숨'에 백지영 오열→13:0 완승]]></title>
+        <id>https://entertain.v.daum.net/v/20211112000206083</id>
+        <link href="https://entertain.v.daum.net/v/20211112000206083"/>
+        <updated>2021-11-11T15:22:03.846Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 황서연 기자] '내일은 국민가수'에서 박장현이 감동의 무대로 완승을 거뒀다. 11일 밤 방송한 TV조선 예능프로그램 '내일은 국민가수'(이하 '국민가수')에서는 본선 2차 1대 1 데스매치 무대가 펼쳐졌다. 이날 방송에서 박장현은 조연호와 발라드 장르로 정면승부를 펼쳤다. '연유 같은 목소리'라는 호평을 받았던 조연호는 박미경 '기억 속의 먼]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['국민가수' 이병찬 대국민 투표 1위, 2위 이솔로몬 '탈락 위기']]></title>
         <id>https://entertain.v.daum.net/v/20211111231316835</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211111180006160"/>
         <updated>2021-11-11T09:21:15.238Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 여성 듀오 릴리릴리(lilli lilli)가 데뷔곡 '바코드'로 당찬 포부를 밝혔다. 릴리릴리는 11일 오후 6시 각종 온라인 음원 사이트를 통해 데뷔 앨범 'BARCODE'(바코드)를 발매하고, 타이틀곡 '바코드'의 뮤직비디오를 공개했다.  루체, 그라타로 이루어져있는 릴리릴리는 데뷔에 앞서 조영수가 참여한 KBS2 드라마 ']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라붐, 율희 이어 유정까지 탈퇴→4인 체제 재정비.."멤버들의 소중함 느껴"]]></title>
-        <id>https://entertain.v.daum.net/v/20211111174622747</id>
-        <link href="https://entertain.v.daum.net/v/20211111174622747"/>
-        <updated>2021-11-11T09:21:15.238Z</updated>
-        <content type="html"><![CDATA[[OSEN=이승훈 기자]&nbsp;그룹 라붐(솔빈, 해인, 소연, 진예)이 4인 체제로 재정비한 후 한층 더 성장한 음악으로 돌아왔다.&nbsp; 지난 3일 세 번째 미니앨범 'BLOSSOM'을 발매한 라붐은 최근 OSEN과 컴백 기념 인터뷰를 진행했다.&nbsp; 이날 라붐 솔빈은 "'라붐'이라는 이름으로 활동을 이어나가고 싶었던 마음이 가장 컸다. 네 사람 모두 같은 생각이어서]]></content>
     </entry>
 </feed>
