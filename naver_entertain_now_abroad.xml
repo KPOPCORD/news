@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-11T17:27:05.868Z</updated>
+    <updated>2021-11-11T18:26:07.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[황동혁, 알렉 볼드윈 총격 사건에 "한국선 실탄 본 적 없다"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012787890</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012787890"/>
+        <updated>2021-11-11T18:26:06.551Z</updated>
+        <content type="html"><![CDATA['오징어 게임' 감독 "한국 촬영장 안전사고 가능성 매우 작아" (로스앤젤레스=연합뉴스) 정윤섭 특파원 = 넷플릭스의 한국 오리지널 드라마 '오징어 게임' 황동혁 감독이 미국 할리우드 배우 알렉 볼드윈이 연루된 영화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["미국에서요"…이정재, "유명해졌다?" 묻는 美 리포터에 소신 답변(종합)[Oh!쎈 이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004508809</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000830117"/>
         <updated>2021-11-10T10:23:46.896Z</updated>
         <content type="html"><![CDATA[10일 오후 서울 잠실구장에서 '2021 KBO 플레이오프 2차전 삼성 라이온즈와 두산 베어스의 경기가 열렸다. 스우파 허니제이가 시구를 위해 입장하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허니제이 '댄스로 만든 완벽 복근' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000830116</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000830116"/>
-        <updated>2021-11-10T10:23:46.898Z</updated>
-        <content type="html"><![CDATA[10일 오후 서울 잠실구장에서 '2021 KBO 플레이오프 2차전 삼성 라이온즈와 두산 베어스의 경기가 열렸다. 스우파 허니제이가 시구를 하고 있다.]]></content>
     </entry>
 </feed>

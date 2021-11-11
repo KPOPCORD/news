@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-11T17:27:05.873Z</updated>
+    <updated>2021-11-11T18:26:07.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트와이스, 멜론 스테이션 '오늘음악' 출연]]></title>
+        <id>https://entertain.v.daum.net/v/20211112023009864</id>
+        <link href="https://entertain.v.daum.net/v/20211112023009864"/>
+        <updated>2021-11-11T18:25:30.633Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] [사진 멜론]그룹 트와이스가 정규 3집 ‘포뮬러 오브 러브: O+T=&lt;3’(Formula of Love: O+T=&lt;3) 발매에 맞춰 12일 오후 2시 멜론 스테이션 ‘오늘음악’에 출격한다. 멜론은 “K팝 대표 아티스트가 직접 출연하는 뮤직토크쇼인 멜론 스테이션 ‘오늘음악’에 트와이스 출연이 확정됐다. 5개월 만에 다시 ‘오늘음악’을 찾은 트와]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['국민가수', 박장현 '한숨'에 백지영 오열→13:0 완승]]></title>
         <id>https://entertain.v.daum.net/v/20211112000206083</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211111180006161"/>
         <updated>2021-11-11T09:21:15.237Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 가수 비아이(B.I)가 로맨틱한 러브송으로 돌아왔다. 비아이는 11월 11일 오후 6시 국내외 음원 사이트를 통해 새 앨범 'COSMOS'(코스모스)를 발매했다. 이번 앨범은 비아이가 지난 6월 발표한 첫 솔로 정규 앨범 'WATERFALL'(워터폴) 이후 5개월 만에 선보인 신보다. 비아이는 타이틀곡 'COSMOS'(코스모스)를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["마침내 다가온 D-day"..릴리릴리, 당찬 가요계 첫발 '바코드']]></title>
-        <id>https://entertain.v.daum.net/v/20211111180006160</id>
-        <link href="https://entertain.v.daum.net/v/20211111180006160"/>
-        <updated>2021-11-11T09:21:15.238Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 여성 듀오 릴리릴리(lilli lilli)가 데뷔곡 '바코드'로 당찬 포부를 밝혔다. 릴리릴리는 11일 오후 6시 각종 온라인 음원 사이트를 통해 데뷔 앨범 'BARCODE'(바코드)를 발매하고, 타이틀곡 '바코드'의 뮤직비디오를 공개했다.  루체, 그라타로 이루어져있는 릴리릴리는 데뷔에 앞서 조영수가 참여한 KBS2 드라마 ']]></content>
     </entry>
 </feed>
