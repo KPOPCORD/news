@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-11T05:19:57.126Z</updated>
+    <updated>2021-11-11T06:27:29.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오징어게임' 영향?…넷플릭스, 미국판 '사냥의 시간' 제작]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010827121</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010827121"/>
+        <updated>2021-11-11T06:27:29.269Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 '아이 씨 유' 애덤 랜달 감독 연출 예정 [서울=뉴시스] 손정빈 기자 = 이제훈·박정민·최우식이·안재홍이 출연하고 윤성현 감독이 연출한 넷플릭스 영화 '사냥의 시간'(2020)이 넷플릭스에서 다시 만]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[콜드플레이, 쿠팡플레이서 내달 4일 단독 온라인 콘서트]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012785806</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000830114"/>
         <updated>2021-11-10T10:23:46.906Z</updated>
         <content type="html"><![CDATA[10일 오후 잠실야구장에서 2021 KBO리그 PO 2차전 삼성 라이온즈와 두산 베어스의 경기가 벌어졌다. 이날 경기에서 ‘스트리트 우먼 파이터’에서 우승한 허니제이가 시구를 해 야구팬들로부터 많은 박수를 받았다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허니제이 '긴 머리 휘날리며 멋진 시구' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000830113</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000830113"/>
-        <updated>2021-11-10T10:23:46.907Z</updated>
-        <content type="html"><![CDATA[10일 오후 서울 잠실구장에서 '2021 KBO 플레이오프 2차전 삼성 라이온즈와 두산 베어스의 경기가 열렸다. 스우파 허니제이가 시구를 하고 있다.]]></content>
     </entry>
 </feed>
