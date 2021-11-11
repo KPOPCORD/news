@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 01:06:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 02:33:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[설현, 안 어울리는 표정이 없네…청순美 폭발 [인스타]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/330321</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/330321</guid>
+            <pubDate>Thu, 11 Nov 2021 02:32:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/330321">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/11/5ed6d1b3-5fba-4f32-a612-133a4f7c6845.jpg" alt="설현, 안 어울리는 표정이 없네…청순美 폭발 [인스타]">        <div class="text-box">            <p class="summary">설현, 안 어울리는 표정이 없네…청순美 폭발 [인스타]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/11/5ed6d1b3-5fba-4f32-a612-133a4f7c6845.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['야생돌' 임주안VS이재억, 보컬 끝판왕 매치…산들 "소름"]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/330318</link>
@@ -86,14 +94,6 @@
             <pubDate>Wed, 10 Nov 2021 07:20:05 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/330268">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/10/a78449cb-3be7-441d-a8ca-689c9924744c.JPG" alt="'아스트로 문빈 동생' 빌리 문수아 " 문빈,="" 따뜻한="" 오빠…조언多""="">        <div class="text-box">            <p class="summary">'아스트로 문빈 동생' 빌리 문수아 "문빈, 따뜻한 오빠…조언多"</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/10/a78449cb-3be7-441d-a8ca-689c9924744c.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[빌리 시윤·문수아 "윤종신, 열정과 초심 잃지 말라 조언"]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/330267</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/330267</guid>
-            <pubDate>Wed, 10 Nov 2021 07:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/330267">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/10/7f39abea-7744-4356-af9e-afe3c0cc2715.JPG" alt="빌리 시윤·문수아 " 윤종신,="" 열정과="" 초심="" 잃지="" 말라="" 조언""="">        <div class="text-box">            <p class="summary">빌리 시윤·문수아 "윤종신, 열정과 초심 잃지 말라 조언"</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/10/7f39abea-7744-4356-af9e-afe3c0cc2715.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
