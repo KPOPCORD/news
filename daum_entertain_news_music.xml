@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-12T20:24:26.287Z</updated>
+    <updated>2021-11-12T21:18:59.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시즌 10도 찢었다.. '쇼미', 미션곡으로 음원 차트 점령]]></title>
+        <id>https://entertain.v.daum.net/v/20211113053011879</id>
+        <link href="https://entertain.v.daum.net/v/20211113053011879"/>
+        <updated>2021-11-12T21:18:25.865Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 김민지 기자 = 엠넷 '쇼미더머니 10'(이하 '쇼미 10') 미션곡이 음원차트를 장악, 시리즈의 존재감을 입증하고 있다. 지난 5일 오후 방송된 '쇼미더머니10' 6회에서는 프로듀서 네 팀의 첫 음원 미션 무대가 꾸며졌다. 이에 아넌딜라이트-언오피셜보이-비오-지구인-머드 더 스튜던트 등 5명의 래퍼가 함께한 곡 '쉬어'(Feat. MI]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오토바이 접촉사고' 김흥국 뺑소니 혐의 벌금 700만원 선고]]></title>
         <id>https://entertain.v.daum.net/v/20211112202139022</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211112180117005"/>
         <updated>2021-11-12T09:20:43.207Z</updated>
         <content type="html"><![CDATA[[티브이데일리 황서연 기자] 임창정, 그룹 슈퍼주니어 신동 등 가요계에서 연일 신종 코로나바이러스 감염증(이하 코로나19) 확진자가 나와 방역에 대한 경각심이 높아지고 있다. 지난 9일 임창정의 코로나19 확진 소식에 이어 12일 신동도 양성 판정을 받으면서 이목이 집중됐다. 임창정은 확진 전날인 8일 배우 이지훈, 아야네 부부의 결혼식에서 축가를 불렀다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["얼굴만 알려진 관심" 김구라 아들 그리, 못벗어난 그늘에 대하여]]></title>
-        <id>https://entertain.v.daum.net/v/20211112180006956</id>
-        <link href="https://entertain.v.daum.net/v/20211112180006956"/>
-        <updated>2021-11-12T09:20:43.210Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 래퍼 그리(GREE)이자 방송인 김구라 아들 김동현이 솔직한 자기 고백 송으로 돌아왔다. 그리는 11월 12일 오후 6시 각종 음원 사이트를 통해 두 번째 미니 앨범 'HI, TEEN'(하이, 틴)을 발매했다. 이번 앨범은 그리가 6월 그룹 하이라이트 멤버 윤두준과 함께 발표한 협업 싱글 '봄이 가져가서' 이후 5개월 만에 선보인]]></content>
     </entry>
 </feed>

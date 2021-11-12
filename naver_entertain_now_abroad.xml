@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-12T20:24:26.285Z</updated>
+    <updated>2021-11-12T21:18:59.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“이혼후 몇주간 침대서 보내, 엄청난 충격” 아델 첫 심경 토로[해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003555043</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003555043"/>
+        <updated>2021-11-12T21:18:58.305Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 스타 아델이 이혼 후 심경을 털어놓았다. 그는 11일(현지시간) 롤링스톤과 인터뷰에서 “정말 슬펐다”면서 “엄청난 충격을 받고, 당황했다”고 말했다. 아델은 프로듀서 사이먼 코넥키]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日 유부남 가수, 불륜에 낙태종용→실제 부인은 둘째 출산 [엑's 재팬]]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001372811</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000830847</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000830847"/>
         <updated>2021-11-12T11:19:09.702Z</updated>
-        <content type="html"><![CDATA[2021 미시즈 코리아 선발대회가 12일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. 대한민국 미시즈를 대표하는 '미시즈 코리아'는 기혼자 및 결혼경험이 있는 여성을 대상으로 개최되는 대한민국 최고의 미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김수경 '우아하고 아름답게' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000830846</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000830846"/>
-        <updated>2021-11-12T11:19:09.703Z</updated>
         <content type="html"><![CDATA[2021 미시즈 코리아 선발대회가 12일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. 대한민국 미시즈를 대표하는 '미시즈 코리아'는 기혼자 및 결혼경험이 있는 여성을 대상으로 개최되는 대한민국 최고의 미]]></content>
     </entry>
 </feed>
