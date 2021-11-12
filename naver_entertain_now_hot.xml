@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-12T18:25:48.026Z</updated>
+    <updated>2021-11-12T19:18:23.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이혜영X유세윤, 사상 초유 데이트 거부에 당황 (‘돌싱글즈2’)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000944715</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000944715"/>
+        <updated>2021-11-12T19:18:15.360Z</updated>
+        <content type="html"><![CDATA[MBN ‘돌싱글즈2’ 이혜영과 유세윤이 새벽에 벌어진 돌싱남녀의 극적 사건에 말을 잇지 못한다. 오는 14일(일) MBN ‘돌싱글즈2’에서는 지난 회 방송에서 자녀 여부를 공개한 돌싱남녀 김계성-김채윤-김은영-유소민]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[표창원 “사건·사고, 글로벌 집단지성으로 돌파구 찾는다” (지구in)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000944714</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000944714"/>
+        <updated>2021-11-12T19:18:15.364Z</updated>
+        <content type="html"><![CDATA[표창원이 배성재, 장도연과 함께 SBS플러스 ‘세상의 모든 사건 지구in’(이하 지구in) 첫 녹화를 마친 소감을 전했다. 표창원, 장도연, 배성재는 16일(화) 밤 8시 30분 첫 방송 되는 SBS플러스 ‘지구in]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘공짜’ 안내상·이철민→김현숙·홍석천, 포스터 공개]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000944713</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000944700"/>
         <updated>2021-11-12T13:26:19.018Z</updated>
         <content type="html"><![CDATA[SBS 새 금토드라마 ‘지금, 헤어지는 중입니다’가 오늘(12일) 첫 방송된다. SBS 새 금토드라마 ‘지금, 헤어지는 중입니다’(극본 제인/연출 이길복/크리에이터 글Line&amp;강은경/이하 ‘지헤중’)는 ‘이별’이라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘금요일은 밤이 좋아’ 김다현X김태연, 가왕 솔지·뮤지에 도발 [TV체크]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000944699</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000944699"/>
-        <updated>2021-11-12T13:26:19.020Z</updated>
-        <content type="html"><![CDATA[TV CHOSUN ‘금요일은 밤이 좋아’에 명불허전 가왕의 품격을 입증한 솔지와 뮤지가 출연해 짜릿한 승부를 펼친다. TV CHOSUN ‘금요일은 밤이 좋아’는 ‘미스트롯2’ TOP7 양지은-홍지윤-김다현-김태연-김]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫방 ‘옷소매’ 이준호♥이세영, 궁중연인 탄생…포인트4 [TV체크]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000944698</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000944698"/>
-        <updated>2021-11-12T13:26:19.021Z</updated>
-        <content type="html"><![CDATA[MBC가 2년만에 야심차게 선보이는 정통 사극 ‘옷소매 붉은 끝동’(연출 정지인 송연화/극본 정해리/영제 The Red Sleeve/이하 ‘옷소매’)이 오늘(12일) 첫 방송된다. MBC 금토드라마 ‘옷소매’는 자신]]></content>
     </entry>
 </feed>
