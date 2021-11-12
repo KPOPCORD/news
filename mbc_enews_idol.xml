@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 06:27:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 07:21:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티아라 MV티저 화제→'스우파' 가비·피넛 퍼포먼스 탄생]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/330440</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/330440</guid>
+            <pubDate>Fri, 12 Nov 2021 07:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/330440">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/12/WDsBz2g5yhuN637723283754706845.jpg" alt="티아라 MV티저 화제→'스우파' 가비·피넛 퍼포먼스 탄생">        <div class="text-box">            <p class="summary">티아라 MV티저 화제→'스우파' 가비·피넛 퍼포먼스 탄생</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/12/WDsBz2g5yhuN637723283754706845.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘아는 형님’ 시우민→설현까지, 형님들 절친 총출동한 ‘아형고 축제’]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/330427</link>
@@ -86,14 +94,6 @@
             <pubDate>Thu, 11 Nov 2021 03:23:09 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/330331">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/11/bec074c6-2822-416c-a8f5-3c5c57537453.jpg" alt="B1A4 산들, 오늘(11일) 입대 " 더욱="" 멋있어질="" 것”"="">        <div class="text-box">            <p class="summary">B1A4 산들, 오늘(11일) 입대 "더욱 멋있어질 것”</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/11/bec074c6-2822-416c-a8f5-3c5c57537453.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설현, 안 어울리는 표정이 없네…청순美 폭발 [인스타]]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/330321</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/330321</guid>
-            <pubDate>Thu, 11 Nov 2021 02:32:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/330321">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/11/5ed6d1b3-5fba-4f32-a612-133a4f7c6845.jpg" alt="설현, 안 어울리는 표정이 없네…청순美 폭발 [인스타]">        <div class="text-box">            <p class="summary">설현, 안 어울리는 표정이 없네…청순美 폭발 [인스타]</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/11/5ed6d1b3-5fba-4f32-a612-133a4f7c6845.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
