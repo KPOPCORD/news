@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-12T10:23:43.978Z</updated>
+    <updated>2021-11-12T11:19:10.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[라붐, 데뷔 7년만에 '유스케' 첫 나들이]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010829843</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010829843"/>
+        <updated>2021-11-12T11:18:57.548Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]이수진 인턴 기자 = 그룹 라붐(LABOUM)이 데뷔 후 처음으로 KBS 2TV ‘유희열의 스케치북’에 출연한다. 12일 인터파크뮤직플러스는 그룹 라붐이 데뷔 7년 만에 처음으로 13일 오전 0시 55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세븐틴, 데뷔 후 앨범 누적 판매량 1000만 장 돌파 [공식]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003555011</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003555011"/>
+        <updated>2021-11-12T11:18:57.550Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 그룹 세븐틴이 데뷔 후 앨범 누적 판매량 1,000만 장을 돌파했다. 12일 소속사 플레디스 엔터테인먼트에 따르면, 세븐틴의 국내 앨범 누적 판매량이 1,013만 장을 넘어섰다고 밝혔다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임영웅 첫 단독쇼, 15일 방청객 모집 시작…12월 10일 개최 [공식]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003555010</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003555010"/>
+        <updated>2021-11-12T11:18:57.551Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 가수 임영웅의 단독쇼 '위아 히어로(We're HERO) 임영웅'이 관객 모집을 시작한다. 12일 KBS는 오는 15일 공식 홈페이지를 통해 'We're HERO 임영웅' 방청객을 모집]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['We're HERO 임영웅' 15일 방청객 모집…12월 10일 개최[공식]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003004266</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003004266"/>
+        <updated>2021-11-12T11:18:57.564Z</updated>
+        <content type="html"><![CDATA[가수 임영웅이 KBS를 통해 선보이는 단독쇼 'We're HERO 임영웅'이 관객 모집을 시작한다. KBS는 오는 15일 공식 홈페이지를 통해 'We're HERO 임영웅' 방청객을 모집한다. 방청객 모집은 오는 1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['뮤뱅' 더보이즈, 아이유 꺾고 1위 탈환..트와이스 컴백 [종합]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003004259</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003004259"/>
+        <updated>2021-11-12T11:18:57.565Z</updated>
+        <content type="html"><![CDATA[보이 그룹 더보이즈(주학년, 영훈, 주연, 현재, 상연, 선우, 큐, 케빈, 제이콥, 에릭, 뉴)가 '뮤직뱅크' 정상에 등극했다. 더보이즈는 12일 오후 방송된 KBS 2TV 음악 프로그램 '뮤직뱅크'에서 세 번째]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['뮤뱅' 라붐 'Kiss Kiss'→'상상더하기'로 팔색조 매력 '뿜뿜']]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003004256</id>
@@ -144,40 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001372743"/>
         <updated>2021-11-12T09:20:59.340Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김노을 기자) 싱어송라이터 샘김과 인도네시아의 유명 가수 라이사(Raisa)가 컬래버곡으로 만났다. 12일 샘김과 라이사가 함께한 컬래버 신곡 'Someday'(썸데이)가 각종 음원 사이트를 통해 발매]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[실크 소닉, 정규 앨범 ‘An Evening With Silk Sonic’ 발매]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000774042</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000774042"/>
-        <updated>2021-11-12T09:20:59.342Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 브루노 마스(Bruno Mars)와 앤더슨 .팩(Anderson .Paak)의 실크소닉 첫 스튜디오 앨범 ‘An Evening With Silk Sonic’이 펜더믹으로 힘들게 버텨온 2021년을 노래]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더브릿지, '빨강구두' OST 부른다…초겨울 이별 감성 저격]]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004627915</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004627915"/>
-        <updated>2021-11-12T09:20:59.343Z</updated>
-        <content type="html"><![CDATA[가수 더 브릿지(The Bridge)가 겨울 감성 깃든 OST 테마를 선보인다. 더브릿지는 오는 13일 정오 KBS2 일일드라마 '빨강 구두' OST '왜 날 그렇게 떠나갔니' 음원을 공개한다. '왜 날 그렇게 떠나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아도라, BTS 전 프로듀서→솔로 아티스트로…국내외 차트 장악]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000830814</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000830814"/>
-        <updated>2021-11-12T09:20:59.344Z</updated>
-        <content type="html"><![CDATA[신예 싱어송라이터 아도라(ADORA)가 자신이 직접 제작한 데뷔 앨범으로 음악적 역량을 인정받았다. 지난 5일 발매된 아도라의 디지털 싱글 앨범 ‘MAKE U DANCE’는 발매 직후 국내 멜론 최신 차트 25위 차]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디아크, 1년 만에 피네이션과 결별 "전속계약 종료" [공식]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004627909</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004627909"/>
-        <updated>2021-11-12T09:20:59.344Z</updated>
-        <content type="html"><![CDATA[래퍼 디아크(D. Ark)와 피네이션이 결별한다. 피네이션은 12일 "디아크와의 전속계약 기간이 종료됐다"며 "당사는 디아크의 다가올 새로운 음악 여정에 아낌없는 성원을 보내며 그가 앞으로 펼칠 아티스트 행보를 응원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엘라스트 라노·최인·승엽·예준, 콘셉트 포토 공개…4인4색 만찢 비주얼]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000830812</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000830812"/>
-        <updated>2021-11-12T09:20:59.346Z</updated>
-        <content type="html"><![CDATA[그룹 엘라스트(E'LAST)가 180도 비주얼 변신을 선보였다. 엘라스트(라노, 최인, 승엽, 백결, 로민, 원혁, 예준, 원준)는 지난 10일, 11일 공식 SNS를 통해 후속곡 'To. Lie(투. 라이)' 라노]]></content>
     </entry>
 </feed>
