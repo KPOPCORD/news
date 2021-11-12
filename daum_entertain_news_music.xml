@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-12T11:19:10.359Z</updated>
+    <updated>2021-11-12T12:33:04.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오토바이 접촉사고' 김흥국 뺑소니 혐의 벌금 700만원 선고]]></title>
+        <id>https://entertain.v.daum.net/v/20211112202139022</id>
+        <link href="https://entertain.v.daum.net/v/20211112202139022"/>
+        <updated>2021-11-12T12:32:32.167Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 윤상근 기자] 성폭행 혐의로 피소된 가수 김흥국씨(59)가 5일 오후 서울 광진경찰서에 피고소인 신분으로 조사를 받기 위해 출석해 입장을 밝히고 있다. /사진=임성균 기자 tjdrbs23@불법 좌회전 도중 오토바이와의 접촉 사고 이후 뺑소니 혐의를 받은 가수 겸 김흥국이 벌금형을 선고받았다. 서울서부지방법원 형사11단독 최유신 판사는 지난 4일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세븐틴, 데뷔 후 앨범 누적 판매량 1000만 장 돌파]]></title>
         <id>https://entertain.v.daum.net/v/20211112194816570</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211112180006956"/>
         <updated>2021-11-12T09:20:43.210Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 래퍼 그리(GREE)이자 방송인 김구라 아들 김동현이 솔직한 자기 고백 송으로 돌아왔다. 그리는 11월 12일 오후 6시 각종 음원 사이트를 통해 두 번째 미니 앨범 'HI, TEEN'(하이, 틴)을 발매했다. 이번 앨범은 그리가 6월 그룹 하이라이트 멤버 윤두준과 함께 발표한 협업 싱글 '봄이 가져가서' 이후 5개월 만에 선보인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하루나, 귀여움 받는 빌리 막내 "이대로만 잘 자라다오"]]></title>
-        <id>https://entertain.v.daum.net/v/20211112173327286</id>
-        <link href="https://entertain.v.daum.net/v/20211112173327286"/>
-        <updated>2021-11-12T09:20:43.210Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 공미나 기자] 빌리 하루나 앞담화 인터뷰 /사진=스타뉴스걸그룹 빌리(Billlie·시윤, 츠키, 수현, 하람, 문수아, 하루나) 하루나가 막내다운 귀여움을 뽐냈다. 빌리는 최근 스타뉴스와 만나 앞담화인터뷰를 진행했다. 앞담화인터뷰는 한 멤버 대한 질문에 나머지 멤버들이 돌아가며 대답을 하는 형식이다. 멤버들은 하루나에 대해 "귀여움 그 자체" "]]></content>
     </entry>
 </feed>
