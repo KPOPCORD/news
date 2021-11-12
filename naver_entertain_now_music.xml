@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-12T12:33:04.772Z</updated>
+    <updated>2021-11-12T13:26:27.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['누구랑 갔을까' 송가인, 한우 오마카세 코스 "이런 곳 처음" [스타IN★]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003004285</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003004285"/>
+        <updated>2021-11-12T13:26:11.409Z</updated>
+        <content type="html"><![CDATA[가수 송가인이 한우 오마카세 코스를 즐겼다. 송가인은 12일 자신의 인스타그램을 통해 "어쩜, 나 이런 곳 처음 와봤자냐. 처음부터 많이 먹으면 안 된다는 것을, 나중에 알았지 뭐여"라는 글과 함께 여러 장의 사진을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오토바이 접촉사고' 김흥국 뺑소니 혐의 벌금 700만원 선고[공식]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003004270</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001372748"/>
         <updated>2021-11-12T09:20:59.339Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) 가수 송하예가 애틋한 이별 발라드로 짙은 공감대를 자극했다. 송하예는 12일 오후 방송된 KBS 2TV 음악프로그램 ‘뮤직뱅크’에서 신곡 무대를 펼쳤다. 이날 방송에서 송하예는 지난달 2]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[샘김X라이사 컬래버 ‘Someday’ 발매]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000774044</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000774044"/>
-        <updated>2021-11-12T09:20:59.340Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 싱어송라이터 샘김과 인도네시아의 유명 가수 라이사(Raisa)가 컬래버곡으로 만났다. 오늘(12일) 0시, 샘김과 라이사가 함께한 컬래버 신곡 ‘Someday’(썸데이)가 각종 음원 사이트를 통해 발매]]></content>
     </entry>
 </feed>
