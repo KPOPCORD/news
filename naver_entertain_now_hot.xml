@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-12T17:25:43.871Z</updated>
+    <updated>2021-11-12T18:25:48.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘공짜’ 안내상·이철민→김현숙·홍석천, 포스터 공개]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000944713</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000944713"/>
+        <updated>2021-11-12T18:25:38.946Z</updated>
+        <content type="html"><![CDATA[웹드라마 '공짜'가 2차 포스터를 공개했다. 제작사 미스터리프랜즈스튜디오 측은 최근 공식 SNS를 통해 웹드라마 '공짜(공기타짜)'의 2차 포스터를 공개했다. 포스터 속에는 안내상, 이철민, 김현숙, 홍석천의 모습이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[차승원, 삼류 변호사의 성장통 예고편 (‘어느 날’)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000944712</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000944712"/>
+        <updated>2021-11-12T18:25:38.949Z</updated>
+        <content type="html"><![CDATA[쿠팡플레이 시리즈 ‘어느 날’ 차승원의 투쟁기를 집대성한 ‘4차 예고편’이 공개됐다. 오는 11월 27일(토) 0시(금 밤 12시)에 첫 공개될 쿠팡플레이 시리즈 ‘어느 날’(감독 이명우)은 평범한 대학생에서 하룻밤]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안희연, 외유내강 리더의 정석 (‘아이돌’)]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000944711</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000944698"/>
         <updated>2021-11-12T13:26:19.021Z</updated>
         <content type="html"><![CDATA[MBC가 2년만에 야심차게 선보이는 정통 사극 ‘옷소매 붉은 끝동’(연출 정지인 송연화/극본 정해리/영제 The Red Sleeve/이하 ‘옷소매’)이 오늘(12일) 첫 방송된다. MBC 금토드라마 ‘옷소매’는 자신]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김수현, 자전거 라이딩 근황..마스크로 가려도 훈남 [스타IN★]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003004286</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003004286"/>
-        <updated>2021-11-12T13:26:19.022Z</updated>
-        <content type="html"><![CDATA[배우 김수현이 자전거 라이딩에 빠진 근황을 공개했다. 김수현은 12일 자신의 인스타그램을 통해 별다른 글귀 없이 한 장의 사진을 올렸다. 공개된 사진 속 김수현은 자전거 앞에서 손을 들고 포즈를 취하고 있다. 검은색]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트레저 “11명인데 왜 10명이래?” 오싹 스릴러 (남고괴담)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000944697</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000944697"/>
-        <updated>2021-11-12T13:26:19.023Z</updated>
-        <content type="html"><![CDATA[그룹 트레저 웹드라마 '남고괴담'이 오늘 (12일) 밤 10시 베일을 벗는다. 소속사 YG엔터테인먼트는 이를 앞두고 '남고괴담' 1화 일부 장면이 담긴 프리뷰를 공개했다. 극의 시발점이 되는 서사와 트레저의 꽤 인상]]></content>
     </entry>
 </feed>
