@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-12T16:32:54.939Z</updated>
+    <updated>2021-11-12T17:25:43.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안희연, 외유내강 리더의 정석 (‘아이돌’)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000944711</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000944711"/>
+        <updated>2021-11-12T17:25:35.966Z</updated>
+        <content type="html"><![CDATA[JTBC 월화드라마 ‘IDOL [아이돌 : The Coup]’ 배우 안희연이 외유내강 리더 제나로 완벽하게 몰입했다. JTBC 월화드라마 ‘IDOL [아이돌 : The Coup]’(극본 정윤정/ 연출 노종찬/이하 ‘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[적재, 잔잔한 감성 콘셉트 포토 공개]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000944710</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000944697"/>
         <updated>2021-11-12T13:26:19.023Z</updated>
         <content type="html"><![CDATA[그룹 트레저 웹드라마 '남고괴담'이 오늘 (12일) 밤 10시 베일을 벗는다. 소속사 YG엔터테인먼트는 이를 앞두고 '남고괴담' 1화 일부 장면이 담긴 프리뷰를 공개했다. 극의 시발점이 되는 서사와 트레저의 꽤 인상]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫방 ‘옷소매 붉은 끝동’ 이준호·이세영, 서고 맞대면 [DA:투데이]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000944696</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000944696"/>
-        <updated>2021-11-12T13:26:19.024Z</updated>
-        <content type="html"><![CDATA[MBC 금토드라마 ‘옷소매 붉은 끝동’이 오늘(12일) 첫 방송되는 가운데 궁중 로맨스 시작을 알리는 이준호와 이세영의 첫 대면 사진이 공개됐다. 오늘(12일) 첫 방송되는 MBC 금토드라마 ‘옷소매 붉은 끝동’(연]]></content>
     </entry>
 </feed>
