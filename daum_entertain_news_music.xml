@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-13T07:22:22.279Z</updated>
+    <updated>2021-11-13T08:26:03.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['음중' 더보이즈, 음방 4관왕 "더비 고마워"..슈주 D&E·트와이스 컴백]]></title>
+        <id>https://entertain.v.daum.net/v/20211113163959808</id>
+        <link href="https://entertain.v.daum.net/v/20211113163959808"/>
+        <updated>2021-11-13T08:25:35.183Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 더보이즈가 음악방송 4관왕을 달성했다. 11월 13일 방송된 MBC ‘쇼! 음악중심’에서는 더보이즈가 ‘MAVERICK’(매버릭)으로 아이유, 에스파를 제치고 1위에 올랐다. 이로써 더보이즈는 ‘매버릭’으로 음악방송 4번째 트로피를 받았다. 더보이즈 뉴는 “짧은 시간 안에 만들어야 했던 앨범이라 정말 힘드셨을텐데 많은 사람들에게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[컴백 트와이스 "데뷔 6주년 이후 첫 앨범, 팬들에 선물됐으면"]]></title>
         <id>https://entertain.v.daum.net/v/20211113160653461</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211113115002383"/>
         <updated>2021-11-13T03:21:58.224Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) 안무팀 DOS 조영서, 김도균이 '갯마을 차차차' 속 최고의 아이돌 디오에스(DOS)로 남다른 존재감을 빛냈다.&nbsp; 조영서, 김도균은 최근 종영한 tvN 드라마 '갯마을 차차차'에서 아이돌 그룹 디오에스(DOS) 멤버로 출연하며 시청자들의 눈도장을 받았다. 두 사람은 극 중 디오에스(DOS) 히트곡 '저스트 어 필링(Just a]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["힙하다 힙해"..마마무, 'HIP' 뮤비 3억뷰 돌파→'믿듣맘무' 저력 과시]]></title>
-        <id>https://entertain.v.daum.net/v/20211113111710089</id>
-        <link href="https://entertain.v.daum.net/v/20211113111710089"/>
-        <updated>2021-11-13T02:33:23.456Z</updated>
-        <content type="html"><![CDATA[[OSEN=이승훈 기자] 걸그룹 마마무의 히트곡 'HIP' 뮤직비디오가 조회수 3억 뷰를 돌파했다. 2019년 11월 공개된 마마무의 정규 2집 'reality in BLACK'의 타이틀곡 'HIP' 뮤직비디오는 지난 12일 오후 2시경 유튜브 조회수 3억 뷰를 넘겼다. 이는 마마무의 뮤직비디오 중 최고 성적으로, 마마무는 'HIP'으로 데뷔 후 첫 3억대]]></content>
     </entry>
 </feed>

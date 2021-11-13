@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-13T07:22:22.285Z</updated>
+    <updated>2021-11-13T08:26:03.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[브리트니 스피어스, 치골 노출 파격! 바지를 어디까지 내려?[Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004509924</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004509924"/>
+        <updated>2021-11-13T08:26:02.682Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 브리트니 스피어스가 아찔한 노출을 감행했다. 브리트니 스피어스는 13일(한국시각) 자신의 인스타그램에 별다른 메시지 없이 영상 하나를 올렸다. 영상에서 그는 금발머리를 길게 늘어뜨린 채 배가]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[브리트니 스피어스, 13년만에 자유의 몸…"내 생애 최고의 날"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003004430</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003004430"/>
+        <updated>2021-11-13T08:26:02.683Z</updated>
+        <content type="html"><![CDATA[팝스타 브리트니 스피어스가 13년 만에 자유를 찾았다. 12일(현지시간) 버라이어티 등 현지 매체 따르면 미국 로스앤젤레스 법원은 이날 브리트니 스피어스에 대한 후견인 제도 적용을 종료하는 결정을 내렸다. 법원 앞에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[패리스 힐튼, 사흘간 호화 결혼식 “동화 속 결혼, 공주된 것 같아”]]></title>
         <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000510631</id>
@@ -164,20 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000830865</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000830865"/>
         <updated>2021-11-12T13:26:26.582Z</updated>
-        <content type="html"><![CDATA[2021 미시즈 코리아 선발대회가 12일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. 대한민국 미시즈를 대표하는 '미시즈 코리아'는 기혼자 및 결혼경험이 있는 여성을 대상으로 개최되는 대한민국 최고의 미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미시즈 코리아 클래식 퀸 김선해 [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000830864</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000830864"/>
-        <updated>2021-11-12T13:26:26.584Z</updated>
-        <content type="html"><![CDATA[2021 미시즈 코리아 선발대회가 12일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. 대한민국 미시즈를 대표하는 '미시즈 코리아'는 기혼자 및 결혼경험이 있는 여성을 대상으로 개최되는 대한민국 최고의 미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미시즈 코리아 클래식 진 신은숙 [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000830863</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000830863"/>
-        <updated>2021-11-12T13:26:26.586Z</updated>
         <content type="html"><![CDATA[2021 미시즈 코리아 선발대회가 12일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. 대한민국 미시즈를 대표하는 '미시즈 코리아'는 기혼자 및 결혼경험이 있는 여성을 대상으로 개최되는 대한민국 최고의 미]]></content>
     </entry>
 </feed>
