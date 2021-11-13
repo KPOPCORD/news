@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-13T14:21:02.486Z</updated>
+    <updated>2021-11-13T15:22:02.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["K팝 최고!" 코로나 뚫고 열린 홍콩 K팝 커버댄스 축제 현장]]></title>
+        <id>https://entertain.v.daum.net/v/20211113233521834</id>
+        <link href="https://entertain.v.daum.net/v/20211113233521834"/>
+        <updated>2021-11-13T15:21:21.864Z</updated>
+        <content type="html"><![CDATA[(홍콩=연합뉴스) 윤고은 특파원 = "오늘 블랙핑크, 소녀시대, 엑소의 공연을 다 볼 수 있습니다. 여러분 어때요?" 13일 밤 홍콩 침사추이 문화센터 그랜드극장은 K팝 댄스의 열기로 터져나갈 듯했다. 홍콩 K팝 커버댄스팀들이 참가한 'K팝 댄스 페스티벌: K팝의 진화' 행사를 즐기기 위해 모인 1천200여 관중은 사회자의 질문에 커다란 함성으로 호응했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['음중' 더보이즈, 음방 4관왕 "더비 고마워"..슈주 D&E·트와이스 컴백]]></title>
         <id>https://entertain.v.daum.net/v/20211113163959808</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211113115010385"/>
         <updated>2021-11-13T03:21:58.217Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) (인터뷰①)에 이어) 안무팀 DOS 조영서, 김도균이 '갯마을 차차차' 촬영 현장의 화기애애한 분위기를 전했다.&nbsp; 최근 종영한 tvN 드라마 '갯마을 차차차'에서 아이돌 그룹 디오에스(DOS) 멤버로 존재감을 발휘한 조영서, 김도균은 실제 실력파 안무가 겸 댄서로 활약 중이다. 이들은 극 중 극 중 디오에스(DOS) 히트곡 ']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['갯차' DOS 조영서·김도균 "진짜 아이돌 같죠"]]></title>
-        <id>https://entertain.v.daum.net/v/20211113115002383</id>
-        <link href="https://entertain.v.daum.net/v/20211113115002383"/>
-        <updated>2021-11-13T03:21:58.224Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) 안무팀 DOS 조영서, 김도균이 '갯마을 차차차' 속 최고의 아이돌 디오에스(DOS)로 남다른 존재감을 빛냈다.&nbsp; 조영서, 김도균은 최근 종영한 tvN 드라마 '갯마을 차차차'에서 아이돌 그룹 디오에스(DOS) 멤버로 출연하며 시청자들의 눈도장을 받았다. 두 사람은 극 중 디오에스(DOS) 히트곡 '저스트 어 필링(Just a]]></content>
     </entry>
 </feed>
