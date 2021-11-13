@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-13T20:21:15.746Z</updated>
+    <updated>2021-11-13T21:18:41.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“남편은 내 꿈의 남자, 아기 이름도 생각중” 40살 패리스 힐튼 품절녀 합류[해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003555219</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003555219"/>
+        <updated>2021-11-13T21:18:40.511Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]글로벌 호텔 체인 힐튼 그룹 상속녀이자 미국 사교계 유명 인사인 패리스 힐튼(40)이 품절녀가 됐다. 페이지식스에 따르면, 힐튼은 지난 11일(현지시간) 미국 로스앤젤레스(LA) 인근 벨]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[친구 결혼식 간 거 맞아?…가슴선 드러낸 '파격 의상' 입은 모델들]]></title>
         <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004670065</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000830871</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000830871"/>
         <updated>2021-11-12T13:26:26.570Z</updated>
-        <content type="html"><![CDATA[2021 미시즈 코리아 선발대회가 12일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. 대한민국 미시즈를 대표하는 '미시즈 코리아'는 기혼자 및 결혼경험이 있는 여성을 대상으로 개최되는 대한민국 최고의 미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미시즈 코리아 선발대회 미 이민정 [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000830870</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000830870"/>
-        <updated>2021-11-12T13:26:26.571Z</updated>
         <content type="html"><![CDATA[2021 미시즈 코리아 선발대회가 12일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. 대한민국 미시즈를 대표하는 '미시즈 코리아'는 기혼자 및 결혼경험이 있는 여성을 대상으로 개최되는 대한민국 최고의 미]]></content>
     </entry>
 </feed>
