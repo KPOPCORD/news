@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-13T18:24:47.992Z</updated>
+    <updated>2021-11-13T19:17:37.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이유비, '165cm·45kg' 모태 마름 자랑? 컵라면 4개 인증 [TEN★]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000511327</id>
+        <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000511327"/>
+        <updated>2021-11-13T19:17:30.767Z</updated>
+        <content type="html"><![CDATA[[텐아시아=우빈 기자] 배우 이유비가 야식을 자랑했다. 이유비는 14일 새벽 인스타그램 스토리에 야식 사진과 함께 "끼얏호"라고 적었다. 사진 속에는 4개의 컵라면이 자리잡고있다. 그 뒤로 야식 박스와 소스. 사용한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송가인, 한우 먹방에 행복 “자주 가볼테야” [M+★SNS]]]></title>
         <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001621249</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=396&amp;aid=0000596837"/>
         <updated>2021-11-13T08:25:56.645Z</updated>
         <content type="html"><![CDATA[방송인 정가은이 먹먹한 심경을 전했다. 정가은은 13일 자신의 인스타그램에 “제목만으로도 눈물이 차오른다. 첫 장을 넘기는데 눈물이 또 차오른다. 한장 한장 마음이 먹먹하다가 이내 마음이 따뜻해졌다. 하지만 따뜻한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[플레이엠·크래커, IST엔터테인먼트로 새롭게 출범]]></title>
-        <id>https://entertain.naver.com/now/read?oid=022&amp;aid=0003637817</id>
-        <link href="https://entertain.naver.com/now/read?oid=022&amp;aid=0003637817"/>
-        <updated>2021-11-13T08:25:56.645Z</updated>
-        <content type="html"><![CDATA[“두 회사, 합병법인 IST 출범…상호 유기적 관계로 시너지 발휘” 더보이즈, 에이핑크·빅톤·위클리·밴디지 등 한솥밥…경쟁력 강화 IST엔터테인먼트 로고. IST엔터테인먼트 제공 카카오엔터테인먼트의 음악 레이블 자회]]></content>
     </entry>
 </feed>
