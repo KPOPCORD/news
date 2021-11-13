@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 23:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Nov 2021 01:03:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트와이스 컴백 "SCIENTIST, 팬들에게 선물 같은 작품이길"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=172338</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=172338</guid>
+            <pubDate>Sat, 13 Nov 2021 01:02:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=172338">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211113091836_1ac21c35a114fe983ce00c52a4f6e8c2.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=172338">트와이스 컴백 "SCIENTIST, 팬들에게 선물 같은 작품이길"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211113091836_1ac21c35a114fe983ce00c52a4f6e8c2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] '사이언티스트'로 변신한 트와이스 "원스, 곧 만날 때까지 몸 건강히 지내기!"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=172117</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=171484">[뮤비가 좋다] 퍼포먼스의 진수, TO1의 강렬한 무브</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211110093559_63e2e7e77bb4bdddd8c0cd6af1efb4d8.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[드디어 컴백하는 위키미키, 첫 티저 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=171478</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=171478</guid>
-            <pubDate>Wed, 10 Nov 2021 01:03:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=171478">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211110093307_1f827b96cc023b9af4121b8e06fd6de7.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=171478">드디어 컴백하는 위키미키, 첫 티저 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211110093307_1f827b96cc023b9af4121b8e06fd6de7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
