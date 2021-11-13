@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Nov 2021 21:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Nov 2021 22:21:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[브레이브걸스 유나, 동화 속 공주님 비주얼…러블리 모먼트 [인스타]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/330526</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/330526</guid>
+            <pubDate>Sat, 13 Nov 2021 22:21:11 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/330526">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/14/ybfTd9eiVb0g637724491073627588.jpg" alt="브레이브걸스 유나, 동화 속 공주님 비주얼…러블리 모먼트 [인스타] ">        <div class="text-box">            <p class="summary">브레이브걸스 유나, 동화 속 공주님 비주얼…러블리 모먼트 [인스타] </p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/14/ybfTd9eiVb0g637724491073627588.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘완성형 걸그룹’ 빌리, ‘RING X RING’ 핫 데뷔 (쇼! 음악중심)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/330505</link>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 12 Nov 2021 07:21:04 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/330440">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/12/WDsBz2g5yhuN637723283754706845.jpg" alt="티아라 MV티저 화제→'스우파' 가비·피넛 퍼포먼스 탄생">        <div class="text-box">            <p class="summary">티아라 MV티저 화제→'스우파' 가비·피넛 퍼포먼스 탄생</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/12/WDsBz2g5yhuN637723283754706845.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘아는 형님’ 시우민→설현까지, 형님들 절친 총출동한 ‘아형고 축제’]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/330427</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/330427</guid>
-            <pubDate>Fri, 12 Nov 2021 04:28:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/330427">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/12/77e3a5de-fd8e-4eca-947e-01aef1a9b108.jpg" alt="‘아는 형님’ 시우민→설현까지, 형님들 절친 총출동한 ‘아형고 축제’">        <div class="text-box">            <p class="summary">‘아는 형님’ 시우민→설현까지, 형님들 절친 총출동한 ‘아형고 축제’</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/12/77e3a5de-fd8e-4eca-947e-01aef1a9b108.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
