@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-13T12:31:38.443Z</updated>
+    <updated>2021-11-13T13:25:25.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엄정화, 선물받은 커피차 앞에서 활짝…믿기지 않는 동안 비주얼 [스타IN★]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003004480</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003004480"/>
+        <updated>2021-11-13T13:25:17.056Z</updated>
+        <content type="html"><![CDATA[엄정화가 커피차 선물에 감사를 전했다. 엄정화는 13일 자신의 인스타그램에 "너무 고마워요. 오늘 얼굴보고 너무 좋았어요. 커피 고마워요! 내맘알죠?"라는 글과 사진을 게재했다. 공개된 사진에는 선물 받은 커피차 앞]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘지리산’ 이날을 기다려왔다…전지현·주지훈, 1등 향한 분장 투혼]]></title>
         <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001621236</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=396&amp;aid=0000596833"/>
         <updated>2021-11-13T07:22:14.192Z</updated>
         <content type="html"><![CDATA[배우 이영애가 여신 미모를 자랑했다. 이영애는 13일 자신의 인스타그램에 “모처럼 쉬는 토요일 오전~ 구경이♥ 본방사수 하는 날~ 감사합니다”라는 글과 함께 사진 여러 장을 게재했다. 공개된 사진에는 카페에서 휴식을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['손준호♥' 김소현, 왕관 쓰고 "조금 친한 분과" 생일 파티…옹기종기 모인 세 식구 [TEN★]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000511296</id>
-        <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000511296"/>
-        <updated>2021-11-13T07:22:14.194Z</updated>
-        <content type="html"><![CDATA[[텐아시아=김지원 기자] 뮤지컬배우 김소현이 가족들에게 생일 축하를 받았다. 김소현은 13일 자신의 인스타그램에 "#211112 #HBD #tome 생일 축하해주셔서 정말 감사합니다. 2박 3일 동안 집에 없던 조금]]></content>
     </entry>
 </feed>
