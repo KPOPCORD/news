@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-13T08:26:03.353Z</updated>
+    <updated>2021-11-13T09:21:48.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“700억 재산권 찾아” 브리트니 스피어스, 13년만 후견인 족쇄 풀었다]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000510670</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000510670"/>
+        <updated>2021-11-13T09:21:48.286Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 팝스타 브리트니 스피어스가 13년 만에 자유를 찾고 700억 원의 재산권까지 직접 행사할 수 있게 됐다. 11월 12일(현지시간) 미국 현지 매체에 따르면 이날 미국 로스엔젤레스 법원은 브리트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[브리트니 스피어스, 치골 노출 파격! 바지를 어디까지 내려?[Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004509924</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000830866</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000830866"/>
         <updated>2021-11-12T13:26:26.581Z</updated>
-        <content type="html"><![CDATA[2021 미시즈 코리아 선발대회가 12일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. 대한민국 미시즈를 대표하는 '미시즈 코리아'는 기혼자 및 결혼경험이 있는 여성을 대상으로 개최되는 대한민국 최고의 미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미시즈 코리아 선발대회 선 이은주 [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000830865</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000830865"/>
-        <updated>2021-11-12T13:26:26.582Z</updated>
         <content type="html"><![CDATA[2021 미시즈 코리아 선발대회가 12일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. 대한민국 미시즈를 대표하는 '미시즈 코리아'는 기혼자 및 결혼경험이 있는 여성을 대상으로 개최되는 대한민국 최고의 미]]></content>
     </entry>
 </feed>
