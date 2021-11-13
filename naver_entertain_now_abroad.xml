@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-13T22:21:49.942Z</updated>
+    <updated>2021-11-13T23:21:32.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['트와일라잇' 테일리 로트너, 3년 사귄 여자친구와 약혼[Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004510099</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004510099"/>
+        <updated>2021-11-13T23:21:32.052Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 배우 테일러 로트너가 약혼했다. 13일(현지 시간) 테일러 로트너가 여자친구 테이 돔에게 지난 11일 프러포즈한 것으로 알려졌다. 이날 그는 자신의 인스타그램에 사진을 올리며 “나의 바람들이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“남편은 내 꿈의 남자, 아기 이름도 생각중” 40살 패리스 힐튼 품절녀 합류[해외이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003555219</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000830872</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000830872"/>
         <updated>2021-11-12T13:26:26.568Z</updated>
-        <content type="html"><![CDATA[2021 미시즈 코리아 선발대회가 12일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. 대한민국 미시즈를 대표하는 '미시즈 코리아'는 기혼자 및 결혼경험이 있는 여성을 대상으로 개최되는 대한민국 최고의 미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미시즈 코리아 선발대회 미 성미라 [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000830871</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000830871"/>
-        <updated>2021-11-12T13:26:26.570Z</updated>
         <content type="html"><![CDATA[2021 미시즈 코리아 선발대회가 12일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. 대한민국 미시즈를 대표하는 '미시즈 코리아'는 기혼자 및 결혼경험이 있는 여성을 대상으로 개최되는 대한민국 최고의 미]]></content>
     </entry>
 </feed>
