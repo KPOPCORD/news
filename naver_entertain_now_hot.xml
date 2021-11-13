@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-13T10:22:56.360Z</updated>
+    <updated>2021-11-13T11:17:56.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강원래, 오토바이 사고 전 추억 회상…'♥김송'과 행복한 여행 [스타IN★]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003004462</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003004462"/>
+        <updated>2021-11-13T11:17:48.033Z</updated>
+        <content type="html"><![CDATA[강원래가 오토바이 사고 전 여행을 회상했다. 강원래는 13일 자신의 SNS에 "강릉 경포호수, 강원래 김송. 사고 몇 개월 전"이라는 글과 사진을 게재했다. 공개된 사진에는 오토바이 사고가 나기 몇 개월 전 아내 김]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[태연, 잠옷 입고 뽐낸 극각의 러블리함 [스타IN★]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003004458</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=396&amp;aid=0000596830"/>
         <updated>2021-11-13T07:22:14.201Z</updated>
         <content type="html"><![CDATA[개그맨 이세진이 품절남 대열에 합류한다. 13일 개그맨 이세진은 서울 모처에서 8살 연하 비연예인 예비신부와 결혼식을 올린다. 이세진과 예비신부는 개그맨 서태훈의 소개로 처음 만나 3년 교제 끝에 부부의 연을 맺는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트레저 ‘남고괴담’, 성공적 출발…100만 뷰 성큼]]></title>
-        <id>https://entertain.naver.com/now/read?oid=396&amp;aid=0000596829</id>
-        <link href="https://entertain.naver.com/now/read?oid=396&amp;aid=0000596829"/>
-        <updated>2021-11-13T07:22:14.202Z</updated>
-        <content type="html"><![CDATA[그룹 트레저(TREASURE)의 웹드라마 '남고괴담'이 글로벌 팬들의 호평 속 무서운 인기몰이에 나서 주목된다. 13일 YG엔터테인먼트에 따르면 트레저의 웹드라마 '남고괴담'이 전날 밤 10시 공개된지 약 반나절 만]]></content>
     </entry>
 </feed>
