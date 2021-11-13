@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-13T03:22:31.977Z</updated>
+    <updated>2021-11-13T04:28:32.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“동화속 결혼식”…패리스 힐튼, 남자친구와 ‘화촉’]]></title>
+        <id>https://entertain.naver.com/now/read?oid=022&amp;aid=0003637793</id>
+        <link href="https://entertain.naver.com/now/read?oid=022&amp;aid=0003637793"/>
+        <updated>2021-11-13T04:28:32.037Z</updated>
+        <content type="html"><![CDATA[동갑내기 사업가 ‘카터 리움’과 사귄지 2년 만에 결혼 “마침내 왕자와 키스…어느 때보다 공주된 기분” 자평 힐튼호텔 창업주 콘래드 힐튼 옛 저택서 3일간 결혼식 결혼식, ‘패리스 인 러브’로 제작…인터넷 플랫폼 공]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“최고의 날” 브리트니 스피어스 14년만에 후견인 족쇄 풀었다]]></title>
         <id>https://entertain.naver.com/now/read?oid=011&amp;aid=0003984861</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000830859</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000830859"/>
         <updated>2021-11-12T13:26:26.599Z</updated>
-        <content type="html"><![CDATA[2021 미시즈 코리아 선발대회가 12일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. 대한민국 미시즈를 대표하는 '미시즈 코리아'는 기혼자 및 결혼경험이 있는 여성을 대상으로 개최되는 대한민국 최고의 미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 미시즈 코리아 클래식 퀸 김선해 [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000830858</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000830858"/>
-        <updated>2021-11-12T13:26:26.600Z</updated>
         <content type="html"><![CDATA[2021 미시즈 코리아 선발대회가 12일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. 대한민국 미시즈를 대표하는 '미시즈 코리아'는 기혼자 및 결혼경험이 있는 여성을 대상으로 개최되는 대한민국 최고의 미]]></content>
     </entry>
 </feed>

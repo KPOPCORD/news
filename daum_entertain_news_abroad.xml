@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-11-13T03:22:31.986Z</updated>
+    <updated>2021-11-13T04:28:32.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[패리스 힐튼♥동갑내기 작가, 초호화 결혼식]]></title>
+        <id>https://entertain.v.daum.net/v/20211113132606059</id>
+        <link href="https://entertain.v.daum.net/v/20211113132606059"/>
+        <updated>2021-11-13T04:28:12.063Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 이기은 기자] 호텔 체인 힐튼 그룹 '상속녀'이자 배우로도 활동한 패리스 힐튼(40)이 동갑내기 작가와 세기의 결혼식을 올렸다. 12일(이하 현지시간) 미국 현지 매체들은 힐튼이 지난 11일 미국 로스앤젤레스(LA) 인근 벨에어 저택에서 작가 겸 사업가 카터 리움과 결혼했다고 보도했다. 벨에어 저택은 힐튼호텔 창업주 콘래드 힐튼의 옛 저택으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["이혼후 몇주간 침대서 보내, 엄청난 충격" 아델 첫 심경 토로]]></title>
         <id>https://entertain.v.daum.net/v/20211113060004015</id>

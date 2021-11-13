@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-13T03:22:31.981Z</updated>
+    <updated>2021-11-13T04:28:32.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["이제부터 시작" MC몽, 2년 만 단독 콘서트]]></title>
+        <id>https://entertain.v.daum.net/v/20211113122659707</id>
+        <link href="https://entertain.v.daum.net/v/20211113122659707"/>
+        <updated>2021-11-13T04:28:03.417Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김현정 기자) 가수 MC몽이 2년 만의 단독 콘서트로 팬들을 만난다. MC몽은 오는 12월 30일과 31일 서울 광진구 예스24라이브홀에서 단독 공연 'MC몽 20주년 콘서트: 이제부터 시작이다!'를 개최한다. MC몽의 단독 콘서트는 지난 2019년 12월 '몽스터 주식회사 - 제1회 주주총회 뒤풀이 : 저세상텐션' 이후 2년 만이다. &nbsp;M]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트레저, '남고괴담' 공개 반나절 만에 100만 뷰 육박]]></title>
+        <id>https://entertain.v.daum.net/v/20211113122637706</id>
+        <link href="https://entertain.v.daum.net/v/20211113122637706"/>
+        <updated>2021-11-13T04:28:03.419Z</updated>
+        <content type="html"><![CDATA[[OSEN=연휘선 기자] YG&nbsp;대형 그룹 트레저(TREASURE)의 웹드라마&nbsp;'남고괴담'이 글로벌 팬들의 호평 속 무서운 인기몰이에 나서 주목된다. 13일&nbsp;YG엔터테인먼트에 따르면 트레저의 웹드라마&nbsp;'남고괴담'이 전날 밤&nbsp;10시 공개된지 약 반나절 만에&nbsp;100만뷰에 육박했다.&nbsp; 조회수로만 놓고 보면 국내 웹드라마의 폭발적인 성장세를 이끌었던 역대 최고 인기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MC몽, 2년만 단독콘서트 '이제부터 시작이다' 개최..또 다른 출발 예고]]></title>
         <id>https://entertain.v.daum.net/v/20211113121520615</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211113094900078"/>
         <updated>2021-11-13T01:03:07.692Z</updated>
         <content type="html"><![CDATA[[OSEN=선미경 기자] 그룹 NCT(엔시티,&nbsp;에스엠엔터테인먼트 소속)가 정규&nbsp;3집으로 다시 뭉쳤다. NCT&nbsp;정규&nbsp;3집&nbsp;'Universe’(유니버스)는 오는 12월&nbsp;14일 발매되며, NCT 127, NCT DREAM, NCT U, WayV&nbsp;등 월드 와이드 활약을 펼치고 있는&nbsp;NCT의 다채로운 조합과 케미스트리를 한꺼번에 만날 수 있어,&nbsp;글로벌 음악 팬들의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백' SF9, 황금빛 비주얼]]></title>
-        <id>https://entertain.v.daum.net/v/20211113094559052</id>
-        <link href="https://entertain.v.daum.net/v/20211113094559052"/>
-        <updated>2021-11-13T01:03:07.693Z</updated>
-        <content type="html"><![CDATA[[OSEN=선미경 기자] 그룹 SF9(영빈 인성 재윤 다원 로운 주호 유태양 휘영 찬희)이 마지막 재킷 포스터를 공개했다. SF9의 소속사 FNC엔터테인먼트는 지난 12일 오후 6시에 SF9 공식 SNS를 통해 미니 10집 ‘RUMINATION’의 Connect버전 재킷 포스터를 공개했다. 공개된 세 번째 Connect버전 재킷 포스터는 이전 Scar, B]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트와이스, 'SCIENTIST'로 新 인기 공식 정립.."팬들에게 선물 같은 작품이길"]]></title>
-        <id>https://entertain.v.daum.net/v/20211113094428037</id>
-        <link href="https://entertain.v.daum.net/v/20211113094428037"/>
-        <updated>2021-11-13T01:03:07.694Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이덕행 기자] /사진=JYP 엔터테인먼트트와이스가 정규 3집과 신곡 'SCIENTIST'(사이언티스트)로 새로운 인기 공식을 정립했다. 트와이스는 11월 12일 오후 2시 세 번째 정규 앨범 'Formula of Love: O+T=&lt;3'(포뮬러 오브 러브: O+T=&lt;3)와 타이틀곡 'SCIENTIST'를 발표하고 컴백했다. 2020년 10월 정규]]></content>
     </entry>
 </feed>
