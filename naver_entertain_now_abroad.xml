@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-13T05:18:44.493Z</updated>
+    <updated>2021-11-13T06:24:43.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[패리스 힐튼, 사흘간 호화 결혼식 “동화 속 결혼, 공주된 것 같아”]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000510631</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000510631"/>
+        <updated>2021-11-13T06:24:42.874Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 할리우드 스타 패리스 힐튼(Paris Hilton)이 초호화 결혼식을 올렸다. 미국 연예매체 페이지 식스는 최근 패리스 힐튼이 11월 11일(현지시간) 작가 겸 벤처 투자가 카터 리움과 결혼했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“700억 재산권 확보”, 브리트니 스피어스 “13년만에 자유 찾아 기쁘다”[해외이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003555123</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000830863</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000830863"/>
         <updated>2021-11-12T13:26:26.586Z</updated>
-        <content type="html"><![CDATA[2021 미시즈 코리아 선발대회가 12일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. 대한민국 미시즈를 대표하는 '미시즈 코리아'는 기혼자 및 결혼경험이 있는 여성을 대상으로 개최되는 대한민국 최고의 미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정지안 '퀸 발표 순간 행복' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000830862</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000830862"/>
-        <updated>2021-11-12T13:26:26.588Z</updated>
         <content type="html"><![CDATA[2021 미시즈 코리아 선발대회가 12일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. 대한민국 미시즈를 대표하는 '미시즈 코리아'는 기혼자 및 결혼경험이 있는 여성을 대상으로 개최되는 대한민국 최고의 미]]></content>
     </entry>
 </feed>
