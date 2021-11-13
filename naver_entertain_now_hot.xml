@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-13T15:22:02.771Z</updated>
+    <updated>2021-11-13T16:31:09.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송가인, 한우 먹방에 행복 “자주 가볼테야” [M+★SNS]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001621249</id>
+        <link href="https://entertain.naver.com/now/read?oid=057&amp;aid=0001621249"/>
+        <updated>2021-11-13T16:31:03.112Z</updated>
+        <content type="html"><![CDATA[가수 송가인이 한우 먹방 인증샷을 공개했다. 송가인은 12일 자신의 인스타그램에 “어쩜......나 이런 곳 처음 와봤자냐. 처음 부터 많이 먹으면 안된다는 것을, 나중에 알았지 뭐여..........”라는 글을 적]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송가인, 여유 가득 일상…미모는 열일 [똑똑SNS]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000830964</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=022&amp;aid=0003637817"/>
         <updated>2021-11-13T08:25:56.645Z</updated>
         <content type="html"><![CDATA[“두 회사, 합병법인 IST 출범…상호 유기적 관계로 시너지 발휘” 더보이즈, 에이핑크·빅톤·위클리·밴디지 등 한솥밥…경쟁력 강화 IST엔터테인먼트 로고. IST엔터테인먼트 제공 카카오엔터테인먼트의 음악 레이블 자회]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['53억 아파트 거주' 김지혜, 딸 명문학교 보낸 열혈맘의 럭셔리 아침 [TEN★]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000511301</id>
-        <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000511301"/>
-        <updated>2021-11-13T07:22:14.183Z</updated>
-        <content type="html"><![CDATA[[텐아시아=태유나 기자] 개그우먼 김지혜가 간편한 아침 식단을 공개했다. 김지혜는 13일 자신의 인스타그램 스토리에 "9 : 33 AM"이라는 시간 표시와 함께 사진을 게재했다. 이날 공개된 사진 속에는 김지혜의 아]]></content>
     </entry>
 </feed>
