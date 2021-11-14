@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-14T18:24:01.976Z</updated>
+    <updated>2021-11-14T19:17:16.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[황신영, 세쌍둥이 중 둘째 응급 수술 "세균 감염으로 고름 뺐다" [TEN★]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000511428</id>
+        <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000511428"/>
+        <updated>2021-11-14T19:17:07.918Z</updated>
+        <content type="html"><![CDATA[[텐아시아=우빈 기자] 최근 삼둥이를 출산한 개그우먼 황신영이 둘째 아준이의 응급 수술을 알렸다. 황신영은 14일 인스타그램에 소아병동에 입원 중인 둘째 아준 군의 사진과 함께 "우리 둘째 아준이는 지금 응급실에 있]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['유준상♥' 홍은희, 아침인데 이런 얼굴 [TEN★]]]></title>
         <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000511426</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000944967"/>
         <updated>2021-11-14T15:21:26.072Z</updated>
         <content type="html"><![CDATA[에스파→훅, 찬바람 불 땐…더 뜨거운 K팝 열기! [포토화보] K팝 스타들이 열정 넘치는 무대로 찬바람을 물리쳤다. 14일 경기도 고양시 일산서구 킨텍스에서는 ‘2021 월드 케이팝 콘서트:빛4U 콘서트’가 열렸다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라비, '1박2일' 100회 감사 "유일하게 막내 되는 공간"[스타IN★]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003004651</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003004651"/>
-        <updated>2021-11-14T15:21:26.073Z</updated>
-        <content type="html"><![CDATA[래퍼 라비가 KBS 2TV 예능프로그램 '1박 2일' 100회에 감사 인사를 전했다. 라비는 14일 자신의 SNS 계정을 통해 "소중한 인연과 추억에 대한 감사함에 무던해지지 않는 사람이 되겠다. EP.100 내가]]></content>
     </entry>
 </feed>
