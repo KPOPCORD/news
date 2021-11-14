@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Nov 2021 04:27:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Nov 2021 05:18:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세븐틴, 온라인 콘서트 ‘POWER OF LOVE’ 개최...미공개곡 최초 공개]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/330553</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/330553</guid>
+            <pubDate>Sun, 14 Nov 2021 05:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/330553">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/14/NBk7yX9vIp6b637724951665280329.jpg" alt="세븐틴, 온라인 콘서트 ‘POWER OF LOVE’ 개최...미공개곡 최초 공개">        <div class="text-box">            <p class="summary">세븐틴, 온라인 콘서트 ‘POWER OF LOVE’ 개최...미공개곡 최초 공개</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/14/NBk7yX9vIp6b637724951665280329.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[투모로우바이투게더, ‘Frost’ 스페셜 퍼포먼스 비디오 깜짝 공개]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/330544</link>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 12 Nov 2021 10:23:03 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/330456">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/12/6c029ef8-ce47-4c56-b44b-8223b5ea4b33.jpg" alt="'등교전 망설임' 마지막 회…선공개 영상 공개">        <div class="text-box">            <p class="summary">'등교전 망설임' 마지막 회…선공개 영상 공개</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/12/6c029ef8-ce47-4c56-b44b-8223b5ea4b33.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['야생돌' 김성규, 대체불가 명MC…독보적 존재감 폭발]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/330447</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/330447</guid>
-            <pubDate>Fri, 12 Nov 2021 08:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/330447">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/12/e9e4b1cf-c9ab-4fa5-a0a5-77d2ff74c45e.jpg" alt="'야생돌' 김성규, 대체불가 명MC…독보적 존재감 폭발 ">        <div class="text-box">            <p class="summary">'야생돌' 김성규, 대체불가 명MC…독보적 존재감 폭발 </p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/12/e9e4b1cf-c9ab-4fa5-a0a5-77d2ff74c45e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
