@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-14T12:31:58.987Z</updated>
+    <updated>2021-11-14T13:24:40.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세븐틴 민규 "꿈에서 울음 터져"→승관 "직접 만나고파" 캐럿에 전한 '사랑의 힘']]></title>
+        <id>https://entertain.v.daum.net/v/20211114221011489</id>
+        <link href="https://entertain.v.daum.net/v/20211114221011489"/>
+        <updated>2021-11-14T13:24:06.114Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 세븐틴이 전 세계 캐럿(팬덤명)의 함성에 사랑으로 화답했다. 14일 오후 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)은 온라인 콘서트 'POWER OF LOVE'를 개최했다. 세븐틴의 이번 콘서트는 지난 1월 개최됐던 'IN-COMPLETE' 이후 약 10개월 만]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3천명 대면 공연 물꼬..함성 대신 물개박수 "따라부르면 안돼요"]]></title>
+        <id>https://entertain.v.daum.net/v/20211114213902225</id>
+        <link href="https://entertain.v.daum.net/v/20211114213902225"/>
+        <updated>2021-11-14T13:24:06.117Z</updated>
+        <content type="html"><![CDATA[(고양=연합뉴스) 이태수 기자 = "저희는 오늘 팬들을 처음 뵙는 자리에요. 너무 보고 싶었어요."(에스파 카리나) 신종 코로나바이러스 감염증(코로나19)이 가요계를 할퀸 지 약 2년 만에 K팝 스타들이 약 3천 관객 앞에 서는 자리가 14일 마련됐다. 이날 행사는 문화체육관광부와 한국국제문화교류진흥원이 경기도 고양시 킨텍스에서 연 '2021 월드 K팝 콘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["명불허전 공연강자".. 세븐틴, '따로 또 같이' 열정의 무대]]></title>
         <id>https://entertain.v.daum.net/v/20211114200706376</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211114171018961"/>
         <updated>2021-11-14T08:24:56.348Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) (인터뷰②에 이어). 데뷔한지 약 10일 정도. 버가부를 만났을 때 시점이다. 버가부는 “우리끼리 오랜 시간 연습한 것을 세상에 알릴 수 있다는 사실 자체가 벅차다”라고 전했다. 음악방송 클립이 인터넷에 떴을 때 자신들이 데뷔했다는 사실을 실감한다고. 코로나19로 인해 연예계 포함 사회 전체가 얼어붙었던 시간. 이 시간은 이미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[버가부, "우리의 강점은 정신력과 퍼포먼스"]]></title>
-        <id>https://entertain.v.daum.net/v/20211114171016960</id>
-        <link href="https://entertain.v.daum.net/v/20211114171016960"/>
-        <updated>2021-11-14T08:24:56.349Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) (인터뷰①에 이어). 각자 자신의 포지션, 자기만의 매력을 이야기한 버가부. 본인들이 생각하는 ‘팀’ 버가부의 개성과 강점은 무엇일까. 버가부는 아크로바틱 기반의 칼군무를 언급했다. 멤버 은채는 “쉽지 않은 퍼포먼스를 하고 있고, 앞으로도 많이 보여드릴 예정이다. (내가 주로 하고 있지만) 저 말고 유우나나 레이니도 기술을 배우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[초연→은채..버가부, 신인 걸그룹의 6인 6색 자기소개]]></title>
-        <id>https://entertain.v.daum.net/v/20211114171002952</id>
-        <link href="https://entertain.v.daum.net/v/20211114171002952"/>
-        <updated>2021-11-14T08:24:56.350Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 걸그룹 버가부(bugAboo, 초연 유우나 레이니 지인 은채 시안)가 세상에 나왔다. 버가부(bugAboo)는 지난 10월 25일 오후 6시 각종 음원사이트를 통해 첫 번째 싱글 앨범 ‘bugAboo’(버가부)를 공개, 가요계에 첫 발을 내딛었다. 타이틀곡 ‘bugAboo’를 포함해 수록곡 ‘All Night Play’(올 나잇]]></content>
     </entry>
 </feed>
