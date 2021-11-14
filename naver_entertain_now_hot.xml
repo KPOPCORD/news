@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-14T16:32:06.963Z</updated>
+    <updated>2021-11-14T17:26:14.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['유준상♥' 홍은희, 아침인데 이런 얼굴 [TEN★]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000511426</id>
+        <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000511426"/>
+        <updated>2021-11-14T17:26:07.343Z</updated>
+        <content type="html"><![CDATA[[텐아시아=노규민 기자] 배우 홍은희가 우월한 미모로 시선을 사로잡았다. 홍은희는 14일 자신의 인스타그램에 "굿모닝입니다. 오늘 촬영은 춘천이네요~점심은 닭갈비 먹어야겠죠?ㅋ 추울까봐 걱정했는데...괜찮아요"라는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["내가 이상한거야?"…'추녀' 한채아, 딸과 산책길 [TEN★]]]></title>
         <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000511425</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003004651"/>
         <updated>2021-11-14T15:21:26.073Z</updated>
         <content type="html"><![CDATA[래퍼 라비가 KBS 2TV 예능프로그램 '1박 2일' 100회에 감사 인사를 전했다. 라비는 14일 자신의 SNS 계정을 통해 "소중한 인연과 추억에 대한 감사함에 무던해지지 않는 사람이 되겠다. EP.100 내가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송혜교, 흑백사진 속 美친 미모 [TEN★]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000511414</id>
-        <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000511414"/>
-        <updated>2021-11-14T15:21:26.074Z</updated>
-        <content type="html"><![CDATA[[텐아시아=노규민 기자] 배우 송혜교가 흑백사진으로 독보적인 미모를 자랑했다. 송혜교는 14일 자신의 인스타그램에 여러장의 사진을 게재했다. 사진 속 송혜교는 미니 원피스에 가디건을 매치한 가을 패션으로 시선을 사로]]></content>
     </entry>
 </feed>
