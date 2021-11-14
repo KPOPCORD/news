@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-14T21:19:02.512Z</updated>
+    <updated>2021-11-14T22:21:00.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[걸그룹 있지 '다이어트 자극 몸매' [MK화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000831290</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000831290"/>
+        <updated>2021-11-14T22:20:59.792Z</updated>
+        <content type="html"><![CDATA['2021 월드 케이팝 콘서트 : 빛 4 U 콘서트'가 14일 오후 경기도 일산 킨텍스에서 열렸다. 이날 콘서트에는 스트릿 우먼 파이터 아이키, NCT 드림, 샤이니 키, 펜타곤, 걸그룹 있지, 브레이브걸스, 래퍼]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NCT 드림 '멋진 남자들' [MK포토]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000831282</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000831257</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000831257"/>
         <updated>2021-11-14T13:24:39.554Z</updated>
-        <content type="html"><![CDATA['2021 월드 케이팝 콘서트 : 빛 4 U 콘서트'가 14일 오후 경기도 일산 킨텍스에서 열렸다. 이날 콘서트에는 스트릿 우먼 파이터 아이키, NCT 드림, 샤이니 키, 펜타곤, 걸그룹 있지, 브레이브걸스, 래퍼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[류진 '파워 웨이브' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000831256</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000831256"/>
-        <updated>2021-11-14T13:24:39.555Z</updated>
         <content type="html"><![CDATA['2021 월드 케이팝 콘서트 : 빛 4 U 콘서트'가 14일 오후 경기도 일산 킨텍스에서 열렸다. 이날 콘서트에는 스트릿 우먼 파이터 아이키, NCT 드림, 샤이니 키, 펜타곤, 걸그룹 있지, 브레이브걸스, 래퍼]]></content>
     </entry>
 </feed>
