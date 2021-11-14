@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-14T09:21:57.385Z</updated>
+    <updated>2021-11-14T10:23:30.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[테일러 스위프트, 9세 연상 제이크 질렌할 너무 사랑했나..가사에 '마상'[Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004510589</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004510589"/>
+        <updated>2021-11-14T10:23:30.044Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 팝가수 테일러 스위프트(31)가 전 연인이 배우 제이크 질렌할(40)에게 받은 마음의 상처가 절절하다. 페이지식스의 12일(현지시간) 보도에 따르면 테일러 스위프트의 곡 '올 투 웰(All]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[영상] 파티는 3일·드레스는 4벌…패리스 힐튼 초호화 결혼식]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012791603</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000510670"/>
         <updated>2021-11-13T09:21:48.286Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이하나 기자] 팝스타 브리트니 스피어스가 13년 만에 자유를 찾고 700억 원의 재산권까지 직접 행사할 수 있게 됐다. 11월 12일(현지시간) 미국 현지 매체에 따르면 이날 미국 로스엔젤레스 법원은 브리트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브리트니 스피어스, 치골 노출 파격! 바지를 어디까지 내려?[Oh!llywood]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004509924</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004509924"/>
-        <updated>2021-11-13T08:26:02.682Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] 브리트니 스피어스가 아찔한 노출을 감행했다. 브리트니 스피어스는 13일(한국시각) 자신의 인스타그램에 별다른 메시지 없이 영상 하나를 올렸다. 영상에서 그는 금발머리를 길게 늘어뜨린 채 배가]]></content>
     </entry>
 </feed>
