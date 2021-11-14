@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-14T06:26:00.730Z</updated>
+    <updated>2021-11-14T07:21:31.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[영상] 파티는 3일·드레스는 4벌…패리스 힐튼 초호화 결혼식]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012791603</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012791603"/>
+        <updated>2021-11-14T07:21:30.544Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 힐튼 그룹 상속녀이자 미국 사교계 유명 인사인 패리스 힐튼(40)의 결혼식이 화제가 되고 있습니다. 힐튼은 지난 11일(현지시간) 미국 로스앤젤레스(LA) 인근 벨에어 저택에서 동갑내기 사업가 카터 리움과 결혼식을 올렸는데요. 예식 행사는 웨딩 마치에 이어 사흘 동안 호화롭게 진행됐고, 힐튼은 결혼식 당...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[브리트니 스피어스, 13년 만에 후견인 벗어나 자유의 몸..700억 되찾았다 [Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004510361</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004509924"/>
         <updated>2021-11-13T08:26:02.682Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] 브리트니 스피어스가 아찔한 노출을 감행했다. 브리트니 스피어스는 13일(한국시각) 자신의 인스타그램에 별다른 메시지 없이 영상 하나를 올렸다. 영상에서 그는 금발머리를 길게 늘어뜨린 채 배가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브리트니 스피어스, 13년만에 자유의 몸…"내 생애 최고의 날"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003004430</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003004430"/>
-        <updated>2021-11-13T08:26:02.683Z</updated>
-        <content type="html"><![CDATA[팝스타 브리트니 스피어스가 13년 만에 자유를 찾았다. 12일(현지시간) 버라이어티 등 현지 매체 따르면 미국 로스앤젤레스 법원은 이날 브리트니 스피어스에 대한 후견인 제도 적용을 종료하는 결정을 내렸다. 법원 앞에]]></content>
     </entry>
 </feed>
