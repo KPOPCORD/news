@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-14T11:19:41.163Z</updated>
+    <updated>2021-11-14T12:31:58.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘인기가요’ 전소미, ‘XOXO’로 강렬+시크 악동 변신…귀여운 반전 매력까지]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000831209</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000831209"/>
+        <updated>2021-11-14T12:31:46.004Z</updated>
+        <content type="html"><![CDATA[‘인기가요’ 전소미가 치명적인 퍼포먼스를 선보였다. 전소미는 14일 오후 방송된 SBS ‘인기가요’에 출연해 첫 번째 정규 앨범 ‘XOXO’의 동명 타이틀곡 ‘XOXO’ 무대를 선보였다. 이날 강렬한 호피 무늬 의상]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위아이 김요한, 코로나19 확진…KBS '학교 2021' 첫 방송 연기(종합)]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012792132</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001373225"/>
         <updated>2021-11-14T09:21:41.819Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 세븐틴 멤버 준과 디에잇이 캐럿(팬덤명)에게 깜짝 인사를 전했다. 14일 오후 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘미스트롯2’ 양지은X홍지윤X김다현X김태연! 국악 앨범 ‘소리꽃’ 발매[공식]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001199519</id>
-        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001199519"/>
-        <updated>2021-11-14T09:21:41.820Z</updated>
-        <content type="html"><![CDATA[‘미스트롯2’ TOP4의 스페셜 국악 앨범 ‘소리꽃’이 드디어 베일을 벗는다. 14일 전 온라인 음원사이트 등을 통해 양지은, 홍지윤, 김다현, 김태연의 스페셜 국악 앨범 ‘소리꽃’이 발매되며, 린브랜딩 공식 유튜브]]></content>
     </entry>
 </feed>
