@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-13T23:21:32.853Z</updated>
+    <updated>2021-11-14T01:06:57.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[패리스 힐튼, 동갑내기 연인 카터 리움과 결혼]]></title>
+        <id>https://entertain.naver.com/now/read?oid=079&amp;aid=0003574564</id>
+        <link href="https://entertain.naver.com/now/read?oid=079&amp;aid=0003574564"/>
+        <updated>2021-11-14T01:06:57.039Z</updated>
+        <content type="html"><![CDATA[세계적인 호텔 체인 힐튼 그룹의 상속자이자 할리우드 스타로 유명한 패리스 힐튼이 결혼했다. 보그·CNN 등 외신 보도에 따르면, 패리스 힐튼은 지난 11일(현지 시간) 할아버지 배런 힐튼의 사유지에서 약혼자 카터 리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[피임 강요받던 브리트니, 13년 족쇄 풀었다…"역대 최고의 날"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010830586</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010830586"/>
+        <updated>2021-11-14T01:06:57.040Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 미국 팝스타 브리트니 스피어스(40)가 13년 넘게 계속된 아버지의 후견인 제도에서 벗어나 자유와 자기결정권을 되찾았다. 후견인 간섭 없이 재산권도 직접 행사할 수 있는 법적 권리도 얻]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['트와일라잇' 테일리 로트너, 3년 사귄 여자친구와 약혼[Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004510099</id>
@@ -164,20 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000830874</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000830874"/>
         <updated>2021-11-12T13:26:26.565Z</updated>
-        <content type="html"><![CDATA[2021 미시즈 코리아 선발대회가 12일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. 대한민국 미시즈를 대표하는 '미시즈 코리아'는 기혼자 및 결혼경험이 있는 여성을 대상으로 개최되는 대한민국 최고의 미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미시즈 코리아 선발대회 클래식 미 제성희 [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000830873</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000830873"/>
-        <updated>2021-11-12T13:26:26.567Z</updated>
-        <content type="html"><![CDATA[2021 미시즈 코리아 선발대회가 12일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. 대한민국 미시즈를 대표하는 '미시즈 코리아'는 기혼자 및 결혼경험이 있는 여성을 대상으로 개최되는 대한민국 최고의 미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미시즈 코리아 선발대회 미 장미진 [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000830872</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000830872"/>
-        <updated>2021-11-12T13:26:26.568Z</updated>
         <content type="html"><![CDATA[2021 미시즈 코리아 선발대회가 12일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. 대한민국 미시즈를 대표하는 '미시즈 코리아'는 기혼자 및 결혼경험이 있는 여성을 대상으로 개최되는 대한민국 최고의 미]]></content>
     </entry>
 </feed>
