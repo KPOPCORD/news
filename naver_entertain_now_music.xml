@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-14T19:17:16.527Z</updated>
+    <updated>2021-11-14T20:22:17.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아름다운 임영웅, 아름다운 단풍계절 '함께 산행하고 싶은 스타']]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003004683</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003004683"/>
+        <updated>2021-11-14T20:22:02.396Z</updated>
+        <content type="html"><![CDATA[가수 임영웅이 '함께 산행하고 싶은 스타' 1위에 오르며 인기를 또 한 번 입증했다. 임영웅은 11월 7일부터 11월 13일까지 익사이팅디시에서 진행된 '아름다운 단풍 계절, 함께 산행하고 싶은 스타는?' 설문에서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[포토] 에스파, '엔딩도 완벽하게~']]></title>
         <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004628300</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004628266</id>
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004628266"/>
         <updated>2021-11-14T16:31:54.232Z</updated>
-        <content type="html"><![CDATA[가수 사이먼 도미닉, 로꼬가 14일 오후 경기도 고양시 킨텍스에서 열린 ‘2021 월드 케이팝 콘서트(한국문화축제)’에 참석해 공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 사이먼 도미닉-로꼬, '무대는 언제나 즐거워~']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004628265</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004628265"/>
-        <updated>2021-11-14T16:31:54.235Z</updated>
         <content type="html"><![CDATA[가수 사이먼 도미닉, 로꼬가 14일 오후 경기도 고양시 킨텍스에서 열린 ‘2021 월드 케이팝 콘서트(한국문화축제)’에 참석해 공연을 펼치고 있다.]]></content>
     </entry>
 </feed>
