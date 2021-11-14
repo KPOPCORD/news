@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-14T03:21:57.360Z</updated>
+    <updated>2021-11-14T04:27:39.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[우주소녀 설아 "제 목소리, 게임 캐릭터 같았나요?"]]></title>
-        <id>https://entertain.v.daum.net/v/20211114121044056</id>
-        <link href="https://entertain.v.daum.net/v/20211114121044056"/>
-        <updated>2021-11-14T03:21:25.644Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김현식 기자] 걸그룹 우주소녀(WJSN) 멤버 설아가 솔로 OST로 팬들에게 매력적인 목소리를 들려줬다. 설아가 가창을 맡은 곡은 지난 10일 각종 음원사이트를 통해 공개된 온라인 액션 RPG 게임 ‘엘소드’(Elsword) OST ‘인 더 바이올렛 아워’(In the Violet Hour). 데뷔 후 첫 게임 OST 가창이었다는 점에]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[블랙핑크 리사 'MONEY' 스포티파이 2억 스트리밍 돌파]]></title>
         <id>https://entertain.v.daum.net/v/20211114112423220</id>
@@ -109,5 +102,12 @@
         <link href="https://entertain.v.daum.net/v/20211114071010332"/>
         <updated>2021-11-13T22:21:17.292Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 올라운더 뮤지션 가호(Gaho)의 첫 정규 앨범 ‘Fireworks’ 티저 이미지 완전체가 공개됐다. 플라네타리움 레코드(PLT)는 지난 9일부터 12일까지 공식 SNS를 통해 오는 23일 오후 6시에 발매되는 가호(Gaho)의 정규 1집 ‘Fireworks(파이어웍스)’의 여러 콘셉트 티저 이미지를 공개하며 시선을 사로잡았다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['위드 코로나' 행사 재개에 걸그룹 시장 모처럼 훈풍]]></title>
+        <id>https://entertain.v.daum.net/v/20211114070030216</id>
+        <link href="https://entertain.v.daum.net/v/20211114070030216"/>
+        <updated>2021-11-14T04:27:10.050Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이태수 기자 = 신종 코로나바이러스 감염증(코로나19)으로 한동안 '찬바람'이 불던 가요계 걸그룹 시장에 모처럼 훈풍이 불고 있다. '위드 코로나'로 걸그룹의 주 수입원 가운데 하나인 각종 축제·행사가 늘어나면서 섭외가 살아나는 가운데 행사 재개에 대한 기대가 커지면서 신인 데뷔도 잇따르고 있다. 14일 가요계에 따르면 걸그룹 오마이걸은]]></content>
     </entry>
 </feed>

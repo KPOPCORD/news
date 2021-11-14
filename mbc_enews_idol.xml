@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Nov 2021 03:21:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Nov 2021 04:27:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[투모로우바이투게더, ‘Frost’ 스페셜 퍼포먼스 비디오 깜짝 공개]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/330544</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/330544</guid>
+            <pubDate>Sun, 14 Nov 2021 04:27:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/330544">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/14/5jEn734TiYNe637724914993885149.jpg" alt="투모로우바이투게더, ‘Frost’ 스페셜 퍼포먼스 비디오 깜짝 공개">        <div class="text-box">            <p class="summary">투모로우바이투게더, ‘Frost’ 스페셜 퍼포먼스 비디오 깜짝 공개</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/14/5jEn734TiYNe637724914993885149.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[브레이브걸스 유나, 동화 속 공주님 비주얼…러블리 모먼트 [인스타]]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/330526</link>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 12 Nov 2021 08:24:30 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/330447">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/12/e9e4b1cf-c9ab-4fa5-a0a5-77d2ff74c45e.jpg" alt="'야생돌' 김성규, 대체불가 명MC…독보적 존재감 폭발 ">        <div class="text-box">            <p class="summary">'야생돌' 김성규, 대체불가 명MC…독보적 존재감 폭발 </p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/12/e9e4b1cf-c9ab-4fa5-a0a5-77d2ff74c45e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티아라 MV티저 화제→'스우파' 가비·피넛 퍼포먼스 탄생]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/330440</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/330440</guid>
-            <pubDate>Fri, 12 Nov 2021 07:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/330440">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/12/WDsBz2g5yhuN637723283754706845.jpg" alt="티아라 MV티저 화제→'스우파' 가비·피넛 퍼포먼스 탄생">        <div class="text-box">            <p class="summary">티아라 MV티저 화제→'스우파' 가비·피넛 퍼포먼스 탄생</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/12/WDsBz2g5yhuN637723283754706845.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
