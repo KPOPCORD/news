@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-14T20:22:17.243Z</updated>
+    <updated>2021-11-14T21:19:02.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에이티즈, XR SHOW ‘피버 : 익스텐디드 에디션’ 성료…확장된 세계관]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001373269</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001373269"/>
+        <updated>2021-11-14T21:18:47.090Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 에이티즈(ATEEZ)가 XR 기술을 통해 확장된 세계관으로 전 세계 팬들을 매료시켰다 14일 에이티즈는 XR 쇼 ‘피버 : 익스텐디드 에디션(FEVER : eXtended edition)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘힐링 트롯돌’ 이찬원, ‘힘을 내세요’ 공식 뮤비 200만 뷰 돌파]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001373268</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001373268"/>
+        <updated>2021-11-14T21:18:47.090Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 이찬원의 '힘을 내세요' 공식 뮤직비디오 조회 수 200만 뷰를 넘어섰다. 지난 2021년 10월 7일 이찬원 공식 유튜브 채널인 ‘이찬원’(일명 '또튜브')에는 “이찬원 LEE CHAN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[싱어송라이터 미스피츠, 청춘이 자기중심을 잡아가는 과정 #Belief [엑's 인터뷰]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001373266</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001373266"/>
+        <updated>2021-11-14T21:18:47.090Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 최근 음악계에서 가장 주목받는 싱어송라이터 미스피츠(msftz)는 지난 3일 첫 번째 EP 앨범 ‘Belief’를 발매했다. 뛰어난 음악성으로 앨범의 작사, 작곡, 편곡을 주도한 미스피츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아름다운 임영웅, 아름다운 단풍계절 '함께 산행하고 싶은 스타']]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003004683</id>
@@ -158,26 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004628269"/>
         <updated>2021-11-14T16:31:54.230Z</updated>
         <content type="html"><![CDATA[가수 사이먼 도미닉이 14일 오후 경기도 고양시 킨텍스에서 열린 ‘2021 월드 케이팝 콘서트(한국문화축제)’에 참석해 공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 로꼬, '사이먼 도미닉 바라보며 귀여운 미소~']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004628268</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004628268"/>
-        <updated>2021-11-14T16:31:54.230Z</updated>
-        <content type="html"><![CDATA[가수 사이먼 도미닉, 로꼬가 14일 오후 경기도 고양시 킨텍스에서 열린 ‘2021 월드 케이팝 콘서트(한국문화축제)’에 참석해 공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 사이먼 도미닉-로꼬, '무대 위에서 가장 멋진 두 남자']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004628267</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004628267"/>
-        <updated>2021-11-14T16:31:54.231Z</updated>
-        <content type="html"><![CDATA[가수 사이먼 도미닉, 로꼬가 14일 오후 경기도 고양시 킨텍스에서 열린 ‘2021 월드 케이팝 콘서트(한국문화축제)’에 참석해 공연을 펼치고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 사이먼 도미닉-로꼬, '호흡이 척척~']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004628266</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004628266"/>
-        <updated>2021-11-14T16:31:54.232Z</updated>
-        <content type="html"><![CDATA[가수 사이먼 도미닉, 로꼬가 14일 오후 경기도 고양시 킨텍스에서 열린 ‘2021 월드 케이팝 콘서트(한국문화축제)’에 참석해 공연을 펼치고 있다.]]></content>
     </entry>
 </feed>
