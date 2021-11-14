@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-14T01:06:57.653Z</updated>
+    <updated>2021-11-14T02:36:17.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“마법 같다” 40세 패리스 힐튼, 초호화 명품 드레스 입고 꿈의 결혼식]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000510812</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000510812"/>
+        <updated>2021-11-14T02:36:16.527Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 세계 유명 호텔 체인인 '힐튼 호텔' 상속자로 유명한 패리스 힐튼이 결혼했다. 이번이 그의 첫 결혼이다. CNN 등 외신 보도에 따르면 패리스 힐튼(40)은 동갑내기 사업가인 카터 럼과 11월]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['할리우드 악동' 린제이 로한 돌아온다..어떻게 변했나[Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004510169</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004510169"/>
+        <updated>2021-11-14T02:36:16.528Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] '할리우드의 악동' 린제이 로한(35)이 돌아온다. 몇 년 공백기를 가진 린제이 로한이 인기 미국드라마 '글리'의 스타인 코드 오버스트리트 함께 내년 공개되는 넷플릭스 로맨틱코미디에서 주연을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[패리스 힐튼, 동갑내기 연인 카터 리움과 결혼]]></title>
         <id>https://entertain.naver.com/now/read?oid=079&amp;aid=0003574564</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005720920"/>
         <updated>2021-11-12T14:20:10.777Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정윤미 기자 = 세계 최대 호텔체인 기업의 상속녀 패리스 힐튼이 11일(현지시간) 불혹의 나이로 웨딩마치를 올렸다고 영국 일간 데일리메일은 보도했다. 보도에 따르면 힐튼은 동갑내기 약혼남인 카터 리움]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미시즈 코리아 선발대회 클래식 미 김민주 [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000830875</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000830875"/>
-        <updated>2021-11-12T13:26:26.564Z</updated>
-        <content type="html"><![CDATA[2021 미시즈 코리아 선발대회가 12일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. 대한민국 미시즈를 대표하는 '미시즈 코리아'는 기혼자 및 결혼경험이 있는 여성을 대상으로 개최되는 대한민국 최고의 미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미시즈 코리아 선발대회 클래식 미 이주영 [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000830874</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000830874"/>
-        <updated>2021-11-12T13:26:26.565Z</updated>
-        <content type="html"><![CDATA[2021 미시즈 코리아 선발대회가 12일 오후 서울 광진구 광장동 그랜드 워커힐 서울에서 열렸다. 대한민국 미시즈를 대표하는 '미시즈 코리아'는 기혼자 및 결혼경험이 있는 여성을 대상으로 개최되는 대한민국 최고의 미]]></content>
     </entry>
 </feed>
