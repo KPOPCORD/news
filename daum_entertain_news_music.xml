@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-15T09:23:38.515Z</updated>
+    <updated>2021-11-15T10:25:00.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AAA, 美뉴욕 타임스스퀘어 장식..K시상식 향한 기대감↑]]></title>
+        <id>https://entertain.v.daum.net/v/20211115183620098</id>
+        <link href="https://entertain.v.daum.net/v/20211115183620098"/>
+        <updated>2021-11-15T10:24:24.729Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김미화 기자] /사진=뉴욕 타임스 스퀘어에 걸린 2021 AAA 영상 화면 캡처 " style="display:block margin:0 auto"&gt;2021 Asia Artist Awards(아시아 아티스트 어워즈, 이하 2021 AAA)가 뉴욕 타임스 스퀘어를 화려하게 장식했다. 2021 AAA가 11월 14일(현지 시각)부터 미국 뉴욕 맨해튼]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['컴백' 하성운, 신곡 'Electrified' MV 티저 공개 '다채로운 매력']]></title>
+        <id>https://entertain.v.daum.net/v/20211115182634801</id>
+        <link href="https://entertain.v.daum.net/v/20211115182634801"/>
+        <updated>2021-11-15T10:24:24.729Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 가수 하성운의 신곡 뮤직비디오 티저 영상이 공개됐다. 하성운은 11월 15일 오후 6시 공식 유튜브와 SNS를 통해 6번째 미니 앨범 'Electrified : Urban Nostalgia’ 타이틀곡 'Electrified’ 뮤직비디오 티저를 선보였다. 27초 분량의 영상에는 전원 스위치를 매개로 여러 분위기를 오가는 하성운의 모]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위아이 김요한 이어 김준서도 코로나19 확진..'학교 2021' 첫방 연기 등 일정 중단]]></title>
         <id>https://entertain.v.daum.net/v/20211115181104411</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211115170416039"/>
         <updated>2021-11-15T08:25:24.705Z</updated>
         <content type="html"><![CDATA[[동아닷컴] 정승환, 데뷔 첫 전국 투어 12월 개최 [공식] 가수 정승환이 오는 12월 데뷔 후 처음으로 전국 투어로 팬들을 만난다. 소속사 안테나는 지난 12일 공식 SNS를 통해 정승환의 데뷔 첫 전국 투어 ‘2021 정승환의 안녕 겨울 : 다시 여기, 우리’ 개최 소식을 알리며 공연 티저 포스터를 공개했다. 정승환의 데뷔 첫 전국 투어 ‘2021]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김요한 이어 김준서 코로나 확진, 위아이 나머지 음성]]></title>
-        <id>https://entertain.v.daum.net/v/20211115170314991</id>
-        <link href="https://entertain.v.daum.net/v/20211115170314991"/>
-        <updated>2021-11-15T08:25:24.707Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] 김요한 이어 김준서 코로나 확진, 위아이 나머지 음성 [전문] 위아이 김요한에 이어 김준서도 코로나19 확진 판정을 받았다. 위아이 소속사 위엔터테인먼트는 김요한이 주연 배우로 촬영 중인 KBS2 드라마 ‘학교2021’ 촬영장에서 동선이 겹친 보조출연자가 확진 판정을 받음에 따라 PCR(유전자 증폭) 검사를 진행했다. 그 결과 김요한은 14일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임영웅, 유일한 TV 단독쇼.. 나훈아·심수봉 잇는 위력]]></title>
-        <id>https://entertain.v.daum.net/v/20211115170004845</id>
-        <link href="https://entertain.v.daum.net/v/20211115170004845"/>
-        <updated>2021-11-15T08:25:24.708Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 여전히 뜨거운 ‘진’의 위력이다. 트로트 가수 임영웅이 한 해의 마지막을 ‘단독쇼’로 화려하게 장식한다.임영웅은 다음달 10일 고양 킨텍스에서 개최되는 KBS 송년특집 ‘위아 히어로(We’re HERO) 임영웅’으로 팬들과 만난다. ‘위아 히어로 임영웅’은 ‘힘든 시기에 평범한 일상을 살아가는 우리 모두가 영웅’이라는 취지로 마련된 KBS]]></content>
     </entry>
 </feed>
