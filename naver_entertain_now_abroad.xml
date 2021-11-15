@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-15T10:25:00.076Z</updated>
+    <updated>2021-11-15T11:18:20.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스다 마사키♥고마츠 나나, 깜짝 결혼 발표... 日 톱스타 부부 탄생]]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001199616</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001199616"/>
+        <updated>2021-11-15T11:18:20.160Z</updated>
+        <content type="html"><![CDATA[일본의 톱 배우 스다 마사키와 고마츠 나나가 백년가약을 맺는다. 15일, 스다 마사키와 고마츠 나나의 공식 SNS에는 결혼을 알리는 장문의 글이 게재됐다. 이들은 ‘결혼 보고’와 함께 “항상 응원해주시는 분들에게 감]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이서진-나영석PD 'KS 2차전, 고척돔 직관' [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000831466</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000831466"/>
+        <updated>2021-11-15T11:18:20.161Z</updated>
+        <content type="html"><![CDATA[15일 오후 서울 고척스카이돔에서 '2021 KBO 포스트시즌 한국시리즈 2차전' 두산 베어스와 KT 위즈 경기가 열렸다. 배우 이서진과 나영석 PD가 두산 응원석에서 경기를 관전하고 있다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국시리즈 직관 온 나영석PD와 이서진 [MK포토]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000831463</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004510944"/>
         <updated>2021-11-15T07:21:01.689Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 힐튼 호텔 상속녀이자 미국의 가수 겸 배우 패리스 힐튼이 연인과 웨딩마치를 울린 가운데 결혼사진을 대방출했다. 패리스 힐튼은 15일(현지 시간) 자신의 인스타그램에 "(남편과) 손을 맞잡고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아델 “이혼하면서 술 끊어, 새 남친 ♥리치 폴은 똑똑하고 부드러워” 자랑[해외이슈]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003555591</id>
-        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003555591"/>
-        <updated>2021-11-15T06:26:26.851Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 팝스타 아델이 새 남자친구를 자랑했다. 그는 14일(현지시간) 미국 CBS TV에서 오프라 윈프리와 인터뷰를 가졌다. 그래미상을 15번이나 수상한 가수는 “리치 폴은 너무 웃기다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘오징어 게임’ 미드의 상징 ‘왕좌의 게임’마저 넘어섰다]]></title>
-        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005724606</id>
-        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005724606"/>
-        <updated>2021-11-15T05:19:35.081Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 박형기 기자 = '오징어 게임'이 대표적인 미드인 ‘왕좌의 게임’마저도 넘어섰다. 오징어 게임이 유튜브 조회수에서 미국 HBO 역대 최고 드라마로 평가받는 왕좌의 게임을 넘어선 것. 미국 매체 버라이]]></content>
     </entry>
 </feed>

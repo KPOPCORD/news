@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-15T10:25:00.029Z</updated>
+    <updated>2021-11-15T11:18:20.758Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[육성재·임현식 제대..비투비 18일 완전체 라디오 출연]]></title>
+        <id>https://entertain.v.daum.net/v/20211115194959031</id>
+        <link href="https://entertain.v.daum.net/v/20211115194959031"/>
+        <updated>2021-11-15T11:17:50.263Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 육성재·임현식 제대…비투비 18일 완전체 라디오 출연 [공식] 비투비가  KBS ‘비투비의 키스 더 라디오(이하 비키라)’에 출연한다. 비투비는 18일 ‘비키라’에 생방송으로 출연해 입담을 뽐낼 예정이다. 군입대를 했던 멤버 육성재, 임현식이 전역한 뒤 완전체로 지상파 라디오 방송에 출연하는 건 처음이다. ‘비키라’는 지난 1일 비투비의 이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[슈트 입은 몬스타엑스, 마지막 콘셉트 화보]]></title>
+        <id>https://entertain.v.daum.net/v/20211115193149620</id>
+        <link href="https://entertain.v.daum.net/v/20211115193149620"/>
+        <updated>2021-11-15T11:17:50.264Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 슈트 입은 몬스타엑스, 마지막 콘셉트 화보 그룹 몬스타엑스(MONSTA X)가 ‘슈트 미남’의 클래스를 보여줬다. 몬스타엑스는 15일 0시 공식 SNS 채널을 통해 새 미니앨범 ‘No Limit(노 리밋)’의 마지막 콘셉트 포토를 공개했다. 공개된 사진 속 몬스타엑스는 블랙 슈트를 맞춰 입고 클래식하면서도 세련된 매력을 선사했다. 특히 고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AAA, 美뉴욕 타임스스퀘어 장식..K시상식 향한 기대감↑]]></title>
         <id>https://entertain.v.daum.net/v/20211115183620098</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211115170656170"/>
         <updated>2021-11-15T08:25:24.701Z</updated>
         <content type="html"><![CDATA[[동아닷컴] 용준형 하이라이트 탈퇴→전속계약 종료 [전문] 가수 용준형과 어라운드어스 엔터테인먼트의 전속 계약 및 매니지먼트 업무가 최종 마무리됐다. 어라운드어스는 15일 공식입장을 내고 "용준형과 심도깊은 논의를 통해 오늘(15일)부로 매니지먼트 업무를 종료하기로 결정했다"라고 밝혔다. 앞서 용준형은 지난 2019년 3월 그룹 하이라이트를 탈퇴하고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정승환, 12월 첫 전국투어 개최..서울·부산·대구 찾는다]]></title>
-        <id>https://entertain.v.daum.net/v/20211115170452061</id>
-        <link href="https://entertain.v.daum.net/v/20211115170452061"/>
-        <updated>2021-11-15T08:25:24.702Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 가수 정승환이 오는 12월 데뷔 후 처음으로 전국 투어로 팬들을 만난다. 소속사 안테나는 지난 12일 공식 SNS를 통해 정승환의 데뷔 첫 전국 투어 ‘2021 정승환의 안녕 겨울 : 다시 여기, 우리’ 개최 소식을 알리며 공연 티저 포스터를 공개했다. 정승환의 데뷔 첫 전국 투어 ‘2021 정승환의 안녕 겨울 : 다시 여기,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정승환, 데뷔 첫 전국 투어 12월 개최]]></title>
-        <id>https://entertain.v.daum.net/v/20211115170416039</id>
-        <link href="https://entertain.v.daum.net/v/20211115170416039"/>
-        <updated>2021-11-15T08:25:24.705Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] 정승환, 데뷔 첫 전국 투어 12월 개최 [공식] 가수 정승환이 오는 12월 데뷔 후 처음으로 전국 투어로 팬들을 만난다. 소속사 안테나는 지난 12일 공식 SNS를 통해 정승환의 데뷔 첫 전국 투어 ‘2021 정승환의 안녕 겨울 : 다시 여기, 우리’ 개최 소식을 알리며 공연 티저 포스터를 공개했다. 정승환의 데뷔 첫 전국 투어 ‘2021]]></content>
     </entry>
 </feed>
