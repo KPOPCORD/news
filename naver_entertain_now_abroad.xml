@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-15T13:27:59.289Z</updated>
+    <updated>2021-11-15T14:21:06.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미란다 커, '억만장자 남편' 옆 아찔한 시스루 룩…"몸매 여전해"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004670800</id>
+        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004670800"/>
+        <updated>2021-11-15T14:21:06.382Z</updated>
+        <content type="html"><![CDATA[호주 출신 모델 겸 사업가 미란다 커가 억만장자 남편과 행사에 동반 참석했다. 15일(한국시각) 미란다 커는 미국 캘리포니아 웨스트 할리우드에 위치한 퍼시픽 디자인 센터에서 열린 '베이비투베이비'(Baby2Baby)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스다 마사키♥고마츠 나나, 깜짝 결혼 발표... 日 톱스타 부부 탄생]]></title>
         <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001199616</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000511555"/>
         <updated>2021-11-15T08:25:57.212Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 환갑을 앞둔 톰 크루즈의 '역변'한 모습이 포착됐다. 할리우드 배우 톰 크루즈는 11월 12일(현지시간) 영화 촬영을 위해 영국에 위치한 한 비행장에 모습을 드러냈다. 파파라치 카메라에 포착된]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[패리스 힐튼♥︎카터 리움, 결혼사진 대방출 "그레이스 켈리 같았다" [Oh!llywood]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004510944</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004510944"/>
-        <updated>2021-11-15T07:21:01.689Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 힐튼 호텔 상속녀이자 미국의 가수 겸 배우 패리스 힐튼이 연인과 웨딩마치를 울린 가운데 결혼사진을 대방출했다. 패리스 힐튼은 15일(현지 시간) 자신의 인스타그램에 "(남편과) 손을 맞잡고]]></content>
     </entry>
 </feed>
