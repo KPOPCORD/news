@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-15T11:18:20.759Z</updated>
+    <updated>2021-11-15T12:35:24.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['집행유예 도중 마약' 황하나 2심서 감형 "피해자 처벌불원서"[종합]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003004925</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003004925"/>
+        <updated>2021-11-15T12:35:11.925Z</updated>
+        <content type="html"><![CDATA[집행유예 기간 도중 또 다시 마약을 투약한 혐의 등으로 재판에 넘겨진 황하나가 항소심에서는 감형됐다. 서울서부지방법원 형사항소1-1부는 15일 마약류 관리에 관한 법률 위반(향정) 등의 혐의로 기소된 황하나에 대한]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[티오원, 신곡 'No More X' 안무 연습 영상 공개…10色 카리스마]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001373708</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001373708"/>
+        <updated>2021-11-15T12:35:11.926Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 TO1(티오원)이 무대 위를 방불케 하는 연습 영상을 공개했다. TO1(치훈, 동건, 찬, 지수, 민수, 재윤, 제이유, 경호, 제롬, 웅기)은 15일 공식 유튜브 채널 및 SNS를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[빅나티, 수능 맞춰 신곡 'STAB' 발매… 고3들을 위한 노래 예고]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004511206</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010833627"/>
         <updated>2021-11-15T09:23:25.538Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]안소윤 인턴 기자 = 가수 용준형이 어라운드어스 엔터테인먼트와 전속 계약이 종료됐다. 15일 소속사 어라운드어스는 공식 입장을 통해 "용준형과 심도깊은 논의를 통해 매니지먼트 업무를 종료하기로 결정했다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['쇼미10' 소코도모 '회전목마', 음원차트 1위]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010833613</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010833613"/>
-        <updated>2021-11-15T09:23:25.540Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]이수진 인턴 기자 = 엠넷 힙합 서바이벌 프로그램 '쇼 미 더 머니 10'에 출연한 래퍼 소코도모(sokodomo)가 음원차트를 휩쓸었다. 15일 소코도모의 소속사 소니 뮤직 엔터테인먼트 코리아 측은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정승환, 데뷔 첫 전국 투어 개최... 대체 불가 겨울 감성 예고]]></title>
-        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001199593</id>
-        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001199593"/>
-        <updated>2021-11-15T09:23:25.544Z</updated>
-        <content type="html"><![CDATA[가수 정승환이 오는 12월 데뷔 후 처음으로 전국 투어로 팬들을 만난다. 소속사 안테나는 지난 12일 공식 SNS를 통해 정승환의 데뷔 첫 전국 투어 ‘2021 정승환의 안녕 겨울 : 다시 여기, 우리’ 개최 소식을]]></content>
     </entry>
 </feed>

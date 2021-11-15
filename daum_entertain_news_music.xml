@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-15T11:18:20.758Z</updated>
+    <updated>2021-11-15T12:35:24.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['하이라이트 탈퇴' 용준형, 어라운드어스도 떠난다]]></title>
+        <id>https://entertain.v.daum.net/v/20211115211318909</id>
+        <link href="https://entertain.v.daum.net/v/20211115211318909"/>
+        <updated>2021-11-15T12:34:55.993Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 정하은기자]가수 용준형이 소속사 어라운드어스와 전속계약이 만료됐다. 15일 오후 어라운드어스는 공식입장문을 내고 “용준형과 심도깊은 논의를 통해 오늘(15일)부로 매니지먼트 업무를 종료하기로 결정했다”라고 밝혔다. 소속 팀 하이라이트를 탈퇴한 지 2년 8개월 만이다. 앞서 용준형은 ‘정준영 단톡방’ 논란이 불거졌던 지난]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이장원♥배다해 결혼, '문제적 남자' 출동]]></title>
+        <id>https://entertain.v.daum.net/v/20211115202905006</id>
+        <link href="https://entertain.v.daum.net/v/20211115202905006"/>
+        <updated>2021-11-15T12:34:55.993Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 이장원♥배다해 이장원♥배다해 결혼, ‘문제적 남자’ 출동 (종합) [DA:투데이] 페퍼톤스 이장원(41)과 가수 배다해(39)가 오늘(15일) 결혼했다. 이장원과 배다해는 오늘 서울 모처에서 비공개로 결혼식을 올렸다. tvN ‘문제적 남자’로 인연을 맺은 배우 하석진이 사회를 맡고 이장원과 페퍼톤스로 함께 활동 중인 신재평이 축가를 부른 것으]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[육성재·임현식 제대..비투비 18일 완전체 라디오 출연]]></title>
         <id>https://entertain.v.daum.net/v/20211115194959031</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211115171435430"/>
         <updated>2021-11-15T08:25:24.698Z</updated>
         <content type="html"><![CDATA[[스타뉴스 이경호 기자] 가수 용준형./사진=스타뉴스가수 용준형과 어라운드어스 엔터테인먼트의 전속 계약 및 매니지먼트 업무가 최종 마무리됐다. 어라운드어스는 15일 공식입장을 내고 "용준형과 심도깊은 논의를 통해 오늘(15일)부로 매니지먼트 업무를 종료하기로 결정했다"라고 밝혔다. 앞서 용준형은 지난 2019년 3월 그룹 하이라이트를 탈퇴하고 모든 활동]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['활동 중단' 용준형, 어라운드어스와 계약 종료]]></title>
-        <id>https://entertain.v.daum.net/v/20211115171339402</id>
-        <link href="https://entertain.v.daum.net/v/20211115171339402"/>
-        <updated>2021-11-15T08:25:24.699Z</updated>
-        <content type="html"><![CDATA[용준형(사진=이데일리DB)[이데일리 스타in 김현식 기자] 어라운드어스가 보이그룹 하이라이트 전 멤버 용준형과의 전속계약 기간이 끝나 매니지먼트 업무 종료하게 됐다고 15일 밝혔다. 용준형은 2019년 이른바 ‘정준영 단톡방’ 사건에 연루된 이후 팀을 탈퇴하고 모든 연에 활동을 중단한 바 있다. 하이라이트는 용준형이 빠진 윤두준, 양요섭, 이기광, 손]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용준형 하이라이트 탈퇴→전속계약 종료]]></title>
-        <id>https://entertain.v.daum.net/v/20211115170656170</id>
-        <link href="https://entertain.v.daum.net/v/20211115170656170"/>
-        <updated>2021-11-15T08:25:24.701Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] 용준형 하이라이트 탈퇴→전속계약 종료 [전문] 가수 용준형과 어라운드어스 엔터테인먼트의 전속 계약 및 매니지먼트 업무가 최종 마무리됐다. 어라운드어스는 15일 공식입장을 내고 "용준형과 심도깊은 논의를 통해 오늘(15일)부로 매니지먼트 업무를 종료하기로 결정했다"라고 밝혔다. 앞서 용준형은 지난 2019년 3월 그룹 하이라이트를 탈퇴하고]]></content>
     </entry>
 </feed>
