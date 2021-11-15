@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-15T15:22:52.717Z</updated>
+    <updated>2021-11-15T16:33:26.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["하객 패션 맞아?"…킴 카다시안, 가슴만 겨우 가린 아찔한 패션]]></title>
+        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004670812</id>
+        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004670812"/>
+        <updated>2021-11-15T16:33:26.160Z</updated>
+        <content type="html"><![CDATA[['20년 절친' 패리스 힐튼 결혼식 참석한 킴 카다시안, 과감한 하객 룩 '깜짝'] 할리우드 스타 킴 카다시안이 '절친'인 패리스 힐튼 결혼식에서 파격적인 하객 패션을 선보였다. 킴 카다시안은 지난 11일(현지시간]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고마츠 나나♥스다 마사키 결혼 발표…日 톱스타 부부 탄생 [엑's 재팬]]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001373799</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004511015"/>
         <updated>2021-11-15T09:23:37.831Z</updated>
         <content type="html"><![CDATA[[OSEN=지민경 기자] 일본 청춘 스타 스다 마사키와 고마츠 나나가 깜짝 결혼 발표를 했다. 15일 오리콘 뉴스 등 다수의 일본 매체 보도에 따르면 스다 마사키와 고마츠 나나는 이날 오후 SNS와 소속사를 통해 결]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스다 마사키♥코마츠 나나 결혼, 日 열도 흔든 톱스타 커플 탄생 (종합)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=052&amp;aid=0001665381</id>
-        <link href="https://entertain.naver.com/now/read?oid=052&amp;aid=0001665381"/>
-        <updated>2021-11-15T08:25:57.211Z</updated>
-        <content type="html"><![CDATA[과거 지드래곤과 열애설이 불거졌던 일본 여배우 코마츠 나나(小松菜奈)가 스다 마사키(菅田 将暉)와의 결혼을 발표했다. 15일 일본 현지 매체는 모델 출신 배우 코마츠 나나와 스다 마사키가 결혼을 발표했다]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-15T15:22:52.726Z</updated>
+    <updated>2021-11-15T16:33:26.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['최민환♥' 율희, 걸그룹 출신 '애셋맘'의 민낯 클래스 [TEN★]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000511662</id>
+        <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000511662"/>
+        <updated>2021-11-15T16:33:19.320Z</updated>
+        <content type="html"><![CDATA[[텐아시아=노규민 기자] 율희가 걸그룹 출신 다운 미모를 과시했다. 율희는 15일 자신의 인스타그램에 "누구 똥배일까. 헐 엉덩이..네..?"라는 글과 함께 사진 한 장을 게재했다. 사진 속 율희는 화장기 전혀 없는]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["고등학생인줄"…정려원, 41살 인형 얼굴 [TEN★]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000511660</id>
+        <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000511660"/>
+        <updated>2021-11-15T16:33:19.322Z</updated>
+        <content type="html"><![CDATA[[텐아시아=노규민 기자] 배우 정려원이 연예계 대표 동안임을 입증했다. 정려원은 15일 자신의 인스타그램에 "꼬불랑 앞머리 개시"라는 글과 함께 사진 두 장을 게재했다. 사진 속 정려원은 거울셀카를 찍고 있다. 진하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['어느 날' 김수현, 의미심장 모먼트 "그 여자를 태우지 말았어야"]]></title>
         <id>https://entertain.naver.com/now/read?oid=009&amp;aid=0004879559</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0004879525"/>
         <updated>2021-11-15T13:27:51.634Z</updated>
         <content type="html"><![CDATA['이렇게 된 이상 청와대로 간다'를 향한 배우들의 열정이 현장을 뜨겁게 달궜다. 지난 12일 전편 공개된 웨이브(wavve) 오리지널 드라마 ‘이렇게 된 이상 청와대로 간다’(이하 ‘청와대로 간다’)(연출 윤성호/]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위아이 김요한 이어 김준서 코로나19 확진…"스케줄 중단"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001621671</id>
-        <link href="https://entertain.naver.com/now/read?oid=057&amp;aid=0001621671"/>
-        <updated>2021-11-15T13:27:51.635Z</updated>
-        <content type="html"><![CDATA[그룹 위아이(WEi)의 멤버 김요한에 이어 또 다른 멤버 김준서도 코로나19 확진 판정을 받았습니다. 오늘(15일) 소속사 위엔터테인먼트는 공식 팬카페를 통해 김준서의 확진 소식을 알렸습니다. 소속사는 "김준서가 어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이장원♥배다해 결혼식 현장 보니…'선남선녀' 부부의 화려한 비주얼]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003802765</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003802765"/>
-        <updated>2021-11-15T13:27:51.635Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 이우주 기자] 가수 배다해 페퍼톤스 이장원 부부의 결혼식 현장이 공개됐다. 홍현희는 15일 자신의 SNS를 통해 "3년 전 우리 결혼식 축가해준 다해 결혼 너무 축하해♡"라는 글과 함께 한 장의 사진]]></content>
     </entry>
 </feed>
