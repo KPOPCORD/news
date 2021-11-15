@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-11-15T01:04:40.139Z</updated>
+    <updated>2021-11-15T02:33:53.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['45kg 감량' 아델, 이혼 후 심경토로 "엄청난 충격, 정말 슬펐다"]]></title>
+        <id>https://entertain.v.daum.net/v/20211115113132484</id>
+        <link href="https://entertain.v.daum.net/v/20211115113132484"/>
+        <updated>2021-11-15T02:33:25.075Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 팝스타 아델(Adele)이 이혼 후 심경을 털어놨다. 아델은 최근 미국 잡지 롤링스톤과 진행한 인터뷰를 통해 이혼과 4집 녹음 기간 중 겪어야 했던 불안감 등을 고백했다. 아델은 지난 2019년 자선사업가 사이먼 코넥키와 6년 열애 끝 결혼했으나 2년 만인 2012년 3월 이혼했다. 두 사람 사이에는 아들 한 명이 있다. 아델은 인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[테일러 스위프트, 제이크 질렌할과 9살 나이 차로 결별했나]]></title>
+        <id>https://entertain.v.daum.net/v/20211115102657188</id>
+        <link href="https://entertain.v.daum.net/v/20211115102657188"/>
+        <updated>2021-11-15T02:33:25.076Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 미국 언론이 테일러 스위프트의 'All Too Well' 가사를 해석했다. 미국 연예매체 페이지식스는 11월 12일(현지시간) 테일러 스위프트(Taylor swift)의 곡 'All Too Well'(올 투 웰) 가사를 조명하며 "제이크 질렌할(Jake Gyllenhaal)과 9살 나이 차이 때문에 결별한 것"이라고 보도했다. 테일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[테일러 스위프트, 9세 연상 제이크 질렌할 너무 사랑했나..가사에 '마상']]></title>
         <id>https://entertain.v.daum.net/v/20211114183046435</id>
@@ -18,19 +32,5 @@
         <link href="https://entertain.v.daum.net/v/20211114142824392"/>
         <updated>2021-11-14T06:25:39.363Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 갑자기 다른 사람이 된 것 같아서 놀라게 하는 연예인들이 있다. 할리우드에서는 더욱 그런데 뉴욕포스트는 지난 달 '연예인의 얼굴이 변하면'이란 제목으로 톰 크루즈, 토리 스펠링, 잭 에프론 등을 주목했다.&nbsp;일부에서는 이들에게 '성형 의혹'도 제기했다. - 톰 크루즈, 갑자기 후덕해져 깜짝 지난 달 야구 경기를 관람하러 간 톰 크루즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["마법 같다" 40세 패리스 힐튼, 초호화 명품 드레스 입고 꿈의 결혼식]]></title>
-        <id>https://entertain.v.daum.net/v/20211114111443060</id>
-        <link href="https://entertain.v.daum.net/v/20211114111443060"/>
-        <updated>2021-11-14T02:35:52.551Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 세계 유명 호텔 체인인 '힐튼 호텔' 상속자로 유명한 패리스 힐튼이 결혼했다. 이번이 그의 첫 결혼이다. CNN 등 외신 보도에 따르면 패리스 힐튼(40)은 동갑내기 사업가인 카터 럼과 11월 11일(현지시간) 결혼식을 올렸다. 결혼식은 주말 내내 미국 캘리포니아 주 로스앤젤레스에 위치한 그의 할아버지 배런 힐튼의 벨에어 별장에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악동' 린제이 로한, 공백기 끝! 돌아온다..어떻게 변했나]]></title>
-        <id>https://entertain.v.daum.net/v/20211114105705736</id>
-        <link href="https://entertain.v.daum.net/v/20211114105705736"/>
-        <updated>2021-11-14T02:35:52.556Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] '할리우드의 악동' 린제이 로한(35)이 돌아온다. 몇 년 공백기를 가진 린제이 로한이 인기 미국드라마&nbsp;'글리'의&nbsp;스타인 코드 오버스트리트 함께 내년 공개되는&nbsp;넷플릭스 로맨틱코미디에서 주연을 맡은 것.&nbsp; 제목이 알려지지 않은 이 작품은 버릇없는 호텔 상속녀(린제이 로한)가 크리스마스를 앞두고 스키 사고를 당해 기억상실증에 걸리고,]]></content>
     </entry>
 </feed>

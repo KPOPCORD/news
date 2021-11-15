@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 01:04:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 02:33:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[육성재, 전역한 자의 여유…"모든 게 다 오랜만" [인스타]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/330610</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/330610</guid>
+            <pubDate>Mon, 15 Nov 2021 02:33:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/330610">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/15/5ca91600-0f6d-41d5-b634-424b1de94772.jpg" alt="육성재, 전역한 자의 여유…" 모든="" 게="" 다="" 오랜만"="" [인스타]"="">        <div class="text-box">            <p class="summary">육성재, 전역한 자의 여유…"모든 게 다 오랜만" [인스타]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/15/5ca91600-0f6d-41d5-b634-424b1de94772.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[티아라 효민, '군살 제로' 몸매…컴백 앞두고 고혹美 장착 [인스타]]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/330602</link>
@@ -86,14 +94,6 @@
             <pubDate>Sat, 13 Nov 2021 09:21:14 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/330505">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/13/lxMoVMPN0kyS637724195043745574.jpg" alt="‘완성형 걸그룹’ 빌리, ‘RING X RING’ 핫 데뷔 (쇼! 음악중심)">        <div class="text-box">            <p class="summary">‘완성형 걸그룹’ 빌리, ‘RING X RING’ 핫 데뷔 (쇼! 음악중심)</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/13/lxMoVMPN0kyS637724195043745574.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 제니, 청순+섹시 공존하는 '젠득이' [인스타]]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/330503</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/330503</guid>
-            <pubDate>Sat, 13 Nov 2021 09:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/330503">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/13/mgtFv6a0SQ4L637724194204501826.jpg" alt="블랙핑크 제니, 청순+섹시 공존하는 '젠득이' [인스타]">        <div class="text-box">            <p class="summary">블랙핑크 제니, 청순+섹시 공존하는 '젠득이' [인스타]</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/13/mgtFv6a0SQ4L637724194204501826.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
