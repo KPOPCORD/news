@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-15T05:19:35.676Z</updated>
+    <updated>2021-11-15T06:26:27.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아델 “이혼하면서 술 끊어, 새 남친 ♥리치 폴은 똑똑하고 부드러워” 자랑[해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003555591</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003555591"/>
+        <updated>2021-11-15T06:26:26.851Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 팝스타 아델이 새 남자친구를 자랑했다. 그는 14일(현지시간) 미국 CBS TV에서 오프라 윈프리와 인터뷰를 가졌다. 그래미상을 15번이나 수상한 가수는 “리치 폴은 너무 웃기다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘오징어 게임’ 미드의 상징 ‘왕좌의 게임’마저 넘어섰다]]></title>
         <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005724606</id>
@@ -170,13 +177,6 @@
         <title type="html"><![CDATA[있지 '아름답지' [MK포토]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000831266</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000831266"/>
-        <updated>2021-11-14T13:24:39.542Z</updated>
-        <content type="html"><![CDATA['2021 월드 케이팝 콘서트 : 빛 4 U 콘서트'가 14일 오후 경기도 일산 킨텍스에서 열렸다. 이날 콘서트에는 스트릿 우먼 파이터 아이키, NCT 드림, 샤이니 키, 펜타곤, 걸그룹 있지, 브레이브걸스, 래퍼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유나 '돋보이는 미모' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000831264</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000831264"/>
         <updated>2021-11-14T13:24:39.542Z</updated>
         <content type="html"><![CDATA['2021 월드 케이팝 콘서트 : 빛 4 U 콘서트'가 14일 오후 경기도 일산 킨텍스에서 열렸다. 이날 콘서트에는 스트릿 우먼 파이터 아이키, NCT 드림, 샤이니 키, 펜타곤, 걸그룹 있지, 브레이브걸스, 래퍼]]></content>
     </entry>
