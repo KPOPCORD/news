@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-15T14:21:06.958Z</updated>
+    <updated>2021-11-15T15:22:52.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고마츠 나나♥스다 마사키 결혼 발표…日 톱스타 부부 탄생 [엑's 재팬]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001373799</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001373799"/>
+        <updated>2021-11-15T15:22:52.061Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김노을 기자) 일본 청춘 스타 고마츠 나나와 스다 마사키가 깜짝 결혼을 발표했다. 양측 소속사는 15일 공식 홈페이지를 통해 결혼 사실을 밝혔다. 같은 날 두 사람 역시 각자의 SNS에 자필 편지를 게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미란다 커, '억만장자 남편' 옆 아찔한 시스루 룩…"몸매 여전해"]]></title>
         <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004670800</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=052&amp;aid=0001665381"/>
         <updated>2021-11-15T08:25:57.211Z</updated>
         <content type="html"><![CDATA[과거 지드래곤과 열애설이 불거졌던 일본 여배우 코마츠 나나(小松菜奈)가 스다 마사키(菅田 将暉)와의 결혼을 발표했다. 15일 일본 현지 매체는 모델 출신 배우 코마츠 나나와 스다 마사키가 결혼을 발표했다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[환갑 앞둔 톰 크루즈, 역변한 비주얼 또 포착‥충격적 노화?[파파라치컷]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000511555</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000511555"/>
-        <updated>2021-11-15T08:25:57.212Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 환갑을 앞둔 톰 크루즈의 '역변'한 모습이 포착됐다. 할리우드 배우 톰 크루즈는 11월 12일(현지시간) 영화 촬영을 위해 영국에 위치한 한 비행장에 모습을 드러냈다. 파파라치 카메라에 포착된]]></content>
     </entry>
 </feed>
