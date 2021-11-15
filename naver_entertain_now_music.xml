@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-15T19:19:19.889Z</updated>
+    <updated>2021-11-15T20:23:18.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유라, 4개월 만에 신곡…20일 '로우' 발매]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010834040</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010834040"/>
+        <updated>2021-11-15T20:23:02.342Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]김예지 인턴 기자 = 싱어송라이터 유라(youra)가 4개월 만에 신곡을 발표한다. 15일 소속사 문화인은 "유라가 오는 20일 오후 6시 새 싱글 '로우(Rawww)'를 발매한다"고 밝혔다. '로우']]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[히어로와 어딘들♥ 임영웅 '같이 전시회 가고 싶은 스타']]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003004956</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003004956"/>
+        <updated>2021-11-15T20:23:02.342Z</updated>
+        <content type="html"><![CDATA[가수 임영웅이 '같이 전시회 가고 싶은 스타' 1위에 오르며 인기를 빛냈다. 임영웅은 팬앤스타 테마 월드컵 '같이 전시회 가고 싶은 스타' 투표에서 3027명의 지지를 받아 1위에 올랐다. 임영웅은 든든한 지원군 영]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다비치, '지헤중' OST 불렀다…'오로지 그대' 19일 발매]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010834014</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000511577"/>
         <updated>2021-11-15T09:23:25.532Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 티아라가 4년만에 돌아왔다. 티아라는 11월 15일 오후 6시 각종 음원 사이트를 통해 새 앨범 '리:티아라(Re:T-ARA)'를 발매, 더블 타이틀곡인 '올 킬'(ALL KILL)과 '티키]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나쁜 남자도 되는 버나드 박, 파격변신 무죄 ‘Bad Influence’[들어보고서]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000511576</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000511576"/>
-        <updated>2021-11-15T09:23:25.533Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 가수 버나드 박이 3년 만에 나쁜 남자 콘셉트로 돌아왔다. 버나드 박은 11월 15일 오후 6시 각종 음원 사이트를 통해 새 디지털 싱글 'Bad Influence'(배드 인플루언스)를 발매했]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팝's신곡]"나만 아파 왜"..티아라, '티키 타카'로 4년 만에 완전체 컴백]]></title>
-        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003498693</id>
-        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003498693"/>
-        <updated>2021-11-15T09:23:25.534Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=정혜연 기자]티아라가 4년 만에 완전체로 돌아왔다. 오늘(15일) 티아라의 '리:티아라(Re:T-ARA)'가 베일을 벗었다. 티아라는 13년을 함께해 준 팬들에게 다시금 팬들만의 자랑스러운 가수가 되고]]></content>
     </entry>
 </feed>
