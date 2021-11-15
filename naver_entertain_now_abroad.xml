@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-15T06:26:27.472Z</updated>
+    <updated>2021-11-15T07:21:02.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[패리스 힐튼♥︎카터 리움, 결혼사진 대방출 "그레이스 켈리 같았다" [Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004510944</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004510944"/>
+        <updated>2021-11-15T07:21:01.689Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 힐튼 호텔 상속녀이자 미국의 가수 겸 배우 패리스 힐튼이 연인과 웨딩마치를 울린 가운데 결혼사진을 대방출했다. 패리스 힐튼은 15일(현지 시간) 자신의 인스타그램에 "(남편과) 손을 맞잡고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아델 “이혼하면서 술 끊어, 새 남친 ♥리치 폴은 똑똑하고 부드러워” 자랑[해외이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003555591</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000831267</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000831267"/>
         <updated>2021-11-14T13:24:39.534Z</updated>
-        <content type="html"><![CDATA['2021 월드 케이팝 콘서트 : 빛 4 U 콘서트'가 14일 오후 경기도 일산 킨텍스에서 열렸다. 이날 콘서트에는 스트릿 우먼 파이터 아이키, NCT 드림, 샤이니 키, 펜타곤, 걸그룹 있지, 브레이브걸스, 래퍼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[있지 '아름답지' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000831266</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000831266"/>
-        <updated>2021-11-14T13:24:39.542Z</updated>
         <content type="html"><![CDATA['2021 월드 케이팝 콘서트 : 빛 4 U 콘서트'가 14일 오후 경기도 일산 킨텍스에서 열렸다. 이날 콘서트에는 스트릿 우먼 파이터 아이키, NCT 드림, 샤이니 키, 펜타곤, 걸그룹 있지, 브레이브걸스, 래퍼]]></content>
     </entry>
 </feed>
