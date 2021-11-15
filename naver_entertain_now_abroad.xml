@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-14T23:21:36.303Z</updated>
+    <updated>2021-11-15T01:04:40.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“소녀시절 동화같은 결혼식 꿈꿔, 꿈은 이루어진다” 40살 품절녀의 고백[해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003555488</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003555488"/>
+        <updated>2021-11-15T01:04:39.405Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 셀럽 패리스 힐튼(40)이 결혼 소감을 전했다. 그는 14일(현지시간) 인스타그램에 웨딩 드레스를 입은 여러 장의 사진과 함께 결혼 소감을 밝혔다. 패리스 힐튼은 “내가 어린 소녀]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[걸그룹 있지 '다이어트 자극 몸매' [MK화보]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000831290</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000831258</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000831258"/>
         <updated>2021-11-14T13:24:39.553Z</updated>
-        <content type="html"><![CDATA['2021 월드 케이팝 콘서트 : 빛 4 U 콘서트'가 14일 오후 경기도 일산 킨텍스에서 열렸다. 이날 콘서트에는 스트릿 우먼 파이터 아이키, NCT 드림, 샤이니 키, 펜타곤, 걸그룹 있지, 브레이브걸스, 래퍼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유나-리아 '섹시+큐티' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000831257</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000831257"/>
-        <updated>2021-11-14T13:24:39.554Z</updated>
         <content type="html"><![CDATA['2021 월드 케이팝 콘서트 : 빛 4 U 콘서트'가 14일 오후 경기도 일산 킨텍스에서 열렸다. 이날 콘서트에는 스트릿 우먼 파이터 아이키, NCT 드림, 샤이니 키, 펜타곤, 걸그룹 있지, 브레이브걸스, 래퍼]]></content>
     </entry>
 </feed>
