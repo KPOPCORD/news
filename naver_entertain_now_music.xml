@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-15T16:33:26.813Z</updated>
+    <updated>2021-11-15T17:26:26.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다비치, '지헤중' OST 불렀다…'오로지 그대' 19일 발매]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010834014</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010834014"/>
+        <updated>2021-11-15T17:26:12.219Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]김예지 인턴 기자 = 듀오 '다비치'가 SBS TV 드라마 '지금, 헤어지는 중입니다'(이하 '지헤중') OST를 불렀다. 16일 뮤직그라운드와 웨이크원에 따르면, 다비치가 부른 '지헤중' OST Pa]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 거칠고 단단해진 TO1의 새로운 서사]]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000116254</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003498693"/>
         <updated>2021-11-15T09:23:25.534Z</updated>
         <content type="html"><![CDATA[[헤럴드POP=정혜연 기자]티아라가 4년 만에 완전체로 돌아왔다. 오늘(15일) 티아라의 '리:티아라(Re:T-ARA)'가 베일을 벗었다. 티아라는 13년을 함께해 준 팬들에게 다시금 팬들만의 자랑스러운 가수가 되고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4년 만의 완전체, 진심 담은 앨범으로 '다시 티아라' (쥬크박스)[종합]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001373572</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001373572"/>
-        <updated>2021-11-15T09:23:25.535Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 그룹 티아라가 팬들을 위한 진심을 담은 앨범으로 4년 만에 돌아왔다. 티아라(지연, 효민, 은정, 큐리)는 15일 오후 6시 각종 음원 사이트를 통해 새 앨범 '리:티아라(Re:T-ARA]]></content>
     </entry>
 </feed>

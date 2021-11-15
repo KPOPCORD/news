@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-15T16:33:26.819Z</updated>
+    <updated>2021-11-15T17:26:26.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이장원♥배다해 결혼, 김지석 사진 공개 “축하해 친구야” [M+★SNS]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001621686</id>
+        <link href="https://entertain.naver.com/now/read?oid=057&amp;aid=0001621686"/>
+        <updated>2021-11-15T17:26:19.398Z</updated>
+        <content type="html"><![CDATA[배우 김지석이 이장원의 결혼식 모습을 공개했다. 김지석은 지난 15일 자신의 인스타그램에 “‘문제적 남자’ 중 결혼한 남자. 축하해 친구야”라는 글과 함께 사진을 올렸다. 이를 본 하석진은 “문남에서 결남으로”라는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['최민환♥' 율희, 걸그룹 출신 '애셋맘'의 민낯 클래스 [TEN★]]]></title>
         <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000511662</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000511653"/>
         <updated>2021-11-15T14:21:00.270Z</updated>
         <content type="html"><![CDATA[[텐아시아=노규민 기자] 그룹 비비지 멤버 엄지가 물오른 미모를 과시했다. 엄지는 15일 자신의 인스타그램에 "즐거웠던 viviz 첫 화보"라는 글과 함께 여러장의 사진을 게재했다. 사진 속 엄지는 화보 촬영을 위해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['청와대로 간다' 김성령·배해선·이학주, 열정 모멘트]]></title>
-        <id>https://entertain.naver.com/now/read?oid=009&amp;aid=0004879525</id>
-        <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0004879525"/>
-        <updated>2021-11-15T13:27:51.634Z</updated>
-        <content type="html"><![CDATA['이렇게 된 이상 청와대로 간다'를 향한 배우들의 열정이 현장을 뜨겁게 달궜다. 지난 12일 전편 공개된 웨이브(wavve) 오리지널 드라마 ‘이렇게 된 이상 청와대로 간다’(이하 ‘청와대로 간다’)(연출 윤성호/]]></content>
     </entry>
 </feed>
