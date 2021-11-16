@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-16T13:27:56.566Z</updated>
+    <updated>2021-11-16T14:21:12.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팝업★]美여성 록 보컬, 공연 중 남성팬 얼굴에 소변 퍼포먼스 '충격']]></title>
+        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003499215</id>
+        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003499215"/>
+        <updated>2021-11-16T14:20:58.636Z</updated>
+        <content type="html"><![CDATA[[헤럴드POP=박서현기자] 미국의 록밴드 브라스 어게인스트 보컬 소피아 우리스타가 무대에서 소변 퍼포먼스를 펼쳐 논란이다. 15일(현지 시각) 뉴욕포스트에 따르면, 지난 11일 프로리다주 데이토나비치에서 열린 록 페]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HK직캠｜펜타곤 홍석, 유니에게 보내는 멋진 미소…'빛나리' 세로직캠]]></title>
         <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004629343</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010836183"/>
         <updated>2021-11-16T10:23:38.943Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 그룹 '엑소' 멤버 첸이 두 아이의 아빠가 된다. 16일 대중음악계에 따르면, 첸의 아내가 최근 둘째 아이를 임신했다. 첸은 작년 1월 비연예인 여자친구와 결혼 발표와 함께 그녀가 임신]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박재범이 극찬한 제미나이, 신곡 '미아' 발매]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010836182</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010836182"/>
-        <updated>2021-11-16T10:23:38.944Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]이수진 인턴 기자 = 가수 제미나이(GEMINI)가 신곡 '미아(MIA)' 를 공개했다. 16일 소속사 @AREA는 제미나이가 이날 오후 6시 각종 음원사이트를 통해 싱글 '미아'를 공개했다고 밝혔다.]]></content>
     </entry>
 </feed>
