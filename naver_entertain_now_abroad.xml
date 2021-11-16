@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-16T20:22:11.384Z</updated>
+    <updated>2021-11-16T21:19:43.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 록밴드 여성 보컬, 공연중 남성 관객 얼굴에 소변…엽기 행각 ‘충격’]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512103</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000512103"/>
+        <updated>2021-11-16T21:19:42.422Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박은해 기자] 미국 록밴드 브라스 어게인스트의 여성 보컬이 공연 중 남성 관객 얼굴에 소변을 보는 엽기적인 행동으로 논란이 됐다. 11월 15일(현지 시간) 뉴욕포스트 등 외신에 따르면 브라스 어게인스트의]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“로키까지 무려 11명”, 테일러 스위프트의 역대급 남친 리스트[해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003556072</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003556072"/>
+        <updated>2021-11-16T21:19:42.431Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]“테일러 스위프트보다 이별 노래를 더 잘 쓰는 사람은 없다. 그냥 제이클 질렌할에게 물어봐라.” 연예매체 페이지식스가 15일(현지시간) 세계적 팝스타 테일러 스위프트의 과거 데이트 이력을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["파격 그 자체" 레이디 가가, 볼륨 강조한 재킷+망사스타킹 패션]]></title>
         <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004671368</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000831660"/>
         <updated>2021-11-16T02:33:52.170Z</updated>
         <content type="html"><![CDATA[16일 오전 온라인으로 진행된 넷플릭스 새 오리지널 '지옥' (감독 연상호) 제작발표회에서 출연자들이 참석해 포즈를 취하고 있다. '지옥’은 예고 없이 등장한 지옥의 사자들에게 사람들이 지옥행 선고를 받는 초자연적인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['GD 열애설' 고마츠 나나, 스다 마사키와 결혼 발표…이미 법적 부부 [N해외연예]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005726420</id>
-        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005726420"/>
-        <updated>2021-11-16T02:33:52.170Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 윤효정 기자 = 일본을 대표하는 청춘스타 스다 마사키(28)와 고마츠 나나(25)가 결혼한다. 15일 스다 마사키와 고마츠 나나는 각각 SNS와 소속사를 통해 혼인신고를 하고 부부가 됐다고 발표했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT 127, 18일 美 '켈리 클락슨 쇼' 첫 출연]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010834489</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010834489"/>
-        <updated>2021-11-16T02:33:52.171Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]김예지 인턴 기자 = 그룹 '엔시티(NCT) 127'이 미국 NBC 인기 토크쇼 '켈리 클락슨 쇼(The Kelly Clarkson Show)'에 첫 출연한다. 16일 소속사 SM엔터테인먼트에 따르면,]]></content>
     </entry>
 </feed>

@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-16T20:22:11.377Z</updated>
+    <updated>2021-11-16T21:19:43.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘매진또배기’ 이찬원, 울산콘서트 티켓 초단위 매진…인천→대구 공연도 예고]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001374206</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001374206"/>
+        <updated>2021-11-16T21:19:29.772Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 트로트 가수 이찬원의 첫 번째 팬 콘서트 '찬스 타임'의 울산 공연에 초 단위 매진을 기록하며 티켓 랭킹 1위를 차지했다. 앞서 이찬원은 서울과 부산 공연에서도 모두 초 단위 매진을 기록]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["콘서트 매진·선주문 10만장"…정동원, 오늘(17일) 첫 정규 '그리움, 아낌없이 주는 나무' 발매]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003556070</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003556070"/>
+        <updated>2021-11-16T21:19:29.772Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 가수 정동원이 첫 정규앨범을 공개한다. 정동원은 17일 첫 정규앨범 '그리움, 아낌없이 주는 나무'를 발매한다. '그리움, 아낌없이 주는 나무'는 1년 반이 넘는 시간 동안 심혈을 기울]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나로 응축된 K팝 화력, 이제 다시 해외무대로 [TF확대경]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000116471</id>
+        <link href="https://entertain.naver.com/now/read?oid=629&amp;aid=0000116471"/>
+        <updated>2021-11-16T21:19:29.773Z</updated>
+        <content type="html"><![CDATA[방탄소년단 신호탄, 에이티즈 NCT127 트와이스 월드투어 돌입 방탄소년단을 필두로 K팝이 해외에서 급성장을 시작한 2020년, 공교롭게도 해외 공연은 막혔다. 코로나19 여파였다. 이후 2년여간 아티스트도 팬들도]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[히어로에 반하다♥ 임영웅, 매혹적 시즌그리팅 콘셉트 트레일러]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003005291</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003005291"/>
+        <updated>2021-11-16T21:19:29.773Z</updated>
+        <content type="html"><![CDATA[가수 임영웅이 2022 시즌 그리팅 콘셉트 트레일러 영상으로 팬심을 사로잡았다. 임영웅은 11월 16일 유튜브 숏채널을 통해 '임영웅 2022 시즌 그리팅 컨셉 트레일러 #1' 영상을 공개했다. 공개된 영상에는 20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[히어로만 봐도 원기회복♥ 임영웅 뉴트리원 CF영상 300만뷰]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003005283</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003005283"/>
+        <updated>2021-11-16T21:19:29.774Z</updated>
+        <content type="html"><![CDATA[가수 임영웅의 에너지 넘치는 CF 영상이 300만 뷰를 돌파하며 뜨거운 인기를 이어갔다. 지난 9월 6일 뉴트리원 유튜브 채널에 공개된 '다같이 원기회복 하실래요? l 더 생 알파 명품 발효침향 진' 영상은 11월]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[모트·김태훈, 17일 '필 라이크' 공개…"국경 초월 협업"]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010836401</id>
@@ -144,40 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012797450"/>
         <updated>2021-11-16T11:17:50.251Z</updated>
         <content type="html"><![CDATA['유재하 동문' 기념 앨범·공연…CJ아지트 등 음악활동 지원 (서울=연합뉴스) 김예나 기자 = '싱어송라이터의 산실'로 불리며 신인 음악가들의 등용문 역할을 하는 유재하 음악경연대회에서 김승주 씨가 대상을 받았다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[POP초점]엑소 첸, 군복무 중 축복이 또..아내 둘째 임신(종합)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003499183</id>
-        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003499183"/>
-        <updated>2021-11-16T11:17:50.257Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=박서현기자] 엑소 첸 아내가 둘째를 임신했다. 16일 오후 엑소 첸의 소속사 SM 엔터테인먼트 측은 헤럴드POP에 "첸의 아내가 둘째를 임신했다"고 밝혔다. 앞서 첸은 지난해 1월 결혼 및 임신 소식으]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[딘딘, EP ‘소음집’ 온라인 커버 공개... 예능인 딘딘은 잊어라]]></title>
-        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001199708</id>
-        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001199708"/>
-        <updated>2021-11-16T11:17:50.257Z</updated>
-        <content type="html"><![CDATA[가수 딘딘이 앨범 온라인 커버를 공개하며 컴백 초읽기에 나섰다. 딘딘은 지난 15일 개인 SNS를 통해 오는 19일 각종 음원사이트를 통해 발매될 EP ‘소음집’ 온라인 커버를 공개했다. 공개된 이미지에는 노을이 짙]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하성운, 타이틀곡 'Electrified' 이미지 티저 공개..신비롭고 몽환적인 분위기]]></title>
-        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003499181</id>
-        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003499181"/>
-        <updated>2021-11-16T10:23:38.940Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=임의정 기자]가수 하성운이 여섯 번째 미니앨범 'Electrified : Urban Nostalgia’로 돌아온다. 소속사 스타크루이엔티는 16일 하성운의 공식 SNS 계정을 통해 여섯 번째 미니앨범]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[적재, 새 싱글 '서로의 서로' 발매…전국투어 예고]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010836265</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010836265"/>
-        <updated>2021-11-16T10:23:38.941Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]안소윤 인턴 기자 = 싱어송라이터 적재가 신보를 공개했다. 16일 오후 6시 적재의 새 싱글 '서로의 서로'가 주요 음원사이트를 통해 발매됐다. 이번 싱글에는 '서로의 서로'와 '꿈' 총 2곡이 수록됐]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전남친 X 디핵, 합작 싱글 '생각의 역습' 발매]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010836237</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010836237"/>
-        <updated>2021-11-16T10:23:38.942Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]조민정 인턴 기자 = 전남친(Xbf)과 디핵(D-Hack)이 뭉쳤다. 전남친과 디핵은 16일 오후 6시 각종 온라인 음원사이트를 통해 합작 싱글 '생각의 역습'을 발매했다. '생각의 역습'은 지나간 사]]></content>
     </entry>
 </feed>
