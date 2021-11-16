@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-16T07:20:30.219Z</updated>
+    <updated>2021-11-16T08:25:46.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['불륜 허용' 윌 스미스 부부, 애정 '듬뿍' 투 샷]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010835965</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010835965"/>
+        <updated>2021-11-16T08:25:45.717Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]윤준호 인턴 기자 = 윌 스미스 부부가 애정 가득한 투 샷을 선보였다. 16일(한국시간) 미국 스플래쉬닷컴은 LA에서 열린 영화 '킹 리차드' 프리미어 행사 현장을 공개했다. 공개된 사진에는 다정하게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘45kg 감량’ 아델 “과거에도 지금도 내 몸에 긍정적..체중 변화 걱정 NO” [Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004511685</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003555865"/>
         <updated>2021-11-16T01:07:26.135Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]무려 3일동안 초호화 결혼식을 올린 할리우드 셀럽 패리스 힐튼(40)의 동갑내기 남편 카터 리움에게 9살된 딸이 있다는 보도가 나왔다. 연예매체 페이지식스는 15일(현지시간) “카터 리움]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단, 23일 美 '제임스 코든쇼' 출연]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010834259</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010834259"/>
-        <updated>2021-11-16T01:07:26.146Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]김예지 인턴 기자 = 그룹 '방탄소년단'(BTS)이 1년 만에 미국 CBS 인기 토크쇼 '더 레이트 레이트 쇼 위드 제임스 코든(The Late Late Show with James Corden, 이하]]></content>
     </entry>
 </feed>
