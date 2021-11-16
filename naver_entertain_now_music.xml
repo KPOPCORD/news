@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-16T18:23:53.461Z</updated>
+    <updated>2021-11-16T19:17:32.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[모트·김태훈, 17일 '필 라이크' 공개…"국경 초월 협업"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010836401</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010836401"/>
+        <updated>2021-11-16T19:17:17.641Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]김예지 인턴 기자 = '인디계의 아이돌' 모트와 싱어송라이터 김태훈이 입을 맞춘다. 모트와 일본에서 활동 중인 한국 뮤지션 김태훈(kim taehoon)이 협업한 새 싱글 '필 라이크(Feel Like]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅, 스타패스 기부투표 1위..세이브더칠드런 100만원 기부]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003005269</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010836237"/>
         <updated>2021-11-16T10:23:38.942Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]조민정 인턴 기자 = 전남친(Xbf)과 디핵(D-Hack)이 뭉쳤다. 전남친과 디핵은 16일 오후 6시 각종 온라인 음원사이트를 통해 합작 싱글 '생각의 역습'을 발매했다. '생각의 역습'은 지나간 사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장혜진, 데뷔 30주년 기념 앨범 ‘RE:main’ 커밍순 티저 공개... 발라드 여왕의 귀환]]></title>
-        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001199706</id>
-        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001199706"/>
-        <updated>2021-11-16T10:23:38.943Z</updated>
-        <content type="html"><![CDATA[가수 장혜진이 데뷔 30주년을 기념하는 특별한 앨범을 선보일 예정이다. 16일 젤리피쉬 공식 SNS 채널을 통해 장혜진 데뷔 30주년 기념 앨범 ‘RE:main’ 커밍순 티저 이미지가 공개됐다. 공개된 커밍순 티저는]]></content>
     </entry>
 </feed>
