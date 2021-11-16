@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-16T22:21:12.938Z</updated>
+    <updated>2021-11-16T23:22:04.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 여성 보컬, 공연 중 남성 팬 얼굴에 소변 ‘엽기 퍼포먼스’]]></title>
+        <id>https://entertain.naver.com/now/read?oid=022&amp;aid=0003638856</id>
+        <link href="https://entertain.naver.com/now/read?oid=022&amp;aid=0003638856"/>
+        <updated>2021-11-16T23:22:03.724Z</updated>
+        <content type="html"><![CDATA[밴드 브라스 어게인스트 여성 보컬 멤버가 공연 도중 남성 관객의 얼굴에 소변을 봤다. 유튜브 화면 캡처 미국의 한 록밴드의 여성 보컬이 남성 관객의 얼굴에 소변을 보는 엽기적인 퍼포먼스를 벌여 논란이 일고 있다. 1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["남성 관객 얼굴에 소변" 美가수, 약혼자도 있었다..형사고발 위기(종합)[Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004511931</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004511931"/>
+        <updated>2021-11-16T23:22:03.725Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 미국 록밴드 브라스 어게인스트(Brass Against)의 프론트우먼인 소피아 유리스타(Sophia Urista, 36)가 플로리다에서 열린 한 콘서트에서 남성 관객의 얼굴에 소변을 보는 퍼]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美 락밴드 女 보컬, 공연 도중 관객 향해 소변 퍼포먼스…질타 쏟아져]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001374222</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003555901"/>
         <updated>2021-11-16T02:33:52.167Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 천주영 기자]일본의 인기 만화 '진격의 거인'의 굿즈가 '나치 논란'으로 판매 중지 결정을 내렸다. 이번에 판매 중지된 굿즈는 극중 등장하는 마레 제국의 완장이다. 이 굿즈은 주문생산제품으로 15일부]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지옥'의 연상호 감독 [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000831663</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000831663"/>
-        <updated>2021-11-16T02:33:52.168Z</updated>
-        <content type="html"><![CDATA[연상호 감독이 16일 오전 온라인으로 진행된 넷플릭스 새 오리지널 '지옥' (감독 연상호) 제작발표회에 참석해 포즈를 취하고 있다. '지옥’은 예고 없이 등장한 지옥의 사자들에게 사람들이 지옥행 선고를 받는 초자연적]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지옥'의 주역들 [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000831661</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000831661"/>
-        <updated>2021-11-16T02:33:52.169Z</updated>
-        <content type="html"><![CDATA[배우 양익준, 유아인, 김현주, 박정민, 원진아(왼쪽부터)가 16일 오전 온라인으로 진행된 넷플릭스 새 오리지널 '지옥' (감독 연상호) 제작발표회에 참석해 포즈를 취하고 있다. '지옥’은 예고 없이 등장한 지옥의]]></content>
     </entry>
 </feed>
