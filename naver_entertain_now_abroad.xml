@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-16T08:25:46.404Z</updated>
+    <updated>2021-11-16T09:21:19.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 여가수, 공연 중 男관객 얼굴에 소변 봐..온라인 발칵→경찰조사[Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004511756</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004511756"/>
+        <updated>2021-11-16T09:21:19.002Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 미국의 록밴드 여성 멤버가 무대에서 관객의 얼굴에 소변을 보는 엽기적인 행동을 해 온라인을 발칵 뒤집어놨다. 15일(현지시간) 뉴욕포스트 등 외신의 보도에 따르면 지난 13일 플로리다 데이토]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['불륜 허용' 윌 스미스 부부, 애정 '듬뿍' 투 샷]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010835965</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004670960"/>
         <updated>2021-11-16T01:07:26.134Z</updated>
         <content type="html"><![CDATA[최근 초호화 결혼식을 올린 할리우드 스타 패리스 힐튼의 재벌 남편에게 딸이 있다는 보도가 나왔다. 미국 연예매체 페이지식스는 15일(현지시간) 패리스 힐튼의 남편인 카터 리움에게 9년 전 태어난 이후 한 번도 본 적]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“9살 딸 있었다”, 40살 패리스 힐튼 동갑내기 남편 반전 과거 “충격 받아”[해외이슈]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003555865</id>
-        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003555865"/>
-        <updated>2021-11-16T01:07:26.135Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]무려 3일동안 초호화 결혼식을 올린 할리우드 셀럽 패리스 힐튼(40)의 동갑내기 남편 카터 리움에게 9살된 딸이 있다는 보도가 나왔다. 연예매체 페이지식스는 15일(현지시간) “카터 리움]]></content>
     </entry>
 </feed>

@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 08:25:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 09:21:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['방과후 설렘' 옥주현→아이키, 담임선생님 프로필 공개]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/330751</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/330751</guid>
+            <pubDate>Tue, 16 Nov 2021 09:20:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/330751">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/16/21b31194-63af-4de4-8da6-6e07ad288af8.jpg" alt="'방과후 설렘' 옥주현→아이키, 담임선생님 프로필 공개">        <div class="text-box">            <p class="summary">'방과후 설렘' 옥주현→아이키, 담임선생님 프로필 공개</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/16/21b31194-63af-4de4-8da6-6e07ad288af8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['주간아이돌' 원어스 환웅, 제시 댄스 완벽 커버]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/330747</link>
@@ -86,14 +94,6 @@
             <pubDate>Mon, 15 Nov 2021 08:25:18 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/330652">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/15/22536ecb-d066-400c-9762-86a87c9556f4.jpg" alt="[포토] 웬디, '사랑스러워~'">        <div class="text-box">            <p class="summary">[포토] 웬디, '사랑스러워~'</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/15/22536ecb-d066-400c-9762-86a87c9556f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 웬디, '새침한 가을 여친룩']]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/330651</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/330651</guid>
-            <pubDate>Mon, 15 Nov 2021 08:25:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/330651">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/15/3d83eb17-ce6e-4655-bfdc-a0a18ab01ce6.jpg" alt="[포토] 웬디, '새침한 가을 여친룩'">        <div class="text-box">            <p class="summary">[포토] 웬디, '새침한 가을 여친룩'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/15/3d83eb17-ce6e-4655-bfdc-a0a18ab01ce6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
