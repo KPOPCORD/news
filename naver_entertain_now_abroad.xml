@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-16T14:21:12.301Z</updated>
+    <updated>2021-11-16T15:23:54.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[옷 대신 목걸이만 걸쳤다? 엘르 패닝, 뒤태 드러낸 패션 '아찔']]></title>
+        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004671360</id>
+        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004671360"/>
+        <updated>2021-11-16T15:23:54.237Z</updated>
+        <content type="html"><![CDATA[[다코타 패닝 동생 엘르 패닝, 제6회 '인스타일 어워즈'서 과감한 패션 도전] 할리우드 배우 엘르 패닝이 큼직한 목걸이만 걸친 듯한 파격적인 패션을 선보였다. 엘르 패닝은 15일(현지시간) 미국 로스앤젤레스(LA)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[男관객 얼굴에 소변 본 여가수..."역겹다" 온라인 발칵→경찰조사[Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004511756</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=052&amp;aid=0001665609"/>
         <updated>2021-11-16T02:33:52.172Z</updated>
         <content type="html"><![CDATA[프랑스 출신 배우 마리옹 꼬띠아르가 정호연에 팬심을 드러냈다. 15일(현지 시간) 마리옹 꼬띠아르는 자신의 SNS 계정에 넷플릭스 드라마 '오징어 게임'에 출연한 정호연의 사진을 게시했다. 이와 함께 정호연의 SNS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[초호화 결혼식 올린 패리스 힐튼, 재벌 남편에게 9살 딸 있었다]]></title>
-        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004670960</id>
-        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004670960"/>
-        <updated>2021-11-16T01:07:26.134Z</updated>
-        <content type="html"><![CDATA[최근 초호화 결혼식을 올린 할리우드 스타 패리스 힐튼의 재벌 남편에게 딸이 있다는 보도가 나왔다. 미국 연예매체 페이지식스는 15일(현지시간) 패리스 힐튼의 남편인 카터 리움에게 9년 전 태어난 이후 한 번도 본 적]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-16T14:21:12.302Z</updated>
+    <updated>2021-11-16T15:23:54.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임영웅, 스타패스 기부투표 1위..세이브더칠드런 100만원 기부]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003005269</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003005269"/>
+        <updated>2021-11-16T15:23:39.682Z</updated>
+        <content type="html"><![CDATA[가수 임영웅이 스타패스(STARPASS) 트로트 랭킹 1위에 오르며 이달의 기부 요정에 등극했다. 임영웅은 11월 1일 오후 8시부터 11월 15일 오후 11시 40분까지 스타패스 애플리케이션에서 진행된 트로트 랭킹]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팝업★]美여성 록 보컬, 공연 중 남성팬 얼굴에 소변 퍼포먼스 '충격']]></title>
         <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003499215</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001199706"/>
         <updated>2021-11-16T10:23:38.943Z</updated>
         <content type="html"><![CDATA[가수 장혜진이 데뷔 30주년을 기념하는 특별한 앨범을 선보일 예정이다. 16일 젤리피쉬 공식 SNS 채널을 통해 장혜진 데뷔 30주년 기념 앨범 ‘RE:main’ 커밍순 티저 이미지가 공개됐다. 공개된 커밍순 티저는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['군 복무' 엑소 첸, 두 아이 아빠 됩니다]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010836183</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010836183"/>
-        <updated>2021-11-16T10:23:38.943Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 그룹 '엑소' 멤버 첸이 두 아이의 아빠가 된다. 16일 대중음악계에 따르면, 첸의 아내가 최근 둘째 아이를 임신했다. 첸은 작년 1월 비연예인 여자친구와 결혼 발표와 함께 그녀가 임신]]></content>
     </entry>
 </feed>
