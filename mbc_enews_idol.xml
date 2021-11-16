@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 03:23:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 04:28:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['아이돌라디오2' 몬스타엑스 형원X주헌, '꾸꾸데이' 파티 개최]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/330717</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/330717</guid>
+            <pubDate>Tue, 16 Nov 2021 04:28:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/330717">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/16/8863e900-ddab-49a8-8e75-a04f9b329fa7.jpg" alt="'아이돌라디오2' 몬스타엑스 형원X주헌, '꾸꾸데이' 파티 개최">        <div class="text-box">            <p class="summary">'아이돌라디오2' 몬스타엑스 형원X주헌, '꾸꾸데이' 파티 개최</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/16/8863e900-ddab-49a8-8e75-a04f9b329fa7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크 로제, 강아지와 여유로운 일상 …귀여움은 '더블' [인스타]]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/330689</link>
@@ -86,14 +94,6 @@
             <pubDate>Mon, 15 Nov 2021 06:25:52 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/330638">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/15/47979921-4d03-4099-951b-a5d4ca6304c9.jpg" alt="스트레이키즈 아이엔, 흑발이 가장 잘 어울리는 아이돌 1위 선정">        <div class="text-box">            <p class="summary">스트레이키즈 아이엔, 흑발이 가장 잘 어울리는 아이돌 1위 선정</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/15/47979921-4d03-4099-951b-a5d4ca6304c9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 유키스 수현, '컬투쇼 만만하니~?']]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/330631</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/330631</guid>
-            <pubDate>Mon, 15 Nov 2021 04:31:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/330631">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/15/d5b7eea2-e1bf-45d2-88d9-d1ead6b07539.jpg" alt="[포토] 유키스 수현, '컬투쇼 만만하니~?'">        <div class="text-box">            <p class="summary">[포토] 유키스 수현, '컬투쇼 만만하니~?'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/15/d5b7eea2-e1bf-45d2-88d9-d1ead6b07539.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
