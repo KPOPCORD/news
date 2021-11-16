@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-16T15:23:54.955Z</updated>
+    <updated>2021-11-16T16:28:23.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SF9 다원 몽환적인 분위기]]></title>
+        <id>https://entertain.v.daum.net/v/20211117010012829</id>
+        <link href="https://entertain.v.daum.net/v/20211117010012829"/>
+        <updated>2021-11-16T16:27:54.986Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] SF9 다원 몽환적인 분위기 [화보] SF9(에스에프나인) 멤버 다원이 묘한 매력이 담긴 개인 단독 화보를 공개했다. 다원은 패션 트렌드 매거진 인디드와 함께 단독 화보를 촬영했다. ‘판타지’를 주제로 펼쳐진 이번 화보에서 다원은 다양한 디테일의 수트를 선보이며 스타일리시한 면모를 드러냈다. 트위드 재킷을 걸친 채 꽃과 함께 촬영한 흑백 화보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[버가부 초연·시안 첫 화보..러블리 매력]]></title>
         <id>https://entertain.v.daum.net/v/20211117000029435</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211116212906282"/>
         <updated>2021-11-16T12:32:57.942Z</updated>
         <content type="html"><![CDATA[[스타뉴스 윤상근 기자] /사진제공=SM엔터테인먼트 아이돌그룹 NCT 127이 정규 3집 'Sticker'(스티커)로 빌보드 200 차트 8주 연속 차트인에 성공함과 동시에 순위도 큰 폭으로 상승하는 모습을 보였다. 16일(한국 시각) 업데이트된 빌보드 최신 차트에 따르면 NCT 127 정규 3집 'Sticker'는 2021년 11월 20일 자 빌보드 20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단X콜드플레이 'My Universe' 빌보드 핫100 43위 7주 차트인]]></title>
-        <id>https://entertain.v.daum.net/v/20211116212537245</id>
-        <link href="https://entertain.v.daum.net/v/20211116212537245"/>
-        <updated>2021-11-16T12:32:57.944Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 윤상근 기자] /사진제공=워너뮤직코리아 톱 아이돌그룹 방탄소년단(BTS, RM 진 지민 제이홉 슈가 뷔 정국)이 세계적인 밴드 콜드플레이와 협업한 곡 'My Universe'로 7주째 빌보드 핫100 차트인을 유지했다. 빌보드는 16일(한국 시각) 발표한 최신 차트를 통해 'My Universe'가 2021년 11월 20일 자 빌보드 핫100 차]]></content>
     </entry>
 </feed>

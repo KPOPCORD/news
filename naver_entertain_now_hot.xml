@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-16T15:23:54.962Z</updated>
+    <updated>2021-11-16T16:28:23.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[구본길 확진→자가격리 근황 “PCR 검사 전 음성…조금만 버티자”[M+★SNS]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001621954</id>
+        <link href="https://entertain.naver.com/now/read?oid=057&amp;aid=0001621954"/>
+        <updated>2021-11-16T16:28:16.803Z</updated>
+        <content type="html"><![CDATA[펜싱선수 구본길이 코로나19 확진 판정을 받은 가운데 자가격리 중 근황을 공개했다. 구본길은 지난 16일 오후 자신의 인스타그램에 “마지막 삼재 액땜이라 생각하자”라는 글과 사진을 게재했다. 이어 “이겨내고 한국 가]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SF9 다원 몽환적인 분위기 [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000945397</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000945397"/>
+        <updated>2021-11-16T16:28:16.804Z</updated>
+        <content type="html"><![CDATA[SF9 다원 몽환적인 분위기 [화보] SF9(에스에프나인) 멤버 다원이 묘한 매력이 담긴 개인 단독 화보를 공개했다. 다원은 패션 트렌드 매거진 인디드와 함께 단독 화보를 촬영했다. ‘판타지’를 주제로 펼쳐진 이번]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘스우파’ 노제, 시크한 눈빛 [화보]]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000945396</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003803032"/>
         <updated>2021-11-16T12:33:24.991Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 이게은기자] 배우 신주아가 여유로운 근황을 전했다. 16일 신주아는 자신의 인스타그램에 "오늘도 블랙우먼. 누구게요. 신주아"라는 글과 한 장의 사진을 게재했다. 사진에는 명품 P사 모자를 쓰고 카메]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['싱글맘' 이지현, 머리 방울 달고 가을 만끽하는 "빵순이"…해맑은 미소 [TEN★]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000511898</id>
-        <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000511898"/>
-        <updated>2021-11-16T12:33:24.992Z</updated>
-        <content type="html"><![CDATA[[텐아시아=김지원 기자] 그룹 쥬얼리 출신 방송인 이지현이 일상의 즐거운 순간을 공유했다. 이지현은 16일 자신의 인스타그램에 "#가을 #커피 #빵순이"라고 글을 올렸다. 사진 속 이지현의 카페의 야외 테이블에 앉아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구본길, 코로나19 확진 심경 "마지막 삼재 액땜이라 생각"[스타IN★]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003005243</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003005243"/>
-        <updated>2021-11-16T12:33:24.993Z</updated>
-        <content type="html"><![CDATA[펜싱선수 구본길이 코로나19 확진 판정을 받은 후 치료 중인 근황을 전했다. 구본길은 16일 인스타그램에 "마지막 삼재 액땜이라 생각하자ㅋㅋ 이겨내고 한국 가자"라는 글과 함께 사진을 게재했다. 공개된 사진 속에는]]></content>
     </entry>
 </feed>
