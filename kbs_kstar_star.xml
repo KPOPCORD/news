@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 01:07:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 02:33:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['슈퍼밴드2' 우승팀 크랙실버, 드림어스컴퍼니-위엔터테인먼트에 합류!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=172831</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=172831</guid>
+            <pubDate>Tue, 16 Nov 2021 02:33:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=172831">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211116090016_953cf1cc65ef9c3874d15f7f229b8390.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=172831">'슈퍼밴드2' 우승팀 크랙실버, 드림어스컴퍼니-위엔터테인먼트에 합류!</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211116090016_953cf1cc65ef9c3874d15f7f229b8390.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["소~는 누가 키우나" 박영진, '대한민국을 빛낸 10인대상' 개그맨부문 수상]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=172190</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=170211">인피니트 남우현, '2021 썸데이 씨어터 라스트 칸타빌레'로 첫 페스티벌 무대 출연</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211105100840_1f0d68a13638408ba1ccaa19864cefb5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["3년 만이야"  뮤지컬 '더 데빌' 포스터 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=170076</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=170076</guid>
-            <pubDate>Thu, 04 Nov 2021 09:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=170076">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211104175159_3fa0b0ae20fe5357aafb4b657975f007.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=170076">"3년 만이야"  뮤지컬 '더 데빌' 포스터 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211104175159_3fa0b0ae20fe5357aafb4b657975f007.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

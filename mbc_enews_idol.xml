@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 01:07:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 02:33:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크 로제, 강아지와 여유로운 일상 …귀여움은 '더블' [인스타]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/330689</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/330689</guid>
+            <pubDate>Tue, 16 Nov 2021 02:33:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/330689">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/16/bfa0bc59-1adb-45f8-8a46-87d67c93f609.JPG" alt="블랙핑크 로제, 강아지와 여유로운 일상 …귀여움은 '더블' [인스타]">        <div class="text-box">            <p class="summary">블랙핑크 로제, 강아지와 여유로운 일상 …귀여움은 '더블' [인스타]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/16/bfa0bc59-1adb-45f8-8a46-87d67c93f609.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA['야생돌' 측 "채석장→목장 배경, 또 다른 성장으로 봐주길"]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/330683</link>
@@ -86,14 +94,6 @@
             <pubDate>Mon, 15 Nov 2021 04:31:31 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/330631">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/15/d5b7eea2-e1bf-45d2-88d9-d1ead6b07539.jpg" alt="[포토] 유키스 수현, '컬투쇼 만만하니~?'">        <div class="text-box">            <p class="summary">[포토] 유키스 수현, '컬투쇼 만만하니~?'</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/15/d5b7eea2-e1bf-45d2-88d9-d1ead6b07539.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 에이비식스 전웅, '하트하트~!']]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/330629</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/330629</guid>
-            <pubDate>Mon, 15 Nov 2021 04:31:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/330629">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/15/f0826788-4916-44ab-adf0-6c8b99c97a9a.jpg" alt="[포토] 에이비식스 전웅, '하트하트~!'">        <div class="text-box">            <p class="summary">[포토] 에이비식스 전웅, '하트하트~!'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/15/f0826788-4916-44ab-adf0-6c8b99c97a9a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
