@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-16T16:28:23.580Z</updated>
+    <updated>2021-11-16T17:22:00.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[리헤이, 힙 앤 시크…‘스우파 갈라쇼’ 막방 인증 “열정 쏟아부은”[M+★SNS]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001621955</id>
+        <link href="https://entertain.naver.com/now/read?oid=057&amp;aid=0001621955"/>
+        <updated>2021-11-16T17:21:53.482Z</updated>
+        <content type="html"><![CDATA[코카앤버터 리헤이가 ‘스우파 갈라쇼’ 막방 인증샷을 공개했다. 리헤이는 지난 16일 오후 자신의 인스타그램에 “열정을 쏟아부은 프로그램 ‘스우파’ 오늘 막방 ‘갈라쇼’ 하는 날이네요”라는 글과 사진을 게재했다. 사진]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[차학연의 낮과 밤 [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000945398</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000945398"/>
+        <updated>2021-11-16T17:21:53.483Z</updated>
+        <content type="html"><![CDATA[차학연의 낮과 밤 [화보] 가수 겸 배우 차학연이 패션 트렌드 매거진 &lt;인디드&gt; Vol.14와 함께한 표지와 화보를 공개했다. 공개된 &lt;인디드&gt;와 차학연의 화보 콘셉트는 ‘낮과 밤’. 화보 속 차학연은 시크한 표정과]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구본길 확진→자가격리 근황 “PCR 검사 전 음성…조금만 버티자”[M+★SNS]]]></title>
         <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001621954</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003803034"/>
         <updated>2021-11-16T12:33:24.989Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 이게은기자] 배우 고현정이 가녀린 비주얼을 자랑했다. 지난 15일 얼루어 코리아의 공식 인스타그램에는 "카리스마 넘치고 쿨하게. 지금의 시간을 즐기는 시대의 아이콘 배우 고현정을 만났습니다"라는 글과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엑소 첸, 두 아이 아빠 된다…군 복무 중 아내 임신]]></title>
-        <id>https://entertain.naver.com/now/read?oid=009&amp;aid=0004880101</id>
-        <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0004880101"/>
-        <updated>2021-11-16T12:33:24.989Z</updated>
-        <content type="html"><![CDATA[그룹 엑소 멤버 첸(본명 김종대, 29)이 두 아이의 아빠가 된다. 엑소 소속사 SM엔터테인먼트 관계자는 16일 매일경제 스타투데이에 “첸의 아내가 둘째를 임신했다”라고 밝혔다. 첸은 지난해 1월 비연예인 여자친구의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태국 재벌♥' 신주아, 명품 P사 모자 쓰고 셀카...한국 나들이에 신났네]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003803032</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003803032"/>
-        <updated>2021-11-16T12:33:24.991Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 이게은기자] 배우 신주아가 여유로운 근황을 전했다. 16일 신주아는 자신의 인스타그램에 "오늘도 블랙우먼. 누구게요. 신주아"라는 글과 한 장의 사진을 게재했다. 사진에는 명품 P사 모자를 쓰고 카메]]></content>
     </entry>
 </feed>
