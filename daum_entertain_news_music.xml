@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-16T10:23:53.193Z</updated>
+    <updated>2021-11-16T11:18:04.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤계상 '유퀴즈' 출격]]></title>
+        <id>https://entertain.v.daum.net/v/20211116200953505</id>
+        <link href="https://entertain.v.daum.net/v/20211116200953505"/>
+        <updated>2021-11-16T11:17:31.939Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 윤계상 ‘유퀴즈’ 출격 [공식] 하반기 최고의 액션 기대작 ‘유체이탈자’로 돌아온 윤계상이 라디오와 예능을 넘나들며 열혈 홍보 요원으로서의 활약을 예고해 기대를 모은다. 영화 ‘유체이탈자’는 기억을 잃은 채 12시간마다 다른 사람의 몸에서 깨어나는 한 남자가 모두의 표적이 된 진짜 자신을 찾기 위해 사투를 벌이는 추적 액션. ‘유체이탈자’의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SM "엑소 첸 둘째 임신 맞다"]]></title>
         <id>https://entertain.v.daum.net/v/20211116181611008</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211116170843137"/>
         <updated>2021-11-16T08:25:15.220Z</updated>
         <content type="html"><![CDATA[씨엘씨 손(사진=이데일리DB)[이데일리 스타in 윤기백 기자] 그룹 씨엘씨(CLC) 손(SORN)이 팀을 떠난다. 소속사 큐브엔터테인먼트 측은 16일 “소속 아티스트 SORN과의 전속계약이 해지됨을 알려드린다”며 “이에 따라 전속계약이 종료됨과 함께 그룹 CLC(씨엘씨)에서 탈퇴하게 됐다”고 밝혔다. 이어 “상호 원만한 협의 끝에 이와 같은 결정을 내리게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[채연 "'둘이서' 변형해서 전국민적 인기 안긴 탁재훈에 감사"]]></title>
-        <id>https://entertain.v.daum.net/v/20211116165923774</id>
-        <link href="https://entertain.v.daum.net/v/20211116165923774"/>
-        <updated>2021-11-16T08:25:15.221Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 윤상근 기자] /사진=SBS '나르샤의 아브라카다브라' 보이는 라디오 캡처 가수 채연이 원조 예능 여신다운 입담으로 3040 청취자들을 사로잡았다. 채연은 16일 오후 방송된 SBS 라디오 러브FM '나르샤의 아브라카다브라'에 출연했다. 이날 채연은 "비트가 빠르고 신나는 '사랑 느낌'과 수록곡이어서 많은 분들이 모르시지만 '사랑인가봐'라는 노래]]></content>
     </entry>
 </feed>
