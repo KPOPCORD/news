@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-17T16:29:06.670Z</updated>
+    <updated>2021-11-17T17:25:09.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["백신 안맞아" 이 배우 때문에 '블랙팬서2' 촬영 차질]]></title>
+        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004671937</id>
+        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004671937"/>
+        <updated>2021-11-17T17:25:08.443Z</updated>
+        <content type="html"><![CDATA[영국 배우 레티티아 라이트가 부상에 이어 백신 접종 거부 입장을 고수하면서 영화 '블랙팬서2'의 촬영이 연기되고 있다. 지난 10일(현지시각, 이하 동일) 미국 매체 할리우드리포터는 '할리우드 스튜디오 프로젝트, C]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["이정재 왔다고? 어디?" 디카프리오, 이렇게 '투샷 셀카' 찍었나]]></title>
         <id>https://entertain.naver.com/now/read?oid=018&amp;aid=0005088520</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001374368"/>
         <updated>2021-11-17T03:22:52.443Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 미국 록밴드 브라스 어게인스트의 보컬 소피아 유리스타가 공연 중 관객 얼굴에 소변을 보는 퍼포먼스를 선보여 논란이 되고 있다. 15일(현지시간) 뉴욕포스트 등 외신에 따르면 브라스 어게인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남성 팬 얼굴에 소변 본 美여성 로커 "너무 과했다" 사과]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010837361</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010837361"/>
-        <updated>2021-11-17T03:22:52.443Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]전재경 인턴 기자 = 공연 무대에서 남성 팬의 얼굴에 소변을 보는 퍼포먼스를 해 논란을 빚은 미국의 한 여성 록커가 SNS를 통해 사과했다. 미국 록 밴드 '브라스 어게인스트'의 보컬 소피아 유리스타는]]></content>
     </entry>
 </feed>
