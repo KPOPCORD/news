@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-17T15:23:27.115Z</updated>
+    <updated>2021-11-17T16:29:06.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수능 응원, 브레이브걸스&다크비 훈훈한 메시지]]></title>
+        <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001622199</id>
+        <link href="https://entertain.naver.com/now/read?oid=057&amp;aid=0001622199"/>
+        <updated>2021-11-17T16:28:59.407Z</updated>
+        <content type="html"><![CDATA[브레이브 엔터테인먼트 소속 아티스트들이 수험생 응원에 나섰다. 소속사 브레이브 엔터테인먼트 측은 브레이브걸스와 다크비(DKB) 각각의 공식 유튜브 채널과 SNS를 통해 '2022학년도 대학수학능력시험'을 앞둔 수험생]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에스파 1주년 소감…예쁨 폭발 단체샷 공개 “마이, 좋은 추억 많이 만들자”]]></title>
+        <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001622198</id>
+        <link href="https://entertain.naver.com/now/read?oid=057&amp;aid=0001622198"/>
+        <updated>2021-11-17T16:28:59.408Z</updated>
+        <content type="html"><![CDATA[에스파가 1주년 소감을 전했다. 에스파의 공식 인스타그램에는 지난 17일 오후 “에스파가 1주년이 되었다!!”라는 글과 사진이 게재됐다. 이어 “생각지도 못하게 우리가 과분한 사랑을 받고 있는것 같아서 너무 얼떨떨한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송중기, 신작 드라마 대본 깜짝 공개 [TEN★]]]></title>
         <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000512177</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000945667"/>
         <updated>2021-11-17T13:26:06.370Z</updated>
         <content type="html"><![CDATA[‘내가 키운다’ 박선주가 국제학교에 다니고 있는 10살 딸 에이미를 공개했다. 또 남편 강레오와 별거 사실도 전했다. 17일 방송된 JTBC '용감한 솔로 육아-내가 키운다'에서는 박선주의 이야기가 전파를 탔다. 박]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['안테나行' 이미주 "발전하는 모습 보여드릴 것, 응원 감사"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=009&amp;aid=0004880731</id>
-        <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0004880731"/>
-        <updated>2021-11-17T13:26:06.374Z</updated>
-        <content type="html"><![CDATA[그룹 러블리즈 출신 이미주가 새 소속사 안테나와 함께하게 된 소감을 밝혔다. 이미주는 17일 인스타그램에 “저의 새로운 시작을 안테나와 함께하게 됐다”는 글을 게재했다. 이어 “이곳에서 제가 잘 할 수 있고, 잘 해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김청, 5번 이혼한 전 남편에 받은 '충격의 결혼반지'.."다섯 여자 거친 반지" ('같이삽시다3')[종합]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003803548</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003803548"/>
-        <updated>2021-11-17T13:26:06.375Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 조윤선 기자] 김청이 결혼반지에 얽힌 악몽을 털어놨다. 17일 방송된 KBS 2TV '박원숙의 같이 삽시다 시즌3'에서는 국제 부부와 함께 가든파티를 즐기는 사선녀 박원숙, 혜은이, 김영란, 김청의 모습]]></content>
     </entry>
 </feed>
