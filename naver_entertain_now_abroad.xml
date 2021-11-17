@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-17T08:25:49.430Z</updated>
+    <updated>2021-11-17T09:21:26.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[경북 관광명소 인도네시아 TV 예능 프로그램에 나온다]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012800327</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012800327"/>
+        <updated>2021-11-17T09:21:26.271Z</updated>
+        <content type="html"><![CDATA[(경주=연합뉴스) 손대성 기자 = 경북 관광 명소가 인도네시아 지상파TV에 나온다. 17일 경북도와 경북문화관광공사에 따르면 SBS와 인도네시아 지상파채널 NET TV 합작 예능프로그램인 '좋은 친구들 시즌2' 경북]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자유 찾은 브리트니 스피어스…"팬 여러분이 절 살렸어요"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012800283</id>
+        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012800283"/>
+        <updated>2021-11-17T09:21:26.273Z</updated>
+        <content type="html"><![CDATA["난 강한 여성…장애나 병이 있는 사람 대변자 되고 싶다" (서울=연합뉴스) 이의진 기자 = "솔직히 말해 저는 어떤 의미에서는 여러분이 나를 살렸다고 생각해요. 100％ 그렇게 생각해요." 법정후견인인 아버지에게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘오징어게임’ 정호연X사람엔터, 美최대 에이전시 CAA와 글로벌 파트너 계약]]></title>
         <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512382</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=022&amp;aid=0003638914"/>
         <updated>2021-11-17T02:35:38.545Z</updated>
         <content type="html"><![CDATA[NHK 캡처 주한미군 병사 찰스 로버트 젱킨스(사진)의 북한 체류기가 드라마로 나온다. 이 같은 소식은 지난 16일(현지시간) 미국 연예매체 버라이어티가 전했다. 앞서 젱킨스는 주한미국 육군 제1기병사단 8연대 1대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오징어 게임' 첫 4주 시청 시간 따져보니 무려 18만8천년]]></title>
-        <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012798360</id>
-        <link href="https://entertain.naver.com/now/read?oid=001&amp;aid=0012798360"/>
-        <updated>2021-11-17T02:35:38.546Z</updated>
-        <content type="html"><![CDATA[16억5천만시간 시청 '부동의 1위'…넷플릭스 히트작 순위 공개한국 드라마, 주간 집계 1∼3위 '싹쓸이'…'톱10'에 네 작품 포진시청 시간 기준 넷플릭스 최고 히트작에 오른 '오징어 게임'[넷플릭스 순위 사이트 캡처. 재판매 및 DB 금지](로스앤젤레스=연합뉴스) 정윤섭 특파원 = 한국 드라마 '오징어 게임' 출시 이...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북한서도 '오징어게임' 대유행 "이불 덮고 휴대폰으로 본다"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005728792</id>
-        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005728792"/>
-        <updated>2021-11-17T02:35:38.547Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 박형기 기자 = 북한 당국의 단속에도 오징어게임이 북한에서 대유행하고 있다고 자유아시아방송(RFA)이 17일 보도했다. RFA에 따르면 당국의 단속에도 중국에서 불법 복제된 오징어게임 동영상이 북한에]]></content>
     </entry>
 </feed>
