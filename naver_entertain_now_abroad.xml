@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-17T22:22:04.494Z</updated>
+    <updated>2021-11-17T23:22:37.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단, 美 '2021 AMA'서 콜드플레이와 한 무대 선다]]></title>
+        <id>https://entertain.naver.com/now/read?oid=417&amp;aid=0000755591</id>
+        <link href="https://entertain.naver.com/now/read?oid=417&amp;aid=0000755591"/>
+        <updated>2021-11-17T23:22:36.400Z</updated>
+        <content type="html"><![CDATA[그룹 방탄소년단이 '2021 아메리칸 뮤직 어워드'에서 콜드플레이와 합동 무대를 펼친다. 미국 대중음악 시상식 '아메리칸 뮤직 어워드'(2021 American Music Awards. AMA)는 17일(현지시각)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크리스 에반스♥셀레나 고메즈 열애설, 단서는 스웨터[해외이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003556403</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000831828"/>
         <updated>2021-11-17T03:22:52.441Z</updated>
         <content type="html"><![CDATA[은지원이 17일 오전 온라인으로 진행된 넷플릭스 오리지널 예능 '신세계로부터' 제작보고회에서 포즈를 취하고 있다. 사진=넷플릭스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조보아 '매력적인 미소' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000831827</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000831827"/>
-        <updated>2021-11-17T03:22:52.442Z</updated>
-        <content type="html"><![CDATA[조보아가 17일 오전 온라인으로 진행된 넷플릭스 오리지널 예능 '신세계로부터' 제작보고회에서 포즈를 취하고 있다. 사진=넷플릭스]]></content>
     </entry>
 </feed>
