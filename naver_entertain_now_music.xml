@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-17T14:19:58.540Z</updated>
+    <updated>2021-11-17T15:23:27.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단·에이티즈, 수험생 응원…“긴장하지 말고 준비한 대로만”]]></title>
+        <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0001913947</id>
+        <link href="https://entertain.naver.com/now/read?oid=016&amp;aid=0001913947"/>
+        <updated>2021-11-17T15:23:11.569Z</updated>
+        <content type="html"><![CDATA[[헤럴드경제=고승희 기자] 방탄소년단, 에이티즈 등 K팝 스타들이 2022학년도 대학수학능력시험을 하루 앞둔 수험생들을 응원했다. 방탄소년단은 17일 오후 공개한 유튜브 영상을 통해 “아미(방탄소년단 팬클럽) 여러분]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[나의 인생곡㊸] 이태호 '미스고', 트로트 침체 분위기 단번에 '일신']]></title>
+        <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000116706</id>
+        <link href="https://entertain.naver.com/now/read?oid=629&amp;aid=0000116706"/>
+        <updated>2021-11-17T15:23:11.569Z</updated>
+        <content type="html"><![CDATA[원래 제목 '미스김', 떨림과 바이브레이션 강조 '미쓰~고'로 바꿔 가수 이태호는 반짝반짝 빛나는 크리스탈보다 투박한 옹기같은 사나이다. 나훈아와 설운도의 강점을 합해 놓은 듯한 보이스 색깔, 거칠면서도 구성지게 꺾]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘재즈 역사상 가장 위대한 목소리’ 빌리 홀리데이, 전기영화 개봉과 함께 LP, CD 등 4종 발매]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000775156</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003499596"/>
         <updated>2021-11-17T10:23:26.644Z</updated>
         <content type="html"><![CDATA[[헤럴드POP=천윤혜기자]가수 하성운이 여섯 번째 미니앨범 'Electrified : Urban Nostalgia’의 트랙리스트를 공개했다. 하성운이 오는 19일 여섯 번째 미니앨범 'Electrified : Urb]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하성운 컴백 앨범 트랙리스트..타이틀곡은 'Electrified'[공식]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003005521</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003005521"/>
-        <updated>2021-11-17T09:21:12.677Z</updated>
-        <content type="html"><![CDATA[가수 하성운이 6번째 미니앨범 'Electrified : Urban Nostalgia' 트랙리스트를 공개했다. 하성운은 오는 19일 'Electrified : Urban Nostalgia'로 컴백한다. 이에 앞서 소]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미스에스X정슬기X칸토, 브랜뉴뮤직 10주년 기념 프로젝트 싱글 ‘이 나이 먹고 뭐했길래’ 발표]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000775086</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000775086"/>
-        <updated>2021-11-17T09:21:12.678Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 미스에스 (Miss $)가 브랜뉴뮤직 10주년 기념 싱글 프로젝트인 ‘TEN PROJECT(텐 프로젝트)’의 대미를 장식하며 자신들의 히트곡 ‘이 나이 먹고 뭐했길래’를 다시 리메이크 해 17일 공개했]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-17T14:19:58.542Z</updated>
+    <updated>2021-11-17T15:23:27.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이태호 '미스고', 트로트 침체 분위기 단번에 '일신']]></title>
+        <id>https://entertain.v.daum.net/v/20211118000038195</id>
+        <link href="https://entertain.v.daum.net/v/20211118000038195"/>
+        <updated>2021-11-17T15:22:52.839Z</updated>
+        <content type="html"><![CDATA[원래 제목 '미스김', 떨림과 바이브레이션 강조 '미쓰~고'로 바꿔 [더팩트｜강일홍 기자] 가수 이태호는 반짝반짝 빛나는 크리스탈보다 투박한 옹기같은 사나이다. 나훈아와 설운도의 강점을 합해 놓은 듯한 보이스 색깔, 거칠면서도 구성지게 꺾어 넘기는 창법은 누구도 흉내낼 수 없는 이태호만의 자랑거리다. 그는 22살이던 86년 '돌같은 사나이' (조동산 작사]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김수찬, 생일 축하합니다]]></title>
+        <id>https://entertain.v.daum.net/v/20211118000008178</id>
+        <link href="https://entertain.v.daum.net/v/20211118000008178"/>
+        <updated>2021-11-17T15:22:52.844Z</updated>
+        <content type="html"><![CDATA[[동아닷컴]  가수 김수찬이 트롯픽 생일상을 받는다. 트롯 문화를 사랑하는 사람들을 응원하는 서비스 트롯픽(trotpick)에 따르면, 김수찬은 11월 생일자를 대상으로 한 스페셜 투표에서 이벤트 주인공으로 선정됐다. 이번 투표는 10월19일부터 10월25일까지 진행됐다. 트롯픽의 생일 이벤트는 득표에 따라 서포트가 단계별로 진행되는 것이 특징이다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['재즈 역사상 가장 위대한 목소리' 빌리 홀리데이, 전기영화 개봉과 함께 LP, CD 등 4종 발매]]></title>
         <id>https://entertain.v.daum.net/v/20211117221204344</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211117175013742"/>
         <updated>2021-11-17T09:20:55.576Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 그룹 방탄소년단이 미국 일정 소화를 위해 오늘(17일) 출국했다. 방탄소년단은 17일 오후 2시께 인천국제공항을 통해 미국 로스앤젤레스(LA)로 출국했다. 방탄소년단은 출국 후 LA에서 현지 일정을 소화한다. 먼저 오는 21일(이하 현지시간)에는 미국 마이크로소프트 시어터에서 열리는 대중음악 시상식 '2021 아메리칸 뮤직 어워]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트롯 왕세자 정동원,'귀여운 포토타임']]></title>
-        <id>https://entertain.v.daum.net/v/20211117174904721</id>
-        <link href="https://entertain.v.daum.net/v/20211117174904721"/>
-        <updated>2021-11-17T09:20:55.579Z</updated>
-        <content type="html"><![CDATA[[OSEN=이대선 기자] 17일 오후 서울 이촌동 노들섬 라이브하우스에서 정동원 첫 정규 앨범 ‘그리움, 아낌없이 주는 나무’ 발매 기념 쇼케이스가 열렸다. ‘그리움, 아낌없이 주는 나무’는 1년 반이 넘는 시간동안 심혈을 기울여 준비한 앨범이자, 정동원의 첫 정규 앨범이다. 앞서 이번 앨범은 정식 발매 전부터 선주문량 10만 장을 돌파하며 뜨거운 팬덤 화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마약투약' 한서희, 실형 선고한 판사에 욕설 내뱉으며 '난동']]></title>
-        <id>https://entertain.v.daum.net/v/20211117174607657</id>
-        <link href="https://entertain.v.daum.net/v/20211117174607657"/>
-        <updated>2021-11-17T09:20:55.580Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김한길 기자] 집행유예 기간에 마약을 투약한 혐의로 재판에 넘겨진 가수 연습생 출신 한서희(26)가 실형을 선고 받고 법정 구속됐다. 수원지법 성남지원 형사1단독은 17일 마약류 관리에 관한 법률 위반 혐의로 불구속 기소된 한서희에게 징역 1년 6개월을 선고했다. 이날 재판부는 "피고인이 혐의를 부인하고 있지만 수사 결과를 살펴본 결과 검찰]]></content>
     </entry>
 </feed>
