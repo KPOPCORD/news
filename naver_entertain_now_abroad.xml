@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-17T09:21:26.974Z</updated>
+    <updated>2021-11-17T10:23:41.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[톱스타 부부, 부자 친구들과 자택서 '오겜' 파티..'비난세례'[Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004512286</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004512286"/>
+        <updated>2021-11-17T10:23:41.234Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 가수 존 레전드과 그의 아내이자 모델 겸 배우인 크리시 티건이 자택에서 '오징어 게임' 테마로 파티를 해 네티즌에게 뭇매를 맞고 있다. 뉴욕포스트의 16일(현지시간) 보도에 따르면 최근 두]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경북 관광명소 인도네시아 TV 예능 프로그램에 나온다]]></title>
         <id>https://entertain.naver.com/now/read?oid=001&amp;aid=0012800327</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=022&amp;aid=0003638918"/>
         <updated>2021-11-17T02:35:38.544Z</updated>
         <content type="html"><![CDATA[밴드 브라스 어게인스트 여성 보컬 멤버가 공연 도중 남성 관객의 얼굴에 소변을 봤다. 유튜브 화면 캡처 밴드 브라스 어게인스트의 보컬 멤버 소피아 유리스타가 공연 중 남성 관객의 얼굴에 소변을 본 것에 대해 사과했다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘월북→40년간 北 체류’ 주한미군 병사 이야기 드라마로 나온다]]></title>
-        <id>https://entertain.naver.com/now/read?oid=022&amp;aid=0003638914</id>
-        <link href="https://entertain.naver.com/now/read?oid=022&amp;aid=0003638914"/>
-        <updated>2021-11-17T02:35:38.545Z</updated>
-        <content type="html"><![CDATA[NHK 캡처 주한미군 병사 찰스 로버트 젱킨스(사진)의 북한 체류기가 드라마로 나온다. 이 같은 소식은 지난 16일(현지시간) 미국 연예매체 버라이어티가 전했다. 앞서 젱킨스는 주한미국 육군 제1기병사단 8연대 1대]]></content>
     </entry>
 </feed>

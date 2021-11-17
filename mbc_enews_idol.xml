@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 09:21:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 10:23:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[포토] 웬디, '과즙 농도 초과']]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/330843</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/330843</guid>
+            <pubDate>Wed, 17 Nov 2021 10:23:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/330843">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/17/7556ac35-d34f-4b5e-9b34-d9e5fee4570b.jpg" alt="[포토] 웬디, '과즙 농도 초과'">        <div class="text-box">            <p class="summary">[포토] 웬디, '과즙 농도 초과'</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/17/7556ac35-d34f-4b5e-9b34-d9e5fee4570b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[포토] 웬디, '깜짝 놀란 토끼눈']]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/330842</link>
@@ -86,14 +94,6 @@
             <pubDate>Wed, 17 Nov 2021 03:22:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/330796">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/17/47349b2e-3b05-4ce3-a129-0aa5e7f18f75.jpg" alt="이미주, 안테나 전속계약…유재석과 한솥밥 [공식입장]">        <div class="text-box">            <p class="summary">이미주, 안테나 전속계약…유재석과 한솥밥 [공식입장]</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/17/47349b2e-3b05-4ce3-a129-0aa5e7f18f75.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트와이스 사나, 과학적으로 증명한 미모…"샤이언티스트" [인스타]]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/330794</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/330794</guid>
-            <pubDate>Wed, 17 Nov 2021 03:22:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/330794">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/17/738de45a-704c-4dbc-9ae2-6a66fcaf5c55.jpg" alt="트와이스 사나, 과학적으로 증명한 미모…" 샤이언티스트"="" [인스타]"="">        <div class="text-box">            <p class="summary">트와이스 사나, 과학적으로 증명한 미모…"샤이언티스트" [인스타]</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/17/738de45a-704c-4dbc-9ae2-6a66fcaf5c55.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
