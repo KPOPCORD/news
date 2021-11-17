@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-17T20:24:41.001Z</updated>
+    <updated>2021-11-17T21:18:38.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[크리스 에반스♥셀레나 고메즈 열애설, 단서는 스웨터[해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003556403</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003556403"/>
+        <updated>2021-11-17T21:18:38.127Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘캡틴 아메리카’ 크리스 에반스(40)와 세계적 셀럽 셀레나 고메즈(28)의 열애설이 터졌다. 16일(현지시간) 연예매체 페이지식스에 따르면, 가수 테일러 스위프트(32)는 최근 틱톡에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["백신 안맞아" 이 배우 때문에 '블랙팬서2' 촬영 차질]]></title>
         <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004671937</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000831827"/>
         <updated>2021-11-17T03:22:52.442Z</updated>
         <content type="html"><![CDATA[조보아가 17일 오전 온라인으로 진행된 넷플릭스 오리지널 예능 '신세계로부터' 제작보고회에서 포즈를 취하고 있다. 사진=넷플릭스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["화장실에 갈 수 없어"…美 여성 보컬, 공연 중 관객 얼굴에 소변 [종합]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001374368</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001374368"/>
-        <updated>2021-11-17T03:22:52.443Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 미국 록밴드 브라스 어게인스트의 보컬 소피아 유리스타가 공연 중 관객 얼굴에 소변을 보는 퍼포먼스를 선보여 논란이 되고 있다. 15일(현지시간) 뉴욕포스트 등 외신에 따르면 브라스 어게인]]></content>
     </entry>
 </feed>
