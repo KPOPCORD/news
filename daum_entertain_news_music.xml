@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-17T02:35:39.212Z</updated>
+    <updated>2021-11-17T03:22:53.194Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[러블리즈 베이비소울→본명 이수정으로 새출발..프로필 공개]]></title>
+        <id>https://entertain.v.daum.net/v/20211117121347125</id>
+        <link href="https://entertain.v.daum.net/v/20211117121347125"/>
+        <updated>2021-11-17T03:22:17.261Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 가수 베이비소울(Babysoul)이 이수정으로 활동명을 바꾸고 새 출발에 나선다. 소속사 울림엔터테인먼트는 11월 17일 "베이비소울이 본명인 이수정으로 활동명을 변경했다"고 밝혔다. 이수정은 본명으로 가수 인생 제2막을 활짝 연다. 새로운 행보를 시작한 이수정은 자신만의 독보적인 음악 색을 구축해나가며 더욱 탄탄한 커리어를 쌓]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[몬스타엑스 형원, 아이돌 새 꿈 찾았다]]></title>
+        <id>https://entertain.v.daum.net/v/20211117121008046</id>
+        <link href="https://entertain.v.daum.net/v/20211117121008046"/>
+        <updated>2021-11-17T03:22:17.266Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 몬스타엑스 형원, 아이돌 새 꿈 찾았다 (다시, 플라이) 몬스타엑스 형원이 아픔을 간직한 채 아이돌 꿈을 찾아가는 고등학생 ‘요한’으로 완벽 변신해 시선을 집중 시켰다. 17일(수) 오전 9시 카카오TV에서 공개된 K-POP 하이틴 뮤지컬 드라마 ‘다시, 플라이’(연출 오환민, 극본 장경림, 제작 더그레이트쇼/이모션스튜디오/파라블럼픽쳐스) 2]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에스파 '광야'로 첫발 뗀 지 1년..메타버스 세계서 3연속 히트]]></title>
         <id>https://entertain.v.daum.net/v/20211117113254450</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211117104800985"/>
         <updated>2021-11-17T02:35:10.871Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 그룹 에스파가 데뷔 1주년을 맞았다. 지난해 11월 17일 'Black Mamba(블랙맘바)'로 가요계에 등장한 에스파는 독보적인 메타버스 세계관으로 데뷔부터 글로벌한 주목을 받았다. 주목 받는 신예에서 하프 밀리언셀러로 거듭나기까지, 에스파의 &nbsp;지난 365일을 돌아봤다. # Black Mamba→Next Level→Savage]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['쉬어→회전목마' 음원차트 1위 바톤터치, 이유있는 '쇼미10' 승승장구]]></title>
-        <id>https://entertain.v.daum.net/v/20211117103813570</id>
-        <link href="https://entertain.v.daum.net/v/20211117103813570"/>
-        <updated>2021-11-17T02:35:10.872Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] Mnet ‘쇼미더머니 10’이 각종 음원 차트 상위권을 점령하며 뜨거운 힙합 열풍을 불러온 가운데 비트메이커와 최정상 래퍼로 구성된 이번 시즌 프로듀서들의 활약이 눈길을 모은다. 지난 주 공개된 ‘쇼미더머니10’ 본선 무대 경연곡 두 곡 ‘회전목마’와 ‘가시’는 11월 13일 음원 발매 후 주요 음원 차트 상위권을 석권하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이프릴 세컨드 "음악으로 누군가의 세상을 색칠하는 것..그것이 우리의 방향성"]]></title>
-        <id>https://entertain.v.daum.net/v/20211117103539446</id>
-        <link href="https://entertain.v.daum.net/v/20211117103539446"/>
-        <updated>2021-11-17T02:35:10.873Z</updated>
-        <content type="html"><![CDATA[[헤럴드경제=고승희 기자] 2016년 이후 소위 ‘트렌디’하다는 인기 드라마엔 이 밴드가 있었다. ‘사랑의 불시착’(tvN), ‘도깨비’(tvN), ‘질투의 화신’(SBS) 등등. 때론 아련하고, 때론 경쾌한 중성적 음색이 드라마의 장면 장면과 묻어나자 차트 진입도 어렵지 않았다. 인기 보컬리스트가 아닌 인디밴드가 이토록 다수의 드라마에 꾸준히 참여해]]></content>
     </entry>
 </feed>
