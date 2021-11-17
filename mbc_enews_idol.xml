@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 03:22:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 04:28:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[포토] 트와이스 쯔위, '차윈도 마스크']]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/330815</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/330815</guid>
+            <pubDate>Wed, 17 Nov 2021 04:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/330815">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/17/b1b0dec0-5d4e-4d50-8fd6-5aa18de67233.jpg" alt="[포토] 트와이스 쯔위, '차윈도 마스크'">        <div class="text-box">            <p class="summary">[포토] 트와이스 쯔위, '차윈도 마스크'</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/17/b1b0dec0-5d4e-4d50-8fd6-5aa18de67233.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[포토] 트와이스 다현, '누가 봐도 둡다현~']]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/330814</link>
@@ -86,14 +94,6 @@
             <pubDate>Tue, 16 Nov 2021 06:23:34 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/330728">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/16/b6db1067-2991-47fa-a9f6-9b11fbb78f7f.jpg" alt="블랙핑크 제니, '군살 제로' 몸매…크롭티 완벽 소화 [인스타]">        <div class="text-box">            <p class="summary">블랙핑크 제니, '군살 제로' 몸매…크롭티 완벽 소화 [인스타]</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/16/b6db1067-2991-47fa-a9f6-9b11fbb78f7f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['아이돌라디오2' 몬스타엑스 형원X주헌, '꾸꾸데이' 파티 개최]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/330717</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/330717</guid>
-            <pubDate>Tue, 16 Nov 2021 04:28:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/330717">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/16/8863e900-ddab-49a8-8e75-a04f9b329fa7.jpg" alt="'아이돌라디오2' 몬스타엑스 형원X주헌, '꾸꾸데이' 파티 개최">        <div class="text-box">            <p class="summary">'아이돌라디오2' 몬스타엑스 형원X주헌, '꾸꾸데이' 파티 개최</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/16/8863e900-ddab-49a8-8e75-a04f9b329fa7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
