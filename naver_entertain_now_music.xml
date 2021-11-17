@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-17T19:18:39.477Z</updated>
+    <updated>2021-11-17T20:24:40.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수능 미응시 아이돌, 왜 늘어날까]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010839143</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010839143"/>
+        <updated>2021-11-17T20:24:27.561Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = '2022학년도 대학수학능력시험'(수능) 날이 밝았다. 약 51만 명의 수험생이 올해 수능을 치른다. K팝 아이돌 그룹 멤버도 예외는 아니다. 다만 최근 수능에 응시하지 않고 음악 활동]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미니멀리즘 음악가 김재훈, 19일 단독공연…'반주와 증폭']]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010839126</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010838765"/>
         <updated>2021-11-17T10:23:26.633Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]이수진 인턴 기자 = 밴드 원위(ONEWE)가 멤버별 콘셉트 포토를 공개했다. 17일 소속사 RBW는 공식 SNS를 통해 데모 앨범 '스튜디오 위: 레코딩 #2(STUDIO WE: Recording #]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘발매 D-1’ 빅나티, 수능 수험생 위한 신곡 ‘STAB’ 뮤비 티저 공개]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000775091</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000775091"/>
-        <updated>2021-11-17T10:23:26.635Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 래퍼 빅나티(서동현, BIG Naughty)가 뮤직비디오 티저로 신곡에 대한 기대감을 높였다. 글로벌 힙합 레이블 하이어뮤직(H1GHR MUSIC)은 수능을 하루 앞둔 17일 오후 6시 공식 SNS를]]></content>
     </entry>
 </feed>
