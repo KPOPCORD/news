@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-18T14:20:02.527Z</updated>
+    <updated>2021-11-18T15:22:50.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[백현, 유튜브 채널 영상 삭제 "예상치 못한 오해 방지"[전문]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003005914</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003005914"/>
+        <updated>2021-11-18T15:22:36.372Z</updated>
+        <content type="html"><![CDATA[그룹 엑소 멤버 백현이 개인 유튜브 채널 영상을 삭제했다. 지난 18일 SM엔터테인먼트 측은 백현의 유튜브 채널 '백현 Baekhyun' 커뮤니티를 통해 "큥튜브의 콘텐츠 게재를 백현의 전역일까지 중지한]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하이브로, 25일 신곡 '난 너만' 발표…새 출발 첫 곡]]></title>
+        <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000116960</id>
+        <link href="https://entertain.naver.com/now/read?oid=629&amp;aid=0000116960"/>
+        <updated>2021-11-18T15:22:36.372Z</updated>
+        <content type="html"><![CDATA[장미여관 출신, 새 로고 공개 '컴백 출사표' 그룹 하이브로(HIGHBRO)가 출격일을 확정하고 새 로고를 공개했다. 하이브로는 오는 25일 정오 각종 음원사이트를 통해 신곡 '난 너만'을 발표한다. '난 너만'은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[병무청 "유승준, 입영통지서 수령 불분명? 사실과 다르다"[공식]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003005894</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000512866"/>
         <updated>2021-11-18T09:21:37.789Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 위키미키(지수연, 엘리, 최유정, 김도연, 세이, 루아, 리나, 루시)가 한 편의 성장 드라마 같은 신곡으로 컴백했다. 위키미키는 11월 18일 오후 6시 음원 사이트를 통해 5번째 미니]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["낮잠 끝, 난 타올라"…위키미키, 더 눈부신 밤을 위한 '시에스타'[신곡읽기]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000329462</id>
-        <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000329462"/>
-        <updated>2021-11-18T09:21:37.791Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=정유진 기자] 그룹 위키미키가 낮잠 후 화려한 축제를 꿈꾼다. 위키미키는 18일 오후 6시 각종 음원 사이트를 통해 다섯 번째 미니앨범 '아이 엠 미'를 발표했다. 이번 앨범 타이틀곡 '시에스타'는 스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장희원, '지헤중' 이하이 OST로 증명한 프로듀서 가능성]]></title>
-        <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000329461</id>
-        <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000329461"/>
-        <updated>2021-11-18T09:21:37.792Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=장진리 기자] 가수 장희원이 프로듀서로서 가능성을 인정받았다. 장희원은 이하이가 부른 SBS 금토드라마 '지금, 헤어지는 중입니다'(극본 제인, 연출 이길복) OST '손을 잡아줘요' 작사, 작곡, 편]]></content>
     </entry>
 </feed>

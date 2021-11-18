@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-18T14:20:02.533Z</updated>
+    <updated>2021-11-18T15:22:50.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[백현, 유튜브 채널 영상 삭제 "예상치 못한 오해 방지"]]></title>
+        <id>https://entertain.v.daum.net/v/20211119001449504</id>
+        <link href="https://entertain.v.daum.net/v/20211119001449504"/>
+        <updated>2021-11-18T15:22:20.280Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 안윤지 기자] 엑소(EXO) 백현 /사진제공=SM엔터테인먼트 2021.03.30 /사진=이동훈 기자 photoguy@그룹 엑소 멤버 백현이 개인 유튜브 채널 영상을 삭제했다. 지난 18일 SM엔터테인먼트 측은 백현의 유튜브 채널 '백현 Baekhyun' 커뮤니티를 통해 "큥튜브의 콘텐츠 게재를 백현의 전역일까지 중지한다"라고 밝혔다. 소속사는 "]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[병무청, 유승준 입영통지서 수령 불분명 주장 반박 "개인사로 소집 연기"]]></title>
+        <id>https://entertain.v.daum.net/v/20211119000526396</id>
+        <link href="https://entertain.v.daum.net/v/20211119000526396"/>
+        <updated>2021-11-18T15:22:20.280Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김한길 기자] 가수 유승준(45·미국명 스티브 승준 유)이 과거 병무청으로부터 군 소집 통지서를 받았는지 불분명하다고 주장한 가운데, 병무청이 이 같은 주장에 대해 즉각 반박했다. 유승준의 대리인은 18일 서울행정법원 행정5부(부장판사 정상규) 심리로 열린 주 로스앤젤레스(LA) 총영사 상대 소송의 세 번째 변론에서 "입영 통지가 나온 것인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['국민가수' 이병찬 등 진수병찬 팀, 눈 뗄 수 없는 화려한 무대 '박수갈채']]></title>
         <id>https://entertain.v.daum.net/v/20211118230407285</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211118180003603"/>
         <updated>2021-11-18T09:21:18.028Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 그룹 위키미키(Weki Meki)가 활력을 찾아줄 '낮잠'같은 신곡 'Siesta'로 돌아왔다. 위키미키(지수연, 엘리, 최유정, 김도연, 세이, 루아, 리나, 루시)의 다섯 번째 미니 앨범 'I AM ME.(아이 엠 미)'와 타이틀곡 'Siesta(시에스타)' 뮤직비디오가 18일 오후 6시 공개됐다. 이번 앨범은 위키미키가 1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["아름답게 불을 붙여"..'시에스타'에서 깨어난 위키미키가 터트릴 불꽃]]></title>
-        <id>https://entertain.v.daum.net/v/20211118180002601</id>
-        <link href="https://entertain.v.daum.net/v/20211118180002601"/>
-        <updated>2021-11-18T09:21:18.033Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 정하은기자] 그룹 위키미키(Weki Meki)가 잠깐의 휴식기를 지나 화려한 불꽃을 터트린다. 위키미키(최유정, 김도연, 지수연, 엘리, 세이, 루아, 리나, 루시)가 다섯번째 미니 앨범 ‘I AM ME.(아이 엠 미)’를 발표하고 타이틀곡 ‘Siesta(시에스타)’로 1년 1개월 만에 가요계에 돌아온다. ‘시에스타’는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙핑크, '마지막처럼' 뮤직비디오 11억뷰 돌파]]></title>
-        <id>https://entertain.v.daum.net/v/20211118175550456</id>
-        <link href="https://entertain.v.daum.net/v/20211118175550456"/>
-        <updated>2021-11-18T09:21:18.035Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 그룹 블랙핑크(BLACKPINK)의 '마지막처럼' 뮤직비디오가 유튜브에서 11억뷰를 돌파했다. 18일 YG엔터테인먼트에 따르면 블랙핑크의 '마지막처럼' 뮤직비디오는 이날 오후 5시께 유튜브 조회수 11억 회를 넘어섰다. 10억뷰 금자탑을 쌓은지 약 7개월 만. 공개된 지 4년이 훌쩍 지난 곡임에도 글로벌 팬들의 여전한 관]]></content>
     </entry>
 </feed>
