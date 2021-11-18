@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-18T09:21:53.453Z</updated>
+    <updated>2021-11-18T10:24:53.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서문탁 'KS 4차전서 애국가 열창' [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000832297</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000832297"/>
+        <updated>2021-11-18T10:24:52.900Z</updated>
+        <content type="html"><![CDATA[18일 오후 고척스카이돔에서 2021 KBO리그 한국시리즈 4차전 KT 위즈와 두산 베어스의 경기가 벌어졌다. 가수 서문탁이 애국가를 열창하고 있다. KS 3연승으로 통합우승에 단 1승만 남겨둔 KT는 4차전에서 우]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서문탁 'KS 4차전, 애국가 제창' [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000832282</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000832282"/>
+        <updated>2021-11-18T10:24:52.901Z</updated>
+        <content type="html"><![CDATA[18일 오후 서울 고척스카이돔에서 '2021 KBO 포스트시즌 한국시리즈 4차전' KT 위즈와 두산 베어스 경기가 열렸다. 가수 서문탁이 애국가를 제창하고 있다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[테일러 스위프트 vs 故휘트니 휴스턴, 때아닌 팬들 욕설 전쟁 [Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004513228</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001374932"/>
         <updated>2021-11-18T03:22:02.752Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 대표 팝스타 커플이었던 숀 멘데스와 카밀라 카베요가 결별을 선언했다. 17일(현지시간) 숀 멘데스와 카밀라 카베요는 각자의 인스타그램 스토리에 "이제 우리의 로맨틱한 관계를 끝내기로 결정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카밀라 카베요·숀 멘데스, 2년 열애 '마침표'…"로맨틱 끝"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010840391</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010840391"/>
-        <updated>2021-11-18T03:22:02.754Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]윤준호 인턴 기자 = 팝스타 카밀라 카베요와 숀 멘데스가 결별 사실을 알렸다. 18일(한국시간) 카밀라 카베요와 숀 멘데스는 자신들의 인스타그램 계정을 통해 이 같은 사실을 밝혔다. 이날 카밀라 카베요]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['촉망받는 래퍼' 영 돌프, 총에 맞아 사망..향년 36세[Oh!llywood]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004513012</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004513012"/>
-        <updated>2021-11-18T02:35:53.314Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 래퍼 영 돌프로 더 잘 알려진 아돌프 로버트 손턴 주니어(36)가 17일(현지시간) 그의 고향인 미국 테네시주 멤피스에서 총에 맞아 사망했다고 뉴욕포스트 등 외신이 전했다. 지역 방송국 FO]]></content>
     </entry>
 </feed>
