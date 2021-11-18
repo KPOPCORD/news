@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-18T08:27:28.004Z</updated>
+    <updated>2021-11-18T09:21:53.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[테일러 스위프트 vs 故휘트니 휴스턴, 때아닌 팬들 욕설 전쟁 [Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004513228</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004513228"/>
+        <updated>2021-11-18T09:21:52.657Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 팝가수 테일러 스위프트와 故 휘트니 휴스턴 팬들 사이에사 때아닌 '배드 블러드'가 일어나고 있다. 트위터에서 양측 팬덤 사이에서 욕설이 오가고 있다고 뉴욕포스트가 17일(현지시간) 전했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신우치 마이, 노기자카46 졸업 발표 “서른부터 새로운 인생 살고파”]]></title>
         <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512854</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004513012"/>
         <updated>2021-11-18T02:35:53.314Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 래퍼 영 돌프로 더 잘 알려진 아돌프 로버트 손턴 주니어(36)가 17일(현지시간) 그의 고향인 미국 테네시주 멤피스에서 총에 맞아 사망했다고 뉴욕포스트 등 외신이 전했다. 지역 방송국 FO]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[톰 홀랜드♥︎젠다야 드디어 공식 인정? 하트뿅→인터뷰 언급..대놓고 애정 [Oh!llywood]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004513010</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004513010"/>
-        <updated>2021-11-18T02:35:53.314Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] 할리우드 배우 젠다야(젠데이아 콜먼)가 남자친구 톰 홀랜드를 향한 폭발적인 애정을 뽐냈다. 젠다야는 17일(한국시각) 자신의 인스타그램 계정에 톰 홀랜드가 커버로 나선 남성지 ‘지큐’ 사진을]]></content>
     </entry>
 </feed>
