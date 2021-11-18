@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-18T19:17:18.471Z</updated>
+    <updated>2021-11-18T20:20:28.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임영웅 '임히어로서포터즈' 팬클럽 최초 사랑의열매 대상 희망장]]></title>
+        <id>https://entertain.v.daum.net/v/20211119050000731</id>
+        <link href="https://entertain.v.daum.net/v/20211119050000731"/>
+        <updated>2021-11-18T20:19:57.461Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 문완식 기자] 가수 임영웅의 팬클럽 영웅시대 '임히어로서포터즈'가 팬클럽 최초로 사랑의열매 대상 희망장을 받았다. 경기북부 사랑의열매(회장 이순선)는 11월 17일 팬덤형 기부문화 확산에 함께한 '임히어로 서포터즈'에 '제8회 사랑의열매 대상 기부분야 희망장'을 전달했다. 경기북부 사랑의열매 대회의실에서 진행된 전달식에는 강주현 경기북부 사랑]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오겜 '수혜주 수익률 300% 대박.. 음악저작권 투자도 '쏠쏠'하네]]></title>
         <id>https://entertain.v.daum.net/v/20211119040036419</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211118180652859"/>
         <updated>2021-11-18T09:21:18.022Z</updated>
         <content type="html"><![CDATA[[스타뉴스 공미나 기자] /사진제공=YG엔터테인먼트그룹 블랙핑크(BLACKPINK)의 '마지막처럼' 뮤직비디오가 유튜브 11억뷰를 돌파했다. 18일 소속사 YG엔터테인먼트에 따르면 블랙핑크의 '마지막처럼' 뮤직비디오는 이날 오후 5시께 유튜브 조회수 11억 회를 넘어섰다. 10억뷰를 넘기고 약 7개월 만. 공개된 지 4년이 훌쩍 지난 곡임에도 글로벌 팬들의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["입영통지서 받았는지 불분명" 유승준, 새 주장 제기 '입국 허용 호소']]></title>
-        <id>https://entertain.v.daum.net/v/20211118180207702</id>
-        <link href="https://entertain.v.daum.net/v/20211118180207702"/>
-        <updated>2021-11-18T09:21:18.023Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김한길 기자] 가수 유승준(45·미국명 스티브 승준 유)이 과거 병무청으로부터 군 소집 통지서를 받았는지 불분명하다고 주장, 재차 한국 입국을 허용해달라며 목소리를 높였다. 서울행정법원 행정5부(부장판사 정상규)는 18일, 유승준이 주로스엔젤레스총영사관을 상대로 "여권·사증발급거부 처분을 취소해달라"고 낸 소송 3차 변론기일을 진행했다. 이날]]></content>
     </entry>
 </feed>
