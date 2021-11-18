@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-18T07:18:59.460Z</updated>
+    <updated>2021-11-18T08:27:28.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신우치 마이, 노기자카46 졸업 발표 “서른부터 새로운 인생 살고파”]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512854</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000512854"/>
+        <updated>2021-11-18T08:27:27.349Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 신우치 마이가 일본 아이돌 그룹 노기자카46 졸업을 발표했다. 신우치 마이는 11월 17일 방송된 '노기자카 46의 올나잇 닛폰'에 출연, 내년 1월 말 졸업 소식을 알렸다. 신우치 마이는 "]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['총기사고' 알렉 볼드윈, 각본 총괄에 피소…"각본에도 없는 장면 연습해" [엑's 할리우드]]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001375082</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004513010"/>
         <updated>2021-11-18T02:35:53.314Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] 할리우드 배우 젠다야(젠데이아 콜먼)가 남자친구 톰 홀랜드를 향한 폭발적인 애정을 뽐냈다. 젠다야는 17일(한국시각) 자신의 인스타그램 계정에 톰 홀랜드가 커버로 나선 남성지 ‘지큐’ 사진을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카밀라 카베요·숀 멘데스 결별 "로맨틱 끝, 친한 친구로 돌아갈 것"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=052&amp;aid=0001666542</id>
-        <link href="https://entertain.naver.com/now/read?oid=052&amp;aid=0001666542"/>
-        <updated>2021-11-18T02:35:53.314Z</updated>
-        <content type="html"><![CDATA[팝스타 카밀라 카베요(Camila Cabello)와 숀 멘데스(Shawn Mendes)가 무려 2년 간의 열애에 종지부를 찍었다. 카밀라 카베요와 숀 멘데스는 18일(한국시간) 인스타그램을 통해 자신들의 결별 사실을]]></content>
     </entry>
 </feed>
