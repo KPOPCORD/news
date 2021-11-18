@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-18T10:24:53.678Z</updated>
+    <updated>2021-11-18T11:19:17.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["솔직한 저희 이야기"…위키미키, 적극 참여한 '아이 엠 미' [종합]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001375220</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001375220"/>
+        <updated>2021-11-18T11:19:02.176Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 1년 1개월 공백을 깨고 돌아온 그룹 위키미키(Weki Meki)가 직접 앨범 작업에 참여, 진솔한 이야기를 전한다. 위키미키(지수연, 엘리, 최유정, 김도연, 세이, 루아, 리나, 루시]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[홍자, 스타트롯 3위 등극..트롯 여신 인기는 '대단']]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003005878</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003005878"/>
+        <updated>2021-11-18T11:19:02.177Z</updated>
+        <content type="html"><![CDATA[가수 홍자가 스타랭킹 3위의 자리를 지켜냈다. 홍자는 11월 11일 오후 3시 1분부터 11월 18일 오후 3시까지 진행된 스타트롯 여자 랭킹 14차 투표에서 총 1만 2309표를 얻어 3위를 차지했다. 그는 201]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['트롯 꼬꼬마' 전유진, 스타트롯 2위 등극..행보 '기대']]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003005864</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001375137"/>
         <updated>2021-11-18T09:21:37.794Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 그룹 위키미키(Weki Meki)가 1년 1개월의 공백을 깨고 돌아왔다. '낮잠'에서 깨어나 더 큰 도약을 하겠다는 포부를 담은 '5년 차' 위키미키의 컴백 활동에 기대가 모인다. 위키미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[앳뉴스] ‘역시 압도적’ 블랙핑크, ‘마지막처럼’ 뮤직비디오 11억뷰 돌파]]></title>
-        <id>https://entertain.naver.com/now/read?oid=415&amp;aid=0000006130</id>
-        <link href="https://entertain.naver.com/now/read?oid=415&amp;aid=0000006130"/>
-        <updated>2021-11-18T09:21:37.795Z</updated>
-        <content type="html"><![CDATA[[앳스타일 이민경 기자] 블랙핑크(BLACKPINK)의 ‘마지막처럼’ 뮤직비디오가 유튜브에서 11억뷰를 돌파했다. 18일 YG엔터테인먼트에 따르면 블랙핑크의 ‘마지막처럼’ 뮤직비디오는 이날 오후 5시께 유튜브 조회수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원더걸스 출신 선예, 3년 만에 방송 복귀…'엄마는 아이돌']]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010841500</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010841500"/>
-        <updated>2021-11-18T09:21:37.795Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스] 이재훈 기자 = 그룹 '원더걸스' 출신 선예가 3년 만에 방송에 복귀한다. 18일 방송가에 따르면, 선예는 내달 초 방송 예정인 tvN '엄마는 아이돌'에 출연한다. 출산과 육아로 잠시 우리 곁을 걸]]></content>
     </entry>
 </feed>
