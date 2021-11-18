@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-11-18T22:22:38.899Z</updated>
+    <updated>2021-11-18T23:22:54.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 래퍼 영 돌프, 총기 사고로 사망..향년 36세]]></title>
+        <id>https://entertain.v.daum.net/v/20211119081740389</id>
+        <link href="https://entertain.v.daum.net/v/20211119081740389"/>
+        <updated>2021-11-18T23:22:33.754Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 미국 래퍼 영 돌프가 사망했다. 11월 17일(현지시간) 버라이어티 보도에 따르면 래퍼 영 돌프가 총격으로 사망했다. 향년 36세. 영 돌프는 이날 테네시 멤피스 한 쿠키 가게에서 발생한 총기 난사 사건으로 사망했다. APA 측은 "우리 모두는 친구 영 돌프의 갑작스럽고 비극적인 죽음에 충격과 깊은 슬픔에 빠졌다. 세상은 너무]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[월드팝스타들 '랜선 내한 공연' 왜?]]></title>
         <id>https://entertain.v.daum.net/v/20211119065726249</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211118090233307"/>
         <updated>2021-11-18T01:05:45.955Z</updated>
         <content type="html"><![CDATA[피트 데이비슨 생일에 킴 카다시안이 함께 했다. 지난 16일 피트 데이비슨은 생일을 맞아 지인들과 오붓한 시간을 보냈다. 래퍼 플레이브 플래브가 공개한 사진에는 피트 데이비슨 옆에 킴 카다시안이 포즈를 취하고 있어 눈길을 끈다. 피트 데이비슨은 킴 카다시안 다리에 몸을 기대고 있다. 두 사람은 이달 들어 데이트 목격담이 자주 돌고 있다. 지난달 캘리포]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美래퍼 영 돌프, 총기난사 사고로 사망..향년 36세]]></title>
-        <id>https://entertain.v.daum.net/v/20211118085233774</id>
-        <link href="https://entertain.v.daum.net/v/20211118085233774"/>
-        <updated>2021-11-18T01:05:45.955Z</updated>
-        <content type="html"><![CDATA[미국 래퍼 영 돌프가 총에 맞아 숨졌다. 18일 오전(현지시각) 멤피스 경찰국은 영 돌프가 17일 오후 12시 24분께 쿠키 가게에 쿠키를 사러 들어왔을 때 총기난사 피해를 입고 사망했다고 밝혔다. 용의자에 대해선 현재 파악 중에 있다. 비보에 지인들은 추모 글을 올리고 있다. 동료 래퍼인 메건 더 스탤리언은 "믿을 수 없을 정도로 슬프다. 그의 가족]]></content>
     </entry>
 </feed>
