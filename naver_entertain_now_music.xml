@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-18T18:25:05.402Z</updated>
+    <updated>2021-11-18T19:17:18.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[몬스타엑스 '노 리밋' 기대 포인트 셋…'종합선물세트']]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010842218</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010842218"/>
+        <updated>2021-11-18T19:17:03.697Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]고다연 인턴 기자 = 그룹 몬스타엑스(MONSTA X)가 컴백을 하루 앞두고 기대 포인트 세 가지를 공개했다. 몬스타엑스는 19일 오후 2시 각종 온라인 음원 사이트를 통해 새 미니앨범 '노 리밋(No]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[알레프, '크라임 퍼즐' OST 마지막 주자…'비밀']]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010842216</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010842216"/>
+        <updated>2021-11-18T19:17:03.698Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]이수진 인턴 기자 = 알레프(ALEPH)가 웹드라마 '크라임 퍼즐' OST의 마지막 주자로 나선다. 18일 웹드라마 '크라임 퍼즐' 측은 알레프가 해당 드라마 OST '비밀(Unknown)'의 가창자로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[샤이니 온유·자이언티·선우정아·10CM, 문화유산을 만나다]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000775502</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003005851"/>
         <updated>2021-11-18T09:21:37.768Z</updated>
         <content type="html"><![CDATA[가수 장민호가 스타랭킹 3위 자리를 지켰다. 장민호는 11월 11일 오후 3시 1분부터 11월 18일 오후 3시까지 진행된 스타트롯 남자 랭킹 14차 투표에서 총 7만 7489표를 얻어 3위를 차지했다. 1위는 25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“짧은 낮잠 끝” 위키미키, 더 높은 곳 향한 힘찬 도약 ‘시에스타’ (종합)[퇴근길 신곡]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004513234</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004513234"/>
-        <updated>2021-11-18T09:21:37.769Z</updated>
-        <content type="html"><![CDATA[[OSEN=지민경 기자] 그룹 위키미키가 전원 20대의 출발점에서 새로운 도약을 시작한다. 위키미키는 18일 오후 6시 각종 음원사이트를 통해 다섯 번째 미니 앨범 'I AM ME.'(아이 엠 미) 전곡 음원과 타이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팝's신곡]"이 어둠도 끝이 날 걸 아니까"‥위키미키, 더 도약하는 나 'Siesta']]></title>
-        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003500064</id>
-        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003500064"/>
-        <updated>2021-11-18T09:21:37.770Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=김나율기자]그룹 위키미키가 꿈을 향해 더 도약한다. 18일 오후 6시 위키미키의 다섯 번째 미니앨범 'I AM ME.'의 전곡 음원과 타이틀곡 'Siesta'의 뮤직비디오가 공개됐다. 올해로 데뷔 4주]]></content>
     </entry>
 </feed>

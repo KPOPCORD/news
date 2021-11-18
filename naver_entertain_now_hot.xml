@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-18T18:25:05.435Z</updated>
+    <updated>2021-11-18T19:17:18.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김동성, 심한 원형탈모에 모발이식 병원行...♥인민정 "스트레스 엄청 받아"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003804218</id>
+        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003804218"/>
+        <updated>2021-11-18T19:17:11.296Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 조윤선 기자] 쇼트트랙 국가대표 출신 김동성이 모발이식 병원에서 치료를 받았다. 인민정은 18일 자신의 인스타그램에 "원형탈모 때문에 스트레스 엄청 받고 자신감도 떨어진 거 같아 시간 내서 병원 데리고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손담비, 벌써 다이어트 성공했나..날렵한 턱선 돋보여 [스타IN★]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003005918</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003804113"/>
         <updated>2021-11-18T14:19:55.183Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 정안지 기자] 인교진 소이현 부부가 밤마실 데이트를 즐겼다. 소이현은 18일 자신의 인스타그램을 통해 "밤마실"이라면서 사진을 게재했다. 사진 속에는 밤 마실 중 셀카를 찍고 있는 인교진 소이현 부부]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[류승룡X오나라, 텐션X예능감X적응력까지 '완성형 게스트' ('바달집3')[종합]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003804109</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003804109"/>
-        <updated>2021-11-18T13:27:02.097Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 김준석 기자] 배우 류승룡과 오나라가 완성형 게스트 면모를 보였다. 18일 방송된 tvN 예능프로그램 '바퀴 달린 집3'에는 오나라, 류승룡이 게스트로 출연했다. 이날 오나라는 "한 6개월만에 다시]]></content>
     </entry>
 </feed>
