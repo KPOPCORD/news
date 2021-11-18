@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 04:29:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 05:20:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크 제니, 무표정도 여신 비주얼…청순美 가득 일상 [인스타]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/330907</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/330907</guid>
+            <pubDate>Thu, 18 Nov 2021 05:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/330907">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/18/6295affc-2029-44c8-9c8a-5410bc79ac56.jpg" alt="블랙핑크 제니, 무표정도 여신 비주얼…청순美 가득 일상 [인스타]">        <div class="text-box">            <p class="summary">블랙핑크 제니, 무표정도 여신 비주얼…청순美 가득 일상 [인스타]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/18/6295affc-2029-44c8-9c8a-5410bc79ac56.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오마이걸 효정, 행복 바이러스 뿜뿜…귀여움＋상큼 다 가졌네 [인스타]]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/330901</link>
@@ -86,14 +94,6 @@
             <pubDate>Wed, 17 Nov 2021 23:22:04 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/330860">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/18/29fa2f3b-8aab-4f63-9479-16c8a5eebc51.jpg" alt="[포토] 로켓펀치 소희, '수험표 증명사진 저예요~'">        <div class="text-box">            <p class="summary">[포토] 로켓펀치 소희, '수험표 증명사진 저예요~'</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/18/29fa2f3b-8aab-4f63-9479-16c8a5eebc51.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 로켓펀치 소희, '카멜 코트' 입고 풋풋~]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/330859</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/330859</guid>
-            <pubDate>Wed, 17 Nov 2021 23:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/330859">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/18/821c0bb8-9eb3-49c3-889d-22c563d41c75.jpg" alt="[포토] 로켓펀치 소희, '카멜 코트' 입고 풋풋~">        <div class="text-box">            <p class="summary">[포토] 로켓펀치 소희, '카멜 코트' 입고 풋풋~</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/18/821c0bb8-9eb3-49c3-889d-22c563d41c75.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
