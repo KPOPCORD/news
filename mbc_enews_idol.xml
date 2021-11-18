@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 03:22:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 04:29:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오마이걸 효정, 행복 바이러스 뿜뿜…귀여움＋상큼 다 가졌네 [인스타]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/330901</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/330901</guid>
+            <pubDate>Thu, 18 Nov 2021 04:29:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/330901">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/18/2b05ecd3-710e-4482-9593-f82b47edc73e.jpg" alt="오마이걸 효정, 행복 바이러스 뿜뿜…귀여움＋상큼 다 가졌네 [인스타]">        <div class="text-box">            <p class="summary">오마이걸 효정, 행복 바이러스 뿜뿜…귀여움＋상큼 다 가졌네 [인스타]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/18/2b05ecd3-710e-4482-9593-f82b47edc73e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스테이씨 타임스퀘어 빛낸 '대문짝'만한 존재감]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/330895</link>
@@ -86,14 +94,6 @@
             <pubDate>Wed, 17 Nov 2021 23:22:04 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/330859">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/18/821c0bb8-9eb3-49c3-889d-22c563d41c75.jpg" alt="[포토] 로켓펀치 소희, '카멜 코트' 입고 풋풋~">        <div class="text-box">            <p class="summary">[포토] 로켓펀치 소희, '카멜 코트' 입고 풋풋~</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/18/821c0bb8-9eb3-49c3-889d-22c563d41c75.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 로켓펀치 소희, '수능 잘 볼게요~!']]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/330858</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/330858</guid>
-            <pubDate>Wed, 17 Nov 2021 23:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/330858">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/18/2c9f812a-93d8-44f8-859d-cbd3ae56a490.jpg" alt="[포토] 로켓펀치 소희, '수능 잘 볼게요~!'">        <div class="text-box">            <p class="summary">[포토] 로켓펀치 소희, '수능 잘 볼게요~!'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/18/2c9f812a-93d8-44f8-859d-cbd3ae56a490.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
