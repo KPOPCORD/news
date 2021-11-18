@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-18T12:36:04.810Z</updated>
+    <updated>2021-11-18T13:27:08.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[병무청 "유승준, 입영통지서 수령 불분명? 사실과 다르다"[공식]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003005894</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003005894"/>
+        <updated>2021-11-18T13:26:47.789Z</updated>
+        <content type="html"><![CDATA[병무청이 가수 유승준의 군 입영통지서 수령 여부와 관련한 주장에 "사실이 다르다"라고 직접 반박했다. 병무청은 18일 짧은 공식입장을 통해 "금일 스티브유(유승준) 소송대리인이 서울행정법원 행정5부 심리로 열린 LA]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엔하이픈, 마블판 탈출기 공개…자체예능 '엔어클락']]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010841891</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000329461"/>
         <updated>2021-11-18T09:21:37.792Z</updated>
         <content type="html"><![CDATA[[스포티비뉴스=장진리 기자] 가수 장희원이 프로듀서로서 가능성을 인정받았다. 장희원은 이하이가 부른 SBS 금토드라마 '지금, 헤어지는 중입니다'(극본 제인, 연출 이길복) OST '손을 잡아줘요' 작사, 작곡, 편]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙핑크, '마지막처럼' 뮤직비디오 11억뷰 돌파 [공식]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003556587</id>
-        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003556587"/>
-        <updated>2021-11-18T09:21:37.793Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 그룹 블랙핑크(BLACKPINK)의 '마지막처럼' 뮤직비디오가 유튜브에서 11억뷰를 돌파했다. 18일 YG엔터테인먼트에 따르면 블랙핑크의 '마지막처럼' 뮤직비디오는 이날 오후 5시께 유]]></content>
     </entry>
 </feed>

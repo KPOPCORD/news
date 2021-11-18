@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-18T12:36:04.787Z</updated>
+    <updated>2021-11-18T13:27:08.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[병무청 "유승준, 입영통지서 수령 불분명? 사실과 다르다"]]></title>
+        <id>https://entertain.v.daum.net/v/20211118220511950</id>
+        <link href="https://entertain.v.daum.net/v/20211118220511950"/>
+        <updated>2021-11-18T13:26:31.885Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 윤상근 기자] 유승준 MAMA 병무청이 가수 유승준의 군 입영통지서 수령 여부와 관련한 주장에 "사실이 다르다"라고 직접 반박했다. 병무청은 18일 짧은 공식입장을 통해 "금일 스티브유(유승준) 소송대리인이 서울행정법원 행정5부 심리로 열린 LA 총영사 상대 소송 3차 변론에서 주장한 내용은 사실과 다르다"라고 밝혔다. 이날 유승준 법률대리인은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["솔직한 저희 이야기"..위키미키, 적극 참여한 '아이 엠 미']]></title>
         <id>https://entertain.v.daum.net/v/20211118195002866</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211118175010252"/>
         <updated>2021-11-18T09:21:18.036Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 그룹 위키미키(Weki Meki)가 1년 1개월의 공백을 깨고 돌아왔다. '낮잠'에서 깨어나 더 큰 도약을 하겠다는 포부를 담은 '5년 차' 위키미키의 컴백 활동에 기대가 모인다. 위키미키(지수연, 엘리, 최유정, 김도연, 세이, 루아, 리나, 루시) 다섯 번째 미니앨범 'I AM ME.(아이 엠 미)' 발매 기념 온라인 기자간]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙핑크, 4년 지나도 '마지막처럼' 열풍ing..뮤비 11억뷰 돌파 "통산 4번째"]]></title>
-        <id>https://entertain.v.daum.net/v/20211118174359039</id>
-        <link href="https://entertain.v.daum.net/v/20211118174359039"/>
-        <updated>2021-11-18T12:35:33.972Z</updated>
-        <content type="html"><![CDATA[[OSEN=이승훈 기자] 블랙핑크(BLACKPINK)의&nbsp;‘마지막처럼’&nbsp;뮤직비디오가 유튜브에서&nbsp;11억뷰를 돌파했다. 18일&nbsp;YG엔터테인먼트에 따르면 블랙핑크의&nbsp;‘마지막처럼’&nbsp;뮤직비디오는 이날 오후&nbsp;5시께 유튜브 조회수&nbsp;11억 회를 넘어섰다. 10억뷰 금자탑을 쌓은지 약&nbsp;7개월 만.&nbsp;공개된 지&nbsp;4년이 훌쩍 지난 곡임에도 글로벌 팬들의 여전한 관심과 사랑을 짐작]]></content>
     </entry>
 </feed>
