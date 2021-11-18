@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-18T15:22:50.500Z</updated>
+    <updated>2021-11-18T16:32:02.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['국민가수' 이주천, 달콤 음색 설렘 유발-김희석, 컨디션 저조로 실수 연발]]></title>
+        <id>https://entertain.v.daum.net/v/20211119004807675</id>
+        <link href="https://entertain.v.daum.net/v/20211119004807675"/>
+        <updated>2021-11-18T16:31:30.650Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김한길 기자] '국민가수' 5소리 팀의 이주천이 달콤한 음색으로 설렘을 유발했다. 반면 김희석은 컨디션 저조로 실수를 연발했다. 18일 밤 방송된 TV CHOSUN 오디션 프로그램 '내일은 국민가수'(이하 '국민가수') 7회에서는 대망의 준결승으로 가는 마지막 관문인 본선 3라운드 '국민 콘서트'가 펼쳐졌다. 이날 네 번째로는 임한별이 대장]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[백현, 유튜브 채널 영상 삭제 "예상치 못한 오해 방지"]]></title>
         <id>https://entertain.v.daum.net/v/20211119001449504</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211118180008621"/>
         <updated>2021-11-18T09:21:18.027Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 위키미키(지수연, 엘리, 최유정, 김도연, 세이, 루아, 리나, 루시)가 한 편의 성장 드라마 같은 신곡으로 컴백했다. 위키미키는 11월 18일 오후 6시 음원 사이트를 통해 5번째 미니 앨범 'I AM ME.'(아이 엠 미)를 발매했다. 이번 음반은 위키미키가 지난해 10월 공개한 미니 4집 앨범 'NEW RULES'(뉴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위키미키, 1년 1개월 낮잠 끝..'Siesta'로 맞을 전환점]]></title>
-        <id>https://entertain.v.daum.net/v/20211118180003603</id>
-        <link href="https://entertain.v.daum.net/v/20211118180003603"/>
-        <updated>2021-11-18T09:21:18.028Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 그룹 위키미키(Weki Meki)가 활력을 찾아줄 '낮잠'같은 신곡 'Siesta'로 돌아왔다. 위키미키(지수연, 엘리, 최유정, 김도연, 세이, 루아, 리나, 루시)의 다섯 번째 미니 앨범 'I AM ME.(아이 엠 미)'와 타이틀곡 'Siesta(시에스타)' 뮤직비디오가 18일 오후 6시 공개됐다. 이번 앨범은 위키미키가 1]]></content>
     </entry>
 </feed>
