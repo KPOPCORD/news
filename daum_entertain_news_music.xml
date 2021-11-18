@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-18T13:27:08.897Z</updated>
+    <updated>2021-11-18T14:20:02.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['국민가수' 이병찬 등 진수병찬 팀, 눈 뗄 수 없는 화려한 무대 '박수갈채']]></title>
+        <id>https://entertain.v.daum.net/v/20211118230407285</id>
+        <link href="https://entertain.v.daum.net/v/20211118230407285"/>
+        <updated>2021-11-18T14:19:31.405Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김한길 기자] '국민가수' 이병찬, 유슬기, 박민호, 류영채, 임지민으로 구성된 진수병찬 팀이 눈을 뗄 수 없는 화려한 무대를 꾸몄다. 18일 밤 방송된 TV CHOSUN 오디션 프로그램 '내일은 국민가수'(이하 '국민가수') 7회에서는 대망의 준결승으로 가는 마지막 관문인 본선 3라운드 '국민 콘서트'가 펼쳐졌다. 이날 진수병찬 팀은 이병]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[병무청 "유승준, 입영통지서 수령 불분명? 사실과 다르다"]]></title>
         <id>https://entertain.v.daum.net/v/20211118220511950</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211118175550456"/>
         <updated>2021-11-18T09:21:18.035Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 그룹 블랙핑크(BLACKPINK)의 '마지막처럼' 뮤직비디오가 유튜브에서 11억뷰를 돌파했다. 18일 YG엔터테인먼트에 따르면 블랙핑크의 '마지막처럼' 뮤직비디오는 이날 오후 5시께 유튜브 조회수 11억 회를 넘어섰다. 10억뷰 금자탑을 쌓은지 약 7개월 만. 공개된 지 4년이 훌쩍 지난 곡임에도 글로벌 팬들의 여전한 관]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['데뷔 이래 최장 공백기'..5년차 위키미키, 더 큰 도약 이룰 컴백]]></title>
-        <id>https://entertain.v.daum.net/v/20211118175010252</id>
-        <link href="https://entertain.v.daum.net/v/20211118175010252"/>
-        <updated>2021-11-18T09:21:18.036Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 그룹 위키미키(Weki Meki)가 1년 1개월의 공백을 깨고 돌아왔다. '낮잠'에서 깨어나 더 큰 도약을 하겠다는 포부를 담은 '5년 차' 위키미키의 컴백 활동에 기대가 모인다. 위키미키(지수연, 엘리, 최유정, 김도연, 세이, 루아, 리나, 루시) 다섯 번째 미니앨범 'I AM ME.(아이 엠 미)' 발매 기념 온라인 기자간]]></content>
     </entry>
 </feed>
