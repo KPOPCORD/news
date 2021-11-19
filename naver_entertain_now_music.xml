@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-19T17:27:17.736Z</updated>
+    <updated>2021-11-19T18:24:56.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[백지영, 24일 '다시 사랑한다고 해도' 발매…'감정공유' 프로젝트]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010843951</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010843951"/>
+        <updated>2021-11-19T18:24:41.334Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]이수진 인턴 기자 = 가수 백지영이 프로젝트 '감정공유'의 두 번째 주자로 나선다. 19일 제작사 니즈뮤직 엔터는 백지영이 오는 24일 오후 6시 싱글 '다시 사랑한다고 해도'를 발매한다고 밝혔다. 이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스팅, 오늘 '더 브리지' 발매…"팬데믹 혼돈에 대한 회고"]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010843931</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010843731"/>
         <updated>2021-11-19T09:21:34.288Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]김예지 인턴 기자 = 배우 정해인·그룹 '블랙핑크' 지수 주연의 JTBC 드라마 '설강화:스노우드롭(설강화:snowdrop·이하 '설강화')'의 '뮤직 프롤로그' 영상이 공개 일주일도 되지 않아 조회수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["끝까지 달려" 딘딘, 후회 없이 새로 쓸 기억 '너에게'..추억만 바라봐(종합)[퇴근길 신곡]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004514047</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004514047"/>
-        <updated>2021-11-19T09:21:34.289Z</updated>
-        <content type="html"><![CDATA[[OSEN=이승훈 기자] 가수 딘딘이 다신 돌아오지 않을, 추억으로 남은 시간을 그리워하며 그 시절의 향수를 노래했다. 딘딘은 오늘(19일) 오후 6시 각종 온라인 음원 사이트를 통해 새 미니앨범 '소음집'을 발매했]]></content>
     </entry>
 </feed>

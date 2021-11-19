@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-19T17:27:17.723Z</updated>
+    <updated>2021-11-19T18:24:56.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오웰의 '1984′, 그리고 카지노 도박장에서 영감 받아 탄생한 이 노래]]></title>
+        <id>https://entertain.v.daum.net/v/20211120030317234</id>
+        <link href="https://entertain.v.daum.net/v/20211120030317234"/>
+        <updated>2021-11-19T18:24:23.915Z</updated>
+        <content type="html"><![CDATA[가을이다. 11월이 깊어져간다. 이쯤 되면 꺼내 들어야 할 목소리가 몇 있다. ‘앨런 파슨스 프로젝트(The Alan Parsons Project)’가 그중 하나다. 앨런 파슨스 프로젝트는 한국을 포함한 전 세계에서 사랑받는 밴드다. 프로그레시브 록과 세련된 팝을 오가면서 히트곡을 여럿 남겼다. 음반마다 콘셉트를 달리하는 방식을 통해 1970년대에 활짝 꽃]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임창정, 코로나19 완치 "걱정 끼쳐 죄송"]]></title>
         <id>https://entertain.v.daum.net/v/20211119232612445</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211119174207845"/>
         <updated>2021-11-19T09:21:15.866Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김한길 기자] 가수 유승준(45·미국명 스티브 승준 유) 측이 과거 병무청에서 입영 통지서를 받았는지 불분명하다고 주장하자 병무청이 즉각 반박했다. 18일 병무청은 이날 유승준의 소송대리인이 '스티브유의 입영통지서가 나온 것인지 입증할 객관적인 자료가 없고, 병무청에 사실조회를 신청해 해당 부분을 입증할 것'이라고 말한 것에 대해, "스티브유]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['뮤뱅' 송하예, 한층 성숙해진 음색..대체 불가 이별 감성]]></title>
-        <id>https://entertain.v.daum.net/v/20211119174008807</id>
-        <link href="https://entertain.v.daum.net/v/20211119174008807"/>
-        <updated>2021-11-19T09:21:15.867Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 가수 송하예가 감성 가득한 무대를 꾸몄다. 송하예는 11월 19일 오후 방송된 KBS2 음악프로그램 ‘뮤직뱅크’에 출연했다. 이날 방송에서 송하예는 최근 발매한 발라드 신곡 ‘사랑했던 우리가 어떻게 친구가 되니’를 열창했다. 송하예는 한층 성숙해진 음색과 풍부한 표현력으로 가슴 시린 이별 감성을 자극했다. 특히 클라이맥스에서 선보]]></content>
     </entry>
 </feed>
