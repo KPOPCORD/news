@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 09:21:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 10:26:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔하이픈 정원 '수능막말' "제가 철없고 부족, 죄송합니다" 사과]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/331015</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/331015</guid>
+            <pubDate>Fri, 19 Nov 2021 10:25:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331015">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/19/9d1aade1-02ec-43b5-ae34-1a2820bad081.jpg" alt="엔하이픈 정원 '수능막말' " 제가="" 철없고="" 부족,="" 죄송합니다"="" 사과"="">        <div class="text-box">            <p class="summary">엔하이픈 정원 '수능막말' "제가 철없고 부족, 죄송합니다" 사과</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/19/9d1aade1-02ec-43b5-ae34-1a2820bad081.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[원어스, '예능 천재' 수식어까지 확보… 역대급 재미 선사(아이돌라디오2)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/331006</link>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 19 Nov 2021 01:05:38 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/330967">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/19/310eed65-ae20-4b80-9081-7b056b12613b.jpg" alt="화사 포스터…" 화사가="" 화사했다="" 'i’m="" a="" 빛'""="">        <div class="text-box">            <p class="summary">화사 포스터…"화사가 화사했다 'I’m a 빛'"</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/19/310eed65-ae20-4b80-9081-7b056b12613b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[T1419, '무궁화 꽃이 피었습니다'로 활동 기지개 [공식입장]]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/330965</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/330965</guid>
-            <pubDate>Fri, 19 Nov 2021 01:05:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/330965">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/19/7f5d590c-1348-4298-afd8-0dfc7b53658f.jpg" alt="T1419, '무궁화 꽃이 피었습니다'로 활동 기지개 [공식입장]">        <div class="text-box">            <p class="summary">T1419, '무궁화 꽃이 피었습니다'로 활동 기지개 [공식입장]</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/19/7f5d590c-1348-4298-afd8-0dfc7b53658f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
