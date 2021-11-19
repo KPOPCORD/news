@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-19T10:26:24.282Z</updated>
+    <updated>2021-11-19T11:19:38.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['수능 경솔 발언' 엔하이픈 정원 "제가 철없어"]]></title>
+        <id>https://entertain.v.daum.net/v/20211119200206216</id>
+        <link href="https://entertain.v.daum.net/v/20211119200206216"/>
+        <updated>2021-11-19T11:19:09.006Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 이기은 기자] 엔하이픈(ENHYPEN) 정원이 2022 대학수학능력시험(수능) 관련 경솔한 발언을 사과했다. 19일 오후 정원은 글로벌 팬 커뮤니티 위버스에 "오늘 팬 미팅 전에 엔진(팬덤)분들께 전하고 싶은 이야기가 있어서 글을 쓰게 되었다. 제가 어제 브이라이브에서 했던 수험생분들의 마음을 깊이 헤아리지 못한 말에 대해 사과드리고 싶다"는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ENHYPEN 정원, 수능 발언 논란 사과 "철없고 부족했다"]]></title>
         <id>https://entertain.v.daum.net/v/20211119191301479</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211119172752498"/>
         <updated>2021-11-19T09:21:15.870Z</updated>
         <content type="html"><![CDATA[[스타뉴스 윤상근 기자] /사진제공=모던보이엔터테인먼트 밴드 몽니가 7년 만의 정규앨범을 들고 음악 팬들을 찾아온 소감을 전했다. 몽니(보컬 김신의, 베이스 이인경, 기타 공태우, 드럼 정훈태)는 오는 22일 오후 6시 각종 음원 사이트를 통해 정규 5집 'Firmament'(퍼머먼트)를 발매한다. 'Firmament'는 몽니가 2014년 발매한 정규 4집]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[딘딘 "'소음집' 누군가에겐 울림 될 수 있길"]]></title>
-        <id>https://entertain.v.daum.net/v/20211119172426423</id>
-        <link href="https://entertain.v.daum.net/v/20211119172426423"/>
-        <updated>2021-11-19T08:25:19.579Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] ‘올라운더 뮤지션’ 딘딘이 ‘소음집’으로 돌아온다.딘딘은 19일 오후 6시 각종 음원 사이트를 통해 EP ‘소음집’을 발표한다. ‘소음집’은 음악으로 깊은 울림을 주고 싶다는 바람을 담은 앨범으로 딘딘이 전곡 가창, 작사, 작곡을 맡아 진정성을 높였다.첫 번째 타이틀곡 ‘너에게’와 두 번째 타이틀곡 ‘Slowly’를 비롯해 ‘이러면 안 될]]></content>
     </entry>
 </feed>

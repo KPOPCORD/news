@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 10:26:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 11:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -776,6 +776,13 @@
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/19/310eed65-ae20-4b80-9081-7b056b12613b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['수능 경솔 발언' 엔하이픈 정원 "제가 철없어" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211119200206216</link>
+            <guid>https://entertain.v.daum.net/v/20211119200206216</guid>
+            <pubDate>Fri, 19 Nov 2021 11:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 이기은 기자] 엔하이픈(ENHYPEN) 정원이 2022 대학수학능력시험(수능) 관련 경솔한 발언을 사과했다. 19일 오후 정원은 글로벌 팬 커뮤니티 위버스에 "오늘 팬 미팅 전에 엔진(팬덤)분들께 전하고 싶은 이야기가 있어서 글을 쓰게 되었다. 제가 어제 브이라이브에서 했던 수험생분들의 마음을 깊이 헤아리지 못한 말에 대해 사과드리고 싶다"는]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[ENHYPEN 정원, 수능 발언 논란 사과 "철없고 부족했다" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
             <link>https://entertain.v.daum.net/v/20211119191301479</link>
             <guid>https://entertain.v.daum.net/v/20211119191301479</guid>
@@ -874,11 +881,81 @@
             <content:encoded><![CDATA[[스타뉴스 윤상근 기자] /사진제공=모던보이엔터테인먼트 밴드 몽니가 7년 만의 정규앨범을 들고 음악 팬들을 찾아온 소감을 전했다. 몽니(보컬 김신의, 베이스 이인경, 기타 공태우, 드럼 정훈태)는 오는 22일 오후 6시 각종 음원 사이트를 통해 정규 5집 'Firmament'(퍼머먼트)를 발매한다. 'Firmament'는 몽니가 2014년 발매한 정규 4집]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[딘딘 "'소음집' 누군가에겐 울림 될 수 있길" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211119172426423</link>
-            <guid>https://entertain.v.daum.net/v/20211119172426423</guid>
-            <pubDate>Fri, 19 Nov 2021 08:25:19 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] ‘올라운더 뮤지션’ 딘딘이 ‘소음집’으로 돌아온다.딘딘은 19일 오후 6시 각종 음원 사이트를 통해 EP ‘소음집’을 발표한다. ‘소음집’은 음악으로 깊은 울림을 주고 싶다는 바람을 담은 앨범으로 딘딘이 전곡 가창, 작사, 작곡을 맡아 진정성을 높였다.첫 번째 타이틀곡 ‘너에게’와 두 번째 타이틀곡 ‘Slowly’를 비롯해 ‘이러면 안 될]]></content:encoded>
+            <title><![CDATA['백신 미접종→코로나 완치' 임창정 "못난 행동 면목없어" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211119201503427</link>
+            <guid>https://entertain.v.daum.net/v/20211119201503427</guid>
+            <pubDate>Fri, 19 Nov 2021 11:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[가수 임창정(48)이 코로나19 확진을 받은지 열흘 만에 완치, 격리 해제된 가운데 직접 사죄의 뜻을 밝혔다. 19일 임창정은 자신의 인스타그램에 "여러모로 걱정 끼쳐드리게 돼 이유 여하를 막론하고 팬 여러분들, 동료, 가족 등 저로 인해 속상하셨을 많은 분들께 죄송하다는 말씀 올린다"고 사과했다. 지난 9일 코로나19 확진 판정을 받은 임창정은 백신]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['백신 미접종 파문' 임창정 "책임감 없는 행동, 죄송합니다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211119195947153</link>
+            <guid>https://entertain.v.daum.net/v/20211119195947153</guid>
+            <pubDate>Fri, 19 Nov 2021 11:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 가수 겸 배우 임창정이 코로나19 확진 후 불거진 ‘백신 미접종 파문’에 사죄를 했다.앞서 임창정은 지난 8일 이지훈의 결혼식에 참석해 축가를 불렀다. 이후 이튿날 임창정이 코로나19 확진을 받으며 연쇄 감염에 대한 우려를 조성했다. 결혼식에 참석했던 뮤지컬 배우 카이, 가수 아이유 등이 코로나19 검사를 받았고 음성 판정을 받았다.19일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['빨강 구두' 최명길 "뭔가 잘못됐다"..소이현 친부는 선우재덕? (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211119195828131</link>
+            <guid>https://entertain.v.daum.net/v/20211119195828131</guid>
+            <pubDate>Fri, 19 Nov 2021 11:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 박하나 기자 = '빨강 구두' 최명길이 소이현의 친부가 선우재덕일지도 모른다는 생각에 괴로워했다. 19일 오후 7시 50분에 방송된 KBS 2TV 일일드라마 '빨강 구두'(극본 황순영/연출 박기현)에서는 김젬마(김진아, 소이현 분)가 자신과 권혁상(선우재덕 분)의 사이의 친자일지도 모른다는 생각에 괴로워하는 민희경(최명길 분)의 모습이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 병역혜택 받나..25일 병역법 개정안 재논의에 쏠린 시선 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211119195821130</link>
+            <guid>https://entertain.v.daum.net/v/20211119195821130</guid>
+            <pubDate>Fri, 19 Nov 2021 11:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=선미경 기자] 반세기 전인 지난 1973년 도입된 병역법이 또다시 ‘뜨거운 감자’로 떠오를 전망이다. 오는 25일 병역법 개정안이 논의될 예정인 가운데, 세계적인 그룹으로 활약 중인 방탄소년단이 혜택을 받을지에 대해 이목이 집중되고 있다.&nbsp; 병역법 개정안은 앞서 지난 9월 국방위원회 소위원회 회의에서 안건으로 다뤄지지 못한 채 논의가 불발됐다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['장르만 로맨스' 류승룡→조은지, 비주얼X케미 가득 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211119195200027</link>
+            <guid>https://entertain.v.daum.net/v/20211119195200027</guid>
+            <pubDate>Fri, 19 Nov 2021 11:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트 = 하수나 기자] 류승룡, 오나라, 김희원, 조은지가 비주얼 넘치는 화보로 눈길을 모았다.&nbsp; 라이프스타일 매거진 ‘싱글즈’가 지난 17일 개봉해 남녀노소 공감하는 에피소드와 톡톡 튀는 대사로 입소문을 탄 영화 ‘장르만 로맨스’에서 찰떡 같은 호흡으로 인생 캐릭터를 경신한 배우 류승룡, 오나라, 김희원과 조은지 감독의 유쾌한 화보를 공개했다. ‘]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[엔하이픈 정원, '수능 막말' 사과.."수험생 마음 헤아리지 못해" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211119195007990</link>
+            <guid>https://entertain.v.daum.net/v/20211119195007990</guid>
+            <pubDate>Fri, 19 Nov 2021 11:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) 엔하이픈(ENHYPEN) 정원이 수능 관련 막말에 사과했다.  19일 오후 정원은&nbsp;글로벌 팬 커뮤니티 위버스에 "오늘 팬 미팅 전에 엔진(팬덤)분들께 전하고 싶은 이야기가 있어서 글을 쓰게 되었다. 제가 어제 브이라이브에서 했던 수험생분들의 마음을 깊이 헤아리지 못한 말에 대해 사과드리고 싶다"는 글을 게재했다.  그는 "팬미]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['두 번째 남편' 엄현경, 오승아에 살해당했다..투자자로 등장? (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211119194028836</link>
+            <guid>https://entertain.v.daum.net/v/20211119194028836</guid>
+            <pubDate>Fri, 19 Nov 2021 11:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] ‘두 번째 남편’ 오승아가 엄현경을 호수에 빠뜨렸다.19일 오후 방송된 MBC 일일드라마 ‘두 번째 남편’에서는 엄현경을 호수에 빠뜨린 오승아와 투자자로 등장한 엄현경의 모습이 전파를 탔다.이날 꽃다발을 들고 등장한 윤재민(차서원)의 모습에 봉선화(엄현경)는 미소지었다. 윤재민은 “내가 선화 씨랑 한편이 돼서 선화 씨 대신 싸워주고 지켜 줄]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['두 번째 남편' 엄현경, 강가에 던져진 후 실종→샤론으로 등장 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211119193830794</link>
+            <guid>https://entertain.v.daum.net/v/20211119193830794</guid>
+            <pubDate>Fri, 19 Nov 2021 11:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=김은정 기자] 엄현경이 강가에 던져졌다. 19일 오후 방송된 MBC 일일드라마 '두 번째 남편'에서는 봉선화(엄현경 분)가 윤재민(차서원 분)에게 윤재경(오승아 분)이 진짜 살인자임을 밝혔다. 이날 윤재민은 봉선화에게 "내가 한 편이 되어서 싸워주겠다. 봉선화는 내 인생에 처음이자 마지막 여자"라면서 "사랑한다, 결혼하자"고 프러포즈 했다. 하]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[최시원, 강서소방서에 요소수 100L 직접 기부.."작은 힘 보태고파" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211119193759789</link>
+            <guid>https://entertain.v.daum.net/v/20211119193759789</guid>
+            <pubDate>Fri, 19 Nov 2021 11:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=장진리 기자] 배우이자 그룹 슈퍼주니어의 멤버 최시원의 선행이 뒤늦게 알려져 주위를 훈훈하게 만들고 있다.19일 스포티비뉴스 취재에 따르면 최시원은 지난 10일 서울 강서구 등촌동에 위치한 강서소방서를 찾아 요소수 100리터를 기부했다. 최시원은 이날 밤 11시께 강서소방서를 직접 방문해 요소수 10리터짜리 10통을 전달했다. 소방차량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[임창정, 백신 미접종 논란에 사과 "책임감 없는 행동으로 민폐, 죄송" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211119192930655</link>
+            <guid>https://entertain.v.daum.net/v/20211119192930655</guid>
+            <pubDate>Fri, 19 Nov 2021 11:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트 = 하수나 기자] 가수 겸 배우 임창정이 코로나19 완치 판정을 받은 가운데 백신 미접종 논란을 낳은 자신의 행동에 대해 속상하고 면목이 없다고 사과했다.&nbsp; 임창정은 19일 자신의 인스타그램을 통해 “여러모로 걱정 끼쳐드리게 되어 이유 여하를 막론하고 팬 여러분들, 동료, 가족 등 저로 인해 속상하셨을 많은 분들께 죄송하단 말씀 올린다”라고 운]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['런닝맨' 8년 만에 성사된 복수혈전, 제작진과 빅매치 성사 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211119192808633</link>
+            <guid>https://entertain.v.daum.net/v/20211119192808633</guid>
+            <pubDate>Fri, 19 Nov 2021 11:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] '런닝맨' 멤버들과 제작진이 벌칙을 두고 대결한다 21일 방송되는 SBS 예능프로그램 '런닝맨'에서는 8년 만에 다시 이루어진 멤버들과 제작진의 빅 매치가 펼쳐진다. 8년 전, 멤버들은 미션의 강도에 대한 불만을 제기하며 이를 놓고 제작진과 대결하는 협상 레이스를 펼쳤었는데 당시 멤버들이 패했음에도 불구하고 제작진 측 실수로 인]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['백신 미접종 논란' 임창정, 코로나19 완치→"책임감 없는 행동" 사과 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
@@ -907,83 +984,6 @@
             <guid>https://entertain.v.daum.net/v/20211119183854026</guid>
             <pubDate>Fri, 19 Nov 2021 10:25:54 GMT</pubDate>
             <content:encoded><![CDATA[(엑스포츠뉴스 김현정 기자) 코로나19에 확진됐던 가수 임창정이 열흘만에 완치 판정을 받았다. 그는 "가슴 아프고 면목 없다"라며 심경을 밝혔다. 19일 엑스포츠뉴스 취재 결과 임창정은 오늘 생활치료센터에서 퇴소, 격리 해제됐다. 보도 후 임창정은 SNS에 "인생을 살며 그간 수없이 많은 선택과 결정이라는 것을 하며 살아왔거늘, 왜 이 나이를 먹고도 이토]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[홍현희♥제이쓴, 다이어트 하니 더 '상큼'.."오늘은 예쁜 척" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211119183739010</link>
-            <guid>https://entertain.v.daum.net/v/20211119183739010</guid>
-            <pubDate>Fri, 19 Nov 2021 10:25:54 GMT</pubDate>
-            <content:encoded><![CDATA[홍현희·제이쓴 부부가 다이어트로 완벽 변신에 성공했다. 19일 코스모폴리탄 매거진은 '겟 레디 위드 미'(Get Ready With Me) 콘셉트로 진행한 홍현희·제이쓴 부부의 화보를 공개했다. 화보 속 홍현희·제이쓴은 식사를 하거나 머리를 말리는 등 유쾌한 모습을 연출했다. 특히 홍현희는 풍성한 히피펌 헤어스타일을 연출하고 레이스 블라우스, 새틴 원피스]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['백신 미접종 논란' 임창정, 코로나19 완치→"찬물 끼얹어 창피하고 죄송" 사과 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211119183437927</link>
-            <guid>https://entertain.v.daum.net/v/20211119183437927</guid>
-            <pubDate>Fri, 19 Nov 2021 10:25:54 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선닷컴 이게은기자] 가수 임창정이 백신을 접종하지 않은 가운데 코로나19 확진 판정을 받은 것에 대해 고개를 숙였다. 19일 임창정은 자신의 인스타그램에 "왜 이 나이를 먹고도 이토록 어리석고 현명하지 못한 처신을 했는지 너무나도 저를 지켜보는 많은 분들과 가족에게 미안할 따름"이라며 "긴 시간을 이제 겨우 이겨내며 위드 코로나 시대]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[딘딘, 작지만 큰 행복의 음악..정세운과 함께한 '너에게' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211119183003852</link>
-            <guid>https://entertain.v.daum.net/v/20211119183003852</guid>
-            <pubDate>Fri, 19 Nov 2021 10:25:54 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=장진리 기자] 가수 딘딘이 가수 정세운과 환상의 호흡을 뽐냈다.딘딘은 19일 오후 6시 EP '소음집'의 타이틀곡 '너에게' 음원과 뮤직비디오를 공개했다. '소음집'은 딘딘이 직접 작사, 작곡해 오랜 시간 심혈을 기울인 곡들을 담은 앨범으로, 음악을 통해 작지만 깊은 울림을 전하고 싶은 딘딘의 마음을 담았다. 정식 발매에 앞서 '더는 사]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[진영, 12월 11일 온·오프라인 팬미팅 개최..소집해제 후 첫 대면 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211119182744829</link>
-            <guid>https://entertain.v.daum.net/v/20211119182744829</guid>
-            <pubDate>Fri, 19 Nov 2021 10:25:54 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=선미경 기자] 그룹 B1A4 출신 연기자&nbsp;진영이 온·오프라인 팬미팅을 개최한다. 소속사 비비엔터테인먼트는 진영이 오는&nbsp;12월&nbsp;11일 서울 연세대학교 백주년기념관 콘서트홀에서&nbsp;’2021 JINYOUNG FAN MEETING [Stay, Jinyoung]‘을 통해 전세계 팬들과 만난다고 밝혔다. 진영은 지난&nbsp;2019년&nbsp;3월 진행된&nbsp;’Jinyoung]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['뮤직뱅크' 트와이스, 아이유 꺾고 1위 "더 성장할 것" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211119182418774</link>
-            <guid>https://entertain.v.daum.net/v/20211119182418774</guid>
-            <pubDate>Fri, 19 Nov 2021 10:25:54 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 김나연 기자] 그룹 트와이스가 '뮤직뱅크' 1위 트로피를 거머쥐었다. 19일 방송된 KBS2 음악프로그램 '뮤직뱅크'에는 트와이스 '사이언티스트(SCIENTIST)', 아이유 '스트로베리 문(strawberry moon)'이 1위 후보에 올랐다. 이날 1위의 주인공은 트와이스였다. 정연은 "1위 감사드린다. '사이언티스트'로 처음 1위를]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['살림남2' 홍성흔, 갱년기 진단에 충격 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211119181317582</link>
-            <guid>https://entertain.v.daum.net/v/20211119181317582</guid>
-            <pubDate>Fri, 19 Nov 2021 09:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] '살림하는 남자들 시즌2' 홍성흔이 갱년기 진단을 받았다. 20일 방송되는 KBS2 예능프로그램 '살림하는 남자들 시즌2'(이하 '살림남2')에서는 46세 나이에 이른 갱년기를 맞이한 홍성흔의 이야기가 그려진다. 최근 들어 홍성흔은 기뻤다가 짜증이 났다가, 또 눈물을 흘리는 등 감정 기복이 심해져 스스로를 제어하기 힘들어했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[곽시양, '미남당'에 코튼캔디 점 보러 온 차대표 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211119180311348</link>
-            <guid>https://entertain.v.daum.net/v/20211119180311348</guid>
-            <pubDate>Fri, 19 Nov 2021 09:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 김기태 기자] 배우 곽시양이 11월 19일 오후 서울 영등포구 여의도동 KBS 별관에서 진행된 오는 2022년 방영 예정인 KBS드라마 ‘미남당’ 대본리딩 일정을 마치고 퇴근하고 있다. #KBS드라마 #미남당 #대본리딩 #211119_퇴근 #곽시양 #KwakSiYang 뉴스엔 김기태 teddy@ 기사제보 및 보도자료 newsen@newsen.c]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['만능 가수' 딘딘, 정세운과 청량 소음 '너에게' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211119180010278</link>
-            <guid>https://entertain.v.daum.net/v/20211119180010278</guid>
-            <pubDate>Fri, 19 Nov 2021 09:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] 딘딘이 새 미니앨범 [소음집]을 통해 만능 가수임을 입증했다. 오늘(19일) 오후 6시 발매된 새 미니앨범 [소음집]은 누군가에게는 소음이 될 수도 있지만, 어느 누군가에게는 부디 작은 울림이 되길 바라는 딘딘의 마음을 담아 만들어졌다. 딘딘이 가창은 물론 전곡 작사, 작곡 등 앨범 전반적인 과정에 이름을 올리며 특별한 의미를 더했다. 첫]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['백신 미접종→코로나 완치' 임창정 "엄중한 시기에 찬물, 면목없다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211119175722215</link>
-            <guid>https://entertain.v.daum.net/v/20211119175722215</guid>
-            <pubDate>Fri, 19 Nov 2021 09:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이하나 기자] 코로나19 완치 판정을 받은 가수 임창정이 백신 미접종 및 확진으로 잡음을 빚었던 것에 대해 사과했다. 임창정은 11월 19일 자신의 인스타그램에 “우선 여러모로 걱정 끼쳐드리게 되어 이유 여하를 막론하고 팬 여러분들, 동료, 가족 등. 저로 인해 속상하셨을 많은 분들께 죄송하단 말씀 올립니다”라는 내용의 글을 게재했다. 2주간]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[황보미, '위사이클' MC 박탈→유부남 전남친 결국 소송..결백 밝힐까? (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211119175329115</link>
-            <guid>https://entertain.v.daum.net/v/20211119175329115</guid>
-            <pubDate>Fri, 19 Nov 2021 09:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박소영 기자] 방송인 황보미가 상간녀 위자료 청구 소송에 휩싸인 가운데 상대가 유부남인 줄 모르고 만났다며 적극 어필했다. 황보미의 소속사 비오티컴퍼니 측은 19일 “황보미가 지난 10월 말 소장을 받았다. 혼인파탄의 책임이 있으니&nbsp;5천만 원을 배상하라는 것이었는데 소장에 적힌 남자와 교제한 사실이 있으나,&nbsp;소장을 받고 나서야 남자가 유부남이라는]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['상간녀 소송' 황보미, 해명에도 여론 싸늘한 이유 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211119175305106</link>
-            <guid>https://entertain.v.daum.net/v/20211119175305106</guid>
-            <pubDate>Fri, 19 Nov 2021 09:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 백지연 기자] 스포츠 아나운서 출신 배우 황보미가 상간녀로 지목되며 위자료 청구 소송에 휘말렸다. 황보미는 남자친구 A 씨가 자신을 속였고 유부남인 지 몰랐다고 알렸다. 해당 사건과 관련해 본처 B 씨에게도 사과의 말을 전했다. 하지만 여론은 싸늘하기만 하다. 지난 18일 SBS 연예뉴스는 스포츠 아나운서 출신 배우가 상간녀로 지목돼 위자료]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['해리포터' 20주년 기념 다큐멘터리 "1월 1일 론칭" (다음 연예 ─ 뉴스 ─ 해외)]]></title>
@@ -1019,6 +1019,34 @@
             <guid>https://entertain.v.daum.net/v/20211119065726249</guid>
             <pubDate>Thu, 18 Nov 2021 22:22:19 GMT</pubDate>
             <content:encoded><![CDATA[애드 시런. 사진제공｜워너뮤직에드 시런, 콜드플레이, 아델, 스팅…. 더 이상 설명이 필요 없는 세계적인 팝스타들의 면면이다. 이들이 잇따라 ‘랜선’(온라인상)으로 한국 팬들 앞에 선다. 신종 코로나바이러스 감염증(코로나19)의 세계적 대유행 여파로 한국 땅을 밟지 못하는 대신 온라인 생중계 등을 통해 특별한 무대를 꾸민다. 에드 시런은 12월11일 경기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[유니버설뮤직, 콘테스트 ‘브링 잇 싱 잇(Bring it Sing it)’ 우승자 음원 공개 및 틱톡 필터 출시 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000775725</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000775725</guid>
+            <pubDate>Fri, 19 Nov 2021 11:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 유니버설뮤직은 최근 크록스(Crocs)와 함께 개최한 뮤직 콘테스트 ‘브링 잇 싱 잇(Bring it Sing it)’ 그랑프리 우승자의 음원을 공개하고 숏폼 비디오 플랫폼 틱톡(TikTok)에서 #C]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[신승태 ‘낯선이’ 티저, 낯섦 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000775723</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000775723</guid>
+            <pubDate>Fri, 19 Nov 2021 11:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 신승태의 신곡 ‘낯선이’ 뮤직비디오 티저가 공개됐다. 신승태는 19일 오후 6시 포켓돌스튜디오 공식 유튜브 채널을 통해 새 싱글 ‘낯선이’ 의 뮤직비디오 티저 영상을 선보이며 신곡 발매에 대한 기대감을]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[팝업★]"너무 창피하고 속상" 임창정, 코로나19 완치 후 사과에 쏟아진 응원 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003500608</link>
+            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003500608</guid>
+            <pubDate>Fri, 19 Nov 2021 11:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[[헤럴드POP=김나율기자]가수 임창정이 코로나19 완치된 가운데, 사과의 말을 전해 응원을 받았다. 19일 임창정은 생활치료센터에서 퇴소했다. 격리 해제된 임창정은 코로나19가 완치된 것으로 알려졌다. 임창정은 자가]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[버가부 MV, 1500만뷰 뚫었다 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000775721</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000775721</guid>
+            <pubDate>Fri, 19 Nov 2021 11:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 걸그룹 버가부(bugAboo, 초연 유우나 레이니 지인 은채 시안)의 데뷔곡 ‘bugAboo’(버가부)가 1500만뷰를 돌파했다. 버가부(bugAboo)의 데뷔 타이틀곡 ‘bugAboo’ 뮤직비디오는]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[ENHYPEN 정원, 수능 발언 논란 사과 "철없고 부족했다"[전문] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
@@ -1168,32 +1196,88 @@
             <content:encoded><![CDATA[[스포츠경향] 브릿팝을 대표하고 그래미 17회 수상에 빛나는 세계적인 음악인 스팅(Sting)이 19일 새 정규앨범 ‘더 브릿지(The Bridge)’를 발매한다. 스팅의 방대한 작업량과 다채로운 스타일의 작곡 능력]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘뮤뱅’ 송하예, 한층 성숙해진 음색‥대체 불가 이별 감성 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000513404</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000513404</guid>
-            <pubDate>Fri, 19 Nov 2021 09:21:34 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이하나 기자] 가수 송하예가 감성 가득한 무대를 꾸몄다. 송하예는 11월 19일 오후 방송된 KBS2 음악프로그램 ‘뮤직뱅크’에 출연했다. 이날 방송에서 송하예는 최근 발매한 발라드 신곡 ‘사랑했던 우리가]]></content:encoded>
+            <title><![CDATA[한지민, 강추위에 꾸역꾸역 식사…현실 극한직업 [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000512736</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000512736</guid>
+            <pubDate>Fri, 19 Nov 2021 11:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=노규민 기자] 배우 한지민이 촬영장 한켠에서 서둘러 밥을 먹는 장면으로 안타까움을 자아냈다. 한지민은 19일 자신의 인스타그램 스토리에 영상을 게재했다. 영상 속 한지민은 촬영장에서 밥을 먹고 있다. 영상]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[BAE173, 데뷔곡 '반하겠어' 셀프캠 MV 공개..데뷔 1주년 기념 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003500577</link>
-            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003500577</guid>
-            <pubDate>Fri, 19 Nov 2021 09:21:34 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드POP=박서연 기자]그룹 BAE173이 팬들을 위한 깜짝 선물을 공개했다. BAE173은 19일 공식 유튜브 채널을 통해 데뷔 앨범 ‘INTERSECTION : SPEAK’의 타이틀곡 ‘반하겠어’의 셀프캠버전]]></content:encoded>
+            <title><![CDATA[‘뮤뱅’ 블리처스, 장꾸美 가득 고백 스토리…설렘 유발 ‘내적댄스’ (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000946129</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000946129</guid>
+            <pubDate>Fri, 19 Nov 2021 11:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 블리처스(BLITZERS)의 귀여운 고백이 팬들에게 핑크빛 설렘을 안겼다. 블리처스(진화, 고유, 주한, 샤, 크리스, 루탄, 우주)는 19일 오후 방송된 KBS 2TV ‘뮤직뱅크’에 출연해 두 번째 EP ‘S]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[윤하, 정규 6집 'END THEORY' 위한 '송캠프' 시작.."1년을 온전히 갈아 넣었다" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003500576</link>
-            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003500576</guid>
-            <pubDate>Fri, 19 Nov 2021 09:21:34 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드POP=박서연 기자]가수 윤하가 새 앨범을 위해 마련한 '송캠프'를 공개했다. 윤하는 19일 오후 공식 유튜브 채널을 통해 다큐멘터리 'Stardust Mission 윤하 6th : 1년의 기록' 두 번째 이]]></content:encoded>
+            <title><![CDATA[“수능 안 중요해” 막말…엔하이픈 정원 사과 “긴장되고 들떠있어서∼ 철없고 부족했다” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003639786</link>
+            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003639786</guid>
+            <pubDate>Fri, 19 Nov 2021 11:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[한윤종 기자 7인조 보이 그룹 엔하이픈의 리더 정원(본명 양정원·사진)이 대학수학능력시험과 관련해 무례한 발언으로 논란을 빚은 데 대해 엔진(팬덤명)에 사과의 말을 전했다. 정원은 19일 오후 팬 커뮤니티 위버스에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에이티즈, 글로벌 '티켓파워'…미주·유럽 10개 도시 완판 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010843706</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010843706</guid>
-            <pubDate>Fri, 19 Nov 2021 09:21:34 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]김예지 인턴 기자 = 그룹 에이티즈(ATEEZ)의 내년 월드투어 미주·유럽 공연 티켓이 오픈과 동시에 매진됐다. 19일 소속사 KQ엔터테인먼트에 따르면, 전날 서울과 파리를 제외하고 오픈된 에이티즈의]]></content:encoded>
+            <title><![CDATA[문채원, 36번째 생일 "축하해줘서 고마워요"[스타IN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003006217</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003006217</guid>
+            <pubDate>Fri, 19 Nov 2021 11:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[배우 문채원이 36번째 생일을 맞이했다. 문채원은 19일 자신의 인스타그램에 "해피 벌스 데이 고마워요. 축하 많이 해주셔서 건강하시고 행복하시길 바라요"라는 글과 함께 네 장의 사진을 게재했다. 사진 속에는 문채원]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[현장EN:]고집과 정체성 담아, 몬스타엑스만의 길을 간다 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=079&amp;aid=0003577117</link>
+            <guid>https://entertain.naver.com/now/read?oid=079&amp;aid=0003577117</guid>
+            <pubDate>Fri, 19 Nov 2021 11:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[MTV VMA(비디오 뮤직 어워즈)와 MTV EMA(유럽 뮤직 어워즈)의 '베스트 K팝' 후보, 미국 두 번째 정규 앨범 '더 드리밍'(THE DREAMING) 발매, 미국 최대의 연말 쇼 '징글볼'(Jingle B]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['트로트킹' 임영웅, 아이돌차트 평점랭킹 34주째 정상 '호령' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=629&amp;aid=0000117134</link>
+            <guid>https://entertain.naver.com/now/read?oid=629&amp;aid=0000117134</guid>
+            <pubDate>Fri, 19 Nov 2021 11:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[주간 랭킹사이트 '팬앤스타'서 '트로트 남자 40주 연속' 1위 각종 차트 순위를 장악한 임영웅의 독주가 이번주에도 계속되고 있다. 임영웅은 11월 2주차 아이돌차트 평점랭킹 1위에 올랐다. 19일 아이돌차트에 따르]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['백신 미접종 확진' 임창정 사과 "쓴소리 명심하고 노력할 것" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=277&amp;aid=0005002542</link>
+            <guid>https://entertain.naver.com/now/read?oid=277&amp;aid=0005002542</guid>
+            <pubDate>Fri, 19 Nov 2021 11:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19(신종 코로나바이러스감염증) 백신 미접종 후 신곡 활동에 나섰다 확진된 가수 임창정이 "쓴소리를 기억하고 명심하겠다"고 사과했다. 19일 완치판정을 받고 생활치료센터에서 퇴소한 임창정은 자신의 소셜네트워크서]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[윤주만, 생후 15일 딸바보 될 수 밖에 '눈에서 꿀 뚝뚝'...첫 외출에 '조심 조심' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003804402</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003804402</guid>
+            <pubDate>Fri, 19 Nov 2021 11:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 정안지 기자]배우 윤주만의 아내 김예린이 남편의 딸바보 모습을 공개했다. 김예린은 19일 자신의 인스타그램을 통해 "울 태리와의 첫 외출"이라며 사진을 게재했다. 사진 속 윤주만은 조심히 딸을 안고]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아이칠린, ‘뮤직뱅크’서 ‘FRESH’ 무대…발랄 매력 가득 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000946126</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000946126</guid>
+            <pubDate>Fri, 19 Nov 2021 11:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[신인 걸그룹 아이칠린(ICHILLIN')이 반전 매력을 발산해 시선을 사로잡았다. 아이칠린(이지, 재키, 주니, 채린, 소희, 예주, 초원)은 19일 오후 방송된 KBS2 '뮤직뱅크'에 출연해 새 싱글 '프레시(FR]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['틱, 틱... 붐' 앤드루 가필드, 뮤지컬 이 조합 찬성[MK무비] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004881830</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004881830</guid>
+            <pubDate>Fri, 19 Nov 2021 11:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[앤드루 가필드와 뮤지컬이라니, 이 조합 무척 매력적이다. 영화 ‘틱, 틱... 붐!’(감독 린마누엘 미란다)은 뉴욕에서 웨이터로 일하며 꿈을 키워가는 뮤지컬 작곡가가 서른 살 생일과 중요한 공연을 앞두고 겪는 사랑과]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[영상] 송중기, 레드카펫 달군 '소년미소' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005736391</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005736391</guid>
+            <pubDate>Fri, 19 Nov 2021 11:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 박혜성 기자 = 배우 송중기가 '제26회 춘사국제영화제' 레드카펫 행사에 참석해 소년미 가득한 미소로 등장했다. 19일 오후 서울 강남구 CGV 청담씨네시티에서 '제26회 춘사국제영화제' 레드카펫 행]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[영상] '여전한 미모' 전도연(Jeon Do-yeon), 나 홀로 세월 '역주행' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005736390</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005736390</guid>
+            <pubDate>Fri, 19 Nov 2021 11:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 박혜성 기자 = 전도연이 '제26회 춘사국제영화제' 레드카펫 행사에 참석해 여전한 미모를 뽑냈다. 19일 오후 서울 강남구 CGV 청담씨네시티에서 '제26회 춘사국제영화제' 레드카펫 행사가 진행됐다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[‘설강화’ 정해인X지수, 비주얼 맛집 제대로 인증 ‘폭발적 화력’ (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
@@ -1287,88 +1371,11 @@
             <content:encoded><![CDATA[[FN스타 이승훈 기자] 배우 김새론이 19일 서울 여의도 KBS에서 진행되는 KBS 2TV '드라마 스페셜2021' 단막극 세 작품 기자간담회에 참석했다. totopurdy_star@fnnews.com fn스타 이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['안정환♥' 이혜원, 미모가 반칙이야...오늘도 한껏 이쁜척[TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000512724</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000512724</guid>
-            <pubDate>Fri, 19 Nov 2021 10:26:15 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=조준원 기자] 미스코리아 출신 이혜원이 근황을 전했다. 이혜원은 19일 자신의 인스타그램에 "오늘도 한껏 이쁜척을 아주ㅋㅋ 더 늙기전 사진을 기록해 봅니다. 미팅 전 기다리다가"라는 글과 함께 사진을 게재]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 김새론, '러블리한 페이스' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=014&amp;aid=0004742674</link>
-            <guid>https://entertain.naver.com/now/read?oid=014&amp;aid=0004742674</guid>
-            <pubDate>Fri, 19 Nov 2021 10:26:15 GMT</pubDate>
-            <content:encoded><![CDATA[[FN스타 이승훈 기자] 배우 김새론이 19일 서울 여의도 KBS에서 진행되는 KBS 2TV '드라마 스페셜2021' 단막극 세 작품 기자간담회에 참석했다. totopurdy_star@fnnews.com fn스타 이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 강태오, '주변을 살피며' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=014&amp;aid=0004742673</link>
-            <guid>https://entertain.naver.com/now/read?oid=014&amp;aid=0004742673</guid>
-            <pubDate>Fri, 19 Nov 2021 10:26:15 GMT</pubDate>
-            <content:encoded><![CDATA[[FN스타 이승훈 기자] 배우 강태오가 19일 서울 여의도 KBS에서 진행되는 KBS 2TV '드라마 스페셜2021' 단막극 세 작품 기자간담회에 참석했다. totopurdy_star@fnnews.com fn스타 이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['김수미 며느리' 서효림, 개사료 먹는 딸에 멘붕 "애개육아의 부작용" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003804398</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003804398</guid>
-            <pubDate>Fri, 19 Nov 2021 10:26:15 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선닷컴 이게은기자] 배우 서효림이 육아 근황을 전했다. 19일 서효림은 자신의 인스타그램에 "애개육아의 부작용.. 사료도 먹고요. 복순이 때려서 간식 뺏어 자기가 먹어요"라는 글과 짧은 영상을 게재했다. 영]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 강태오, '훈훈함이 진동' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=014&amp;aid=0004742672</link>
-            <guid>https://entertain.naver.com/now/read?oid=014&amp;aid=0004742672</guid>
-            <pubDate>Fri, 19 Nov 2021 10:26:15 GMT</pubDate>
-            <content:encoded><![CDATA[[FN스타 이승훈 기자] 배우 강태오가 19일 서울 여의도 KBS에서 진행되는 KBS 2TV '드라마 스페셜2021' 단막극 세 작품 기자간담회에 참석했다. totopurdy_star@fnnews.com fn스타 이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 신예은, '가을 햇살맞으며' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=014&amp;aid=0004742671</link>
-            <guid>https://entertain.naver.com/now/read?oid=014&amp;aid=0004742671</guid>
-            <pubDate>Fri, 19 Nov 2021 10:26:16 GMT</pubDate>
-            <content:encoded><![CDATA[[FN스타 이승훈 기자] 배우 신예은이 19일 서울 여의도 KBS에서 진행되는 KBS 2TV '드라마 스페셜2021' 단막극 세 작품 기자간담회에 참석했다. totopurdy_star@fnnews.com fn스타 이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 신예은, '기품있는 미소' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=014&amp;aid=0004742670</link>
-            <guid>https://entertain.naver.com/now/read?oid=014&amp;aid=0004742670</guid>
-            <pubDate>Fri, 19 Nov 2021 10:26:16 GMT</pubDate>
-            <content:encoded><![CDATA[[FN스타 이승훈 기자] 배우 신예은이 19일 서울 여의도 KBS에서 진행되는 KBS 2TV '드라마 스페셜2021' 단막극 세 작품 기자간담회에 참석했다. totopurdy_star@fnnews.com fn스타 이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[서현, P사 명품 패팅 입고 럭셔리 외출...'청순+러블리' 다 가졌네 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003804397</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003804397</guid>
-            <pubDate>Fri, 19 Nov 2021 10:26:16 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선닷컴 정안지 기자] 그룹 소녀시대 멤버 겸 배우 서현이 러블리 매력을 자랑했다. 서현은 19일 자신의 인스타그램을 통해 "ready to hang out♥"라면서 사진을 게재했다. 사진 속에는 상큼한 매력]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 신예은, '가려도 예상되는 예쁨' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=014&amp;aid=0004742669</link>
-            <guid>https://entertain.naver.com/now/read?oid=014&amp;aid=0004742669</guid>
-            <pubDate>Fri, 19 Nov 2021 10:26:16 GMT</pubDate>
-            <content:encoded><![CDATA[[FN스타 이승훈 기자] 배우 신예은이 19일 서울 여의도 KBS에서 진행되는 KBS 2TV '드라마 스페셜2021' 단막극 세 작품 기자간담회에 참석했다. totopurdy_star@fnnews.com fn스타 이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘살림남2’ 영화 보다 눈물 흘린 홍성흔, 갱년기 진단에 ‘청천벽력’ (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000946123</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000946123</guid>
-            <pubDate>Fri, 19 Nov 2021 10:26:16 GMT</pubDate>
-            <content:encoded><![CDATA[오는 20일 방송되는 KBS2 ‘살림하는 남자들 시즌2’(이하 ‘살림남2′)에서는 46세 나이에 이른 갱년기를 맞이한 홍성흔의 이야기가 그려진다. 최근 들어 홍성흔은 기뻤다가 짜증이 났다가, 또 눈물을 흘리는 등 감]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[박나래, 뱃살 충격 배나래...성희롱 논란후 8개월만에 SNS 재개[TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000512723</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000512723</guid>
-            <pubDate>Fri, 19 Nov 2021 10:26:16 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=조준원 기자] 개그우먼 박나래가 근황을 전했다. 박나래는 19일 자신의 인스타그램에 "즐거운 '나 혼자 산다' 달력 촬영. 키는 구도 보는 중. 그리고 뒷장은 담력 좋은 분만 넘기세요"라는 글과 함께 사진]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[반찬욱, '너에게 가는 속도 493km' 출연 확정 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004881819</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004881819</guid>
-            <pubDate>Fri, 19 Nov 2021 10:26:16 GMT</pubDate>
-            <content:encoded><![CDATA[배우 빈찬욱이 KBS 2TV 새드라마 ‘너에게 가는 속도 493km’에 출연을 확정했다. 빈찬욱의 소속사 티에이치컴퍼니는 19일 빈찬욱이 ‘너에게 가는 속도 493km’ 오선수 역으로 캐스팅됐다고 밝혔다. 2022년]]></content:encoded>
+            <title><![CDATA[집에서 '오징어게임' 파티한 톱스타 부부… 비난 받는 이유 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000756350</link>
+            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000756350</guid>
+            <pubDate>Fri, 19 Nov 2021 11:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[가수 존 레전드와 배우 크리시 티건 부부가 자택에서 '오징어게임' 테마로 파티를 벌여 비판받고 있다. 뉴욕포스트는 지난 16일(현지시각) "두 사람이 전세계 신드롬을 일으킨 넷플릭스 '오징어 게임'을 주제로 유명 파]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[킴 카다시안, 'SNL' 피터 데이비슨과 열애 "전 남편 카니예 여전히 존경" [Oh!llywood] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
@@ -1535,13 +1542,6 @@
             <title><![CDATA[김새론 '사랑스러운 미소' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
             <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000832683</link>
             <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000832683</guid>
-            <pubDate>Fri, 19 Nov 2021 06:26:34 GMT</pubDate>
-            <content:encoded><![CDATA[배우 김새론이 19일 오후 온라인 생중계로 진행된 KBS 드라마스페셜 '그녀들' 기자간담회에 참석해 포즈를 취하고 있다. 사진=KBS]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김새론 '돋보이는 미모' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000832682</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000832682</guid>
             <pubDate>Fri, 19 Nov 2021 06:26:34 GMT</pubDate>
             <content:encoded><![CDATA[배우 김새론이 19일 오후 온라인 생중계로 진행된 KBS 드라마스페셜 '그녀들' 기자간담회에 참석해 포즈를 취하고 있다. 사진=KBS]]></content:encoded>
         </item>
