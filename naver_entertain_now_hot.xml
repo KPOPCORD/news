@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-19T15:24:22.840Z</updated>
+    <updated>2021-11-19T16:32:43.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국내 정상급 래퍼 내달 의정부에 모인다]]></title>
+        <id>https://entertain.naver.com/now/read?oid=022&amp;aid=0003639827</id>
+        <link href="https://entertain.naver.com/now/read?oid=022&amp;aid=0003639827"/>
+        <updated>2021-11-19T16:32:36.775Z</updated>
+        <content type="html"><![CDATA[12월 10∼11일 의정부예술의전당에서 열리는 힙합 콘서트 ‘블랙뮤직페스티벌(BMF)’ 포스터. 국내 정상급 래퍼들의 무대로 꾸며지는 힙합 콘서트 블랙뮤직페스티벌(BMF)이 다음 달 10∼11일 의정부예술의전당에서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하차·코로나19·제작 분쟁...'학교 2021' 잡음 [TF업앤다운②](영상)]]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000117147</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003006227"/>
         <updated>2021-11-19T12:32:55.746Z</updated>
         <content type="html"><![CDATA[가수 자이언티(Zion.T)와 프로듀서 슬롬(Slom)이 화보로 극강의 시너지를 자랑했다. 패션 매거진 엘르(ELLE)는 19일 자이언티와 슬롬의 유쾌한 케미스트리를 엿볼 수 있는 화보를 공개했다. 화보 속 자이언티]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[채수빈 필라테스 근황..완벽한 레깅스 보디라인[스타IN★]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003006226</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003006226"/>
-        <updated>2021-11-19T12:32:55.746Z</updated>
-        <content type="html"><![CDATA[배우 채수빈이 남다른 필라테스 실력과 함께 완벽한 보디 라인을 과시했다. 채수빈은 19일 자신의 인스타그램을 통해 "쌤... 저..히...힘들어요"라는 글과 여러 사진을 게재했다. 사진에서 채수빈은 기구 필라테스를]]></content>
     </entry>
 </feed>
