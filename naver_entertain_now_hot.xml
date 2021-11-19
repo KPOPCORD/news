@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-19T20:22:21.030Z</updated>
+    <updated>2021-11-19T21:20:10.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전소미 리얼리티 첫 공개… 인간 비타민의 하루 어떨까]]></title>
+        <id>https://entertain.naver.com/now/read?oid=417&amp;aid=0000756376</id>
+        <link href="https://entertain.naver.com/now/read?oid=417&amp;aid=0000756376"/>
+        <updated>2021-11-19T21:20:02.776Z</updated>
+        <content type="html"><![CDATA[가수 전소미가 리얼리티 프로그램을 통해 인간 전소미의 매력을 방출한다. 20일 밤 10시 첫 공개되는 유튜브 단독 리얼리티 '아이 엠 소미: XOXO'는 전소미의 무대 위 화려한 모습부터 무대 밖 평범한 일상을 공개]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최수종♥하희라, '결혼 28주년' 리마인드 화보 공개...신혼 비주얼에 깜짝! "사랑합니다"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003804451</id>
+        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003804451"/>
+        <updated>2021-11-19T21:20:02.777Z</updated>
+        <content type="html"><![CDATA[[스포츠조선닷컴 이게은기자] 배우 최수종과 하희라가 결혼 28주년을 기념해 리마인드 웨딩 화보를 촬영했다. 20일 하희라는 자신의 인스타그램에 "나는.. 많이 부족하고.. 연약한 사람인데 나를 특별한 사람으로 만들어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['신민철♥' 혜림, 부쩍 커진 D라인...누굴 봤길래 웃음 못 멈추나 "실물 영접!]]></title>
         <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003804450</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003804437"/>
         <updated>2021-11-19T12:32:55.746Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 정안지 기자] 배우 인교진 소이현 부부가 둘만의 시간을 보냈다. 인교진은 19일 자신의 인스타그램을 통해 "따릉이 타고 마실 나갔던 날"이라면서 사진을 게재했다. 사진 속에는 데이트 중 셀카를 촬영]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘1박 2일’ 다섯 남자의 大 환장 몸개그 ‘베이스 캠프에 무슨 일?’]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000946132</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000946132"/>
-        <updated>2021-11-19T12:32:55.746Z</updated>
-        <content type="html"><![CDATA[소소한 행복으로 가득했던 ‘1박 2일’ 멤버들의 ‘단내투어’가 별안간 아수라장으로 돌변한다. 오는 21일(일) 저녁 6시 30분에 방송되는 KBS 2TV ‘1박 2일 시즌4’(이하 1박 2일)에서는 100회를 맞이해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['46세' 함소원, 피부 얼마나 좋길래 "외출할 때 화장 NO" '자신감 폭발']]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003804435</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003804435"/>
-        <updated>2021-11-19T12:32:55.746Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 이게은기자] 방송인 함소원이 근황을 전했다. 19일 함소원은 자신의 인스타그램에 "요즘 외출할 땐 화장 안 해요~ 그냥 필링 패드, 세럼, 선크림 끝"이라는 글과 한 장의 사진을 게재했다. 사진 속]]></content>
     </entry>
 </feed>

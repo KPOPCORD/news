@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-19T20:22:21.029Z</updated>
+    <updated>2021-11-19T21:20:10.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마미손 "NFT의 핵심은 돈이 아니라 재미야"]]></title>
+        <id>https://entertain.v.daum.net/v/20211120060054894</id>
+        <link href="https://entertain.v.daum.net/v/20211120060054894"/>
+        <updated>2021-11-19T21:19:36.749Z</updated>
+        <content type="html"><![CDATA[“대체불가토큰(NFT) 콘텐츠에서 주목할 건 가격이 아닙니다. 맥락이 있어야 하고, 무엇보다 스토리텔링이 필요합니다. 낙찰가보다 중요한 건 재미입니다.” ‘복면의 래퍼’ 마미손이 대체불가토큰(NFT) 콘텐츠 시장에 미술작가로 데뷔했다. 마미손의 첫 디지털 콘텐츠 ‘수플렉스 더 트로피(Suflex the trophy)’는 지난 14일 디지털 자산 수집 플랫폼]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오웰의 '1984′, 그리고 카지노 도박장에서 영감 받아 탄생한 이 노래]]></title>
         <id>https://entertain.v.daum.net/v/20211120030317234</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211119175017048"/>
         <updated>2021-11-19T09:21:15.865Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 브릿팝을 대표하고 그래미 17회 수상에 빛나는 세계적인 음악인 스팅(Sting)이 19일 새 정규앨범 ‘더 브릿지(The Bridge)’를 발매한다. 스팅의 방대한 작업량과 다채로운 스타일의 작곡 능력이 돋보이는 ‘더 브릿지’는 락앤롤, 재즈, 클래식, 포크 음악 등 다양한 장르의 수록곡들이 담겨있다. 또 코로나19 팬데믹이 전 세계를 강타]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["본인이 연기" 병무청, 유승준 '입영통지 불분명' 주장에 뿔났다]]></title>
-        <id>https://entertain.v.daum.net/v/20211119174207845</id>
-        <link href="https://entertain.v.daum.net/v/20211119174207845"/>
-        <updated>2021-11-19T09:21:15.866Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김한길 기자] 가수 유승준(45·미국명 스티브 승준 유) 측이 과거 병무청에서 입영 통지서를 받았는지 불분명하다고 주장하자 병무청이 즉각 반박했다. 18일 병무청은 이날 유승준의 소송대리인이 '스티브유의 입영통지서가 나온 것인지 입증할 객관적인 자료가 없고, 병무청에 사실조회를 신청해 해당 부분을 입증할 것'이라고 말한 것에 대해, "스티브유]]></content>
     </entry>
 </feed>
