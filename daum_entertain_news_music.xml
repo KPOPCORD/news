@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-19T14:20:22.533Z</updated>
+    <updated>2021-11-19T15:24:22.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임창정, 코로나19 완치 "걱정 끼쳐 죄송"]]></title>
+        <id>https://entertain.v.daum.net/v/20211119232612445</id>
+        <link href="https://entertain.v.daum.net/v/20211119232612445"/>
+        <updated>2021-11-19T15:23:48.606Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 김선우기자]가수 임창정이 코로나19 완치 판정을 받았다. 최근 코로나19에 확진됐던 임창정은 완치돼 격리시설에서도 퇴소했다. 19일 임창정은 SNS를 통해 장문의 심경글과 사과글을 밝혔다. 임창정은 “우선 여러모로 걱정 끼쳐드리게 되어 이유 여하를 막론하고 팬 여러분들, 동료, 가족 등. 저로 인해 속상하셨을 많은 분들께]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위키미키, 'Siesta' 무대 최초 공개..컴백 활동]]></title>
         <id>https://entertain.v.daum.net/v/20211119205650145</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211119174008807"/>
         <updated>2021-11-19T09:21:15.867Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이하나 기자] 가수 송하예가 감성 가득한 무대를 꾸몄다. 송하예는 11월 19일 오후 방송된 KBS2 음악프로그램 ‘뮤직뱅크’에 출연했다. 이날 방송에서 송하예는 최근 발매한 발라드 신곡 ‘사랑했던 우리가 어떻게 친구가 되니’를 열창했다. 송하예는 한층 성숙해진 음색과 풍부한 표현력으로 가슴 시린 이별 감성을 자극했다. 특히 클라이맥스에서 선보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['코로나19 완치' 임창정 "책임감 없는 행동 면목 없습니다"]]></title>
-        <id>https://entertain.v.daum.net/v/20211119173340655</id>
-        <link href="https://entertain.v.daum.net/v/20211119173340655"/>
-        <updated>2021-11-19T09:21:15.867Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 윤상근 기자] 가수 임창정이 1일 오후 서울 영등포구 영등포CGV에서 진행된 정규 17집 '별거 없던 그 하루로' 쇼케이스에 참석해 포즈를 취하고 있다.  '별거 없던 그 하루로'는 임창정이 2020년 '힘든 건 사랑이 아니다' 이후 1년 만에 발매하는 정규 17집으로, 동명 타이틀 곡 '별거 없던 그 하루로'와 후속 타이틀 곡 '나는 트로트가]]></content>
     </entry>
 </feed>

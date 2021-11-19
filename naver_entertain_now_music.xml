@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-19T14:20:22.535Z</updated>
+    <updated>2021-11-19T15:24:22.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스팅, 오늘 '더 브리지' 발매…"팬데믹 혼돈에 대한 회고"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010843931</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010843931"/>
+        <updated>2021-11-19T15:24:06.733Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 영국 팝스타 스팅(70)이 19일 유니버설뮤직을 통해 새 정규앨범 '더 브리지(The Bridge)'를 발매했다. 그래미 17회 수상에 빛나는 스팅의 무게감만큼 방대한 작업량과 다채로운]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['금쪽상담소' 김혜리 "13세 딸, 무섭게 화장하고 하루 30통 전화도"]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003006253</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004514047"/>
         <updated>2021-11-19T09:21:34.289Z</updated>
         <content type="html"><![CDATA[[OSEN=이승훈 기자] 가수 딘딘이 다신 돌아오지 않을, 추억으로 남은 시간을 그리워하며 그 시절의 향수를 노래했다. 딘딘은 오늘(19일) 오후 6시 각종 온라인 음원 사이트를 통해 새 미니앨범 '소음집'을 발매했]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저스트비, 콘셉트·퍼포먼스 맛집으로 글로벌 '관심 집중']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004630757</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004630757"/>
-        <updated>2021-11-19T09:21:34.290Z</updated>
-        <content type="html"><![CDATA[그룹 저스트비(JUST B)가 글로벌 K팝 신예로 부상했다. 저스트비(임지민, 이건우, 배인, JM, 전도염, 김상우)가 최근 발매한 첫 번째 싱글 앨범 '저스트 비트(JUST BEAT)'의 타이틀곡 '틱톡(TICK]]></content>
     </entry>
 </feed>
