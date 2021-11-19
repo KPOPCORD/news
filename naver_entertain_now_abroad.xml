@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-18T23:22:54.642Z</updated>
+    <updated>2021-11-19T01:06:15.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“이혼한지 얼마나 됐다고” 13살 차이 킴 카다시안♥피터 데이비슨 열애 시작[해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003556836</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003556836"/>
+        <updated>2021-11-19T01:06:14.965Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]지난 2월 카니예 웨스트와 이혼한 킴 카다시안(41)이 코미디언 피터 데이비슨(28)과 공식 열애를 시작했다고 18일(현지시간) 페이지식스가 보도했다. 이들은 피터 데이비슨의 고향 뉴욕과]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부자 친구들과 ‘오징어게임’ 파티, 美 톱스타 부부 비난]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000513002</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000513002"/>
+        <updated>2021-11-19T01:06:14.969Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 존 레전드 아내 크리시 타이겐이 '오징어게임'으로 역풍을 맞았다. 11월 17일(현지시간) US위클리 등 매체는 가수 존 레전드 아내이자 모델 크리시 타이겐이 네티즌들의 비판을 받고 있다고 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美 래퍼 영 돌프, 총기 사고로 사망…향년 36세[할리우드비하인드]]]></title>
         <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512968</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004672244"/>
         <updated>2021-11-18T05:20:21.151Z</updated>
         <content type="html"><![CDATA[영화 '스파이더맨'으로 잘 알려진 영국 출신 배우 톰 홀랜드가 '토트넘'에 대한 애정을 드러냈다. 톰 홀랜드는 18일 남성 패션 매거진 'GQ'의 유튜브 채널에 공개된 '톰 홀랜드의 120만 달러 쇼핑하기'라는 제목]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SNS로 깔끔하게 '결별' 발표한 톱가수 커플[Oh!llywood]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004513090</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004513090"/>
-        <updated>2021-11-18T05:20:21.152Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 결별 발표는 깔끔했다. 톱가수 커플인 숀 멘데스와 카밀라 카벨로는 18일(현지시간) 인스타그램을 통해 결별을 발표했다. 이들은 두 사람의 이름이 모두 담긴 합동 글에서 "여러분, 우리는 우리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카밀라 카베요-숀 멘데스 결별 발표 “친한 친구로 돌아갈 것”]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512686</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000512686"/>
-        <updated>2021-11-18T03:22:02.749Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 팝스타 카밀라 카베요(Camila Cabello), 숀 멘데스(Shawn Mendes)가 결별했다. 카밀라 카베요, 숀 멘데스는 11월 18일(한국시간) 개인 SNS 스토리를 통해 결별 소식을]]></content>
     </entry>
 </feed>
