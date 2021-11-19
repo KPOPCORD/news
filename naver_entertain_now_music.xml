@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-19T13:26:30.331Z</updated>
+    <updated>2021-11-19T14:20:22.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['금쪽상담소' 김혜리 "13세 딸, 무섭게 화장하고 하루 30통 전화도"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003006253</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003006253"/>
+        <updated>2021-11-19T14:20:06.200Z</updated>
+        <content type="html"><![CDATA[배우 김혜리가 13세 딸과의 갈등을 고백했다. 김혜리는 19일 방송된 채널A '오은영의 금쪽상담소'에 출연했다. 김혜리는 이날 자신의 13세 딸과의 갈등에 대해 언급했다. 김혜리는 "얼마 전부터 나와 싸워서 내가 너]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엔하이픈 제이크, '4세대 핫 아이콘' 입증..美 타임스퀘어 전광판 등장]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003006238</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004630757"/>
         <updated>2021-11-19T09:21:34.290Z</updated>
         <content type="html"><![CDATA[그룹 저스트비(JUST B)가 글로벌 K팝 신예로 부상했다. 저스트비(임지민, 이건우, 배인, JM, 전도염, 김상우)가 최근 발매한 첫 번째 싱글 앨범 '저스트 비트(JUST BEAT)'의 타이틀곡 '틱톡(TICK]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[딘딘 "'소음집', 누군가에겐 작은 울림 주기를"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010843728</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010843728"/>
-        <updated>2021-11-19T09:21:34.291Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]이수진 인턴 기자 = 래퍼 딘딘이 19일 새 EP '소음집'을 발매했다. 딘딘이 전곡 가창부터 작사, 작곡까지 앨범 전반에 참여했다. 더블 타이틀곡 '너에게'(Feat. 정세운)와 '슬로울리(Slowl]]></content>
     </entry>
 </feed>
