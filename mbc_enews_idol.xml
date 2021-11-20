@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Nov 2021 20:22:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Nov 2021 21:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오마이걸 아린, 한 줌 개미허리 완벽 몸매 자랑 [인스타]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/331080</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/331080</guid>
+            <pubDate>Sat, 20 Nov 2021 21:17:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331080">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/21/XXvFen6J8trk637730515101586862.jpg" alt="오마이걸 아린, 한 줌 개미허리 완벽 몸매 자랑 [인스타] ">        <div class="text-box">            <p class="summary">오마이걸 아린, 한 줌 개미허리 완벽 몸매 자랑 [인스타] </p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/21/XXvFen6J8trk637730515101586862.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[몬스타엑스 민혁X주헌, 훈훈한 ‘놀토’ 출연 인증샷]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/331058</link>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 19 Nov 2021 08:25:14 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331006">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/19/0ba79cf6-8016-4ada-8d92-0bbc837c1f36.jpg" alt="원어스, '예능 천재' 수식어까지 확보… 역대급 재미 선사(아이돌라디오2)">        <div class="text-box">            <p class="summary">원어스, '예능 천재' 수식어까지 확보… 역대급 재미 선사(아이돌라디오2)</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/19/0ba79cf6-8016-4ada-8d92-0bbc837c1f36.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['방과후 설렘' 아이키 "댄스, 누구보다 자신 있어"]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/331005</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/331005</guid>
-            <pubDate>Fri, 19 Nov 2021 08:25:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331005">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/19/e5f35642-6eb4-42b0-8078-1f94945b0034.jpg" alt="'방과후 설렘' 아이키 " 댄스,="" 누구보다="" 자신="" 있어""="">        <div class="text-box">            <p class="summary">'방과후 설렘' 아이키 "댄스, 누구보다 자신 있어"</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/19/e5f35642-6eb4-42b0-8078-1f94945b0034.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
