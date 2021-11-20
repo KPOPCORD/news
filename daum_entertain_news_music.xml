@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-20T06:24:44.478Z</updated>
+    <updated>2021-11-20T07:20:53.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['음악중심' 아이유vs에스파vs트와이스 1위 후보, 우먼 파워 승자는?]]></title>
+        <id>https://entertain.v.daum.net/v/20211120154805608</id>
+        <link href="https://entertain.v.daum.net/v/20211120154805608"/>
+        <updated>2021-11-20T07:20:22.116Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 아이유, 에스파(aespa), 트와이스가 1위 후보로 만났다. 11월 20일 방송된 MBC ‘쇼! 음악중심’에서는 11월 셋째 주 1위 후보가 공개 됐다. 이날 방송에는 아이유의 ‘strawberry moon’, 에스파의 ‘Savage’, 트와이스의 ‘SCIENTIST’가 1위 후보에 올랐다. 아이유와 에스파가 꾸준히 1위 후]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스트레이 키즈 'Christmas EveL' MV 티저 속 키치한 에너지]]></title>
+        <id>https://entertain.v.daum.net/v/20211120153413500</id>
+        <link href="https://entertain.v.daum.net/v/20211120153413500"/>
+        <updated>2021-11-20T07:20:22.129Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 스트레이 키즈(Stray Kids)가 시즌송 'Christmas EveL'(크리스마스 이블) 뮤직비디오 티저를 최초 공개했다. 오는 11월 29일 홀리데이 스페셜 싱글 'Christmas EveL'을 선보이는 스트레이 키즈는 앞서 공식 SNS 채널을 통해 트랙리스트 이미지를 게재하고 더블 타이틀곡 'Christmas EveL'과 ']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2000만뷰 눈앞..임영웅 '사랑은 늘 도망가' 총조회수 1900만뷰]]></title>
         <id>https://entertain.v.daum.net/v/20211120143900988</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211120112044595"/>
         <updated>2021-11-20T02:37:18.569Z</updated>
         <content type="html"><![CDATA[[스타뉴스 공미나 기자] /사진= "Origin of 엑스디너리 히어로즈 : Gun-il" 영상 화면 캡처JYP엔터테인먼트(이하 JYP) 신인 보이그룹 엑스디너리 히어로즈(Xdinary Heroes) 마지막 멤버 건일이 공개됐다. 이로써 엑스디너리 히어로즈는 6인조로 밝혀졌다. JYP는 지난달 25일 공식 SNS 채널에 'Coming up Next' 티저를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['쇼미10' 카키, 승패 떠나 강렬 존재감 폭발..오늘 본선 경연곡 '카멜레온' 발매]]></title>
-        <id>https://entertain.v.daum.net/v/20211120110955505</id>
-        <link href="https://entertain.v.daum.net/v/20211120110955505"/>
-        <updated>2021-11-20T02:37:18.571Z</updated>
-        <content type="html"><![CDATA[[OSEN=이승훈 기자] 래퍼 카키(Khakii)가 독보적인 실력으로 강렬한 존재감을 각인시켰다. 카키는 지난 19일 방송된 Mnet 힙합 서바이벌 프로그램 '쇼미더머니 10'에서 자이언티&amp;슬롬의 티슬라 팀 래퍼로서 본선 데스매치에 임했다. 던밀스와 맞붙게 된 카키는 프로듀서 자이언티와 슬롬이 준비한 비트를 듣고 "팍팍 떠오르게 해주는 비트였다. 많은 아이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단 'Dynamite'='글로벌 메가 히트송' 입증..뮤비 13억뷰 돌파]]></title>
-        <id>https://entertain.v.daum.net/v/20211120105957376</id>
-        <link href="https://entertain.v.daum.net/v/20211120105957376"/>
-        <updated>2021-11-20T02:37:18.572Z</updated>
-        <content type="html"><![CDATA[[OSEN=이승훈 기자] 그룹 방탄소년단(RM,&nbsp;진,&nbsp;슈가,&nbsp;제이홉,&nbsp;지민,&nbsp;뷔,&nbsp;정국)의 ‘Dynamite’ 뮤직비디오가 13억뷰를 기록했다. 방탄소년단이 지난해 8월 21일 발매한 디지털 싱글 ‘Dynamite’ 뮤직비디오의 유튜브 조회수가 19일 오후 10시 51분경 13억 건을 돌파했다. 이로써 ‘Dynamite’는 방탄소년단의 뮤직비디오 가운데 ‘]]></content>
     </entry>
 </feed>
