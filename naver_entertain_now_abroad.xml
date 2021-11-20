@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-20T01:05:26.173Z</updated>
+    <updated>2021-11-20T02:37:54.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“13살 연상연하” 킴 카다시안♥ '플레이보이' 피트 데이비슨, “조심스럽게 연애하겠다”[해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003557144</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003557144"/>
+        <updated>2021-11-20T02:37:53.351Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]카니예 웨스트와 이혼한 킴 카다시안(41)과 코미디언 피트 데이비슨(28)이 공식 연애를 시작한 가운데 이들의 행보에 관심을 쏠리고 있다. 연예매체 페이지식스는 19일(현지시간) “이들은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[앤드류 가필드 "'스파이더맨: 노 웨이 홈' 출연? 개봉하면 알게 될 것" [엑's 할리우드]]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001375814</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000832684"/>
         <updated>2021-11-19T06:26:34.382Z</updated>
         <content type="html"><![CDATA[배우 김새론, 정다은이 19일 오후 온라인 생중계로 진행된 KBS 드라마스페셜 '그녀들' 기자간담회에 참석해 포즈를 취하고 있다. 사진=KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[션 멘데스-카멜라 카베요 결별 "연인 관계 정리"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=079&amp;aid=0003576982</id>
-        <link href="https://entertain.naver.com/now/read?oid=079&amp;aid=0003576982"/>
-        <updated>2021-11-19T06:26:34.383Z</updated>
-        <content type="html"><![CDATA[할리우드 톱스타 커플 션 멘데스-카멜라 카베요가 결별했다. 션 멘데스는 18일 자신의 인스타그램 스토리에 카밀라와 션의 이름으로 글을 올려 "여러분, 우리는 연인 관계를 마치기로 했어요. 하지만 사람 대 사람으로 서]]></content>
     </entry>
 </feed>
