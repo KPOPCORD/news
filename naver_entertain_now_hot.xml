@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-20T16:33:40.673Z</updated>
+    <updated>2021-11-20T17:25:19.918Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트루디♥KT이대은, 4년 열애 끝 12월 결혼…유니크한 웨딩화보 공개]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000832916</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000832916"/>
+        <updated>2021-11-20T17:25:12.677Z</updated>
+        <content type="html"><![CDATA[프로야구 kt 위즈 투수 이대은(32)과 래퍼 트루디(김진솔, 28)가 4년 교제 끝에 부부의 연을 맺는다. 해피메리드컴퍼니는 20일 “이대은과 트루디가 12월 5일 서울 강남구 그랜드힐 컨벤션에서 결혼식을 올린다”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘골때녀’ 사오리 “경기 졌을 때 3일 울어, 남친과 이별한 기분” (집사부일체)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000946217</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000946217"/>
+        <updated>2021-11-20T17:25:12.680Z</updated>
+        <content type="html"><![CDATA[21일 SBS ‘집사부일체’에서는 국내 최초 여자 축구 예능 프로그램인 ‘골 때리는 그녀들’ 출연진들과 함께한 특별한 하루가 공개된다. 이날 ‘집사부일체’는 진정한 우먼파워를 보여준 여성들과 함께하는 ‘K-언니’ 특]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공식포스터 센터 싸움 “급소를 찼습니다” 치열 (뭉찬2)]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000946216</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=396&amp;aid=0000597608"/>
         <updated>2021-11-20T13:24:12.449Z</updated>
         <content type="html"><![CDATA[요즘 백신 미 접종자에 대한 시선이 곱지만은 않다. 나아가 ‘개인의 자유’ vs ‘공동체 사회에서 민폐’라는 입장으로 팽팽히 갈리기 시작했다. 이런 가운데 일부 유명인들의 백신 미 접종 사실이 알려지고 여기에 확진자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이미도, '스우파' 효진초이와 댄스 배틀? "우린 쎈우파"[스타IN★]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003006393</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003006393"/>
-        <updated>2021-11-20T13:24:12.452Z</updated>
-        <content type="html"><![CDATA[배우 이미도가 댄서 효진초이와 댄스 챌린지를 선보였다. 이미도는 18일 오후 자신의 SNS에 "효진초이가 초이스한 미도!! 그녀와 댄스 배틀? Wow! 우린 쎈우파"라는 글과 함께 영상을 공개했다. '스트리트 우먼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이혼 진행' 최정윤, 6세 딸과 오붓한 캠핑...'폭풍애교'에 심쿵]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003804570</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003804570"/>
-        <updated>2021-11-20T13:24:12.452Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 이게은기자] 배우 최정윤이 딸과 화기애애한 시간을 보냈다. 20일 최정윤은 자신의 인스타그램에 "캠핑 세상 행복. 생일파티 고맙습니다"라는 글과 두 장의 사진을 게재했다. 사진 속 최정윤은 딸과 캠핑]]></content>
     </entry>
 </feed>
