@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-20T11:19:45.911Z</updated>
+    <updated>2021-11-20T12:31:28.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김다현, 위드코로나 이후 첫 가족 힐링콘서트 대성황 [TF확대경]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000117185</id>
+        <link href="https://entertain.naver.com/now/read?oid=629&amp;aid=0000117185"/>
+        <updated>2021-11-20T12:31:14.428Z</updated>
+        <content type="html"><![CDATA[20일 오후 경기 연천 수레울 아트홀 대공연장서 '열기 후끈' '미스트롯2'를 통해 트로트 스타로 자리매김한 국악신동 김다현이 위드코로나 이후 첫 가족 힐링콘서트로 팬들을 사로잡았다. 김다현은 20일 오후 3시와 7]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원어스, '월하미인' 시어터 버전으로 '광해' 오마주]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003006373</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004630854"/>
         <updated>2021-11-20T08:24:47.118Z</updated>
         <content type="html"><![CDATA[가수 임영웅의 첫 단독쇼 ‘We’re HERO 임영웅’에선 2021년 영웅들을 위한 공연을 준비 중이다. 20일 오전 9시 KBS 공식 홈페이지를 통해 오는 12월 10일 오후 6시 30분 고양 킨텍스에서 개최되는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['12월 14일 컴백' NCT, 쟈니·유타·텐·마크·성찬 티저 이미지…독보적 비주얼]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001375981</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001375981"/>
-        <updated>2021-11-20T08:24:47.119Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) NCT의 멤버별 티저 이미지가 화제를 모으고 있다. NCT는 12월 14일 정규 3집 'Universe'(유니버스) 발매에 앞서 퓨처리스틱한 콘셉트의 티저 이미지를 순차 공개해 컴백에 대]]></content>
     </entry>
 </feed>
