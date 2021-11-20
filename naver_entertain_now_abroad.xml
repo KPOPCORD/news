@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-20T02:37:54.036Z</updated>
+    <updated>2021-11-20T03:21:53.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘젠데이아♥’ 톰 홀랜드 “미래엔 남편-아빠-목수로, 연기 그만둘지도”]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000513535</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000513535"/>
+        <updated>2021-11-20T03:21:53.053Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 할리우드 배우 톰 홀랜드(Tom Holland)가 남편, 아빠, 목수로서의 미래를 상상했다. 톰 홀랜드는 최근 영화 잡지 토탈 필름과 인터뷰를 통해 미래에 대한 솔직한 이야기를 전했다. 톰 홀]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“13살 연상연하” 킴 카다시안♥ '플레이보이' 피트 데이비슨, “조심스럽게 연애하겠다”[해외이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003557144</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000832685</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000832685"/>
         <updated>2021-11-19T06:26:34.380Z</updated>
-        <content type="html"><![CDATA[배우 김새론, 정다은이 19일 오후 온라인 생중계로 진행된 KBS 드라마스페셜 '그녀들' 기자간담회에 참석해 포즈를 취하고 있다. 사진=KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김새론-정다은 '그녀들' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000832684</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000832684"/>
-        <updated>2021-11-19T06:26:34.382Z</updated>
         <content type="html"><![CDATA[배우 김새론, 정다은이 19일 오후 온라인 생중계로 진행된 KBS 드라마스페셜 '그녀들' 기자간담회에 참석해 포즈를 취하고 있다. 사진=KBS]]></content>
     </entry>
 </feed>
