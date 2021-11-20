@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-20T18:25:15.487Z</updated>
+    <updated>2021-11-20T19:17:51.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정승환X권진아 “유재석, 안테나 조직 막내라인” (구해줘!홈즈)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000946221</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000946221"/>
+        <updated>2021-11-20T19:17:44.872Z</updated>
+        <content type="html"><![CDATA[21일 MBC ‘구해줘! 홈즈’(연출:이민희 /이하 ‘홈즈’)에서는 가수 정승환과 권진아가 10년 만에 재결합하는 가족들의 매물 찾기에 나선다. 이날 방송에서는 10년 만에 재결합하는 가족을 위해 러브하우스를 찾는]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[찐건나블리, 좌충우돌 교통안전 교육 현장 (‘슈돌’)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000946220</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000946220"/>
+        <updated>2021-11-20T19:17:44.880Z</updated>
+        <content type="html"><![CDATA[KBS2 '슈퍼맨이 돌아왔다' 찐건나블리가 교통안전을 배운다. 21일 KBS2 '슈퍼맨이 돌아왔다'(이하 '슈돌') 408회는 ‘육아는 느리고 단단히'라는 부제로 꾸며진다. 그 중 박주호는 찐건나블리를 위한 교통안전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손담비, 이거 먹고 살뺐나..엄마찬스로 즐긴 만찬[스타IN★]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003006417</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000946207"/>
         <updated>2021-11-20T14:21:02.041Z</updated>
         <content type="html"><![CDATA[KBS 코미디 프로그램 ‘개승자’ 불꽃 튀는 개그 서바이벌이 본격적으로 펼쳐진다. 20일 KBS2 코미디 서바이벌 프로그램 ‘개승자’ 2화에서는 참가팀들의 개그 경연 무대가 공개된다. 최근 네이버를 통해 공개된 ‘개]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘구경이’ 이영애, 김혜준 잡을 미끼 던져 [TV체크]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000946206</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000946206"/>
-        <updated>2021-11-20T14:21:02.043Z</updated>
-        <content type="html"><![CDATA[JTBC 토일드라마 ‘구경이’ 이영애가 김혜준 살인을 막을 작전을 펼친다. 20일 JTBC 토일드라마 ‘구경이’ (연출 이정흠/극본 성초이) 7회에서는 한국을 뜨기 전 마지막 살인 계획을 실행하는 케이(김혜준 분)의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모니카→허니제이 '스우파' 8인, 의리로 '아는형님' 평정했다(종합)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005737048</id>
-        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005737048"/>
-        <updated>2021-11-20T13:24:12.445Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = '스트릿 우먼 파이터' 8인의 리더들이 '아는 형님'도 평정했다. 이들은 경쟁을 했던 '스트릿 우먼 파이터'와의 방송에서의 모습 이면의, 서로에 대한 존중과 의리로 뭉친 모습으로 훈훈]]></content>
     </entry>
 </feed>
