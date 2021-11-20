@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-20T10:24:41.554Z</updated>
+    <updated>2021-11-20T11:19:45.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임창정, 아파보니 비로소 보이는 것들..백신 미접종 반성]]></title>
+        <id>https://entertain.v.daum.net/v/20211120200502562</id>
+        <link href="https://entertain.v.daum.net/v/20211120200502562"/>
+        <updated>2021-11-20T11:19:15.317Z</updated>
+        <content type="html"><![CDATA[[텐아시아=우빈 기자]'코로나 백신 미접종' 상태로 스케줄을 소화하다가 코로나에 확진됐던 가수 임창정.&nbsp;백신 접종이 개인의 자유라곤 하지만 방송 활동, 콘서트, 행사 등 일을 많이 잡아놓고 사람을 만나면서 접중을 하지 않은 건 책임감과 배려의 부족이라는 지적이 잇달았다.&nbsp;임창정은 완치 판정을 받은 뒤 자신이 어리석었다며 민폐를 끼쳐 죄송하다고 고개 숙였다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[빌리 시윤, 사랑스러운 인간 고양이]]></title>
         <id>https://entertain.v.daum.net/v/20211120175709762</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211120154805608"/>
         <updated>2021-11-20T07:20:22.116Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이하나 기자] 아이유, 에스파(aespa), 트와이스가 1위 후보로 만났다. 11월 20일 방송된 MBC ‘쇼! 음악중심’에서는 11월 셋째 주 1위 후보가 공개 됐다. 이날 방송에는 아이유의 ‘strawberry moon’, 에스파의 ‘Savage’, 트와이스의 ‘SCIENTIST’가 1위 후보에 올랐다. 아이유와 에스파가 꾸준히 1위 후]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스트레이 키즈 'Christmas EveL' MV 티저 속 키치한 에너지]]></title>
-        <id>https://entertain.v.daum.net/v/20211120153413500</id>
-        <link href="https://entertain.v.daum.net/v/20211120153413500"/>
-        <updated>2021-11-20T07:20:22.129Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 스트레이 키즈(Stray Kids)가 시즌송 'Christmas EveL'(크리스마스 이블) 뮤직비디오 티저를 최초 공개했다. 오는 11월 29일 홀리데이 스페셜 싱글 'Christmas EveL'을 선보이는 스트레이 키즈는 앞서 공식 SNS 채널을 통해 트랙리스트 이미지를 게재하고 더블 타이틀곡 'Christmas EveL'과 ']]></content>
     </entry>
 </feed>
