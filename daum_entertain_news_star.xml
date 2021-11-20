@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-11-20T17:25:19.913Z</updated>
+    <updated>2021-11-20T18:25:15.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['그알' 열여덟 김윤호 사망사건..시신으로 남긴 다잉 메시지, 그 진실은?]]></title>
+        <id>https://entertain.v.daum.net/v/20211121032100290</id>
+        <link href="https://entertain.v.daum.net/v/20211121032100290"/>
+        <updated>2021-11-20T18:24:49.116Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 열여덟 김윤호에게 무슨 일이 있었나? 20일 방송된 SBS '그것이 알고 싶다'에서는 '나를 기억해 - 열여덟 김윤호 사망사건의 진실'이라는 부제로 윤호군의 죽음을 둘러싼 진실을 추적했다. 지난 6월 전남 화순의 한 장애 복지시설에서 생활하던 열여덟 살 김윤호 군이 사망했다. 갑작스러운 소식에 병원으로 달려온 가족들은 윤]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트루디♥KT이대은, 4년 열애 끝 12월 결혼..유니크한 웨딩화보 공개]]></title>
         <id>https://entertain.v.daum.net/v/20211121020301224</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211121000035904"/>
         <updated>2021-11-20T15:21:07.991Z</updated>
         <content type="html"><![CDATA[영화 '연애 빠진 로맨스'로 호흡, 24일 개봉 [더팩트ㅣ김샛별 기자] 첫 만남부터 '우린 정말 잘 어울리겠다. 진짜 커플 같겠다'고 생각했다는 배우 손석구와 전종서가 '연애 빠진 로맨스' 속 자연스러운 '케미'를 자신했습니다. 전종서와 손석구는 지난 17일 오후 서울 CGV 용산아이파크몰에서 진행된 영화 '연애 빠진 로맨스' 언론배급시사회 및 기자간담회]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박산희, 모든 것이 지금 시작이야]]></title>
-        <id>https://entertain.v.daum.net/v/20211121000008890</id>
-        <link href="https://entertain.v.daum.net/v/20211121000008890"/>
-        <updated>2021-11-20T15:21:07.992Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 이승록 기자] 박산희가 부르면 다르다. 박산희를 만나 '만족하느냐' 물으니 "'고양이'가 제일 몰입해서 즐겁게 한 무대"라고 했다. "1라운드는 너무 떨어서 가장 아쉽다"고 했다. "'돌이키지마'는 다 내려놓고 한 무대"라고도 했다. 인터뷰를 하러 오는 내내 들었던 '돌이키지마'가 "내려놓고 한 무대"라니 믿기지 않는다. "음색이 좋다는]]></content>
     </entry>
 </feed>
