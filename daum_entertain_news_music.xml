@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-20T14:21:09.191Z</updated>
+    <updated>2021-11-20T15:21:36.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이칠린, 깜찍+상큼+발랄 매력 대방출]]></title>
+        <id>https://entertain.v.daum.net/v/20211121002009008</id>
+        <link href="https://entertain.v.daum.net/v/20211121002009008"/>
+        <updated>2021-11-20T15:21:02.603Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김수진 기자] 신인 걸그룹 아이칠린(ICHILLIN')이 중독성 넘치는 무대를 선보였다. 아이칠린(이지, 재키, 주니, 채린, 소희, 예주, 초원)은 20일 오후 방송된 MBC '쇼! 음악중심'에 출연해 새 싱글 '프레시(FRESH)' 무대를 펼쳤다. 이날 아이칠린은 각자의 매력이 돋보이는 보라색 의상을 입고 무대에 올라 요정 같은 비주얼과 깜찍]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['김종국 저격' 유튜버 결국 사과 "로이더 아냐..뛰어난 유전자 가졌어"]]></title>
         <id>https://entertain.v.daum.net/v/20211120221145322</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211120165530188"/>
         <updated>2021-11-20T08:24:30.486Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 그룹 원어스(ONEUS)가 데뷔 첫 음악방송 1위를 기념해 신곡의 시어터 버전 퍼포먼스 영상을 선보인다. 원어스(RAVN(레이븐)·서호·이도·건희·환웅·시온)는 11월 19일 오후 7시 47분, 공식 SNS를 통해 여섯 번째 미니앨범 'BLOOD MOON'(블러드 문)의 타이틀곡 '월하미인 (月下美人 : LUNA)'의 시어터 버전]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['음중' 아이유, 출연없이 1위..몬스타엑스·위키미키→정동원 컴백]]></title>
-        <id>https://entertain.v.daum.net/v/20211120165037148</id>
-        <link href="https://entertain.v.daum.net/v/20211120165037148"/>
-        <updated>2021-11-20T08:24:30.491Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 아이유가 방송 출연 없이 1위에 올랐다. 11월 20일 방송된 MBC ‘쇼! 음악중심’에서는 아이유가 ‘strawberry moon’으로 에스파, 트와이스를 제치고 1위를 차지했다. 몬스타엑스는 어떤 상황에도 ‘한계 없는’ 가능성과 함께 무한 경쟁시대에서 더욱 빛나는 몬스타엑스의 정체성을 담은 새 미니 앨범 타이틀곡 ‘Rush]]></content>
     </entry>
 </feed>
