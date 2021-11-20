@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-20T12:31:28.522Z</updated>
+    <updated>2021-11-20T13:24:19.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['김종국 저격' 유튜버 결국 사과 "로이더 아냐..뛰어난 유전자 가졌어"]]></title>
+        <id>https://entertain.v.daum.net/v/20211120221145322</id>
+        <link href="https://entertain.v.daum.net/v/20211120221145322"/>
+        <updated>2021-11-20T13:23:49.078Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 공미나 기자] /사진=그렉 듀셋 유튜브가수 김종국이 '로이더'(약물로 근육을 키우는 사람)라는 의혹을 제기했던 캐나다 헬스 유튜버 그렉 듀셋이 결국 말을 바꾸고 사과했다. 그렉 듀셋은 20일 자신의 유튜브 채널에 올린 약 6분짜리 영상을 통해"김종국과 한국 팬들에게 사과하고 싶다"며 그간 김종국이 로이더라는 의혹을 제기한 영상을 삭제하겠다고 밝혔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['놀면 뭐하니' 신봉선, 아이유에 생일선물 받고 '팔레트' 커버 도전]]></title>
+        <id>https://entertain.v.daum.net/v/20211120215713218</id>
+        <link href="https://entertain.v.daum.net/v/20211120215713218"/>
+        <updated>2021-11-20T13:23:49.087Z</updated>
+        <content type="html"><![CDATA[[스포츠서울|조현정기자]개그우먼 신봉선이 MBC ‘놀면 뭐하니?’에서 가수 아이유의 곡을 커버했다. 20일 방송한 ‘놀면 뭐하니?’에서는 의뢰인들의 의뢰를 해결해주는 ‘위드유+’와 2000년대 ‘싸이월드’ 인기곡들을 커버하는 ‘커버 뭐하니?’를 선보였다. ‘위드유+’에서는 다섯 팀의 의뢰를 해결해주는 ‘놀면 뭐하니?’]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김다현, 위드코로나 이후 첫 가족 힐링콘서트 대성황]]></title>
         <id>https://entertain.v.daum.net/v/20211120211653948</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211120165037148"/>
         <updated>2021-11-20T08:24:30.491Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이하나 기자] 아이유가 방송 출연 없이 1위에 올랐다. 11월 20일 방송된 MBC ‘쇼! 음악중심’에서는 아이유가 ‘strawberry moon’으로 에스파, 트와이스를 제치고 1위를 차지했다. 몬스타엑스는 어떤 상황에도 ‘한계 없는’ 가능성과 함께 무한 경쟁시대에서 더욱 빛나는 몬스타엑스의 정체성을 담은 새 미니 앨범 타이틀곡 ‘Rush]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['음중' 아이유, 출연 없어도 1위..몬스타엑스⋅위키미키⋅정동원⋅윤하 컴백]]></title>
-        <id>https://entertain.v.daum.net/v/20211120164859130</id>
-        <link href="https://entertain.v.daum.net/v/20211120164859130"/>
-        <updated>2021-11-20T08:24:30.493Z</updated>
-        <content type="html"><![CDATA[[OSEN=이승훈 기자] 가수 아이유가 '쇼! 음악중심' 1위 트로피를 품에 안았다.&nbsp; 20일 오후 방송된 MBC '쇼! 음악중심'(이하 '음중')에서는 지난달 19일 발매된 새 디지털 싱글앨범 'strawberry moon'으로 1위를 차지하는 아이유의 모습이 그려졌다.&nbsp; 비록 이날 아이유는 '음중'에 출연하지는 않았지만, 시청자들은 아이유의 1위 소식을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스우파' 제트썬 "강압적 행동 한 적 없어"..갑질의혹 정면 반박]]></title>
-        <id>https://entertain.v.daum.net/v/20211120163703039</id>
-        <link href="https://entertain.v.daum.net/v/20211120163703039"/>
-        <updated>2021-11-20T08:24:30.498Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 공미나 기자] /사진=제트썬 인스타그램'스트릿 우먼 파이터'로 이름을 알린 댄스크루 코카N버터 멤버 제트썬(31, 김지선)이 제자 A씨에게 갑질을 했다는 의혹에 대해 정면 반박했다. 제트썬은 20일 자신의 인스타그램에 "저에 대한 글을 접한 후부터 지금까지 많은 생각을 했습니다"며 최근 불거진 갑질 의혹에 대한 해명글을 남겼다. 먼저 제트썬은]]></content>
     </entry>
 </feed>
