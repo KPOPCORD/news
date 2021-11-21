@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-21T20:21:30.890Z</updated>
+    <updated>2021-11-21T21:19:59.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“불륜은 자기가 해놓고” 크리스틴 스튜어트, “나와 로버트 패틴슨은 어리석었다”[해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003557413</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003557413"/>
+        <updated>2021-11-21T21:19:58.957Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]최근 연상의 동성 연인과 약혼한 할리우드 스타 크리스틴 스튜어트(31)가 ‘트와일라잇’ 시절 사귀었던 로버트 패틴슨(35)을 오랜만에 소환했다. 영국 다이애나 왕세자비의 생애를 조명한 ‘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['25세 차이' 마이클 더글라스♥︎캐서린 제타존스, 재결합→결혼 21주년 자축[Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004514976</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000832895</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000832895"/>
         <updated>2021-11-20T15:21:35.354Z</updated>
-        <content type="html"><![CDATA[가수 보아가 20일 오후 온라인으로 진행된 2021 K-뮤직 위크 콘서트에서 노래하고 있다. 사진=한국콘텐츠진흥원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보아 '여전히 빛나는 아시아의 별' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000832894</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000832894"/>
-        <updated>2021-11-20T15:21:35.355Z</updated>
         <content type="html"><![CDATA[가수 보아가 20일 오후 온라인으로 진행된 2021 K-뮤직 위크 콘서트에서 노래하고 있다. 사진=한국콘텐츠진흥원]]></content>
     </entry>
 </feed>

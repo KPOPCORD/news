@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-21T20:21:30.907Z</updated>
+    <updated>2021-11-21T21:19:59.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안방극장서도 여심 접수 완료 '연기돌']]></title>
+        <id>https://entertain.v.daum.net/v/20211122060009143</id>
+        <link href="https://entertain.v.daum.net/v/20211122060009143"/>
+        <updated>2021-11-21T21:19:29.144Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 무대 위에서 안방극장으로, 여심을 훔치러 ‘남돌’들이 나섰다. 연기에 처음 도전하는 아이돌부터 농익은 연기력을 뽐내는 아이돌까지, 시청자를 즐겁게 하는 ‘연기돌’들의 대결에 시선이 모아진다.다양한 매력의 판타지 로맨스 사극이 줄이어 등장하면서, 첫 사극으로 ‘로맨스킹’ 타이틀에 도전하는 연기돌들이 선의의 경쟁을 펼치고 있다. 지난달 11일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단, 오늘 콜드플레이와 'AMA' 합동무대..첫 대상 거머쥘까]]></title>
+        <id>https://entertain.v.daum.net/v/20211122053711987</id>
+        <link href="https://entertain.v.daum.net/v/20211122053711987"/>
+        <updated>2021-11-21T21:19:29.156Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 방탄소년단(RM, 진, 슈가, 제이홉, 지민, 뷔, 정국)이 대중음악 시상식 '2021 아메리칸 뮤직 어워드'(2021 American Music Awards, 이하 AMA)에 출연한다. 11월 22일 오전 10시(이하 한국시간) 미국 로스앤젤레스 마이크로소프트 시어터에서 'AMA'가 개최된다. 올해 'AMA'는 미국 TV 채]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤수현 '손님 온다', 550만 자영업자들이 가장 좋아하는 '희망송']]></title>
         <id>https://entertain.v.daum.net/v/20211122000018379</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211121162400723"/>
         <updated>2021-11-21T08:25:15.311Z</updated>
         <content type="html"><![CDATA[[동아닷컴]    보이그룹 INI가 제63회 일본 레코드 대상 신인상 수상을 확정했다. 일본 레코드 대상은 일본 작곡가 협회가 주관하고 각 신문사 기자단의 투표로 선정, 매년 12월 30일 TBS를 통해 전국 생방송되는 시상식. 1959년에 시작해 올해 63회까지 이어진 오랜 전통과 권위를 지닌 시상식이다. INI는 이번 제63회 일본 레코드 대상에서 신]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["경쟁은 끝" '스우파' 8크루, 콜라보부터 배틀까지..열정의 180분]]></title>
-        <id>https://entertain.v.daum.net/v/20211121160256343</id>
-        <link href="https://entertain.v.daum.net/v/20211121160256343"/>
-        <updated>2021-11-21T07:20:43.675Z</updated>
-        <content type="html"><![CDATA[[OSEN=지민경 기자] ‘스트릿 우먼 파이터’ 8 크루가 180분 동안 눈을 뗄 수 없는 화려한 퍼포먼스로 열정을 불태웠다. 21일 오후 서울 잠실학생체육관에서는 '스트릿 우먼 파이터 ON THE STAGE’가 열렸다. '스트릿 우먼 파이터 ON THE STAGE’는 K-댄스 신드롬을 일으킨 Mnet ‘스트릿 우먼 파이터(이하 스우파)’ 여덟 크루 코카N]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤하·임형주·정동원·위키미키·몬스타엑스·딘딘·하성운]]></title>
-        <id>https://entertain.v.daum.net/v/20211121160206320</id>
-        <link href="https://entertain.v.daum.net/v/20211121160206320"/>
-        <updated>2021-11-21T07:20:43.676Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 가요팀] 11월 셋째주(11월 15일~21일)에는 가수 윤하, 임형주, 정동원, 딘딘, 하성운 등 솔로 아티스트들의 컴백이 줄을 이었다. 이와 함께 올해 데뷔 4주년을 맞이한 위키미키와 셔누 없이 5인 체제로 변신한 몬스타엑스가 새 앨범을 들고 팬들 곁으로 돌아왔다. ◆ 윤하 - '엔드 띠어리(END THEORY)' (발매일 11월 16일)]]></content>
     </entry>
 </feed>
