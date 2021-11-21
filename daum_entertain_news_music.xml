@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-21T05:19:56.152Z</updated>
+    <updated>2021-11-21T06:25:17.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['슈스케'→위너..강승윤, 10년 음악 여정 되짚는 솔로콘 오늘 개최]]></title>
+        <id>https://entertain.v.daum.net/v/20211121143107663</id>
+        <link href="https://entertain.v.daum.net/v/20211121143107663"/>
+        <updated>2021-11-21T06:24:40.641Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 박윤진 기자] 그룹 위너 강승윤이 데뷔 첫 솔로 콘서트 'YG PALM STAGE – 2021 YOON: PASSAGE'를 21일 개최하고 팬들과 만난다. 강승윤의 이번 솔로 콘서트는 첫 정규앨범 'PAGE'의 짙은 감동을 잇는 '구절'이자 팬과 자신의 마음을 연결시켜줄 '통로', 그리고 지난 10년을 되짚고 또 다른 음악 여정을 향해 나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅 '별빛 같은 나의 사랑아' MV 유튜브 TOP 100 차트 2위 등극]]></title>
         <id>https://entertain.v.daum.net/v/20211121130732403</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211121091413616"/>
         <updated>2021-11-21T01:07:00.028Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 보이그룹 몬스타엑스(MONSTA X)가 신보 재킷 촬영 현장을 공개했다. 몬스타엑스는 11월 20일 공식 유튜브와 네이버 V LIVE 채널을 통해 미니앨범 ‘No Limit(노 리밋)’ 재킷 촬영 현장 메이킹 영상을 게재했다. 영상 우측 하단에는 ‘광고 건너뛰기’라는 자막과 민혁이 함께 등장했다. 민혁은 “광고 맞는데 건너뛰지 말고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[INI, 제 63회 일본 레코드 대상 신인상 수상 쾌거]]></title>
-        <id>https://entertain.v.daum.net/v/20211121091245593</id>
-        <link href="https://entertain.v.daum.net/v/20211121091245593"/>
-        <updated>2021-11-21T01:07:00.029Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 일본 현지에서 데뷔와 동시에 신드롬급 인기를 이어가고 있는 글로벌 보이그룹 INI가 제 63회 일본 레코드 대상 신인상 수상을 확정했다. 일본 레코드 대상은 일본 작곡가 협회가 주관하고 각 신문사 기자단의 투표로 선정, 매년 12월 30일 TBS를 통해 전국 생방송되는 시상식. 1959년에 시작해 올해 63회까지 이어진 오랜 전통과]]></content>
     </entry>
 </feed>

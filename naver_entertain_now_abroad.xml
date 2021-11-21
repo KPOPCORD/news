@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-21T05:19:56.153Z</updated>
+    <updated>2021-11-21T06:25:17.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스칼릿 조핸슨, 子출산 3개월만에 붓기 완벽제거..♥︎남편과 레드카펫[Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004514848</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004514848"/>
+        <updated>2021-11-21T06:25:16.299Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 할리우드 배우 스칼릿 조핸슨이 레드카펫으로 돌아왔다. 조핸슨은 지난 18일(현지시간) 미국 캘리포니아주 베벌리힐스에서 열린 제 35회 미국 시네마테크 시상식에 남편인 'SNL' 작가 겸 배우]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[메간디스탈리온 “개인사정 탓 방탄소년단과 합동무대 무산, 너무 슬퍼”]]></title>
         <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000513777</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000513535"/>
         <updated>2021-11-20T03:21:53.053Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 할리우드 배우 톰 홀랜드(Tom Holland)가 남편, 아빠, 목수로서의 미래를 상상했다. 톰 홀랜드는 최근 영화 잡지 토탈 필름과 인터뷰를 통해 미래에 대한 솔직한 이야기를 전했다. 톰 홀]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“13살 연상연하” 킴 카다시안♥ '플레이보이' 피트 데이비슨, “조심스럽게 연애하겠다”[해외이슈]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003557144</id>
-        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003557144"/>
-        <updated>2021-11-20T02:37:53.351Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]카니예 웨스트와 이혼한 킴 카다시안(41)과 코미디언 피트 데이비슨(28)이 공식 연애를 시작한 가운데 이들의 행보에 관심을 쏠리고 있다. 연예매체 페이지식스는 19일(현지시간) “이들은]]></content>
     </entry>
 </feed>
