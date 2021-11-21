@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-21T04:28:11.020Z</updated>
+    <updated>2021-11-21T05:19:56.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스우파' 8크루, ‘헤이 마마’로 콘서트 포문..효진초이 발목 부상 투혼 (‘스우파 ON THE STAGE’)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004514808</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004514808"/>
+        <updated>2021-11-21T05:19:42.419Z</updated>
+        <content type="html"><![CDATA[[OSEN=지민경 기자] ‘스트릿 우먼 파이터’ 전국투어 서울 콘서트가 뜨거운 반응 속 막을 올렸다. 21일 오후 서울 잠실학생체육관에서는 '스트릿 우먼 파이터 ON THE STAGE’가 열렸다. 이번 공연은 K-댄]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임영웅, ‘별나사’, 유튜브 뮤직 주간 인기 뮤비 차트 TOP2 등극…남성 솔로 원탑]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001376133</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001376133"/>
+        <updated>2021-11-21T05:19:42.420Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 임영웅의 ‘별빛 같은 나의 사랑아’(별나사)가 한국 유튜브 주간 인기 뮤직비디오 차트에서 남성 솔로 1위를 차지했다. 11월 12일 ~ 11월 18일 유튜브 뮤직 차트에 따르면, 임영웅의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단, 메건 디 스탤리온과 'AMA' 합동 무대 불발…"예기치 못한 이유"]]></title>
         <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000329787</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000832930"/>
         <updated>2021-11-21T02:36:23.164Z</updated>
         <content type="html"><![CDATA[가수 신승태의 신곡 ‘낯선이’ 뮤직비디오가 공개됐다. 신승태는 지난 20일 원더케이 공식 유튜브 채널을 통해 새 디지털 싱글 ‘낯선이’의 뮤직비디오를 공개했다. 이번 뮤직비디오는 한 편의 필름 영화를 연상케 하는 영]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["BTS 버터, 완벽한 히트작"…美 버라이어티 올해의 음반]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010844624</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010844624"/>
-        <updated>2021-11-21T02:36:23.166Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스] 최지윤 기자 = 그룹 '방탄소년단'(BTS)의 '버터'가 2021년 최고 음반으로 선정됐다. 19일(현지시간) 미국 연예매체 버라이어티가 발표한 '2021 히트메이커'에 방탄소년단은 올해의 음반 부문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이브(IVE) 원영, 프로모션 필름 마지막 주자 출격 “내 이름은 영원히 빛나라는 뜻”]]></title>
-        <id>https://entertain.naver.com/now/read?oid=408&amp;aid=0000139087</id>
-        <link href="https://entertain.naver.com/now/read?oid=408&amp;aid=0000139087"/>
-        <updated>2021-11-21T02:36:23.168Z</updated>
-        <content type="html"><![CDATA[6인조 신예 아이브(IVE) 원영이 ‘SHOW WHAT I HAVE’ 테마 필름 마지막 주자로 나섰다. 지난 20일 오후 아이브 공식 SNS 채널을 통해 원영의 ‘SHOW WHAT I HAVE(쇼 왓 아이 해브)’]]></content>
     </entry>
 </feed>
