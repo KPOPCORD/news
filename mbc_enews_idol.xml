@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Nov 2021 09:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Nov 2021 10:23:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정수정, 영화 데뷔작 ‘애비규환’으로 황금촬영상 인기상 수상!]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/331119</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/331119</guid>
+            <pubDate>Sun, 21 Nov 2021 10:22:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331119">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/21/54e83dda-3455-4a26-b372-aea23256a3ea.jpg" alt="정수정, 영화 데뷔작 ‘애비규환’으로 황금촬영상 인기상 수상!">        <div class="text-box">            <p class="summary">정수정, 영화 데뷔작 ‘애비규환’으로 황금촬영상 인기상 수상!</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/21/54e83dda-3455-4a26-b372-aea23256a3ea.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[몬스타엑스, ‘노 리밋’ 재킷 메이킹 공개 "'러쉬 아워'로 새 시대 열 것"]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/331105</link>
@@ -86,14 +94,6 @@
             <pubDate>Sat, 20 Nov 2021 02:37:12 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331038">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/20/Li8Y8BUKMxFv637730014921163001.jpg" alt="브레이브걸스 유나, 팬들 설레게 하는 상큼 비주얼 [인스타] ">        <div class="text-box">            <p class="summary">브레이브걸스 유나, 팬들 설레게 하는 상큼 비주얼 [인스타] </p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/20/Li8Y8BUKMxFv637730014921163001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘방과후 설렘’ 오는 25일 제작발표회 개최… 옥주현-권유리-아이키-소연 참석]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/331041</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/331041</guid>
-            <pubDate>Sat, 20 Nov 2021 02:37:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331041">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/20/jd7o1eaK0ypj637730025346185789.jpg" alt="‘방과후 설렘’ 오는 25일 제작발표회 개최… 옥주현-권유리-아이키-소연 참석">        <div class="text-box">            <p class="summary">‘방과후 설렘’ 오는 25일 제작발표회 개최… 옥주현-권유리-아이키-소연 참석</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/20/jd7o1eaK0ypj637730025346185789.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
