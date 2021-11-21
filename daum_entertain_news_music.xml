@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-21T06:25:17.087Z</updated>
+    <updated>2021-11-21T07:21:16.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["경쟁은 끝" '스우파' 8크루, 콜라보부터 배틀까지..열정의 180분]]></title>
+        <id>https://entertain.v.daum.net/v/20211121160256343</id>
+        <link href="https://entertain.v.daum.net/v/20211121160256343"/>
+        <updated>2021-11-21T07:20:43.675Z</updated>
+        <content type="html"><![CDATA[[OSEN=지민경 기자] ‘스트릿 우먼 파이터’ 8 크루가 180분 동안 눈을 뗄 수 없는 화려한 퍼포먼스로 열정을 불태웠다. 21일 오후 서울 잠실학생체육관에서는 '스트릿 우먼 파이터 ON THE STAGE’가 열렸다. '스트릿 우먼 파이터 ON THE STAGE’는 K-댄스 신드롬을 일으킨 Mnet ‘스트릿 우먼 파이터(이하 스우파)’ 여덟 크루 코카N]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤하·임형주·정동원·위키미키·몬스타엑스·딘딘·하성운]]></title>
+        <id>https://entertain.v.daum.net/v/20211121160206320</id>
+        <link href="https://entertain.v.daum.net/v/20211121160206320"/>
+        <updated>2021-11-21T07:20:43.676Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 가요팀] 11월 셋째주(11월 15일~21일)에는 가수 윤하, 임형주, 정동원, 딘딘, 하성운 등 솔로 아티스트들의 컴백이 줄을 이었다. 이와 함께 올해 데뷔 4주년을 맞이한 위키미키와 셔누 없이 5인 체제로 변신한 몬스타엑스가 새 앨범을 들고 팬들 곁으로 돌아왔다. ◆ 윤하 - '엔드 띠어리(END THEORY)' (발매일 11월 16일)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['슈스케'→위너..강승윤, 10년 음악 여정 되짚는 솔로콘 오늘 개최]]></title>
         <id>https://entertain.v.daum.net/v/20211121143107663</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211121092408759"/>
         <updated>2021-11-21T01:07:00.026Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 일본 현지에서 데뷔와 동시에 신드롬급 인기를 이어가고 있는 글로벌 보이그룹 INI가 제 63회 일본 레코드 대상 신인상 수상을 확정했다. 일본 레코드 대상은 일본 작곡가 협회가 주관하고 각 신문사 기자단의 투표로 선정, 매년 12월 30일 TBS를 통해 전국 생방송되는 시상식. 1959년에 시작해 올해 63회까지 이어진 오랜 전통과 권위를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JYP, 6인조 밴드 엑스디너리 히어로즈 발표..데뷔 프로젝트 가동]]></title>
-        <id>https://entertain.v.daum.net/v/20211121092007697</id>
-        <link href="https://entertain.v.daum.net/v/20211121092007697"/>
-        <updated>2021-11-21T01:07:00.027Z</updated>
-        <content type="html"><![CDATA[[OSEN=지민경 기자]&nbsp;JYP엔터테인먼트(이하 JYP)의 신인 그룹 Xdinary Heroes(엑스디너리 히어로즈)가 6인조 밴드임을 발표하고 특별한 등장을 예고했다. JYP는 지난달 신인 데뷔 프로젝트를 예고한 이래 그룹명 'Xdinary Heroes'를 발표했고 주연을 시작으로 오드(O.de), 가온, 준한(Jun Han), 정수, 건일까지 각자의 스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몬스타엑스 '노 리밋' 재킷 메이킹 공개 "'러쉬 아워'로 새 시대 열 것"]]></title>
-        <id>https://entertain.v.daum.net/v/20211121091413616</id>
-        <link href="https://entertain.v.daum.net/v/20211121091413616"/>
-        <updated>2021-11-21T01:07:00.028Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 보이그룹 몬스타엑스(MONSTA X)가 신보 재킷 촬영 현장을 공개했다. 몬스타엑스는 11월 20일 공식 유튜브와 네이버 V LIVE 채널을 통해 미니앨범 ‘No Limit(노 리밋)’ 재킷 촬영 현장 메이킹 영상을 게재했다. 영상 우측 하단에는 ‘광고 건너뛰기’라는 자막과 민혁이 함께 등장했다. 민혁은 “광고 맞는데 건너뛰지 말고]]></content>
     </entry>
 </feed>
