@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-21T12:32:20.964Z</updated>
+    <updated>2021-11-21T13:25:24.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[흥X8크루 '스우파' 콘서트..180분 불태운 '언니들 무대']]></title>
+        <id>https://entertain.v.daum.net/v/20211121215301562</id>
+        <link href="https://entertain.v.daum.net/v/20211121215301562"/>
+        <updated>2021-11-21T13:24:53.526Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 한해선 기자] /사진=엠넷 '스트릿 우먼 파이터' 주역들이 국내 콘서트 사상 최초로 가수가 아닌 댄서 주연의 무대로 전율을 선사했다. 21일 오후 서울 잠실학생체육관에서 엠넷 '스트릿 우먼 파이터' 콘서트 '스트릿 우먼 파이터 ON THE STAGE'가 열렸다. 여덟 댄스 크루 YGX, 라치카, 원트, 웨이비, 코카N버터, 프라우드먼, 홀리뱅,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스우파 콘서트' 프라우드먼 모니카, 소녀시대 'Gee' 깜찍 변신]]></title>
         <id>https://entertain.v.daum.net/v/20211121200026509</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211121130732403"/>
         <updated>2021-11-21T04:27:35.128Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 가수 임영웅의 '별빛 같은 나의 사랑아' 뮤직비디오가 유튜브 인기 뮤직비디오 최상위권에 올라 뜨거운 인기를 실감케 했다. 임영웅이 지난 3월 9일 공개한 '별빛 같은 나의 사랑아' 뮤직비디오는 11월 2주(11월 12일~11월 18일) 한국 유튜브 인기 뮤직비디오 톱 100 차트 2위에 올랐다. '별빛 같은 나의 사랑아' 뮤직비디오]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블락비 유권, 오늘 미복귀 전역.."기다려준 팬들 감사"]]></title>
-        <id>https://entertain.v.daum.net/v/20211121130705398</id>
-        <link href="https://entertain.v.daum.net/v/20211121130705398"/>
-        <updated>2021-11-21T04:27:35.131Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 최희재 기자) 블락비(Block B) 유권이 오늘(21일) 군 복무를 마치고 전역한다. 유권은 21일 블락비 공식 SNS를 통해 전역 소식을 전했다. 사진 속 유권은 군복을 입고 늠름한 자세로 경례를 하고 있어 눈길을 끈다. 유권은 지난해 5월 블락비 공식 팬카페에 자필 편지를 업로드 하며, 2020년 5월 18일 논산훈련소를 통해 육군 현]]></content>
     </entry>
 </feed>
