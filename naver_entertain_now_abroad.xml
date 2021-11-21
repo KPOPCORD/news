@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-20T23:21:02.323Z</updated>
+    <updated>2021-11-21T01:07:31.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['SNL'만 나오면 사귀고 결혼하네..미녀배우들 ♥︎근원지[Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004514728</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004514728"/>
+        <updated>2021-11-21T01:07:30.557Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 이쯤되면 미국 NBC의 간판 코미디 프로그램 'SNL(Saturday Night Live)'은 사랑의 근원지다. 최근 몇 년간 유명 여자 연예인들이 잇따라 'SNL'에 출연하며 핑크빛 소식을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“크리스티나 아길레라 침묵은 거짓말이야” 브리트니 스피어스, 친구 공개 저격[해외이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003557273</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=417&amp;aid=0000756350"/>
         <updated>2021-11-19T11:19:37.869Z</updated>
         <content type="html"><![CDATA[가수 존 레전드와 배우 크리시 티건 부부가 자택에서 '오징어게임' 테마로 파티를 벌여 비판받고 있다. 뉴욕포스트는 지난 16일(현지시각) "두 사람이 전세계 신드롬을 일으킨 넷플릭스 '오징어 게임'을 주제로 유명 파]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[킴 카다시안, 'SNL' 피터 데이비슨과 열애 "전 남편 카니예 여전히 존경" [Oh!llywood]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004513999</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004513999"/>
-        <updated>2021-11-19T07:20:46.509Z</updated>
-        <content type="html"><![CDATA[[OSEN=연휘선 기자] 할리우드 스타 킴 카다시안이 래퍼 카니예 웨스트와 이혼 후 코미디언 피터 데이비슨과 열애 중이다. 18일(현지시간) 미국 연예 매체 페이지식스는 킴 카다시안이 피터 데이비슨과 열애를 시작했다]]></content>
     </entry>
 </feed>
