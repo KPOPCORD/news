@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-21T02:36:37.484Z</updated>
+    <updated>2021-11-21T03:23:01.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[메간디스탈리온 “개인사정 탓 방탄소년단과 합동무대 무산, 너무 슬퍼”]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000513777</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000513777"/>
+        <updated>2021-11-21T03:23:01.235Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 미국 가수 메간 디 스탈리온(Megan Thee Stallion)이 그룹 방탄소년단(RM, 진, 슈가, 제이홉, 지민, 뷔, 정국)과의 합동 무대 무산 소식을 전했다. 메간 디 스탈리온은 11]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[브리트니 스피어스, 크리스티나 아길레라 저격 “진실 알면서 입닫아”]]></title>
         <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000513765</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003557144"/>
         <updated>2021-11-20T02:37:53.351Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]카니예 웨스트와 이혼한 킴 카다시안(41)과 코미디언 피트 데이비슨(28)이 공식 연애를 시작한 가운데 이들의 행보에 관심을 쏠리고 있다. 연예매체 페이지식스는 19일(현지시간) “이들은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앤드류 가필드 "'스파이더맨: 노 웨이 홈' 출연? 개봉하면 알게 될 것" [엑's 할리우드]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001375814</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001375814"/>
-        <updated>2021-11-19T20:22:20.336Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 앤드류 가필드가 '스파이더맨'과 '조커'에 관련한 이야기를 전했다. 19일(현지시간) GQ 유튜브 채널에는 '앤드류 가필드가 네티즌들의 질문에 답하다'라는 제목의 영상이 게재됐다. 공개된]]></content>
     </entry>
 </feed>
