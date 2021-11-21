@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-21T01:07:31.288Z</updated>
+    <updated>2021-11-21T02:36:37.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA['SNL'만 나오면 사귀고 결혼하네..미녀배우들 ♥︎근원지[Oh!llywood]]]></title>
+        <title type="html"><![CDATA[브리트니 스피어스, 크리스티나 아길레라 저격 “진실 알면서 입닫아”]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000513765</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000513765"/>
+        <updated>2021-11-21T02:36:36.872Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 가수 브리트니 스피어스(Britney Spears)가 자신을 위해 나서지 않은 가수 크리스티나 아길레라(Christina Aguilera)를 공개 저격했다. 11월 19일(현지시간) 미국 매체]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미녀스타들 'SNL'만 나오면 ♥︎사귀고 결혼하네..뭐가 있길래[Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004514728</id>
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004514728"/>
         <updated>2021-11-21T01:07:30.557Z</updated>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001375814"/>
         <updated>2021-11-19T20:22:20.336Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 앤드류 가필드가 '스파이더맨'과 '조커'에 관련한 이야기를 전했다. 19일(현지시간) GQ 유튜브 채널에는 '앤드류 가필드가 네티즌들의 질문에 답하다'라는 제목의 영상이 게재됐다. 공개된]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[집에서 '오징어게임' 파티한 톱스타 부부… 비난 받는 이유]]></title>
-        <id>https://entertain.naver.com/now/read?oid=417&amp;aid=0000756350</id>
-        <link href="https://entertain.naver.com/now/read?oid=417&amp;aid=0000756350"/>
-        <updated>2021-11-19T11:19:37.869Z</updated>
-        <content type="html"><![CDATA[가수 존 레전드와 배우 크리시 티건 부부가 자택에서 '오징어게임' 테마로 파티를 벌여 비판받고 있다. 뉴욕포스트는 지난 16일(현지시각) "두 사람이 전세계 신드롬을 일으킨 넷플릭스 '오징어 게임'을 주제로 유명 파]]></content>
     </entry>
 </feed>
