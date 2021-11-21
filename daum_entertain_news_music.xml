@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-21T10:23:03.789Z</updated>
+    <updated>2021-11-21T11:18:45.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스우파 콘서트' 프라우드먼 모니카, 소녀시대 'Gee' 깜찍 변신]]></title>
+        <id>https://entertain.v.daum.net/v/20211121200026509</id>
+        <link href="https://entertain.v.daum.net/v/20211121200026509"/>
+        <updated>2021-11-21T11:18:16.538Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 한해선 기자] /사진=엠넷 댄스 크루 프라우드먼이 그룹 소녀시대로 변신했다. 21일 오후 서울 잠실학생체육관에서 엠넷 '스트릿 우먼 파이터'(이하 '스우파') 콘서트 '스우파 ON THE STAGE'가 열렸다. 여덟 댄스 크루 YGX, 라치카, 원트, 웨이비, 코카N버터, 프라우드먼, 홀리뱅, 훅이 2시간 동안 무대를 꾸몄다. 이날 프라우드먼]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['제자 갑질 의혹' 제트썬, 경직된 표정..'스우파' 콘서트 등장]]></title>
+        <id>https://entertain.v.daum.net/v/20211121194250323</id>
+        <link href="https://entertain.v.daum.net/v/20211121194250323"/>
+        <updated>2021-11-21T11:18:16.538Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 한해선 기자] /사진=엠넷 댄스 크루 코카N버터 멤버 제트썬이 '제자 갑질' 의혹 속 '스우파' 콘서트 무대에 예정대로 올랐다. 제트썬은 21일 오후 서울 잠실학생체육관에서 진행된 엠넷 '스트릿 우먼 파이터'(이하 '스우파') 콘서트 '스우파 ON THE STAGE' 공연에 참석했다. 이날 '스우파'에 출연한 여덟 댄스 크루 YGX, 라치카,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스우파' 언니들의 싸움?.."겁날 것 없다" 화합의 춤 대결]]></title>
         <id>https://entertain.v.daum.net/v/20211121185002783</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211121130705398"/>
         <updated>2021-11-21T04:27:35.131Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 최희재 기자) 블락비(Block B) 유권이 오늘(21일) 군 복무를 마치고 전역한다. 유권은 21일 블락비 공식 SNS를 통해 전역 소식을 전했다. 사진 속 유권은 군복을 입고 늠름한 자세로 경례를 하고 있어 눈길을 끈다. 유권은 지난해 5월 블락비 공식 팬카페에 자필 편지를 업로드 하며, 2020년 5월 18일 논산훈련소를 통해 육군 현]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ENHYPEN, 두 번째 팬미팅 성공적 개최 "엔진 덕에 원동력 얻어"]]></title>
-        <id>https://entertain.v.daum.net/v/20211121130154349</id>
-        <link href="https://entertain.v.daum.net/v/20211121130154349"/>
-        <updated>2021-11-21T04:27:35.133Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 보이그룹 ENHYPEN(엔하이픈)이 전 세계 엔진(ENGENE)과 함께한 두 번째 팬미팅 ‘EN-CONNECT : COMPANION’을 성공적으로 마무리했다. ENHYPEN(정원, 희승, 제이, 제이크, 성훈, 선우, 니키)은 11월 19일 KBS 아레나에서 두 번째 팬미팅 ‘2021 ENHYPEN [EN-CONNECT : COMP]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이유는 사랑인것같아..11월에 듣는 '러브 포엠']]></title>
-        <id>https://entertain.v.daum.net/v/20211121121003721</id>
-        <link href="https://entertain.v.daum.net/v/20211121121003721"/>
-        <updated>2021-11-21T03:22:32.183Z</updated>
-        <content type="html"><![CDATA[[진진봐라]는 진짜 진짜 꼭 (들어) 봤으면 좋겠는 세상의 모든 것을 추천하는 ‘개인의 취향’ 100% 반영 코너입니다. 핫한 가수들의 앨범 혹은 숨겨진 명곡, 추억의 노래부터 국내외 드라마, 예능, 웹 콘텐츠 등 한때 누군가의 마음 한 편을 두드린 선물 같은 콘텐츠가 지닌 특별한 ‘무언가’를 따라가 봅니다. &lt;편집자주&gt; (엑스포츠뉴스 조혜진 기자) 차곡차]]></content>
     </entry>
 </feed>
