@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-21T14:20:09.167Z</updated>
+    <updated>2021-11-21T15:22:42.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤수현 '손님 온다', 550만 자영업자들이 가장 좋아하는 '희망송']]></title>
+        <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000117253</id>
+        <link href="https://entertain.naver.com/now/read?oid=629&amp;aid=0000117253"/>
+        <updated>2021-11-21T15:22:27.435Z</updated>
+        <content type="html"><![CDATA[성인 가요차트 '차트 코리아' 20주 연속 1위 독주 코로나19 이후 550만 자영업자들이 가장 좋아하는 노래는 뭘까? 가수 윤수현의 '손님 온다'가 자영업자들의 희망송으로 자리매김했다. 윤수현의 '손님 온다'는 차]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[흥X8크루 '스우파' 콘서트..180분 불태운 '언니들 무대'[종합]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003006581</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004514940"/>
         <updated>2021-11-21T08:25:35.349Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] 신인 걸그룹 아이칠린(ICHILLIN')이 독보적인 비주얼과 강렬한 퍼포먼스로 무대를 장악했다. 아이칠린(이지, 재키, 주니, 채린, 소희, 예주, 초원)은 21일 오후 방송된 SBS '인기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘인기가요’ 빌리, 신인답지 않은 완벽 무대 ‘RING X RING’]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000513801</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000513801"/>
-        <updated>2021-11-21T08:25:35.349Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 대세 신인으로 떠오르고 있는 미스틱스토리의 첫 아이돌 그룹 빌리(Billlie)가 완성형 걸그룹 면모로 K-pop 팬들의 마음을 올킬했다. 빌리(시윤·츠키·수현·하람·문수아·하루나)는 11월]]></content>
     </entry>
 </feed>
