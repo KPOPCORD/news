@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-21T19:17:13.900Z</updated>
+    <updated>2021-11-21T20:21:30.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[리뷰]'스트릿 우먼 파이터', '직관' 오프라인서도 이어진 연대]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010845446</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010845446"/>
+        <updated>2021-11-21T20:21:17.153Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 회당 2000명 총 6000명 현장서 즐겨 관객들, 함성 대신 박수 철저히 지켜 21일 오후 7시 티빙 온라인 중계 병행도 호응 [서울=뉴시스]이재훈 기자 = 2000여 관객이 모두 양 팔을 들고 손목]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤수현 '손님 온다', 550만 자영업자들이 가장 좋아하는 '희망송']]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000117253</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004514945"/>
         <updated>2021-11-21T08:25:35.349Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] 빌리(Billlie)가 완성형 걸그룹 면모로 K-pop 팬들의 마음을 올킬했다. 빌리(시윤·츠키·수현·하람·문수아·하루나)는 21일 오후 방송된 SBS ‘인기가요’에 출연해 첫 번째 미니앨범]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이칠린, 독보적 비주얼+강렬 퍼포먼스('인기가요')]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004514940</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004514940"/>
-        <updated>2021-11-21T08:25:35.349Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 신인 걸그룹 아이칠린(ICHILLIN')이 독보적인 비주얼과 강렬한 퍼포먼스로 무대를 장악했다. 아이칠린(이지, 재키, 주니, 채린, 소희, 예주, 초원)은 21일 오후 방송된 SBS '인기]]></content>
     </entry>
 </feed>
