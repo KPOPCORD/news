@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-21T13:25:24.138Z</updated>
+    <updated>2021-11-21T14:20:09.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임영웅, 첫 단독쇼 '위 아 히어로 임영웅' 관심 집중]]></title>
+        <id>https://entertain.v.daum.net/v/20211121230401093</id>
+        <link href="https://entertain.v.daum.net/v/20211121230401093"/>
+        <updated>2021-11-21T14:19:41.259Z</updated>
+        <content type="html"><![CDATA[[파이낸셜뉴스]        KBS '위 아 히어로 임영웅' 소개 티저 영상 캡처 © 뉴스1 /사진=뉴스1 가수 임영웅의 첫 단독쇼 '위 아 히어로 임영웅'(We're HERO 임영웅)에 대한 기대감이 커지고 있다. 오늘 21일 KBS 홈페이지를 보면 오는 12월10일 오후 6시30분 고양 킨텍스에서 개최되는 '위 아 히어로 임영웅' 소개 티저]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[흥X8크루 '스우파' 콘서트..180분 불태운 '언니들 무대']]></title>
         <id>https://entertain.v.daum.net/v/20211121215301562</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211121143107663"/>
         <updated>2021-11-21T06:24:40.641Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 박윤진 기자] 그룹 위너 강승윤이 데뷔 첫 솔로 콘서트 'YG PALM STAGE – 2021 YOON: PASSAGE'를 21일 개최하고 팬들과 만난다. 강승윤의 이번 솔로 콘서트는 첫 정규앨범 'PAGE'의 짙은 감동을 잇는 '구절'이자 팬과 자신의 마음을 연결시켜줄 '통로', 그리고 지난 10년을 되짚고 또 다른 음악 여정을 향해 나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임영웅 '별빛 같은 나의 사랑아' MV 유튜브 TOP 100 차트 2위 등극]]></title>
-        <id>https://entertain.v.daum.net/v/20211121130732403</id>
-        <link href="https://entertain.v.daum.net/v/20211121130732403"/>
-        <updated>2021-11-21T04:27:35.128Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 가수 임영웅의 '별빛 같은 나의 사랑아' 뮤직비디오가 유튜브 인기 뮤직비디오 최상위권에 올라 뜨거운 인기를 실감케 했다. 임영웅이 지난 3월 9일 공개한 '별빛 같은 나의 사랑아' 뮤직비디오는 11월 2주(11월 12일~11월 18일) 한국 유튜브 인기 뮤직비디오 톱 100 차트 2위에 올랐다. '별빛 같은 나의 사랑아' 뮤직비디오]]></content>
     </entry>
 </feed>
