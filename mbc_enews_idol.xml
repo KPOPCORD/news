@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 02:36:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 03:23:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["방탄소년단 병역 혜택 마지막 기회"…음콘협, 차별 지적 [공식입장]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/331197</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/331197</guid>
+            <pubDate>Mon, 22 Nov 2021 03:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331197">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/22/a63a8454-c8dc-457f-a96d-2543cea2f0d3.jpg" alt="" 방탄소년단="" 병역="" 혜택="" 마지막="" 기회"…음콘협,="" 차별="" 지적="" [공식입장]"="">        <div class="text-box">            <p class="summary">"방탄소년단 병역 혜택 마지막 기회"…음콘협, 차별 지적 [공식입장]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/22/a63a8454-c8dc-457f-a96d-2543cea2f0d3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단, AMA '페이보릿 팝 듀오 오어 그룹' 수상…"아미 덕분"]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/331186</link>
@@ -86,14 +94,6 @@
             <pubDate>Sun, 21 Nov 2021 02:36:00 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331098">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/21/7q13W8G61ThF637730876531148145.jpg" alt="아이브(IVE) 원영, 프로모션 필름 마지막 주자 출격 “내 이름은 영원히 빛나라는 뜻”">        <div class="text-box">            <p class="summary">아이브(IVE) 원영, 프로모션 필름 마지막 주자 출격 “내 이름은 영원히 빛나라는 뜻”</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/21/7q13W8G61ThF637730876531148145.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오마이걸 아린, 한 줌 개미허리 완벽 몸매 자랑 [인스타]]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/331080</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/331080</guid>
-            <pubDate>Sat, 20 Nov 2021 21:17:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331080">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/21/XXvFen6J8trk637730515101586862.jpg" alt="오마이걸 아린, 한 줌 개미허리 완벽 몸매 자랑 [인스타] ">        <div class="text-box">            <p class="summary">오마이걸 아린, 한 줌 개미허리 완벽 몸매 자랑 [인스타] </p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/21/XXvFen6J8trk637730515101586862.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
