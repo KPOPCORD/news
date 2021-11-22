@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-22T10:24:29.762Z</updated>
+    <updated>2021-11-22T11:19:28.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가야금병창 연구모임 ‘현재’ 창단공연, 서울남산국악당서 27일 개최]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000776206</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000776206"/>
+        <updated>2021-11-22T11:19:14.289Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 향사 박귀희 선생 탄생 100주년을 맞는 뜻깊은 시기에 가야금병창 연구모임 ‘현재’가 27일 오후 3시 심당 안숙선 가야금병창보존회, 예운당 가야금병창 보존회의 후원을 받아 서울남산국악당에서 창단공연을]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SF9, 군대→부상까지 묵직한 '말말말' [종합]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001376685</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001376685"/>
+        <updated>2021-11-22T11:19:14.291Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 그룹 SF9이 이번 컴백과 관련한 다양한 질문에 재치 있고도 묵직한 말들을 쏟아냈다. SF9(영빈 인성 재윤 다원 로운 주호 유태양 휘영 찬희)의 열 번째 미니 앨범 'RUMINATION]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['리어왕' 끝낸 이연희 "앞으로 꾸준히 무대 오르고 싶다"]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003557594</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000776193"/>
         <updated>2021-11-22T09:22:46.786Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 종합 예술 기획사 CULTURE THINK가 음원 유통사를 설립했다. CULTURE THINK(이하 컬쳐띵크)는 22일 공식 보도 자료를 통해 콘텐츠 유통 사업 확대를 위한 음원 유통사 phooey를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] SF9 인성, '여심 저격 윙크~']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004631539</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004631539"/>
-        <updated>2021-11-22T09:22:46.786Z</updated>
-        <content type="html"><![CDATA[그룹 SF9 인성이 22일 오후 서울 광장동 예스24 라이브홀에서 열린 열 번째 미니 앨범 '루미네이션' 발매 기념 쇼케이스에 참석해 공연을 선보이고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] SF9 인성, '가죽재킷 입고 카리스마 무대']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004631538</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004631538"/>
-        <updated>2021-11-22T09:22:46.788Z</updated>
-        <content type="html"><![CDATA[그룹 SF9 인성이 22일 오후 서울 광장동 예스24 라이브홀에서 열린 열 번째 미니 앨범 '루미네이션' 발매 기념 쇼케이스에 참석해 공연을 선보이고 있다.]]></content>
     </entry>
 </feed>
