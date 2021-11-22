@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-22T21:20:47.839Z</updated>
+    <updated>2021-11-22T22:22:56.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대만 여배우, 中 남편 백신 발언에 분노 이혼…뭐랬길래?]]></title>
+        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004673878</id>
+        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004673878"/>
+        <updated>2021-11-22T22:22:55.400Z</updated>
+        <content type="html"><![CDATA[중국과 대만 간의 관계가 악화하면서 중국-대만 잉꼬부부로 불리던 여배우가 이혼을 선언했다. 남편이 자국 백신 실태를 비하했다는 이유다. 지난 22일 자유시보는 대만판 드라마 '꽃보다 남자'의 여주인공을 맡았던 중화권]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['헝거게임' 제니퍼 로렌스, 전용기 엔진고장으로 죽을 뻔 "대머리 안되게 빌었다"[Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004515508</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004515508"/>
+        <updated>2021-11-22T22:22:55.402Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 블록버스터 '헝거게임', '엑스맨' 시리즈 등으로 유명한 할리우드 배우 제니퍼 로렌스가 그가 탔던 전용기가 이중 엔진 고장을 일으켰을 때죽을 것이라 확실했다고 전했다. 로렌스는 베니티 페어의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘호텔 상속녀’의 럭셔리 허니문, 패리스 힐튼♥카터 리움 “가오리와 수영을”[해외이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003557636</id>
@@ -164,20 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000833215</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000833215"/>
         <updated>2021-11-22T14:21:19.721Z</updated>
-        <content type="html"><![CDATA[그룹 스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)가 22일 오후 온라인으로 진행된 2021 K-뮤직 위크 콘서트에서 노래하고 있다. 사진=한국콘텐츠진흥원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스테이씨 '여신 등장' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000833214</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000833214"/>
-        <updated>2021-11-22T14:21:19.722Z</updated>
-        <content type="html"><![CDATA[그룹 스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)가 22일 오후 온라인으로 진행된 2021 K-뮤직 위크 콘서트에서 노래하고 있다. 사진=한국콘텐츠진흥원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스테이씨 '청순 미모' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000833213</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000833213"/>
-        <updated>2021-11-22T14:21:19.723Z</updated>
         <content type="html"><![CDATA[그룹 스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)가 22일 오후 온라인으로 진행된 2021 K-뮤직 위크 콘서트에서 노래하고 있다. 사진=한국콘텐츠진흥원]]></content>
     </entry>
 </feed>
