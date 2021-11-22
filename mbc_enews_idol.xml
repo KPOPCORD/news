@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 03:23:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 04:29:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단, 'AMA' 대상 수상…아시아 가수 최초]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/331198</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/331198</guid>
+            <pubDate>Mon, 22 Nov 2021 04:28:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331198">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/22/2a58e336-c163-4a53-93e1-7fbbb5ca1306.JPG" alt="방탄소년단, 'AMA' 대상 수상…아시아 가수 최초">        <div class="text-box">            <p class="summary">방탄소년단, 'AMA' 대상 수상…아시아 가수 최초</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/22/2a58e336-c163-4a53-93e1-7fbbb5ca1306.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA["방탄소년단 병역 혜택 마지막 기회"…음콘협, 차별 지적 [공식입장]]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/331197</link>
@@ -86,14 +94,6 @@
             <pubDate>Sun, 21 Nov 2021 02:36:00 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331100">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/21/4t5auzyvtlHR637730897290922026.jpg" alt="스트레이 키즈, 'Christmas EveL' 단체 및 유닛 티저 공개...크리스마스 악동 변신!">        <div class="text-box">            <p class="summary">스트레이 키즈, 'Christmas EveL' 단체 및 유닛 티저 공개...크리스마스 악동 변신!</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/21/4t5auzyvtlHR637730897290922026.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이브(IVE) 원영, 프로모션 필름 마지막 주자 출격 “내 이름은 영원히 빛나라는 뜻”]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/331098</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/331098</guid>
-            <pubDate>Sun, 21 Nov 2021 02:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331098">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/21/7q13W8G61ThF637730876531148145.jpg" alt="아이브(IVE) 원영, 프로모션 필름 마지막 주자 출격 “내 이름은 영원히 빛나라는 뜻”">        <div class="text-box">            <p class="summary">아이브(IVE) 원영, 프로모션 필름 마지막 주자 출격 “내 이름은 영원히 빛나라는 뜻”</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/21/7q13W8G61ThF637730876531148145.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
