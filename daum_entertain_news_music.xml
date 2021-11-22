@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-22T09:23:00.186Z</updated>
+    <updated>2021-11-22T10:24:29.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['亞 최초 AMA 대상' 역사 쓴 방탄소년단, 이제 '그래미' 노린다]]></title>
+        <id>https://entertain.v.daum.net/v/20211122185001290</id>
+        <link href="https://entertain.v.daum.net/v/20211122185001290"/>
+        <updated>2021-11-22T10:23:59.775Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 방탄소년단이 새로운 역사를 썼다. 아시아 가수 최초로 '아메리칸 뮤직 어워드(2021 AMA)'의 대상 격인 '아티스트 오브 더 이어'를 수상하는 기쁨을 누린 것. 기세를 몰아 곧 다가올 '그래미 어워드(Grammy Awards)'를 정조준한다. 22일 오전(이하 한국시간) 미국 로스앤젤레스 마이크로소프트 시어터에서 202]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[컬쳐띵크, 음원 유통사 phooey 론칭]]></title>
         <id>https://entertain.v.daum.net/v/20211122181019510</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211122170233263"/>
         <updated>2021-11-22T08:25:56.264Z</updated>
         <content type="html"><![CDATA[[뉴스엔 글 이하나 기자/사진 표명중 기자] SF9 영빈이 군 입대는 아직 결정된 것이 없다고 전했다. 11월 22일 오후 4시 서울 광진구 예스24 라이브홀에서는 SF9의 미니 10집 ‘RUMINATION’(루미네이션) 발매 기념 쇼케이스를 진행 했다. SF9의 미니 10집 ‘RUMINATION’은 SF9의 ‘9lory(글로리)’ 세계관 프리퀄로 ‘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로운→영빈→주호, #군대 #연모 #부상 다 밝혔다]]></title>
-        <id>https://entertain.v.daum.net/v/20211122170158226</id>
-        <link href="https://entertain.v.daum.net/v/20211122170158226"/>
-        <updated>2021-11-22T08:25:56.265Z</updated>
-        <content type="html"><![CDATA[그룹 에스에프나인(SF9) 로운, 영빈, 주호가 팬들의 궁금증을 해소하기 위해 입을 열었다. 22일 오후 서울시 광진구 예스24라이브홀에서 SF9(영빈, 인성, 재윤, 다원, 로운, 주호, 유태양, 휘영, 찬희) 열 번째 미니 앨범 '루미네이션(RUMINATION)' 발매 기념 쇼케이스가 진행됐다. 로운은 최근 KBS 드라마 '연모'에 출연 중이다.]]></content>
     </entry>
 </feed>
