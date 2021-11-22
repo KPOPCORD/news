@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-22T19:19:36.739Z</updated>
+    <updated>2021-11-22T20:24:17.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['K 아이돌' 방탄소년단, 세계 팝 시장 정상에 깃발 꽂다]]></title>
+        <id>https://entertain.v.daum.net/v/20211123051010636</id>
+        <link href="https://entertain.v.daum.net/v/20211123051010636"/>
+        <updated>2021-11-22T20:23:37.968Z</updated>
+        <content type="html"><![CDATA[(사진=빅히트뮤직)[이데일리 스타in 김현식 기자] “한국에서 온 7명의 소년이 오직 음악에 대한 사랑으로 똘똘 뭉쳐 이 자리까지 왔다.” 그룹 방탄소년단(BTS)이 미국 3대 음악시상식 중 하나인 ‘아메리칸뮤직어워드’에서 대상격인 ‘올해의 아티스트’(Artist of the year)를 수상한 뒤 리더 RM은 이 같은 말로 감격을 표현했다. 방탄소년단이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[블랙스완 측 "팀 내부 이슈, 자극적 프레임 없어야"]]></title>
         <id>https://entertain.v.daum.net/v/20211122231801064</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211122173807566"/>
         <updated>2021-11-22T09:22:29.836Z</updated>
         <content type="html"><![CDATA[[티브이데일리 황서연 기자] 정확히 4년 만이다. 아메리칸 뮤직 어워드(American Music Awards, 이하 AMA) 축하공연 무대를 시작으로 미국 방송에 데뷔했던 그룹 방탄소년단(BTS, RM 진 슈가 제이홉 지민 뷔 정국)이 올해 시상식에서는 아시아 가수 최초로 대상을 수상하는 쾌거를 이뤘다. 22일 오전(이하 한국시간) 미국 로스앤젤레스 마이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["더 치명적이게.." SF9, 커리어 하이 정조준]]></title>
-        <id>https://entertain.v.daum.net/v/20211122173010339</id>
-        <link href="https://entertain.v.daum.net/v/20211122173010339"/>
-        <updated>2021-11-22T09:22:29.837Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 그룹 SF9이 한층 더 치명적인 매력으로 돌아왔다.SF9의 미니 10집 ‘루미네이션(RUMINATION)’ 발매 기념 쇼케이스가 22일 서울 광진구 예스24라이브홀에서 진행됐다. 이날 타이틀곡 ‘트라우마’와 수록곡 ‘메모리’의 무대가 공개돼 시선을 사로잡았다. 멤버 주호는 갈비뼈 부상을 입어 ‘트라우마’ 무대 퍼포먼스에는 참여하지 못했다.무]]></content>
     </entry>
 </feed>

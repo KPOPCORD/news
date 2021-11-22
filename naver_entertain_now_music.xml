@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-22T19:19:36.742Z</updated>
+    <updated>2021-11-22T20:24:17.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강남 90평 아파트를 이렇게 사용하다니…김지혜, ♥박준형에 "술 마셨나"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000329969</id>
+        <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000329969"/>
+        <updated>2021-11-22T20:24:02.297Z</updated>
+        <content type="html"><![CDATA[[스포티비뉴스=정유진 기자] 코미디언 김지혜가 남편 박준형을 보고 깜짝 놀랐다. 김지혜는 22일 자신의 인스타그램에 "일하고 왔는데 이러고 자고 있는 남편"이라고 남겼다. 이어 "더운 걸 싫어해서 자주 바닥에서 자지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송유진, '지헤중' OST 참여…'아이 미스 유']]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010847666</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003557588"/>
         <updated>2021-11-22T10:24:16.544Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 오윤주 기자] 걸그룹 빌리가 대세 행보를 이어가고 있다. 빌리는 지난 10일 발매한 첫 번째 미니앨범 '더 빌리지 오브 퍼셉션 : 챕터 원(the Billage of perception : chapt]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] SF9 찬희, '부드러운 카리스마']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004631553</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004631553"/>
-        <updated>2021-11-22T10:24:16.545Z</updated>
-        <content type="html"><![CDATA[그룹 SF9 찬희가 22일 오후 서울 광장동 예스24 라이브홀에서 열린 열 번째 미니 앨범 '루미네이션' 발매 기념 쇼케이스에 참석해 공연을 선보이고 있다.]]></content>
     </entry>
 </feed>
