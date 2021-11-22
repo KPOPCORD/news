@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-22T14:21:20.405Z</updated>
+    <updated>2021-11-22T15:22:46.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['불륜 이후 결별' 크리스틴 스튜어트, 전 남친 언급 "바보 같았다"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004673824</id>
+        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004673824"/>
+        <updated>2021-11-22T15:22:45.532Z</updated>
+        <content type="html"><![CDATA[할리우드 배우 크리스틴 스튜어트가 영화 '트와일라잇'에서 만나 사귀다 자신의 불륜으로 헤어진 전 남자친구인 배우 로버트 패틴슨에 대해 언급했다. 크리스틴 스튜어트는 영국 다이애나 왕세자비의 생애를 조명한 영화 '스펜]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['♥킴 카다시안' 데이비슨, 13살차 극복…20살 연상과도 연애]]></title>
         <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004673820</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000833209"/>
         <updated>2021-11-22T14:21:19.727Z</updated>
         <content type="html"><![CDATA[그룹 스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)가 22일 오후 온라인으로 진행된 2021 K-뮤직 위크 콘서트에서 노래하고 있다. 사진=한국콘텐츠진흥원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['억만장자' 일론 머스크 1세 아들, 아빠 화상회의에 등장해 '옹알이'[Oh!llywood]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004515386</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004515386"/>
-        <updated>2021-11-22T10:24:29.180Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 미국 전기차 업체 테슬라의 최고경영자(CEO) 일론 머스크(50)가 17세 연하인 가수 그라임스와의 사이에서 낳은 1살 아들이 아빠의 줌 프레젠테이션에 등장해 귀여움으로 시선을 상탈했다. 일]]></content>
     </entry>
 </feed>
