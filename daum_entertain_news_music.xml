@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-22T11:19:28.392Z</updated>
+    <updated>2021-11-22T12:36:03.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단, AMA서 美 첫 무대→4년만에 대상까지..그래미에 한 발 더]]></title>
+        <id>https://entertain.v.daum.net/v/20211122212829221</id>
+        <link href="https://entertain.v.daum.net/v/20211122212829221"/>
+        <updated>2021-11-22T12:35:33.631Z</updated>
+        <content type="html"><![CDATA[[OSEN=지민경 기자] 그룹 방탄소년단이 미국 3대 음악 시상식인 '2021 아메리칸 뮤직 어워드’에서 대상 격인 '올해의 아티스트(Artist of the Year)’를 포함해 3관왕을 달성하며 저력을 과시했다. 2017년 같은 자리에서 미국 첫 무대를 선보인지 4년 만에 이뤄낸 쾌거에 전 세계 팬들의 축하가 쏟아지고 있다. 방탄소년단은 21일 오후(현]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["'티아라'는 이미 삶의 일부.. 항상 서로를 그리워 했죠"]]></title>
         <id>https://entertain.v.daum.net/v/20211122200008298</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211122171120640"/>
         <updated>2021-11-22T08:25:56.260Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김한길 기자] 그룹 SF9(에스에프나인)의 주호가 부상 소식을 전했다. 그룹 SF9(영빈 인성 재윤 다원 로운 주호 유태양 휘영 찬희)의 열 번째 미니 앨범 '루미네이션(RUMINATION)' 발매 기념 쇼케이스가 22일 오후 4시 서울 광진구 예스24라이브홀에서 열렸다. 이날 쇼케이스 진행을 맡은 문지애 아나운서는 본격적인 쇼케이스 진행에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['트라우마' SF9 로운 "드라마 찍으며 앨범 준비? 이제 도가 텄다"]]></title>
-        <id>https://entertain.v.daum.net/v/20211122171014601</id>
-        <link href="https://entertain.v.daum.net/v/20211122171014601"/>
-        <updated>2021-11-22T08:25:56.261Z</updated>
-        <content type="html"><![CDATA[SF9이 22일 서울 광진구 예스24 라이브홀에서 열린 열 번째 미니앨범 ‘루미네이션(RUMINATION)’ 발매 기념 쇼케이스에서 취재진을 향해 포즈를 취하고 있다. 2021. 11. 22. 박진업기자 upandup@sportssoul.com    [스포츠서울 | 정하은기자]그룹 SF9 로운이 드라마와 그룹 활동을 넘나드는 활약을 펼친다.]]></content>
     </entry>
 </feed>

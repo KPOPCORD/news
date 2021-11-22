@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-22T11:19:28.397Z</updated>
+    <updated>2021-11-22T12:36:03.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단, AMA서 美 첫 무대→4년만에 대상까지..그래미에 한 발 더 (종합)[Oh!쎈 레터]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004515458</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004515458"/>
+        <updated>2021-11-22T12:35:49.373Z</updated>
+        <content type="html"><![CDATA[[OSEN=지민경 기자] 그룹 방탄소년단이 미국 3대 음악 시상식인 '2021 아메리칸 뮤직 어워드’에서 대상 격인 '올해의 아티스트(Artist of the Year)’를 포함해 3관왕을 달성하며 저력을 과시했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BTS, 아메리칸 뮤직 어워즈 대상까지 거머쥐었다]]></title>
+        <id>https://entertain.naver.com/now/read?oid=032&amp;aid=0003111726</id>
+        <link href="https://entertain.naver.com/now/read?oid=032&amp;aid=0003111726"/>
+        <updated>2021-11-22T12:35:49.374Z</updated>
+        <content type="html"><![CDATA[[경향신문] 그룹 방탄소년단(BTS)이 미국 3대 음악 시상식으로 꼽히는 아메리칸 뮤직 어워즈(AMA)에서 대상 격인 ‘아티스트 오브 더 이어(Artist of the Year)’ 상을 받았다. 아시아 아티스트로]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SF9, 4개월만 '루미네이션' 컴백 "겹겹이 강화시킨 치명적 섹시함" [V라이브]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001200196</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001200196"/>
+        <updated>2021-11-22T12:35:49.375Z</updated>
+        <content type="html"><![CDATA[SF9이 컴백 소감을 전했다. SF9(영빈 인성 재윤 다원 로운 주호 유태양 휘영 찬희)은 22일 오후 V라이브를 통해 미니 10집 ‘루미네이션(RUMINATION)’ 팬쇼케이스를 진행했다. SF9은 4개월 만에 새]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김동완, '성매매 혐의' 이수 옹호→99명 팬들에 대면 사과 [스타이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003006806</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003006806"/>
+        <updated>2021-11-22T12:35:49.375Z</updated>
+        <content type="html"><![CDATA[그룹 신화 멤버 김동완이 99명 팬들을 만나 미성년자 성매매 혐의로 물의를 일으킨 그룹 엠씨더맥스 멤버 이수를 옹호한 사실에 사과했다. 김동완은 지난 21일 서울 모처에서 '김동완과 Talk Time'이란 대면 행사]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[니쥬, 데뷔 1년 만에 日 레코드 대상 수상 도전…‘우수 작품상’ 확정]]></title>
+        <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0001915715</id>
+        <link href="https://entertain.naver.com/now/read?oid=016&amp;aid=0001915715"/>
+        <updated>2021-11-22T12:35:49.376Z</updated>
+        <content type="html"><![CDATA[[헤럴드경제=고승희 기자] JYP엔터테인먼트 소속의 일본 걸그룹 니쥬(NiziU)가 일본 레코드 대상 우수 작품상을 수상했다. JYP엔터테인먼트에 따르면 일본 레코드 대상은 최근 공식 홈페이지에 주요 부문 수상자의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가야금병창 연구모임 ‘현재’ 창단공연, 서울남산국악당서 27일 개최]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000776206</id>
@@ -144,40 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=416&amp;aid=0000277213"/>
         <updated>2021-11-22T09:22:46.784Z</updated>
         <content type="html"><![CDATA[[SBS 연예뉴스 ㅣ 강경윤 기자] 그룹 SF9이 치명적인 섹시함으로 무장해 돌아왔다. 22일 오후 서울시 광진구 예스24 라이브홀에서 진행된 SF9 열 번째 미니앨범 'RUMINATION' 발매 기념 미디어 쇼케이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] SF9 재윤, '손바닥으로 가릴 수 없는 잘생긴 얼굴']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004631547</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004631547"/>
-        <updated>2021-11-22T09:22:46.784Z</updated>
-        <content type="html"><![CDATA[그룹 SF9 재윤이 22일 오후 서울 광장동 예스24 라이브홀에서 열린 열 번째 미니 앨범 '루미네이션' 발매 기념 쇼케이스에 참석해 공연을 선보이고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아델, 6년 만의 새앨범 '30'…"가장 격정적인"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010847542</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010847542"/>
-        <updated>2021-11-22T09:22:46.784Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 영국 싱어송라이터 아델(Adele)이 6년 만에 정규 앨범 '30'을 세계 동시 발매했다고 소니 뮤직 엔터테인먼트 코리아가 22일 밝혔다. 지난달 15일 선공개 싱글 '이지 온 미(Ea]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] SF9 재윤, '능력있는 젊은 이사님 느낌']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004631546</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004631546"/>
-        <updated>2021-11-22T09:22:46.784Z</updated>
-        <content type="html"><![CDATA[그룹 SF9 재윤이 22일 오후 서울 광장동 예스24 라이브홀에서 열린 열 번째 미니 앨범 '루미네이션' 발매 기념 쇼케이스에 참석해 포토타임을 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] SF9 인성, '날아보자~']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004631543</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004631543"/>
-        <updated>2021-11-22T09:22:46.784Z</updated>
-        <content type="html"><![CDATA[그룹 SF9 인성이 22일 오후 서울 광장동 예스24 라이브홀에서 열린 열 번째 미니 앨범 '루미네이션' 발매 기념 쇼케이스에 참석해 공연을 선보이고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[컬쳐띵크, 음원 유통사 phooey 론칭 [공식]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000776193</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000776193"/>
-        <updated>2021-11-22T09:22:46.786Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 종합 예술 기획사 CULTURE THINK가 음원 유통사를 설립했다. CULTURE THINK(이하 컬쳐띵크)는 22일 공식 보도 자료를 통해 콘텐츠 유통 사업 확대를 위한 음원 유통사 phooey를]]></content>
     </entry>
 </feed>
