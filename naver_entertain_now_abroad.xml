@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-22T06:27:10.087Z</updated>
+    <updated>2021-11-22T07:21:17.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문지애 '아름다운 진행' [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000833132</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000833132"/>
+        <updated>2021-11-22T07:21:16.685Z</updated>
+        <content type="html"><![CDATA[그룹 SF9 열 번째 미니 앨범 ‘RUMINATION’ 쇼케이스가 22일 오후 서울 광진구 광장동 예스24라이브홀에서 열렸다. 방송인 문지애가 진행을 하고 있다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[문지애 '아름다운 미소' [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000833131</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000833131"/>
+        <updated>2021-11-22T07:21:16.686Z</updated>
+        <content type="html"><![CDATA[그룹 SF9 열 번째 미니 앨범 ‘RUMINATION’ 쇼케이스가 22일 오후 서울 광진구 광장동 예스24라이브홀에서 열렸다. 방송인 문지애가 진행을 하고 있다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['007 노 타임 투 다이', '분노의 질주' 넘었다…2021년 할리우드 최고 흥행작]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001376515</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000833085"/>
         <updated>2021-11-22T03:23:17.253Z</updated>
         <content type="html"><![CDATA[방탄소년단(BTS)이 ‘AMA 2021’ 무대에 올랐다. 방탄소년단은 21일(현지시간) 미국 대중음악 시상식 ‘2021 아메리칸 뮤직 어워드(2021 American Music Awards. AMA)’에 참석했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소감 말하는 방탄소년단 RM [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000833084</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000833084"/>
-        <updated>2021-11-22T03:23:17.254Z</updated>
-        <content type="html"><![CDATA[방탄소년단(BTS)이 ‘AMA 2021’에서 ‘페이보릿 팝 듀오/그룹’ 부문에 이름을 올렸다. 방탄소년단은 21일(현지시간) 미국 대중음악 시상식 ‘2021 아메리칸 뮤직 어워드(2021 American Music]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘AMA 2021’ 방탄소년단, 팝 그룹 이어 페이보릿 팝송 수상 [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000833083</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000833083"/>
-        <updated>2021-11-22T03:23:17.255Z</updated>
-        <content type="html"><![CDATA[방탄소년단(BTS)이 ‘AMA 2021’에서 ‘페이보릿 팝 듀오/그룹’에 이어 ‘페이보릿 팝송’ 부문을 수상했다. 방탄소년단은 21일(현지시간) 미국 대중음악 시상식 ‘2021 아메리칸 뮤직 어워드(2021 Amer]]></content>
     </entry>
 </feed>
