@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-22T16:33:46.381Z</updated>
+    <updated>2021-11-22T17:27:52.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송유진, '지헤중' OST 참여…'아이 미스 유']]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010847666</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010847666"/>
+        <updated>2021-11-22T17:27:36.546Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]김예지 인턴 기자 = 가수 송유진이 SBS TV 금토 드라마 '지금, 헤어지는 중입니다'(이하 지헤중) OST에 참여했다. 23일 소속사 쇼플레이엔터테인먼트에 따르면, 송유진이 부른 '지헤중'의 OST]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사진] BTS 또 새 역사, 아시아 첫 아메리칸 뮤직 어워즈 대상]]></title>
         <id>https://entertain.naver.com/now/read?oid=025&amp;aid=0003152831</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004631553"/>
         <updated>2021-11-22T10:24:16.545Z</updated>
         <content type="html"><![CDATA[그룹 SF9 찬희가 22일 오후 서울 광장동 예스24 라이브홀에서 열린 열 번째 미니 앨범 '루미네이션' 발매 기념 쇼케이스에 참석해 공연을 선보이고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] SF9 찬희, '핏이 살아있네~']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004631552</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004631552"/>
-        <updated>2021-11-22T10:24:16.546Z</updated>
-        <content type="html"><![CDATA[그룹 SF9 찬희가 22일 오후 서울 광장동 예스24 라이브홀에서 열린 열 번째 미니 앨범 '루미네이션' 발매 기념 쇼케이스에 참석해 포토타임을 갖고 있다.]]></content>
     </entry>
 </feed>
