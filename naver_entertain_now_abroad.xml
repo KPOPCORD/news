@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-22T08:26:26.656Z</updated>
+    <updated>2021-11-22T09:23:00.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['뱅드림' 로젤리아, 공연 공지에 '서울' 아닌 '경성'? [엑's 이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001376645</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001376645"/>
+        <updated>2021-11-22T09:22:59.558Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 일본의 인기 애니메이션 '뱅드림'에 등장하는 밴드 로젤리아의 라이브 공연 개최가 확정된 가운데, 해외 라이브 뷰잉 공지 내용이 논란을 불러오고 있다. 22일 오후 공식 홈페이지에서는 로젤]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[허광한 "'상견니' 사랑, 감사해요...마음 변치 않기를" [화보]]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001376606</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000833146"/>
         <updated>2021-11-22T08:26:26.006Z</updated>
         <content type="html"><![CDATA[그룹 SF9 열 번째 미니 앨범 ‘RUMINATION’ 쇼케이스가 22일 오후 서울 광진구 광장동 예스24라이브홀에서 열렸다. SF9 찬희가 포토타임을 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영빈 '랩과 댄스 담당' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000833145</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000833145"/>
-        <updated>2021-11-22T08:26:26.007Z</updated>
-        <content type="html"><![CDATA[그룹 SF9 열 번째 미니 앨범 ‘RUMINATION’ 쇼케이스가 22일 오후 서울 광진구 광장동 예스24라이브홀에서 열렸다. SF9 영빈이 포토타임을 갖고 있다.]]></content>
     </entry>
 </feed>
