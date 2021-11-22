@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-22T12:36:03.005Z</updated>
+    <updated>2021-11-22T13:28:16.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘탱고의 황제’ 아스토르 피아졸라 탄생 100주년 기념음반 LP, 2CD+아트북 출시]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000776219</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000776219"/>
+        <updated>2021-11-22T13:28:02.774Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] ‘탱고의 황제’로 불리는 아스토르 피아졸라 180g LP가 처음으로 출시되었다. 피아졸라 (1921~1992)의 인생이 담긴 음반으로 그의 탄생 100주년을 기념하는 음반이자 사후 30주기를 기리는 음]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[허각, 바이브 20주년 ‘REVIBE’ 다섯 번째 음원 ‘술이야’ 발매]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000776218</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000776218"/>
+        <updated>2021-11-22T13:28:02.779Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 가수 허각 목소리로 재탄생한 ‘술이야’가 베일을 벗었다. 22일 오후 6시 각종 온라인 음원 사이트를 통해 바이브(류재현, 윤민수)의 데뷔 20주년을 앞두고 출범한 ‘REVIBE(리바이브)’ 프로젝트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단, AMA서 美 첫 무대→4년만에 대상까지..그래미에 한 발 더 (종합)[Oh!쎈 레터]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004515458</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004631548"/>
         <updated>2021-11-22T09:22:46.783Z</updated>
         <content type="html"><![CDATA[그룹 SF9 재윤이 22일 오후 서울 광장동 예스24 라이브홀에서 열린 열 번째 미니 앨범 '루미네이션' 발매 기념 쇼케이스에 참석해 공연을 선보이고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김 총리 "BTS 새 역사 열어…세계인에 위로·행복 전해"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010847547</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010847547"/>
-        <updated>2021-11-22T09:22:46.784Z</updated>
-        <content type="html"><![CDATA[기사내용 요약 "BTS와 아미 축하해…보랏빛으로 물들길" [서울=뉴시스] 김성진 기자 = 김부겸 국무총리는 22일 그룹 '방탄소년단'(BTS)이 '2021 아메리칸 뮤직 어워즈'(AMA's)에서 3관왕을 차지한 것에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뮤직Y] "너무 섹시해서 죄송합니다"...SF9의 남다른 자신감]]></title>
-        <id>https://entertain.naver.com/now/read?oid=416&amp;aid=0000277213</id>
-        <link href="https://entertain.naver.com/now/read?oid=416&amp;aid=0000277213"/>
-        <updated>2021-11-22T09:22:46.784Z</updated>
-        <content type="html"><![CDATA[[SBS 연예뉴스 ㅣ 강경윤 기자] 그룹 SF9이 치명적인 섹시함으로 무장해 돌아왔다. 22일 오후 서울시 광진구 예스24 라이브홀에서 진행된 SF9 열 번째 미니앨범 'RUMINATION' 발매 기념 미디어 쇼케이]]></content>
     </entry>
 </feed>

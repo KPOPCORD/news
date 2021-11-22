@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-22T12:36:03.004Z</updated>
+    <updated>2021-11-22T13:28:16.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['탱고의 황제' 아스토르 피아졸라 탄생 100주년 기념음반 LP, 2CD+아트북 출시]]></title>
+        <id>https://entertain.v.daum.net/v/20211122220542555</id>
+        <link href="https://entertain.v.daum.net/v/20211122220542555"/>
+        <updated>2021-11-22T13:27:45.568Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] ‘탱고의 황제’로 불리는 아스토르 피아졸라 180g LP가 처음으로 출시되었다.피아졸라 (1921~1992)의 인생이 담긴 음반으로 그의 탄생 100주년을 기념하는 음반이자 사후 30주기를 기리는 음반이다.아르헨티나의 전통 음악인 탱고를 클래식의 반열에 올려놓은 전설적인 누에보 탱고의 거장 피아졸라는 이미 세상을 떠난 지 30년의 세월이 지]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['다국적 아이돌' 블랙스완, 팀 내 왕따설 일축 "건설적인 다툼"]]></title>
+        <id>https://entertain.v.daum.net/v/20211122213534306</id>
+        <link href="https://entertain.v.daum.net/v/20211122213534306"/>
+        <updated>2021-11-22T13:27:45.569Z</updated>
+        <content type="html"><![CDATA[그룹 블랙스완이 소속 멤버인 파투와 레아 사이의 갈등 논란에 대해 입장을 밝혔다. 지난 20일 블랙스완 소속사 디알뮤직은 공식 사이트를 통해 입장글을 올리고 최근 불거졌던 '팀 내 왕따설'을 일축했다. 소속사는 "팀 내부에서 있었던 이슈가 왜곡돼서 퍼졌다"며 "다양한 사람들이 함께 일하다 보면 팀 내 의견 충돌이 발생하곤 한다"고 해명했다. 소속사는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단, AMA서 美 첫 무대→4년만에 대상까지..그래미에 한 발 더]]></title>
         <id>https://entertain.v.daum.net/v/20211122212829221</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211122171231694"/>
         <updated>2021-11-22T08:25:56.257Z</updated>
         <content type="html"><![CDATA[[뉴스엔 글 이하나 기자/사진 표명중 기자] SF9이 새 앨범으로 이루고 싶은 성과를 전했다. SF9은 11월 22일 오후 4시 서울 광진구 예스24 라이브홀에서 미니 10집 ‘RUMINATION’(루미네이션) 발매 기념 쇼케이스를 열고 새 앨범에 대한 이야기를 나눴다. 앞서 SF9은 전작 ‘턴 오버’로 초동 판매량 14만 3천여 장을 기록하며 자체]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["치명美 업그레이드"..SF9, '트라우마'로 역대급 컴백]]></title>
-        <id>https://entertain.v.daum.net/v/20211122171211679</id>
-        <link href="https://entertain.v.daum.net/v/20211122171211679"/>
-        <updated>2021-11-22T08:25:56.259Z</updated>
-        <content type="html"><![CDATA[그룹 SF9이 신곡 ‘트라우마’로 업그레이드 된 치명미를 선보인다. SF9(영빈, 인성, 재윤, 다원, 로운, 주호, 유태양, 휘영, 찬희)은 22일 오후 4시 서울시 광진구 예스24 라이브홀에서 열 번째 미니 앨범 ‘루미네이션(RUMINATION)’ 발매 기념 쇼케이스를 열고, 신곡을 공개했다. ‘루미네이션’은 ‘글로리(9lory)’ 세계관 프리퀄로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SF9 주호 "가벼운 갈비뼈 부상, 치료 열심히 해서 빠르게 복귀할 것"]]></title>
-        <id>https://entertain.v.daum.net/v/20211122171120640</id>
-        <link href="https://entertain.v.daum.net/v/20211122171120640"/>
-        <updated>2021-11-22T08:25:56.260Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김한길 기자] 그룹 SF9(에스에프나인)의 주호가 부상 소식을 전했다. 그룹 SF9(영빈 인성 재윤 다원 로운 주호 유태양 휘영 찬희)의 열 번째 미니 앨범 '루미네이션(RUMINATION)' 발매 기념 쇼케이스가 22일 오후 4시 서울 광진구 예스24라이브홀에서 열렸다. 이날 쇼케이스 진행을 맡은 문지애 아나운서는 본격적인 쇼케이스 진행에]]></content>
     </entry>
 </feed>
