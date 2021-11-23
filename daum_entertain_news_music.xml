@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-23T02:35:43.786Z</updated>
+    <updated>2021-11-23T03:23:34.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정동원, 12월 크리스마스 콘서트 개최]]></title>
+        <id>https://entertain.v.daum.net/v/20211123115206746</id>
+        <link href="https://entertain.v.daum.net/v/20211123115206746"/>
+        <updated>2021-11-23T03:23:00.623Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 박상후 기자] 가수 정동원이 팬들과 함께 특별한 크리스마스를 보내기 위해 '성탄총동원'을 개최한다. 소속사 쇼플레이엔터테인먼트 측은 23일 "정동원의 첫 번째 크리스마스 콘서트 '성탄총동원'이 오는 12월 24일, 25일 성남아트센터 오페라하우스에서 펼쳐진다"라고 밝혔다. 정동원은 지난 콘서트에서 전석 매진으로 티켓을 구하지 못한 팬들의]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[몬스타엑스 진한 브로맨스..기현 생일에 "사랑해♥"]]></title>
+        <id>https://entertain.v.daum.net/v/20211123115038673</id>
+        <link href="https://entertain.v.daum.net/v/20211123115038673"/>
+        <updated>2021-11-23T03:23:00.623Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 몬스타엑스 진한 브로맨스…기현 생일에 “사랑해♥” [종합] 그룹 몬스타엑스 멤버들이 기현의 생일을 진심으로 축하했다. 1993년 11월 22일생으로 어제 생일을 맞은 기현. 이에 멤버들은 공식 트위터 등에 축하 메시지를 남기며 기현의 생일을 축하했다. 더불어 기현과 함께한 일상 사진과 영상을 공개하기도 했다. 먼저 민혁은 “벌써 많은 생일을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['방과후 설렘' 한동철 PD "오은영 박사님 섭외 힘들었죠"]]></title>
         <id>https://entertain.v.daum.net/v/20211123113408028</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211123103406080"/>
         <updated>2021-11-23T02:35:15.105Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김종은 기자] '방과후 설렘'의 한동철 PD가 방송을 앞둔 소감을 전했다. 28일 첫 방송되는 MBC 새 걸그룹 오디션 '방과후 설렘'은 1학년부터 4학년까지 총 83명의 연습생이 출연,전 세계를 설레게 할 걸그룹이 되기 위해 경쟁을 벌이는 프로그램이다. 첫 방송을 5일 남겨두고 있는 가운데, 한동철 PD는 '방과후 설렘'에 대한 다양한 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정동원, 크리스마스 콘서트 '성탄총동원' 개최]]></title>
-        <id>https://entertain.v.daum.net/v/20211123103301025</id>
-        <link href="https://entertain.v.daum.net/v/20211123103301025"/>
-        <updated>2021-11-23T02:35:15.106Z</updated>
-        <content type="html"><![CDATA[가수 정동원이 팬들과 함께 특별한 크리스마스를 보내기 위해 ‘성탄총동원’을 개최한다. 정동원의 첫 번째 크리스마스 콘서트 ‘성탄총동원’이 오는 12월 24일, 25일 성남아트센터 오페라하우스에서 펼쳐진다. 정동원은 앞서 첫 번째 단독 콘서트 ‘정동원棟동 이야기話화 콘서트(1st JEONG DONG WON’S TALK CONCERT)’의 3천 석을 티켓]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['데뷔 30주년' 장혜진 "늘 신인의 마음, 행복한 마음으로 앨범 준비"]]></title>
-        <id>https://entertain.v.daum.net/v/20211123102748792</id>
-        <link href="https://entertain.v.daum.net/v/20211123102748792"/>
-        <updated>2021-11-23T02:35:15.106Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) 가수 장혜진이 데뷔 30주년 기념 앨범 ‘RE:main’을 발매한 후 따뜻한 메시지와 감성으로 호평받은 소감을 전했다. 장혜진은 22일 오후 6시 장혜진의 데뷔 30주년 기념 앨범 ‘RE:main’을 공개하고 발라드 여제의 귀환을 알렸다. 장혜진은 이번 앨범을 통해 ‘1994년 어느 늦은 밤’, ‘내게로’, ‘꿈의 대화’, ‘]]></content>
     </entry>
 </feed>
