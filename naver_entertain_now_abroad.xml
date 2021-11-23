@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-23T22:21:33.440Z</updated>
+    <updated>2021-11-23T23:21:53.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[CNN "'지옥' 대박, 제2의 오징어게임"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005743105</id>
+        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005743105"/>
+        <updated>2021-11-23T23:21:53.115Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 박형기 기자,안태현 기자 = 오징어게임에 이어 넷플릭스 시청률 1위를 기록하고 있는 ‘지옥’이 제2의 오징어게임이 되고 있다고 미국의 CNN이 23일(현지시간) 보도했다. CNN은 올해는 한국 드라마]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[톰 크루즈, 부은 얼굴 그대로 영화 촬영‥노화? 시술?[파파라치컷]]]></title>
         <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000514835</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004673833"/>
         <updated>2021-11-22T16:33:45.711Z</updated>
         <content type="html"><![CDATA[[2021 아메리칸 뮤직 어워드(2021 AMA) 참석한 가수 할리 베일리] '흑인 인어공주' 가수 할리 베일리가 아찔한 드레스 룩을 선보였다. 지난 22일(한국시간) 미국 로스앤젤레스 마이크로소프트 극장에서 열린]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[킴 카다시안, 노을 앞 과감한 비키니 자태…볼륨 실루엣 과시]]></title>
-        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004673831</id>
-        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004673831"/>
-        <updated>2021-11-22T16:33:45.711Z</updated>
-        <content type="html"><![CDATA[[카니예 웨스트와 이혼 후 13살 연하남과 열애설…킴 카다시안, 근황 공개] 할리우드 스타 킴 카다시안이 노을을 배경으로 글래머러스한 몸매를 과시했다. 킴 카다시안은 지난 21일(한국시간) 자신의 인스타그램에 "My]]></content>
     </entry>
 </feed>
