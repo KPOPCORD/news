@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-23T14:21:25.478Z</updated>
+    <updated>2021-11-23T15:24:02.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단, 오늘 '그래미 후보' 지명 유력]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010850139</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010850139"/>
+        <updated>2021-11-23T15:23:48.665Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 본상 '올해의 레코드'·장르상 '팝 듀오/그룹' 노미네이트 될 듯 [서울=뉴시스]이재훈 기자 = 그룹 '방탄소년단'(BTS)이 미국 최고 귄위의 음악 시상식 '제64회 그래미 어워즈' 후보에 지명될 것]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘이별 보컬 장인’ 리누, 겨울용 발라드 ‘틈만나면’ 발매]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000776498</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003007037"/>
         <updated>2021-11-23T09:22:35.434Z</updated>
         <content type="html"><![CDATA[가수 영탁의 팬들이 '365일 쌀앙해' 이웃사랑 쌀 기부 릴레이를 통해 영탁이 받은 따뜻한 사랑을 지역 사회에 환원했다. 영탁 팬클럽은 11월 22일 서울 삼성동 코엑스 오디토리움에서 김장훈과 영탁이 진행한 코로나1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“다 두고 떠나가” 가호, 청춘을 밝히는 강렬한 불꽃 ‘Right Now’ [퇴근길 신곡]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004515847</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004515847"/>
-        <updated>2021-11-23T09:22:35.434Z</updated>
-        <content type="html"><![CDATA[[OSEN=지민경 기자] 가수 가호가 첫 번째 정규앨범 ‘Fireworks’로 청춘들의 마음을 대변한다. 가호는 23일 오후 6시 각종 음원사이트를 통해 첫 정규 앨범 ‘Fireworks’ 전곡 음원과 타이틀곡 ‘R]]></content>
     </entry>
 </feed>
