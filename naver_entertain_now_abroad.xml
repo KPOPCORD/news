@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-23T07:20:46.134Z</updated>
+    <updated>2021-11-23T08:26:23.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스다 마사키 “고마츠 나나 고마워” 결혼 발표 후 라디오서 울컥]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000514683</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000514683"/>
+        <updated>2021-11-23T08:26:23.207Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 일본 배우 겸 가수 스다 마사키가 모델 출신 배우 고마츠 나나와 결혼 발표 후 심경을 전했다. 스다 마사키는 지난 11월 15일 자신이 진행하는 라디오 '스다 마사키의 올 나잇 니폰' 오프닝에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조앤 롤링 "트랜스젠더 운동가들이 집 주소 공개…살해 위협 받아" [엑's 해외이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001377035</id>
@@ -34,7 +41,7 @@
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 아델 노래를 듣지 않아 인터뷰를 날린 호주 진행자 사연이 화제다. 11월 22일(현지시간) BBC는 호주 채널7 '위켄드 선라이즈' 진행자 매트 도란이 아델의 새 정규 앨범 노래를 듣지 않아]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['포르노 데뷔' 아론 카터, 아빠 됐다..아들 엄마도 포르노배우 [Oh!llywood]]]></title>
+        <title type="html"><![CDATA['포르노 데뷔' 아론 카터, 子아빠 됐다..아이 엄마도 포르노배우 [Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004515754</id>
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004515754"/>
         <updated>2021-11-23T06:30:32.175Z</updated>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000833230"/>
         <updated>2021-11-22T14:21:19.698Z</updated>
         <content type="html"><![CDATA[그룹 오마이걸 아린이 22일 오후 온라인으로 진행된 2021 K-뮤직 위크 콘서트에서 노래하고 있다. 사진=한국콘텐츠진흥원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비니 '돋보이는 개미허리' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000833229</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000833229"/>
-        <updated>2021-11-22T14:21:19.702Z</updated>
-        <content type="html"><![CDATA[그룹 오마이걸 비니가 22일 오후 온라인으로 진행된 2021 K-뮤직 위크 콘서트에서 노래하고 있다. 사진=한국콘텐츠진흥원]]></content>
     </entry>
 </feed>
