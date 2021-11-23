@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-23T10:25:36.155Z</updated>
+    <updated>2021-11-23T11:20:18.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단 "대통령님 감사합니다"…文 축하에 화답]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001377127</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001377127"/>
+        <updated>2021-11-23T11:20:05.636Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 그룹 방탄소년단이 문재인 대통령의 축하에 화답했다. 문재인 대통령은 23일 공식 SNS를 통해 방탄소년단의 '2021 아메리칸 뮤직 어워드(AMERICAN MUSIC AWARDS, 이하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[컴백 D-1 화사, 솔로컴백 기대포인트..힙하게, 음악적 성장]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003007054</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003007033"/>
         <updated>2021-11-23T09:22:35.441Z</updated>
         <content type="html"><![CDATA[23일 오후 6시 원위의 신곡 '별(STAR)'이 공개됐다. 이번 싱글 '별 (STAR)'은 오는 12월 7일 공개되는 원위의 두 번째 데모 앨범 'STUDIO WE : Recording #2'의 타이틀곡으로 앨범]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가호, 청춘에게 전하는 위로의 메시지 'Right Now' [6시★살롱]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003007032</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003007032"/>
-        <updated>2021-11-23T09:22:35.441Z</updated>
-        <content type="html"><![CDATA[가호가 첫 정규 앨범으로 돌아왔다. 23일 오후 가호의 첫 정규앨범 'Fireworks'가 공개됐다. 'Fireworks'는 자신을 비롯한 20대 청춘의 솔직한 생각을 담아낸 앨범이다. 하늘 위에서 화려하게 터지는]]></content>
     </entry>
 </feed>

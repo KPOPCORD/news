@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-23T10:25:36.163Z</updated>
+    <updated>2021-11-23T11:20:18.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[플라이 투 더 스카이 'Day By Day' 리마스터 MV 25일 공개]]></title>
+        <id>https://entertain.v.daum.net/v/20211123200337730</id>
+        <link href="https://entertain.v.daum.net/v/20211123200337730"/>
+        <updated>2021-11-23T11:19:50.330Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 플라이 투 더 스카이(FLY TO THE SKY)의 데뷔곡 ‘Day By Day’(데이 바이 데이) 리마스터 뮤직비디오가 25일 공개된다. SM엔터테인먼트(약칭 SM)가 ‘리마스터링 프로젝트’로 선보이는 플라이 투 더 스카이 ‘Day By Day’ 리마스터 뮤직비디오는 11월 25일 오전 10시 유튜브 SMTOWN 채널에서 공개될 예정이다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[컴백 D-1 화사, 솔로컴백 기대포인트..힙하게, 음악적 성장]]></title>
         <id>https://entertain.v.daum.net/v/20211123192344055</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211123180008464"/>
         <updated>2021-11-23T09:22:16.392Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) 가수 가호가 20대 청춘의 솔직한 생각과 이야기를 담은 첫 정규 앨범으로 돌아왔다.&nbsp; 가호 첫 번째 정규 앨범 '파이어웍스(Fireworks)'가 23일 오후 6시 각종 온라인 음원사이트를 통해 공개됐다.&nbsp; 가호는 이번 첫 정규 앨범을 통해 자신을 비롯한 20대 청춘의 솔직한 생각을 담아냈다. 가호는 청춘의 빛나는 순간들을 밤]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["운명에 널 약속해"..몽환적 판타지 속 감성, 원위 '별 ']]></title>
-        <id>https://entertain.v.daum.net/v/20211123180008465</id>
-        <link href="https://entertain.v.daum.net/v/20211123180008465"/>
-        <updated>2021-11-23T09:22:16.394Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 밴드 원위가 5개월 만에 돌아왔다. 원위는 23일 오후 6시 데모 앨범 '스튜디오 위 : 레코딩 #2(STUDIO WE : Recording #2)'의 타이틀곡 '별 (STAR)'을 발매했다. '별 (STAR)'은 '야행성'과 '소행성'에 이은 원위의 '우주 시리즈'의 연장선에 있는 곡으로 하늘이 정해준 운명적인 만남을 별에]]></content>
     </entry>
 </feed>
