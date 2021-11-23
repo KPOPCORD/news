@@ -4,9 +4,44 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 23:21:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 01:06:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['모가디슈'부터 '자산어보'까지... 영화인들의 축제 청룡영화상, KBS홀에서 개최!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=174669</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=174669</guid>
+            <pubDate>Tue, 23 Nov 2021 01:05:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=174669">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211123090418_b3e681567152e86c77569ae0f6d68a6d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=174669">'모가디슈'부터 '자산어보'까지... 영화인들의 축제 청룡영화상, KBS홀에서 개최!</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A0%9C%2042%ED%9A%8C%20%EC%B2%AD%EB%A3%A1%EC%98%81%ED%99%94%EC%83%81%20%EC%8B%9C%EC%83%81%EC%8B%9D">제 42회 청룡영화상 시상식</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211123090418_b3e681567152e86c77569ae0f6d68a6d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[화보] 세븐틴 버논-조슈아 "캐럿들을 직접 못 보니까 무기력해진다"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=174630</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=174630</guid>
+            <pubDate>Tue, 23 Nov 2021 01:05:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=174630">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211123084658_7e7dae23b3446da51a1ce5fd8a10fee5.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=174630">[화보] 세븐틴 버논-조슈아 "캐럿들을 직접 못 보니까 무기력해진다"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211123084658_7e7dae23b3446da51a1ce5fd8a10fee5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["박남옥을 아시나요" 국립극장 ‘명색이 아프레걸’]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=174489</link>
@@ -312,40 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=173017">[화보] SF9 다원, 묘한 눈빛과 몽환적인 분위기</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211116143043_7371cbe79f05d248000e07ef6ce72401.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['슈퍼밴드2' 우승팀 크랙실버, 드림어스컴퍼니-위엔터테인먼트에 합류!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=172831</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=172831</guid>
-            <pubDate>Tue, 16 Nov 2021 02:33:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=172831">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211116090016_953cf1cc65ef9c3874d15f7f229b8390.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=172831">'슈퍼밴드2' 우승팀 크랙실버, 드림어스컴퍼니-위엔터테인먼트에 합류!</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211116090016_953cf1cc65ef9c3874d15f7f229b8390.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["소~는 누가 키우나" 박영진, '대한민국을 빛낸 10인대상' 개그맨부문 수상]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=172190</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=172190</guid>
-            <pubDate>Fri, 12 Nov 2021 08:24:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=172190">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211112154542_79362b987538b066b83ce62a31523569.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=172190">"소~는 누가 키우나" 박영진, '대한민국을 빛낸 10인대상' 개그맨부문 수상</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211112154542_79362b987538b066b83ce62a31523569.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
