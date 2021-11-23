@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-23T18:24:24.629Z</updated>
+    <updated>2021-11-23T19:17:14.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이동휘, 유아인과 '지옥' 투샷.."의장님" [스타IN★]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003007091</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003007091"/>
+        <updated>2021-11-23T19:17:06.014Z</updated>
+        <content type="html"><![CDATA[배우 이동휘가 유아인과 함께 한 투샷을 공개했다. 이동휘는 23일 오후 자신의 인스타그램에 "의장님"이라며 유아인의 포스터 앞에서 찍은 셀카를 게재했다. 사진 속 이동휘는 유아인의 얼굴이 크게 담긴 포스터 앞에서 마]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단, 美 그래미 베스트 팝 듀오/그룹 퍼포먼스 후보]]></title>
         <id>https://entertain.naver.com/now/read?oid=437&amp;aid=0000281608</id>
@@ -17,7 +24,7 @@
         <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005742932</id>
         <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005742932"/>
         <updated>2021-11-23T18:24:17.762Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 그룹 방탄소년단(BTS)이 제64회 그래미 어워즈 후보에 이름을 올렸다. 그래미 어워즈(Grammy Awards)를 주관하는 미국 레코딩 아카데미 측은 24일 새벽 2시(한국시각 기준]]></content>
+        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 그룹 방탄소년단(BTS)이 내년 열릴 제64회 그래미 어워즈 후보에 이름을 올렸다. 그래미 어워즈(Grammy Awards)를 주관하는 미국 레코딩 아카데미 측은 24일 새벽 2시(한]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이연희, 이래서 SM얼짱이었구나..너무 예뻐 [스타IN★]]]></title>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003007075"/>
         <updated>2021-11-23T13:27:26.546Z</updated>
         <content type="html"><![CDATA[배우 김수현이 무표정한 모습으로 시크한 매력을 풍겼다. 김수현은 23일 자신의 인스타그램에 아무런 멘트없이 셀카 사진을 게재했다. 흑백 사진 속 김수현은 앞머리를 내린 채 무표청 한 모습으로 카메라를 응시하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘만삭’ 이지혜, 4년 전 리즈시절 공개…“풋풋했구나” [스타★샷]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=396&amp;aid=0000597862</id>
-        <link href="https://entertain.naver.com/now/read?oid=396&amp;aid=0000597862"/>
-        <updated>2021-11-23T13:27:26.546Z</updated>
-        <content type="html"><![CDATA[그룹 샵 출신 가수 겸 방송인 이지혜가 과거 사진을 공개했다. 23일 이지혜는 자신의 인스타그램에 “4년 전 풋풋했구나. 배도 무겁고 몸도 힘들고 출산의 날만 손꼽아 기다리게 되네”라는 글과 함께 사진 한장을 게재했]]></content>
     </entry>
 </feed>
