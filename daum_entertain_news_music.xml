@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-23T11:20:18.139Z</updated>
+    <updated>2021-11-23T12:33:16.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[화사, 신곡 'I'm a 빛' 작사 참여..용기의 메시지 담았다]]></title>
+        <id>https://entertain.v.daum.net/v/20211123202101108</id>
+        <link href="https://entertain.v.daum.net/v/20211123202101108"/>
+        <updated>2021-11-23T12:32:41.909Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 이승록 기자] 걸그룹 마마무의 화사가 다시 한번 세상을 뒤흔든다. 화사는 24일 오후 6시 각종 음원 사이트를 통해 싱글 앨범 'Guilty Pleasure'(길티 플레저)를 발표한다. 1년 5개월 만의 솔로 컴백으로, 신보는 죄의식에 비례하는 행동에서 즐거움을 느끼는 'Guilty Pleasure'를 주제로 한다. 타이틀곡 'I'm a]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[플라이 투 더 스카이 'Day By Day' 리마스터 MV 25일 공개]]></title>
         <id>https://entertain.v.daum.net/v/20211123200337730</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211123180048491"/>
         <updated>2021-11-23T09:22:16.391Z</updated>
         <content type="html"><![CDATA[[스포츠한국 모신정 기자] 그룹 방탄소년단이 '2021 아메리칸 뮤직 어워드(2021 American Music Awards. AMA)'에서 대상 격인 '올해의 아티스트(Artist of the Year)'를 수상한 가운데, 해외 주요 매체들도 이 소식을 비중 있게 다루며 "방탄소년단이 기록을 세웠다"며 칭찬에 나섰다. 미국 일간지 USA 투데이(TOD]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["다 두고 떠나가"..가호, 다시 시작해 '라잇 나우']]></title>
-        <id>https://entertain.v.daum.net/v/20211123180008464</id>
-        <link href="https://entertain.v.daum.net/v/20211123180008464"/>
-        <updated>2021-11-23T09:22:16.392Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) 가수 가호가 20대 청춘의 솔직한 생각과 이야기를 담은 첫 정규 앨범으로 돌아왔다.&nbsp; 가호 첫 번째 정규 앨범 '파이어웍스(Fireworks)'가 23일 오후 6시 각종 온라인 음원사이트를 통해 공개됐다.&nbsp; 가호는 이번 첫 정규 앨범을 통해 자신을 비롯한 20대 청춘의 솔직한 생각을 담아냈다. 가호는 청춘의 빛나는 순간들을 밤]]></content>
     </entry>
 </feed>
