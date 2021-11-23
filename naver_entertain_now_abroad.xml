@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-23T15:24:02.541Z</updated>
+    <updated>2021-11-23T16:35:01.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['호텔 상속녀'가 신혼 여행으로 선택한 호텔은?…규모 '어마어마']]></title>
+        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004674371</id>
+        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004674371"/>
+        <updated>2021-11-23T16:35:01.093Z</updated>
+        <content type="html"><![CDATA[세계적 호텔 체인인 힐튼 그룹의 상속녀 패리스 힐튼이 초호화 신혼 여행을 떠났다. 패리스 힐튼은 지난 22일(한국시간) 인스타그램에 "허니문 월드 투어의 첫 번째 여행지 보라보라섬. 남태평양에서 수영하기. 사랑과 함]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스다 마사키 “고마츠 나나 고마워” 결혼 발표 후 라디오서 울컥]]></title>
         <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000514683</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000833231"/>
         <updated>2021-11-22T14:21:19.697Z</updated>
         <content type="html"><![CDATA[그룹 오마이걸 지호가 22일 오후 온라인으로 진행된 2021 K-뮤직 위크 콘서트에서 노래하고 있다. 사진=한국콘텐츠진흥원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아린 '여신이다' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000833230</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000833230"/>
-        <updated>2021-11-22T14:21:19.698Z</updated>
-        <content type="html"><![CDATA[그룹 오마이걸 아린이 22일 오후 온라인으로 진행된 2021 K-뮤직 위크 콘서트에서 노래하고 있다. 사진=한국콘텐츠진흥원]]></content>
     </entry>
 </feed>
