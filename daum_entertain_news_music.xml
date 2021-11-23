@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-23T13:27:35.794Z</updated>
+    <updated>2021-11-23T14:21:25.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[컴백 화사, #자유+당당 #용기 메시지 #음악적 성장]]></title>
+        <id>https://entertain.v.daum.net/v/20211123232009984</id>
+        <link href="https://entertain.v.daum.net/v/20211123232009984"/>
+        <updated>2021-11-23T14:20:51.178Z</updated>
+        <content type="html"><![CDATA[[동아닷컴]  마마무 화사가 돌아온다. 화사는 24일 각 음원 사이트를 통해 싱글 앨범 'Guilty Pleasure'(길티 플레저)를 발표한다. 1년 5개월 만의 솔로 컴백으로, 신보는 죄의식에 비례하는 행동에서 즐거움을 느끼는 'Guilty Pleasure'를 주제로 한다. 타이틀곡 'I'm a 빛'(암어빛)를 비롯해 'FOMO'(포모), 'Bless]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화사, 신곡 'I'm a 빛' 작사 참여..용기의 메시지 담았다]]></title>
         <id>https://entertain.v.daum.net/v/20211123202101108</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211123180102498"/>
         <updated>2021-11-23T09:22:16.390Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 실력파 보이밴드 원위(ONEWE)가 신곡 '별 (STAR)'을 소개했다. 원위(용훈·강현·하린·동명·키아)는 11월 23일 오후 6시 음원 사이트를 통해 데모 앨범 'STUDIO WE : Recording #2' 타이틀곡 '별 (STAR)'을 발매했다. 이번 노래는 미니 1집 'Planet Nine : Alter Ego' 이후 5]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 CNN·英 BBC "방탄소년단, '2021 AMA' 휩쓸었다.. '기적의 밤'" 극찬]]></title>
-        <id>https://entertain.v.daum.net/v/20211123180048491</id>
-        <link href="https://entertain.v.daum.net/v/20211123180048491"/>
-        <updated>2021-11-23T09:22:16.391Z</updated>
-        <content type="html"><![CDATA[[스포츠한국 모신정 기자] 그룹 방탄소년단이 '2021 아메리칸 뮤직 어워드(2021 American Music Awards. AMA)'에서 대상 격인 '올해의 아티스트(Artist of the Year)'를 수상한 가운데, 해외 주요 매체들도 이 소식을 비중 있게 다루며 "방탄소년단이 기록을 세웠다"며 칭찬에 나섰다. 미국 일간지 USA 투데이(TOD]]></content>
     </entry>
 </feed>
