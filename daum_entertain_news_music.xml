@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-24T19:18:56.184Z</updated>
+    <updated>2021-11-24T20:22:49.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AMA 대상 받았는데.. BTS '그래미 텃세' 극복 쉽지 않네]]></title>
+        <id>https://entertain.v.daum.net/v/20211125050037193</id>
+        <link href="https://entertain.v.daum.net/v/20211125050037193"/>
+        <updated>2021-11-24T20:22:20.223Z</updated>
+        <content type="html"><![CDATA[방탄소년단(사진=빅히트 뮤직)[이데일리 스타in 윤기백 기자] “그룹 방탄소년단(BTS)의 ‘버터’는 올여름 메가히트곡이지만 그래미는 단 1개 부문에만 후보로 올려놨다.” 그룹 방탄소년단의 그래미 어워드 본상 후보 지명 불발을 두고 외신들의 비판이 이어지고 있다. 그래미 어워드를 주관하는 미국 레코딩 아카데미는 24일 제64회 그래미 어워드 후보작들을 발]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SF9 영빈→유태양, 한층 깊어진 성숙함]]></title>
         <id>https://entertain.v.daum.net/v/20211125010013155</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211124185956049"/>
         <updated>2021-11-24T10:24:05.018Z</updated>
         <content type="html"><![CDATA[[스타뉴스 윤상근 기자] 걸그룹 블랙핑크(BLACKPINK) 리사가 10일 오전 온라인으로 진행된 첫 솔로 싱글 앨범 'LALISA' 발매 기념 쇼케이스에서 포즈를 취하고 있다.  'LALISA'는 힙합을 기반으로 한 강렬한 사운드, 카리스마 넘치는 랩, 최정점의 퍼포먼스를 한데 모아 리사만의 음악적 정체성을 살려낸 앨범이다. / 사진제공 = YG엔터테인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["아이 멋져" 화사, 화사한 빛]]></title>
-        <id>https://entertain.v.daum.net/v/20211124185606995</id>
-        <link href="https://entertain.v.daum.net/v/20211124185606995"/>
-        <updated>2021-11-24T10:24:05.019Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 이기은 기자] 그룹 마마무 화사가 빛처럼 아름답게 돌아왔다. 당당한 여성들을 위한 찬가이기도 했다. 24일 저녁 화사는 두 번째 싱글 앨범 'Guilty Pleasure'(길티 플레저)와 타이틀곡 'I'm a 빛'(암어빛)를 발매하며 동시에 타이틀 뮤직비디오를 공개했다. '길티 플레저'는 남에게 이야기하거나 본인 스스로 느끼기에도 부끄러운 일]]></content>
     </entry>
 </feed>
