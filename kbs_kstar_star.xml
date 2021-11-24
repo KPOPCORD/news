@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 01:05:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 02:35:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['바른손+ 에이스토리' ,영화 강자와 드라마 에이스가 손잡는다]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=174919</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=174919</guid>
+            <pubDate>Wed, 24 Nov 2021 02:34:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=174919">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211124103107_fa2ee029bf7abb39ded8472662cf2262.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=174919">'바른손+ 에이스토리' ,영화 강자와 드라마 에이스가 손잡는다</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211124103107_fa2ee029bf7abb39ded8472662cf2262.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['모가디슈'부터 '자산어보'까지... 영화인들의 축제 청룡영화상, KBS홀에서 개최!]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=174669</link>
@@ -330,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=173137">[인터뷰] '그림자 미녀' 방수인 감독-아흠 작가 "말 못할 반전이 관전 포인트"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211117091616_bef59a66a5e0ece059da0d326cb11d41.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[화보] SF9 다원, 묘한 눈빛과 몽환적인 분위기]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=173017</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=173017</guid>
-            <pubDate>Mon, 22 Nov 2021 02:35:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=173017">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211116143043_7371cbe79f05d248000e07ef6ce72401.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=173017">[화보] SF9 다원, 묘한 눈빛과 몽환적인 분위기</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211116143043_7371cbe79f05d248000e07ef6ce72401.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
