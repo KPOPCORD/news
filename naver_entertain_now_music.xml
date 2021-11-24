@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-24T16:33:34.543Z</updated>
+    <updated>2021-11-24T17:26:58.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빈지노, 스웨덴서 2집 작업 중 ‘SODA (Demo)’ 공개]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000776772</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000776772"/>
+        <updated>2021-11-24T17:26:44.581Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 빈지노가 정규 2집 ‘NOWITZKI’ 작업을 위해 스웨덴으로 향하면서, 신곡 ‘SODA (Demo)’를 24일 밤 깜짝 공개했다. 빈지노는 지난 3월 자신의 두번째 정규앨범 제목이 ‘NOWITZKI’]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[H.OT. '우리들의 맹세', 재즈 버전으로 재탄생]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010852663</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001377568"/>
         <updated>2021-11-24T09:22:58.957Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 고아라 기자) 24일 오후 서울 용산구 노들섬 라이브하우스에서 이승윤의 새 정규 앨범 ‘폐허가 된다 해도’ 발매 쇼케이스가 열렸다. 이날 쇼케이스에 참석한 가수 이승윤이 트리플 타이틀 중 한 곡 '교재]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AB6IX, 오늘 日 데뷔앨범 발매…'앱솔루트 식스']]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010852429</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010852429"/>
-        <updated>2021-11-24T09:22:58.959Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]김예지 인턴 기자 = 그룹 '에이비식스(AB6IX)'가 24일 일본 데뷔 미니 앨범 '앱솔루트 식스(ABSOLUTE 6IX)'를 발매했다. 에이비식스는 올해 초 일본의 대형 페스티벌인 '아이치 임팩트]]></content>
     </entry>
 </feed>

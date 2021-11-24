@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-24T16:33:34.545Z</updated>
+    <updated>2021-11-24T17:26:58.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박희순 “‘지천명 아이돌’? 도장깨기 감사해” [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000947076</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000947076"/>
+        <updated>2021-11-24T17:26:51.473Z</updated>
+        <content type="html"><![CDATA[박희순 “‘지천명 아이돌’? 도장깨기 감사해” [화보] 패션 매거진 ’하퍼스 바자‘에서 배우 박희순과 함께한 화보를 공개했다. 박희순은 베테랑 배우다운 카리스마와 집중력으로 화보 현장을 순식간에 느와르 영화 무대로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김윤아 화보, 감출 수 없는 고품격 우아美]]></title>
         <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001623758</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003805694"/>
         <updated>2021-11-24T12:34:05.502Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 김준석 기자] 주장 한혜진이 시즌2 불참을 알렸다. 24일 방송된 SBS '골(Goal) 때리는 그녀들'에서는 '구척장신'의 주장 한혜진이 깜짝 등장했다. 이날 시즌2 리그전을 앞두고 새로 시즌2에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['-14kg' 이수지, 티셔츠가 헐렁헐렁...정승환 "맘고생했니 왜케 쪽 빠졌니"[TEN★]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000513659</id>
-        <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000513659"/>
-        <updated>2021-11-24T12:34:05.502Z</updated>
-        <content type="html"><![CDATA[[텐아시아=조준원 기자] 개그우먼 이수지가 감량 후 근황을 전했다. 이수지는 24일 자신의 인스타그램에 "세호선뱀 월동선물 아모프레 지나가던 길에"라는 글과 함께 한 장의 사진을 게재했다. 공개된 사진 속 이수지는]]></content>
     </entry>
 </feed>
