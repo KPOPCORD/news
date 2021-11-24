@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-24T15:23:49.403Z</updated>
+    <updated>2021-11-24T16:33:34.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김윤아 화보, 감출 수 없는 고품격 우아美]]></title>
+        <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001623758</id>
+        <link href="https://entertain.naver.com/now/read?oid=057&amp;aid=0001623758"/>
+        <updated>2021-11-24T16:33:27.420Z</updated>
+        <content type="html"><![CDATA[김윤아가 매거진 우먼센스의 12월호 커버를 장식했다. 자우림의 보컬 김윤아가 자연스러우면서도 품격있는 우아한 매력이 돋보이는 화보 이미지를 공개했다. 공개된 사진은 우먼센스 12월호의 표지를 장식한 김윤아의 화보 컷]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SF9 영빈→유태양, 한층 깊어진 성숙함 [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000947075</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000947075"/>
+        <updated>2021-11-24T16:33:27.421Z</updated>
+        <content type="html"><![CDATA[SF9 영빈→유태양, 한층 깊어진 성숙함 [화보] 매거진 싱글즈가 10번째 미니앨범 ’RUMINATION‘으로 돌아온 SF9 영빈X재윤X주호X유태양의 4인 4색 다채로운 매력이 가득 담긴 비주얼 화보를 공개했다. ‘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김영옥 "전성기? 수입 변화 없다"→임영웅에 '심쿵♥' 찐 팬심 고백 ('라스')[종합]]]></title>
         <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003805716</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000513659"/>
         <updated>2021-11-24T12:34:05.502Z</updated>
         <content type="html"><![CDATA[[텐아시아=조준원 기자] 개그우먼 이수지가 감량 후 근황을 전했다. 이수지는 24일 자신의 인스타그램에 "세호선뱀 월동선물 아모프레 지나가던 길에"라는 글과 함께 한 장의 사진을 게재했다. 공개된 사진 속 이수지는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙핑크 리사, 코로나 확진…"다른 멤버들, 결과 기다려"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=079&amp;aid=0003578914</id>
-        <link href="https://entertain.naver.com/now/read?oid=079&amp;aid=0003578914"/>
-        <updated>2021-11-24T12:34:05.506Z</updated>
-        <content type="html"><![CDATA[블랙핑크 리사가 코로나 확진 판정을 받았다. 소속사 YG엔터테인먼트는 24일 저녁 공식입장을 내어 이같이 밝혔다. 그러면서 "3명의 다른 블랙핑크 멤버는 아직 밀접 접촉자로 분류되진 않았으나 리사의 코로나19 양성]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙핑크 리사, 코로나19 확진]]></title>
-        <id>https://entertain.naver.com/now/read?oid=032&amp;aid=0003112277</id>
-        <link href="https://entertain.naver.com/now/read?oid=032&amp;aid=0003112277"/>
-        <updated>2021-11-24T12:34:05.507Z</updated>
-        <content type="html"><![CDATA[[경향신문] 그룹 블랙핑크의 멤버 리사가 코로나19에 확진됐다. 소속사 YG엔터테인먼트는 24일 “리사가 오늘 오후 코로나19 확진 판정을 받았다”고 밝혔다. YG엔터는 “(제니, 지수, 로제) 3명의 멤버는 아직]]></content>
     </entry>
 </feed>
