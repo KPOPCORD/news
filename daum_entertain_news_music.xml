@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-24T13:27:49.626Z</updated>
+    <updated>2021-11-24T14:21:09.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[몬스타엑스 '쇼챔' 1위..몬베베·셔누 향한 ♥]]></title>
+        <id>https://entertain.v.daum.net/v/20211124232004529</id>
+        <link href="https://entertain.v.daum.net/v/20211124232004529"/>
+        <updated>2021-11-24T14:20:42.105Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 몬스타엑스 ‘쇼챔’ 1위…몬베베·셔누 향한 ♥ 그룹 몬스타엑스가 MBC에브리원 ‘쇼챔피언’에서 1위를 차지했다. 몬스타엑스는 24일 오후 방송된 ‘쇼챔피언’에서 트와이스, 원어스, 윤하, 전소미와의 대결 끝에 신곡 ‘Rush Hour(러쉬 아워)’로 1위에 올랐다. 전날 SBS MTV ‘더쇼’에 이어 ‘쇼챔피언’까지 음악방송 2관왕을 차지한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤결, 女 폭행 혐의 입건..잔나비 측 "군 복무 전 계약 만료"]]></title>
         <id>https://entertain.v.daum.net/v/20211124205345000</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211124185508966"/>
         <updated>2021-11-24T10:24:05.021Z</updated>
         <content type="html"><![CDATA[(사진=YG엔터테인먼트)[이데일리 스타in 김보영 기자] 그룹 블랙핑크(BLACKPINK) 멤버 리사가 코로나19 확진 판정을 받았다. 블랙핑크의 소속사 YG엔터테인먼트 관계자는 24일 이데일리에 “블랙핑크 리사가 오늘(24일) 오후 코로나19 확진 판정을 받았다”며 “3명의 다른 블랙핑크 멤버는 아직 밀접 접촉자로 분류되진 않았으나 리사의 코로나19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몬스타엑스 '쇼챔' 1위 "몬베베 너무 고맙다"]]></title>
-        <id>https://entertain.v.daum.net/v/20211124183720748</id>
-        <link href="https://entertain.v.daum.net/v/20211124183720748"/>
-        <updated>2021-11-24T10:24:05.022Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 몬스타엑스(MONSTA X)가 '쇼! 챔피언' 1위를 차지했다. 24일 저녁 방송된 MBC에브리원 음악프로그램 '쇼! 챔피언'에서는 몬스타엑스의 '러시 아워(Rush Hour)', 트와이스의 '사이언티스트(SCIENTIST), 원어스의 '월하미인 (月下美人 : LUNA)', 전소미의 'XOXO', 윤하의 '별의 조각'이 1위 후]]></content>
     </entry>
 </feed>
