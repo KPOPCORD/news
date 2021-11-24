@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-24T18:25:46.837Z</updated>
+    <updated>2021-11-24T19:18:56.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신기루, 라디오 생방 중 비속어 사용…솔직함일까 민폐일까]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000833723</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000833723"/>
+        <updated>2021-11-24T19:18:48.069Z</updated>
+        <content type="html"><![CDATA[오랜 무명시절 끝에 대세 개그우먼으로 떠오른 신기루가 도마 위에 올랐다. 지난 24일 생방송으로 진행된 KBS 쿨FM ‘박명수의 라디오쇼’에 신기루가 게스트로 출연했다. 이날 신기루는 남편과의 러브스토리, 결혼 생활]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원진아 “‘지옥’ 비중 떠나 무조건 하고 싶었다” [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000947078</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000947078"/>
+        <updated>2021-11-24T19:18:48.073Z</updated>
+        <content type="html"><![CDATA[원진아 “‘지옥’ 비중 떠나 무조건 하고 싶었다” [화보] 남성지 &lt;에스콰이어&gt;가 배우 원진아와 함께 진행한 12월호 화보를 공개했다. ‘당신이 몰랐던 원진아’라는 키워드로 진행된 이번 화보는 어떤 촬영 현장이든 비]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주지훈, 치명치명 열매 과다 섭취 [화보]]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000947077</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003007402"/>
         <updated>2021-11-24T13:27:42.518Z</updated>
         <content type="html"><![CDATA[걸 그룹 카라 출신 니콜이 먼저 세상을 떠난 구하라에 대한 그리움을 나타냈다. 니콜은 24일 자신의 인스타그램을 통해 "이쁘네 우리 하라"라는 글과 함께 여러 장의 사진을 올렸다. 공개된 사진에는 생전 구하라의 모습]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리사, 코로나19 확진 “블랙핑크 멤버들 현재 결과 기다리는 중” (공식)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000833691</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000833691"/>
-        <updated>2021-11-24T12:34:05.500Z</updated>
-        <content type="html"><![CDATA[블랙핑크 멤버 리사가 코로나19에 확진됐다. 24일 소속사 YG엔터테인먼트는 공식입장을 내고 “리사가 오늘(24일) 오후 코로나19 확진 판정을 받았다”라고 밝혔다. 이어 “3명의 다른 블랙핑크 멤버는 아직 밀접 접]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['제주 카페 사장' 박한별 "동네에 불편 끼치고 싶지 않아" [스타IN★]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003007395</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003007395"/>
-        <updated>2021-11-24T12:34:05.501Z</updated>
-        <content type="html"><![CDATA[배우 박한별이 자신이 운영하는 카페 손님들에게 당부의 글을 남겼다. 박한별은 24일 카페 공식 인스타그램을 통해 카페 주차장에 대한 안내와 함께 당부의 메시지를 전했다. 그는 카페 주차장을 새롭게 마련했다며 "주차하]]></content>
     </entry>
 </feed>
