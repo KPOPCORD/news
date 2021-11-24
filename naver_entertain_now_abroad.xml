@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-24T22:22:01.448Z</updated>
+    <updated>2021-11-24T23:22:56.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[샤론 스톤 "뇌졸중 앓고 직업 잃어"..할머니 이어 母도 발병 '가족력' [Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004516651</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004516651"/>
+        <updated>2021-11-24T23:22:55.509Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 할리우드 배우 샤론 스톤(63)이 뇌졸중으로 쓰러진 어머니를 위해 기도해달라고 팬들에게 부탁했다. 샤론 스톤은 22일(현지시간) 자신의 인스타그램에 "급성 뇌졸중을 앓고 있는 우리 엄마 도로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['한의사♥' 강소라, '출산 7개월 차' 딸 엄마의 민낯 미모...수수해서 더 예쁘네]]></title>
         <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003805713</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000833586"/>
         <updated>2021-11-24T05:20:42.325Z</updated>
         <content type="html"><![CDATA[가수 화사의 두 번째 싱글 앨범 ‘Guilty Pleasure’(길티 플레저) 쇼케이스가 24일 오후 서울 광진구 광장동 예스24라이브홀에서 열렸다. 타이틀곡 'I'm a 빛(암어빛)'은 화사가 외국 프로듀서진과 처]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화사 '화끈하게 시작해' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000833585</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000833585"/>
-        <updated>2021-11-24T05:20:42.330Z</updated>
-        <content type="html"><![CDATA[가수 화사의 두 번째 싱글 앨범 ‘Guilty Pleasure’(길티 플레저) 쇼케이스가 24일 오후 서울 광진구 광장동 예스24라이브홀에서 열렸다. 화사가 신곡 무대를 갖고 있다.]]></content>
     </entry>
 </feed>
