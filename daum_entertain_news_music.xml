@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-24T14:21:09.612Z</updated>
+    <updated>2021-11-24T15:23:49.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마마무 문별 "솔로 앨범 준비 중, 내 감성 보여줄 것"]]></title>
+        <id>https://entertain.v.daum.net/v/20211125000011720</id>
+        <link href="https://entertain.v.daum.net/v/20211125000011720"/>
+        <updated>2021-11-24T15:23:20.953Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 마마무 문별 “솔로 앨범 준비 중, 내 감성 보여줄 것” [화보] 매거진 &lt;싱글즈&gt;가 실력파 그룹 마마무에서 랩과 퍼포먼스를 담당, 독보적인 랩 스타일을 구축하고 있는 마마무 문별의 고혹적인 비주얼 화보를 공개했다. 해맑은 미소로 인사를 건네며 촬영장에 들어온 마마무 문별은 촬영이 시작되자 시크한 표정으로 카메라를 응시하며 걸크러쉬 매력을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[몬스타엑스 '쇼챔' 1위..몬베베·셔누 향한 ♥]]></title>
         <id>https://entertain.v.daum.net/v/20211124232004529</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211124185539981"/>
         <updated>2021-11-24T10:24:05.021Z</updated>
         <content type="html"><![CDATA[[스포츠한국 모신정 기자] 트와이스가 미국 빌보드 3대 메인 차트 '빌보드 200', '아티스트 100'의 최상위권 아티스트에 등극했다. 빌보드가 23일(한국 시간 기준) 공식 홈페이지를 통해 발표한 바에 따르면, 트와이스는 지난 12일 발매한 정규 3집 'Formula of Love: O+T=&lt;3'(포뮬러 오브 러브: O+T=&lt;3)로 11월 27일 자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙핑크 리사, 코로나19 확진.."멤버들 검사 결과 대기"]]></title>
-        <id>https://entertain.v.daum.net/v/20211124185508966</id>
-        <link href="https://entertain.v.daum.net/v/20211124185508966"/>
-        <updated>2021-11-24T10:24:05.021Z</updated>
-        <content type="html"><![CDATA[(사진=YG엔터테인먼트)[이데일리 스타in 김보영 기자] 그룹 블랙핑크(BLACKPINK) 멤버 리사가 코로나19 확진 판정을 받았다. 블랙핑크의 소속사 YG엔터테인먼트 관계자는 24일 이데일리에 “블랙핑크 리사가 오늘(24일) 오후 코로나19 확진 판정을 받았다”며 “3명의 다른 블랙핑크 멤버는 아직 밀접 접촉자로 분류되진 않았으나 리사의 코로나19]]></content>
     </entry>
 </feed>
