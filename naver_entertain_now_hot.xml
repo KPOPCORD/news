@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-24T17:26:58.594Z</updated>
+    <updated>2021-11-24T18:25:46.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주지훈, 치명치명 열매 과다 섭취 [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000947077</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000947077"/>
+        <updated>2021-11-24T18:25:40.194Z</updated>
+        <content type="html"><![CDATA[주지훈, 치명치명 열매 과다 섭취 [화보] 배우 주지훈이 패션 매거진 &lt;코스모폴리탄&gt; 12월호에 향수 화보를 공개했다. 주지훈은 스튜디오 속 펼쳐진 광활한 대지 속에서 대담하고 와일드한 분위기를 발산하며 이국적이고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박희순 “‘지천명 아이돌’? 도장깨기 감사해” [화보]]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000947076</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003007395"/>
         <updated>2021-11-24T12:34:05.501Z</updated>
         <content type="html"><![CDATA[배우 박한별이 자신이 운영하는 카페 손님들에게 당부의 글을 남겼다. 박한별은 24일 카페 공식 인스타그램을 통해 카페 주차장에 대한 안내와 함께 당부의 메시지를 전했다. 그는 카페 주차장을 새롭게 마련했다며 "주차하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한혜진 "시즌2 불참…왼쪽 무릎 연골이 없어 축구 힘들어"('골때녀2')[종합]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003805694</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003805694"/>
-        <updated>2021-11-24T12:34:05.502Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 김준석 기자] 주장 한혜진이 시즌2 불참을 알렸다. 24일 방송된 SBS '골(Goal) 때리는 그녀들'에서는 '구척장신'의 주장 한혜진이 깜짝 등장했다. 이날 시즌2 리그전을 앞두고 새로 시즌2에]]></content>
     </entry>
 </feed>
