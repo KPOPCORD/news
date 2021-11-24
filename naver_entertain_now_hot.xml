@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-24T12:34:11.812Z</updated>
+    <updated>2021-11-24T13:27:49.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["이혼한다잖아" 박선주, ♥강레오와 결혼 비하인드→공동 육아 일상 ('내가 키운다')[종합]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003805701</id>
+        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003805701"/>
+        <updated>2021-11-24T13:27:42.514Z</updated>
+        <content type="html"><![CDATA[[스포츠조선닷컴 정안지 기자] 박선주가 공동육아 중임을 밝혔다. 24일 방송된 JTBC '용감한 솔로 육아 - 내가 키운다'(이하 '내가 키운다')에서는 공동 육아 중인 일상을 공개했다. 이날 에이미는 3교시 카약과]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[♥하는 남자 위해 희생? 김청 "혜은이 얼마 안 됐는데..." ('같이삽시다3')[종합]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003805700</id>
+        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003805700"/>
+        <updated>2021-11-24T13:27:42.515Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 조윤선 기자] 혜은이가 사랑하는 남자를 위해 희생할 수 있냐는 질문을 받았다. 24일 방송된 KBS 2TV '박원숙의 같이 삽시다 시즌3'에서는 선비의 고장 경상북도 영주를 찾아 1박 2일 여행의 첫날을]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크리스, 미성년자 성폭행 혐의 구속→연예계 퇴출 수순 [DA:차이나]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000947059</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000947059"/>
+        <updated>2021-11-24T13:27:42.516Z</updated>
+        <content type="html"><![CDATA[크리스, 미성년자 성폭행 혐의 구속→연예계 퇴출 수순 [DA:차이나] 중국에서 미성년자를 성폭행한 혐의로 구속된 엑소 출신 크리스(중국명 우이판)가 연예계 퇴출 수순을 밟고 있다. 23일 중국공연업협회 인터넷 분야]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박은영, 건강 빨간불? "소중함 깨닫고 요양 중" [스타IN★]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003007405</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003007405"/>
+        <updated>2021-11-24T13:27:42.517Z</updated>
+        <content type="html"><![CDATA[아나운서 출신 방송인 박은영이 요양 중이라며 근황을 공개해 관심을 받았다. 박은영은 24일 공식 인스타그램을 통해 "건강의 소중함을 새삼 깨닫고 요양 중에 뒤늦은 업뎃"이라는 글과 함께 두 장의 사진을 게재했다. 공]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['카라 출신' 니콜, 故구하라와 추억 회상 "이쁘네 우리 하라" [스타IN★]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003007402</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003007402"/>
+        <updated>2021-11-24T13:27:42.518Z</updated>
+        <content type="html"><![CDATA[걸 그룹 카라 출신 니콜이 먼저 세상을 떠난 구하라에 대한 그리움을 나타냈다. 니콜은 24일 자신의 인스타그램을 통해 "이쁘네 우리 하라"라는 글과 함께 여러 장의 사진을 올렸다. 공개된 사진에는 생전 구하라의 모습]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[리사, 코로나19 확진 “블랙핑크 멤버들 현재 결과 기다리는 중” (공식)]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000833691</id>
@@ -144,40 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=032&amp;aid=0003112248"/>
         <updated>2021-11-24T11:18:21.893Z</updated>
         <content type="html"><![CDATA[[경향신문] 건강, 환경·동물 보호 등 다양한 이유로 채식을 지향하는 사람이 늘고 있다. 고기를 먹지 않으면 샐러드만 먹어야 하는 건 아닐까. 달걀, 우유 같은 동물성 재료 없이도 풍부한 맛이 나는 음식을 만들 수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한지민, 어딜봐서 40세야...삼각콘 모자도 소화하네 "키 커 보이쥬?"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003805688</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003805688"/>
-        <updated>2021-11-24T11:18:21.894Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 정안지 기자] 배우 한지민이 애교 가득한 일상을 전했다. 한지민은 24일 자신의 인스타그램 스토리를 통해 근황이 담긴 사진을 게재했다. 사진 속에는 외출 중인 한지민의 일상이 담겨있다. 청바지에 흰티]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[TEN스타필드] "죽기 전에 그만" BJ파이, '머니게임' 여파ing]]></title>
-        <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000513654</id>
-        <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000513654"/>
-        <updated>2021-11-24T11:18:21.895Z</updated>
-        <content type="html"><![CDATA[[텐아시아=서예진 기자] ≪ 서예진의 BJ 통신≫ 서예진 텐아시아 기자가 BJ, 유튜버 , SNS 스타 등 인플루언서들의 소식을 전합니다 . 최근 방송과 유튜버의 경계가 허물어지고 온라인에서 활동하는 인플루언서들이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[故 구하라 사망 2주기…카라 니콜 “예쁘네 우리 하라”]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000947015</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000947015"/>
-        <updated>2021-11-24T11:18:21.896Z</updated>
-        <content type="html"><![CDATA[故 구하라 사망 2주기…카라 니콜 “예쁘네 우리 하라” 그룹 카라 출신 니콜이 멤버 故 구하라를 향한 그리움을 드러냈다. 니콜은 24일 자신의 인스타그램에 “예쁘네 우리 하라”라는 문구와 함께 사진을 게재했다. 사진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙핑크 리사, 코로나19 확진…"다른 멤버들도 검사"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=277&amp;aid=0005005000</id>
-        <link href="https://entertain.naver.com/now/read?oid=277&amp;aid=0005005000"/>
-        <updated>2021-11-24T11:18:21.896Z</updated>
-        <content type="html"><![CDATA[그룹 블랙핑크의 멤버 리사가 코로나19에 확진됐다. 소속사 YG엔터테인먼트는 24일 "리사가 이날 오후 코로나19 확진 판정을 받았다"고 밝혔다. YG엔터테인먼트는 "(제니, 지수, 로제) 3명의 멤버는 아직 밀접]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤주만, ♥딸 자는 모습만 봐도 그렇게 좋을까...."세 식구 함께" 현실 육아 시작에도 행복]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003805686</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003805686"/>
-        <updated>2021-11-24T11:18:21.898Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 정안지 기자] 배우 윤주만이 딸을 향한 애정을 드러냈다. 윤주만은 24일 자신의 인스타그램을 통해 "태리가 집에 왔어요"라면서 사진을 게재했다. 사진 속에는 집이 좋은 듯 곤히 잠을 자고 있는 윤주만]]></content>
     </entry>
 </feed>

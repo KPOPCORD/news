@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-24T12:34:11.813Z</updated>
+    <updated>2021-11-24T13:27:49.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[화사, 은밀하게 즐기는 '길티 플레저']]></title>
+        <id>https://entertain.naver.com/now/read?oid=465&amp;aid=0000005249</id>
+        <link href="https://entertain.naver.com/now/read?oid=465&amp;aid=0000005249"/>
+        <updated>2021-11-24T13:27:35.789Z</updated>
+        <content type="html"><![CDATA[화사는 솔로로서 조금 특별한 색을 갖는다. 동양적인 얼굴과 서양인의 굴곡있는 몸매의 이색 조화만큼 음악에 있어서도 여러 오묘함을 품는다. 섹시하지만 노골적이진 않고, 자극적이지만 외설은 없다. 있는 그대로의 자신의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTS, 그래미상 ‘베스트 팝 듀오 또는 그룹 퍼포먼스’ 후보에]]></title>
         <id>https://entertain.naver.com/now/read?oid=032&amp;aid=0003112265</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000330277"/>
         <updated>2021-11-24T09:22:58.967Z</updated>
         <content type="html"><![CDATA[[스포티비뉴스=정유진 기자] 마마무 화사가 빛이 나는 솔로로 돌아왔다. 화사는 24일 오후 6시 각종 온라인 음원 사이트를 통해 두 번째 싱글 '길티 플레저'를 발표했다. 화사는 '멍청이' '마리아'에 이어 이번에도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“아이 멋져” 화사, 제정신 아니면 어때 ‘I’m a 빛‘ [들어보고서]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000515172</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000515172"/>
-        <updated>2021-11-24T09:22:58.968Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 화사가 돌아왔다. 화사는 11월 24일 두 번째 싱글 앨범 'Guilty Pleasure'을 발매, 타이틀곡 'I'm a 빛(i'm a B)' 음원과 뮤직비디오를 공개했다. 앨범명 'Guilt]]></content>
     </entry>
 </feed>
