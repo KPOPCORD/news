@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-24T06:26:41.516Z</updated>
+    <updated>2021-11-24T07:20:51.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA['블랙위도우' 스칼릿 조핸슨 소름돋는 닮은꼴 "내 삶 원한다" 눈물 [Oh!llywood]]]></title>
+        <title type="html"><![CDATA['동성 성추행' 케빈 스페이시, '하우스 오브 카드' 제작사에 370억 배상 [엑's 할리우드]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001377487</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001377487"/>
+        <updated>2021-11-24T07:20:51.304Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 동성 배우와 미성년자를 성추행한 혐의로 활동을 중단했던 케빈 스페이시가 넷플릭스 오리지널 시리즈 '하우스 오브 카드'의 제작사에 막대한 배상금을 물게 됐다. 23일(현지시간) 영국 BBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스칼릿 조핸슨 소름돋게 닮은 모델.."내 삶 원한다" 눈물 [Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004516350</id>
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004516350"/>
         <updated>2021-11-24T06:26:40.869Z</updated>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000833576</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000833576"/>
         <updated>2021-11-24T05:20:42.343Z</updated>
-        <content type="html"><![CDATA[가수 화사의 두 번째 싱글 앨범 ‘Guilty Pleasure’(길티 플레저) 쇼케이스가 24일 오후 서울 광진구 광장동 예스24라이브홀에서 열렸다. 화사가 신곡 무대를 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화사 '강렬한 눈빛' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000833575</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000833575"/>
-        <updated>2021-11-24T05:20:42.344Z</updated>
         <content type="html"><![CDATA[가수 화사의 두 번째 싱글 앨범 ‘Guilty Pleasure’(길티 플레저) 쇼케이스가 24일 오후 서울 광진구 광장동 예스24라이브홀에서 열렸다. 화사가 신곡 무대를 갖고 있다.]]></content>
     </entry>
 </feed>
