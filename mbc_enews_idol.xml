@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 08:26:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 09:22:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 병역특례 보류…국방부 "신중해야" [종합]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/331531</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/331531</guid>
+            <pubDate>Thu, 25 Nov 2021 09:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331531">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/25/97d17d6d-f091-49e7-a96a-3157babeb0a5.jpg" alt="방탄소년단 병역특례 보류…국방부 " 신중해야"="" [종합]"="">        <div class="text-box">            <p class="summary">방탄소년단 병역특례 보류…국방부 "신중해야" [종합]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/25/97d17d6d-f091-49e7-a96a-3157babeb0a5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소녀시대 효연, 한겨울 하의실종 룩도 '찰떡' [인스타]]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/331524</link>
@@ -86,14 +94,6 @@
             <pubDate>Thu, 25 Nov 2021 05:19:26 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331509">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/25/69f41fce-2bd5-4bff-b59d-af2d7e34fac0.jpg" alt="펜타곤 키노, 확진 " 홍석→진호="" 전원="" 음성"="" [전문]"="">        <div class="text-box">            <p class="summary">펜타곤 키노, 확진 "홍석→진호 전원 음성" [전문]</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/25/69f41fce-2bd5-4bff-b59d-af2d7e34fac0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['방과후 설렘' 옥주현 "연습생들에 좋은 추억 주고파"]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/331506</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/331506</guid>
-            <pubDate>Thu, 25 Nov 2021 05:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331506">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/25/c7477ff4-9208-453b-b64e-6c9a9edecf32.jpg" alt="'방과후 설렘' 옥주현 " 연습생들에="" 좋은="" 추억="" 주고파""="">        <div class="text-box">            <p class="summary">'방과후 설렘' 옥주현 "연습생들에 좋은 추억 주고파"</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/25/c7477ff4-9208-453b-b64e-6c9a9edecf32.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
