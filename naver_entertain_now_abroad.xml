@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-25T04:29:27.023Z</updated>
+    <updated>2021-11-25T05:20:02.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[베어 그릴스 “북한 가보고 싶다. 코로나 종식되면 내년 한국 방문할 것”]]></title>
+        <id>https://entertain.naver.com/now/read?oid=022&amp;aid=0003641614</id>
+        <link href="https://entertain.naver.com/now/read?oid=022&amp;aid=0003641614"/>
+        <updated>2021-11-25T05:20:02.173Z</updated>
+        <content type="html"><![CDATA[유튜브 채널 ‘디스커버리 서바이벌’ 캡처 영국의 방송인 베어 그릴스(본명 에드워드 마이클 그릴스·사진)가 근황을 밝혔다. 유튜브 채널 ‘디스커버리 서바이벌’은 25일 오후 ‘오늘부터 K-그릴스, 내년에는 한국도 제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보그 편집장 "0사이즈 마른 모델들? NO..요즘 모델들은 먹어" [Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004516882</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004516882"/>
+        <updated>2021-11-25T05:20:02.179Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 패션 업계는 갈 길이 멀긴 하지만 적어도 방향을 바꾸고 있다. 영국 보그지의 편집장 에드워드 에닌풀(Edward Enninful, 49)은 모델들이 실제로 음식을 먹으며 1990년대 표준처럼]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[졸리 딸 샤일로, 모델 데뷔하나? 미모 보니 브래드 피트 붕어빵[할리우드 비하인드]]]></title>
         <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000515446</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003805713"/>
         <updated>2021-11-24T14:21:08.946Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 정안지 기자] 배우 강소라가 일상 속 아름다움을 자랑했다. 강소라는 24일 자신의 인스타그램을 통해 "너무 예쁜집에 초대받아 기분 좋은 날"이라면서 사진을 게재했다. 사진 속에는 지인의 집을 찾은 강]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日 여성 기상캐스터, BTS 뷔 분장…얼마나 닮았나 봤더니]]></title>
-        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004674893</id>
-        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004674893"/>
-        <updated>2021-11-24T14:21:08.947Z</updated>
-        <content type="html"><![CDATA[일본 기상캐스터 겸 모델 키지마 아스카(貴島 明日香)가 그룹 방탄소년단(BTS)의 뷔(V)로 변장한 모습이 팬들의 눈길을 끌었다. 지난 22일 키지마 아스카는 자신의 인스타그램과 블로그에 방탄소년단 뷔로 분장한 사진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AB6IX, 오늘 日 데뷔앨범 발매…'앱솔루트 식스']]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010852429</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010852429"/>
-        <updated>2021-11-24T09:23:13.539Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]김예지 인턴 기자 = 그룹 '에이비식스(AB6IX)'가 24일 일본 데뷔 미니 앨범 '앱솔루트 식스(ABSOLUTE 6IX)'를 발매했다. 에이비식스는 올해 초 일본의 대형 페스티벌인 '아이치 임팩트]]></content>
     </entry>
 </feed>
