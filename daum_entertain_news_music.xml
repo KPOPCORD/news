@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-25T13:28:29.997Z</updated>
+    <updated>2021-11-25T14:21:18.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['국민가수' 본선 3차 1R, 김동현·이솔로몬 속한 '숯 속의 진주들' 1위 지켰다]]></title>
+        <id>https://entertain.v.daum.net/v/20211125230111573</id>
+        <link href="https://entertain.v.daum.net/v/20211125230111573"/>
+        <updated>2021-11-25T14:20:49.554Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김한길 기자] '국민가수' 본선 3차 1라운드 결과, 숯 속의 진주들(김동현, 이솔로몬, 김유하, 박광선, 임지수) 팀이 1위 자리를 굳건히 지켰다. 25일 밤 방송된 TV CHOSUN 오디션 프로그램 '내일은 국민가수'(이하 '국민가수') 8회에서는 준결승으로 가는 마지막 관문인 본선 3차전이 펼쳐졌다. 이날 마지막 순서로는 박창근, 김]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['야생돌' 권형석, 마지막 미션 앞두고 최종 탈락 "최선 다했다"]]></title>
         <id>https://entertain.v.daum.net/v/20211125222207323</id>
@@ -24,7 +31,7 @@
         <id>https://entertain.v.daum.net/v/20211125200135649</id>
         <link href="https://entertain.v.daum.net/v/20211125200135649"/>
         <updated>2021-11-25T11:18:04.553Z</updated>
-        <content type="html"><![CDATA[방탄소년단이 지난 21일(현지시간) 미국 로스엔젤레스에서 열린 2021 어메리칸 뮤직 어워즈(AAA)에서 대상 격인 ‘올해의 아티스트상’을 수상했다. LA | 로이터연합뉴스    [스포츠서울 | 박효실기자] 전인미답의 길을 열어가고 있는 방탄소년단에게 병역특례를 적용해주자는 여론에 힘입어 발의된 ‘BTS 법안’이 결국 무산됐다. 병역특례자의]]></content>
+        <content type="html"><![CDATA[방탄소년단이 지난 21일(현지시간) 미국 로스엔젤레스에서 열린 2021 어메리칸 뮤직 어워즈(AMA)에서 대상 격인 ‘올해의 아티스트상’을 수상했다. LA | 로이터연합뉴스    [스포츠서울 | 박효실기자] 전인미답의 길을 열어가고 있는 방탄소년단에게 병역특례를 적용해주자는 여론에 힘입어 발의된 ‘BTS 법안’이 결국 무산됐다. 병역특례자의]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GHOST9, 심장을 'Control' 쇼케이스 포토타임]]></title>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211125171121053"/>
         <updated>2021-11-25T08:26:15.974Z</updated>
         <content type="html"><![CDATA[[동아닷컴] 엑소 카이, 수록곡 ‘Vanilla’ 나른·몽환 매력 예고 엑소 카이(에스엠엔터테인먼트 소속)가 새 미니앨범 수록곡 ‘Vanilla’(바닐라)로 몽환적인 매력을 선사한다. 이번 앨범에 수록된 신곡 ‘Vanilla’는 나른한 기타와 봉고, 트로피컬 신시사이저 사운드가 조화를 이루는 인디 팝 장르의 곡으로, 사랑에 푹 빠진 기분을 부드러운 바닐라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이핑크 데뷔 10주년 팬미팅 12월 31일 개최]]></title>
-        <id>https://entertain.v.daum.net/v/20211125165235358</id>
-        <link href="https://entertain.v.daum.net/v/20211125165235358"/>
-        <updated>2021-11-25T08:26:15.975Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] 에이핑크 데뷔 10주년 팬미팅 12월 31일 개최 [공식] 그룹 에이핑크(Apink)가 오는 12월 10주년 기념 연말 팬미팅을 개최한다. 소속사 IST엔터테인먼트 측은 25일 “에이핑크(박초롱, 윤보미, 정은지, 손나은, 김남주, 오하영)가 12월 31일 서울 광진구 세종대학교 대양홀에서 2021 에이핑크 팬미팅 ‘핑크 이브’(2021 Ap]]></content>
     </entry>
 </feed>
