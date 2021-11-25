@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-25T20:23:24.552Z</updated>
+    <updated>2021-11-25T21:18:49.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['국민가수' 박장현, 공황장애→인간 승리.. 팀 전원 준결승 직행]]></title>
+        <id>https://entertain.v.daum.net/v/20211126061207934</id>
+        <link href="https://entertain.v.daum.net/v/20211126061207934"/>
+        <updated>2021-11-25T21:18:19.892Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김한길 기자] '국민가수' 3차전 결과 무쌍마초(박장현, 고은성, 손진욱, 조연호, 하동연) 팀이 대장 박장현의 맹활약 속, 전원 준결승에 직행했다. 25일 밤 방송된 TV CHOSUN 오디션 프로그램 '내일은 국민가수'(이하 '국민가수') 8회에서는 준결승으로 가는 마지막 관문인 본선 3차전이 펼쳐졌다. 이날 본선 3차 1라운드 결과, 숯]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['힐링 트롯돌' 이찬원, '편의점' 음원 스트리밍 200만 회 돌파]]></title>
+        <id>https://entertain.v.daum.net/v/20211126060223783</id>
+        <link href="https://entertain.v.daum.net/v/20211126060223783"/>
+        <updated>2021-11-25T21:18:19.896Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 이찬원의 '편의점' 유튜브 음원이 11월 25일 저녁 기준 스트리밍 200만 회를 넘어섰다. 지난 8월 25일 이찬원 공식 유튜브 채널인 '이찬원(일명 ' 또튜브')'에는 "Convenience store (편의점)"라는 제목의 음원이 게재되었다. 이는 이찬원의 첫 싱글 앨범 '편의점'의 음원으로 영상이 따로 없는 유튜브 콘텐츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[데뷔 25주년 앞둔 자우림.. "마지막 앨범이라도 후회 없어"]]></title>
         <id>https://entertain.v.daum.net/v/20211126040611071</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211125185035576"/>
         <updated>2021-11-25T10:23:59.942Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] 4세대 걸그룹 비밀병기 케플러 김채현의 화보가 공개됐다. 멤버 김채현은 ‘데이즈드’ 화보 촬영과 함께한 인터뷰에서 케플러 활동과 팬들에 대한 감사함을 더욱 드러냈다. 그는 “응원해주신 덕분에 오랫동안 꿈꿔온 일들의 시작점에 설 수 있게 되었어요. 방송이 끝난 이후에도 실감을 못 했는데, 본격적으로 앨범 준비도 하고 이렇게 화보도 찍]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["남아있는 우리끼리"..'7인조 재편' 고스트나인, 새 출발 각오]]></title>
-        <id>https://entertain.v.daum.net/v/20211125185011570</id>
-        <link href="https://entertain.v.daum.net/v/20211125185011570"/>
-        <updated>2021-11-25T10:23:59.942Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 그룹 고스트나인(GHOST9)이 멤버 변동 후 7인의 멤버로 새로운 출발을 알렸다.&nbsp; 고스트나인(손준형, 이신, 최준성, 이강성, 프린스, 이우진, 이진우)의 새 미니앨범 'NOW : Who we are facing (나우 : 후 위 아 페이싱)' 발매기념 온·오프라인 쇼케이스가 25일 오후 진행됐다. 새 미니앨범 'NOW :]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GHOST9, '황동준-이태승 탈퇴' 7인 체제 컴백 소감]]></title>
-        <id>https://entertain.v.daum.net/v/20211125182607182</id>
-        <link href="https://entertain.v.daum.net/v/20211125182607182"/>
-        <updated>2021-11-25T10:23:59.943Z</updated>
-        <content type="html"><![CDATA[[OSEN=조은정 기자] 25일 오후 서울 예스24라이브홀에서 그룹 고스트나인(GHOST9) 컴백 쇼케이스가 진행됐다. 그룹 고스트나인이 질의응답 시간을 갖고 있다. /cej@osen.co.kr]]></content>
     </entry>
 </feed>

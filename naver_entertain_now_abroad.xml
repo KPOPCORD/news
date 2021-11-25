@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-25T20:23:24.548Z</updated>
+    <updated>2021-11-25T21:18:49.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수리, 크니까 아빠 톰 크루즈 똑같아..케이티 홈즈와 외출[파파라치컷]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000515699</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000515699"/>
+        <updated>2021-11-25T21:18:48.379Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 케이티 홈즈와 수리 크루즈 모녀의 근황이 공개됐다. 11월 24일(현지시간) 해외 매체 스플래시닷컴은 이날 미국 뉴욕 소호 거리 외출에 나선 케이티 홈즈와 수리 크루즈 모녀의 모습을 포착해 공]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[졸리-피트의 15세 딸 샤일로…부모 뛰어넘는 감각, 모델 데뷔하나]]></title>
         <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004675506</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000833829"/>
         <updated>2021-11-25T06:25:50.266Z</updated>
         <content type="html"><![CDATA[그룹 고스트나인 새 미니앨범 '나우 : 후 위 아 페이싱(NOW : Who we are facing)' 쇼케이스가 25일 오후 서울 광진구 광장동 예스24라이브홀에서 열렸다. 고스트나인 이우진이 포즈를 취하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이강성 '멋진 하트' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000833827</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000833827"/>
-        <updated>2021-11-25T06:25:50.267Z</updated>
-        <content type="html"><![CDATA[그룹 고스트나인 새 미니앨범 '나우 : 후 위 아 페이싱(NOW : Who we are facing)' 쇼케이스가 25일 오후 서울 광진구 광장동 예스24라이브홀에서 열렸다. 고스트나인 이강성이 포즈를 취하고 있다.]]></content>
     </entry>
 </feed>
