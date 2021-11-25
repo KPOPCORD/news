@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-25T22:25:20.496Z</updated>
+    <updated>2021-11-25T23:23:30.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["노망났나"..'63세' 마돈나, 시신재현 이어 세미누드 눈총[Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004517291</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004517291"/>
+        <updated>2021-11-25T23:23:30.002Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 팝스타 마돈나가 논란의 사진으로 계속해서 팬들을 혼란에 빠뜨리고 있다. 63세 마돈나는 24일(현지시간) 자신의 인스타그램에 섹시한 세미 누드 사진을 올렸다. 공개된 사진 속 그는 침대 위에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수리, 크니까 아빠 톰 크루즈 똑같아..케이티 홈즈와 외출[파파라치컷]]]></title>
         <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000515699</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000833830"/>
         <updated>2021-11-25T06:25:50.265Z</updated>
         <content type="html"><![CDATA[그룹 고스트나인 새 미니앨범 '나우 : 후 위 아 페이싱(NOW : Who we are facing)' 쇼케이스가 25일 오후 서울 광진구 광장동 예스24라이브홀에서 열렸다. 고스트나인 프린스가 포즈를 취하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이우진 '부드러운 미소' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000833829</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000833829"/>
-        <updated>2021-11-25T06:25:50.266Z</updated>
-        <content type="html"><![CDATA[그룹 고스트나인 새 미니앨범 '나우 : 후 위 아 페이싱(NOW : Who we are facing)' 쇼케이스가 25일 오후 서울 광진구 광장동 예스24라이브홀에서 열렸다. 고스트나인 이우진이 포즈를 취하고 있다.]]></content>
     </entry>
 </feed>
