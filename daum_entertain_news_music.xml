@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-25T12:35:06.691Z</updated>
+    <updated>2021-11-25T13:28:29.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['야생돌' 권형석, 마지막 미션 앞두고 최종 탈락 "최선 다했다"]]></title>
+        <id>https://entertain.v.daum.net/v/20211125222207323</id>
+        <link href="https://entertain.v.daum.net/v/20211125222207323"/>
+        <updated>2021-11-25T13:28:01.202Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김한길 기자] '야생돌' 최하위 권형석이 결국 최종 탈락했다. 25일 밤 방송된 MBC 서바이벌 오디션 프로그램 '극한데뷔 야생돌(이하 '야생돌')' 10회에서는 데뷔조 최종 탈락자가 공개되는 모습이 그려졌다. 이날 지원자들은 댄스 프로로 출격한 소녀시대 효연, 2PM 우영, 2NE1 출신 공민지의 심사 아래 1:1:1 댄스 포지션 배틀을 선]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['야생돌' 서성혁, 댄스 포지션 배틀서 승리..패배한 김기중은 눈물]]></title>
+        <id>https://entertain.v.daum.net/v/20211125220111136</id>
+        <link href="https://entertain.v.daum.net/v/20211125220111136"/>
+        <updated>2021-11-25T13:28:01.203Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김한길 기자] '야생돌' 서성혁이 1:1:1 댄스 포지션 배틀에서 승리를 따냈다. 25일 밤 방송된 MBC 서바이벌 오디션 프로그램 '극한데뷔 야생돌(이하 '야생돌')' 10회에서는 지원자들이 포지션 댄스 배틀을 벌이는 모습이 그려졌다. 이날 지원자들은 댄스 프로로 출격한 소녀시대 효연, 2PM 우영, 2NE1 출신 공민지의 심사 아래 1:]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전대미문 BTS, 48년만의 대중가수 병역특례 요구가 말하는 것]]></title>
         <id>https://entertain.v.daum.net/v/20211125200135649</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211125165235358"/>
         <updated>2021-11-25T08:26:15.975Z</updated>
         <content type="html"><![CDATA[[동아닷컴] 에이핑크 데뷔 10주년 팬미팅 12월 31일 개최 [공식] 그룹 에이핑크(Apink)가 오는 12월 10주년 기념 연말 팬미팅을 개최한다. 소속사 IST엔터테인먼트 측은 25일 “에이핑크(박초롱, 윤보미, 정은지, 손나은, 김남주, 오하영)가 12월 31일 서울 광진구 세종대학교 대양홀에서 2021 에이핑크 팬미팅 ‘핑크 이브’(2021 Ap]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[버가부 "라이언전 곡으로 데뷔하게 돼 영광, 부담감과 책임감 공존"]]></title>
-        <id>https://entertain.v.daum.net/v/20211125163606687</id>
-        <link href="https://entertain.v.daum.net/v/20211125163606687"/>
-        <updated>2021-11-25T08:26:15.975Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 박상후 기자] 그룹 버가부(bugAboo)가 라이언 전 대표를 언급했다. 버가부(초연, 은채, 유우나, 레이니, 시안, 지인)는 최근 서울 강남구 모처의 한 카페에서 티브이데일리와 첫 번째 싱글 앨범 '버가부(bugAboo)' 활동 성료 기념 인터뷰를 진행했다. 앞서 버가부는 음악 프로듀서 라이언 전이 제작한 첫 걸그룹으로 데뷔 전부터 많은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["방탄소년단 병역 특례, 신중할 필요"..국방부, BTS 병역법 개정 논의 보류]]></title>
-        <id>https://entertain.v.daum.net/v/20211125163411609</id>
-        <link href="https://entertain.v.daum.net/v/20211125163411609"/>
-        <updated>2021-11-25T08:26:15.978Z</updated>
-        <content type="html"><![CDATA[[OSEN=이승훈 기자] 국방부가 그룹 방탄소년단(RM, 진, 슈가, 제이홉, 지민, 뷔, 정국) 등 대중문화 예술인을 대상으로 한 병역법 개정안을 재논의한 가운데, "신중할 필요가 있다"라며 조심스러운 입장을 보였다.&nbsp; 오늘(25일) 오전 국회에서는 제3차 국방위원회 법률안심사소위원회가 진행됐다. 이날 안건 중 하나로 병역법 일부 개정법률안이 올랐고, 부]]></content>
     </entry>
 </feed>
