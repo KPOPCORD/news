@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-25T03:23:20.401Z</updated>
+    <updated>2021-11-25T04:29:27.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[졸리 딸 샤일로, 모델 데뷔하나? 미모 보니 브래드 피트 붕어빵[할리우드 비하인드]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000515446</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000515446"/>
+        <updated>2021-11-25T04:29:26.330Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '브래드 피트 붕어빵' 샤일로가 모델 데뷔를 제안 받았다는 소식이 전해졌다. 11월 24일(현지시간) 해외 연예매체 쉬 노우즈에 따르면, 할리우드 배우 안젤리나 졸리와 브래드 피트의 딸 샤일로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이준혁 '마을애가게 에서 만나요' [MK포토]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000833802</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010852429"/>
         <updated>2021-11-24T09:23:13.539Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]김예지 인턴 기자 = 그룹 '에이비식스(AB6IX)'가 24일 일본 데뷔 미니 앨범 '앱솔루트 식스(ABSOLUTE 6IX)'를 발매했다. 에이비식스는 올해 초 일본의 대형 페스티벌인 '아이치 임팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단, 美 '제임스 코든쇼' 출연…LA·서울 넘나든 'PTD']]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010852406</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010852406"/>
-        <updated>2021-11-24T09:23:13.541Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]김예지 인턴 기자 = 그룹 '방탄소년단'(BTS)이 미국 CBS 인기 토크쇼 '더 레이트 레이트 쇼 위드 제임스 코든(The Late Late Show with James Corden, 이하 '제임스]]></content>
     </entry>
 </feed>

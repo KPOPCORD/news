@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-25T03:23:20.359Z</updated>
+    <updated>2021-11-25T04:29:27.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[YG "블랙핑크 지수·로제·제니 코로나 음성..확진 리사도 양호"]]></title>
+        <id>https://entertain.v.daum.net/v/20211125122834250</id>
+        <link href="https://entertain.v.daum.net/v/20211125122834250"/>
+        <updated>2021-11-25T04:28:57.669Z</updated>
+        <content type="html"><![CDATA[[OSEN=하수정 기자] 블랙핑크의 지수, 로제, 제니가 코로나19 검사에서 음성 판정을 받았다. YG엔터테인먼트 측은 25일 오전 "블랙핑크 멤버 지수, 로제, 제니의 코로나19 유전자 증폭 검사 결과 모두 음성으로 판정됐다"며 공식 입장을 밝혔다. 이어 "콘텐츠 촬영 일정을 앞두고 지난 24일 확진 통보를 받은 리사의 건강 상태는 별다른 의심 증상이 없]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['2021 MAMA' 라인업 공개, 에스파→투모로우바이투게더 출연 확정]]></title>
         <id>https://entertain.v.daum.net/v/20211125121722959</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211125103713135"/>
         <updated>2021-11-25T02:35:36.947Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 가수 김재환이 2년 만 오프라인 콘서트를 개최한다. 김재환은 오는 12월 24, 25, 26일 서울 장충체육관에서 단독 콘서트 '歡迎 : 환영' 서울 공연을 개최한다. '歡迎 : 환영'은 서울을 시작으로 대구, 부산, 성남까지 4개의 지역에서 투어 공연으로 펼쳐질 예정이다. 약 2년 만에 오프라인으로 진행되는 '歡迎 : 환영'을 통]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김재환, 12월 24·25·26일 단독 콘서트 '歡迎 : 환영' 개최]]></title>
-        <id>https://entertain.v.daum.net/v/20211125103559072</id>
-        <link href="https://entertain.v.daum.net/v/20211125103559072"/>
-        <updated>2021-11-25T02:35:36.948Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 가수 김재환이 2년 만의 오프라인 콘서트로 팬들을 만난다. 김재환은 오는 12월 24, 25, 26일 서울 장충체육관에서 단독 콘서트 '歡迎 : 환영' 서울 공연을 개최한다. '歡迎 : 환영'은 서울을 시작으로 대구, 부산, 성남까지 4개의 지역에서 투어 공연으로 펼쳐질 예정이다. 약 2년 만에 오프라인으로 진행되는 '歡迎 : 환]]></content>
     </entry>
 </feed>
