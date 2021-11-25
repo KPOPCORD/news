@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-25T10:24:27.621Z</updated>
+    <updated>2021-11-25T11:18:33.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전대미문 BTS, 48년만의 대중가수 병역특례 요구가 말하는 것]]></title>
+        <id>https://entertain.v.daum.net/v/20211125200135649</id>
+        <link href="https://entertain.v.daum.net/v/20211125200135649"/>
+        <updated>2021-11-25T11:18:04.553Z</updated>
+        <content type="html"><![CDATA[방탄소년단이 지난 21일(현지시간) 미국 로스엔젤레스에서 열린 2021 어메리칸 뮤직 어워즈(AAA)에서 대상 격인 ‘올해의 아티스트상’을 수상했다. LA | 로이터연합뉴스    [스포츠서울 | 박효실기자] 전인미답의 길을 열어가고 있는 방탄소년단에게 병역특례를 적용해주자는 여론에 힘입어 발의된 ‘BTS 법안’이 결국 무산됐다. 병역특례자의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GHOST9, 심장을 'Control' 쇼케이스 포토타임]]></title>
         <id>https://entertain.v.daum.net/v/20211125185053579</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211125163411609"/>
         <updated>2021-11-25T08:26:15.978Z</updated>
         <content type="html"><![CDATA[[OSEN=이승훈 기자] 국방부가 그룹 방탄소년단(RM, 진, 슈가, 제이홉, 지민, 뷔, 정국) 등 대중문화 예술인을 대상으로 한 병역법 개정안을 재논의한 가운데, "신중할 필요가 있다"라며 조심스러운 입장을 보였다.&nbsp; 오늘(25일) 오전 국회에서는 제3차 국방위원회 법률안심사소위원회가 진행됐다. 이날 안건 중 하나로 병역법 일부 개정법률안이 올랐고, 부]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙핑크, 리사 외 멤버들 코로나19 '음성']]></title>
-        <id>https://entertain.v.daum.net/v/20211125163100493</id>
-        <link href="https://entertain.v.daum.net/v/20211125163100493"/>
-        <updated>2021-11-25T08:26:15.978Z</updated>
-        <content type="html"><![CDATA[[TV리포트=전동선 기자] 그룹 '블랙핑크' 멤버 리사가 코로나19 확진 판저을 받은 가운데 다른 멤버 지수·로제·제니가 음성 판정을 받았다. 소속사 YG엔터테인먼트는 25일 "유전자 증폭 검사(Real Time RT-PCR) 결과 지수·로제·제니가 모두 음성으로 판정됐다"면서 "콘텐츠 촬영 일정을 앞두고 전날 확진 통보를 받은 리사의 건강 상태는 별다른]]></content>
     </entry>
 </feed>

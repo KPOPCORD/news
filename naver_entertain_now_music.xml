@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-25T10:24:27.619Z</updated>
+    <updated>2021-11-25T11:18:33.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팝업★]정동원, 신곡 MV 촬영 비하인드..임영웅 '오겜' 따라하는 형 바라기]]></title>
+        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003502748</id>
+        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003502748"/>
+        <updated>2021-11-25T11:18:20.843Z</updated>
+        <content type="html"><![CDATA[[헤럴드POP=박서연 기자]가수 정동원이 신곡 '잘가요 내사랑' 뮤직비디오 촬영 현장을 공개했다. 25일 정동원의 유튜브 채널에는 '정동원 신곡 뮤비 촬영!! 촬영장에서 눈물 쏟은 사연은?!'이라는 제목의 영상이 게]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정청래 의원 “대중가요계 공정한 저작권료 분배해야 제2의 방탄소년단(BTS) 나온다”…K-POP 상생을 위한 대중음악 저작권료 분배율 개선 방안 토론회 개최]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000777021</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000777021"/>
+        <updated>2021-11-25T11:18:20.844Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 대중가요계의 불공정한 저작권 분배율 개선을 통해 문화예술인의 권익을 보호하고, K-POP의 상생을 논의하는 자리가 마련된다. 더불어민주당 정청래 의원(서울 마포을, 국회 문화체육관광위원회)은 오는 29]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[라포엠(LA POEM), 트릴로지 시리즈 대단원 ‘Eclipse-Trilogy’ 스페셜 앨범으로 발매]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000777016</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000330475"/>
         <updated>2021-11-25T08:26:35.690Z</updated>
         <content type="html"><![CDATA[[스포티비뉴스=김원겸 기자]그룹 에버글로우(EVERGLOW)가 신곡 뮤직비디오 티저를 공개했다. 에버글로우(이유, 시현, 미아, 온다, 아샤, 이런)는 지난 24일 오후 공식 SNS를 통해 세 번째 미니앨범 '리턴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김재환, 크리스마스 단독 콘서트 '歡迎 : 환영' 개최…최고의 무대 약속]]></title>
-        <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000330473</id>
-        <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000330473"/>
-        <updated>2021-11-25T08:26:35.691Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=김원겸 기자]가수 김재환이 2년 만의 오프라인 콘서트로 팬들에게 연말 선물을 전한다. 김재환은 오는 12월 24, 25, 26일 서울 장충체육관에서 단독 콘서트 '歡迎 : 환영' 서울 공연을 개최한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTS, 정작 '병역특례' 원한 적 없는데…음악계·정치권 더 갑론을박]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010854863</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010854863"/>
-        <updated>2021-11-25T08:26:35.693Z</updated>
-        <content type="html"><![CDATA[기사내용 요약 국방위 법안소위, 오늘 병역법 개정안 논의 보류 음악업계, K팝 지속가능성과 직결…방탄소년단은 상징적 존재 [서울=뉴시스]이재훈 기자 = 그룹 '방탄소년단'(BTS)이 포함된 대중문화 예술인의 군 대체]]></content>
     </entry>
 </feed>
