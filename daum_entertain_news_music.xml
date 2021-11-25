@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-25T18:26:29.076Z</updated>
+    <updated>2021-11-25T19:18:31.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[데뷔 25주년 앞둔 자우림.. "마지막 앨범이라도 후회 없어"]]></title>
+        <id>https://entertain.v.daum.net/v/20211126040611071</id>
+        <link href="https://entertain.v.daum.net/v/20211126040611071"/>
+        <updated>2021-11-25T19:18:03.710Z</updated>
+        <content type="html"><![CDATA[“애절한 발라드를 부르는 가수의 앨범 제목이 ‘영원한 사랑’이면 다들 아름다운 음악이 많이 들어있을 거라고 기대하겠죠. 그게 자우림 앨범 제목이라면 좀 수상하지 않나요. 곧이곧대로 영원한 사랑은 아닐 거예요.” 짓궂은 눈빛으로 록밴드 자우림의 보컬 김윤아가 말했다. 26일 공개하는 11집 앨범 ‘영원한 사랑’에 대한 얘기다. 앨범 발매와 동시에 3일간의 콘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['국민가수' 이솔로몬·박창근·이병찬 등 TOP14..김유하 女 유일 생존]]></title>
         <id>https://entertain.v.daum.net/v/20211126003121344</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211125182607182"/>
         <updated>2021-11-25T10:23:59.943Z</updated>
         <content type="html"><![CDATA[[OSEN=조은정 기자] 25일 오후 서울 예스24라이브홀에서 그룹 고스트나인(GHOST9) 컴백 쇼케이스가 진행됐다. 그룹 고스트나인이 질의응답 시간을 갖고 있다. /cej@osen.co.kr]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GHOST9, 'TRIANGLE' 쇼케이스 무대]]></title>
-        <id>https://entertain.v.daum.net/v/20211125180951881</id>
-        <link href="https://entertain.v.daum.net/v/20211125180951881"/>
-        <updated>2021-11-25T09:22:21.468Z</updated>
-        <content type="html"><![CDATA[[OSEN=조은정 기자] 25일 오후 서울 예스24라이브홀에서 그룹 고스트나인(GHOST9) 컴백 쇼케이스가 진행됐다. 그룹 고스트나인이 멋진 무대를 펼치고 있다. /cej@osen.co.kr]]></content>
     </entry>
 </feed>
