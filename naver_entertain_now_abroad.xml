@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-26T22:22:28.382Z</updated>
+    <updated>2021-11-26T23:21:34.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['매트릭스4' 크리스티나 리치, 당당히 내놓은 D라인..튼살까지 선명[Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004517877</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004517877"/>
+        <updated>2021-11-26T23:21:33.444Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 할리우드 배우 크리스티나 리치(Christina Ricci)가 자신의 D라인을 당당히 과시했다. 배우 남편 마크 햄튼(Mark Hampton)과 지난 10월 결혼해 현재 임신 중인 리치가 유]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["BTS 보려고 청소 알바"… 다운증후군 팬에게 벌어진 '기적']]></title>
         <id>https://entertain.naver.com/now/read?oid=417&amp;aid=0000758855</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000834099</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000834099"/>
         <updated>2021-11-26T12:34:02.097Z</updated>
-        <content type="html"><![CDATA[청룡영화상 레드카펫이 26일 오후 서울 영등포구 여의도 KBS홀에서 열렸다. 배우 박은빈이 레드카펫에 참석하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박은빈 '힐링 미소' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000834098</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000834098"/>
-        <updated>2021-11-26T12:34:02.099Z</updated>
         <content type="html"><![CDATA[청룡영화상 레드카펫이 26일 오후 서울 영등포구 여의도 KBS홀에서 열렸다. 배우 박은빈이 레드카펫에 참석하고 있다.]]></content>
     </entry>
 </feed>
