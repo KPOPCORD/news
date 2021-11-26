@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-26T16:33:24.324Z</updated>
+    <updated>2021-11-26T17:26:19.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NCT 태용, 선물 같은 비주얼 [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000947523</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000947523"/>
+        <updated>2021-11-26T17:26:11.662Z</updated>
+        <content type="html"><![CDATA[NCT 태용, 선물 같은 비주얼 [화보] NCT 태용의 화보가 공개됐다. 이번 화보는 12월 크리스마스 시즌을 맞아 홀리데이 컨셉으로 진행됐다. 연말 분위기를 완성시키는 루미나리에를 배경으로 태용이 가진 반짝이는 아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[TEN 포토] 조인성 '김윤석선배 에스코트']]></title>
+        <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000514231</id>
+        <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000514231"/>
+        <updated>2021-11-26T17:26:11.664Z</updated>
+        <content type="html"><![CDATA[[텐아시아=조준원 기자]배우 조인성이 26일 오후 서울 여의도 KBS홀에서 열린 제42회 청룡영화상 레드카펫 행사에 참석하고 있다. 조준원 기자 wizard333@tenasia.co.kr]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[TEN 포토] 이엘 '손도 이쁜 하트']]></title>
         <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000514230</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003806823"/>
         <updated>2021-11-26T15:23:20.935Z</updated>
         <content type="html"><![CDATA[[스포츠조선 조윤선 기자] '나 혼자 산다' 산다라박이 집을 최초로 공개했다. 26일 방송된 MBC '나 혼자 산다'에서는 자취 1개월 차 새내기 산다라박의 일상이 공개됐다. 38년 만에 첫 독립을 했다는 산다라박은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빅톤 허찬, 코로나19 확진 판정 “나머지 멤버들 전원 음성”(공식)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001624299</id>
-        <link href="https://entertain.naver.com/now/read?oid=057&amp;aid=0001624299"/>
-        <updated>2021-11-26T15:23:20.936Z</updated>
-        <content type="html"><![CDATA[빅톤 허찬이 코로나19 확진 판정을 받았다. 빅톤 소속사 IST엔터테인먼트는 26일 공식 팬카페에 “빅톤의 멤버 허찬이 오늘(26일) 코로나19 확진 판정을 받았습니다”라고 알렸다. 이어 “지난 23일 멤버 강승식,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 홀리뱅 '압도적인 퍼포먼스']]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003806821</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003806821"/>
-        <updated>2021-11-26T15:23:20.938Z</updated>
-        <content type="html"><![CDATA[제42회 청룡영화상 시상식이 26일 서울 여의도 KBS홀에서 열렸다. 스우파 우승자인 '홀리뱅'이 축하 공연을 펼치고 있다. 여의도=최문영 기자 deer@sportschosun.com /2021.11.26/ ▶202]]></content>
     </entry>
 </feed>
