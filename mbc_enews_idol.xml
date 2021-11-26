@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 04:27:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 05:20:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제시카, 럭셔리 요트 여행…늘씬 각선미 '눈길' [인스타]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/331593</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/331593</guid>
+            <pubDate>Fri, 26 Nov 2021 05:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331593">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/26/0dbef8ca-4852-4366-a164-853bd9cf30c3.jpg" alt="제시카, 럭셔리 요트 여행…늘씬 각선미 '눈길' [인스타]">        <div class="text-box">            <p class="summary">제시카, 럭셔리 요트 여행…늘씬 각선미 '눈길' [인스타]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/26/0dbef8ca-4852-4366-a164-853bd9cf30c3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[브레이브걸스 민영, 고양이와 눈맞춤도 '다정' [인스타]]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/331578</link>
@@ -86,14 +94,6 @@
             <pubDate>Thu, 25 Nov 2021 07:21:51 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331522">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/25/4843b087-6c24-40c1-adc6-a029dc9fd3c2.jpg" alt="'야생돌' 데뷔조 최종 탈락자 공개→'음중' 무대 걸고 신경전">        <div class="text-box">            <p class="summary">'야생돌' 데뷔조 최종 탈락자 공개→'음중' 무대 걸고 신경전</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/25/4843b087-6c24-40c1-adc6-a029dc9fd3c2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['방과후 설렘', 오디션 홍수 속 빛나는 목표 "빌보드 조준" [종합]]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/331515</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/331515</guid>
-            <pubDate>Thu, 25 Nov 2021 07:21:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331515">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/25/20529fca-a2bc-4fa6-8448-ee67df6af444.jpg" alt="'방과후 설렘', 오디션 홍수 속 빛나는 목표 " 빌보드="" 조준"="" [종합]"="">        <div class="text-box">            <p class="summary">'방과후 설렘', 오디션 홍수 속 빛나는 목표 "빌보드 조준" [종합]</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/25/20529fca-a2bc-4fa6-8448-ee67df6af444.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
