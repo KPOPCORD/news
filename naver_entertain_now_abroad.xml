@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-25T23:23:30.626Z</updated>
+    <updated>2021-11-26T01:05:13.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미국서 현실판 오징어게임 우승자 나왔다…상금 5억]]></title>
+        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005748131</id>
+        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005748131"/>
+        <updated>2021-11-26T01:05:13.244Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 박형기 기자 = 미국 유명 유튜버가 만든 ‘현실판 오징어게임’의 우승자가 나왔다. 약 40억 원의 제작비가 들어간 이 게임의 우승자는 상금 45만6000달러(약 5억4000만원)를 챙겼다. 유명 유튜]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["노망났나"..'63세' 마돈나, 시신재현 이어 세미누드 눈총[Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004517291</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000833831"/>
         <updated>2021-11-25T06:25:50.264Z</updated>
         <content type="html"><![CDATA[그룹 고스트나인 새 미니앨범 '나우 : 후 위 아 페이싱(NOW : Who we are facing)' 쇼케이스가 25일 오후 서울 광진구 광장동 예스24라이브홀에서 열렸다. 고스트나인 이진우가 포즈를 취하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프린스 '멋진 하트' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000833830</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000833830"/>
-        <updated>2021-11-25T06:25:50.265Z</updated>
-        <content type="html"><![CDATA[그룹 고스트나인 새 미니앨범 '나우 : 후 위 아 페이싱(NOW : Who we are facing)' 쇼케이스가 25일 오후 서울 광진구 광장동 예스24라이브홀에서 열렸다. 고스트나인 프린스가 포즈를 취하고 있다.]]></content>
     </entry>
 </feed>
