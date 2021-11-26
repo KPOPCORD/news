@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-26T14:20:50.136Z</updated>
+    <updated>2021-11-26T15:23:27.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스타DJ 알렌 워커(Alan Walker) 우주적 세계관 사운드에 담은 두번째 앨범 ‘World Of Walker’ 발매]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000777249</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000777249"/>
+        <updated>2021-11-26T15:23:14.286Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] EDM장르 스타 DJ 알렌 워커(Alan Walker)가 26일, 새 앨범 ‘World Of Walker’를 발매했다. 알렌 워커는 일렉트로닉 댄스 뮤직(Electronic Dance Music) 장르]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘소모적 저작권 형사소송’ 줄인다…檢 조정제도 도입]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000777248</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000777248"/>
+        <updated>2021-11-26T15:23:14.286Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 저작권 분쟁과 관련한 소모적인 형사소송을 줄이기 위해 검찰 단계에서 조정 제도가 도입된다. 문화체육관광부는 대검찰청, 한국저작권위원회와 협력해 다음 달 1일부터 저작권법 위반 형사사건에 대한 ‘저작권]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤태화, KBS2 ‘빨강구두’ OST로 발라드 본색 ‘다신 못 볼까봐’ 27일 음원 공개]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003558499</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=016&amp;aid=0001917649"/>
         <updated>2021-11-26T08:24:59.681Z</updated>
         <content type="html"><![CDATA[[헤럴드경제 = 서병기 선임기자]가수 임영웅이 11월 3주차 아이돌차트 평점랭킹에서 최다득표자에 올랐다. 26일 아이돌차트에 따르면 지난 19일부터 25일까지 집계된 평점랭킹에서 임영웅은 60만9117표를 얻어 최다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['1월 5일 데뷔' 하이키, 두 번째 멤버 서이 공개 "K팝에 한 획 그을 것"[일문일답]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003503148</id>
-        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003503148"/>
-        <updated>2021-11-26T08:24:59.682Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=박서현기자] '22년 첫 걸그룹' 하이키(H1-KEY)의 두 번째 멤버 서이(SEOI)가 전격 오픈됐다. 26일 GLG(그랜드라인 그룹)는 하이키(H1-KEY) 공식 SNS를 통해 두 번째 멤버 서이의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에델 라인클랑, 연말 단독 콘서트 티켓 오픈..특별한 고품격 라이브 예고]]></title>
-        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003503140</id>
-        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003503140"/>
-        <updated>2021-11-26T08:24:59.683Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=천윤혜기자]크로스오버 그룹 에델 라인클랑(조형균, 이충주, 김동현, 안세권)이 연말 단독 콘서트 '2021 에델 라인클랑 Last Concert'를 개최한다. 에델 라인클랑 '2021 에델 라인클랑 L]]></content>
     </entry>
 </feed>
