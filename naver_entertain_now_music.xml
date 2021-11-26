@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-26T10:24:53.311Z</updated>
+    <updated>2021-11-26T11:20:35.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임영웅, 평점랭킹 35주 연속 1위…최다 득표자 등극]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004517620</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004517620"/>
+        <updated>2021-11-26T11:20:22.286Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 가수 임영웅이 11월 3주차 아이돌차트 평점랭킹에서 최다 득표자로 올랐다. 26일 아이돌차트에 따르면 지난 19일부터 25일까지 집계된 평점랭킹에서 임영웅은 60만 9117표를 얻어 최다 득]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[러블리즈, 그 시절 우리가 사랑했던 우리]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001378427</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001378379"/>
         <updated>2021-11-26T08:24:59.695Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 미래소년이 첫 시즌 그리팅을 출시한다. 소속사 DSP미디어에 따르면 26일 오후 6시 '미래소년 더 퍼스트 시즌 그리팅 '바이 앤드 바이'(MIRAE The First Season']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[T1419, 유닛 콘셉트 포토 공개]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000777173</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000777173"/>
-        <updated>2021-11-26T08:24:59.696Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 보이그룹 T1419(티일사일구·노아, 시안, 케빈, 건우, 레오, 온, 제로, 카이리, 키오)가 유닛 포토 티저를 공개해 눈길을 끌었다. T1419는 26일 정오 공식 SNS 채널을 통해 새 앨범 ‘무]]></content>
     </entry>
 </feed>

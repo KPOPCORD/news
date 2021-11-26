@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-26T10:24:53.308Z</updated>
+    <updated>2021-11-26T11:20:35.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[몬스타엑스 '뮤뱅' 1위 "사랑한다 몬베베!"]]></title>
+        <id>https://entertain.v.daum.net/v/20211126195558890</id>
+        <link href="https://entertain.v.daum.net/v/20211126195558890"/>
+        <updated>2021-11-26T11:20:06.858Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 몬스타엑스 ‘뮤뱅’ 1위 “사랑한다 몬베베!” [종합] 그룹 몬스타엑스가 ‘뮤직뱅크’ 1위를 차지했다. 몬스타엑스는 26일 오후 방송된 KBS 2TV ‘뮤직뱅크’에서 트와이스와의 경합 끝에 신곡 ‘Rush Hour(러쉬 아워)’로 1위를 기록했다. 앞서 SBS MTV ‘더쇼’와 MBC에브리원 ‘쇼챔피언’에 연이어 1위를 거머쥐며 음악방송 3관]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트와이스 정연 단독 브이로그..야무진 먹방+운전]]></title>
         <id>https://entertain.v.daum.net/v/20211126190443028</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211126155858220"/>
         <updated>2021-11-26T07:20:30.962Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 그룹 에이티즈(ATEEZ)가 라이브콜을 진행한다. 26일 엔씨소프트, 클렙 측은 "글로벌 팬덤 플랫폼 유니버스 유니버스(UNIVERSE)가 오는 12월 4일 오후 5시 그룹 에이티즈의 1대1 라이브콜(LIVE CALL) 행사 'Deep in ATEEZ(딥 인 에이티즈)'를 개최한다"고 밝혔다. 유니버스 라이브콜은 아티스트와 팬이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["팀명 바꾸고 관심 떨어져"..2F, 10년 내공은 불변]]></title>
-        <id>https://entertain.v.daum.net/v/20211126155625145</id>
-        <link href="https://entertain.v.daum.net/v/20211126155625145"/>
-        <updated>2021-11-26T07:20:30.964Z</updated>
-        <content type="html"><![CDATA[포맨에서 2F로, 첫 미니 앨범 'if' 발매 [더팩트 | 정병근 기자] 이제 베테랑 포맨이 아닌, 신인으로 돌아간 2F지만 명불허전 가창력과 깊은 울림은 여전했다. 2F(신용재, 김원주)가 26일 오후 2시 서울 청담동 일지아트홀에서 첫 미니 앨범 'if(이프)' 발표 쇼케이스를 진행했다. 'if'는 2008년 데뷔 때부터 함께 해온 윤민수의 품을 떠나]]></content>
     </entry>
 </feed>
