@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 02:34:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 03:23:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['방과후 설렘', 오디션 프로그램 최초 음원 출시 곡 공유]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/331577</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/331577</guid>
+            <pubDate>Fri, 26 Nov 2021 03:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331577">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/26/52877ba2-f914-49d0-af3a-5478a3f56002.jpg" alt="'방과후 설렘', 오디션 프로그램 최초 음원 출시 곡 공유">        <div class="text-box">            <p class="summary">'방과후 설렘', 오디션 프로그램 최초 음원 출시 곡 공유</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/26/52877ba2-f914-49d0-af3a-5478a3f56002.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오마이걸 효정, '두데' 생방송 중 셀카 인증 화제]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/331558</link>
@@ -86,14 +94,6 @@
             <pubDate>Thu, 25 Nov 2021 06:25:17 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331511">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/25/4957aa34-5870-4c1a-8bd3-f3f0ff09c3df.jpg" alt="(여자)아이들 소연 " 서바이벌만="" 네="" 번째,="" 연습생="" 마음="" 이해돼"(방과후="" 설렘)"="">        <div class="text-box">            <p class="summary">(여자)아이들 소연 "서바이벌만 네 번째, 연습생 마음 이해돼"(방과후 설렘)</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/25/4957aa34-5870-4c1a-8bd3-f3f0ff09c3df.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[T1419 케빈·건우→키오·노아, 물 오른 개인 티저]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/331512</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/331512</guid>
-            <pubDate>Thu, 25 Nov 2021 06:25:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331512">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/25/7a658692-0dda-41ab-9898-9ff245205d6d.jpg" alt="T1419 케빈·건우→키오·노아, 물 오른 개인 티저">        <div class="text-box">            <p class="summary">T1419 케빈·건우→키오·노아, 물 오른 개인 티저</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/25/7a658692-0dda-41ab-9898-9ff245205d6d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
