@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-26T20:22:35.723Z</updated>
+    <updated>2021-11-26T21:19:42.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["BTS 보려고 청소 알바"… 다운증후군 팬에게 벌어진 '기적']]></title>
+        <id>https://entertain.naver.com/now/read?oid=417&amp;aid=0000758855</id>
+        <link href="https://entertain.naver.com/now/read?oid=417&amp;aid=0000758855"/>
+        <updated>2021-11-26T21:19:41.761Z</updated>
+        <content type="html"><![CDATA[그룹 방탄소년단(BTS)의 열성 팬인 미국의 발달장애 소년이 BTS 콘서트 관람이라는 꿈을 이루게 됐다. 지난 24일(이하 현지시각) 미국 로스앤젤레스(LA) 지역 방송 NBCLA에 따르면 다운증후군을 앓는 14세]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“이미 다른 남자 만나는데…”, 카니예 웨스트 뒤늦게 “킴 카다시안 돌아와줘” 호소[해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003558526</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003558526"/>
+        <updated>2021-11-26T21:19:41.762Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]카니예 웨스트(44)가 이혼한 전 아내 킴 카다시안(41)에게 화해를 호소하고 있다고 25일(현지시간) USA투데이가 보도했다. 그는 이날 LA 스키드로 캠프 인근 노숙자들에게 추수감사절]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송혜교, 장기용 "10년 전 시작된 우리" 고백에 오열...박효주는 췌장암 판정 ('지헤중')[종합]]]></title>
         <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003806772</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000834098"/>
         <updated>2021-11-26T12:34:02.099Z</updated>
         <content type="html"><![CDATA[청룡영화상 레드카펫이 26일 오후 서울 영등포구 여의도 KBS홀에서 열렸다. 배우 박은빈이 레드카펫에 참석하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박은빈 '사랑스러운 미소' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000834097</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000834097"/>
-        <updated>2021-11-26T12:34:02.100Z</updated>
-        <content type="html"><![CDATA[청룡영화상 레드카펫이 26일 오후 서울 영등포구 여의도 KBS홀에서 열렸다. 배우 박은빈이 레드카펫에 참석하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 구교환 '시크한 표정']]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003806503</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003806503"/>
-        <updated>2021-11-26T12:34:02.102Z</updated>
-        <content type="html"><![CDATA[제42회 청룡영화상 레드카펫이 26일 여의도 KBS홀에서 진행됐다. 배우 구교환이 포토타임을 갖고 있다. 여의도=최문영 기자 deer@sportschosun/2021.11.26/ ▶2022 임인년 신년운세 보러가기]]></content>
     </entry>
 </feed>

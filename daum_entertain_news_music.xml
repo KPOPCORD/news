@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-26T20:22:36.073Z</updated>
+    <updated>2021-11-26T21:19:42.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美서 만난 BTS 팬들 "'AMA' 대상 자랑스러워..그래미도 기대해"]]></title>
+        <id>https://entertain.v.daum.net/v/20211127060027255</id>
+        <link href="https://entertain.v.daum.net/v/20211127060027255"/>
+        <updated>2021-11-26T21:19:12.654Z</updated>
+        <content type="html"><![CDATA[그룹 방탄소년단의 콘서트 MD 상품을 구매하기 위해 소파이 스타디움을 찾은 팬들.(사진=김현식 기자)방탄소년단의 콘서트 장소인 소파이 스타디움 전경.(사진=김현식 기자)[로스앤젤레스(미국)=이데일리 스타in 김현식 기자] 그룹 방탄소년단(BTS)의 콘서트 시작을 하루 앞둔 26일(이하 현지시간). 공연 장소인 미국 로스앤젤레스(LA) 소파이 스타디움 인근]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['쇼미더머니10' 조광일·신스·쿤타·비오, 파이널 진출]]></title>
         <id>https://entertain.v.daum.net/v/20211127020112396</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211126175217068"/>
         <updated>2021-11-26T09:22:11.801Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;'판타지돌'&nbsp;킹덤(KINGDOM)이 화보를 통해 반전 매력을 뽐냈다. 오늘(26일) 오후 1시, 롤링스톤 코리아는 공식 유튜브 채널과 롤링스톤 코리아 홈페이지를 통해 그룹&nbsp;킹덤&nbsp;화보와 인터뷰를 공개했다. 공개된 화보에서 블랙 수트로 스타일링한&nbsp;킹덤은 그동안 볼 수 없었던 시크하고 세련된 외모를 자랑했다. 인터뷰에서&nbsp;킹덤은 멤버들의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["가을연금송? 솔직히 욕심" 2F 신용재·김원주, 포맨 아닌 신인의 마음]]></title>
-        <id>https://entertain.v.daum.net/v/20211126175012021</id>
-        <link href="https://entertain.v.daum.net/v/20211126175012021"/>
-        <updated>2021-11-26T09:22:11.802Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김노을 기자) 보컬 듀오 2F(이프) 신용재, 김원주가 가을 연금송에 대한 욕심을 내비쳤다. 2F의 첫 번째 미니앨범 'if' 발매 기념 쇼케이스가 26일 서울 강남구 첨당동 일지아트홀에서 열렸다. 진행은 아나운서 출신 방송인 이혜성이 맡았다. 'if'는 '만약에'라는 의미에 사랑과 지난 이별들의 이야기를 대입시킨 노래들과 함께 더 많은 공감]]></content>
     </entry>
 </feed>
