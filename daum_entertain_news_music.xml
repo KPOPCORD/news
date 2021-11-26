@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-26T12:34:02.749Z</updated>
+    <updated>2021-11-26T13:26:19.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["BTS 콘서트 위해 청소 알바" 다운증후군 앓는 소년 팬, VIP티켓 선물에 감격]]></title>
+        <id>https://entertain.v.daum.net/v/20211126215024382</id>
+        <link href="https://entertain.v.daum.net/v/20211126215024382"/>
+        <updated>2021-11-26T13:25:49.791Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 방탄소년단(BTS)을 열렬히 좋아하는 소년 팬의 사연이 전 세계 팬들의 감동을 불러일으켰다. 미국 캘리포니아주 로스앤젤레스 소재 소파이 스타디움(SoFi Stadium) 측은 11월 24일(현지시간) 공식 SNS를 통해 방탄소년단의 팬에 관한 기사 링크를 공유했다. 해당 기사는 미국 NBC 로스앤젤레스가 지난 24일 보도한 것]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[빅톤, 2022 시즌그리팅 출시..30일 예판 오픈]]></title>
         <id>https://entertain.v.daum.net/v/20211126212913953</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211126163539189"/>
         <updated>2021-11-26T08:24:42.308Z</updated>
         <content type="html"><![CDATA[[스포츠경향] ‘판타지돌’ 킹덤(KINGDOM)이 화보를 통해 반전 매력을 뽐냈다.오늘(26일) 오후 1시, 롤링스톤 코리아는 공식 유튜브 채널과 롤링스톤 코리아 홈페이지를 통해 그룹 킹덤 화보와 인터뷰를 공개했다.공개된 화보에서 블랙 수트로 스타일링한 킹덤은 그동안 볼 수 없었던 시크하고 세련된 외모를 자랑했다. 인터뷰에서 킹덤은 멤버들의 숨겨진 개성,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["신인의 마음으로"..돌아온 명품 보컬, 신용재·김원주의 2F]]></title>
-        <id>https://entertain.v.daum.net/v/20211126161002506</id>
-        <link href="https://entertain.v.daum.net/v/20211126161002506"/>
-        <updated>2021-11-26T07:20:30.962Z</updated>
-        <content type="html"><![CDATA[[텐아시아=우빈 기자]명불하전 발라드 강자 듀오 2F(이프, 신용재·김원주)가 돌아왔다.&nbsp;26일 오후 서울 강남 일지아트홀에서 2F의 첫 번째 앨범 '이프(if)' 발매 기념 쇼케이스를 열었다.&nbsp;'이프'에는 '만약에'라는 의미에 사랑과 지난 이별들의 이야기를 대입시킨 노래들과 함께 더 많은 공감과 위로를 얻길 바라는 마음을 담았다.&nbsp;&nbsp;이날 김원주는 "둘이서]]></content>
     </entry>
 </feed>
