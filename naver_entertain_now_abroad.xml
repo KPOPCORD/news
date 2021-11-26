@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-26T08:25:13.582Z</updated>
+    <updated>2021-11-26T09:22:41.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[슈왈제네거 혼외자 조셉 바에나, 父 똑닮은 피지컬..유전자 못속여[Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004517590</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004517590"/>
+        <updated>2021-11-26T09:22:40.809Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 할리우드 스타 아놀드 슈왈제네거의 아들인 조셉 바에나(23)가 아빠 못지않은 근육질의 피지컬을 자랑해 눈길을 끌었다. 바에나는 최근 자신의 인스타그램 계정에 "'라바(Lava)'라는 제목의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[파이팅 외치는 '어느 날'의 이명우 감독 [MK포토]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000833972</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001378265"/>
         <updated>2021-11-26T03:23:42.066Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) '팝의 여왕' 마돈나가 자신의 SNS에 누드 사진을 올렸다가 삭제되자 이를 다시 올리며 입장을 밝혔다. 25일(현지시간) 마돈나는 자신의 인스타그램에 "인스타그램 측이 사전 경고 없이 삭]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['톰 크루즈 딸' 15세 수리, 175㎝ 母 케이티 홈즈도 따라잡겠네 [N해외연예]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005748737</id>
-        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005748737"/>
-        <updated>2021-11-26T03:23:42.068Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 할리우드 유명 배우 톰 크루즈와 케이티 홈즈의 딸 수리 크루즈의 훌쩍 큰 모습이 포착됐다. 미국 연예매체 스플래시가 최근 공개한 사진에서 수리 크루즈는 어머니인 케이티 홈즈와 뉴욕의]]></content>
     </entry>
 </feed>

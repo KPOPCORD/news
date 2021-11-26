@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 08:25:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 09:22:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['야생돌' 김성규, 뭉클함 안긴 탈락자 응원]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/331615</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/331615</guid>
+            <pubDate>Fri, 26 Nov 2021 09:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331615">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/26/3d20a519-572b-4b61-be91-629087a1bc46.jpg" alt="'야생돌' 김성규, 뭉클함 안긴 탈락자 응원">        <div class="text-box">            <p class="summary">'야생돌' 김성규, 뭉클함 안긴 탈락자 응원</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/26/3d20a519-572b-4b61-be91-629087a1bc46.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제시카, 럭셔리 요트 여행…늘씬 각선미 '눈길' [인스타]]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/331593</link>
@@ -86,14 +94,6 @@
             <pubDate>Thu, 25 Nov 2021 07:21:51 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331521">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/25/a106b3b4-6551-4b86-a0d0-65585fe11145.jpg" alt="화사, 전신 망사+성격 닮은꼴 에이치원 '릴레이댄스' 화제 [종합]">        <div class="text-box">            <p class="summary">화사, 전신 망사+성격 닮은꼴 에이치원 '릴레이댄스' 화제 [종합]</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/25/a106b3b4-6551-4b86-a0d0-65585fe11145.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['야생돌' 데뷔조 최종 탈락자 공개→'음중' 무대 걸고 신경전]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/331522</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/331522</guid>
-            <pubDate>Thu, 25 Nov 2021 07:21:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331522">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/25/4843b087-6c24-40c1-adc6-a029dc9fd3c2.jpg" alt="'야생돌' 데뷔조 최종 탈락자 공개→'음중' 무대 걸고 신경전">        <div class="text-box">            <p class="summary">'야생돌' 데뷔조 최종 탈락자 공개→'음중' 무대 걸고 신경전</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/25/4843b087-6c24-40c1-adc6-a029dc9fd3c2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
