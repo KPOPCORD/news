@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-27T14:19:06.735Z</updated>
+    <updated>2021-11-27T15:23:53.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임영웅의 선한 영향력♡..경주 영웅시대 사랑의 김장 나눔 봉사]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003008184</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003008184"/>
+        <updated>2021-11-27T15:23:39.708Z</updated>
+        <content type="html"><![CDATA[가수 임영웅의 경주 지역 팬들이 사랑의 김장 나눔 봉사로 선한 영향력을 실천했다. 임영웅 팬클럽 경주 영웅시대는 지난 11월 26일 경주 다문화 가정과 독거노인 등 취약계층을 위한 사랑의 김장 나눔을 했다. 경주 영]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅, '사랑은 늘 도망가' 유튜브 영상 2100만뷰 돌파]]></title>
         <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0001917792</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003008143"/>
         <updated>2021-11-27T08:25:42.945Z</updated>
         <content type="html"><![CDATA[가수 청하가 최근 개인적으로 힘들었던 시기가 있었다고 고백했다. 청하는 지난 26일 공개된 유튜브 채널 '차린 건 없지만'에서 여러 이야기를 전했다. 이날 청하는 신곡 컴백 근황을 전하며 "이번에는 스페셜 싱글이라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['음중' 아이유 'strawberry moon' 방송출연 없이 1위 '등극']]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003008142</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003008142"/>
-        <updated>2021-11-27T08:25:42.946Z</updated>
-        <content type="html"><![CDATA[가수 아이유가 출연 없이 '쇼! 음악중심' 1위에 등극했다. 아이유는 27일 방송된 MBC '쇼! 음악중심'에서 1위에 올랐다. 이날 '쇼! 음악중심' 1위 후보로는 몬스타엑스 'Rush Hour', 아이유 'str]]></content>
     </entry>
 </feed>

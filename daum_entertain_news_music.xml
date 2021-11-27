@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-27T14:19:06.728Z</updated>
+    <updated>2021-11-27T15:23:53.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임영웅의 선한 영향력♡..경주 영웅시대 사랑의 김장 나눔 봉사]]></title>
+        <id>https://entertain.v.daum.net/v/20211128000001214</id>
+        <link href="https://entertain.v.daum.net/v/20211128000001214"/>
+        <updated>2021-11-27T15:23:24.180Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 문완식 기자] 가수 임영웅의 경주 지역 팬들이 사랑의 김장 나눔 봉사로 선한 영향력을 실천했다. 임영웅 팬클럽 경주 영웅시대는 지난 11월 26일 경주 다문화 가정과 독거노인 등 취약계층을 위한 사랑의 김장 나눔을 했다. 경주 영웅시대는 올여름부터 배추와 무 등을 직접 정성 들여 가꿨으며 이를 수확해서 김장 나눔을 해 의미를 더했다. 경주 영]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["BTS에 취했다"..방탄소년단, 허락 없이 마음껏 춤출 콘서트 D-DAY]]></title>
         <id>https://entertain.v.daum.net/v/20211127213102521</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211127134506296"/>
         <updated>2021-11-27T05:19:46.897Z</updated>
         <content type="html"><![CDATA[[로스앤젤레스(미국)=뉴스엔 황혜진 기자] 그룹 방탄소년단(RM, 진, 슈가, 제이홉, 지민, 뷔, 정국) 콘서트를 앞두고 LA 소파이 스타디움(SoFi Stadium)이 보랏빛으로 물들었다. 방탄소년단은 11월 27일 오후 7시 30분(현지시간) 미국 캘리포니아주 로스앤젤레스 소파이 스타디움에서 단독 콘서트 'BTS PERMISSION TO DANCE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['옷소매' 이준호·이세영 눈물 엔딩.. 안방 눈물바다]]></title>
-        <id>https://entertain.v.daum.net/v/20211127131647053</id>
-        <link href="https://entertain.v.daum.net/v/20211127131647053"/>
-        <updated>2021-11-27T04:28:34.557Z</updated>
-        <content type="html"><![CDATA[(사진=MBC ‘옷소매’ 방송화면)[이데일리 스타in 윤기백 기자] ‘옷소매 붉은 끝동’ 이세영이 ‘차기 군주’ 이준호의 삶을 곁에서 함께하며, 평생 그의 사람이 되기로 맹세해 안방극장에 폭발적인 여운을 선사했다. 지난 26일 방송된 MBC 금토드라마 ‘옷소매 붉은 끝동’(이하 ‘옷소매’) 5회에서는 이산(이준호 분)을 미행하다가 들킨 성덕임(이세영 분]]></content>
     </entry>
 </feed>
