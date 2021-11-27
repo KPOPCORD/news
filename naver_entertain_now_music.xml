@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-27T19:17:24.262Z</updated>
+    <updated>2021-11-27T20:21:37.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘차트 올킬’ 소코도모, ‘쇼미더머니10’ 대장정 마무리]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001378850</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001378850"/>
+        <updated>2021-11-27T20:21:24.123Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 힙합 계의 슈퍼 루키 소코도모가 엠넷 '쇼미더머니10'의 대장정을 마무리했다. 두 달 간 소코도모가 보여준 개성 넘치는 무대와 퍼포먼스에 현장 관객과 출연진은 물론 힙합 팬들까지 찬사를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주말EZ]"포토카드 양도 받아요"…아이돌 팬덤 '앨범깡' 왜?]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010857497</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=052&amp;aid=0001670294"/>
         <updated>2021-11-27T08:25:42.941Z</updated>
         <content type="html"><![CDATA[래퍼 베이식이 엠넷 힙합 서바이벌 프로그램 '쇼미더머니10' 탈락 심경을 전했다. 27일 베이식은 27일 자신의 SNS에 "이번 '쇼미더머니'를 통해서 얻은 것은 너무나 많다. 염따 형, 토일이 너무 감사하고, 시즌]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘음중’ 아이유, 몬스타엑스X에스파 제치고 1위‥화사·SF9 컴백(종합)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000516308</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000516308"/>
-        <updated>2021-11-27T08:25:42.943Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 아이유가 출연없이 ‘쇼! 음악중심’에서 1위를 차지했다. 11월 27일 방송된 MBC ‘쇼! 음악중심’에서는 아이유가 ‘strawberry moon’으로 몬스타엑스, 에스파를 제치고 11월 마]]></content>
     </entry>
 </feed>
