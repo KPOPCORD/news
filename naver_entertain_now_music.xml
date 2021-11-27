@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-27T09:21:14.553Z</updated>
+    <updated>2021-11-27T10:23:42.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[라포엠, 트릴로지 시리즈의 대단원 ‘Eclipse-Trilogy’ 스페셜 앨범으로 발매]]></title>
+        <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0001917781</id>
+        <link href="https://entertain.naver.com/now/read?oid=016&amp;aid=0001917781"/>
+        <updated>2021-11-27T10:23:29.339Z</updated>
+        <content type="html"><![CDATA[[헤럴드경제 = 서병기 선임기자]크로스오버 그룹 라포엠(LA POEM)이 싱글 트릴로지 스페셜 앨범 ‘Eclipse - Trilogy’를 발매했다. 라포엠은 지난 24일부터 각종 온라인 판매 사이트를 통해 스페셜 앨]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[LA 현장]입국심사관도 "최고의 선택" 엄지척…온 도시가 BTS로 들썩]]></title>
+        <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000330733</id>
+        <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000330733"/>
+        <updated>2021-11-27T10:23:29.341Z</updated>
+        <content type="html"><![CDATA[[스포티비뉴스=로스앤젤레스, 장진리 기자] 26일, 한산한 인천국제공항에서 유일하게 미국 LA를 향하는 비행편의 수속만 유일하게 북적였다. 적막할 것이라고 예상했던 공항 카운터에서는 이상한 설렘마저 느껴졌다. 방탄소]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스트레이 키즈, 첫 겨울 시즌송 예고 “우리만의 음악적 색채 들려주고파”]]></title>
         <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000516317</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000516303"/>
         <updated>2021-11-27T07:21:25.143Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이하나 기자] 솔로 아티스트 청하가 반전 매력을 뽐냈다. 청하는 11월 27일 0시 공식 SNS를 통해 새 스페셜 싱글 ‘Killing Me(킬링 미)’의 두 번째 뮤직비디오 티저 영상을 공개했다. 공개된]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이선빈, 이프 신용재X김원주 신곡 '미안하다고 말하지 마' 뮤비 출연]]></title>
-        <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000330704</id>
-        <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000330704"/>
-        <updated>2021-11-27T07:21:25.144Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=김원겸 기자]배우 이선빈이 보컬 듀오 이프(2F)의 신곡에 출연한다. 소속사 밀리언마켓은 지난 26일 공식 SNS를 통해 이프(신용재, 김원주)의 첫 번째 EP '이프'(if) 타이틀곡 '미안하다고 말]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘음악중심’ 몬스타엑스vs아이유vs에스파, 1위 트로피 두고 대결]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000516301</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000516301"/>
-        <updated>2021-11-27T07:21:25.152Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 몬스타엑스, 아이유, 에스파가 1위 후보로 만났다. 11월 27일 방송된 MBC ‘쇼! 음악중심’에서는 11월 마지막 주 1위 후보가 공개 됐다. 이날 방송에는 몬스타엑스 ‘Rush Hour’]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-27T09:21:14.546Z</updated>
+    <updated>2021-11-27T10:23:42.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["독거미에 물려 봉와직염"..코로나 확진 이어 죽음문턱 간 방송인[Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004518260</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004518260"/>
+        <updated>2021-11-27T10:23:42.192Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 미국 TV 네트워크 TLC의 쌍둥이 리얼리티 프로그램 '존&amp;케이트 플러스 8'에 출연해 유명해진 존 고슬린(44)이 잠든 동안 독거미에 물려 병원에 입원했다. 보도에 따르면 최근 고슬린은 미]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['애셋맘' 제시카 알바, 아슬아슬 수영복…건강미 넘치는 글래머 몸매 [N해외연예]]]></title>
         <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005750111</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000834126"/>
         <updated>2021-11-26T13:26:18.492Z</updated>
         <content type="html"><![CDATA[청룡영화상 레드카펫이 26일 오후 서울 영등포구 여의도 KBS홀에서 열렸다. 배우 변요한이 레드카펫에 참석하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전여빈 '아름다운 미소와 함께' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000834125</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000834125"/>
-        <updated>2021-11-26T13:26:18.494Z</updated>
-        <content type="html"><![CDATA[청룡영화상 레드카펫이 26일 오후 서울 영등포구 여의도 KBS홀에서 열렸다. 배우 전여빈이 레드카펫에 참석하고 있다.]]></content>
     </entry>
 </feed>

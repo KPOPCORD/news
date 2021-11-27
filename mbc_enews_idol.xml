@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Nov 2021 09:21:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Nov 2021 10:23:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['쇼! 음악중심' 빌리, 완전체 무대 최초 공개… 션 "보고 싶었어"]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/331713</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/331713</guid>
+            <pubDate>Sat, 27 Nov 2021 10:23:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331713">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/27/jmQ4xrhbqIG6637736348680501840.jpg" alt="'쇼! 음악중심' 빌리, 완전체 무대 최초 공개… 션 " 보고="" 싶었어""="">        <div class="text-box">            <p class="summary">'쇼! 음악중심' 빌리, 완전체 무대 최초 공개… 션 "보고 싶었어"</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/27/jmQ4xrhbqIG6637736348680501840.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['놀면 뭐하니?' 미주, 윤하의 ‘오늘 헤어졌어요’ 사연에 눈물 뚝뚝]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/331691</link>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 26 Nov 2021 01:04:36 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331558">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/26/142569cc-5a52-4258-b4ec-0013b92b6a70.jpg" alt="오마이걸 효정, '두데' 생방송 중 셀카 인증 화제">        <div class="text-box">            <p class="summary">오마이걸 효정, '두데' 생방송 중 셀카 인증 화제</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/26/142569cc-5a52-4258-b4ec-0013b92b6a70.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['야생돌' 노윤호, 효연·우영·공민지에 퍼포먼스 극찬받아]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/331556</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/331556</guid>
-            <pubDate>Fri, 26 Nov 2021 01:04:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331556">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/26/0001cb8d-5a30-4f6e-82bc-ab7c70cf8d38.jpg" alt="'야생돌' 노윤호, 효연·우영·공민지에 퍼포먼스 극찬받아">        <div class="text-box">            <p class="summary">'야생돌' 노윤호, 효연·우영·공민지에 퍼포먼스 극찬받아</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/26/0001cb8d-5a30-4f6e-82bc-ab7c70cf8d38.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
