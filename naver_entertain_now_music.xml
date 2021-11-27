@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-27T18:26:37.518Z</updated>
+    <updated>2021-11-27T19:17:24.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주말EZ]"포토카드 양도 받아요"…아이돌 팬덤 '앨범깡' 왜?]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010857497</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010857497"/>
+        <updated>2021-11-27T19:17:08.882Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 아이돌 팬덤 문화로 자리 잡은 '앨범 언박싱' 1인당 여러 장 구매하는 방식…'환경 문제' 심각성 느껴 '위드 코로나' 재개…앞으로의 가요계는? [서울=뉴시스]안소윤 인턴 기자 = "포토 카드 양도합니]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤결 "여성 폭행 혐의 심려끼쳐 죄송..조사 성실히 임하겠다"[전문]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003008190</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000516308"/>
         <updated>2021-11-27T08:25:42.943Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이하나 기자] 아이유가 출연없이 ‘쇼! 음악중심’에서 1위를 차지했다. 11월 27일 방송된 MBC ‘쇼! 음악중심’에서는 아이유가 ‘strawberry moon’으로 몬스타엑스, 에스파를 제치고 11월 마]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["보고 싶었어" 빌리, 션(김수연) 합류 7인 완전체 무대 최초 공개(음악중심)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004518131</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004518131"/>
-        <updated>2021-11-27T08:25:42.944Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 미스틱스토리의 첫 걸그룹이자 2021년 최대 기대주로 등극한 빌리(Billlie)가 션(김수연)이 합류한 7인조 완전체 무대를 최초 공개해 글로벌 팬심을 저격했다. 빌리(시윤·츠키·션·수현·]]></content>
     </entry>
 </feed>
