@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-27T20:21:37.181Z</updated>
+    <updated>2021-11-27T22:07:01.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뜨겁게 키스하는 사진까지 올리며, “제발 돌아와줘” 전 부인에 애걸하는 힙합스타[해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003558655</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003558655"/>
+        <updated>2021-11-27T22:07:01.019Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]카니예 웨스트(44)가 전 부인 킴 카다시안(41)에게 공개적으로 재결합을 요구하며 관심을 끌고 있다. 그는 26일(현지시간) 인스타그램 스토리에 킴 카다시안과 키스하는 흑백 사진을 올렸]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10살 때 누드 사진 찍게 한 엄마…브룩 쉴즈 "그래도 날 사랑하셨다"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004676049</id>
+        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004676049"/>
+        <updated>2021-11-27T22:07:01.020Z</updated>
+        <content type="html"><![CDATA[할리우드 배우 브룩 쉴즈가 어린 나이에 누드로 광고와 영화를 촬영해 논란이 됐던 때를 회상했다. 브룩 쉴즈는 오는 26일(이하 현지시간) 넷플릭스 영화 '크리스마스의 성'(A Castle for Christmas)의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["독거미에 물려 봉와직염"..코로나 확진 이어 죽음문턱 간 방송인[Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004518260</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000834128"/>
         <updated>2021-11-26T13:26:18.489Z</updated>
         <content type="html"><![CDATA[청룡영화상 레드카펫이 26일 오후 서울 영등포구 여의도 KBS홀에서 열렸다. 배우 김선영이 레드카펫에 참석하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구교환 '청룡 레드카펫' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000834127</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000834127"/>
-        <updated>2021-11-26T13:26:18.490Z</updated>
-        <content type="html"><![CDATA[청룡영화상 레드카펫이 26일 오후 서울 영등포구 여의도 KBS홀에서 열렸다. 배우 구교환이 레드카펫에 참석하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[변요한 '멋진 발걸음' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000834126</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000834126"/>
-        <updated>2021-11-26T13:26:18.492Z</updated>
-        <content type="html"><![CDATA[청룡영화상 레드카펫이 26일 오후 서울 영등포구 여의도 KBS홀에서 열렸다. 배우 변요한이 레드카펫에 참석하고 있다.]]></content>
     </entry>
 </feed>
