@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-26T23:21:34.138Z</updated>
+    <updated>2021-11-27T01:03:45.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[설현 '치명적인 매력' [MK화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000834160</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000834160"/>
+        <updated>2021-11-27T01:03:44.749Z</updated>
+        <content type="html"><![CDATA[청룡영화상 레드카펫이 26일 오후 서울 영등포구 여의도 KBS홀에서 열렸다. 배우 설현이 레드카펫을 밟고 있다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장윤주 '아찔하게 드러낸 명품 각선미' [MK화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000834159</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000834159"/>
+        <updated>2021-11-27T01:03:44.750Z</updated>
+        <content type="html"><![CDATA[청룡영화상 레드카펫이 26일 오후 서울 영등포구 여의도 KBS홀에서 열렸다. 모델 장윤주가 레드카펫을 밟고 있다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김혜수 '여왕의 아우라' [MK화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000834158</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000834158"/>
+        <updated>2021-11-27T01:03:44.755Z</updated>
+        <content type="html"><![CDATA[청룡영화상 레드카펫이 26일 오후 서울 영등포구 여의도 KBS홀에서 열렸다. 이날 청룡영화상 진행을 맡은 김혜수와 유연석이 레드카펫을 밟고 있다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['매트릭스4' 크리스티나 리치, 당당히 내놓은 D라인..튼살까지 선명[Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004517877</id>
@@ -158,26 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000834102"/>
         <updated>2021-11-26T12:34:02.093Z</updated>
         <content type="html"><![CDATA[청룡영화상 레드카펫이 26일 오후 서울 영등포구 여의도 KBS홀에서 열렸다. 배우 공승연이 레드카펫에 참석하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조인성-김윤석 '함께 찾은 청룡' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000834101</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000834101"/>
-        <updated>2021-11-26T12:34:02.095Z</updated>
-        <content type="html"><![CDATA[청룡영화상 레드카펫이 26일 오후 서울 영등포구 여의도 KBS홀에서 열렸다. 배우 조인성, 김윤석이 레드카펫에 참석하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조인성 '눈부신 비주얼' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000834100</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000834100"/>
-        <updated>2021-11-26T12:34:02.096Z</updated>
-        <content type="html"><![CDATA[청룡영화상 레드카펫이 26일 오후 서울 영등포구 여의도 KBS홀에서 열렸다. 배우 조인성이 레드카펫에 참석하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박은빈 '아름다운 밤' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000834099</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000834099"/>
-        <updated>2021-11-26T12:34:02.097Z</updated>
-        <content type="html"><![CDATA[청룡영화상 레드카펫이 26일 오후 서울 영등포구 여의도 KBS홀에서 열렸다. 배우 박은빈이 레드카펫에 참석하고 있다.]]></content>
     </entry>
 </feed>
