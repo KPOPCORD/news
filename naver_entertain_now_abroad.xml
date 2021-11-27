@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-27T01:03:45.500Z</updated>
+    <updated>2021-11-27T02:36:35.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["새 남친 생겼는데.." 카녜이 웨스트, '이혼 중' 킴 카다시안에 질척 [Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004517952</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004517952"/>
+        <updated>2021-11-27T02:36:34.840Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 가수 카니예 웨스트는 자신과 모델 겸 방송인 킴 카다시안이 재결합할 것이라는 희망을 품고 있다. 웨스트는 27일(한국시간) 자신의 인스타그램 스토리에 카다시안과 키스하고 있는 흑백 사진을 올]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[설현 '치명적인 매력' [MK화보]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000834160</id>
@@ -31,7 +38,7 @@
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004517877</id>
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004517877"/>
         <updated>2021-11-26T23:21:33.444Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 할리우드 배우 크리스티나 리치(Christina Ricci)가 자신의 D라인을 당당히 과시했다. 배우 남편 마크 햄튼(Mark Hampton)과 지난 10월 결혼해 현재 임신 중인 리치가 유]]></content>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 할리우드 배우 크리스티나 리치(Christina Ricci)가 자신의 D라인을 당당히 과시했다. 배우인 남편 마크 햄튼(Mark Hampton)과 지난 10월 결혼해 현재 임신 중인 리치가]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["BTS 보려고 청소 알바"… 다운증후군 팬에게 벌어진 '기적']]></title>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000834124"/>
         <updated>2021-11-26T13:26:18.495Z</updated>
         <content type="html"><![CDATA[청룡영화상 레드카펫이 26일 오후 서울 영등포구 여의도 KBS홀에서 열렸다. 배우 노정의가 레드카펫에 참석하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공승연 '청룡영화상 참석' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000834102</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000834102"/>
-        <updated>2021-11-26T12:34:02.093Z</updated>
-        <content type="html"><![CDATA[청룡영화상 레드카펫이 26일 오후 서울 영등포구 여의도 KBS홀에서 열렸다. 배우 공승연이 레드카펫에 참석하고 있다.]]></content>
     </entry>
 </feed>
