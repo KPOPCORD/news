@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-27T15:23:53.118Z</updated>
+    <updated>2021-11-27T16:31:19.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤결 "여성 폭행 혐의 심려끼쳐 죄송..조사 성실히 임하겠다"[전문]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003008190</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003008190"/>
+        <updated>2021-11-27T16:31:05.172Z</updated>
+        <content type="html"><![CDATA[밴드 잔나비의 드러머로 활동한 윤결(29)이 자신의 여성 폭행 혐의와 관련, 말을 아끼면서도 "심려를 끼쳐 사과드린다"라고 밝혔다. 윤결은 27일 자신의 인스타그램을 통해 최근 불거진 여성 폭행 혐의 경찰 입건에 대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅의 선한 영향력♡..경주 영웅시대 사랑의 김장 나눔 봉사]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003008184</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004518131"/>
         <updated>2021-11-27T08:25:42.944Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 미스틱스토리의 첫 걸그룹이자 2021년 최대 기대주로 등극한 빌리(Billlie)가 션(김수연)이 합류한 7인조 완전체 무대를 최초 공개해 글로벌 팬심을 저격했다. 빌리(시윤·츠키·션·수현·]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청하 "모두가 힘든 시기에 개인적으로도 힘들었다" 고백]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003008143</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003008143"/>
-        <updated>2021-11-27T08:25:42.945Z</updated>
-        <content type="html"><![CDATA[가수 청하가 최근 개인적으로 힘들었던 시기가 있었다고 고백했다. 청하는 지난 26일 공개된 유튜브 채널 '차린 건 없지만'에서 여러 이야기를 전했다. 이날 청하는 신곡 컴백 근황을 전하며 "이번에는 스페셜 싱글이라]]></content>
     </entry>
 </feed>
