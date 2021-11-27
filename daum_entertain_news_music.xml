@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-27T17:25:44.068Z</updated>
+    <updated>2021-11-27T18:26:37.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단, 美서 20만 '아미'와 뜨거운 재회]]></title>
+        <id>https://entertain.v.daum.net/v/20211128024617683</id>
+        <link href="https://entertain.v.daum.net/v/20211128024617683"/>
+        <updated>2021-11-27T18:26:03.096Z</updated>
+        <content type="html"><![CDATA[방탄소년단의 공연이 열리는 소파이 스타디움(사진=김현식 기자)[로스앤젤레스(미국)=이데일리 스타in 김현식 기자] 축제의 날이 밝았다. 그룹 방탄소년단(BTS)이 2년 만에 오프라인 대면 공연을 개최해 ‘아미’(ARMY, 팬덤명)와 뜨겁게 재회한다. 만남 장소는 미국 로스앤젤레스(LA)에 있는 소파이 스타디움이다. 방탄소년단은 27일(이하 현지시간) 오]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅의 선한 영향력♡..경주 영웅시대 사랑의 김장 나눔 봉사]]></title>
         <id>https://entertain.v.daum.net/v/20211128000001214</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211127135952446"/>
         <updated>2021-11-27T05:19:46.895Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 그룹 위키미키(Weki Meki)의 신곡 ‘Siesta’ 뮤직비디오가 1000만 뷰 고지를 밟았다.지난 18일 공개된 위키미키 미니 5집 ‘I AM ME.’(아이 엠 미) 타이틀곡 ‘Siesta’(시에스타) 뮤직비디오는 27일 오후 2시 기준 유튜브 조회수 1,021만 회를 기록했다.앞서 ‘Siesta’는 발매 직후 국내 음원 사이트 벅스의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보랏빛 한국어로 물든 LA스타디움, 방탄소년단 2년만 대면공연 전야제 어땠나]]></title>
-        <id>https://entertain.v.daum.net/v/20211127134506296</id>
-        <link href="https://entertain.v.daum.net/v/20211127134506296"/>
-        <updated>2021-11-27T05:19:46.897Z</updated>
-        <content type="html"><![CDATA[[로스앤젤레스(미국)=뉴스엔 황혜진 기자] 그룹 방탄소년단(RM, 진, 슈가, 제이홉, 지민, 뷔, 정국) 콘서트를 앞두고 LA 소파이 스타디움(SoFi Stadium)이 보랏빛으로 물들었다. 방탄소년단은 11월 27일 오후 7시 30분(현지시간) 미국 캘리포니아주 로스앤젤레스 소파이 스타디움에서 단독 콘서트 'BTS PERMISSION TO DANCE]]></content>
     </entry>
 </feed>
