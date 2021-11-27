@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-27T02:36:35.464Z</updated>
+    <updated>2021-11-27T03:22:23.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['애셋맘' 제시카 알바, 아슬아슬 수영복…건강미 넘치는 글래머 몸매 [N해외연예]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005750111</id>
+        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005750111"/>
+        <updated>2021-11-27T03:22:22.938Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 할리우드 배우 제시카 알바(40)의 근황이 공개됐다. 미국 연예매체 스플래시닷컴은 최근 멕시코 로스카보스에서 제시카 알바를 포착했다. 스플래시닷컴은 "제시카 알바는 로스카보스에서 햇볕]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["새 남친 생겼는데.." 카녜이 웨스트, '이혼 중' 킴 카다시안에 질척 [Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004517952</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000834125"/>
         <updated>2021-11-26T13:26:18.494Z</updated>
         <content type="html"><![CDATA[청룡영화상 레드카펫이 26일 오후 서울 영등포구 여의도 KBS홀에서 열렸다. 배우 전여빈이 레드카펫에 참석하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노정의 '아름다운 블랙' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000834124</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000834124"/>
-        <updated>2021-11-26T13:26:18.495Z</updated>
-        <content type="html"><![CDATA[청룡영화상 레드카펫이 26일 오후 서울 영등포구 여의도 KBS홀에서 열렸다. 배우 노정의가 레드카펫에 참석하고 있다.]]></content>
     </entry>
 </feed>
