@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-27T12:31:51.512Z</updated>
+    <updated>2021-11-27T13:24:43.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임영웅, '사랑은 늘 도망가' 유튜브 영상 2100만뷰 돌파]]></title>
+        <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0001917792</id>
+        <link href="https://entertain.naver.com/now/read?oid=016&amp;aid=0001917792"/>
+        <updated>2021-11-27T13:24:27.978Z</updated>
+        <content type="html"><![CDATA[[헤럴드경제 = 서병기 선임기자]가수 임영웅의 신곡 '사랑은 늘 도망가' 영상이 유튜브 총 조회수 2100만 뷰를 넘어섰다. 지난 11일 오후 6시 공개된 '사랑은 늘 도망가' 뮤직비디오와 공식 오디오 영상, 가사]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["BTS에 취했다"..방탄소년단, 허락 없이 마음껏 춤출 콘서트 D-DAY(종합)[BTS in LA]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004518294</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004518294"/>
+        <updated>2021-11-27T13:24:27.979Z</updated>
+        <content type="html"><![CDATA[[OSEN=로스앤젤레스(미국), 이승훈 기자] 그룹 방탄소년단(RM, 진, 슈가, 제이홉, 지민, 뷔, 정국)이 LA를 보랏빛으로 물들였다. 방탄소년단은 오늘(27일, 이하 현지시간)을 시작으로 28일, 12월 1일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2Z 범준, 코로나19 확진 판정 '비상'..'음악중심' 출연 취소 [스타이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003008168</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003008142"/>
         <updated>2021-11-27T08:25:42.946Z</updated>
         <content type="html"><![CDATA[가수 아이유가 출연 없이 '쇼! 음악중심' 1위에 등극했다. 아이유는 27일 방송된 MBC '쇼! 음악중심'에서 1위에 올랐다. 이날 '쇼! 음악중심' 1위 후보로는 몬스타엑스 'Rush Hour', 아이유 'str]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엑스디너리 히어로즈 멤버 '건일' 포지션 공개…모범생→실력파 드러머 변신]]></title>
-        <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000330713</id>
-        <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000330713"/>
-        <updated>2021-11-27T07:21:25.127Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=김원겸 기자]JYP엔터테인먼트(이하 JYP) 신인 그룹 엑스디너리 히어로즈(Xdinary Heroes, XH)의 드러머 건일이 남다른 연주 실력으로 밴드 사운드를 화려하게 채운다. JYP는 6인조 신인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['방과후 설렘' 화제성 최강 조합 김윤서–이지우, 입학 무대 공개]]></title>
-        <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000330712</id>
-        <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000330712"/>
-        <updated>2021-11-27T07:21:25.128Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=김원겸 기자]MBC 하반기 최대 기대작 ‘방과후 설렘’이 첫 방송을 하루 앞두고 선공개 영상을 공개했다. 오는 28일 오후 8시 20분, MBC와 네이버 나우에서 첫 방송 되는 ‘방과후 설렘’이 프리퀄]]></content>
     </entry>
 </feed>
