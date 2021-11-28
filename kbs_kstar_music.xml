@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Nov 2021 23:44:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 01:07:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단, 팬데믹 이후  2년 만의 오프라인 콘서트 'BTS PERMISSION TO DANCE ON STAGE - LA']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=175742</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=175742</guid>
+            <pubDate>Sun, 28 Nov 2021 01:05:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=175742">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211128094654_22f8be41d316e6bf1c62289884678a47.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=175742">방탄소년단, 팬데믹 이후  2년 만의 오프라인 콘서트 'BTS PERMISSION TO DANCE ON STAGE - LA' </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211128094654_22f8be41d316e6bf1c62289884678a47.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴이스트의 팬 사랑 담긴 연말 콘서트 'THE BLACK’]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=175464</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=174448">너드커넥션의 연말 콘서트 '신세기 명화극장'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211122093018_0ef853d36949f1ea223d0d7e990e9e01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우즈, 단독 콘서트 '더 인비저블 시티' 개최]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=174443</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=174443</guid>
-            <pubDate>Mon, 22 Nov 2021 07:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=174443">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211122092231_1c4b6de8e3cde390eea64ae531768b40.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=174443">우즈, 단독 콘서트 '더 인비저블 시티' 개최</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211122092231_1c4b6de8e3cde390eea64ae531768b40.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
