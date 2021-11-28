@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-28T11:18:02.910Z</updated>
+    <updated>2021-11-28T12:32:53.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에스파, 지젤 외 3인 감기 기운 有.."절차상 코로나19 검사"]]></title>
+        <id>https://entertain.v.daum.net/v/20211128205644607</id>
+        <link href="https://entertain.v.daum.net/v/20211128205644607"/>
+        <updated>2021-11-28T12:32:19.252Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 안윤지 기자] 걸그룹 에스파(aespa)가 미국 뉴욕에서 열리는 '메이시스 땡스기빙 데이 퍼레이드'(Macy’s Thanksgiving Day Parade) 참석 차 21일 오전 인천국제공항을 통해 출국하고 있다. 2021.11.21 /사진=김창현 기자 chmt@그룹 에스파(aespa)  지젤이 미국 뉴욕에서의 일정을 마치고 28일 오후 인천국제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사춘기 딸과 아빠를 이어준건, BTS]]></title>
         <id>https://entertain.v.daum.net/v/20211128195819168</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211128152445059"/>
         <updated>2021-11-28T06:27:05.079Z</updated>
         <content type="html"><![CDATA[[로스앤젤레스(미국)=뉴스엔 황혜진 기자] "겨울이 지나면 다시 봄은 오는 거야." 그룹 방탄소년단(RM, 진, 슈가, 제이홉, 지민, 뷔, 정국)이 2년 만에 개최한 대면 콘서트에서 감격의 '봄날'을 맞이했다. 방탄소년단은 11월 27일 오후 7시 30분(현지시간) 미국 캘리포니아주 로스앤젤레스 소파이 스타디움에서 단독 콘서트 'BTS PERMISSIO]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["앨범 사고 콘서트 가요" BTS 팬들, 음반 매장도 점령]]></title>
-        <id>https://entertain.v.daum.net/v/20211128151435796</id>
-        <link href="https://entertain.v.daum.net/v/20211128151435796"/>
-        <updated>2021-11-28T06:27:05.080Z</updated>
-        <content type="html"><![CDATA[체코에서 온 방탄소년단 팬 아델라(왼쪽)와 파비아나(사진=김현식 기자)체코 팬 파비아나는 한국어 공부책도 샀다.(사진=김현식 기자)[로스앤젤레스(미국)=이데일리 스타in 김현식 기자] 그룹 방탄소년단(BTS)의 미국 콘서트 ‘BTS 퍼미션 투 댄스 온 스테이지 - LA’(BTS PERMISSION TO DANCE ON STAGE - LA) 1일차 공연 날]]></content>
     </entry>
 </feed>
