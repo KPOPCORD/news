@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-28T01:07:42.091Z</updated>
+    <updated>2021-11-28T02:36:06.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[톰 크루즈, 600m 상공 비행기 날개서 맨몸 액션…위험천만 스턴트 [N해외연예]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005750795</id>
+        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005750795"/>
+        <updated>2021-11-28T02:36:05.824Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 안태현 기자 = 할리우드 배우 톰 크루즈(59)가 또다시 위험천만한 스턴트 액션을 펼치는 모습이 포착됐다. 미국 연예매체 스플래시닷컴은 지난 24일(현지시간) 톰 크루즈가 영국의 한 비행장에서 복엽기]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["아델 앨범 못 들어"…호주 매체, 8억 인터뷰 퇴짜맞은 사연 [주말POP콘]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=018&amp;aid=0005095386</id>
+        <link href="https://entertain.naver.com/now/read?oid=018&amp;aid=0005095386"/>
+        <updated>2021-11-28T02:36:05.824Z</updated>
+        <content type="html"><![CDATA[팝가수 아델. (사진=소니뮤직) [이데일리 스타in 김보영 기자] 이데일리가 한 주 간 쏟아진 팝가수 및 빌보드 이슈들을 모아 가볍게 읽을 수 있는 요약 코너를 준비했습니다. 매 주말 핫한 주간 팝소식들을 선정해 소]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[존 고슬린, 치명적 독거미 물려 봉와직염…코로나19 확진 이어 또 고통]]></title>
         <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000516411</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000834131"/>
         <updated>2021-11-26T14:20:49.599Z</updated>
         <content type="html"><![CDATA[청룡영화상 레드카펫이 26일 오후 서울 영등포구 여의도 KBS홀에서 열렸다. 배우 이유미가 레드카펫에 참석하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구교환 '촉촉한 눈빛' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000834130</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000834130"/>
-        <updated>2021-11-26T14:20:49.600Z</updated>
-        <content type="html"><![CDATA[청룡영화상 레드카펫이 26일 오후 서울 영등포구 여의도 KBS홀에서 열렸다. 배우 구교환이 레드카펫에 참석하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구교환 '90도 폴더 인사' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000834129</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000834129"/>
-        <updated>2021-11-26T14:20:49.600Z</updated>
-        <content type="html"><![CDATA[청룡영화상 레드카펫이 26일 오후 서울 영등포구 여의도 KBS홀에서 열렸다. 배우 구교환이 레드카펫에 참석하고 있다.]]></content>
     </entry>
 </feed>

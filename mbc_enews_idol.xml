@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 01:07:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 02:36:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['D-DAY' 방탄소년단, 'BTS PERMISSION TO DANCE ON STAGE - LA' 개최]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/331755</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/331755</guid>
+            <pubDate>Sun, 28 Nov 2021 02:35:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331755">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/28/efVo2vdxmbkm637736924150736203.jpg" alt="'D-DAY' 방탄소년단, 'BTS PERMISSION TO DANCE ON STAGE - LA' 개최">        <div class="text-box">            <p class="summary">'D-DAY' 방탄소년단, 'BTS PERMISSION TO DANCE ON STAGE - LA' 개최</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/28/efVo2vdxmbkm637736924150736203.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최유정, 러블리+상큼 교과서 비주얼 오늘도 귀엽네 [인스타]]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/331738</link>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 26 Nov 2021 04:27:16 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331578">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/26/9e5e1a50-ef53-4ce0-bb85-8a2bd8897a86.jpg" alt="브레이브걸스 민영, 고양이와 눈맞춤도 '다정' [인스타]">        <div class="text-box">            <p class="summary">브레이브걸스 민영, 고양이와 눈맞춤도 '다정' [인스타]</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/26/9e5e1a50-ef53-4ce0-bb85-8a2bd8897a86.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['임신' 혜림, 패딩 입어도 못 숨기는 D라인 [인스타]]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/331563</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/331563</guid>
-            <pubDate>Fri, 26 Nov 2021 04:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331563">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/26/50daccc7-5b9c-4e3e-b493-52ebc83fe630.jpg" alt="'임신' 혜림, 패딩 입어도 못 숨기는 D라인 [인스타]">        <div class="text-box">            <p class="summary">'임신' 혜림, 패딩 입어도 못 숨기는 D라인 [인스타]</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/26/50daccc7-5b9c-4e3e-b493-52ebc83fe630.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
