@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-28T15:23:01.910Z</updated>
+    <updated>2021-11-28T16:32:14.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[혜리, 장기용 커피차 인증 "멋지다 잘생겼다 최고!"[스타IN★]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003008354</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003008354"/>
+        <updated>2021-11-28T16:32:07.179Z</updated>
+        <content type="html"><![CDATA[가수 겸 배우 혜리가 장기용의 커피차 선물을 인증했다. 혜리는 28일 자신의 인스타그램에 "어르신이 보내주신 커피 잘 마셨습니다. 정신 없을 텐데 이렇게 챙겨주다니 너무나도 감동. 역시 장기용. 멋지다, 잘생겼다,]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이지훈♥아야네 "결혼식 끝나고 첫 휴식 시간"[스타IN★]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003008353</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003008353"/>
+        <updated>2021-11-28T16:32:07.180Z</updated>
+        <content type="html"><![CDATA[가수 겸 뮤지컬배우 이지훈이 아내 아야네와 함께한 근황을 공개했다. 이지훈은 지난 28일 자신의 인스타그램에 "식 끝나고 첫 휴식 시간 편하게 쉬고옵니다"라는 글을 게재했다. 공개된 사진 속 이지훈은 아야네와 함께]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단 '콘서트 첫날' 후끈, 팬들 요청에 '제한석 추가 오픈']]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000118532</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003008323"/>
         <updated>2021-11-28T12:32:45.381Z</updated>
         <content type="html"><![CDATA[가수 임영웅이 TV조선 음악프로그램 '미스터트롯' 진에 오른 당시를 떠올렸다. 28일 임영웅의 유튜브 채널 '임영웅'에는 '셀프 시즌 그리팅 언박싱(feat. 영어 안쓰기 미션)'이란 제목의 영상이 게재됐다. 이날]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['김민기♥' 홍윤화, 10kg 감량 효과 톡톡...얼굴이 반쪽됐네]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003807216</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003807216"/>
-        <updated>2021-11-28T12:32:45.381Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 이게은기자] 개그우먼 홍윤화가 근황을 전했다. 28일 홍윤화는 자신의 인스타그램에 "코빅보러 가야지"라는 글과 짧은 영상을 게재했다. 영상 속 홍윤화는 립스틱을 이용해 오버립 메이크업을 선보였다. 전]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["아직 헬린이"…한보름, 반전 볼륨감 '건강 미인' [TEN★]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000514489</id>
-        <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000514489"/>
-        <updated>2021-11-28T12:32:45.381Z</updated>
-        <content type="html"><![CDATA[[텐아시아=노규민 기자] 배우 한보름이 운동에 빠졌다. 한보름은 28일 자신의 인스타그램 스토리에 "근육통. 혼자서는 제대로 하는 느낌이 안든다. 아직도 헬린이"이라는 글과 함께 사진을 게재했다. 사진 속 한보름은]]></content>
     </entry>
 </feed>
