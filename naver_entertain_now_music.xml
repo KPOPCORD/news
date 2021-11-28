@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-28T20:21:22.876Z</updated>
+    <updated>2021-11-28T21:19:16.905Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['유재하경연대회 금상' 레드씨 "형제밴드라서 좋은 점은요…"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010858489</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010858489"/>
+        <updated>2021-11-28T21:19:03.684Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 올해 CJ문화재단 지원사업 '튠업' 선정 10여년 전 가족 밴드 '오이도 밴드'로 활약 [서울=뉴시스]이재훈 기자 = 형제는 용감했다. 록 밴드 '레드씨'(Red C)의 보컬·기타 김경찬(23), 드럼]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[히어로 보며 힐링♥ 임영웅, '함께 등산하고 싶은 가수']]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003008357</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003008357"/>
+        <updated>2021-11-28T21:19:03.685Z</updated>
+        <content type="html"><![CDATA[가수 임영웅이 '함께 등산하고 싶은 가수' 1위에 올랐다. 임영웅은 트롯픽에서 지난 11월 22일 오전 10시부터 11월 28일 오후 10시까지 진행된 '함께 등산하고 싶은 가수는?' 설문에서 1위를 차지했다. 임영]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTS 노래 12곡에 담긴 자유로운 삶..'BTS와 철학하기']]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010858469</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000516502"/>
         <updated>2021-11-28T08:24:03.779Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 방탄소년단(RM, 진, 슈가, 제이홉, 지민, 뷔, 정국)이 2년 만에 개최한 대면 콘서트를 성황리에 마무리했다. 11월 27일(현지시간) 방탄소년단 공식 트위터에는 "[#오늘의방탄] 아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘인기가요’ 아이칠린, 청량하게 ‘프레시’]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000777468</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000777468"/>
-        <updated>2021-11-28T08:24:03.780Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 그룹 아이칠린(ICHILLIN’)이 청량함으로 ‘인기가요’를 접수했다. 아이칠린(이지, 재키, 주니, 채린, 소희, 예주, 초원)은 28일 오후 방송된 SBS ‘인기가요’에 출연해 새 싱글 ‘프레시(F]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["아미는 우리의 증거, 이제 우리는 진정한 방탄소년단"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010858257</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010858257"/>
-        <updated>2021-11-28T08:24:03.782Z</updated>
-        <content type="html"><![CDATA[기사내용 요약 작년 2월 발매한 정규 4집 타이틀곡 '온', 첫 대면공연 [서울=뉴시스]이재훈 기자 = "우리는 총알이고 당신들은 우리의 증거였다. 이제 우리는 진정한 '방탄'(bulletproof)이 됐다." 그룹]]></content>
     </entry>
 </feed>

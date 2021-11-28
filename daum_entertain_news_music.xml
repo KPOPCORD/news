@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-28T20:21:22.826Z</updated>
+    <updated>2021-11-28T21:19:16.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['방과후 설렘' 명형서X김하리, 간절함이 낳은 결과물]]></title>
+        <id>https://entertain.v.daum.net/v/20211129060206766</id>
+        <link href="https://entertain.v.daum.net/v/20211129060206766"/>
+        <updated>2021-11-28T21:18:48.101Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 박상후 기자] '방과후 설렘'에서 지원자 명형서, 김하리가 남다른 간절함으로 완벽한 결과물을 만들어냈다. 28일 저녁 방송된 MBC 새 예능프로그램 '방과후 설렘'에서는 연습생들의 치열한 경쟁을 담은 입학 미션이 공개됐다. 이날 다른 학년과 달리 유독 긴장한 모습을 보였다. 4학년 장이한, 명형서, 김하리, 최수민, 웨이는 "지금 이 순간]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7년차에도 몬스타엑스는 '노 리밋']]></title>
+        <id>https://entertain.v.daum.net/v/20211129060015628</id>
+        <link href="https://entertain.v.daum.net/v/20211129060015628"/>
+        <updated>2021-11-28T21:18:48.105Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 정하은기자]연차에 안주하지 않는 그룹 몬스타엑스(MONSTA X)에게 한계는 없다. 몬스타엑스(셔누, 민혁, 기현, 형원, 주헌, 아이엠)의 신보 ‘No Limit(노 리밋)’의 키워드는 자신감이다. 그리고 그에 걸맞은 무대와 성과를 보여주며 데뷔 7년차에도 변함없는 열정과 성장하는 모습으로 몬스타엑스표 자신감을 표현해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단, 글로벌 중심에 서다..간담회 개최]]></title>
         <id>https://entertain.v.daum.net/v/20211129045657948</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211128180012936"/>
         <updated>2021-11-28T09:21:53.655Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 2F(이프, 신용재 김원주)가 배우 이선빈에게 고마운 마음을 전하며 자신감을 드러냈다. 26일 오후 서울 강남구 일지아트홀에서 2F의 첫 번째 EP '이프(if)' 발매 기념 오프라인 쇼케이스가 개최됐다.이날 신용재는 "지금 무대 뒤에서 엄청 떨다가 나왔다. 긴장이 많이 된다"며, 김원주는 "너무 오랜만에 하는 쇼케이스라 아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인기가요' 트와이스, 아이유-에스파 꺾고 방송 없이 1위]]></title>
-        <id>https://entertain.v.daum.net/v/20211128165243761</id>
-        <link href="https://entertain.v.daum.net/v/20211128165243761"/>
-        <updated>2021-11-28T08:23:46.877Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 트와이스가 '인기가요' 1위 트로피를 수집했다. 11월 28일 방송된 SBS '인기가요' 1위 후보로 아이유, 트와이스, 에스파가 올랐다. 이날 1위의 주인공은 트와이스였다. 트와이스는 이날 방송에 출연하지 않았음에도 불구, 1위를 차지하는 영광을 얻게 됐다. 한편 이날 '인기가요'에는 GHOST9, 다크비 (DKB), MONSTA]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차원 다른 방탄소년단, "우월한 존재" 축제로 '들썩']]></title>
-        <id>https://entertain.v.daum.net/v/20211128165008718</id>
-        <link href="https://entertain.v.daum.net/v/20211128165008718"/>
-        <updated>2021-11-28T08:23:46.879Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 LA(미국), 김예나 기자) 그룹 방탄소년단(BTS)을 향한 글로벌 위상이 나날이 높아지고 있다.&nbsp; 27일(현지 시간) 오후 미국 LA 소파이 스타디움에서 방탄소년단 오프라인 콘서트 'BTS 퍼미션 투 댄스 온 스테이지 - LA (BTS PERMISSION TO DANCE ON STAGE-LA)' 1일차 공연이 시작했다.&nbsp; 코로나19 팬데믹]]></content>
     </entry>
 </feed>

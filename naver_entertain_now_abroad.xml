@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-28T20:21:22.825Z</updated>
+    <updated>2021-11-28T21:19:16.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“콩 심은데 콩난다” 터미네이터X가정부 혼외자 아들, 아빠랑 똑같은 근육질[해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003558794</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003558794"/>
+        <updated>2021-11-28T21:19:16.220Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]그 아버지에 그 아들이다. ‘콩 심은데 콩 나고, 팥 심은데 팥 난다’는 속담이 딱 들어맞았다. 할리우드 스타 아놀드 슈왈제네거(74)의 혼외자 아들 조셉 바에나가 아버지와 똑같은 근육질]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[베컴 부부♥︎, 하도 뽀뽀해서 입술 닳겠네 [Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004518573</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000834136</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000834136"/>
         <updated>2021-11-26T14:20:49.592Z</updated>
-        <content type="html"><![CDATA[청룡영화상 레드카펫이 26일 오후 서울 영등포구 여의도 KBS홀에서 열렸다. 배우 장윤주가 레드카펫에 참석하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장윤주 '각선미 뽐내는 워킹' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000834135</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000834135"/>
-        <updated>2021-11-28T08:24:22.288Z</updated>
         <content type="html"><![CDATA[청룡영화상 레드카펫이 26일 오후 서울 영등포구 여의도 KBS홀에서 열렸다. 배우 장윤주가 레드카펫에 참석하고 있다.]]></content>
     </entry>
 </feed>
