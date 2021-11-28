@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-28T14:20:40.182Z</updated>
+    <updated>2021-11-28T15:23:01.905Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BTS는 위로다 [아미 인터뷰]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000777503</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000777503"/>
+        <updated>2021-11-28T15:22:46.068Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 그룹 방탄소년단이 27일(이하 현지시간) 미국 로스앤젤레스 소파이 스타디움에서 2년 만의 대면 콘서트 ‘퍼미션 투 댄스 온 스테이지(Permission To Dance On Stage) - LA’를 열]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임영웅의 선한 영향력♥ 영웅시대 울산, 사랑의 김장 나눔·기부]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003008350</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003008350"/>
+        <updated>2021-11-28T15:22:46.068Z</updated>
+        <content type="html"><![CDATA[가수 임영웅의 울산 지역 팬들이 지역 사회 소외 계층을 위한 사랑의 김장 나눔과 후원금 기부로 선한 영향력을 실천했다. 임영웅 팬클럽 영웅시대 울산은 지난 11월 27일 울산광역시 중구 미혼모의집 물푸레에 김장 김치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[몬스타엑스, 선제적 대응 차원 코로나19 검사 진행[공식]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003008344</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000516497"/>
         <updated>2021-11-28T07:20:59.614Z</updated>
         <content type="html"><![CDATA[[뉴스엔 김명미 기자] 아이유, 트와이스, 에스파가 '인기가요' 11월 마지막 주 1위 트로피를 놓고 경쟁한다. 11월 28일 방송된 SBS '인기가요' 1위 후보로 아이유, 트와이스, 에스파가 올랐다. 지난주 아이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임영웅, ‘별나사’, 유튜브 뮤직 주간 인기 뮤비 차트 TOP3 등극…남성 솔로 원탑]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001378956</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001378956"/>
-        <updated>2021-11-28T07:20:59.618Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 임영웅의 ‘별빛 같은 나의 사랑아’(별나사)가 한국 유튜브 주간 인기 뮤직비디오 차트에서 남성 솔로 1위를 차지했다. 11월 19일 ~ 11월 25일 유튜브 뮤직 차트에 따르면, 임영웅의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보라색으로 물든 LA…BTS 공연장부터 코리아타운까지 ‘아미의 도시’ [스경X현장]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000777462</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000777462"/>
-        <updated>2021-11-28T07:20:59.619Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] ‘천사들의 도시’ LA, 방탄소년단의 콘서트가 열리는 지금만큼은 ‘아미’(팬덤명)들의 도시다. LA 공항에서 입국심사를 위해 기다리는 동안 “입국심사를 위해 보여줄 BTS 콘서트 티켓을 미리 준비해달라]]></content>
     </entry>
 </feed>
