@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-28T06:27:36.136Z</updated>
+    <updated>2021-11-28T07:21:13.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[베컴 부부♥︎, 하도 뽀뽀해서 입술 닳겠네 [Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004518573</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004518573"/>
+        <updated>2021-11-28T07:21:12.339Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 베컴 부부가 넘사벽 부부애를 과시했다. 빅토리아 베컴은 27일(한국시각) 개인 SNS에 “When @davidbeckham makes you wear it!! kisses from our S]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Y현장 in LA] 부녀부터 시누까지...BTS 공연장에 모인 '아미 패밀리']]></title>
+        <id>https://entertain.naver.com/now/read?oid=052&amp;aid=0001670516</id>
+        <link href="https://entertain.naver.com/now/read?oid=052&amp;aid=0001670516"/>
+        <updated>2021-11-28T07:21:12.341Z</updated>
+        <content type="html"><![CDATA[그룹 방탄소년단 LA 콘서트 공연장에는 말 그대로 남녀노소가 모였다. 10살도 되지 않는 아이부터 70대 노인까지 북적였는데, 이들 중에는 '아미(팬클럽) 가족'도 눈에 띄었다. 방탄소년단의 LA 콘서트 '비티에스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“영혼결혼 때문” 방송 중 사망한 유명인..유골 도난당해]]></title>
         <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003807093</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000834136"/>
         <updated>2021-11-26T14:20:49.592Z</updated>
         <content type="html"><![CDATA[청룡영화상 레드카펫이 26일 오후 서울 영등포구 여의도 KBS홀에서 열렸다. 배우 장윤주가 레드카펫에 참석하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장윤주 '각선미 뽐내는 워킹' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000834135</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000834135"/>
-        <updated>2021-11-26T14:20:49.593Z</updated>
-        <content type="html"><![CDATA[청룡영화상 레드카펫이 26일 오후 서울 영등포구 여의도 KBS홀에서 열렸다. 배우 장윤주가 레드카펫에 참석하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이유미 '설레는 미소' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000834134</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000834134"/>
-        <updated>2021-11-26T14:20:49.596Z</updated>
-        <content type="html"><![CDATA[청룡영화상 레드카펫이 26일 오후 서울 영등포구 여의도 KBS홀에서 열렸다. 배우 이유미가 레드카펫에 참석하고 있다.]]></content>
     </entry>
 </feed>
