@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-28T08:24:22.982Z</updated>
+    <updated>2021-11-28T09:22:22.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["이선빈 MV 출연+듀엣 무대"..2F 신용재X김원주, 감성에 더한 특별함]]></title>
+        <id>https://entertain.v.daum.net/v/20211128180012936</id>
+        <link href="https://entertain.v.daum.net/v/20211128180012936"/>
+        <updated>2021-11-28T09:21:53.655Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 2F(이프, 신용재 김원주)가 배우 이선빈에게 고마운 마음을 전하며 자신감을 드러냈다. 26일 오후 서울 강남구 일지아트홀에서 2F의 첫 번째 EP '이프(if)' 발매 기념 오프라인 쇼케이스가 개최됐다.이날 신용재는 "지금 무대 뒤에서 엄청 떨다가 나왔다. 긴장이 많이 된다"며, 김원주는 "너무 오랜만에 하는 쇼케이스라 아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['인기가요' 트와이스, 아이유-에스파 꺾고 방송 없이 1위]]></title>
         <id>https://entertain.v.daum.net/v/20211128165243761</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211128141726015"/>
         <updated>2021-11-28T05:18:55.349Z</updated>
         <content type="html"><![CDATA[“‘밤’이는 정국의 반려견”이라고 친절히 설명해준 에밀리(사진=김현식 기자)(사진=김현식 기자)멤버들의 이름을 한글로 적은 머리띠를 직접 만들었다는 팬들(사진=김현식 기자)[로스앤젤레스(미국)=이데일리 스타in 김현식 기자] “내가 바로 방탄소년단 팬이다!” 그룹 방탄소년단(BTS)의 미국 로스앤젤레스(LA) 첫 공연이 열린 27일(이하 현지시간) 소파이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙핑크, 유튜브 구독자 7천만 명 돌파..전세계 1위]]></title>
-        <id>https://entertain.v.daum.net/v/20211128134253551</id>
-        <link href="https://entertain.v.daum.net/v/20211128134253551"/>
-        <updated>2021-11-28T05:18:55.350Z</updated>
-        <content type="html"><![CDATA[[OSEN=선미경 기자] 그룹 블랙핑크(BLACKPINK)의 공식 유튜브 채널 구독자 수가&nbsp;7000만 명을 돌파했다.&nbsp;전 세계 모든 아티스트를 통틀어 최초·최다 기록이다. 28일&nbsp;YG엔터테인먼트에 따르면 블랙핑크의 공식 유튜브 채널 구독자 수는 이날 오전&nbsp;11시&nbsp;34분께&nbsp;7000만 명을 넘어섰다.&nbsp;지난&nbsp;2016년&nbsp;6월&nbsp;28일 블랙핑크 채널이 개설된 지 약&nbsp;]]></content>
     </entry>
 </feed>
