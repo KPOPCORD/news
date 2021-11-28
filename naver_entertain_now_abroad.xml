@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-28T04:27:46.620Z</updated>
+    <updated>2021-11-28T05:19:29.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“영혼결혼 때문” 방송 중 사망한 유명인..유골 도난당해]]></title>
+        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003807093</id>
+        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003807093"/>
+        <updated>2021-11-28T05:19:28.913Z</updated>
+        <content type="html"><![CDATA[[스포츠조선닷컴 박아람 기자] 생방송 중 농약을 마시고 사망한 중국 유명 인플루언서의 유골이 도난당하는 사건이 발생했다. 지난 21일 중국 매체들은 지난달 사망한 인플루언서 뤄샤오마오마오즈의 유골이 '영혼결혼식'에]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[킴 카다시안, 카니예 웨스트 '재결합' 질척 SNS 대응無 (종합)[Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004518458</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004518458"/>
+        <updated>2021-11-28T05:19:28.915Z</updated>
+        <content type="html"><![CDATA[[OSEN=연휘선 기자] 팝스타 카니예 웨스트가 재결합 희망을 밝힌 가운데, 이혼 절차를 밟고 있는 모델 겸 방송인 킴 카다시안이 무대응으로 일관하며 해프닝으로 일단락되는 모양새다. 카니예 웨스트는 27일(한국시간)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[키스 사진까지? 카니예 웨스트, 연하남과 데이트하는 킴 카다시안에 미련 뚝뚝]]></title>
         <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000516451</id>
@@ -164,20 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000834134</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000834134"/>
         <updated>2021-11-26T14:20:49.596Z</updated>
-        <content type="html"><![CDATA[청룡영화상 레드카펫이 26일 오후 서울 영등포구 여의도 KBS홀에서 열렸다. 배우 이유미가 레드카펫에 참석하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이유미 '미소가 아름다워' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000834133</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000834133"/>
-        <updated>2021-11-26T14:20:49.597Z</updated>
-        <content type="html"><![CDATA[청룡영화상 레드카펫이 26일 오후 서울 영등포구 여의도 KBS홀에서 열렸다. 배우 이유미가 레드카펫에 참석하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이유미 '사랑스러운 발걸음' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000834132</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000834132"/>
-        <updated>2021-11-26T14:20:49.598Z</updated>
         <content type="html"><![CDATA[청룡영화상 레드카펫이 26일 오후 서울 영등포구 여의도 KBS홀에서 열렸다. 배우 이유미가 레드카펫에 참석하고 있다.]]></content>
     </entry>
 </feed>
