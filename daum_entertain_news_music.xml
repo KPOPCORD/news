@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-28T09:22:22.589Z</updated>
+    <updated>2021-11-28T10:23:38.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단 2년만의 대면콘서트,보라빛 물결.."꿈 아니죠?"]]></title>
+        <id>https://entertain.v.daum.net/v/20211128184715569</id>
+        <link href="https://entertain.v.daum.net/v/20211128184715569"/>
+        <updated>2021-11-28T10:23:04.026Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 조현정기자]그룹 방탄소년단(BTS)이 미국 로스앤젤레스(LA)에서 2년 만에 대면 콘서트를 성황리에 마치고 전 세계 팬들에게 고마워했다. 28일 방탄소년단의 공식 트위터 계정에는 “‘아미’(BTS 팬)들의 목소리가 가득한 공연장…? 이거 꿈 아니죠?”라며 “내일도 이 자리에서 ‘아미’ 여러분들을 기다리고 있겠습니]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[몽니·장혜진·SF9·가호·이승윤·어반자카파·자우림]]></title>
+        <id>https://entertain.v.daum.net/v/20211128184606557</id>
+        <link href="https://entertain.v.daum.net/v/20211128184606557"/>
+        <updated>2021-11-28T10:23:04.028Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 가요팀] 11월 넷째주(11월 22일 ~ 28일)에는 굵직한 앨범들이 쏟아졌다. 밴드 몽니와 자우림이 새 정규앨범을 냈고, 그룹 에스에프나인(SF9)과 어반자카파도 신보를 내고 활동을 시작했다. 가수 장혜진은 데뷔 30주년을 기념하는 앨범을 냈다. '올라운더'로 통하는 가수 가호와 '싱어게인'을 통해 주목 받은 이승윤도 새 앨범으로 연말 활동]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["이선빈 MV 출연+듀엣 무대"..2F 신용재X김원주, 감성에 더한 특별함]]></title>
         <id>https://entertain.v.daum.net/v/20211128180012936</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211128145417458"/>
         <updated>2021-11-28T06:27:05.087Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 정하은기자]미국 로스앤젤레스(LA)가 보랏빛 물결로 물들었다. 그룹 방탄소년단(BTS)이 28일(한국시간) 미국 로스앤젤레스 소파이 스타디움에서 2년 만의 대면 콘서트 ‘퍼미션 투 댄스 온 스테이지(Permission To Dance On Stage)-LA’를 열고 전 세계 아미(방탄소년단 팬덤명)와 만났다. 방탄소년단이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["웰컴! BTS!"]]></title>
-        <id>https://entertain.v.daum.net/v/20211128142846149</id>
-        <link href="https://entertain.v.daum.net/v/20211128142846149"/>
-        <updated>2021-11-28T06:27:05.089Z</updated>
-        <content type="html"><![CDATA[‘보랏빛으로 물든 LA!’ 28일(이하 한국시간) 미국 로스앤젤레스(LA)가 그룹 방탄소년단을 상징하는 보라색으로 물들었다. 방탄소년단은 이날 오후 1시30분부터 LA 소파이 스타디움에서 ‘BTS 퍼미션 투 댄스 온 스테이지-LA’라는 타이틀로 다음날과 12월2·3일까지 총 4회에 걸쳐 ‘BTS 퍼미션 투 댄스 온 스테이지-LA’를 펼치며 전 세계 각국에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["내가 '아미'다!" 이색 아이템으로 시선 끈 방탄소년단 팬들]]></title>
-        <id>https://entertain.v.daum.net/v/20211128141726015</id>
-        <link href="https://entertain.v.daum.net/v/20211128141726015"/>
-        <updated>2021-11-28T05:18:55.349Z</updated>
-        <content type="html"><![CDATA[“‘밤’이는 정국의 반려견”이라고 친절히 설명해준 에밀리(사진=김현식 기자)(사진=김현식 기자)멤버들의 이름을 한글로 적은 머리띠를 직접 만들었다는 팬들(사진=김현식 기자)[로스앤젤레스(미국)=이데일리 스타in 김현식 기자] “내가 바로 방탄소년단 팬이다!” 그룹 방탄소년단(BTS)의 미국 로스앤젤레스(LA) 첫 공연이 열린 27일(이하 현지시간) 소파이]]></content>
     </entry>
 </feed>
