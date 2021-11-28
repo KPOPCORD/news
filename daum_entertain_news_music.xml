@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-28T10:23:38.638Z</updated>
+    <updated>2021-11-28T11:18:02.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사춘기 딸과 아빠를 이어준건, BTS]]></title>
+        <id>https://entertain.v.daum.net/v/20211128195819168</id>
+        <link href="https://entertain.v.daum.net/v/20211128195819168"/>
+        <updated>2021-11-28T11:17:31.992Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 27일(이하 현지시간) 미국 LA의 소파이 스타디움. 각국에서 방탄소년단의 ‘퍼미션 투 댄스’콘서트를 관람하러 보러 온 ‘아미’(팬덤명)들이 공연 전부터 공연장 밖을 가득 메우며 분위기를 고조시켰다. 코로나19 팬데믹으로 인해 무려 2년여 만에 개최된 대면 콘서트로 선예매와 함께 전석 매진, 4일에 걸쳐 약 30만명의 팬들이 함께하는 만큼]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단 2년만의 대면콘서트,보라빛 물결.."꿈 아니죠?"]]></title>
         <id>https://entertain.v.daum.net/v/20211128184715569</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211128151435796"/>
         <updated>2021-11-28T06:27:05.080Z</updated>
         <content type="html"><![CDATA[체코에서 온 방탄소년단 팬 아델라(왼쪽)와 파비아나(사진=김현식 기자)체코 팬 파비아나는 한국어 공부책도 샀다.(사진=김현식 기자)[로스앤젤레스(미국)=이데일리 스타in 김현식 기자] 그룹 방탄소년단(BTS)의 미국 콘서트 ‘BTS 퍼미션 투 댄스 온 스테이지 - LA’(BTS PERMISSION TO DANCE ON STAGE - LA) 1일차 공연 날]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["LA에 보랏빛 물결 시작됐다" 방탄소년단이 불러온 나비효과]]></title>
-        <id>https://entertain.v.daum.net/v/20211128145417458</id>
-        <link href="https://entertain.v.daum.net/v/20211128145417458"/>
-        <updated>2021-11-28T06:27:05.087Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 정하은기자]미국 로스앤젤레스(LA)가 보랏빛 물결로 물들었다. 그룹 방탄소년단(BTS)이 28일(한국시간) 미국 로스앤젤레스 소파이 스타디움에서 2년 만의 대면 콘서트 ‘퍼미션 투 댄스 온 스테이지(Permission To Dance On Stage)-LA’를 열고 전 세계 아미(방탄소년단 팬덤명)와 만났다. 방탄소년단이]]></content>
     </entry>
 </feed>
