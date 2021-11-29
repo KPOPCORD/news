@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-29T15:24:41.225Z</updated>
+    <updated>2021-11-29T16:34:31.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아스트로 MJ, '계세요'로 '더트롯쇼' 1위 "멤버들 보고 싶어"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003008604</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003008604"/>
+        <updated>2021-11-29T16:34:15.800Z</updated>
+        <content type="html"><![CDATA[그룹 아스트로(ASTRO) MJ가 트로트 데뷔곡 '계세요'로 '더트롯쇼' 11월 1위를 차지했다. 29일 방송된 SBS FiL '더트롯쇼'에서는 MJ의 '계세요'가 이찬원 '메밀꽃 필무렵', 박군 '한잔해'을 꺾고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[환희, 세번째 가족 브랜드 '크리스마스&송년 콘서트']]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000118778</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001379376"/>
         <updated>2021-11-29T10:24:00.143Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 LA(미국), 김예나 기자) 전세계 '아미'들의 함성이 LA를 울렸다. 방탄소년단 'BTS 퍼미션 투 댄스 온 스테이지(PERMISSION TO DANCE ON STAGE) - LA' 오프라인 콘서트가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단, 美 LA 2회차 공연 성료..메건 디 스탤리언 깜짝 등장]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003008567</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003008567"/>
-        <updated>2021-11-29T10:24:00.145Z</updated>
-        <content type="html"><![CDATA[그룹 방탄소년단(BTS)이 미국 로스앤젤레스(LA)에서 2년 만의 대면 콘서트를 개최하고 아미와 뜻깊은 시간을 보냈다. 방탄소년단은 28일(현지시간) 오후 미국 LA 소파이 스타디움에서 'BTS 퍼미션 투 댄스 온]]></content>
     </entry>
 </feed>

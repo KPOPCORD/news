@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-29T15:24:41.224Z</updated>
+    <updated>2021-11-29T16:34:31.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전소민, ‘쇼윈도: 여왕의 집’ 촬영 중 아찔한 섹시美+청순함 폭발[M+★SNS]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001624849</id>
+        <link href="https://entertain.naver.com/now/read?oid=057&amp;aid=0001624849"/>
+        <updated>2021-11-29T16:34:22.965Z</updated>
+        <content type="html"><![CDATA[배우 전소민이 ‘쇼윈도: 여왕의 집’ 촬영 인증샷을 공개했다. 전소민은 지난 29일 오후 자신의 인스타그램에 “여러분 오늘밤 채널A ‘쇼윈도: 여왕의집’ 오후 10시 30분 본방사수 해주실거죠?”라는 글과 사진을 게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘오징어게임’ 정호연 카리스마 [화보]]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000947893</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003807512"/>
         <updated>2021-11-29T12:34:28.532Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 이우주 기자] 배우 한지민이 털털한 면모를 보여줬다. 한지민은 29일 자신의 SNS를 통해 여러 편의 영상과 사진을 게재했다. 공개된 사진 속에는 공항에 쪼그려 앉아 집 갈 준비를 하는 한지민의 모습]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배두나·공유·이준·김선영·이무생…‘고요의 바다’ 캐릭터 포스터 공개]]></title>
-        <id>https://entertain.naver.com/now/read?oid=396&amp;aid=0000598354</id>
-        <link href="https://entertain.naver.com/now/read?oid=396&amp;aid=0000598354"/>
-        <updated>2021-11-29T12:34:28.533Z</updated>
-        <content type="html"><![CDATA[넷플릭스 시리즈 ‘고요의 바다’가 대원들의 캐릭터 포스터를 공개했다. ‘고요의 바다’는 필수 자원의 고갈로 황폐해진 근미래의 지구, 특수 임무를 받고 달에 버려진 연구기지로 떠난 정예 대원들의 이야기를 담은 넷플릭스]]></content>
     </entry>
 </feed>
