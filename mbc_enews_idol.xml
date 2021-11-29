@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 04:29:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 05:20:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤지성, 워너원 멤버들과 애틋한 재회 [인스타]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/331845</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/331845</guid>
+            <pubDate>Mon, 29 Nov 2021 05:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331845">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/29/56242d01-b7be-4c4b-95a8-512ad475fef0.jpg" alt="윤지성, 워너원 멤버들과 애틋한 재회 [인스타]">        <div class="text-box">            <p class="summary">윤지성, 워너원 멤버들과 애틋한 재회 [인스타]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/29/56242d01-b7be-4c4b-95a8-512ad475fef0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오마이걸 효정, 한결같은 요정 미모 자랑 [인스타]]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/331838</link>
@@ -86,14 +94,6 @@
             <pubDate>Sun, 28 Nov 2021 04:27:05 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331767">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/28/PTfA1tpptCP0637736999526665009.jpg" alt="화사, 'I'm a 빛'으로 中 QQ뮤직 일간 차트 1위...막강 음원 파워 과시">        <div class="text-box">            <p class="summary">화사, 'I'm a 빛'으로 中 QQ뮤직 일간 차트 1위...막강 음원 파워 과시</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/28/PTfA1tpptCP0637736999526665009.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스트레이 키즈, 'Winter Falls' MV 티저 추가 공개...키포인트는? "아련한 겨울 감성"]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/331763</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/331763</guid>
-            <pubDate>Sun, 28 Nov 2021 03:21:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331763">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/28/x4WtSpAH4jSB637736979635262858.jpg" alt="스트레이 키즈, 'Winter Falls' MV 티저 추가 공개...키포인트는? " 아련한="" 겨울="" 감성""="">        <div class="text-box">            <p class="summary">스트레이 키즈, 'Winter Falls' MV 티저 추가 공개...키포인트는? "아련한 겨울 감성"</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/28/x4WtSpAH4jSB637736979635262858.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
