@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-29T12:34:35.399Z</updated>
+    <updated>2021-11-29T13:28:24.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박은영, ♥김형우 판박이 아들 300일 자축…소소해도 센스 있는 홈파티]]></title>
+        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003807521</id>
+        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003807521"/>
+        <updated>2021-11-29T13:28:16.131Z</updated>
+        <content type="html"><![CDATA[[스포츠조선닷컴 이우주 기자] 아나운서 출신 박은영이 아들 범준 군의 300일을 자축했다. 박은영은 29일 자신의 SNS를 통해 "범준이 300일 됐어요♥ 건강히 무럭무럭 잘 커줘서 너무 고마워. 제법 엉아 느낌도]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이필모♥서수연 子 담호, 클수록 아빠 판박이 "볼빵빵한 귀요미"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003807516</id>
+        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003807516"/>
+        <updated>2021-11-29T13:28:16.140Z</updated>
+        <content type="html"><![CDATA[[스포츠조선닷컴 이우주 기자] 배우 이필모의 아내 서수연이 아들 담호 군의 폭풍 성장 근황을 공개했다. 서수연은 29일 자신의 SNS를 통해 "오늘의 담…토리 #입에 밥 가득"이라는 글과 함께 여러 장의 사진을 게재]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[내부고발자, 왜 한국에선 보호받지 못하나]]></title>
         <id>https://entertain.naver.com/now/read?oid=032&amp;aid=0003113249</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003807504"/>
         <updated>2021-11-29T11:19:13.615Z</updated>
         <content type="html"><![CDATA[엑소 카이가 신곡 'Peaches'(피치스)로 스윗한 매력의 퍼포먼스를 선사한다. 30일 공개되는 카이 두 번째 미니앨범 타이틀 곡 'Peaches'는 미디엄 템포 R&amp;B 장르의 곡이다. 가사에는 연인과 보내는 로맨]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송지효 숏컷에 뿔난 팬들..성명서 발표 "스타일리스트 교체해!"[스타이슈]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003008572</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003008572"/>
-        <updated>2021-11-29T11:19:13.616Z</updated>
-        <content type="html"><![CDATA[배우 송지효가 최근 숏컷으로 변신한 가운데, 팬들이 묵혀둔 불만을 터뜨렸다. 팬들은 성명서까지 발표하며 지난 몇 년간 송지효의 스타일링 문제를 지적했다. 29일 송지효 팬들은 디시인사이드 송지효 갤러리를 통해 "송지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이홍기 ‘원스’ 단독MC, 12월 3일 첫방 [공식]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000947883</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000947883"/>
-        <updated>2021-11-29T11:19:13.621Z</updated>
-        <content type="html"><![CDATA[FT아일랜드 이홍기가 음악 라이브 토크쇼 단독 MC로 활약한다. ‘이홍기의 플레이리스트 원스’(약칭 ‘원스’)는 12월 3일 저녁 8시 MBC M에서 첫 방송된다. ‘원스’는 아티스트의 실제 플레이리스트를 공유하고,]]></content>
     </entry>
 </feed>
