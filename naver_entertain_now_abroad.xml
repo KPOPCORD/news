@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-28T23:21:50.711Z</updated>
+    <updated>2021-11-29T01:05:31.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“할리우드 악동의 약혼”, 35살 린제이 로한 3억 다이아몬드 반지 자랑[해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003558827</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003558827"/>
+        <updated>2021-11-29T01:05:30.477Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘할리우드 악동’ 린제이 로한(35)이 약혼했다. 그는 지난 23일 인스타그램에 “내 사랑, 내 인생, 내 가족, 내 미래”라는 글과 함께 베이더 샴마스와 사랑스러운 포즈를 취하며 약혼했]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘오프화이트’ 버질 아블로 암 투병 끝에 숨져… 향년 41세]]></title>
+        <id>https://entertain.naver.com/now/read?oid=022&amp;aid=0003642612</id>
+        <link href="https://entertain.naver.com/now/read?oid=022&amp;aid=0003642612"/>
+        <updated>2021-11-29T01:05:30.477Z</updated>
+        <content type="html"><![CDATA[사진=2019년 프랑스 파리 패션위크에서 촬영된 버질 아블로. AP 연합뉴스 세계적인 명품 브랜드 ‘오프화이트’ 창업주이자 루이뷔통 디자이너 버질 아블로가 암투병 끝에 41세를 일기로 세상을 떠났다. LVMH 베르나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“콩 심은데 콩난다” 터미네이터X가정부 혼외자 아들, 아빠랑 똑같은 근육질[해외이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003558794</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000834138"/>
         <updated>2021-11-26T14:20:49.590Z</updated>
         <content type="html"><![CDATA[청룡영화상 레드카펫이 26일 오후 서울 영등포구 여의도 KBS홀에서 열렸다. 배우 공승연이 레드카펫에 참석하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장윤주 '아름다워~' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000834137</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000834137"/>
-        <updated>2021-11-26T14:20:49.591Z</updated>
-        <content type="html"><![CDATA[청룡영화상 레드카펫이 26일 오후 서울 영등포구 여의도 KBS홀에서 열렸다. 배우 장윤주가 레드카펫에 참석하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장윤주 '화사한 미소와 함께' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000834136</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000834136"/>
-        <updated>2021-11-26T14:20:49.592Z</updated>
-        <content type="html"><![CDATA[청룡영화상 레드카펫이 26일 오후 서울 영등포구 여의도 KBS홀에서 열렸다. 배우 장윤주가 레드카펫에 참석하고 있다.]]></content>
     </entry>
 </feed>
