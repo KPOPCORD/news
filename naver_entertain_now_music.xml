@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-29T13:28:24.043Z</updated>
+    <updated>2021-11-29T14:20:32.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유빈, 쉬는 날에도 축구 맹연습.."'골때녀' 너무 기대돼"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003008592</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003008592"/>
+        <updated>2021-11-29T14:20:16.852Z</updated>
+        <content type="html"><![CDATA[가수 유빈이 축구에 대한 열정을 뽐냈다. 유빈은 지난 28일 오후 9시 개인 유튜브 채널을 통해 축구 연습을 하는 영상을 공개했다. 공개된 영상 속 유빈은 생일을 맞아 지인들과 소박하게 생일을 자축하는 모습으로 등장]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단 진, '오징어 게임' 영희 변신..귀여운 양갈래]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003008584</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004519063"/>
         <updated>2021-11-29T10:24:00.154Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] 솔로 아티스트 청하가 ‘Killing Me’ 챌린지를 공개했다. 청하는 29일 글로벌 숏 미디어 플랫폼 틱톡(TikTok)을 통해 안무팀 라치카와 함께한 영상을 공개하며 새 스페셜 싱글 ‘K]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정유미, 콜드X아프로와 입 맞춘다... 12월 2일 ‘충분해(Enough)’ 발매]]></title>
-        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001200835</id>
-        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001200835"/>
-        <updated>2021-11-29T10:24:00.157Z</updated>
-        <content type="html"><![CDATA[배우 정유미와 가수 콜드(Colde), 프로듀서 아프로(APRO)가 만나 컬래버레이션이 성사됐다. 딩고는 29일 오전 10시 딩고 뮤직 공식 SNS 채널을 통해 '딩고 레코드'의 세 번째 주자인 정유미와 콜드, 아프]]></content>
     </entry>
 </feed>

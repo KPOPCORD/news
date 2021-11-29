@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-29T13:28:24.036Z</updated>
+    <updated>2021-11-29T14:20:32.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[린제이 로한, 금융인 남친과 약혼…'3억대' 약혼반지 받았다]]></title>
+        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004676741</id>
+        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004676741"/>
+        <updated>2021-11-29T14:20:32.065Z</updated>
+        <content type="html"><![CDATA['할리우드 악동'으로 잘 알려진 배우 겸 모델 린제이 로한이 약혼 소식을 알렸다. 린제이 로한은 28일(현지시간) 자신의 인스타그램을 통해 남자친구 베이더 샤마스와 약혼했다고 밝혔다. 린제이 로한은 "내 사랑. 내]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['성전환→유방절제술' 엘리엇 페이지, 당당한 상의 탈의 [엑's 해외이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001379353</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000834524"/>
         <updated>2021-11-29T05:20:30.296Z</updated>
         <content type="html"><![CDATA[배우 전소민이 29일 오후 온라인으로 진행된 드라마 '쇼윈도:여왕의 집' 제작발표회에 참석해 포즈를 취하고 있다. 사진=채널A]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['기록제조기' 방탄소년단… "소파이 스타디움 4회 공연 매진은 처음"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=417&amp;aid=0000759257</id>
-        <link href="https://entertain.naver.com/now/read?oid=417&amp;aid=0000759257"/>
-        <updated>2021-11-29T05:20:30.297Z</updated>
-        <content type="html"><![CDATA[2년 만에 대면 콘서트를 열고 있는 그룹 방탄소년단(BTS)이 미국 로스앤젤레스(LA)에서 소파이 스타디움 4회 매진의 첫 주인공이 됐다. 28일(현지시각) 소파이 스타디움에 따르면 방탄소년단은 소파이 스타디움 역사]]></content>
     </entry>
 </feed>
