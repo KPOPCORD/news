@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-29T18:27:16.819Z</updated>
+    <updated>2021-11-29T19:18:06.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이다해, '♥세븐'과 미국 갔나? 와인 마시며 여유로운 근황[스타IN★]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003008606</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003008606"/>
+        <updated>2021-11-29T19:17:59.386Z</updated>
+        <content type="html"><![CDATA[배우 이다해가 미국에서 근황을 전했다. 이다해는 29일 자신의 인스타그램에 "하이 #나파밸리 #몬테노마린 #오푸손 #카스텔로다이아모로사"(Hi #napavalley #montelenawinery #opusone #c]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전소민, ‘쇼윈도: 여왕의 집’ 촬영 중 아찔한 섹시美+청순함 폭발[M+★SNS]]]></title>
         <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001624849</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0004886160"/>
         <updated>2021-11-29T12:34:28.532Z</updated>
         <content type="html"><![CDATA[배우 정태우가 KBS 새 대하드라마 ‘태종 이방원’에 캐스팅 됐다. 29일 KBS1 ‘태종 이방원’ 측에 따르면 정태우는 극 중 이방원의 행동대장 이숙번 역을 맡았다. '태조 이방원'은 고려라는 구질서를 무너뜨리고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한지민, 공항 바닥에 쪼그려 앉은 여배우…다 가려도 연예인 포스]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003807512</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003807512"/>
-        <updated>2021-11-29T12:34:28.532Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 이우주 기자] 배우 한지민이 털털한 면모를 보여줬다. 한지민은 29일 자신의 SNS를 통해 여러 편의 영상과 사진을 게재했다. 공개된 사진 속에는 공항에 쪼그려 앉아 집 갈 준비를 하는 한지민의 모습]]></content>
     </entry>
 </feed>
