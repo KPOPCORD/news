@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-29T11:19:20.132Z</updated>
+    <updated>2021-11-29T12:34:35.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[YB, 12월24일과 25일 이틀간 '크리스마스 콘서트, LIGHTS']]></title>
+        <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000118762</id>
+        <link href="https://entertain.naver.com/now/read?oid=629&amp;aid=0000118762"/>
+        <updated>2021-11-29T12:34:22.210Z</updated>
+        <content type="html"><![CDATA[경희대 평화의 전당서 '서울공연' 후 2022 전국투어 돌입 YB가 오랜만에 전국 투어 콘서트로 관객들을 만난다. YB(윤도현밴드)는 오는 12월24과 25일 이틀간 서울 경희대 평화의 전당에서 막을 올리면서 '20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[양방언, 솔로데뷔 25주년 앨범 ’Light & Shadow‘ 발매]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000777720</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000777720"/>
+        <updated>2021-11-29T12:34:22.211Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 작곡가 겸 피아니스트 양방언의 솔로활동 25주년을 기념하는 뜻깊은 음반이 발매된다. 1996년 ‘The Gate of Dreams’로 솔로 데뷔한 양방언은 이번 음반에 2017년부터 2021년까지 라이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손태진,'불후의 명곡'→'열린음악회' 힐링 안긴 웅장한 보이스]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000834624</id>
@@ -104,7 +118,7 @@
         <content type="html"><![CDATA[(엑스포츠뉴스 LA(미국), 김예나 기자) 전세계 '아미'들의 함성이 LA를 울렸다. 방탄소년단 'BTS 퍼미션 투 댄스 온 스테이지(PERMISSION TO DANCE ON STAGE) - LA' 오프라인 콘서트가]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[방탄소년단, 美 LA 2회차 공연 성료..매건 디 스탤리언 깜짝 등장]]></title>
+        <title type="html"><![CDATA[방탄소년단, 美 LA 2회차 공연 성료..메건 디 스탤리언 깜짝 등장]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003008567</id>
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003008567"/>
         <updated>2021-11-29T10:24:00.145Z</updated>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000777703"/>
         <updated>2021-11-29T09:21:44.081Z</updated>
         <content type="html"><![CDATA[[스포츠경향] NHN벅스가 자사주 100만주를 처분하기로 결정하고 29일 공시했다. 처분예정금액은 116억 3800만원이며, 처분예정기간은 오는 30일이다. 업체에 따르면 처분 목적은 “신규 콘텐츠 투자를 위한 자금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몬스타엑스, 사복 버전 '러쉬 아워'..귀여움 가득 안무 영상]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003008565</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003008565"/>
-        <updated>2021-11-29T09:21:44.092Z</updated>
-        <content type="html"><![CDATA[그룹 몬스타엑스(MONSTA X)가 사복을 입고 찍은 안무 영상으로 귀여운 매력을 선사했다. 몬스타엑스는 지난 27일과 28일 공식 유튜브 채널을 통해 미니앨범 'No Limit(노 리밋)' 타이틀 'Rush Hou]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박원이 쓰고, 정인이 부르고..겨울 감성 담은 이별 발라드 '값'[퇴근길 신곡]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004519060</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004519060"/>
-        <updated>2021-11-29T09:21:44.093Z</updated>
-        <content type="html"><![CDATA[[OSEN=선미경 기자] 감성 장인 정인이 돌아왔다. 정인은 오늘(29일) 오후 6시에 온라인 음원사이트를 통해 신곡 ‘값’을 발표했다. 더 짙어진 감성으로 정인 특유의 농도 짙은 음악을 들려주고 있다. 쌀쌀한 겨울]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-29T11:19:20.135Z</updated>
+    <updated>2021-11-29T12:34:35.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['싱어게인' 37호 가수 태호 "12월14일 입대합니다"]]></title>
+        <id>https://entertain.v.daum.net/v/20211129204412293</id>
+        <link href="https://entertain.v.daum.net/v/20211129204412293"/>
+        <updated>2021-11-29T12:34:05.621Z</updated>
+        <content type="html"><![CDATA[가수 태호. 제공|스타제국    [스포츠서울 | 박효실기자] 올초 방송된 JTBC‘싱어게인’ 37호 가수로 출연했던 가수 태호(28)가 입대 소식을 전했다. 지난 2016년 그룹 임팩트로 데뷔한 태호는 ‘싱어게인’에서 주목받으며 지난 5월 솔로 앨범을 발매하며 인기를 끌었다. 태호는 29일 자신의 SNS를 통해 “제가 오는 12월14일 입대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[팬데믹시대 '시니컬한 위로'.. "그래도 결국은 사랑이다"]]></title>
         <id>https://entertain.v.daum.net/v/20211129200127894</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211129170404896"/>
         <updated>2021-11-29T08:26:14.033Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] JYP엔터테인먼트(이하 JYP) 새 보이밴드 엑스디너리 히어로즈(Xdinary Heroes, XH)가 12월 6일 데뷔를 확정한 가운데 베이시스트 주연의 티저 이미지를 최초 공개했다. JYP는 최근 6인조 신인 보이밴드 엑스디너리 히어로즈 론칭을 공식 발표하고 데뷔 프로젝트를 적극 전개하고 있다. 일상을 그린 드라마타이즈 티저부터]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["인생 끝날때까지 함께" 눈물 삼킨 방탄소년단, 5만 아미 울린 말말말]]></title>
-        <id>https://entertain.v.daum.net/v/20211129170109782</id>
-        <link href="https://entertain.v.daum.net/v/20211129170109782"/>
-        <updated>2021-11-29T08:26:14.033Z</updated>
-        <content type="html"><![CDATA[[로스앤젤레스(미국)=뉴스엔 황혜진 기자] 그룹 방탄소년단(RM, 진, 슈가, 제이홉, 지민, 뷔, 정국)이 2년 만에 진행한 대면 콘서트에서 진심 어린 이야기들로 팬 아미(ARMY)들의 마음을 울렸다. 방탄소년단은 11월 28일(현지시간) 미국 캘리포니아주 로스앤젤레스 소파이 스타디움에서 단독 콘서트 'BTS PERMISSION TO DANCE ON S]]></content>
     </entry>
 </feed>
