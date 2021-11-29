@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-29T08:26:44.465Z</updated>
+    <updated>2021-11-29T09:21:57.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['성전환→유방절제술' 엘리엇 페이지, 당당한 상의 탈의 [엑's 해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001379353</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001379353"/>
+        <updated>2021-11-29T09:21:57.220Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김예은 기자) 지난해 성전환 수술을 한 엘리엇 페이지(구 엘렌 페이지)가 상반신 탈의 사진을 공개했다. 엘리엇 페이지는 29일 자신의 인스타그램에 "Oh good my new phone works"라는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가수 서리, 커버곡 '탱고' 원곡자 아비어와 듀엣]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010860501</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=417&amp;aid=0000759257"/>
         <updated>2021-11-29T05:20:30.297Z</updated>
         <content type="html"><![CDATA[2년 만에 대면 콘서트를 열고 있는 그룹 방탄소년단(BTS)이 미국 로스앤젤레스(LA)에서 소파이 스타디움 4회 매진의 첫 주인공이 됐다. 28일(현지시각) 소파이 스타디움에 따르면 방탄소년단은 소파이 스타디움 역사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엘리엇 페이지, 가슴 절제술 후 과감한 상의 탈의 ‘식스팩 공개’]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000516777</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000516777"/>
-        <updated>2021-11-29T04:29:55.137Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 할리우드 스타 엘리엇 페이지(Elliot Page)가 식스팩을 공개했다. 엘리엇 페이지는 11월 29일(한국시간) 개인 SNS에 상반신을 노출한 사진 한 장을 게재했다. 사진 속 엘리엇 페이지]]></content>
     </entry>
 </feed>
