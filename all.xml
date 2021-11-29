@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 02:35:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 03:23:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211125084029_14d37e09b37fd38897246ee8af0e058f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[화보] 정호연 "역시 글로벌 대세" (KBS연예 ─ 연예)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=176000</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=176000</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=176000">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211129110631_c412198458c3814ed1483258d39c1de6.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=176000">[화보] 정호연 "역시 글로벌 대세"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211129110631_c412198458c3814ed1483258d39c1de6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[화보] 컴백 위키미키, 그들만의 케미스트리 담긴 '시에스타' (KBS연예 ─ 연예)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=175941</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=175941</guid>
@@ -672,21 +689,12 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211120100021_5651ba290305806e4ffaded934f0338d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[제작발표회] 심달기의 반전 생활 '그림자 미녀' (KBS연예 ─ 연예)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=173931</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=173931</guid>
-            <pubDate>Fri, 19 Nov 2021 09:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=173931">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211119163015_7286894fc0f733cedfd5a5427d619046.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=173931">[제작발표회] 심달기의 반전 생활 '그림자 미녀'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211119163015_7286894fc0f733cedfd5a5427d619046.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[오마이걸 효정, 한결같은 요정 미모 자랑 [인스타] (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/331838</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/331838</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331838">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/29/cd3cf2f2-0933-46fb-ba85-8fa0f3515538.jpg" alt="오마이걸 효정, 한결같은 요정 미모 자랑 [인스타]">        <div class="text-box">            <p class="summary">오마이걸 효정, 한결같은 요정 미모 자랑 [인스타]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/29/cd3cf2f2-0933-46fb-ba85-8fa0f3515538.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방탄소년단 지민 美sofi스타디움 흔든 '무대의 제왕' 포스 (MBC 연예 ─ 아이돌)]]></title>
@@ -769,12 +777,60 @@
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/28/x4WtSpAH4jSB637736979635262858.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[태연, '지리산' 여덟 번째 OST '나의 작은 정원' 오늘 발매 (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/331762</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/331762</guid>
-            <pubDate>Sun, 28 Nov 2021 03:21:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331762">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/28/yI0mXSYybWO6637736977362543681.jpg" alt="태연, '지리산' 여덟 번째 OST '나의 작은 정원' 오늘 발매">        <div class="text-box">            <p class="summary">태연, '지리산' 여덟 번째 OST '나의 작은 정원' 오늘 발매</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/28/yI0mXSYybWO6637736977362543681.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA["방탄소년단 콘서트 어땠냐고? 눈물범벅 됐어요" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211129122127168</link>
+            <guid>https://entertain.v.daum.net/v/20211129122127168</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:21 GMT</pubDate>
+            <content:encoded><![CDATA[방탄소년단 콘서트가 열리는 소파이스타디움(사진=김현식 기자)방탄소년단 팬 낸시(사진=김현식 기자)방탄소년단 팬 아나(왼쪽)와 낸시(사진=김현식 기자)[로스앤젤레스(미국)=이데일리 스타in 김현식 기자] “방탄소년단 콘서트요? 정말 멋졌어요. 얼굴은 눈물범벅이 됐고요.” 28일(이하 현지시간) 그룹 방탄소년단(BTS)의 미국 로스앤젤레스(LA) 콘서트 장소]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[첫 단독 콘서트 성공적으로 마친 정동원, "자랑스럽게 여길 수 있는 가수 될 것" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211129122012151</link>
+            <guid>https://entertain.v.daum.net/v/20211129122012151</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:21 GMT</pubDate>
+            <content:encoded><![CDATA[가수 정동원이 첫 단독 콘서트를 성공적으로 마쳤다. 정동원은 지난 26일부터 28일까지 3일간 서울 한남동 블루스퀘어 마스터카드홀에서 ‘정동원棟동 이야기話화 콘서트(1st JEONG DONG WON’S TALK &amp; CONCERT)‘를 진행됐다. 그는 최근 발매한 첫 정규 앨범 ’그리움, 아낌없이 주는 나무‘의 타이틀곡 ’물망초‘와 김광석의 ’잊어야 한다는]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[인터파크 보이그룹, 팀명 트렌드지 확정.."내년 1월 데뷔" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211129121902124</link>
+            <guid>https://entertain.v.daum.net/v/20211129121902124</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:21 GMT</pubDate>
+            <content:encoded><![CDATA[인터파크뮤직플러스의 보이그룹 인터보이즈(가칭)가 그룹명을 트렌드지(TRENDZ)로 확정했다. 29일 소속사 인터파크뮤직플러스는 공식 SNS 채널을 통해 인터보이즈의 그룹명 트렌드지와 로고를 오픈했다. 내년 1월 가요계에 첫발을 내딛게 된 트렌드지는 7인조 보이그룹으로, 리더 조한국을 비롯해 이하빛, 김동현, 이충현, 이태현, 김은일, 정예찬이 속해있다. 소]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[에이스, 터키서 콘서트·팬미팅 성료..티켓 오픈 동시에 서버 마비 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211129115215254</link>
+            <guid>https://entertain.v.daum.net/v/20211129115215254</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:21 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 이덕행 기자] /사진 = 비트인터렉티브, 정아트앤컴퍼니 그룹 에이스(A.C.E)가 터키 팬들과 직접 만나 특별한 추억을 만들었다. 에이스 준, 김병관, 찬은 지난 27일 터키 이스탄불 팀쇼센터에서 주터키한국문화원 개원 10주년을 기념해 콘서트 및 팬미팅을 개최했다. 에이스의 이번 행사는 티켓 오픈과 동시에 4만 3천명이 동시 접속해 사이트 서버가]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 보랏빛 물결 "아미들의 축제" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211129115019195</link>
+            <guid>https://entertain.v.daum.net/v/20211129115019195</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:21 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 LA(미국), 김예나 기자) 그룹 방탄소년단(BTS)의 LA 콘서트 두 번째 공연을 위해 전세계 '아미'들이 소파이 스타디움으로 모여들고 있다.&nbsp; 28일(현지 시간) 방탄소년단은 미국 LA 소파이 스타디움에서 'BTS 퍼미션 투 댄스 온 스테이지(PERMISSION TO DANCE ON STAGE)' 2회차 공연을 연다. 전날 첫 공연을 시]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["눈물날 뻔"..방탄소년단, 길었던 2년 위해 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211129115010190</link>
+            <guid>https://entertain.v.daum.net/v/20211129115010190</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:21 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 LA(미국), 김예나 기자) 그룹 방탄소년단(BTS)이 2년 만에 다시 만난 팬들의 소중함을 강조했다.&nbsp; 방탄소년단은 28일(현지 시간) 미국 LA 소파이(Sofi) 스타디움에서 'BTS 퍼미션 투 댄스 온 스테이지(PERMISSION TO DANCE ON STAGE) - LA' 오프라인 공연 개최 기념 기자간담회를 진행했다.&nbsp; 방탄소년단은]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["8번 더 찍으면, 진 나이가 40살"..방탄소년단과 그래미 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211129115003188</link>
+            <guid>https://entertain.v.daum.net/v/20211129115003188</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:21 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 LA(미국), 김예나 기자) 그룹 방탄소년단(BTS) 다음 도전에 대한 의지를 다졌다.&nbsp; 방탄소년단은 28일(현지 시간) 미국 LA 소파이(Sofi) 스타디움에서 'BTS 퍼미션 투 댄스 온 스테이지(PERMISSION TO DANCE ON STAGE) - LA' 오프라인 공연 개최 기념 기자간담회를 진행했다.&nbsp; 방탄소년단은 최근 'AMA(]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 슈가 "그래미상? 열 번찍어 안넘어가는 나무 없다더라" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211129114953185</link>
+            <guid>https://entertain.v.daum.net/v/20211129114953185</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:21 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 방탄소년단 멤버들이 그래미 본상 수상 불발에 대해 언급했다. 방탄소년단은 28일(이하 미국 현지시간) 미국 LA 소파이 스타디움에서 ‘퍼미션 투 댄스 온 스테이지(PERMISSON TO DANCE ON STAGE)-LA’ 콘서트 기념 기자간담회를 개최했다. 이날 멤버들은 ‘그래미상’ 노미네이트와 관련한 질문을 받았다. 슈가는 “2년 연속 노]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[스트레이 키즈 "첫 시즌송, 소중한 크리스마스 선물 되길" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
@@ -826,60 +882,53 @@
             <content:encoded><![CDATA[[OSEN=선미경 기자] 그룹 몬스타엑스(MONSTA X)가 타이틀 ‘Rush Hour(러쉬 아워)’의 음악방송 활동을 마무리했다. 몬스타엑스는 지난 28일 오후에 방송된 SBS ‘인기가요’에서 ‘Rush Hour’의 아쉬운 굿바이 무대를 진행했다. 미니앨범 ‘No Limit(노 리밋)’ 발매 이후 2주 동안 ‘Rush Hour’로 각종 음악방송에서 팬들을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에이티즈, 컴백 타이틀곡은 '야간비행' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211129110303228</link>
-            <guid>https://entertain.v.daum.net/v/20211129110303228</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:03 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=선미경 기자] 그룹 에이티즈(ATEEZ)가 컴백 타이틀곡을 확정지었다. 29일&nbsp;0시 에이티즈는 공식&nbsp;SNS&nbsp;채널에&nbsp;‘제로&nbsp;:&nbsp;피버 에필로그(ZERO : FEVER EPILOGUE)’의 타이틀 포스터를 공개했다. 공개된 이미지는 흑백의 졸업사진 콘셉트로,&nbsp;학사모를 쓰고 졸업장을 손에 쥔 에이티즈의 위로 종이비행기가 날고 있어 애틋함을 자아낸다.&nbsp;특]]></content:encoded>
+            <title><![CDATA[위키미키 "다음 앨범도 기대, 포텐 터뜨릴 일만 남아" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211129121649082</link>
+            <guid>https://entertain.v.daum.net/v/20211129121649082</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박수인 기자] 그룹 위키미키(Weki Meki) 화보가 공개됐다. 위키미키(지수연, 엘리, 최유정, 김도연, 세이, 루아, 리나, 루시)는 패션 매거진 '더블유 코리아' 12월 호를 통해 여덟 멤버 각자의 개성은 물론 완전체 케미가 돋보이는 화보를 공개했다. 공개된 화보에서 위키미키는 독보적인 8인 8색 매력을 자랑한다. 흑백 사진 속 블랙 컬러]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[엑소 카이, 신곡 'Peaches' 의상은 한복?..팬들 난리난 동양美 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211129110157163</link>
-            <guid>https://entertain.v.daum.net/v/20211129110157163</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:03 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박소영 기자] ‘월드클래스 퍼포머’ 엑소 카이(에스엠엔터테인먼트 소속)가 신곡 ‘Peaches’(피치스)로 스윗한 매력의 퍼포먼스를 선사한다. 30일 공개되는 카이 두 번째 미니앨범 타이틀 곡 ‘Peaches’는 미디엄 템포&nbsp;R&amp;B&nbsp;장르의 곡으로,&nbsp;가사에는 연인과 보내는 로맨틱한 순간을 달콤한 복숭아에 빗대어 표현,&nbsp;낙원 같은 둘만의 공간에서 영]]></content:encoded>
+            <title><![CDATA[EVERGLOW , 걸크러쉬 그녀들이 돌아온다~ (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211129121331012</link>
+            <guid>https://entertain.v.daum.net/v/20211129121331012</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 김기태 기자] 에버글로우(EVERGLOW) 멤버 이유, 온다, 이런, 시현, 미아, 아샤가 11월 29일 오후 서울 영등포구 여의도동 KBS신관에서 열리는 KBS 2TV '불후의 명곡' 녹화 일정에 참석하기 위해 방송국으로 들어서고 있다. 뉴스엔 김기태 teddy@ 기사제보 및 보도자료 newsen@newsen.com copyrightⓒ 뉴스엔]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[청하, 오늘 새 스페셜 싱글 'Killing Me' 발매..작사 참여 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211129105815925</link>
-            <guid>https://entertain.v.daum.net/v/20211129105815925</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:03 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=선미경 기자] 가수&nbsp;청하가 신곡으로 돌아온다.&nbsp; 청하는 29일 오후 6시에 전 온라인 음원 사이트를 통해 새&nbsp;스페셜 싱글 ‘Killing Me(킬링 미)’를 발매한다.&nbsp; ‘Killing Me’는 코러스 섹션의 신스와 미니멀한 프로덕션을 통해 청하의 리드미컬한 보컬이 강조된 업템포 팝넘버 곡이다. 코러스에서 다양한 베리에이션과 애드리브가 청하의 다]]></content:encoded>
+            <title><![CDATA["빅뱅 4인조 활동 보장+악플러 대응" YG에 나타난 시위 트럭 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211129121003957</link>
+            <guid>https://entertain.v.daum.net/v/20211129121003957</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 빅뱅 일부 팬들이 YG엔터테인먼트(이하 YG)를 상대로 트럭 시위를 진행하고 피드백을 요청했다. 빅뱅 팬 연합은 29일 온라인 커뮤니티, SNS 등을 통해 "YG에게 빅뱅 팬이 요구합니다"라는 성명문을 게재하고 YG 사옥에 시위 트럭을 보냈다. 이들은 "VIP는 빅뱅 완전체 4명의 무대를 기다린다. 지난 2020년 3월 Y]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방탄소년단 LA 기자간담회 "말말말" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211129105448810</link>
-            <guid>https://entertain.v.daum.net/v/20211129105448810</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:03 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 방탄소년단은 28일(이하 미국 현지시간) 미국 LA 소파이 스타디움에서 ‘퍼미션 투 댄스 온 스테이지-LA’ 콘서트 기념 기자간담회를 개최했다. 지난 27일 막을 올린 이번 콘서트는 28일과 다음달 1일, 2일까지 총 4회에 걸쳐 총 30만여 명의 관객과 함께한다. 이번 콘서트는 지난 2020년 예정됐던 ‘맵 오브 더 솔 투어’가 코로나19]]></content:encoded>
+            <title><![CDATA[방탄소년단, LA에서도 기록소년단..첫 4회 매진‧최다 판매 가수 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211129120833923</link>
+            <guid>https://entertain.v.daum.net/v/20211129120833923</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=로스앤젤레스, 장진리 기자] 그룹 방탄소년단이 미국 로스앤젤레스(LA) 소파이 스타디움에서도 새로운 기록을 세웠다.28일(이하 현지시간) 소파이 스타디움에 따르면 방탄소년단은 소파이 스타디움 역사상 4회 공연 전체 매진을 기록한 첫 아티스트가 됐다. 소파이 스타디움은 49억 6300만 달러(한화 약 5조 9263억 원)를 들여 지난해 7]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[몬스타엑스, '러쉬 아워' 음악방송 활동 마무리.."어느 때보다 뜻깊은 활동" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211129105109690</link>
-            <guid>https://entertain.v.daum.net/v/20211129105109690</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:03 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 이덕행 기자] /사진=스타쉽 엔터테인먼트그룹 몬스타엑스(MONSTA X)가 타이틀 'Rush Hour(러쉬 아워)'의 음악방송 활동을 마무리했다. 몬스타엑스는 지난 28일 오후 방송된 SBS '인기가요'에서 'Rush Hour'의 아쉬운 굿바이 무대를 진행했다. 미니앨범 'No Limit(노 리밋)' 발매 이후 2주 동안 'Rush Hour'로]]></content:encoded>
+            <title><![CDATA[에버글로우 'Pirate으로 컴백!' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211129120606875</link>
+            <guid>https://entertain.v.daum.net/v/20211129120606875</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 임성균 기자] 그룹 에버글로우 시현, 온다, 이런, 미아, 아샤, 이유가 29일 오전 서울 여의도 KBS공개홀에서 진행되는 '불후의명곡' 녹화를 위해 도착하고 있다. 2021.11.29 임성균 기자 tjdrbs23@mt.co.kr]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[몬스타엑스 코로나19 전원 음성 "백신 접종 모두 완료" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211129104858611</link>
-            <guid>https://entertain.v.daum.net/v/20211129104858611</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:03 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 윤상근 기자] 그룹 몬스타엑스가 19일 오전 온라인 생중계로 진행된  미니앨범 'No Limit'(노 리밋) 발매기념 쇼케이스에 앞서 포즈를 취하고 있다.  어떤 상황에도 '한계 없는' 가능성과 함께 무한 경쟁시대에서 더욱 빛나는 몬스타엑스의 정체성을 담은 앨범 'No Limit'은 19일 오후 2시에 공개된다. /사진제공=스타쉽엔터테인먼트 20]]></content:encoded>
+            <title><![CDATA[박명수 "내 유튜브서 출연료 받은 정준하, 나는 무료 섭외하더라" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211129114842151</link>
+            <guid>https://entertain.v.daum.net/v/20211129114842151</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이해정 기자] 개그맨 박명수가 동료 정준하에게 서운함을 토로했다. 11월 29일 방송된 KBS 쿨FM '박명수의 라디오쇼'에는 개그맨 유민상이 게스트로 출연했다. 유민상은 자신과 관련한 미담에 대해 "패딩을 사주기도 했고 후배들이 유튜브 채널을 개설하면 무료로 출연해준다. 거절하지 않고 음식을 가져가기도 한다"고 말해 훈훈한 분위기를 자아냈다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[하이키 新 멤버 리이나, 외국어에 연기까지 '다재다능' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211129104305420</link>
-            <guid>https://entertain.v.daum.net/v/20211129104305420</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:03 GMT</pubDate>
-            <content:encoded><![CDATA['전원 올라운더' 걸그룹 하이키(H1-KEY)의 세 번째 멤버로 리이나(RIINA)가 공개됐다. 29일 0시 GLG(그랜드라인 그룹)는 하이키(H1-KEY) 공식 SNS를 통해 세 번째 멤버 리이나의 프로필 사진을 오픈했다. 공개된 사진 속 리이나는 중단발 헤어스타일로 시크한 매력을 뽐냈다. 모델 같은 비율과 당찬 포즈, 몽환적인]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[온앤오프 효진, 30일 '어사와 조이' OST '마음이 필요해' 발매 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211129104102334</link>
-            <guid>https://entertain.v.daum.net/v/20211129104102334</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:03 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 그룹 온앤오프의 효진이 tvN 월화드라마 ‘어사와 조이’ 두 번째 OST 가창자로 나선다. 11월 29일 ‘어사와 조이’ OST 제작을 맡고 있는 Stone Music Entertainment에 따르면 효진이 가창한 ‘어사와 조이’ OST Part 2 ‘마음이 필요해’는 오는 30일 정오 국내 주요 음원 사이트를 통해 만나볼 수 있]]></content:encoded>
+            <title><![CDATA[한혜진, 'SBS 연예대상' MC..이승기·장도연과 호흡 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211129114801126</link>
+            <guid>https://entertain.v.daum.net/v/20211129114801126</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[모델 출신 방송인 한혜진이 '2021 SBS 연예대상'에서 이승기, 장도연과 MC 호흡을 맞춘다. 29일 매일경제 스타투데이 취재 결과, 한혜진은 오는 12월 18일 개최되는 '2021 SBS 연예대상' MC로 나선다. 이로써 한혜진은 앞서 출연을 확정한 이승기, 장도연과 MC 호흡을 맞추게 됐다. 한혜진은 올해 SBS에서 방송된 예능프로그램 ‘골 때]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[유민상 "먹방 후 모텔 가서 자..사람들이 이상하게 오해" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
@@ -938,55 +987,6 @@
             <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 그룹 쥬얼리 출신 조민아가 과거 베이커리 위생 문제 논란과 관련, 거짓 해명 의혹에 휩싸였다. 앞서 지난달 25일 조민아는 SBS플러스, 채널S '연애도사 시즌2'에서 2015년 불거졌던 베이커리 위생 문제 논란에 대해 언급했다. 그는 "오랫동안 좋아했던 걸 해보자, 주변에 나누는 걸 좋아하다 보니까 그래서 베이커리를 시작했]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['라디오쇼' 유민상 "박명수 라인? 존경하는 선배는 이경규·유재석" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211129112206149</link>
-            <guid>https://entertain.v.daum.net/v/20211129112206149</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:07 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 박상후 기자] '라디오쇼'에서 코미디언 유민상이 존경하는 선배를 언급했다. 29일 오전 방송된 KBS 쿨FM '박명수의 라디오쇼'(이하 '라디오쇼')의 '전설의 고수' 코너에는 유민상이 게스트로 출연해 입담을 뽐냈다. 이날 유민상은 '명라인(박명수 라인)'이 아니냐는 질문에 "사실 박명수 선배 만났을 때만 그렇게 하는 편이다"라고 말해 현]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['하트시그널' 서지혜 '너에게 가는 속도 493km' 출연, 박주현과 라이벌 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211129111917031</link>
-            <guid>https://entertain.v.daum.net/v/20211129111917031</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:07 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박수인 기자] 배우 서지혜가 ‘너에게 가는 속도 493km’에 출연한다. 서지혜 소속사 저스트 엔터테인먼트는 11월 29일 보도자료를 통해 KBS 2TV 새드라마 ‘너에게 가는 속도 493KM’ 캐스팅 소식을 알렸다. ‘너에게 가는 속도 493km’는 싱그러운 스물 다섯, 운동이 전부인 박태양(박주현)과 운동이 직업인 박태준(채종협)이 배드민턴]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["방탄소년단, 4회 공연 첫 매진"..LA 소파이 스타디움은 어떤 곳 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211129111246723</link>
-            <guid>https://entertain.v.daum.net/v/20211129111246723</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:07 GMT</pubDate>
-            <content:encoded><![CDATA[기사내용 요약 방탄소년단 콘서트서 100만번째 관객 [서울=뉴시스]이재훈 기자 = 그룹 '방탄소년단'(BTS)이 미국 로스앤젤레스(LA) 소파이 스타디움(SoFi Stadium) 사상 첫 4회 전석 매진 가수가 되면서 이 공연장에 대한 관심이 쏠린다. 29일 미국 빌보드 등 외신에 따르면, 지난해 9월 개관한 소파이 스타디움은 세계 최첨단 시설을 갖춘]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김대명 "'슬의2' 종영, 졸업하는 느낌" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211129110807499</link>
-            <guid>https://entertain.v.daum.net/v/20211129110807499</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:07 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 배우 김대명의 화보가 공개됐다. 29일 패션 매거진 하퍼스 바자는 김대명과 함께 진행한 화보와 인터뷰를 공개했다. 이번 화보 속에서 김대명은 드라마와 예능 프로그램 속 순박한 모습이 아닌 차가운 도시 남자의 매력을 뿜어낸다. 이어진 인터뷰에서 김대명은 드라마 '슬기로운 의사생활' 시즌 2를 마친 소감으로 "항상 작품을 끝내고]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['유체이탈자' 임지연의 재발견 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211129110703446</link>
-            <guid>https://entertain.v.daum.net/v/20211129110703446</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:07 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 최혜진 기자] 배우 임지연의 재발견이다. 전작에서의 이미지는 완전히 벗어던졌다. 더욱 단단해지고 깊어진 연기와 눈빛으로 좌중을 압도한 임지연이다. 임지연은 2014년 청불 영화 '인간중독'으로 화려하게 데뷔했다. 이후 '간신' '럭키' '타짜: 원 아이드 잭', 드라마 '상류사회' '불어라 미풍아' 등에 출연했다. 그런 그가 이번엔 액션물]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한지민→강하늘..14인14색 '해피 뉴 이어' 12월 극장‧티빙 동시개봉 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211129110400292</link>
-            <guid>https://entertain.v.daum.net/v/20211129110400292</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:07 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=김현록 기자]한지민 이동욱 강하늘 임윤아 등이 출연한 영화 '해피 뉴 이어'가 오는 12월 티빙과 극장 동시 공개를 확정했다. 한지민, 이동욱, 강하늘, 임윤아, 원진아, 이혜영, 정진영, 김영광, 서강준, 이광수, 고성희, 이진욱, 조준영, 원지안 등 화려하고도 다채로운 캐스팅으로 주목받은 티빙 오리지널 영화 '해피 뉴 이어'(감독 곽]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[소설가와 피아니스트로 만난 소꿉친구 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211129110302225</link>
-            <guid>https://entertain.v.daum.net/v/20211129110302225</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:07 GMT</pubDate>
-            <content:encoded><![CDATA[[유영수 기자] ▲ &nbsp;&lt;피아니스트 강소연의 뮤직플러스 3: 빈틈의 온기&gt; 공연 장면.    ⓒ 유영수  &nbsp;&lt;피아니스트 강소연의 뮤직플러스 3: 빈틈의 온기&gt;의 탄생 비화는 독특하고 드라마틱하다. 어린 시절 같은 동네에서 유치원을 함께 다닌 소꿉친구 소연과 고은. 자라나면서 학창 시절에는 서로 연락이 끊겼고, 독일에서 유학 중이던 소연은 유럽]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[키스 사진까지? 카니예 웨스트, 연하남과 데이트하는 킴 카다시안에 미련 뚝뚝 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
             <link>https://entertain.v.daum.net/v/20211128125002783</link>
             <guid>https://entertain.v.daum.net/v/20211128125002783</guid>
@@ -994,354 +994,368 @@
             <content:encoded><![CDATA[[뉴스엔 박은해 기자] 가수 카니예 웨스트(44)가 킴 카다시안(41)과 재결합을 바라고 있다. 카니예 웨스트는 11월 27일(한국 시간) 자신의 인스타그램 스토리에 킴 카다시안과 키스하고 있는 모습이 담긴 사진을 게재했다. 또 그는 킴 카다시안의 계정을 태그하며 "카니예 웨스트는 신이 킴 카다시안과 그를 다시 만나게 할 것이라고 말하고, 수백만 명의 사]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[라비 '애니' 콘셉트 포토 공개…12월7일 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010859180</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010859180</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]이수진 인턴 기자 = 가수 라비(RAVI)의 콘셉트 포토가 공개됐다. 29일 소속사 그루블린은 공식 SNS 를 통해 라비의 싱글 '애니(ANI(Feat. 소연((여자)아이들))'의 첫 번째 콘셉트 포토]]></content:encoded>
+            <title><![CDATA[첫 단독 콘서트 성공적으로 마친 정동원, “자랑스럽게 여길 수 있는 가수 될 것” (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=021&amp;aid=0002494165</link>
+            <guid>https://entertain.naver.com/now/read?oid=021&amp;aid=0002494165</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:36 GMT</pubDate>
+            <content:encoded><![CDATA[가수 정동원이 첫 단독 콘서트를 성공적으로 마쳤다. 정동원은 지난 26일부터 28일까지 3일간 서울 한남동 블루스퀘어 마스터카드홀에서 ‘정동원棟동 이야기話화 콘서트(1st JEONG DONG WON’S TALK]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스트레이 키즈 "첫 시즌송, 소중한 크리스마스 선물 되길" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003558874</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003558874</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 오윤주 기자] 그룹 스트레이 키즈가 전 세계 팬들과 특별한 연말을 맞이한다. 스트레이 키즈는 새 싱글 '크리스마스 이블(Christmas EveL)' 더블 타이틀곡 '크리스마스 이블'과 '윈터 폴스(]]></content:encoded>
+            <title><![CDATA[인터파크 보이그룹, 팀명 트렌드지 확정…"내년 1월 데뷔" [공식] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004634077</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004634077</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:36 GMT</pubDate>
+            <content:encoded><![CDATA[인터파크뮤직플러스의 보이그룹 인터보이즈(가칭)가 그룹명을 트렌드지(TRENDZ)로 확정했다. 29일 소속사 인터파크뮤직플러스는 공식 SNS 채널을 통해 인터보이즈의 그룹명 트렌드지와 로고를 오픈했다. 내년 1월 가요]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[하현상, 웹드라마 '너의 재생목록' OST 발매…로맨스 감성 배가 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003008449</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003008449</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[가수 하현상이 웹드라마 '너의 재생목록'의 따뜻한 사랑을 노래했다. 29일 정오 각종 온라인 음원 사이트를 통해 하현상이 가창에 참여한 웹드라마 '너의 재생목록'의 네 번째 OST '사랑했던 그 순간'이 발매된다.]]></content:encoded>
+            <title><![CDATA[에이티즈와 1대1 영상통화…12월4일 라이브콜 진행 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010859368</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010859368</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:36 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]김예지 인턴 기자 = 글로벌 팬덤 플랫폼 유니버스(UNIVERSE)가 그룹 에이티즈(ATEEZ)의 라이브콜을 진행한다. 29일 (주)엔씨소프트, (주)클렙 측은 "유니버스(UNIVERSE)가 오는 12월 4일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[NCT, 정규 3집 ‘Universe’로 펼칠 다채로움…기대감 증폭 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000834491</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000834491</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[NCT(엔시티)가 정규 3집으로 다채로운 색깔의 음악을 들려준다. 12월 14일 발매되는 NCT 정규 3집 ‘Universe’(유니버스)는 더블 타이틀 곡 ‘Universe (Let’s Play Ball)’와 ‘Be]]></content:encoded>
+            <title><![CDATA[마마무 화사, 이러니 '퀸화사'라 불릴 수밖에 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004518877</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004518877</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:36 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=선미경 기자] 그룹 마마무 멤버 화사가 컴백 첫 주 국내외 음원차트 최정상을 석권하며 '퀸화사'의 저력을 과시했다. 화사는 지난 26일 KBS 2TV '뮤직뱅크'를 시작으로, MBC '쇼! 음악중심', S]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[몬스타엑스, '러시 아워' 활동 마무리…"사랑한다 몬베베" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010859170</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010859170</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]김예지 인턴 기자 = 그룹 몬스타엑스(MONSTA X)가 미니앨범 '노 리미트(No Limit)'의 타이틀곡 '러시 아워(Rush Hour)'의 음악방송 활동을 마무리했다. 몬스타엑스는 지난 28일 오]]></content:encoded>
+            <title><![CDATA[한승희, ‘이별 이야기’ 프로젝트 ‘다시 만나는 연습을 한 거야’ 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000834499</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000834499</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:36 GMT</pubDate>
+            <content:encoded><![CDATA[가수 한승희가 이별에 대한 솔직한 마음을 전한다. 29일 오후 6시 각종 음원사이트를 통해 MOT(엠오티) 레이블의 음악 프로젝트 ‘이별 이야기’ 첫 번째 주자 한승희의 ‘다시 만나는 연습을 한 거야’가 공개된다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에이스, 2년만에 터키 콘서트·팬미팅 성료..티켓 오픈에 서버 마비 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004518855</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004518855</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=하수정 기자] 그룹 에이스(A.C.E)가 터키 팬들과 직접 만나 특별한 추억을 만들었다. 에이스 준, 김병관, 찬은 지난 27일 터키 이스탄불 팀쇼센터에서 주터키한국문화원 개원 10주년을 기념해 콘서트 및]]></content:encoded>
+            <title><![CDATA[마마무, 12월 3일 ‘마마무 2021 WAW 콘서트 더 무비’ 개봉 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=021&amp;aid=0002494162</link>
+            <guid>https://entertain.naver.com/now/read?oid=021&amp;aid=0002494162</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:36 GMT</pubDate>
+            <content:encoded><![CDATA[걸그룹 마마무의 7년간의 활약상을 담은 영화가 개봉된다. 소속사 RBW 측은 29일 “마마무(솔라·문별·휘인·화사)의 단독 콘서트 실황을 담은 ‘마마무 2021 WAW 콘서트 더 무비’가 내달 3일 CGV용산아이파크]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[청하, 새 스페셜 싱글 '킬링 미' 오늘 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010859162</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010859162</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]안소윤 인턴 기자 = 가수 청하의 새 스페셜 싱글 '킬링 미(Killing Me)'가 29일 오후 6시 발매된다. '킬링 미'는 코러스 섹션의 신스와 미니멀한 프로덕션을 통해 청하의 리드미컬한 보컬이]]></content:encoded>
+            <title><![CDATA[하현상, '너의 재생목록' OST 참여…"사랑했던 그 순간' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010859346</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010859346</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:36 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]이수진 인턴 기자 = 가수 하현상이 웹드라마 '너의 재생목록' OST에 참여한다. 29일 소속사 웨이크원(WAKEONE) 측은 가수 하현상이 웹드라마 '너의 재생목록' OST '사랑했던 그 순간'을 부]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[학사모 쓴 8人…에이티즈, 컴백 타이틀곡 ‘야간비행’ 확정 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000834489</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000834489</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[에이티즈(ATEEZ)가 컴백 타이틀곡을 확정지었다. 29일 0시 에이티즈는 공식 SNS 채널에 ‘제로 : 피버 에필로그(ZERO : FEVER EPILOGUE)’의 타이틀 포스터를 공개했다. 공개된 이미지는 흑백의]]></content:encoded>
+            <title><![CDATA[[LA 현장]방탄소년단, LA에서도 기록소년단…첫 4회 매진‧최다 판매 가수 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000330932</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000330932</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:36 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=로스앤젤레스, 장진리 기자] 그룹 방탄소년단이 미국 로스앤젤레스(LA) 소파이 스타디움에서도 새로운 기록을 세웠다. 28일(이하 현지시간) 소파이 스타디움에 따르면 방탄소년단은 소파이 스타디움 역사상]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['마마무 2021 WAW 콘서트 더 무비', 12월3일 개봉 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010859145</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010859145</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]이수진 인턴 기자 = 그룹 마마무의 7년 간의 활약상을 담은 영화가 개봉된다. 29일 소속사 RBW 측은 걸그룹 마마무의 단독 콘서트 실황을 담은 '마마무 2021 WAW 콘서트 더 무비'가 오는 12]]></content:encoded>
+            <title><![CDATA[SF9 '루미네이션', 가온 주간 리테일 앨범차트 1위 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010859344</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010859344</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:36 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]김예지 인턴 기자 = 그룹 '에스에프나인(SF9)'의 미니 10집 '루미네이션(RUMINATION)'이 가온차트 48주차 주간 리테일 앨범차트에서 1위에 등극했다. 29일 가온차트에 따르면, '루미네이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한음저협, 온라인 공연 블록체인 정산 플랫폼 개발 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=629&amp;aid=0000118595</link>
-            <guid>https://entertain.naver.com/now/read?oid=629&amp;aid=0000118595</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:20 GMT</pubDate>
-            <content:encoded><![CDATA["공정하고 투명한 정산 분배를 위한 프로젝트 일환" (사)한국음악저작권협회(이하 한음저협)가 온라인 공연 이용허락 블록체인 정산 플랫폼을 개발하고 있다. 한음저협은 29일 "문화체육관광부, 한국저작권위원회의 연구개발]]></content:encoded>
+            <title><![CDATA['컴백' 라비, 시크+강렬 압도적 카리스마...'ANI' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004518873</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004518873</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:36 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=선미경 기자] 가수 라비(RAVI)가 신곡 콘셉트 포토로 독보적인 시크함을 발산했다. 소속사 그루블린은 29일 0시에 공식 SNS를 통해 라비의 새 싱글 '애니(ANI (Feat. 소연 ((여자)아이들))]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['윤종신 표 걸그룹' 빌리, 성공적 데뷔→7인 완전체 새 앨범 본격 준비 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004518853</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004518853</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=하수정 기자] 미스틱스토리의 첫 걸그룹 빌리(Billlie)가 새 멤버 션(김수연)의 합류를 알리며 약 3주간의 데뷔 앨범 공식 활동을 성공적으로 마무리했다. 빌리(시윤·츠키·션·수현·하람·문수아·하루나)]]></content:encoded>
+            <title><![CDATA['12월 5일 컴백' 키아라, 창작 안무와 유니크한 보이스로 돌아온다 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001379185</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001379185</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:36 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 조혜진 기자) 가수 키아라(KIARA)가 올 겨울을 녹여줄 매력적이고 유니크한 보이스로 돌아온다. 키아라는 오는 12월 5일 세번째 싱글 앨범 '픽미업(PICK ME UP)'을 발표하고 컴백한다. 키아]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[화사, 신곡 'I'm a 빛' 컴백 첫 주 활동 성료…'퀸화사' 저력 과시 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003008446</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003008446</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[마마무 화사가 컴백 첫 주 국내외 음원차트 최정상을 석권하며 '퀸화사'의 저력을 과시했다. 화사는 지난 26일 KBS2 '뮤직뱅크'를 시작으로 MBC '쇼! 음악중심', SBS '인기가요'에 잇따라 출연해 두 번째]]></content:encoded>
+            <title><![CDATA[아이브, 데뷔곡 '일레븐' 뮤비 티저…비주얼+퍼포먼스 '완벽 포메이션' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000330931</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000330931</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:36 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자]6인조 신예 아이브(IVE)가 데뷔를 앞두고 다양한 콘텐츠로 기대감을 최고조로 끌어올리고 있다. 지난 28일 오후 아이브 공식 SNS 채널을 통해 데뷔 타이틀곡 ‘일레븐’ 뮤직비디오 티저]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[몬스타엑스, '러쉬 아워' 활동 마무리…"사랑한다 몬베베" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001379172</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001379172</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 몬스타엑스(MONSTA X)가 타이틀 ‘Rush Hour(러쉬 아워)’의 음악방송 활동을 성료했다. 몬스타엑스는 지난 28일 오후 방송된 SBS ‘인기가요’에서 ‘Rush Hour’]]></content:encoded>
+            <title><![CDATA[“기분 UP에 딱이야”…숙행, ‘딱이야’로 ‘흥 선물’ (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000834497</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000834497</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:36 GMT</pubDate>
+            <content:encoded><![CDATA[가수 숙행이 ‘딱이야’로 독보적인 존재감을 자랑하고 있다. 숙행은 지난 26일 정오 각종 음원사이트를 통해 신곡 ‘딱이야’를 공개, 러블리한 매력을 담은 댄스 트롯으로 대중에게 신명나는 흥을 선물했다. 특히 숙행은]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[독기 품은 퍼포먼스, '퀸화사'의 저력 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001379171</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001379171</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 조혜진 기자) 그룹 마마무 화사가 컴백 첫 주 '퀸화사'의 저력을 과시했다. 화사는 지난 26일 KBS 2TV '뮤직뱅크'를 시작으로 MBC '쇼! 음악중심', SBS '인기가요'에 잇따라 출연해 두]]></content:encoded>
+            <title><![CDATA[한음저협, 블록체인 이용허락 플랫폼 개발…글로벌 업계 주도 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000330930</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000330930</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:36 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자](사)한국음악저작권협회(이하 한음저협)가 개발 중인 블록체인 온라인 공연 이용허락 플랫폼에 전 세계 음악저작권단체들이 관심을 보이고 있다고 협회 측이 29일 밝혔다. 한음저협은 문화체육관광]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방탄소년단 RM “아시안 헤이트’에 목소리 낼 것” (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000777580</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000777580</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 그룹 방탄소년단 RM이 ‘아시안 헤이트’를 언급했다. RM은 29일 미국 LA 소파이 스타디움에서 진행된 ‘퍼미션 투 댄스 온 스테이지’ 콘서트 간담회에서 코로나19 이후 증가한 미국 내 ‘아시안 헤이]]></content:encoded>
+            <title><![CDATA[온앤오프 ‘Goosebumps’ 개인 콘셉트 포토 공개, 세기말 분위기 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000516739</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000516739</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:36 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박수인 기자] 온앤오프(ONF) 개인 콘셉트 포토가 공개됐다. 소속사 WM엔터테인먼트는 11월 29일 공식 SNS 채널을 통해 온앤오프의 미니 6집 ‘Goosebumps’의 새로운 콘셉트 포토 개인 컷을 순]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[정유미, 콜드·아프로와 협업…12월2일 '충분해' 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010859114</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010859114</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]이수진 인턴 기자 = 배우 정유미와 가수 콜드(Colde), 프로듀서 아프로(APRO)가 협업을 선보인다. 29일 딩고는 '딩고 뮤직' 공식 SNS 채널을 통해 '딩고 레코드'의 세 번째 주자를 공개했]]></content:encoded>
+            <title><![CDATA[NCT의 '유니버스'…쿨한 매력→스윗 감성까지 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003558878</link>
+            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003558878</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:36 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 오윤주 기자] 그룹 NCT가 정규 3집으로 다채로운 색깔의 음악을 들려준다. 오는 12월 14일 발매되는 NCT 정규 3집 '유니버스(Universe)'는 더블 타이틀 곡 '유니버스(Universe)]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[송민호, 솔로 3집 '탕!♡' 포스터…강렬한 임팩트 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010859113</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010859113</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]안소윤 인턴 기자 = 그룹 '위너' 송민호가 오는 7일 솔로 정규 앨범 3집을 발매한다. 29일 소속사 YG엔터테인먼트는 송민호의 솔로 정규 3집 '투 인피니티(TO INFINITY)' 타이틀 곡 '탕]]></content:encoded>
+            <title><![CDATA[[Y현장 in LA] 방탄소년단 "아미 함성, 가장 큰 힘…성공은 아미 덕분" (종합) (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001670807</link>
+            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001670807</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:36 GMT</pubDate>
+            <content:encoded><![CDATA["50%는 아미(팬클럽) 덕분이고, 각 멤버가 5%씩 저희가 35%고, 하이브가 10%…." 그룹 방탄소년단 RM은 자신들의 성공에 대한 공로를 아미에게 돌렸다. 28일(현지시간) 오후 LA 소파이 스타디움(SoFi]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["방탄소년단, 4회 공연 첫 매진"…LA 소파이 스타디움은 어떤 곳 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010859110</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010859110</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[기사내용 요약 방탄소년단 콘서트서 100만번째 관객 [서울=뉴시스]이재훈 기자 = 그룹 '방탄소년단'(BTS)이 미국 로스앤젤레스(LA) 소파이 스타디움(SoFi Stadium) 사상 첫 4회 전석 매진 가수가 되면]]></content:encoded>
+            <title><![CDATA[에이티즈, 12월10일 컴백…'야간비행' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010859305</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010859305</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:36 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]이수진 인턴 기자 = 그룹 에이티즈(ATEEZ)가 타이틀곡을 확정했다. 29일 KQ 엔터테인먼트는 공식 SNS 채널에 '제로: 피버 에필로그(ZERO: FEVER EPILOGUE)' 타이틀 포스터를 공]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[시그니처, 두 번째 EP 수록곡 '시리우스' 선공개…컴백 열기 고조 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001379163</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001379163</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 시그니처(cignature)가 신보 수록곡을 깜짝 선공개했다. 시그니처(채솔, 지원, 셀린, 클로이, 벨, 세미, 도희)는 29일 0시 공식 SNS를 통해 두 번째 EP 앨범 'De]]></content:encoded>
+            <title><![CDATA[인터보이즈→트렌드지, 그룹명 확정…내년 1월 목표로 데뷔 카운트다운 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000330929</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000330929</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:36 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자]인터파크뮤직플러스의 보이그룹 인터보이즈가 트렌드지(TRENDZ)라는 이름으로 팀명을 확정하고 2022년의 새로운 트렌드를 제시한다. 29일 인터파크뮤직플러스는 공식 SNS 채널을 통해 인터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['D.P.' 정해인 동생 이연, 자우림 ‘스테이 위드 미’ MV 여주인공 변신 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001379162</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001379162</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김수정 인턴기자) 이연이 자우림의 ‘스테이 위드 미(STAY WITH ME)’ MV 속 여자 주인공으로 변신했다. 자우림의 소속사 인터파크 엔터테인먼트 측은 26일 공식 유튜브를 통해 11번째 정규 앨]]></content:encoded>
+            <title><![CDATA[뉴이스트, 단독 오프라인 콘서트 성료…"우리 존재 이유, 러브" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010859285</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010859285</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:36 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]김예지 인턴 기자 = 그룹 뉴이스트(JR, 아론, 백호, 민현, 렌)가 단독 오프라인 콘서트 '더 블랙(THE BLACK)'을 성료했다. 29일 소속사 플레디스 엔터테인먼트에 따르면 뉴이스트는 지난 2]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방탄소년단 캐릭터 '타이니탄 메시지 초콜릿 Ver. 2' 4종 패키지 오픈 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003008445</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003008445</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[스타폭스패밀리(대표 이대희)는 HYBE(대표 박지원)와 라이센싱 계약한 방탄소년단 캐릭터 "타이니탄 메시지 초콜릿 Ver.2" 4종 패키지를 공개했다. 이번에 새롭게 선보인 '타이니탄 메시지 초콜릿 Ver.2' 패키]]></content:encoded>
+            <title><![CDATA[에이스, 터키서 콘서트·팬미팅 성료...티켓 오픈 동시에 서버 마비 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003008455</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003008455</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:36 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 에이스(A.C.E)가 터키 팬들과 직접 만나 특별한 추억을 만들었다. 에이스 준, 김병관, 찬은 지난 27일 터키 이스탄불 팀쇼센터에서 주터키한국문화원 개원 10주년을 기념해 콘서트 및 팬미팅을 개최했다. 에이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[화사, 신곡 '암어빛' 컴백 첫 주 활동 성료..음원차트 최정상 석권 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003503811</link>
-            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003503811</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드POP=정혜연 기자]마마무 화사가 컴백 첫 주 국내외 음원차트 최정상을 석권하며 '퀸화사'의 저력을 과시했다. 화사는 지난 26일 KBS2 '뮤직뱅크'를 시작으로 MBC '쇼! 음악중심', SBS '인기가요']]></content:encoded>
+            <title><![CDATA[방탄소년단, 보랏빛 물결 "아미들의 축제" (엑's 스토리)[엑's in LA: BTS③] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001379183</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001379183</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:36 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 LA(미국), 김예나 기자) 그룹 방탄소년단(BTS)의 LA 콘서트 두 번째 공연을 위해 전세계 '아미'들이 소파이 스타디움으로 모여들고 있다. 28일(현지 시간) 방탄소년단은 미국 LA 소파이 스타디]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빌리, 새 멤버 션(김수연)과 데뷔 활동 마무리→7인 완전체 예고 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003558868</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003558868</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 오윤주 기자] 걸그룹 빌리가 새 멤버 션(김수연)의 합류를 알리며 데뷔 앨범 공식 활동을 성료했다. 빌리는 지난 10일 첫 번째 미니앨범 '더 빌리지 오브 퍼셉션 : 챕터 원(the Billage o]]></content:encoded>
+            <title><![CDATA["눈물날 뻔"…방탄소년단, 길었던 2년 위해 (종합)[엑's in LA: BTS①] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001379180</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001379180</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:36 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 LA(미국), 김예나 기자) 그룹 방탄소년단(BTS)이 2년 만에 다시 만난 팬들의 소중함을 강조했다. 방탄소년단은 28일(현지 시간) 미국 LA 소파이(Sofi) 스타디움에서 'BTS 퍼미션 투 댄스]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아이즈원 출신 야부키 나코, HKT48 새 정규앨범 단독 센터 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000834484</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000834484</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 IZ*ONE(아이즈원) 출신의 야부키 나코가 HKT48의 새 정규앨범 단독 센터로 나선다. 일본의 걸그룹 HKT48은 오는 12월 1일 두 번째 정규앨범 '아웃스탠딩' (Outstanding)을 발매한다. 약]]></content:encoded>
+            <title><![CDATA["8번 더 찍으면, 진 나이가 40살"…방탄소년단과 그래미 (종합)[엑's in LA: BTS②] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001379179</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001379179</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:36 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 LA(미국), 김예나 기자) 그룹 방탄소년단(BTS) 다음 도전에 대한 의지를 다졌다. 방탄소년단은 28일(현지 시간) 미국 LA 소파이(Sofi) 스타디움에서 'BTS 퍼미션 투 댄스 온 스테이지(P]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[황민현 '옷소매 붉은 끝동' OST 4 번째 주자 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010859083</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010859083</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]이수진 인턴 기자 = 그룹 뉴이스트 황민현이 '옷소매 붉은 끝동' OST 네 번째 주자로 나선다. 29일 소속사 플레디스 측은 황민현이 MBC 드라마 '옷소매 붉은 끝동'의 네 번째 OST '모든 날을]]></content:encoded>
+            <title><![CDATA[위키미키, 무채색도 빛내는 '8人8色 개성' [화보] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003008454</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003008454</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:36 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 위키미키(Weki Meki)의 매력적인 시너지를 담은 화보가 공개됐다. 위키미키(지수연, 엘리, 최유정, 김도연, 세이, 루아, 리나, 루시)는 패션 매거진 '더블유 코리아' 12월 호를 통해 여덟 멤버 각자의]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[민낯 연기 민아 "완벽한 상태에서 벗어나고자 해"('방구석 1열') (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004885811</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004885811</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:26 GMT</pubDate>
-            <content:encoded><![CDATA[배우 민아가 민낯으로 영화 촬영에 임했던 사실을 말했다. 지난 28일 방송된 JTBC 예능 프로그램 '방구석 1열'에서는 지난 9월 개봉한 영화 '최선의 삶'의 주연 배우 민아가 게스트로 출연했다. 이날 '방구석 1]]></content:encoded>
+            <title><![CDATA[[TEN 포토] 에버글로우 아샤 '상큼 발랄하게' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000514647</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000514647</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=조준원 기자]그룹 에버글로우(이유, 시현, 미아, 온다, 아샤, 이런) 아샤가 29일 오전 서울 여의도 KBS에서 진행되는 KBS `불후의명곡` 녹화에 참석하기 위해 도착하고 있다. 조준원 기자 wizar]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[대장부 배종옥 등판→김혜윤, 구시어머니와 재회 (‘어사와 조이’) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000947793</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000947793</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:26 GMT</pubDate>
-            <content:encoded><![CDATA[tvN 15주년 특별기획 월화드라마 ‘어사와 조이’ 끝나지 않은 인연이 옥택연, 김혜윤과 다시 얽힌다. tvN 15주년 특별기획 월화드라마 ‘어사와 조이’(연출 유종선·남성우·정여진, 극본 이재윤) 측은 29일, 라]]></content:encoded>
+            <title><![CDATA[[TEN 포토] 에버글로우 아샤 '짧아도 너무 짧은 초미니' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000514646</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000514646</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=조준원 기자]그룹 에버글로우(이유, 시현, 미아, 온다, 아샤, 이런) 아샤가 29일 오전 서울 여의도 KBS에서 진행되는 KBS `불후의명곡` 녹화에 참석하기 위해 도착하고 있다. 조준원 기자 wizar]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['싱글맘' 김나영, 캠핑카 로망 실현…'행복 가득한 얼굴' [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000514626</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000514626</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:26 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=서예진 기자] 방송인 김나영이 캠핑을 떠났다. 김나영은 29일 자신의 SNS에 “오랜 로망이던 바퀴달린 집”이라며 여러 장의 사진을 게재했다. 그는 한적한 시골을 풍경으로 캠핑을 즐기는 모습이다. 카라반]]></content:encoded>
+            <title><![CDATA[[TEN 포토] 에버글로우 아샤 '손흔드는 인형' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000514645</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000514645</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=조준원 기자]그룹 에버글로우(이유, 시현, 미아, 온다, 아샤, 이런) 아샤가 29일 오전 서울 여의도 KBS에서 진행되는 KBS `불후의명곡` 녹화에 참석하기 위해 도착하고 있다. 조준원 기자 wizar]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[효민, 명품 망사 스타킹+하의실종룩 '심쿵'…"다리가 명품" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005752355</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005752355</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:26 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 김학진 기자 = 티아라 멤버 효민이 명품 스타킹을 신고 명품 각선미를 인증했다. 29일 효민은 자신의 인스타그램을 통해 "Me of"라는 글과 함께 여러 장의 사진을 게재했다. 공개된 사진 속 효민은]]></content:encoded>
+            <title><![CDATA[이런, 화보인생 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005752600</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005752600</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 권현진 기자 = 에버글로우(EVERGLOW) 이런이 29일 오전 서울 영등포구 여의도 KBS에서 진행되는 KBS 2TV '불후의 명곡' 참석차 방송국으로 들어서고 있다. 2021.11.29/뉴스1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[조여정, 등에 아기 업고 거울 셀카...절친 송혜교 반응은? (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004885802</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004885802</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:26 GMT</pubDate>
-            <content:encoded><![CDATA[조여정이 아이를 등에 업고 셀카를 찍었다. 지난 28일 조여정은 자신의 인스타그램 계정을 통해 "흔한 여배우의 주말"이라는 글과 함께 사진을 게재했다. 공개된 사진 속 조여정은 숏컷 머리를 하고 거울 셀카를 찍으며]]></content:encoded>
+            <title><![CDATA[[TEN 포토] 에버글로우 아샤 '등장부터 아찔' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000514644</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000514644</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=조준원 기자]그룹 에버글로우(이유, 시현, 미아, 온다, 아샤, 이런) 아샤가 29일 오전 서울 여의도 KBS에서 진행되는 KBS `불후의명곡` 녹화에 참석하기 위해 도착하고 있다. 조준원 기자 wizar]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘칼의 전쟁’ 이찬원, 테이 찐팬 고백…‘같은 베개’ 열창 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004885801</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004885801</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:26 GMT</pubDate>
-            <content:encoded><![CDATA[‘칼의 전쟁’에서 이찬원과 테이의 즉석 콜라보가 성사됐다. tvN STORY-LG헬로비전 예능 ‘칼의 전쟁’(연출 현돈/LG헬로비전)은 대한민국 팔도 대표 명인들이 각 지역의 명예를 걸고 향토 음식과 식재료를 소개하]]></content:encoded>
+            <title><![CDATA[성유리, 유기견 돕자…‘유기동물 산타 기부 프로젝트’ 동참 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=021&amp;aid=0002494164</link>
+            <guid>https://entertain.naver.com/now/read?oid=021&amp;aid=0002494164</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[배우 성유리가 소외된 유기견을 돕기 위한 연말 기부 캠페인 ‘유기동물 산타 프로젝트’에 동참했다. 성유리는 자신이 키우고 있는 반려견 ‘뿌잉’이를 손수 캐릭터화시켜 새롭고 친근한 형태의 기부 캠페인을 이끌고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[NC 유니버스, '드라마틱 버라이어티' 시즌1 종료…탈장르 'K돌 멀티버스' 콘텐츠 부각 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=030&amp;aid=0002984647</link>
-            <guid>https://entertain.naver.com/now/read?oid=030&amp;aid=0002984647</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:26 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 팬덤 플랫폼 유니버스(UNIVERSE)가 장르폭을 뛰어넘는 자체 콘텐츠 '드라마틱 버라이어티 시리즈'의 새로운 시즌 준비에 돌입, 한류를 이끄는 'K돌 멀티버스' 세계관의 확장력을 더욱 배가한다. 29일 엔씨]]></content:encoded>
+            <title><![CDATA[온다-미아, 불후 출격 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005752598</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005752598</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 권현진 기자 = 에버글로우(EVERGLOW) 온다, 미아(오른쪽)가 29일 오전 서울 영등포구 여의도 KBS에서 진행되는 KBS 2TV '불후의 명곡' 참석차 방송국으로 들어서고 있다. 2021.11]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[송혜교X장기용, 꽁냥 꽁냥 셀카 삼매경...비주얼·케미도 달달[TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000514623</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000514623</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:26 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=강민경 기자] 배우 송혜교와 장기용이 촬영 휴식 중에도 꽁냥 꽁냥 셀카를 찍었다. 29일 SBS 금토드라마 '지금, 헤어지는 중입니다' 공식 인스타그램에는 "우리 국하커플 촬영하다 잠시"라는 글과 함께 두]]></content:encoded>
+            <title><![CDATA[[TEN 포토] 에버글로우 이유 '반가워요' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000514643</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000514643</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=조준원 기자]그룹 에버글로우(이유, 시현, 미아, 온다, 아샤, 이런) 이유가 29일 오전 서울 여의도 KBS에서 진행되는 KBS `불후의명곡` 녹화에 참석하기 위해 도착하고 있다. 조준원 기자 wizar]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘기태영♥’ 유진, 요정이 따로 없네…“데뷔 24주년 믿기지 않아” [스타★샷] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000598285</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000598285</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:26 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 S.E.S 출신 배우 유진이 데뷔 24주년을 맞았다. 29일 유진은 자신의 인스타그램에 “데뷔 24주년, 믿기지 않는 세월이 흘렀네요! 함께 해주는 친구들이 있기에 늘 고맙고 행복합니다. 여러분도 모두 행복하길]]></content:encoded>
+            <title><![CDATA[[T포토] 손호영 '마음을 담아~' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001200772</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001200772</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[가수 손호영이 29일 오전 서울 영등포구 여의도 KBS 신관에서 열린 KBS '불후의 명곡' 방송 녹화를 위해 들어서고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘주간산악회’ 오영주, 김현우 패러디 한 유세윤에 대답 회피? (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004885798</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004885798</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:26 GMT</pubDate>
-            <content:encoded><![CDATA[“영주 씨, 오늘 머리 묶으셨네요” 29일(오늘) 방송되는 MBN ‘주간산악회’에서는 연애 리얼리티 ‘하트시그널 시즌2’를 통해 ‘국민썸녀’로 등극한 방송인 오영주가 깜짝 크루로 등장해 전국에 심쿵 주의보를 울렸던]]></content:encoded>
+            <title><![CDATA[레드벨벳 아이린, 러블리한 토끼 비주얼…청순美 ‘폴폴’[M+★SNS] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001624705</link>
+            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001624705</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[레드벨벳 아이린이 사랑스러운 근황을 공개했다. 지난 28일 레드벨벳 공식 인스타그램에는 “#레드벨벳 #RedVelvet #아이린 #IRENE #처음이라 #처음인데뭐하지”라는 글과 사진이 게재됐다. 사진 속에는 아이린]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘극장판 천재 추리 탐정 셜록홈즈’ 2022년 1월 개봉 확정 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000947792</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000947792</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:26 GMT</pubDate>
-            <content:encoded><![CDATA[‘극장판 천재 추리 탐정 셜록홈즈’ 2022년 1월 개봉 확정 전 세계 누적 판매 부수 800만부를 돌파한 베스트셀러 원작 ‘극장판 천재 추리 탐정 셜록홈즈’가 2022년 1월 개봉을 확정 짓고 메인 포스터를 공개했]]></content:encoded>
+            <title><![CDATA[에버글로우,신곡 포인트 안무 깜짝 공개 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005752597</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005752597</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 권현진 기자 = 에버글로우(EVERGLOW) 이유(왼쪽부터), 온다, 이런, 시현, 미아, 아샤가 29일 오전 서울 영등포구 여의도 KBS에서 진행되는 KBS 2TV '불후의 명곡' 참석차 방송국으로]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아기 업은 조여정 “흔한 여배우의 주말”..송혜교 “아기가 두 명” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003807353</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003807353</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:26 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선닷컴 박아람 기자] 배우 조여정이 아기와 보내는 행복한 일상을 공유했다. 조여정은 지난 28일 자신의 인스타그램에 "흔한 여배우의 주말.."이라는 글과 함께 사진을 게재했다. 사진 속 조여정은 아기를 등에]]></content:encoded>
+            <title><![CDATA[[T포토] 손호영 '귀염뽀짝 미니 하트' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001200771</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001200771</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[가수 손호영이 29일 오전 서울 영등포구 여의도 KBS 신관에서 열린 KBS '불후의 명곡' 방송 녹화를 위해 들어서고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘클리포드 더 빅 레드 독’ 메인 포스터 공개 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000947791</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000947791</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:26 GMT</pubDate>
-            <content:encoded><![CDATA[‘클리포드 더 빅 레드 독’ 메인 포스터 공개 58년간 전세계 패밀리들의 사랑을 받아온 클래식 베스트셀러를 원작으로 한 영화 ‘클리포드 더 빅 레드 독’이 세상에 단 하나뿐인 슈퍼 사이즈 댕댕이 클리포드의 사랑스러운]]></content:encoded>
+            <title><![CDATA[[TEN 포토] 에버글로우 온다 '귀여운 양갈래 머리' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000514642</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000514642</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=조준원 기자]그룹 에버글로우(이유, 시현, 미아, 온다, 아샤, 이런) 온다가 29일 오전 서울 여의도 KBS에서 진행되는 KBS `불후의명곡` 녹화에 참석하기 위해 도착하고 있다. 조준원 기자 wizar]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[유아인에게 DM 받은 장성규 인스타 업데이트 "아인느님" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003807352</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003807352</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:26 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 이유나 기자] 방송인 장성규가 배우 유아인에게 받은 DM을 공개했다. 장성규는 28일 인스타그램에 유아인에게 받은 DM을 공개하며 자신과 나눈 대화를 캡쳐해 공개했다. 공개된 대화 속에는 유아인이 장성규]]></content:encoded>
+            <title><![CDATA[[T포토] 손호영 '불후 출근해요' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001200770</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001200770</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[가수 손호영이 29일 오전 서울 영등포구 여의도 KBS 신관에서 열린 KBS '불후의 명곡' 방송 녹화를 위해 들어서고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[서현, 열일하는 미모 완벽 미모와 신비로운 분위기...오늘도 이쁨[TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000514622</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000514622</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:26 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=조준원 기자] 그룹 소녀시대 멤버 겸 배우 서현이 일상을 전했다. 서현의 소속사 나무엑터스 측은 28일 공식 인스타그램에 "화면에서 과일 향이 가~득! 사과부터 딸기, 멋쟁이 토마토까지! 인간 과일 서현"]]></content:encoded>
+            <title><![CDATA[에버글로우 이유, 앙증맞은 하트 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005752595</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005752595</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 권현진 기자 = 에버글로우(EVERGLOW) 이유가 29일 오전 서울 영등포구 여의도 KBS에서 진행되는 KBS 2TV '불후의 명곡' 참석차 방송국으로 들어서고 있다. 2021.11.29/뉴스1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['고요의 바다', 캐릭터 포스터…우주복 입은 배두나·공유 [N컷] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005752312</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005752312</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:26 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 세계적인 엔터테인먼트 스트리밍 서비스 넷플릭스(Netflix)의 '고요의 바다'가 다채로운 캐릭터들의 강렬한 비주얼을 담은 캐릭터 포스터를 공개했다. 한국 시리즈 최초로 달을 무대로]]></content:encoded>
+            <title><![CDATA[[TEN 포토] 에버글로우 시현 '시크한 올블랙' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000514641</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000514641</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=조준원 기자]그룹 에버글로우(이유, 시현, 미아, 온다, 아샤, 이런) 시현이 29일 오전 서울 여의도 KBS에서 진행되는 KBS `불후의명곡` 녹화에 참석하기 위해 도착하고 있다. 조준원 기자 wizar]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[JTBC '한 사람만' 안은진, 더 깊어진 감성 장착 포스터 공개 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000282056</link>
-            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000282056</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:26 GMT</pubDate>
-            <content:encoded><![CDATA[JTBC '한 사람만' 안은진이 깊이가 다른 독보적인 감성을 장착하고 돌아온다. JTBC 새 월화드라마 '한 사람만'(극본 문정민 연출 오현종 제작 키이스트, JTBC스튜디오)은 호스피스에서 만난 세 여자가 죽기]]></content:encoded>
+            <title><![CDATA[[TEN 포토] 에버글로우 시현 '상큼한 볼하트' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000514640</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000514640</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=조준원 기자]그룹 에버글로우(이유, 시현, 미아, 온다, 아샤, 이런) 시현이 29일 오전 서울 여의도 KBS에서 진행되는 KBS `불후의명곡` 녹화에 참석하기 위해 도착하고 있다. 조준원 기자 wizar]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["韓판 '투 핫'"…파격 연애 버라이어티 '솔로지옥', 메인 예고편 공개 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003807350</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003807350</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:26 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 이승미 기자]한국판 '투 핫'으로 불리는 넷플릭스 오리지널 예능 '솔로지옥'이 메인 포스터와 메인 예고편을 공개했다. 12월 18일 첫 공개 되는 '솔로지옥'은 커플이 되어야만 나갈 수 있는 외딴 섬,]]></content:encoded>
+            <title><![CDATA[에버글로우, 볼하트 팡팡 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005752593</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005752593</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 권현진 기자 = 에버글로우(EVERGLOW) 이유(왼쪽부터), 온다, 이런, 시현, 미아, 아샤가 29일 오전 서울 영등포구 여의도 KBS에서 진행되는 KBS 2TV '불후의 명곡' 참석차 방송국으로]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['차클-인생수업' 육아멘토 오은영 박사가 말하는 훈육이란? (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000282054</link>
-            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000282054</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:26 GMT</pubDate>
-            <content:encoded><![CDATA[오은영 박사가 육아에 대한 모든 노하우를 전했다. 어제(28일) 방송된 JTBC '차이나는 클라스-인생수업'에서는 '부모는 아이의 우주다'라는 주제로 국민 육아 멘토 오은영 박사가 출연해 육아 노하우를 전했다.]]></content:encoded>
+            <title><![CDATA[에버글로우, 여의도에 상큼 바이러스 전파 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005752594</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005752594</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 권현진 기자 = 에버글로우(EVERGLOW) 이유(왼쪽부터), 온다, 이런, 시현, 미아, 아샤가 29일 오전 서울 영등포구 여의도 KBS에서 진행되는 KBS 2TV '불후의 명곡' 참석차 방송국으로]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['풍류대장' 아이유도 주목한 월드뮤직밴드 도시 "특색 있어" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=437&amp;aid=0000282053</link>
-            <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000282053</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:26 GMT</pubDate>
-            <content:encoded><![CDATA[아이유가 '풍류대장' 월드뮤직밴드 도시에게 관심을 보인 사실이 공개된다. 오는 30일(화) 방송되는 JTBC '풍류대장-힙한 소리꾼들의 전쟁'(이하 '풍류대장') 9회에서는 잔인한 4라운드 라이벌 매치가 이어진다]]></content:encoded>
+            <title><![CDATA[이찬원, 테이 팬 인증…즉석 컬래버까지 (‘칼의 전쟁’) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000947798</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000947798</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[‘칼의 전쟁’에서 이찬원과 테이의 즉석 컬래버레이션이 성사됐다. tvN STORY-LG헬로비전 예능 ‘칼의 전쟁’(연출 현돈)은 대한민국 팔도 대표 명인들이 각 지역의 명예를 걸고 향토 음식과 식재료를 소개하기 위한]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘국민가수’ 이솔로몬·김동현→이병찬, 이번엔 크리스마스 특집 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004885789</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004885789</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:26 GMT</pubDate>
-            <content:encoded><![CDATA[‘내일은 국민가수’ TOP14 고은성-김동현-김성준-김영흠-김유하-김희석-박장현-박창근-손진욱-이병찬-이솔로몬-임한별-조연호-하동연이 시청자의 크고 깊은 사랑에 보답하기 위해 개개인의 특별한 의미를 듬뿍 담은 초특급]]></content:encoded>
+            <title><![CDATA[[TEN 포토] 에버글로우 미아 '깜찍하게' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000514639</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000514639</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=조준원 기자]그룹 에버글로우(이유, 시현, 미아, 온다, 아샤, 이런) 미아가 29일 오전 서울 여의도 KBS에서 진행되는 KBS `불후의명곡` 녹화에 참석하기 위해 도착하고 있다. 조준원 기자 wizar]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[손연재, 얼마나 작길래…반려견과 비슷한 얼굴 크기[TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000514621</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000514621</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:26 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=서예진 기자] 리듬체조 국가대표 출신 손연재가 반려견에 대한 애정을 드러냈다 손연재는 29일 자신의 SNS에 “손두부랑 손연재”라며 몇 장의 사진을 게재했다. 공개된 사진에는 패브릭 쇼파에 반려견과 함께]]></content:encoded>
+            <title><![CDATA[[T포토] 시현 '편안한 매력' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001200769</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001200769</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 '에버글로우' 시현이 29일 오전 서울 영등포구 여의도 KBS 신관에서 열린 KBS '불후의 명곡' 방송 녹화를 위해 들어서고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[임영웅, 이번엔 ‘함께 등산하고픈 가수’ 1위[공식] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004885781</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004885781</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:26 GMT</pubDate>
-            <content:encoded><![CDATA[대세 가수 임영웅과 ’함께 등산하고 싶은 가수’ 1위로 선정됐다. 29일 트롯스타 투표 웹서비스 ‘트롯픽’(trotpick)은 22일부터 28일까지 진행된 스페셜 투표 ‘함께 등산하고 싶은 가수는?’의 결과를 발표했]]></content:encoded>
+            <title><![CDATA[[T포토] 이런 '쿨한 인사' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001200768</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001200768</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 '에버글로우' 이런이 29일 오전 서울 영등포구 여의도 KBS 신관에서 열린 KBS '불후의 명곡' 방송 녹화를 위해 들어서고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["가슴라인 살짝 가리고"… 설현, 레드빛 유혹 '美쳤네' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000759188</link>
-            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000759188</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:26 GMT</pubDate>
-            <content:encoded><![CDATA[걸그룹 AOA 멤버 설현이 고혹적인 드레스 자태로 시선을 사로잡았다. 설현은 지난 27일 오전 자신의 인스타그램에 사진 여러장을 게재했다. 공개된 사진 속 설현은 '제42회 청룡영화상'에서 선보인 레드빛의 오프숄더]]></content:encoded>
+            <title><![CDATA[[T포토] 이런-시현 '살짝 공개하는 포인트 안무' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001200767</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001200767</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 '에버글로우' 이런, 시현이 29일 오전 서울 영등포구 여의도 KBS 신관에서 열린 KBS '불후의 명곡' 방송 녹화를 위해 들어서고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빅뱅 팬 연합, YG 트럭 시위 “4인 체제 활동 보장해 달라” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000947790</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000947790</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:26 GMT</pubDate>
-            <content:encoded><![CDATA[빅뱅 팬 연합, YG 트럭 시위 “4인 체제 활동 보장해 달라” 그룹 빅뱅의 팬 연합이 YG엔터테인먼트를 상대로 트럭 시위에 나섰다. 빅뱅 팬 연합은 29일 트럭 시위를 알리며 “YG엔터테인먼트가 소속사로서 당연히]]></content:encoded>
+            <title><![CDATA[박희순, 박신혜·김선호와 한솥밥 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=021&amp;aid=0002494163</link>
+            <guid>https://entertain.naver.com/now/read?oid=021&amp;aid=0002494163</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[배우 박희순이 박신혜·김선호 등과 한솥밥을 먹는다. 박희순은 최근 이들이 속한 솔트 엔터테인먼트와 전속 계약을 체결했다. 29일 솔트 엔터테인먼트 측은 “과거 박희순과 오랜 기간 호흡을 맞추며 믿음과 신뢰를 쌓아온]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[린제이 로한, 은행 부사장과 약혼…3억 다이아 반지 공개 [엑's 해외이슈] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001379192</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001379192</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) 할리우드 가수 겸 배우 린제이 로한이 약혼했다. 린제이 로한은 28일 자신의 인스타그램에 "나의 사랑, 나의 인생 나의 가족, 나의 미래(My love. My life. My family]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['성전환' 엘리엇 페이지, 상의 탈의…식스팩 눈길 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010859214</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010859214</guid>
+            <pubDate>Mon, 29 Nov 2021 03:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]전재경 인턴 기자 = 캐나다 출신 할리우드 배우 엘리엇 페이지가 근황을 전했다. 엘리엇 페이지는 28일(현지시간) 인스타그램에 사진을 올렸다. 사진 속 엘리엇 페이지는 상의를 탈의한 채 셀카를 찍고 있]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[‘성전환’ 엘리엇 페이지, 가슴 절제 후 식스팩 자랑한 상반신 사진 공개 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
@@ -1503,20 +1517,6 @@
             <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003558526</guid>
             <pubDate>Fri, 26 Nov 2021 21:19:41 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]카니예 웨스트(44)가 이혼한 전 아내 킴 카다시안(41)에게 화해를 호소하고 있다고 25일(현지시간) USA투데이가 보도했다. 그는 이날 LA 스키드로 캠프 인근 노숙자들에게 추수감사절]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[송혜교, 장기용 "10년 전 시작된 우리" 고백에 오열...박효주는 췌장암 판정 ('지헤중')[종합] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003806772</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003806772</guid>
-            <pubDate>Fri, 26 Nov 2021 14:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선닷컴 이게은기자] '지금 헤어지는 중입니다' 장기용이 송혜교에게 다시금 고백하며 두 사람의 사이가 좀 더 가까워졌다. 26일 방송된 SBS 금토드라마 '지금 헤어지는 중입니다'에서는 하영은(송혜교 분)이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[윤아 '옆태도 완벽해!' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000834140</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000834140</guid>
-            <pubDate>Fri, 26 Nov 2021 14:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[청룡영화상 레드카펫이 26일 오후 서울 영등포구 여의도 KBS홀에서 열렸다. 배우 윤아가 레드카펫에 참석하고 있다.]]></content:encoded>
         </item>
     </channel>
 </rss>
