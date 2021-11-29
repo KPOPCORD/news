@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-29T20:22:48.550Z</updated>
+    <updated>2021-11-29T21:19:08.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['2년 응축' 에너지 폭발..BTS, '아미' 곁에서 다시 날갯짓]]></title>
+        <id>https://entertain.v.daum.net/v/20211130060117715</id>
+        <link href="https://entertain.v.daum.net/v/20211130060117715"/>
+        <updated>2021-11-29T21:18:37.325Z</updated>
+        <content type="html"><![CDATA[[로스앤젤레스(미국)=이데일리 스타in 김현식 기자] “매번 놀라운 쇼를 보여주는 그룹이다.” 방탄소년단(BTS)의 미국 로스앤젤레스(LA) 콘서트가 열린 소파이 스타디움에서 만난 ‘아미’(ARMY, 팬덤명)들은 콘서트에 대한 기대감을 물으면 약속이나 한 듯 이 같이 답했다. 방탄소년단은 새 투어 콘서트 시리즈 ‘BTS 퍼미션 투 댄스 온 스테이지 - L]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프로듀서 250, 12월2일 새 싱글 '뱅버스' 음원+MV 공개]]></title>
+        <id>https://entertain.v.daum.net/v/20211130052626348</id>
+        <link href="https://entertain.v.daum.net/v/20211130052626348"/>
+        <updated>2021-11-29T21:18:37.326Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 프로듀서 겸 DJ 250 (이오공)이 오는 12월 2일 새 싱글 ‘Bang Bus (뱅버스)’의 음원 발매와 함께 뮤직비디오를 공개한다. 250은 이번 뮤직비디오 공개를 앞두고, 11월 27일부터 매일 연달아 독특한 새 뮤직비디오 티저 영상을 공개하며 음악팬들의 관심을 고조시키고 있다. 250의 새 앨범 ‘뽕’에 실릴 신곡 ‘Ban]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["즐겨라, 오늘은 K팝이 얼마나 성장했는지 보여주는 밤"]]></title>
         <id>https://entertain.v.daum.net/v/20211130030628477</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211129181444293"/>
         <updated>2021-11-29T09:21:27.348Z</updated>
         <content type="html"><![CDATA[[OSEN=선미경 기자] 감성 장인 정인이 돌아왔다. 정인은 오늘(29일) 오후 6시에 온라인 음원사이트를 통해 신곡 ‘값’을 발표했다. 더 짙어진 감성으로 정인 특유의 농도 짙은 음악을 들려주고 있다. 쌀쌀한 겨울과 잘 어울리는 정인의 보컬과 감성이 깊은 감동을 전했다. ‘값’은 정인이 2년 만에 발표하는 신곡이다. 그동안 정인의 보컬은 더 깊어졌고, 성]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답답한 터널 끝, 가장 청하다운 희망송 'Killing Me']]></title>
-        <id>https://entertain.v.daum.net/v/20211129180009945</id>
-        <link href="https://entertain.v.daum.net/v/20211129180009945"/>
-        <updated>2021-11-29T09:21:27.350Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 가수 청하가 돌아왔다. 청하는 11월 29일 오후 6시 전 온라인 음원 사이트를 통해 새 스페셜 싱글 ‘Killing Me(킬링 미)’를 발매했다. ‘Killing Me’는 코러스 섹션의 신스와 미니멀한 프로덕션을 통해 청하의 리드미컬한 보컬이 강조된 업템포 팝넘버 곡이다. 작사에 참여한 청하는 매번 반복되는 일상과 갑자기 찾]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["난 그냥 사랑을 했어요" 정인, 계산하지 않는 사랑 '값']]></title>
-        <id>https://entertain.v.daum.net/v/20211129180005940</id>
-        <link href="https://entertain.v.daum.net/v/20211129180005940"/>
-        <updated>2021-11-29T09:21:27.350Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 가수 정인이 2년만에 신곡으로 돌아왔다. 정인은 11월 29일 오후 6시 각종 온라인 음원 사이트를 통해 신곡 '값'을 발매했다. 지난 2019년 발매된 '사랑 그 깊은 곳' 이후 약 2년 만이다. '값'은 현실적인 가사와 독보적인 감성으로 많은 사랑을 받고 있는 싱어송라이터 박원이 작사, 작곡해 이별의 민낯을 꾸밈없이 담아냈다]]></content>
     </entry>
 </feed>

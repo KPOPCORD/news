@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-29T20:22:48.558Z</updated>
+    <updated>2021-11-29T21:19:08.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스파이더맨' 톰 홀랜드, MCU 잔류?…"'노 웨이 홈' 후 새 트릴로지 나올 것" [엑's 할리우드]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001379422</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001379422"/>
+        <updated>2021-11-29T21:19:07.612Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) '스파이더맨' 시리즈가 계속해서 마블 시네마틱 유니버스(MCU)에 등장할 수 있을 전망이다. 29일(현지시간) 미국의 영화 예매 서비스업체 판당고는 소니 픽처스의 전직 공동회장이자 '파스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[린제이 로한, 금융인 남친과 약혼…'3억대' 약혼반지 받았다]]></title>
         <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004676741</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000834528"/>
         <updated>2021-11-29T05:20:30.295Z</updated>
         <content type="html"><![CDATA[배우 송윤아가 29일 오후 온라인으로 진행된 드라마 '쇼윈도:여왕의 집' 제작발표회에 참석해 포즈를 취하고 있다. 사진=채널A]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전소민 '배우 아우라 넘치는 포즈' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000834524</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000834524"/>
-        <updated>2021-11-29T05:20:30.296Z</updated>
-        <content type="html"><![CDATA[배우 전소민이 29일 오후 온라인으로 진행된 드라마 '쇼윈도:여왕의 집' 제작발표회에 참석해 포즈를 취하고 있다. 사진=채널A]]></content>
     </entry>
 </feed>
