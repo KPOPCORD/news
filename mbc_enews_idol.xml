@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 08:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 09:18:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위키미키 최유정, 대선배 은혁과 댄스 컬래버(주간아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/331954</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/331954</guid>
+            <pubDate>Tue, 30 Nov 2021 09:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331954">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/30/abfddab8-e768-4ca3-89a2-fe0a4fe928f7.jpg" alt="위키미키 최유정, 대선배 은혁과 댄스 컬래버(주간아이돌)">        <div class="text-box">            <p class="summary">위키미키 최유정, 대선배 은혁과 댄스 컬래버(주간아이돌)</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/30/abfddab8-e768-4ca3-89a2-fe0a4fe928f7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['야생돌' 세븐틴·샤이니 안무가 출격…아련VS파워풀 승부]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/331953</link>
@@ -86,14 +94,6 @@
             <pubDate>Tue, 30 Nov 2021 01:04:49 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331894">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/30/c2696a28-caae-4d6d-bf72-cb683b385f0f.jpg" alt="방탄소년단 뷔 솔로곡 '이너차일드', 스포티파이 1억 9백만 스트리밍 돌파">        <div class="text-box">            <p class="summary">방탄소년단 뷔 솔로곡 '이너차일드', 스포티파이 1억 9백만 스트리밍 돌파</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/30/c2696a28-caae-4d6d-bf72-cb683b385f0f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, LA서 팬들과 감격의 재회 “보고 싶었어요, 아미!”]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/331893</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/331893</guid>
-            <pubDate>Tue, 30 Nov 2021 01:04:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331893">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/30/f8c4dbfe-e843-4b9b-9e6d-19197458d288.jpg" alt="방탄소년단, LA서 팬들과 감격의 재회 “보고 싶었어요, 아미!” ">        <div class="text-box">            <p class="summary">방탄소년단, LA서 팬들과 감격의 재회 “보고 싶었어요, 아미!” </p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/30/f8c4dbfe-e843-4b9b-9e6d-19197458d288.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
