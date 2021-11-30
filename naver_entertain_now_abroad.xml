@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-30T20:23:54.626Z</updated>
+    <updated>2021-11-30T21:19:08.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“인스타그램 게시물 싹 지웠다” 카니예 웨스트, 이혼한 아내와 새출발 의지?[해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003559264</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003559264"/>
+        <updated>2021-11-30T21:19:07.630Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 힙합스타 카니예 웨스트(44)가 인스타그램 게시물을 싹 지우며 새 출발 의지를 드러냈다. 그는 29일(현지시간) 인스타그램에 올린 사진과 동영상을 모두 삭제했다. 그가 950만 명]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뼈 모양 장식?…젠데이아, 등 다 드러낸 '파격 드레스' 자태]]></title>
         <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004677327</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000834707</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000834707"/>
         <updated>2021-11-30T03:20:02.354Z</updated>
-        <content type="html"><![CDATA[30일 오전 Mnet '스트릿댄스 걸스 파이터' 온라인 제작발표회가 열렸다. 이날 제작발표회에는 리정(YGX), 가비(라치카), 효진초이(원트), 노제(웨이비), 리헤이(코카앤버터), 모니카(프라우드먼), 허니제이(]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모니카 '무대 위의 미녀캡틴' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000834706</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000834706"/>
-        <updated>2021-11-30T03:20:02.356Z</updated>
         <content type="html"><![CDATA[30일 오전 Mnet '스트릿댄스 걸스 파이터' 온라인 제작발표회가 열렸다. 이날 제작발표회에는 리정(YGX), 가비(라치카), 효진초이(원트), 노제(웨이비), 리헤이(코카앤버터), 모니카(프라우드먼), 허니제이(]]></content>
     </entry>
 </feed>
