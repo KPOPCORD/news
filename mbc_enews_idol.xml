@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 22:22:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 23:22:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[TV톡] '방과후 설렘', 매운 맛 달래는 '단짠' 연출의 적절 배합]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/331962</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/331962</guid>
+            <pubDate>Tue, 30 Nov 2021 23:21:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331962">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/30/f5cddb6b-b0a6-42c7-b269-cb27774c2475.jpg" alt="[TV톡] '방과후 설렘', 매운 맛 달래는 '단짠' 연출의 적절 배합">        <div class="text-box">            <p class="summary">[TV톡] '방과후 설렘', 매운 맛 달래는 '단짠' 연출의 적절 배합</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/30/f5cddb6b-b0a6-42c7-b269-cb27774c2475.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[위키미키 최유정, 대선배 은혁과 댄스 컬래버(주간아이돌)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/331954</link>
@@ -86,14 +94,6 @@
             <pubDate>Tue, 30 Nov 2021 01:04:49 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331908">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/30/891d8443-09dc-4d3e-bc19-8ab54fb1937f.jpg" alt="'방과후 설렘' 첫방부터 비드라마 TV화제성 1위 등극">        <div class="text-box">            <p class="summary">'방과후 설렘' 첫방부터 비드라마 TV화제성 1위 등극</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/30/891d8443-09dc-4d3e-bc19-8ab54fb1937f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔 솔로곡 '이너차일드', 스포티파이 1억 9백만 스트리밍 돌파]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/331894</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/331894</guid>
-            <pubDate>Tue, 30 Nov 2021 01:04:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331894">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/30/c2696a28-caae-4d6d-bf72-cb683b385f0f.jpg" alt="방탄소년단 뷔 솔로곡 '이너차일드', 스포티파이 1억 9백만 스트리밍 돌파">        <div class="text-box">            <p class="summary">방탄소년단 뷔 솔로곡 '이너차일드', 스포티파이 1억 9백만 스트리밍 돌파</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/30/c2696a28-caae-4d6d-bf72-cb683b385f0f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
