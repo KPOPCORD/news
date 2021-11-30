@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 04:24:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 05:18:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SF9 인성 "휘영이 대한민국 힙합계에서 주목하는 인재, 저는 MSG 역할" (정희)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/331930</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/331930</guid>
+            <pubDate>Tue, 30 Nov 2021 05:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331930">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/30/f2e4db98-01b1-499c-a435-a1de1d938e8b.jpg" alt="SF9 인성 " 휘영이="" 대한민국="" 힙합계에서="" 주목하는="" 인재,="" 저는="" msg="" 역할"="" (정희)"="">        <div class="text-box">            <p class="summary">SF9 인성 "휘영이 대한민국 힙합계에서 주목하는 인재, 저는 MSG 역할" (정희)</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/30/f2e4db98-01b1-499c-a435-a1de1d938e8b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[라비 콘셉트 뭐길래? "아련+다크=기대만발"]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/331924</link>
@@ -86,14 +94,6 @@
             <pubDate>Mon, 29 Nov 2021 01:04:49 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331817">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/29/e4194b81-ae46-487a-a134-311d47028f21.jpg" alt="청하, 오늘(29일) 새 스페셜 싱글 ‘Killing Me’ 발매">        <div class="text-box">            <p class="summary">청하, 오늘(29일) 새 스페셜 싱글 ‘Killing Me’ 발매</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/29/e4194b81-ae46-487a-a134-311d47028f21.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IZ*ONE 야부키 나코, 새 정규앨범에서 단독 센터…HKT48 간판 입증]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/331812</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/331812</guid>
-            <pubDate>Mon, 29 Nov 2021 01:04:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331812">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/29/00171910-3ba9-4703-82bd-3dfd9336ab48.jpg" alt="IZ*ONE 야부키 나코, 새 정규앨범에서 단독 센터…HKT48 간판 입증">        <div class="text-box">            <p class="summary">IZ*ONE 야부키 나코, 새 정규앨범에서 단독 센터…HKT48 간판 입증</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/29/00171910-3ba9-4703-82bd-3dfd9336ab48.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
