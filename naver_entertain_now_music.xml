@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-30T13:20:12.622Z</updated>
+    <updated>2021-11-30T14:21:35.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유니파이 프로젝트 10집 신곡 ‘Light’s on’ 12월 1일 공개]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000777979</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000777979"/>
+        <updated>2021-11-30T14:21:19.240Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 유니파이 프로젝트 10집 신곡 ‘Light’s on’ 12월 1일 공개 유니파이뮤직이 다양한 장르의 음악을 추구하는 프로젝트 디지털 싱글 10집 ‘light’s on’을 오는 12월 1일 정오에 발표한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고사하던 윤도현, 데뷔 28년만에 심사위원…'싱어게인2']]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010863159</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001379666"/>
         <updated>2021-11-30T09:18:41.933Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 LA(미국), 김예나 기자) 그룹 방탄소년단(BTS) 정국이 '아미'들의 존재에 대한 고마움을 표현했다. 방탄소년단은 지난 28일(현지 시간) 오후 7시 30분부터 '미국 LA 소파이 스타디움에서 'B]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["당연한 삶이 변화"…뷔, 행복한 약속 [엑's in LA: BTS⑥]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001379665</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001379665"/>
-        <updated>2021-11-30T09:18:41.934Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 LA(미국), 김예나 기자) 그룹 방탄소년단(BTS) 뷔(V)가 행복한 에너지를 선사했다. 방탄소년단은 지난 28일(현지 시간) 오후 7시 30분부터 '미국 LA 소파이 스타디움에서 'BTS 퍼미션 투]]></content>
     </entry>
 </feed>

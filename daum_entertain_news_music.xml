@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-30T13:20:12.613Z</updated>
+    <updated>2021-11-30T14:21:35.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['풍류대장' RC9 호평, 김주리 제칠까]]></title>
+        <id>https://entertain.v.daum.net/v/20211130225206864</id>
+        <link href="https://entertain.v.daum.net/v/20211130225206864"/>
+        <updated>2021-11-30T14:21:00.068Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 이기은 기자] ‘풍류대장’ RC9가 김주리를 상대로 칼을 빼들었다. 30일 밤 방송된 JTBC 예능프로그램 ‘풍류대장’에서는 국악 실력파들의 준결승전 준비 과정이 공개됐다. 이날 RC9는 정경화의 ‘나에게로의 초대’를 선곡해 아름답게 소화해냈다. ‘신비로운 너의 모습 / 나에게는 사랑인 걸’ ‘어둠 속의 빛처럼 / 마이 러브’ 등 유명한 구절]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['여왕의 집' 이성재·전소민, 부부같은 불륜 커플..대담해진 집 데이트]]></title>
         <id>https://entertain.v.daum.net/v/20211130203708198</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211130175035789"/>
         <updated>2021-11-30T09:18:22.863Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 LA(미국), 김예나 기자) 그룹 방탄소년단(BTS) 뷔(V)가 행복한 에너지를 선사했다. &nbsp; 방탄소년단은 지난 28일(현지 시간) 오후 7시 30분부터 '미국 LA 소파이 스타디움에서 'BTS 퍼미션 투 댄스 온 스테이지(PERMISSION TO DANCE ON STAGE) - LA' 오프라인 콘서트를 개최했다.&nbsp; 이날 방탄소년단은 오프닝]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["있어야 할 자리"..지민, 존재만으로 위로]]></title>
-        <id>https://entertain.v.daum.net/v/20211130175031787</id>
-        <link href="https://entertain.v.daum.net/v/20211130175031787"/>
-        <updated>2021-11-30T09:18:22.864Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 LA(미국), 김예나 기자) 그룹 방탄소년단(BTS) 지민이 새로운 시작으로 얻은 긍정 바이브를 전했다.&nbsp; 방탄소년단은 지난 28일(현지 시간) 오후 7시 30분부터 '미국 LA 소파이 스타디움에서 'BTS 퍼미션 투 댄스 온 스테이지(PERMISSION TO DANCE ON STAGE) - LA' 오프라인 콘서트를 개최했다.&nbsp; 이날 방탄소]]></content>
     </entry>
 </feed>
