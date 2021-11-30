@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-11-30T19:17:09.527Z</updated>
+    <updated>2021-11-30T20:23:54.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[伊 3인방, 최루탄라면·매생이국밥 도전…'어한지']]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010863292</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010863292"/>
+        <updated>2021-11-30T20:23:38.837Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]이수진 인턴 기자 = ‘어서와 한국은 처음이지’ 이탈리아 출신 파올로와 테오가 한국의 매운맛에 도전한다. 오는 12월 2일 오후 8시 30분 방송 예정인 MBC 에브리원 '어서와 한국은 처음이지(이하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엑소 카이, 생각보다 달콤하고 귀여운 남자(종합)]]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000119014</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003504495"/>
         <updated>2021-11-30T09:18:41.926Z</updated>
         <content type="html"><![CDATA[[헤럴드POP=정혜연 기자]시그니처가 한층 더 다채로워진 매력으로 돌아왔다. 오늘(30일) 시그니처의 두 번째 EP 앨범 'Dear Diary Moment(디어 다이어리 모먼트)'의 타이틀곡 'Boyfriend'가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["환상은 더 무한해져"…카이가 만들어낸 달콤 신화 '피치스' [쥬크박스]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001379674</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001379674"/>
-        <updated>2021-11-30T09:18:41.928Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 엑소 멤버 카이가 달콤한 귀환을 알렸다. 카이의 두 번째 미니앨범 '피치스(Peaches)'와 타이틀곡 'Peaches' 뮤직비디오가 30일 오후 6시 공개됐다. 이번 앨범은 카이가]]></content>
     </entry>
 </feed>
