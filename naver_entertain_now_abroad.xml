@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-30T21:19:08.285Z</updated>
+    <updated>2021-11-30T22:22:32.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["지민, 나랑 결혼해줘"…빅토리아 시크릿 모델, BTS 콘서트 후기]]></title>
+        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004677386</id>
+        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004677386"/>
+        <updated>2021-11-30T22:22:31.386Z</updated>
+        <content type="html"><![CDATA[란제리 브랜드 '빅토리아 시크릿'의 런웨이 모델 출신인 모델 지젤리 올리베이라가 그룹 방탄소년단(BTS) 지민에 "결혼하자"고 외치는 모습이 누리꾼들의 웃음을 자아냈다. 지난달 29일(현지시간) 지젤리 올리베이라는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“인스타그램 게시물 싹 지웠다” 카니예 웨스트, 이혼한 아내와 새출발 의지?[해외이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003559264</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000834708</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000834708"/>
         <updated>2021-11-30T03:20:02.352Z</updated>
-        <content type="html"><![CDATA[30일 오전 Mnet '스트릿댄스 걸스 파이터' 온라인 제작발표회가 열렸다. 이날 제작발표회에는 리정(YGX), 가비(라치카), 효진초이(원트), 노제(웨이비), 리헤이(코카앤버터), 모니카(프라우드먼), 허니제이(]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가비만이 소화할 수 있는 패션 [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000834707</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000834707"/>
-        <updated>2021-11-30T03:20:02.354Z</updated>
         <content type="html"><![CDATA[30일 오전 Mnet '스트릿댄스 걸스 파이터' 온라인 제작발표회가 열렸다. 이날 제작발표회에는 리정(YGX), 가비(라치카), 효진초이(원트), 노제(웨이비), 리헤이(코카앤버터), 모니카(프라우드먼), 허니제이(]]></content>
     </entry>
 </feed>
