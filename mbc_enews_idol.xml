@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 06:21:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 07:19:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엑소 세훈 "예능 속 카이 모습, 똑같더라"]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/331936</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/331936</guid>
+            <pubDate>Tue, 30 Nov 2021 07:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331936">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/30/3dbbab06-f9b0-4abd-8069-955d5e1b3a4d.jpg" alt="엑소 세훈 " 예능="" 속="" 카이="" 모습,="" 똑같더라""="">        <div class="text-box">            <p class="summary">엑소 세훈 "예능 속 카이 모습, 똑같더라"</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/30/3dbbab06-f9b0-4abd-8069-955d5e1b3a4d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카이 "내 정체성? 죽을 때까지 못 찾을 듯"]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/331933</link>
@@ -86,14 +94,6 @@
             <pubDate>Mon, 29 Nov 2021 03:23:16 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331838">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/29/cd3cf2f2-0933-46fb-ba85-8fa0f3515538.jpg" alt="오마이걸 효정, 한결같은 요정 미모 자랑 [인스타]">        <div class="text-box">            <p class="summary">오마이걸 효정, 한결같은 요정 미모 자랑 [인스타]</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/29/cd3cf2f2-0933-46fb-ba85-8fa0f3515538.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 지민 美sofi스타디움 흔든 '무대의 제왕' 포스]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/331827</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/331827</guid>
-            <pubDate>Mon, 29 Nov 2021 01:04:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331827">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/29/03976459-c36c-4fde-83fc-7ebdf5b8098f.jpg" alt="방탄소년단 지민 美sofi스타디움 흔든 '무대의 제왕' 포스">        <div class="text-box">            <p class="summary">방탄소년단 지민 美sofi스타디움 흔든 '무대의 제왕' 포스</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/29/03976459-c36c-4fde-83fc-7ebdf5b8098f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
