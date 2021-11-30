@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-30T18:26:06.362Z</updated>
+    <updated>2021-11-30T19:17:09.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이세영 의미심장글 “1월 19일만 기다리는중”...일본인 남친과 결혼?]]></title>
+        <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001625139</id>
+        <link href="https://entertain.naver.com/now/read?oid=057&amp;aid=0001625139"/>
+        <updated>2021-11-30T19:17:02.580Z</updated>
+        <content type="html"><![CDATA[개그우먼 이세영이 의미심장한 글을 남겼다. 지난달 30일 이세영은 자신의 인스타그램에 “1월 19일만 기다리는중. 무슨 날인지 맞혀보세요”라는 글과 함께 사진을 올렸다. 공개된 사진 속에는 이세영은 꽃을 든 채 찍은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[블랙핑크 제니, 섹시+요염+귀여움 다 되네 [M+★SNS]]]></title>
         <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001625138</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000948130"/>
         <updated>2021-11-30T13:20:04.135Z</updated>
         <content type="html"><![CDATA[12월 22일 개봉하는 영화 ‘킹스맨: 퍼스트 에이전트’가 세계적인 아티스트 FKA 트위그스와 센트럴 시가 참여한 엔딩 크레딧 송 ‘Measure of a Man’ 뮤직비디오를 최초 공개했다. 언제나 독보적인 상상력]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송가인, 44㎏ 찍고 매일이 리즈…새하얀 셔츠로 뽐낸 단아美 [스타★샷]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=396&amp;aid=0000598453</id>
-        <link href="https://entertain.naver.com/now/read?oid=396&amp;aid=0000598453"/>
-        <updated>2021-11-30T13:20:04.136Z</updated>
-        <content type="html"><![CDATA[가수 송가인이 단아한 미모를 자랑했다. 송가인은 30일 자신의 인스타그램에 “오늘은 #풍류대장! 다같이 본방사수!”라는 글과 함께 사진을 게재했다. 공개된 사진에는 새하얀 셔츠를 입은 채 카메라를 바라보고 있는 송가]]></content>
     </entry>
 </feed>
