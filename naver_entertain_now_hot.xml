@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-11-30T15:22:45.064Z</updated>
+    <updated>2021-11-30T16:33:56.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘오징어 게임’ 美 고담어워즈 수상 영예]]></title>
+        <id>https://entertain.naver.com/now/read?oid=022&amp;aid=0003643408</id>
+        <link href="https://entertain.naver.com/now/read?oid=022&amp;aid=0003643408"/>
+        <updated>2021-11-30T16:33:47.927Z</updated>
+        <content type="html"><![CDATA[韓 드라마 최초… 황 감독 “기적” 이정재 ‘최우수 연기상’은 불발 넷플릭스 시리즈 ‘오징어 게임’이 한국 드라마 최초로 미국 독립영화 시상식인 ‘고담 어워즈’에서 수상의 영예를 안았다. 29일(현지시간) 미국 뉴욕]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['스우파' 리정 父 "딸, 방송 출연 후 엄마에 차 선물...아빠는 쌩"('내가 알던 내가 아냐' )]]></title>
+        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003807951</id>
+        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003807951"/>
+        <updated>2021-11-30T16:33:47.928Z</updated>
+        <content type="html"><![CDATA[[스포츠조선닷컴 정안지 기자] Mnet '스트릿 우먼 파이트'를 통해 큰 인기를 얻은 YGX 리정의 아버지가 딸 자랑에 환한 미소를 지었다. 30일 방송된 SBS 다큐멘터리 '내가 알던 내가 아냐'에 오은영 박사는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[황소윤 화보, 강렬한 레드+도발적 포즈]]></title>
         <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001625134</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000948129"/>
         <updated>2021-11-30T13:20:04.137Z</updated>
         <content type="html"><![CDATA[이진욱, 권나라, 이준, 공승연의 의미심장한 관계성이 예고된다. tvN 새 토일드라마 ‘불가살’(극본 권소라 서재원 연출 장영우)은 죽일 수도, 죽을 수도 없는 불가살(不可殺)이 된 남자가 600년 동안 환생을 반복]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나비, 결혼 2주년+子 200일 기념 여행서 '아찔'..."정말 울 뻔"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003807928</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003807928"/>
-        <updated>2021-11-30T13:20:04.140Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 조윤선 기자] 가수 나비가 아찔했던 순간을 털어놨다. 나비는 30일 자신의 인스타그램에 "내가 어제 결혼 2주년+조이 200일 기념 가족 여행을 다녀왔어. 다들 알겠지만 아기랑 여행은 진짜 짐이 이삿짐]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오나라, 유재석 커피차 선물에 감동…“동생 기 세워주는 오빠” [스타★샷]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=396&amp;aid=0000598452</id>
-        <link href="https://entertain.naver.com/now/read?oid=396&amp;aid=0000598452"/>
-        <updated>2021-11-30T13:20:04.141Z</updated>
-        <content type="html"><![CDATA[배우 오나라가 유재석의 커피차 선물을 인증했다. 오나라는 30일 자신의 인스타그램에 “식센이 동생 나라오 기 세워주는 재석 오빠의 커피차 선물. 으슬으슬 비 오는 날 촬영장이 후끈 달아올랐어요. ‘식스센스’ 큰오빠]]></content>
     </entry>
 </feed>
