@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-30T10:20:52.800Z</updated>
+    <updated>2021-11-30T11:15:51.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["낯설지만 어떻게든.." 시그니처, 한층 성장한 1년 2개월 만 컴백]]></title>
+        <id>https://entertain.v.daum.net/v/20211130193004739</id>
+        <link href="https://entertain.v.daum.net/v/20211130193004739"/>
+        <updated>2021-11-30T11:15:18.332Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 그룹 시그니처(cignature)가 처음 시도해보는 콘셉트 '보이프렌드'로 1년 2개월 만에 컴백했다. 30일 오후 시그니처의 두 번째 EP 앨범 'Dear Diary Moment'(디어 다이어리 모먼트) 발매 기념 온라인 쇼케이스가 진행됐다.    1년 2개월 만에 컴백하는 시그니처는 새 멤버 클로이, 도희의 합류로 첫 완전체]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수없이 들으며 상상한 카이의 복숭아]]></title>
         <id>https://entertain.v.daum.net/v/20211130190503348</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211130175027784"/>
         <updated>2021-11-30T09:18:22.865Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 LA(미국), 김예나 기자) 그룹 방탄소년단(BTS)&nbsp;제이홉(j-hope)이 희망의 아이콘다운 유쾌하고 밝은 매력을 발산했다.&nbsp; 방탄소년단은 지난 28일(현지 시간) 오후 7시 30분부터 '미국 LA 소파이 스타디움에서 'BTS 퍼미션 투 댄스 온 스테이지(PERMISSION TO DANCE ON STAGE) - LA' 오프라인 콘서트를 개]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["두려워하지 않아"..슈가, 도전의 연속]]></title>
-        <id>https://entertain.v.daum.net/v/20211130175023779</id>
-        <link href="https://entertain.v.daum.net/v/20211130175023779"/>
-        <updated>2021-11-30T09:18:22.866Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 LA(미국), 김예나 기자) 그룹 방탄소년단(BTS) 슈가(SUGA)가 뛰어난 도전 정신을 보여주며 앞날에 대한 기대감을 더했다.&nbsp; 방탄소년단은 지난 28일(현지 시간) 오후 7시 30분부터 '미국 LA 소파이 스타디움에서 'BTS 퍼미션 투 댄스 온 스테이지(PERMISSION TO DANCE ON STAGE) - LA' 오프라인 콘서트를]]></content>
     </entry>
 </feed>
