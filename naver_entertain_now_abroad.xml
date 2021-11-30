@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-11-30T12:29:07.403Z</updated>
+    <updated>2021-11-30T13:20:12.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뼈 모양 장식?…젠데이아, 등 다 드러낸 '파격 드레스' 자태]]></title>
+        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004677327</id>
+        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004677327"/>
+        <updated>2021-11-30T13:20:11.876Z</updated>
+        <content type="html"><![CDATA['스파이더 맨'의 연인 젠데이아 콜먼이 발롱도르 시상식에 참석했다. 29일(현지시간) 젠데이아 콜먼은 프랑스 파리의 샤틀레 극장에서 진행된 발롱도르 시상식 레드카펫 행사에 등장했다. 이날 젠데이아는 블랙 롱 드레스를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['59세' 데미 무어, 섹시 오프숄더 드레스…눈뗄수 없는 고혹미 [N해외연예]]]></title>
         <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005756077</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000834706</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000834706"/>
         <updated>2021-11-30T03:20:02.356Z</updated>
-        <content type="html"><![CDATA[30일 오전 Mnet '스트릿댄스 걸스 파이터' 온라인 제작발표회가 열렸다. 이날 제작발표회에는 리정(YGX), 가비(라치카), 효진초이(원트), 노제(웨이비), 리헤이(코카앤버터), 모니카(프라우드먼), 허니제이(]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[효진초이 '카리스마가 생명' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000834704</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000834704"/>
-        <updated>2021-11-30T03:20:02.358Z</updated>
         <content type="html"><![CDATA[30일 오전 Mnet '스트릿댄스 걸스 파이터' 온라인 제작발표회가 열렸다. 이날 제작발표회에는 리정(YGX), 가비(라치카), 효진초이(원트), 노제(웨이비), 리헤이(코카앤버터), 모니카(프라우드먼), 허니제이(]]></content>
     </entry>
 </feed>
