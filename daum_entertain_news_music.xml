@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-11-30T11:15:51.970Z</updated>
+    <updated>2021-11-30T12:29:07.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['여왕의 집' 이성재·전소민, 부부같은 불륜 커플..대담해진 집 데이트]]></title>
+        <id>https://entertain.v.daum.net/v/20211130203708198</id>
+        <link href="https://entertain.v.daum.net/v/20211130203708198"/>
+        <updated>2021-11-30T12:28:38.568Z</updated>
+        <content type="html"><![CDATA['쇼윈도:여왕의 집' 이성재와 전소민의 생활감 가득한 데이트 현장이 공개됐다.지난 29일 첫 방송된 채널A 월화드라마 '쇼윈도:여왕의 집'은 1회 엔딩에서 신명섭(이성재 분)과 이별을 결심했던 윤미라(전소민 분)가 음독을 시도하며 안방극장 모두를 놀라게 했다.이 소식을 들은 신명섭은 아내 한선주(송윤아 분)를 뒤로하고 윤미라를 찾아갔고, 두 사람은 진한 포]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["낯설지만 어떻게든.." 시그니처, 한층 성장한 1년 2개월 만 컴백]]></title>
         <id>https://entertain.v.daum.net/v/20211130193004739</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211130175031787"/>
         <updated>2021-11-30T09:18:22.864Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 LA(미국), 김예나 기자) 그룹 방탄소년단(BTS) 지민이 새로운 시작으로 얻은 긍정 바이브를 전했다.&nbsp; 방탄소년단은 지난 28일(현지 시간) 오후 7시 30분부터 '미국 LA 소파이 스타디움에서 'BTS 퍼미션 투 댄스 온 스테이지(PERMISSION TO DANCE ON STAGE) - LA' 오프라인 콘서트를 개최했다.&nbsp; 이날 방탄소]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["평정심 유지해"..제이홉, 에너지의 내공]]></title>
-        <id>https://entertain.v.daum.net/v/20211130175027784</id>
-        <link href="https://entertain.v.daum.net/v/20211130175027784"/>
-        <updated>2021-11-30T09:18:22.865Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 LA(미국), 김예나 기자) 그룹 방탄소년단(BTS)&nbsp;제이홉(j-hope)이 희망의 아이콘다운 유쾌하고 밝은 매력을 발산했다.&nbsp; 방탄소년단은 지난 28일(현지 시간) 오후 7시 30분부터 '미국 LA 소파이 스타디움에서 'BTS 퍼미션 투 댄스 온 스테이지(PERMISSION TO DANCE ON STAGE) - LA' 오프라인 콘서트를 개]]></content>
     </entry>
 </feed>
