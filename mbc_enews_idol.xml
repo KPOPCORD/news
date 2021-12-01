@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 21:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 22:21:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오마이걸 효정, 팬들 설레게 하는 상큼한 윙크[인스타]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332112</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332112</guid>
+            <pubDate>Wed, 01 Dec 2021 22:21:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332112">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/02/qfJ3hlbmNVpk637740004228665699.jpg" alt="오마이걸 효정, 팬들 설레게 하는 상큼한 윙크[인스타]">        <div class="text-box">            <p class="summary">오마이걸 효정, 팬들 설레게 하는 상큼한 윙크[인스타]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/02/qfJ3hlbmNVpk637740004228665699.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[권은비, 벌써 솔로 데뷔 100일…행복 모먼트[인스타]]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/332110</link>
@@ -86,14 +94,6 @@
             <pubDate>Wed, 01 Dec 2021 13:28:08 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332096">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/01/9149ccf8-f0f6-469e-906e-8830b01dbdf0.gif" alt="[움짤] 아이브 리즈, '폭풍 보조개' 애교꾼~">        <div class="text-box">            <p class="summary">[움짤] 아이브 리즈, '폭풍 보조개' 애교꾼~</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/01/9149ccf8-f0f6-469e-906e-8830b01dbdf0.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[움짤] 아이브 안유진, 리더의 '멋진애교~']]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332095</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332095</guid>
-            <pubDate>Wed, 01 Dec 2021 13:28:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332095">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/01/6f6f5ae4-25d0-4436-8abc-ea16f2070c01.gif" alt="[움짤] 아이브 안유진, 리더의 '멋진애교~'">        <div class="text-box">            <p class="summary">[움짤] 아이브 안유진, 리더의 '멋진애교~'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/01/6f6f5ae4-25d0-4436-8abc-ea16f2070c01.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
