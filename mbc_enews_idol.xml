@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 03:22:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 04:29:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카이 "'피치스' 비하인드 스토리, 이수만 선생님과 유영진 선생님에게 놀라" (정희)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332033</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332033</guid>
+            <pubDate>Wed, 01 Dec 2021 04:29:16 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332033">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/01/7eb84103-6165-4f78-8f4f-f9c2e98110d2.jpg" alt="카이 " '피치스'="" 비하인드="" 스토리,="" 이수만="" 선생님과="" 유영진="" 선생님에게="" 놀라"="" (정희)"="">        <div class="text-box">            <p class="summary">카이 "'피치스' 비하인드 스토리, 이수만 선생님과 유영진 선생님에게 놀라" (정희)</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/01/7eb84103-6165-4f78-8f4f-f9c2e98110d2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘2021 SBS 가요대전’ 붐-키-유나 MC 확정, 12월 25일 생방송!]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/331995</link>
@@ -86,14 +94,6 @@
             <pubDate>Tue, 30 Nov 2021 07:19:11 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331936">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/30/3dbbab06-f9b0-4abd-8069-955d5e1b3a4d.jpg" alt="엑소 세훈 " 예능="" 속="" 카이="" 모습,="" 똑같더라""="">        <div class="text-box">            <p class="summary">엑소 세훈 "예능 속 카이 모습, 똑같더라"</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/30/3dbbab06-f9b0-4abd-8069-955d5e1b3a4d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카이 "내 정체성? 죽을 때까지 못 찾을 듯"]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/331933</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/331933</guid>
-            <pubDate>Tue, 30 Nov 2021 06:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/331933">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/30/f8731658-2033-4ed3-befb-741239cff39c.jpg" alt="카이 " 내="" 정체성?="" 죽을="" 때까지="" 못="" 찾을="" 듯""="">        <div class="text-box">            <p class="summary">카이 "내 정체성? 죽을 때까지 못 찾을 듯"</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/11/30/f8731658-2033-4ed3-befb-741239cff39c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
