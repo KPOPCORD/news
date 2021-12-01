@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-01T02:38:18.361Z</updated>
+    <updated>2021-12-01T03:22:41.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['원영→유진' 아이브, 오늘 데뷔앨범 'ELEVEN' 발매]]></title>
+        <id>https://entertain.v.daum.net/v/20211201120107764</id>
+        <link href="https://entertain.v.daum.net/v/20211201120107764"/>
+        <updated>2021-12-01T03:22:03.991Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 스타쉽엔터테인먼트 6인조 신예 아이브(IVE)가 데뷔한다. 아이브는 12월 1일 오후 6시 각종 온라인 음원 사이트를 통해 첫 번째 싱글 ‘ELEVEN(일레븐)’을 발매한다. 이에 앞서 신보 하이라이트 메들리 영상을 공개하며 ‘웰메이드 걸스팝’을 예고했다. 공개된 영상 속에는 앨범과 동명의 타이틀인 ‘ELEVEN’과 수록곡 ‘Ta]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['7인 체재' 시그니처, '디어 다이어리 모먼트' 눈물의 컴백 쇼케이스 성료]]></title>
+        <id>https://entertain.v.daum.net/v/20211201113910718</id>
+        <link href="https://entertain.v.daum.net/v/20211201113910718"/>
+        <updated>2021-12-01T03:22:03.991Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이덕행 기자] /사진=시그니처 컴백쇼케이스그룹 시그니처(cignature)가 컴백 쇼케이스로 감동의 시간을 선사했다. 시그니처(채솔, 지원, 셀린, 클로이, 벨, 세미, 도희)는 지난달 30일 공식 유튜브 채널을 통해 두 번째 EP 앨범 'Dear Diary Moment(디어 다이어리 모먼트)' 컴백 기념 쇼케이스를 진행했다. 이날 1년 2개]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["자우림의 음악은 가슴에 폭풍을 가진 청년이 주인공"]]></title>
         <id>https://entertain.v.daum.net/v/20211201113015209</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211201101901603"/>
         <updated>2021-12-01T02:37:44.061Z</updated>
         <content type="html"><![CDATA[(인터뷰②에 이어) 자신의 이야기를 꺼내는 것에 유독 거리낌이 없었다. 치열한 랩 경쟁이 오가는 무대 위에서도 선뜻 가난했던 삶을 펼쳐놨다. "엄마 우리 이제 포차 나가자!"라고 외치는 모습에 보는 이들은 심장이 저릿하는 느낌을 받았지만, 정작 본인은 환하게 웃고 있었다. 지난해 Mnet '쇼미더머니9'에 출연해 매회 '성장 드라마'를 쓰며 여성 래퍼 최초]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스트레이 키즈, '크리스마스 이블' 27개 지역 아이튠즈 차트 정상]]></title>
-        <id>https://entertain.v.daum.net/v/20211201101418355</id>
-        <link href="https://entertain.v.daum.net/v/20211201101418355"/>
-        <updated>2021-12-01T02:37:44.062Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 그룹 스트레이 키즈가 새 싱글 'Christmas EveL'(크리스마스 이블)로 글로벌 인기 성장세를 증명했다. 스트레이 키즈는 29일 오후 6시 홀리데이 스페셜 싱글 'Christmas EveL'과 더블 타이틀곡 'Christmas EveL', 'Winter Falls'(윈터 폴스)를 발표하고 국내외 각종 차트에서 호성적을 기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엑소 카이, 새 미니 '피치스' 아이튠즈 톱 앨범 차트 58개 지역 1위]]></title>
-        <id>https://entertain.v.daum.net/v/20211201101233292</id>
-        <link href="https://entertain.v.daum.net/v/20211201101233292"/>
-        <updated>2021-12-01T02:37:44.064Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 엑소 카이의 새 미니앨범이 공개와 동시에 글로벌 팬들의 뜨거운 관심을 얻었다. 지난달 30일 공개된 카이 두 번째 미니앨범 '피치니스(Peaches)'는 아이튠즈 톱 앨범 차트에서 이탈리아, 폴란드, 헝가리, 브라질, 아랍에미리트, 사우디아라비아, 카타르, 러시아, 바레인, 바베이도스, 볼리비아, 보츠와나, 브루나이, 불가리]]></content>
     </entry>
 </feed>
