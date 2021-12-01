@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-01T10:25:06.594Z</updated>
+    <updated>2021-12-01T11:19:44.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['3년차 걸그룹' 에버글로우의 정체성…"가야 할 길 더 많아" [종합]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001380250</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001380250"/>
+        <updated>2021-12-01T11:19:30.268Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 3년 차 걸그룹 에버글로우(EVERGLOW)가 팀의 정체성을 밝혔다. 1일 오후 에버글로우의 세 번째 미니앨범 'Return of The Girl'(리턴 오브 더 걸) 온라인 쇼케이스가 진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이브 유진, 아이즈원 막내 안댕댕이 카리스마 리더로 변신[엑's HD화보]]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001380245</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003009031"/>
         <updated>2021-12-01T09:24:19.797Z</updated>
         <content type="html"><![CDATA[1일 오후 6시 안테나의 크리스마스 캐럴 '다음 겨울에도 여기서 만나'가 각종 음원 사이트를 통해 공개됐다. 지난해 12월 단체 캐럴 '겨울의 우리들'을 발매한 안테나는 올해 두 번째 단체 캐럴을 발매하며 팬들에게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최유진x김채현→휴닝바히에..케플러 데뷔쇼, 14일 엠넷 방송 [공식]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004520033</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004520033"/>
-        <updated>2021-12-01T09:24:19.798Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] 케플러(Kep1er)가 Mnet M2 데뷔쇼를 통해 글로벌 K-POP 팬들에게 인사를 건넨다. Mnet의 디지털 스튜디오 M2에 따르면 케플러의 글로벌 데뷔쇼가 오는 12월 14일 화요일 저]]></content>
     </entry>
 </feed>
