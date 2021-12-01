@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 20:22:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 21:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[권은비, 벌써 솔로 데뷔 100일…행복 모먼트[인스타]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332110</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332110</guid>
+            <pubDate>Wed, 01 Dec 2021 21:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332110">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/02/RI5gW3yaEhF0637740002375176227.jpg" alt="권은비, 벌써 솔로 데뷔 100일…행복 모먼트[인스타] ">        <div class="text-box">            <p class="summary">권은비, 벌써 솔로 데뷔 100일…행복 모먼트[인스타] </p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/02/RI5gW3yaEhF0637740002375176227.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[움짤] 장원영, '필살애교 + 인형미모' 아이브(IVE) 쇼케이스 초토화]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/332113</link>
@@ -86,14 +94,6 @@
             <pubDate>Wed, 01 Dec 2021 13:28:08 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332095">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/01/6f6f5ae4-25d0-4436-8abc-ea16f2070c01.gif" alt="[움짤] 아이브 안유진, 리더의 '멋진애교~'">        <div class="text-box">            <p class="summary">[움짤] 아이브 안유진, 리더의 '멋진애교~'</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/01/6f6f5ae4-25d0-4436-8abc-ea16f2070c01.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 아이브 이서, '기대되는 막내미모']]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332089</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332089</guid>
-            <pubDate>Wed, 01 Dec 2021 08:26:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332089">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/01/459e3bf3-5c66-4164-953f-d24ff6196a87.jpg" alt="[포토] 아이브 이서, '기대되는 막내미모'">        <div class="text-box">            <p class="summary">[포토] 아이브 이서, '기대되는 막내미모'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/01/459e3bf3-5c66-4164-953f-d24ff6196a87.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
