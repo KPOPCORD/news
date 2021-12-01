@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-01T19:18:06.186Z</updated>
+    <updated>2021-12-01T20:22:55.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신용재·벤, '그 남자 그 여자' 재해석…8일 발매]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010865947</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010865947"/>
+        <updated>2021-12-01T20:22:40.720Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]김예지 인턴 기자 = 가수 신용재(2F)와 벤이 '리바이브(REVIBE)' 프로젝트의 여섯 번째 가창자로 나선다. 1일 바이브(VIBE) 소속사 메이저나인은 "바이브(류재현, 윤민수) 데뷔 20주년 컬]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[나의 인생곡㊺] 김양 '우지마라', 사랑과 인생 빗댄 서사곡]]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000119270</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004635491"/>
         <updated>2021-12-01T13:28:32.459Z</updated>
         <content type="html"><![CDATA[그룹 아이브(IVE) 이서가 1일 오후 서울 광장동 예스24라이브홀에서 열린 첫 번째 싱글 '일레븐(ELEVEN)' 발매 기념 쇼케이스에서 타이틀곡 '일레븐' 공연을 펼치고 있다. 아이브는 스타쉽엔터테인먼트가 5년]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 아이브 리즈, '도도한 금발 미녀']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004635490</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004635490"/>
-        <updated>2021-12-01T13:28:32.460Z</updated>
-        <content type="html"><![CDATA[그룹 아이브(IVE) 리즈가 1일 오후 서울 광장동 예스24라이브홀에서 열린 첫 번째 싱글 '일레븐(ELEVEN)' 발매 기념 쇼케이스에서 타이틀곡 '일레븐' 공연을 펼치고 있다. 아이브는 스타쉽엔터테인먼트가 5년]]></content>
     </entry>
 </feed>
