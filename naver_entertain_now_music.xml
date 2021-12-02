@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-02T15:21:53.472Z</updated>
+    <updated>2021-12-02T16:32:58.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임영웅, '2021 AAA' 4관왕 인증.."영웅시대 감사합니다"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003010177</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003010177"/>
+        <updated>2021-12-02T16:32:43.688Z</updated>
+        <content type="html"><![CDATA[가수 임영웅이 '2021 Asia Artist Awards'(2021 아시아아티스트어워즈, 이하 '2021 AAA') 4관왕을 인증했다. 3일 임영웅의 공식 계정에는 '2021 아시아 아티스트 어워즈' 아티스트 임영]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['인기상' 송지효 "내 매력은? 미모"…헤어스타일 칭찬에 "감사" [2021 AAA]]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003559758</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003009852"/>
         <updated>2021-12-02T12:33:01.190Z</updated>
         <content type="html"><![CDATA[그룹 더보이즈가 AAA 베스트 뮤지션 상을 수상했다. 더보이즈는 2일 서울 강서구 KBS 아레나에서 개최된 가수·배우 통합 시상식 '2021 Asia Artist Awards'(2021아시아아티스트어워즈, 이하 '2]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원호, AAA 베스트 뮤지션 상 수상 "더 열심히 춤추고 노래할 것"[2021 AAA]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003009851</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003009851"/>
-        <updated>2021-12-02T12:33:01.190Z</updated>
-        <content type="html"><![CDATA[가수 원호가 AAA 베스트 뮤지션 상을 수상했다. 원호는 2일 서울 강서구 KBS 아레나에서 개최된 가수·배우 통합 시상식 '2021 Asia Artist Awards'(2021아시아아티스트어워즈, 이하 '2021]]></content>
     </entry>
 </feed>
