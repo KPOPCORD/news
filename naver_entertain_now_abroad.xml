@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-02T03:23:40.299Z</updated>
+    <updated>2021-12-02T04:29:12.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하루에 피자 6판 먹다 코로나 기간 18㎏ 찐 美 여배우, 배역 놓칠 뻔한 사연]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000518027</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000518027"/>
+        <updated>2021-12-02T04:29:11.325Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박은해 기자] 할리우드 배우 제니퍼 쿨리지(Jennifer Coolidge)가 신종코로나바이러스감염증(코로나19) 유행 기간 동안 체중이 급격히 늘었다고 밝혔다. 12월 1일(현지 시간) 미국 매체 폭스 뉴]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['총기 사고' 알렉 볼드윈 "내가 방아쇠 당긴 적 없어" [엑's 할리우드]]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001380501</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000835151</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000835151"/>
         <updated>2021-12-01T08:26:47.424Z</updated>
-        <content type="html"><![CDATA[그룹 아이브(IVE)의 첫 번째 싱글 '일레븐(ELEVEN)' 쇼케이스가 1일 오후 서울 광진구 광장동 예스24라이브홀에서 열렸다. 아이브 장원영이 신곡 무대를 선보이고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장원영 '무대에 누워' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000835150</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000835150"/>
-        <updated>2021-12-01T08:26:47.425Z</updated>
         <content type="html"><![CDATA[그룹 아이브(IVE)의 첫 번째 싱글 '일레븐(ELEVEN)' 쇼케이스가 1일 오후 서울 광진구 광장동 예스24라이브홀에서 열렸다. 아이브 장원영이 신곡 무대를 선보이고 있다.]]></content>
     </entry>
 </feed>
