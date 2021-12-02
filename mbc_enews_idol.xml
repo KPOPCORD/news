@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 18:25:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 19:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[포토] 임영웅, '사랑해요~']]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332306</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332306</guid>
+            <pubDate>Thu, 02 Dec 2021 19:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332306">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/03/67548d50-719c-497b-a21d-3ed72848a7ec.jpg" alt="[포토] 임영웅, '사랑해요~'">        <div class="text-box">            <p class="summary">[포토] 임영웅, '사랑해요~'</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/03/67548d50-719c-497b-a21d-3ed72848a7ec.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[포토] 한소희, 'AAA+']]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/332304</link>
@@ -86,14 +94,6 @@
             <pubDate>Thu, 02 Dec 2021 17:26:09 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332291">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/03/59ac4414-0e12-4c76-af8c-d2d5b25d79b0.jpg" alt="[포토] 에스파 윈터, '잘봐~ 윈터 계절이다'">        <div class="text-box">            <p class="summary">[포토] 에스파 윈터, '잘봐~ 윈터 계절이다'</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/03/59ac4414-0e12-4c76-af8c-d2d5b25d79b0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 에스파, '사뿐~']]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332290</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332290</guid>
-            <pubDate>Thu, 02 Dec 2021 17:26:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332290">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/03/332d60a0-ac0b-4919-ade3-ae734e4745e6.jpg" alt="[포토] 에스파, '사뿐~'">        <div class="text-box">            <p class="summary">[포토] 에스파, '사뿐~'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/03/332d60a0-ac0b-4919-ade3-ae734e4745e6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
