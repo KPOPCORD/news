@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-02T21:18:46.007Z</updated>
+    <updated>2021-12-02T22:22:11.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한소희 '감탄 나오는 드레스 자태' [MK화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000835563</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000835563"/>
+        <updated>2021-12-02T22:22:10.992Z</updated>
+        <content type="html"><![CDATA[2021 아시아 아티스트 어워즈가 2일 오후 서울 강서구 화곡동 KBS아레나에서 열렸다. 한소희가 포토타임을 갖고 있다. 한편 2021 아시아 아티스트 어워즈는 슈퍼주니어 이특과 아이브 장원영이 MC를 맡았다. 배우]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임영웅 '영웅본색 히어로' [MK화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000835562</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000835562"/>
+        <updated>2021-12-02T22:22:10.992Z</updated>
+        <content type="html"><![CDATA[2021 아시아 아티스트 어워즈가 2일 오후 서울 강서구 화곡동 KBS아레나에서 열렸다. 임영웅이 포토타임을 갖고 있다. 한편 2021 아시아 아티스트 어워즈는 슈퍼주니어 이특과 아이브 장원영이 MC를 맡았다. 배우]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“제니퍼 로페즈와 두 번째 사랑 아름다워” ♥벤 애플렉, “실패로부터 배운다”[해외이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003559784</id>
@@ -164,20 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000835518</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000835518"/>
         <updated>2021-12-02T10:23:20.106Z</updated>
-        <content type="html"><![CDATA[2021 아시아 아티스트 어워즈가 2일 오후 서울 강서구 화곡동 KBS아레나에서 열렸다. 에스파 윈터가 포토타임을 갖고 있다. 한편 2021 아시아 아티스트 어워즈는 슈퍼주니어 이특과 아이브 장원영이 MC를 맡았다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에스파 지젤 '매력이 넘쳐' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000835517</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000835517"/>
-        <updated>2021-12-02T10:23:20.107Z</updated>
-        <content type="html"><![CDATA[2021 아시아 아티스트 어워즈가 2일 오후 서울 강서구 화곡동 KBS아레나에서 열렸다. 에스파 지젤이 포토타임을 갖고 있다. 한편 2021 아시아 아티스트 어워즈는 슈퍼주니어 이특과 아이브 장원영이 MC를 맡았다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에스파 윈터 '겨울 꽃이 피었습니다' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000835516</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000835516"/>
-        <updated>2021-12-02T10:23:20.109Z</updated>
         <content type="html"><![CDATA[2021 아시아 아티스트 어워즈가 2일 오후 서울 강서구 화곡동 KBS아레나에서 열렸다. 에스파 윈터가 포토타임을 갖고 있다. 한편 2021 아시아 아티스트 어워즈는 슈퍼주니어 이특과 아이브 장원영이 MC를 맡았다.]]></content>
     </entry>
 </feed>
