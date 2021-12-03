@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-03T11:19:02.716Z</updated>
+    <updated>2021-12-03T12:33:16.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단, 2년 만의 오프라인 콘서트 성료..81만 아미와 '눈맞춤']]></title>
+        <id>https://entertain.v.daum.net/v/20211203210950062</id>
+        <link href="https://entertain.v.daum.net/v/20211203210950062"/>
+        <updated>2021-12-03T12:32:39.315Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 그룹 방탄소년단이 2년 만의 대면 콘서트로 아미(ARMY)들과 뜻깊은 추억을 만들었다. 방탄소년단은 지난 11월 27~28일, 12월 1~2일 (이하 현지시간) 미국 로스앤젤레스 소파이 스타디움에서 열린 '비티에스 퍼미션 투 댄스 온 스테이지 - 엘에이(BTS PERMISSION TO DANCE ON STAGE - LA)'를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[81만 온라인 아미도 함께..방탄소년단, 2년만 대면 공연 성료]]></title>
         <id>https://entertain.v.daum.net/v/20211203192652667</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211203165411737"/>
         <updated>2021-12-03T08:26:09.477Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 그룹 방탄소년단이 오는 2022년 서울 공연을 개최한다.소속사 빅히트 엔터테인먼트는 3일 사회적관계망서비스(SNS)를 통해 “See you in Seoul, MARCH 2022”(2022년 3월, 서울에서 봐요) 게시글을 올리며 서울 공연 개최 소식을 알렸다.방탄소년단은 지난달 27~28일, 12월 1~2일 미국 로스앤젤레스에서 ‘BTS P]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["아미 있는 곳이 무대"..BTS, 2년 만 오프라인 공연에 '울컥']]></title>
-        <id>https://entertain.v.daum.net/v/20211203163912303</id>
-        <link href="https://entertain.v.daum.net/v/20211203163912303"/>
-        <updated>2021-12-03T08:26:09.477Z</updated>
-        <content type="html"><![CDATA[그룹 방탄소년단(BTS)이 ‘아미(ARMY, 방탄소년단 팬클럽)’와 함께한 LA 마지막 콘서트에서 열정을 불태웠다. 방탄소년단(RM, 진, 슈가, 제이홉, 지민, 뷔, 정국)은 2일(이하 현지시간) 미국 로스앤젤레스 소파이(SoFi) 스타디움에서 'BTS 퍼미션 투 댄스 온 스테이지-LA(BTS PERMISSION TO DANCE ON STAGE-LA)]]></content>
     </entry>
 </feed>
