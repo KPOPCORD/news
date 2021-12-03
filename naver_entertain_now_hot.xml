@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-12-03T16:33:57.691Z</updated>
+    <updated>2021-12-03T17:28:11.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박진희, 능동+독립 성향 ‘킹 메이커’ 활약 (태종 이방원)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000948866</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000948866"/>
+        <updated>2021-12-03T17:28:03.368Z</updated>
+        <content type="html"><![CDATA[배우 박진희가 KBS1 새 대하사극 ‘태종 이방원’을 통해 역사 속 살아있는 인물인 원경왕후 민씨의 모습을 생생하게 그려낸다. 오는 12월 11일 토요일 밤 9시 40분 첫 방송 되는 KBS 1TV 새 대하사극 ‘태]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정해인♥지수→유인나 단체포스터, 18일 첫방 (설강화)]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000948865</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000948854"/>
         <updated>2021-12-03T13:26:36.523Z</updated>
         <content type="html"><![CDATA[본업인 걸그룹을 내려놓고 본격적으로 ‘희극인’(예능인) 삶을 시작한 이미주 새 프로필 사진이 공개됐다. 소속사 안테나뮤직은 3일 공식 인스타그램 계정을 통해 “이미주 2021 새 프로필”이라는 글과 사진을 올렸다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[영상] 인피니트 성열·오마이걸 비니, 영화 '기억의 시간' 주인공 됐어요]]></title>
-        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005764007</id>
-        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005764007"/>
-        <updated>2021-12-03T13:26:36.533Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 박혜성 기자 = 오마이걸 비니와 인피니트의 성열, 두 아이돌이 스크린에 데뷔한다. 영화 '기억의 시간(감독 황경성)' 제작발표회가 3일 오후 경기 고양시 갤러리카페 봄에서 열렸다. 이날 제작발표회에는]]></content>
     </entry>
 </feed>

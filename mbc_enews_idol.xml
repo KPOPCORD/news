@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 16:33:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 17:28:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘나혼산’ 샤이니 키, 데뷔 전 예명 ‘섹시 마스터 범키 기범’에 당황]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332401</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332401</guid>
+            <pubDate>Fri, 03 Dec 2021 17:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332401">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/04/ts6Ui0o0uAjZ637741785618591950.jpg" alt="‘나혼산’ 샤이니 키, 데뷔 전 예명 ‘섹시 마스터 범키 기범’에 당황">        <div class="text-box">            <p class="summary">‘나혼산’ 샤이니 키, 데뷔 전 예명 ‘섹시 마스터 범키 기범’에 당황</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/04/ts6Ui0o0uAjZ637741785618591950.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘나 혼자 산다’ 샤이니 키 “수간호사 엄마, 간 정말 못 맞춰”]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/332400</link>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 03 Dec 2021 01:05:41 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332338">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/03/ab934152-516c-4f5b-b48c-f83dac91aede.jpg" alt="강다니엘·에스파→이무진·투바투, 'KBS가요대축제' 출격 [공식입장]">        <div class="text-box">            <p class="summary">강다니엘·에스파→이무진·투바투, 'KBS가요대축제' 출격 [공식입장]</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/03/ab934152-516c-4f5b-b48c-f83dac91aede.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 진, 생일 축하 美 타임스퀘어 대형 전광판 장식]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332335</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332335</guid>
-            <pubDate>Fri, 03 Dec 2021 01:05:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332335">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/03/507b64cb-e86b-43f8-b9eb-9118373fee1f.jpg" alt="방탄소년단 진, 생일 축하 美 타임스퀘어 대형 전광판 장식">        <div class="text-box">            <p class="summary">방탄소년단 진, 생일 축하 美 타임스퀘어 대형 전광판 장식</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/03/507b64cb-e86b-43f8-b9eb-9118373fee1f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

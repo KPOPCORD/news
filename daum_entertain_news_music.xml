@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-03T16:33:57.685Z</updated>
+    <updated>2021-12-03T17:28:11.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['쇼미더머니10' 조광일 최종 우승..코드 쿤스트 울컥]]></title>
+        <id>https://entertain.v.daum.net/v/20211204022216016</id>
+        <link href="https://entertain.v.daum.net/v/20211204022216016"/>
+        <updated>2021-12-03T17:27:37.355Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 공미나 기자] /사진=Mnet '쇼미더머니10' 방송화면 캡처'쇼미더머니10' 최종 우승의 주인공은 조광일이었다. 3일 오후 방송된 Mnet '쇼미더머니10'에서는 대망의 파이널 무대가 펼쳐진 가운데, 조광일이 최종 우승자로 선정됐다. '쇼미더머니10' 파이널 무대는 코로나19 방역 지침을 준수하기 위해 일부 사전녹화로 진행됐다. 파이널 경연은]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['쇼미더머니10' 조광일 최종 우승, 2개월 여정 마무리]]></title>
+        <id>https://entertain.v.daum.net/v/20211204020206999</id>
+        <link href="https://entertain.v.daum.net/v/20211204020206999"/>
+        <updated>2021-12-03T17:27:37.374Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 박상후 기자] '쇼미더머니10'가 래퍼 조광일의 우승으로, 2개월의 여정을 마무리했다. 3일 밤 방송된 Mnet 예능프로그램 '쇼미더머니10'에서는 TOP4 쿤타, 비오, 신스, 조광일의 파이널 경연이 펼쳐졌다. 이날 MC 김진표는 파이널에 오른 네 명의 래퍼를 공개했다. 먼저 모습을 드러낸 쿤타는 2차 예선에서 선보였던 랩으로 이목을 끌었]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단 진 오늘 생일..아이돌픽 이벤트 주인공]]></title>
         <id>https://entertain.v.daum.net/v/20211204000053573</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211203190017358"/>
         <updated>2021-12-03T10:23:16.101Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김예은 기자) 방탄소년단이 내년 3월, 서울에서 국내 팬들을 만난다.&nbsp; 그룹 방탄소년단이 지난 11월 27일, 28일과 12월 1일, 2일 (이하 현지시간) 미국 로스앤젤레스 소파이 스타디움에서 열린 ‘BTS PERMISSION TO DANCE ON STAGE - LA’를 성황리에 마쳤다. 이번 콘서트는 방탄소년단이 지난 2019년 서울에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['뮤직뱅크' SF9, 출연 없이 1위..장원영, 아이브로 데뷔]]></title>
-        <id>https://entertain.v.daum.net/v/20211203185652336</id>
-        <link href="https://entertain.v.daum.net/v/20211203185652336"/>
-        <updated>2021-12-03T10:23:16.102Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 공미나 기자] /사진=KBS 2TV '뮤직뱅크' 방송화면 캡처 그룹 SF9이 에스파를 꺾고 '뮤직뱅크' 1위에 올랐다. 3일 오후 방송된 KBS 2TV '뮤직뱅크'에서는 SF9의 '트라우마 (Trauma)'가 에스파의 '새비지 (Savage)'를 꺾고 12월 첫째 주 1위를 차지했다. 이날 두 팀 모두 '뮤직뱅크'에 출연하지 않았다. '트라우마']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SF9, 방송 출연 없이도 '뮤직뱅크' 1위 등극]]></title>
-        <id>https://entertain.v.daum.net/v/20211203185337314</id>
-        <link href="https://entertain.v.daum.net/v/20211203185337314"/>
-        <updated>2021-12-03T10:23:16.103Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 그룹 SF9(영빈 인성 재윤 다원 로운 주호 태양 휘영 찬희)이 뮤직뱅크에서 1위를 차지했다. SF9은 12월 3일 오후 방송된 KBS2 ‘뮤직뱅크’에서 미니 10집 타이틀곡 ‘Trauma’로 1위 자리에 올랐다. SF9은 이 곡으로 지난 11월 28일 음악 방송 활동을 마무리했지만, 음악방송에서 정상에 오르는 성과를 거뒀다. ‘T]]></content>
     </entry>
 </feed>
