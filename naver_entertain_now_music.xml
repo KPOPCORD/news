@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-03T12:33:16.965Z</updated>
+    <updated>2021-12-03T13:26:44.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단, 오프라인 콘서트에 美·英 외신 극찬 "우연히 세계 최고 밴드 된 것 아니다"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0001920514</id>
+        <link href="https://entertain.naver.com/now/read?oid=016&amp;aid=0001920514"/>
+        <updated>2021-12-03T13:26:29.223Z</updated>
+        <content type="html"><![CDATA[[헤럴드경제 = 서병기 선임기자]그룹 방탄소년단의 콘서트 'BTS PERMISSION TO DANCE ON STAGE - LA'에 해외 주요 외신들이 찬사를 보내고 있다. 방탄소년단은 지난달 27~28일과 12월 1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단 LA 콘서트, 온오프라인으로 81만명 지켜봤다]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010870425</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=629&amp;aid=0000119703"/>
         <updated>2021-12-03T09:22:25.043Z</updated>
         <content type="html"><![CDATA['불후의 명곡'에선 박산희와 듀엣 예고 가수 류정운이 '유희열의 스케치북', '불후의 명곡에' 연이어 출연하며 주말 밤 귀호강을 책임진다. 류정운은 3일 방송되는 KBS2 '유희열의 스케치북'에 출연해 폭발적인 가창]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘뮤직뱅크’ 안예은, 신곡 ‘소식’ 무대로 뽐낸 매혹적 동양美]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000835670</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000835670"/>
-        <updated>2021-12-03T09:22:25.044Z</updated>
-        <content type="html"><![CDATA[싱어송라이터 안예은이 독보적 개성과 색깔로 ‘뮤직뱅크’를 장악했다. 안예은은 3일 오후 5시 방송된 KBS2 ‘뮤직뱅크’에 출연해 한국적 분위기와 동양미가 돋보이는 타이틀곡 ‘소식' 무대를 보여 팬들 시선을 단번에]]></content>
     </entry>
 </feed>
