@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-03T20:22:41.677Z</updated>
+    <updated>2021-12-03T21:19:36.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“환경운동 한다면서…” 레오나르도 디카프리오, 제트기 타고 엄청난 탄소 배출[해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003560021</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003560021"/>
+        <updated>2021-12-03T21:19:36.182Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]환경운동가로 유명한 레오나드로 디카프리오(47)가 제트기를 타고 탄소를 배출한다는 지적이 나왔다. 페이지식스는 2일(현지시간) “환경 운동가 레오나르도 디카프리오가 자선 행사를 공동 주최]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[패리스X브리트니, 크롭티에 풋풋했던 시절 "멋진 신부가 되길!"[Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004521238</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000835622</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000835622"/>
         <updated>2021-12-03T05:21:05.211Z</updated>
-        <content type="html"><![CDATA[3일 오후 고양시 일산의 한 카페에서 시네라마 ‘기억의 시간’ 제작발표회가 열렸다. 이날 제작발표회에는 인피니트 성열, 오마이걸 비니, 남규희, 유연수, 박은우, 강동주가 참석했다. 성열이 포토타임을 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성열 '롱코트 잘 어울리죠' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000835620</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000835620"/>
-        <updated>2021-12-03T05:21:05.216Z</updated>
         <content type="html"><![CDATA[3일 오후 고양시 일산의 한 카페에서 시네라마 ‘기억의 시간’ 제작발표회가 열렸다. 이날 제작발표회에는 인피니트 성열, 오마이걸 비니, 남규희, 유연수, 박은우, 강동주가 참석했다. 성열이 포토타임을 갖고 있다.]]></content>
     </entry>
 </feed>

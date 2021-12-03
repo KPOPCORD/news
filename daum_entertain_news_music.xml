@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-03T20:22:41.692Z</updated>
+    <updated>2021-12-03T21:19:36.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['쇼미더머니10' 조광일, 치열한 노력이 빚어낸 우승]]></title>
+        <id>https://entertain.v.daum.net/v/20211204060014898</id>
+        <link href="https://entertain.v.daum.net/v/20211204060014898"/>
+        <updated>2021-12-03T21:19:06.331Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 박상후 기자] '쇼미더머니10'에서 래퍼 조광일이 치열한 노력의 결실을 맺었다. 3일 밤 방송된 Mnet 예능프로그램 '쇼미더머니10'에서는 TOP4 쿤타, 비오, 신스, 조광일의 파이널 경연이 펼쳐졌다. 이날 조광일은 파이널 경연 전 자신의 집에서 개코, 코드 쿤스트 프로듀서를 만났다. 개코는 깔끔하게 정돈된 집을 보며 "생각보다 깨끗해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['쇼미더머니10' 조광일 최종 우승..코드 쿤스트 울컥]]></title>
         <id>https://entertain.v.daum.net/v/20211204022216016</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211203190512419"/>
         <updated>2021-12-03T10:23:16.101Z</updated>
         <content type="html"><![CDATA[[동아닷컴] 그룹 방탄소년단이 지난 11월 27~28일, 12월 1~2일 (이하 현지시간) 미국 로스앤젤레스 소파이 스타디움에서 열린 ‘BTS PERMISSION TO DANCE ON STAGE - LA’를 성황리에 마쳤다. 이번 콘서트는 방탄소년단이 지난 2019년 서울에서 펼쳤던 ‘2019 BTS WORLD TOUR ‘LOVE YOURSELF: SPE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단, 내년 3월 서울 콘서트 개최..LA 공연 성료]]></title>
-        <id>https://entertain.v.daum.net/v/20211203190017358</id>
-        <link href="https://entertain.v.daum.net/v/20211203190017358"/>
-        <updated>2021-12-03T10:23:16.101Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김예은 기자) 방탄소년단이 내년 3월, 서울에서 국내 팬들을 만난다.&nbsp; 그룹 방탄소년단이 지난 11월 27일, 28일과 12월 1일, 2일 (이하 현지시간) 미국 로스앤젤레스 소파이 스타디움에서 열린 ‘BTS PERMISSION TO DANCE ON STAGE - LA’를 성황리에 마쳤다. 이번 콘서트는 방탄소년단이 지난 2019년 서울에서]]></content>
     </entry>
 </feed>

@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 20:22:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 21:19:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오마이걸 유아, 섹시+러블리 거울 셀카…완벽하네 [인스타]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332391</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332391</guid>
+            <pubDate>Fri, 03 Dec 2021 21:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332391">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/03/Mbh0HKiEOV8L637741720412607898.jpg" alt="오마이걸 유아, 섹시+러블리 거울 셀카…완벽하네 [인스타] ">        <div class="text-box">            <p class="summary">오마이걸 유아, 섹시+러블리 거울 셀카…완벽하네 [인스타] </p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/03/Mbh0HKiEOV8L637741720412607898.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘나혼산’ 샤이니 키, 데뷔 전 예명 ‘섹시 마스터 범키 기범’에 당황]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/332401</link>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 03 Dec 2021 01:05:41 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332341">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/03/c0a5fef0-a533-4456-a150-9de0ee6363ba.jpg" alt="'야생돌' 노윤호, 스테이지 배틀 우승…'음중' 무대 오른다">        <div class="text-box">            <p class="summary">'야생돌' 노윤호, 스테이지 배틀 우승…'음중' 무대 오른다</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/03/c0a5fef0-a533-4456-a150-9de0ee6363ba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강다니엘·에스파→이무진·투바투, 'KBS가요대축제' 출격 [공식입장]]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332338</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332338</guid>
-            <pubDate>Fri, 03 Dec 2021 01:05:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332338">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/03/ab934152-516c-4f5b-b48c-f83dac91aede.jpg" alt="강다니엘·에스파→이무진·투바투, 'KBS가요대축제' 출격 [공식입장]">        <div class="text-box">            <p class="summary">강다니엘·에스파→이무진·투바투, 'KBS가요대축제' 출격 [공식입장]</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/03/ab934152-516c-4f5b-b48c-f83dac91aede.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
