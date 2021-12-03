@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-12-03T15:23:05.799Z</updated>
+    <updated>2021-12-03T16:33:57.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정해인♥지수→유인나 단체포스터, 18일 첫방 (설강화)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000948865</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000948865"/>
+        <updated>2021-12-03T16:33:50.001Z</updated>
+        <content type="html"><![CDATA[JTBC 토일드라마 ‘설강화 : snowdrop’(극본 유현미 연출 조현탁, 약칭 설강화) 단체 포스터가 공개됐다. 제작진이 공개한 단체 포스터는 흑백 버전으로 구성돼 출연 배우 23명이 담겼다. 정해인을 중심으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신지수 "만삭 때 50kg, 출산 직전까지 입덧…결혼 후 TV 안 봤다" ('해방타운')[종합]]]></title>
         <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003808996</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005764007"/>
         <updated>2021-12-03T13:26:36.533Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 박혜성 기자 = 오마이걸 비니와 인피니트의 성열, 두 아이돌이 스크린에 데뷔한다. 영화 '기억의 시간(감독 황경성)' 제작발표회가 3일 오후 경기 고양시 갤러리카페 봄에서 열렸다. 이날 제작발표회에는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[혜은이, 前남편 김동현 빚보증으로 빚만 200억 "50평 아파트 5채+母 집 팔아" ('연중')]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003808988</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003808988"/>
-        <updated>2021-12-03T13:26:36.534Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 정안지 기자] 가수 혜은이가 30년 동안 무려 100억원에 달하는 빚을 청산했다. 3일 방송된 KBS 2TV '연중 라이브'에서는 '억' 소리나는 빚더미를 청산한 후 빛을 본 스타를 공개했다. 이날]]></content>
     </entry>
 </feed>

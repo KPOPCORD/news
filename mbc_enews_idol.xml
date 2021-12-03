@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 15:23:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 16:33:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘나 혼자 산다’ 샤이니 키 “수간호사 엄마, 간 정말 못 맞춰”]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332400</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332400</guid>
+            <pubDate>Fri, 03 Dec 2021 16:33:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332400">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/04/vzHWYCqJtY5I637741768388747421.jpg" alt="‘나 혼자 산다’ 샤이니 키 “수간호사 엄마, 간 정말 못 맞춰”">        <div class="text-box">            <p class="summary">‘나 혼자 산다’ 샤이니 키 “수간호사 엄마, 간 정말 못 맞춰”</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/04/vzHWYCqJtY5I637741768388747421.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오마이걸 효정, 크리스마스도 아닌데 벌써 찾아온 요정 [인스타]]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/332377</link>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 03 Dec 2021 01:05:41 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332335">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/03/507b64cb-e86b-43f8-b9eb-9118373fee1f.jpg" alt="방탄소년단 진, 생일 축하 美 타임스퀘어 대형 전광판 장식">        <div class="text-box">            <p class="summary">방탄소년단 진, 생일 축하 美 타임스퀘어 대형 전광판 장식</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/03/507b64cb-e86b-43f8-b9eb-9118373fee1f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고스트나인, '아이돌라디오2'서 엉뚱 반전 매력·케미 발산]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332334</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332334</guid>
-            <pubDate>Fri, 03 Dec 2021 01:05:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332334">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/03/355d0d19-10ec-404f-8a5b-dd20b5eb6852.jpg" alt="고스트나인, '아이돌라디오2'서 엉뚱 반전 매력·케미 발산">        <div class="text-box">            <p class="summary">고스트나인, '아이돌라디오2'서 엉뚱 반전 매력·케미 발산</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/03/355d0d19-10ec-404f-8a5b-dd20b5eb6852.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
