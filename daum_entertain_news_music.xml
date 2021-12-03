@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-03T10:23:46.603Z</updated>
+    <updated>2021-12-03T11:19:02.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[81만 온라인 아미도 함께..방탄소년단, 2년만 대면 공연 성료]]></title>
+        <id>https://entertain.v.daum.net/v/20211203192652667</id>
+        <link href="https://entertain.v.daum.net/v/20211203192652667"/>
+        <updated>2021-12-03T11:18:31.561Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 공미나 기자] /사진제공=빅히트 뮤직/사진제공=빅히트 뮤직그룹 방탄소년단이 2년만 대면 공연으로 전 세계 아미들에게 큰 감동을 선사했다. 방탄소년단은 지난 11월 27~28일, 12월 1~2일 (이하 현지시간) 미국 로스앤젤레스 소파이 스타디움에서 열린 'BTS PERMISSION TO DANCE ON STAGE - LA'를 성황리에 마쳤다. 이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단, 2년 만의 대면공연 대성공..81만3000명 환호]]></title>
         <id>https://entertain.v.daum.net/v/20211203190934479</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211203163912303"/>
         <updated>2021-12-03T08:26:09.477Z</updated>
         <content type="html"><![CDATA[그룹 방탄소년단(BTS)이 ‘아미(ARMY, 방탄소년단 팬클럽)’와 함께한 LA 마지막 콘서트에서 열정을 불태웠다. 방탄소년단(RM, 진, 슈가, 제이홉, 지민, 뷔, 정국)은 2일(이하 현지시간) 미국 로스앤젤레스 소파이(SoFi) 스타디움에서 'BTS 퍼미션 투 댄스 온 스테이지-LA(BTS PERMISSION TO DANCE ON STAGE-LA)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['방과후 설렘' 옥주현 "칭찬은 단체방에서, 쓴소리는 개인톡"]]></title>
-        <id>https://entertain.v.daum.net/v/20211203162605872</id>
-        <link href="https://entertain.v.daum.net/v/20211203162605872"/>
-        <updated>2021-12-03T08:26:09.477Z</updated>
-        <content type="html"><![CDATA[‘방과후 설렘’에 출연 중인 옥주현이 연습생들을 향한 진정성 넘치는 마음을 전했다. 옥주현은 지난 11월 28일 첫 방송을 시작한 MBC 걸그룹 오디션 프로그램 ‘방과후 설렘’에서 연습생들의 음악적 역량을 키우며 가능성을 입증할 수 있도록 전폭 지원하는 프로듀서이자 담임선생님으로 출연 중이다. 제작발표회에서는 담임선생님으로서 가져야 할 태도부터 연습생]]></content>
     </entry>
 </feed>
