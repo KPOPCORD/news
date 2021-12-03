@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 07:21:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 08:26:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오마이걸 효정, 크리스마스도 아닌데 벌써 찾아온 요정 [인스타]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332377</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332377</guid>
+            <pubDate>Fri, 03 Dec 2021 08:26:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332377">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/03/3593e480-e790-4728-877d-ef1e10f8a157.jpg" alt="오마이걸 효정, 크리스마스도 아닌데 벌써 찾아온 요정 [인스타]">        <div class="text-box">            <p class="summary">오마이걸 효정, 크리스마스도 아닌데 벌써 찾아온 요정 [인스타]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/03/3593e480-e790-4728-877d-ef1e10f8a157.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['방과후 설렘' 옥주현 "칭찬은 단체톡, 쓴소리는 개인톡"]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/332372</link>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 03 Dec 2021 01:05:41 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332334">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/03/355d0d19-10ec-404f-8a5b-dd20b5eb6852.jpg" alt="고스트나인, '아이돌라디오2'서 엉뚱 반전 매력·케미 발산">        <div class="text-box">            <p class="summary">고스트나인, '아이돌라디오2'서 엉뚱 반전 매력·케미 발산</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/03/355d0d19-10ec-404f-8a5b-dd20b5eb6852.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세븐틴 도겸→우지 "감개무량…캐럿 사랑해"(2021AAA)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332331</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332331</guid>
-            <pubDate>Fri, 03 Dec 2021 01:05:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332331">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/03/57a27eb3-8f2c-4465-9d59-c2b2e98f3f6a.jpg" alt="세븐틴 도겸→우지 " 감개무량…캐럿="" 사랑해"(2021aaa)"="">        <div class="text-box">            <p class="summary">세븐틴 도겸→우지 "감개무량…캐럿 사랑해"(2021AAA)</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/03/57a27eb3-8f2c-4465-9d59-c2b2e98f3f6a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
