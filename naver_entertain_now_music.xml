@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-03T18:26:36.689Z</updated>
+    <updated>2021-12-03T19:17:34.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안테나→더보이즈, 코로나로 지친 마음 달래 줄 캐럴송]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010870509</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010870509"/>
+        <updated>2021-12-03T19:17:20.490Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]안소윤 인턴 기자 = 크리스마스를 앞둔 추운 겨울 날, 코로나 19로 지친 이들의 마음을 위로하기 위해 아티스트들이 나섰다. 연말 분위기를 고스란히 느낄 수 있는 캐럴송이 크리스마스 선물처럼 찾아왔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['아이돌리그' 버가부 VS 빌리, '고음 대결']]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010870505</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010870505"/>
+        <updated>2021-12-03T19:17:20.493Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]김예지 인턴 기자 = 걸그룹 '버가부(bugAboo)'가 숨겨 왔던 예능감을 드러낸다. 버가부는 오는 4일 오후 8시 방송되는 STATV(스타티비) '아이돌리그'에 출연할 예정이다. 이날 버가부는 '윤]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스타쉽 신예' 아이브, 리얼리티 선보인다…'1,2,3 아이브']]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010870499</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003010318"/>
         <updated>2021-12-03T10:23:33.048Z</updated>
         <content type="html"><![CDATA[그룹 온앤오프(ONF)가 '뮤직뱅크'에서 컴백했다. 온앤오프는 3일 오후 방송된 KBS 2TV '뮤직뱅크'에 출연해 미니 6집 '구스범스 (Goosebumps)' 컴백 무대를 가졌다. 이번 앨범은 온앤오프 멤버 전원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['작두록' 악단광칠, 美 시애틀 '라이브 온 KEXP' 출연]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010870357</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010870357"/>
-        <updated>2021-12-03T10:23:33.049Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 밴드 '악단광칠'이 세계 유명 밴드들의 성지로 통하는 미국 시애틀의 유서 깊은 공영 라디오 방송 KEXP에 출연했다. 3일 문화상인 보부에 따르면 '라이브 온(Live on) KEXP']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더보이즈 "'2021 AAA' 2관왕..더비가 주는 상 같아"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003010317</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003010317"/>
-        <updated>2021-12-03T09:22:25.034Z</updated>
-        <content type="html"><![CDATA['2021 AAA'에서 2관왕의 영예를 안은 그룹 더보이즈(THE BOYZ)가 팬들에게 고마움을 전했다. 더보이즈는 지난 2일 온라인 공연으로 치러진 '2021 아시아아티스트어워즈(Asia Artist Awards,]]></content>
     </entry>
 </feed>
