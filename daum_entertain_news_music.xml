@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-03T13:26:44.756Z</updated>
+    <updated>2021-12-03T14:21:33.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['방과후 설렘' 옥주현 "칭찬은 단체톡, 쓴소리는 개인톡으로"]]></title>
+        <id>https://entertain.v.daum.net/v/20211203224121994</id>
+        <link href="https://entertain.v.daum.net/v/20211203224121994"/>
+        <updated>2021-12-03T14:20:55.965Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 박상후 기자] '방과후 설렘' 뮤지컬 배우 옥주현이 연습생들을 향한 진정성 넘치는 마음을 전했다. 옥주현은 지난달 28일 첫 방송된 MBC 예능프로그램 '방과후 설렘'에서 연습생들의 음악적 역량을 키우며 가능성을 입증할 수 있도록 전폭 지원하는 프로듀서이자 담임선생님으로 출연 중이다. 특히 옥주현은 제작발표회에서 ‘방과후 설렘’에 담임선생님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이승윤, 새 정규 '폐허가 된다 해도' 초동 6만 장 돌파]]></title>
         <id>https://entertain.v.daum.net/v/20211203222007832</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211203174532256"/>
         <updated>2021-12-03T09:22:08.165Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박은해 기자] 그룹 더보이즈(THE BOYZ)가 ‘2021 아시아아티스트어워즈(Asia Artist Awards, 이하 ‘2021 AAA’)’ 2관왕에 올랐다. 더보이즈는 지난 12월 2일 온라인 공연으로 치러진 ‘2021 AAA’ 시상식에 참석해 ‘아시아 셀러브리티상’, ‘베스트 뮤지션상’을 동시 수상, 총 2관왕을 차지했다. 이번 더보이즈의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['뮤뱅' T1419, '무궁화 꽃이 피었습니다'로 꿈 활짝 피웠다]]></title>
-        <id>https://entertain.v.daum.net/v/20211203174407212</id>
-        <link href="https://entertain.v.daum.net/v/20211203174407212"/>
-        <updated>2021-12-03T09:22:08.168Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 그룹 T1419가 신곡&nbsp;'무궁화 꽃이 피었습니다'로 꿈을 활짝 피웠다. T1419(티일사일구)는&nbsp;3일 오후 방송된&nbsp;KBS2 '뮤직뱅크'에 출연해 신곡&nbsp;'무궁화 꽃이 피었습니다(Red Light, Green Light)'&nbsp;첫 공중파 무대를 선사했다. T1419는 지난&nbsp;2일 공개된 퍼포먼스 비디오 속 의상을 입고 등장해 시청자들의 눈길]]></content>
     </entry>
 </feed>
