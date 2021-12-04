@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-04T07:21:47.014Z</updated>
+    <updated>2021-12-04T08:26:58.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[비욘세도 이건 어렵다..살짝 부담스러운 '스쿨룩' 패션[Oh!llywood]]]></title>
+        <title type="html"><![CDATA[송지효만 숏컷? “나도 숏컷”, 빌리 아일리시 금발 버리고 파격 변신[해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003560101</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003560101"/>
+        <updated>2021-12-04T08:26:57.932Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘그래미 여신’ 빌리 아일리시가 파격적 헤어스타일을 선보였다. 그는 3일(현지시간) “나 보고 싶어?”라는 글과 함께 사진을 게재했다. 사진 속 빌리 아일리시는 초콜릿빛이 나는 짧은 헤어]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비욘세라도 이건 좀..살짝 부담스러운 '스쿨룩' 패션[Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004521628</id>
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004521628"/>
         <updated>2021-12-04T06:26:49.611Z</updated>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000835630</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000835630"/>
         <updated>2021-12-03T06:26:46.359Z</updated>
-        <content type="html"><![CDATA[3일 오후 고양시 일산의 한 카페에서 시네라마 ‘기억의 시간’ 제작발표회가 열렸다. 이날 제작발표회에는 인피니트 성열, 오마이걸 비니, 남규희, 유연수, 박은우, 강동주가 참석했다. 비니가 포토타임을 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비니 '매혹적인 눈빛' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000835629</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000835629"/>
-        <updated>2021-12-03T06:26:46.362Z</updated>
         <content type="html"><![CDATA[3일 오후 고양시 일산의 한 카페에서 시네라마 ‘기억의 시간’ 제작발표회가 열렸다. 이날 제작발표회에는 인피니트 성열, 오마이걸 비니, 남규희, 유연수, 박은우, 강동주가 참석했다. 비니가 포토타임을 갖고 있다.]]></content>
     </entry>
 </feed>
