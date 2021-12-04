@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-04T02:37:58.648Z</updated>
+    <updated>2021-12-04T03:21:54.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조지 클루니, “414억짜리 항공사 광고 거절했다” 이유는?[해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003560071</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003560071"/>
+        <updated>2021-12-04T03:21:53.838Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 조지 클루니(60)가 거액의 항공사 광고를 거절한 이유를 밝혔다. 그는 3일(현지시간) 영국 가디언과 인터뷰에서 “항공사 광고의 하루치 비용으로 3,500만 달러(약 414]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTS 지민의 자작곡 '크리스마스 러브', 유튜브 '최다→최단→4천만 뷰 돌파' 기록 행진 진행중]]></title>
         <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003809032</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000835628</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000835628"/>
         <updated>2021-12-03T06:26:46.364Z</updated>
-        <content type="html"><![CDATA[3일 오후 고양시 일산의 한 카페에서 시네라마 ‘기억의 시간’ 제작발표회가 열렸다. 이날 제작발표회에는 인피니트 성열, 오마이걸 비니, 남규희, 유연수, 박은우, 강동주가 참석했다. 비니가 포토타임을 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비니 '추워도 포기할 수 없는 하의실종 패션' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000835626</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000835626"/>
-        <updated>2021-12-03T06:26:46.365Z</updated>
         <content type="html"><![CDATA[3일 오후 고양시 일산의 한 카페에서 시네라마 ‘기억의 시간’ 제작발표회가 열렸다. 이날 제작발표회에는 인피니트 성열, 오마이걸 비니, 남규희, 유연수, 박은우, 강동주가 참석했다. 비니가 포토타임을 갖고 있다.]]></content>
     </entry>
 </feed>

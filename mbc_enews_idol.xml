@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Dec 2021 02:37:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Dec 2021 03:21:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트라이비 송선, ‘문명-최후의 섬’ 극한 상황 속 활력소 ‘톡톡’ (다큐플렉스)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332413</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332413</guid>
+            <pubDate>Sat, 04 Dec 2021 03:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332413">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/04/Jubl4Cmwf8KT637742159566523374.png" alt="트라이비 송선, ‘문명-최후의 섬’ 극한 상황 속 활력소 ‘톡톡’ (다큐플렉스)">        <div class="text-box">            <p class="summary">트라이비 송선, ‘문명-최후의 섬’ 극한 상황 속 활력소 ‘톡톡’ (다큐플렉스)</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/04/Jubl4Cmwf8KT637742159566523374.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘나혼산’ 샤이니 키, 깜짝 동창회→전현무·성훈, 허벅지 특훈 ‘폭소’]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/332407</link>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 03 Dec 2021 07:20:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332372">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/03/6305eb34-aff5-4665-94b7-aaa0abae4c81.jpg" alt="'방과후 설렘' 옥주현 " 칭찬은="" 단체톡,="" 쓴소리는="" 개인톡""="">        <div class="text-box">            <p class="summary">'방과후 설렘' 옥주현 "칭찬은 단체톡, 쓴소리는 개인톡"</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/03/6305eb34-aff5-4665-94b7-aaa0abae4c81.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 美 빌보드 연말 차트서 9개 부문 정상…"전 세계 지배"]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332370</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332370</guid>
-            <pubDate>Fri, 03 Dec 2021 07:20:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332370">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/03/2e8b385c-ef02-4886-b178-5aa637c14a27.jpg" alt="방탄소년단, 美 빌보드 연말 차트서 9개 부문 정상…" 전="" 세계="" 지배""="">        <div class="text-box">            <p class="summary">방탄소년단, 美 빌보드 연말 차트서 9개 부문 정상…"전 세계 지배"</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/03/2e8b385c-ef02-4886-b178-5aa637c14a27.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
