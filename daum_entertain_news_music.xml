@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-04T08:26:58.652Z</updated>
+    <updated>2021-12-04T09:22:34.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단, 美 '징글볼 투어' 오프닝 장식 "모두 정말 보고 싶었다"]]></title>
+        <id>https://entertain.v.daum.net/v/20211204181423696</id>
+        <link href="https://entertain.v.daum.net/v/20211204181423696"/>
+        <updated>2021-12-04T09:22:04.092Z</updated>
+        <content type="html"><![CDATA[그룹 방탄소년단이 '2021 징글볼(2021 Jingle Ball) 투어'에서 오프닝 무대를 장식했다. 방탄소년단은 3일(현지시간) 미국 최대 라디오 네트워크인 아이하트라디오(iHeartRadio)가 주최하는 '2021 징글볼 투어' 무대에 올랐다. 로스앤젤레스의 더 포럼(The Forum)에서 개최된 이날 행사에는 에드 시런(Ed Sheeran), 도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[블랙핑크 리사, 코로나19 완치 판정..자가격리 해제]]></title>
         <id>https://entertain.v.daum.net/v/20211204165830936</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211204152604835"/>
         <updated>2021-12-04T06:26:14.973Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 방탄소년단이 ‘2021 징글볼(2021 Jingle Ball) 투어’에서 오프닝 무대를 장식했다. 방탄소년단은 3일(현지시간) 미국 최대 라디오 네트워크인 아이하트라디오(iHeartRadio)가 주최하는 ‘2021 징글볼 투어’ 무대에 올랐다. 로스앤젤레스의 더 포럼(The Forum)에서 개최된 이날 행사에는 에드 시런(Ed Sheeran]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단, 2년 만에 美 징글볼 투어 "내년엔 모든 순간을 아미와 함께"]]></title>
-        <id>https://entertain.v.daum.net/v/20211204152502827</id>
-        <link href="https://entertain.v.daum.net/v/20211204152502827"/>
-        <updated>2021-12-04T06:26:14.976Z</updated>
-        <content type="html"><![CDATA[[텐아시아=우빈 기자]그룹 방탄소년단이 '2021 징글볼(2021 Jingle Ball) 투어'에서 오프닝 무대를 장식했다.&nbsp;방탄소년단은 3일(현지시간) 미국 최대 라디오 네트워크인 아이하트라디오(iHeartRadio)가 주최하는 '2021 징글볼 투어' 무대에 올랐다. 로스앤젤레스의 더 포럼(The Forum)에서 개최된 이날 행사에는 에드 시런(Ed S]]></content>
     </entry>
 </feed>
