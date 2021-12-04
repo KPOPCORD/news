@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-04T14:20:40.837Z</updated>
+    <updated>2021-12-04T15:23:46.386Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이유, 올해의 아티스트 및 MMA 5관왕..BTS 5관왕]]></title>
+        <id>https://entertain.v.daum.net/v/20211204235607273</id>
+        <link href="https://entertain.v.daum.net/v/20211204235607273"/>
+        <updated>2021-12-04T15:23:16.359Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 가수 아이유와 BTS가 '2021 MMA'에서 나란히 5관왕의 주인공이 됐다. 특히 아이유는 MMA의 대상격이라 할 수 있는 올해의 아티스트 상을 수상했다. 아이유는 4일 오후 온라인으로 진행된 '2021 멜론 뮤직 어워즈'(이하 '2021 MMA')에서 Δ올해의 아티스트Δ올해의 앨범(라일락)Δ톱10Δ베스트 솔로 여자Δ]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이유·방탄소년단, 'MMA2021' 5관왕 달성]]></title>
         <id>https://entertain.v.daum.net/v/20211204231312076</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211204213602405"/>
         <updated>2021-12-04T13:26:54.536Z</updated>
         <content type="html"><![CDATA['라일락' 향기에 취한 2021년, 가수 아이유가 '멜론뮤직어워드2021' 올해의 앨범상과 아티스트상을 수상하며 대상 2개 부문을 품에 안았다. 4일 오후 멜론뮤직어워드2021(이하 MMA2021)이 온라인으로 생중계됐다. 아이유는 이날 정규 5집 '라일락'으로 올해의 앨범상을 수상한 데 이어 올해의 아티스트상까지 거머쥐며 대상 2개 부문 포함 총 5관]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단, 올해의 베스트송 "'Butter' 아미 위한 서머송, 영광 함께"]]></title>
-        <id>https://entertain.v.daum.net/v/20211204212721334</id>
-        <link href="https://entertain.v.daum.net/v/20211204212721334"/>
-        <updated>2021-12-04T12:33:50.907Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 방탄소년단이 올해의 베스트송을 수상했다. 12월 4일 진행된 ‘멜론뮤직어워드 2021(MMA2021)’에서 방탄소년단이 올해의 베스트송을 수상했다. ‘Butter’로 올해의 베스트송을 수상한 방탄소년단은 영상을 통해 “올해 멜론뮤직어워드에서 방탄소년단이 ‘Butter’로 올해의 베스트상을 수상 받게 됐다. 올해의 베스트송은 20]]></content>
     </entry>
 </feed>
