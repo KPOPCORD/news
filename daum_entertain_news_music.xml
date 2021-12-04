@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-04T17:28:56.697Z</updated>
+    <updated>2021-12-04T18:26:19.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단, 2년만의 오프라인 콘서트 'BTS PERMISSION TO DANCE ON STAGE-LA' 성료]]></title>
+        <id>https://entertain.v.daum.net/v/20211205025133578</id>
+        <link href="https://entertain.v.daum.net/v/20211205025133578"/>
+        <updated>2021-12-04T18:25:42.529Z</updated>
+        <content type="html"><![CDATA[[헤럴드경제 = 서병기 선임기자]그룹 방탄소년단이 지난 11월 27~28일, 12월 1~2일 (이하 현지시간) 미국 로스앤젤레스 소파이 스타디움에서 열린 ‘BTS PERMISSION TO DANCE ON STAGE - LA’를 성황리에 마쳤다. 이번 콘서트는 방탄소년단이 지난 2019년 서울에서 펼쳤던 ‘2019 BTS WORLD TOUR ‘LOVE YOU]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이유, 올해의 아티스트 및 MMA 5관왕..BTS 5관왕]]></title>
         <id>https://entertain.v.daum.net/v/20211204235607273</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211204214236483"/>
         <updated>2021-12-04T13:26:54.535Z</updated>
         <content type="html"><![CDATA[[스타뉴스 한해선 기자] /사진='MMA2021' 가수 아이유가 올해 MMA에서 영광의 주인공이 됐다. 방탄소년단은 4일 오후 온라인으로 개최된 'MMA2021'(멜론뮤직어워드2021)에서 올해의 아티스트상을 수상, 5관왕을 차지했다. 이날 아이유는 TOP 10부터 베스트 솔로, 베스트 송라이터, 올해의 앨범, 올해의 아티스트까지 총 5개의 트로피를 안았]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이유, 대상 2개 포함 5관왕..BTS·에스파 4관왕]]></title>
-        <id>https://entertain.v.daum.net/v/20211204213602405</id>
-        <link href="https://entertain.v.daum.net/v/20211204213602405"/>
-        <updated>2021-12-04T13:26:54.536Z</updated>
-        <content type="html"><![CDATA['라일락' 향기에 취한 2021년, 가수 아이유가 '멜론뮤직어워드2021' 올해의 앨범상과 아티스트상을 수상하며 대상 2개 부문을 품에 안았다. 4일 오후 멜론뮤직어워드2021(이하 MMA2021)이 온라인으로 생중계됐다. 아이유는 이날 정규 5집 '라일락'으로 올해의 앨범상을 수상한 데 이어 올해의 아티스트상까지 거머쥐며 대상 2개 부문 포함 총 5관]]></content>
     </entry>
 </feed>

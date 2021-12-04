@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-04T17:28:56.692Z</updated>
+    <updated>2021-12-04T18:26:19.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단, 2년만의 오프라인 콘서트 ‘BTS PERMISSION TO DANCE ON STAGE-LA’ 성료]]></title>
+        <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0001920638</id>
+        <link href="https://entertain.naver.com/now/read?oid=016&amp;aid=0001920638"/>
+        <updated>2021-12-04T18:26:03.467Z</updated>
+        <content type="html"><![CDATA[[헤럴드경제 = 서병기 선임기자]그룹 방탄소년단이 지난 11월 27~28일, 12월 1~2일 (이하 현지시간) 미국 로스앤젤레스 소파이 스타디움에서 열린 ‘BTS PERMISSION TO DANCE ON STAGE]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[포토] 최예빈, '상큼 미소에 시선강탈' (2021 멜론뮤직어워드)]]></title>
         <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004636719</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004636696"/>
         <updated>2021-12-04T15:23:32.978Z</updated>
         <content type="html"><![CDATA[전 골프선수 박세리가 4일 오후 온라인 진행된 'MMA2021(멜론 뮤직 어워드2021)' 레드카펫 행사에 참석해 포토타임을 갖고 있다. (사진제공=멜론뮤직어워드)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 김제덕, '귀여운 미소~' (2021 멜론뮤직어워드)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004636695</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004636695"/>
-        <updated>2021-12-04T15:23:32.978Z</updated>
-        <content type="html"><![CDATA[제32회 도쿄 올림픽 양궁 금메달리스트 김제덕이 4일 오후 온라인 진행된 'MMA2021(멜론 뮤직 어워드2021)' 레드카펫 행사에 참석해 포토타임을 갖고 있다. (사진제공=멜론뮤직어워드)]]></content>
     </entry>
 </feed>
