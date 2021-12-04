@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Dec 2021 04:29:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Dec 2021 05:20:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘나 혼자 산다’ 金 예능 1위! 샤이니 키, 최고의 1분 주인공 등극]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332417</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332417</guid>
+            <pubDate>Sat, 04 Dec 2021 05:19:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332417">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/04/gPMkGrXUIEWm637742229182247720.jpg" alt="‘나 혼자 산다’ 金 예능 1위! 샤이니 키, 최고의 1분 주인공 등극">        <div class="text-box">            <p class="summary">‘나 혼자 산다’ 金 예능 1위! 샤이니 키, 최고의 1분 주인공 등극</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/04/gPMkGrXUIEWm637742229182247720.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에스파, 美 ‘닉 캐논 쇼’ 출연 확정 “K팝 아티스트 최초”]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/332415</link>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 03 Dec 2021 16:33:18 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332400">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/04/vzHWYCqJtY5I637741768388747421.jpg" alt="‘나 혼자 산다’ 샤이니 키 “수간호사 엄마, 간 정말 못 맞춰”">        <div class="text-box">            <p class="summary">‘나 혼자 산다’ 샤이니 키 “수간호사 엄마, 간 정말 못 맞춰”</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/04/vzHWYCqJtY5I637741768388747421.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오마이걸 효정, 크리스마스도 아닌데 벌써 찾아온 요정 [인스타]]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332377</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332377</guid>
-            <pubDate>Fri, 03 Dec 2021 08:26:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332377">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/03/3593e480-e790-4728-877d-ef1e10f8a157.jpg" alt="오마이걸 효정, 크리스마스도 아닌데 벌써 찾아온 요정 [인스타]">        <div class="text-box">            <p class="summary">오마이걸 효정, 크리스마스도 아닌데 벌써 찾아온 요정 [인스타]</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/03/3593e480-e790-4728-877d-ef1e10f8a157.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
