@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-04T20:23:40.867Z</updated>
+    <updated>2021-12-04T21:19:14.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주말EZ]'댄스 챌린지', 너도나도 열광하는 이유]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010871024</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010871024"/>
+        <updated>2021-12-04T21:19:00.123Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]조민정 인턴 기자 = 지난달 29일 가수 청하는 신곡 '킬링미(Killing Me)'를 발매했다. 동시에 숏 미디어 플랫폼 틱톡(TikTok)에 K팝 전문 안무팀 '라치카'와 함께한 영상을 공개하며 ']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단, 2년만의 오프라인 콘서트 ‘BTS PERMISSION TO DANCE ON STAGE-LA’ 성료]]></title>
         <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0001920638</id>
@@ -170,13 +177,6 @@
         <title type="html"><![CDATA[[포토] 박세리, '보는 사람도 기분 좋아지는 미소' (2021 멜론뮤직어워드)]]></title>
         <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004636697</id>
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004636697"/>
-        <updated>2021-12-04T15:23:32.978Z</updated>
-        <content type="html"><![CDATA[전 골프선수 박세리가 4일 오후 온라인 진행된 'MMA2021(멜론 뮤직 어워드2021)' 레드카펫 행사에 참석해 포토타임을 갖고 있다. (사진제공=멜론뮤직어워드)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 박세리, '아름다운 미소' (2021 멜론뮤직어워드)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004636696</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004636696"/>
         <updated>2021-12-04T15:23:32.978Z</updated>
         <content type="html"><![CDATA[전 골프선수 박세리가 4일 오후 온라인 진행된 'MMA2021(멜론 뮤직 어워드2021)' 레드카펫 행사에 참석해 포토타임을 갖고 있다. (사진제공=멜론뮤직어워드)]]></content>
     </entry>
