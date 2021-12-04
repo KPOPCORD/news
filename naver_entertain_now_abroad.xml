@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-04T05:20:06.869Z</updated>
+    <updated>2021-12-04T06:26:50.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비욘세도 이건 어렵다..살짝 부담스러운 '스쿨룩' 패션[Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004521628</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004521628"/>
+        <updated>2021-12-04T06:26:49.611Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 세계의 부자 중 한 명인 가수 겸 배우 비욘세(40)가 스쿨룩(프레피룩) 패션을 선보였다. 비욘세는 최근 자신의 SNS에 자신의 패션라인인 아이비파크와 아디다스의 협업으로 탄생된 의상을 입고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조지 클루니, “414억짜리 항공사 광고 거절했다” 이유는?[해외이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003560071</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000835629</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000835629"/>
         <updated>2021-12-03T06:26:46.362Z</updated>
-        <content type="html"><![CDATA[3일 오후 고양시 일산의 한 카페에서 시네라마 ‘기억의 시간’ 제작발표회가 열렸다. 이날 제작발표회에는 인피니트 성열, 오마이걸 비니, 남규희, 유연수, 박은우, 강동주가 참석했다. 비니가 포토타임을 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비니 '미녀의 하트' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000835628</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000835628"/>
-        <updated>2021-12-03T06:26:46.364Z</updated>
         <content type="html"><![CDATA[3일 오후 고양시 일산의 한 카페에서 시네라마 ‘기억의 시간’ 제작발표회가 열렸다. 이날 제작발표회에는 인피니트 성열, 오마이걸 비니, 남규희, 유연수, 박은우, 강동주가 참석했다. 비니가 포토타임을 갖고 있다.]]></content>
     </entry>
 </feed>
