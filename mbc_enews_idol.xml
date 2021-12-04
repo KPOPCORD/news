@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Dec 2021 21:19:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Dec 2021 22:24:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정채연, 청순+귀여움 매력 뿜뿜…매일 리즈 경신中 [인스타]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332469</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332469</guid>
+            <pubDate>Sat, 04 Dec 2021 22:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332469">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/04/JQU6ajf9svnS637742530803277408.jpg" alt="정채연, 청순+귀여움 매력 뿜뿜…매일 리즈 경신中 [인스타] ">        <div class="text-box">            <p class="summary">정채연, 청순+귀여움 매력 뿜뿜…매일 리즈 경신中 [인스타] </p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/04/JQU6ajf9svnS637742530803277408.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김세정, 러블리한 여신 미모…오늘도 예쁨 [인스타]]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/332474</link>
@@ -86,14 +94,6 @@
             <pubDate>Sat, 04 Dec 2021 09:21:58 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332432">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/04/dwCG3twHtzWX637742356977099723.jpg" alt="‘쇼! 음악중심’ 에버글로우, 중독성 甲 ‘Pirate’으로 강렬한 컴백">        <div class="text-box">            <p class="summary">‘쇼! 음악중심’ 에버글로우, 중독성 甲 ‘Pirate’으로 강렬한 컴백</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/04/dwCG3twHtzWX637742356977099723.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이미주, 상큼+세련美 돋보이는 새 프로필 눈길]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332425</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332425</guid>
-            <pubDate>Sat, 04 Dec 2021 08:26:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332425">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/04/2Tx337OqEJ7M637742346092034291.jpg" alt="이미주, 상큼+세련美 돋보이는 새 프로필 눈길">        <div class="text-box">            <p class="summary">이미주, 상큼+세련美 돋보이는 새 프로필 눈길</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/04/2Tx337OqEJ7M637742346092034291.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
