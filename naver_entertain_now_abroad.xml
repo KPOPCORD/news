@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-05T06:26:29.656Z</updated>
+    <updated>2021-12-05T07:21:52.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[캐서린 헤이글, 韓계 딸 네이리 13세 생일…입양 당시 아기 사진 '깜짝' 공개]]></title>
+        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003809459</id>
+        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003809459"/>
+        <updated>2021-12-05T07:21:51.877Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 고재완 기자] 할리우드 배우 캐서린 헤이글이 자신의 첫 딸 낸시 리 미은 켈리(애칭 네이리)에 대한 애정을 표현했다. 헤이글은 지난 2009년 한국에서 첫째 딸 네이리를 입양해 한국에서도 화제를 모은 바]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[리애나, 바베이도스 공화국 독립 후 첫 국가영웅 칭호 영예 [주말POP콘]]]></title>
         <id>https://entertain.naver.com/now/read?oid=018&amp;aid=0005100317</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000835923"/>
         <updated>2021-12-04T12:34:21.758Z</updated>
         <content type="html"><![CDATA[스테이씨 윤이 4일 오후 온라인으로 진행된 ’멜론 뮤직 어워드(MMA 2021)’에 참석하고 있다. 사진=멜론]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스테이씨 세은 '빛나는 미모' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000835922</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000835922"/>
-        <updated>2021-12-04T12:34:21.761Z</updated>
-        <content type="html"><![CDATA[스테이씨 세은이 4일 오후 온라인으로 진행된 ’멜론 뮤직 어워드(MMA 2021)’에 참석하고 있다. 사진=멜론]]></content>
     </entry>
 </feed>
