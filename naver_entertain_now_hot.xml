@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-12-05T10:22:58.121Z</updated>
+    <updated>2021-12-05T11:19:59.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정호연, 뉴욕서 힙한 매력 발산…♥이동휘도 '좋아요' [스타IN★]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003010575</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003010575"/>
+        <updated>2021-12-05T11:19:48.768Z</updated>
+        <content type="html"><![CDATA[배우 정호연이 뉴욕에서의 일상을 공개했다. 정호연은 5일 자신의 인스타그램에 "I♥NY"라는 글과 함께 근황을 공개했다. 현재 고담 어워즈 참석차 미국에 방문한 정호연은 뉴욕에서의 일상을 공유했다. 정호연은 마스크없]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[홍혜걸♥여에스더, 럭셔리 서울·제주 각집생활 "SNS 폐암 발언 후 국민관종" ('집사부')[종합]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003809556</id>
+        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003809556"/>
+        <updated>2021-12-05T11:19:48.769Z</updated>
+        <content type="html"><![CDATA[[스포츠조선닷컴 이우주 기자] '집사부' 홍혜걸 여에스더 부부가 '각 방'이 아닌 '각 집 생활'을 공개했다. 5일 방송된 SBS 예능프로그램 '집사부일체'에서는 홍혜걸 여에스더 부부의 제주 생활이 공개됐다. 제주도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김선호 소속사 측, 대신해 전한 ‘2021 AAA’ 소감 “언제나 큰 힘 되어줘 감사”]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000836110</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=052&amp;aid=0001673449"/>
         <updated>2021-12-05T09:21:43.562Z</updated>
         <content type="html"><![CDATA[짧은 헤어스타일에 이어 밑단이 뜯긴 코트까지 배우 송지효의 스타일링을 둘러싸고 팬들의 원성이 계속 되고 있다. 송지효는 2일 오후 서울 강서구 KBS 아레나에서 열린 '2021 아시아 아티스트 어워즈(이하 '2021]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김나영, 170cm 다리길이 이렇게 길었나…망사 스타킹 속 드러난 '타투']]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003809521</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003809521"/>
-        <updated>2021-12-05T08:24:37.844Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 이우주 기자] 방송인 김나영이 늘씬한 다리 길이를 뽐냈다. 김나영은 5일 자신의 SNS를 통해 한 장의 사진을 게재했다. 공개된 사진 속에는 소파에 앉아 쉬고 있는 김나영의 모습이 담겼다. 몸을 기댄]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[TEN피플]'서예지 조종 논란' 김정현, 캐럴 참여로 활동 복귀…딱딱한 미소 여전]]></title>
-        <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000516057</id>
-        <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000516057"/>
-        <updated>2021-12-05T08:24:37.845Z</updated>
-        <content type="html"><![CDATA[[텐아시아=정태건 기자] 배우 김정현이 전 연인 서예지에게 가스라이팅 피해를 입었다는 논란이 불거진 뒤 밝은 근황을 공개했다. 소속사 스토리제이컴퍼니는 5일 공식 SNS를 통해 김정현의 2021 캐럴 프로젝트 '메리]]></content>
     </entry>
 </feed>
