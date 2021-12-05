@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-05T13:24:55.839Z</updated>
+    <updated>2021-12-05T14:20:29.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['KBS 단독쇼' 임영웅, 제복이 잘 어울리는 스타]]></title>
+        <id>https://entertain.v.daum.net/v/20211205230004768</id>
+        <link href="https://entertain.v.daum.net/v/20211205230004768"/>
+        <updated>2021-12-05T14:19:53.575Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 임영웅이 ‘팬앤스타’ 포토톡 “제복이 잘 어울리는 스타” 투표 1위에 올랐다. 최근 ‘팬앤스타’ 포토톡에서는 11월 4주 차 투표로 “제복이 잘 어울리는 스타” 투표를 진행했다. 이 투표에서 임영웅은 총 633,118개의 추천을 받아 1위를 차지했다. 이러한 투표 결과는 그의 남다른 인기를 실감케 한다. 한편, 임영웅은 연말에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['방과후 설렘' 이태림, 3학년 에이스답게 '올패스' 합격]]></title>
         <id>https://entertain.v.daum.net/v/20211205215523382</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211205155113608"/>
         <updated>2021-12-05T07:21:17.342Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 가수 아이유와 트와이스, 에스파가 1위 트로피를 놓고 대결을 펼친다. 12월 5일 방송된 SBS '인기가요'에서 12월 첫째 주 1위 후보가 공개됐다. 이날 방송에서는 아이유 'strawberry moon'(스트로베리 문), 트와이스 'SCIENTIST'(사이언티스트), 에스파 'Savage'(세비지)가 1위 후보로 선정됐다. 이날]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컬투쇼' 아이브 유진 "리더, 처음엔 부담됐던 게 사실"]]></title>
-        <id>https://entertain.v.daum.net/v/20211205154606497</id>
-        <link href="https://entertain.v.daum.net/v/20211205154606497"/>
-        <updated>2021-12-05T07:21:17.355Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] '컬투쇼'에서 아이브 유진이 리더를 맡은 소감을 밝혔다. 5일 오후 방송된 SBS 파워FM '두시탈출 컬투쇼'(이하 '컬투쇼')에서는 그룹 아이브(IVE)의 멤버 유진, 가을, 레이가 출연해 '추적 30분' 코너를 꾸몄다. 이날 유진은 아이브의 리더로 활동 중인 소감을 전했다. 유진은 "사실 처음엔 부담이 됐다. 리더라고 하]]></content>
     </entry>
 </feed>
