@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-05T01:12:39.601Z</updated>
+    <updated>2021-12-05T02:39:20.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[리애나, 바베이도스 공화국 독립 후 첫 국가영웅 칭호 영예 [주말POP콘]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=018&amp;aid=0005100317</id>
+        <link href="https://entertain.naver.com/now/read?oid=018&amp;aid=0005100317"/>
+        <updated>2021-12-05T02:39:20.146Z</updated>
+        <content type="html"><![CDATA[지난 30일(현지시간) 중남미 카리브해 바베이도스의 수도 브리지타운에 위치한 국가영웅광장에서 진행된 바베이도스 공화국 출범 행사에 참석한 팝가수 리애나(Rihanna)가 행사 참석에 앞서 기념 사진을 찍기 위해 포즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아름다운 꽃보다 아이유 [MK포토]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000835945</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000835922"/>
         <updated>2021-12-04T12:34:21.761Z</updated>
         <content type="html"><![CDATA[스테이씨 세은이 4일 오후 온라인으로 진행된 ’멜론 뮤직 어워드(MMA 2021)’에 참석하고 있다. 사진=멜론]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스테이씨 시은 '신나게' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000835921</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000835921"/>
-        <updated>2021-12-04T12:34:21.762Z</updated>
-        <content type="html"><![CDATA[스테이씨 시은이 4일 오후 온라인으로 진행된 ’멜론 뮤직 어워드(MMA 2021)’에 참석하고 있다. 사진=멜론]]></content>
     </entry>
 </feed>
