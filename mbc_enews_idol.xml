@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Dec 2021 23:22:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 01:12:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단, 美 버라이어티 선정 '올해의 음반' 수상 “'Butter'는 특별한 의미를 갖는 곡”]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332485</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332485</guid>
+            <pubDate>Sun, 05 Dec 2021 01:11:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332485">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/05/fOE8knJqUq6S637742942036251648.jpg" alt="방탄소년단, 美 버라이어티 선정 '올해의 음반' 수상 “'Butter'는 특별한 의미를 갖는 곡”">        <div class="text-box">            <p class="summary">방탄소년단, 美 버라이어티 선정 '올해의 음반' 수상 “'Butter'는 특별한 의미를 갖는 곡”</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/05/fOE8knJqUq6S637742942036251648.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[태연, 러블리+섹시 공존하는 완벽 비주얼 자랑 [인스타]]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/332472</link>
@@ -86,14 +94,6 @@
             <pubDate>Sat, 04 Dec 2021 09:21:58 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332435">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/04/6gziEWoywPCo637742383195141691.jpg" alt="방탄소년단, 美 ‘징글볼 투어’ 오프닝 장식 “모두 정말 보고 싶었다”">        <div class="text-box">            <p class="summary">방탄소년단, 美 ‘징글볼 투어’ 오프닝 장식 “모두 정말 보고 싶었다”</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/04/6gziEWoywPCo637742383195141691.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 리사, 코로나19 완치 “자가격리 해제” [공식]]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332434</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332434</guid>
-            <pubDate>Sat, 04 Dec 2021 09:21:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332434">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/04/CGDPGSOfnEAa637742381376824162.jpg" alt="블랙핑크 리사, 코로나19 완치 “자가격리 해제” [공식]">        <div class="text-box">            <p class="summary">블랙핑크 리사, 코로나19 완치 “자가격리 해제” [공식]</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/04/CGDPGSOfnEAa637742381376824162.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
