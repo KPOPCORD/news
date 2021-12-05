@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 12:32:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 13:24:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가수 성민 "어린이들에게 희망을 주는 소중한 자리"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=177520</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=177520</guid>
+            <pubDate>Sun, 05 Dec 2021 13:24:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=177520">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211205221437_c86bd0e9f536a2377a1d74d5d2400557.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=177520">가수 성민 "어린이들에게 희망을 주는 소중한 자리"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211205221437_c86bd0e9f536a2377a1d74d5d2400557.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정선아, 팜트리아일랜드와 전속계약]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=177252</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=176847">리디, 'K웹툰으로 샌디에이고 코믹콘' 단독 부스</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211202084318_7444dfb49b31ac84736a7dd2d4ce481c_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["2021 K-연예산업 트랜드" CJ ENM '2021 비저너리 어워즈' 개최]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=176833</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=176833</guid>
-            <pubDate>Thu, 02 Dec 2021 01:05:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=176833">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211202081044_6642915fe25759a2393f2bf8e68c9185.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=176833">"2021 K-연예산업 트랜드" CJ ENM '2021 비저너리 어워즈' 개최</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211202081044_6642915fe25759a2393f2bf8e68c9185.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

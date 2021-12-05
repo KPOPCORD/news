@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-05T12:32:31.531Z</updated>
+    <updated>2021-12-05T13:24:55.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['방과후 설렘' 이태림, 3학년 에이스답게 '올패스' 합격]]></title>
+        <id>https://entertain.v.daum.net/v/20211205215523382</id>
+        <link href="https://entertain.v.daum.net/v/20211205215523382"/>
+        <updated>2021-12-05T13:24:24.064Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김종은 기자] '방과후 설렘' 이태림이 3학년 에이스 다운 면모를 뽐냈다. 5일 밤 방송된 MBC 서바이벌 프로그램 '방과후 설렘'에서는 이태림이 3학년(2004~2005년생) 입학시험을 가졌다. 이날 장도연은 한 지원자의 등장을 앞두고 "만능캐네. 한 가지만 잘하기도 힘든데 어떻게 다 잘하지?"라고 말해 그 정체를 궁금케 했다. 지원자가]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['방과후 설렘' 박보은X정시우, 극찬과 함께 입학시험 합격]]></title>
+        <id>https://entertain.v.daum.net/v/20211205213523173</id>
+        <link href="https://entertain.v.daum.net/v/20211205213523173"/>
+        <updated>2021-12-05T13:24:24.064Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김종은 기자] '방과후 설렘' '울산 제니' 박보은과 '일산 제니' 정시우가 극찬 속에 합격했다. 5일 밤 방송된 MBC 서바이벌 프로그램 '방과후 설렘'에서는 정시우와 박보은이 1학년(만 12세~14세) 입학시험을 가졌다. 이날 박보은과 정시우는 제니의 'SOLO'를 선곡, 시작부터 파워풀한 오프닝을 선보여 심사위원들을 깜짝 놀라게 했다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['복면가왕' 곰발바닥 4연승 성공, 임형순→최진이 정체 공개]]></title>
         <id>https://entertain.v.daum.net/v/20211205194323371</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211205154606497"/>
         <updated>2021-12-05T07:21:17.355Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김종은 기자] '컬투쇼'에서 아이브 유진이 리더를 맡은 소감을 밝혔다. 5일 오후 방송된 SBS 파워FM '두시탈출 컬투쇼'(이하 '컬투쇼')에서는 그룹 아이브(IVE)의 멤버 유진, 가을, 레이가 출연해 '추적 30분' 코너를 꾸몄다. 이날 유진은 아이브의 리더로 활동 중인 소감을 전했다. 유진은 "사실 처음엔 부담이 됐다. 리더라고 하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컬투쇼' 아이브 "막내는 이서, 15살이다"..김태균 깜짝]]></title>
-        <id>https://entertain.v.daum.net/v/20211205154323448</id>
-        <link href="https://entertain.v.daum.net/v/20211205154323448"/>
-        <updated>2021-12-05T07:21:17.356Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] '컬투쇼'에서 신인 걸그룹 아이브가 본인들을 소개하는 시간을 가졌다. 5일 오후 방송된 SBS 파워FM '두시탈출 컬투쇼'(이하 '컬투쇼')에서는 그룹 아이브(IVE)의 멤버 유진, 가을, 레이가 출연해 '추적 30분' 코너를 꾸몄다. 이날 유진은 먼저 아이브를 소개하는 시간을 가졌다. 그는 "아이해브(I have)의 줄임말로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케플러 데뷔연기.."현장 스태프 코로나19 확진, 멤버들 전원 음성"]]></title>
-        <id>https://entertain.v.daum.net/v/20211205150900731</id>
-        <link href="https://entertain.v.daum.net/v/20211205150900731"/>
-        <updated>2021-12-05T06:25:56.037Z</updated>
-        <content type="html"><![CDATA[엠넷(Mnet) 오디션 프로그램 '걸스플래닛 999' 데뷔조 출신 그룹 케플러가 데뷔를 연기한다. 소속사 웨이크원·스윙엔터테인먼트는 5일 “전날 오전 케플러 현장 스태프 중 1명이 코로나19 양성 판정을 받았다”며 “14일로 예정됐던 데뷔 일정을 연기한다”고 밝혔다. 소속사 측은 “해당 스태프의 감염 의심 증상이 발현한 즉시 선제적으로 코로나19 검사를]]></content>
     </entry>
 </feed>
