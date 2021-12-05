@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-05T09:21:51.072Z</updated>
+    <updated>2021-12-05T10:22:58.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['복면가왕' 윤상, 루시 신예찬 등장에 "버스킹의 왕이다"]]></title>
+        <id>https://entertain.v.daum.net/v/20211205190113999</id>
+        <link href="https://entertain.v.daum.net/v/20211205190113999"/>
+        <updated>2021-12-05T10:22:28.029Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김종은 기자] '금사빠'의 정체는 루시의 신예찬이었다. 5일 저녁 방송된 MBC 예능프로그램 '복면가왕'에서는 '곰발바닥'의 4연승을 막기 위한 복면 가수들의 2라운드 무대가 펼쳐졌다. 이날 2라운드 두 번째 무대는 '금사빠'와 '장롱면허'의 대결로 꾸며졌다. 무대를 본 트루디는 "전 이번 무대가 조금 남달랐다. 특히 '금사빠' 님의 무대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTS 진 생일 자작곡 '슈퍼 참치', 챌린지 열풍]]></title>
         <id>https://entertain.v.daum.net/v/20211205181201295</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211205143002047"/>
         <updated>2021-12-05T06:25:56.037Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 미스피츠(msftz)가 쿠팡 플레이 오리지널 드라마 ‘어느 날’ OST의 두 번째 주자로 나선다. 싱어송라이터 미스피츠가 참여한 ‘어느 날’의 두 번째 OST ‘Blood Sign’이 오늘 5일 오후 6시 각종 음원사이트를 통해 발매된다. ‘Blood Sign’은 가라앉은 피아노 선율을 중심으로 무겁게 쌓이는 세션의 구성이 드라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백' 에이티즈, 더블 타이틀곡 '멋' 확정..'킹덤' 파이널 경연곡 업그레이드]]></title>
-        <id>https://entertain.v.daum.net/v/20211205133232179</id>
-        <link href="https://entertain.v.daum.net/v/20211205133232179"/>
-        <updated>2021-12-05T05:19:43.822Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 보이그룹 에이티즈(ATEEZ)가 컴백을 앞두고 더블 타이틀곡 확정 소식을 알렸다. 에이티즈는 12월 5일 공식 SNS를 통해 더블 타이틀곡 ‘멋(The Real)' 콘셉트 포토를 선보였다. 사진 속 에이티즈는 계절감이 느껴지는 따뜻한 분위기의 의상을 걸친 가운데 평범하지 않은 레트로 패션마저 자연스럽게 소화해 눈길을 모았다. 특히]]></content>
     </entry>
 </feed>
