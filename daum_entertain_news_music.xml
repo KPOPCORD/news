@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-05T02:39:20.853Z</updated>
+    <updated>2021-12-05T03:22:23.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트루디♥이대은, 3년 열애 끝 오늘 결혼 "응원 부탁"]]></title>
+        <id>https://entertain.v.daum.net/v/20211205121212389</id>
+        <link href="https://entertain.v.daum.net/v/20211205121212389"/>
+        <updated>2021-12-05T03:21:51.895Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 윤성열 기자] /사진제공=해피메리드컴퍼니, 웨딩디렉터봉드, 로미오프렌즈, 로자스포사, 비안플라워, 스플렌디노, 웨딩미, 함경식웨딩, 규중칠우, 정부자스타일리스트 래퍼 트루디(28·김진솔)와 프로야구단 kt 위즈 투수 이대은(32)이 화촉을 밝힌다. 트루디와 이대은은 5일 오후 3시 서울 강남구 그랜드힐 컨벤션에서 가족, 친지, 지인들의 축하 속]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인피니트 남우현, 뮤지컬 '잭더리퍼' 첫 공연 성료.."살아있다 느껴"]]></title>
         <id>https://entertain.v.daum.net/v/20211205111843468</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211205091808608"/>
         <updated>2021-12-05T01:12:02.537Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 투모로우바이투게더가 ‘MMA2021(멜론뮤직어워드2021)’의 ‘올해의 뮤직비디오’ 부문에서 수상했다. 투모로우바이투게더(수빈, 연준, 범규, 태현, 휴닝카이)는 12월 4일 개최된 'MMA2021'에서 정규 2집 ‘혼돈의 장: FREEZE’ 타이틀곡 ‘0X1=LOVESONG (I Know I Love You) feat. S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빌리, 14일 '스노이 나이트'로 초고속 컴백..김수연 합류 첫 신곡]]></title>
-        <id>https://entertain.v.daum.net/v/20211205091517590</id>
-        <link href="https://entertain.v.daum.net/v/20211205091517590"/>
-        <updated>2021-12-05T01:12:02.547Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 미스틱스토리의 첫 걸그룹이자 대세 신인으로 등극한 빌리(Billlie)가 초고속 컴백을 알린다. 미스틱스토리는 5일 "빌리(시윤·츠키·션·수현·하람·문수아·하루나)가 오는 14일 오후 6시 새 싱글 'SNOWY NIGHT (스노이 나이트)'를 발매한다"라고 밝혔다. 이와 함께 빌리는 이날 0시 공식 SNS를 통해 컴백 포스터를]]></content>
     </entry>
 </feed>
