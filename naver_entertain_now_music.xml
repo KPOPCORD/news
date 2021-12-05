@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-05T16:32:57.521Z</updated>
+    <updated>2021-12-05T17:27:35.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에이티즈, 첫 EP 더블타이틀곡 '멋'…'킹덤' 파이널 경연곡]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010871918</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010871918"/>
+        <updated>2021-12-05T17:27:20.775Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 그룹 '에이티즈(ATEEZ)'가 새 앨범에서 더블 타이틀곡으로 활동한다. 6일 소속사 KQ엔터테인먼트에 따르면 에이티즈는 오는 10일 오후 6시 발매하는 첫 EP '제로 : 피버 에필로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘인기가요’ 아이칠린, 'FRESH' 무대 선사해…상큼 비주얼]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001381851</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000519126"/>
         <updated>2021-12-05T07:21:36.915Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 보이그룹 온앤오프(효진, 제이어스, 이션, 와이엇, MK, 유)가 팬들에게 진심을 전했다. 온앤오프는 12월 5일 방송된 SBS '인기가요'에 출연했다. 온앤오프는 지난 3일 오후 6시 각종]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘1위 가수’ 몬스타엑스, 유연석 ‘주말연석극’ 깜짝 출연 ‘찐친 케미’]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000519121</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000519121"/>
-        <updated>2021-12-05T07:21:36.915Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 몬스타엑스(MONSTA X)가 배우 유연석과 특별한 인연으로 눈길을 모았다. 몬스타엑스는 지난 4일 공개된 유연석의 유튜브 채널 ‘주말연석극’에 깜짝 등장했다. 이날 ‘뮤직뱅크’ 1위 후]]></content>
     </entry>
 </feed>
