@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 20:23:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 21:18:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[포토] 방탄소년단 지민, '누가봐도 지민']]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332534</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332534</guid>
+            <pubDate>Sun, 05 Dec 2021 21:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332534">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/06/a1439da9-b97c-4836-96d3-c8d0d2ffabd5.jpg" alt="[포토] 방탄소년단 지민, '누가봐도 지민'">        <div class="text-box">            <p class="summary">[포토] 방탄소년단 지민, '누가봐도 지민'</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/06/a1439da9-b97c-4836-96d3-c8d0d2ffabd5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘복면가왕’ ‘올리비아 핫세’는 IVE 유진 “IVE 알리기 위해 나왔다”]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/332508</link>
@@ -86,14 +94,6 @@
             <pubDate>Sat, 04 Dec 2021 23:21:35 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332471">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/04/rpxG5WJUK7yn637742531829376277.jpg" alt="아이브 장원영, 블랙 드레스로 뽐낸 숨 막히는 비주얼 [인스타] ">        <div class="text-box">            <p class="summary">아이브 장원영, 블랙 드레스로 뽐낸 숨 막히는 비주얼 [인스타] </p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/04/rpxG5WJUK7yn637742531829376277.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정채연, 청순+귀여움 매력 뿜뿜…매일 리즈 경신中 [인스타]]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332469</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332469</guid>
-            <pubDate>Sat, 04 Dec 2021 22:23:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332469">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/04/JQU6ajf9svnS637742530803277408.jpg" alt="정채연, 청순+귀여움 매력 뿜뿜…매일 리즈 경신中 [인스타] ">        <div class="text-box">            <p class="summary">정채연, 청순+귀여움 매력 뿜뿜…매일 리즈 경신中 [인스타] </p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/04/JQU6ajf9svnS637742530803277408.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

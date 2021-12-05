@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-05T20:23:50.579Z</updated>
+    <updated>2021-12-05T21:18:16.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[따뜻한 사랑 계속됩니다♥ 영탁 팬클럽 6차 '365 쌀앙해' 쌀 기부 릴레이]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003010618</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003010618"/>
+        <updated>2021-12-05T21:17:59.792Z</updated>
+        <content type="html"><![CDATA[가수 영탁의 팬들이 '365일 쌀앙해' 이웃사랑 쌀 기부 릴레이를 이어가며 영탁이 받은 따뜻한 사랑을 지역 사회에 환원했다. 영탁 팬클럽은 12월 4일 광운대 동해문화예술관에서 진행된 '김장훈의 숲서트'에 앞서 12]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅, ‘미스터트롯’ 서울콘서트 비하인드 ‘배신자’ 리허설 100만 뷰 돌파]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001381855</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000519133"/>
         <updated>2021-12-05T08:24:31.091Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 에스파가 3주 연속 SBS '인기가요' 1위를 차지했다. 에스파는 12월 5일 방송된 '인기가요'에서 신곡 'Savage'(세비지)로 1위 트로피를 거머쥐었다. 이번 1위로 트리플 크라운]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['김채현→휴닝바히에' 케플러, 스태프 코로나 확진→MAMA⋅글로벌 데뷔쇼 취소 [종합]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004522045</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004522045"/>
-        <updated>2021-12-05T08:24:31.092Z</updated>
-        <content type="html"><![CDATA[[OSEN=이승훈 기자] Mnet '걸스플래닛999 : 소녀대전'(이하 '걸스플래닛999')을 통해 탄생한 걸그룹 케플러(Kep1er)가 데뷔 일정을 연기했다. 스태프가 코로나19 양성 판정을 받았기 때문. 5일 오]]></content>
     </entry>
 </feed>
