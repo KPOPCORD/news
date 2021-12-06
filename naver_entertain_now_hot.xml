@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-12-06T18:29:11.643Z</updated>
+    <updated>2021-12-06T19:18:55.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이제훈 ‘무브 투 헤븐’·이도현 '스위트홈', AACA 수상 [공식]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000949423</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000949423"/>
+        <updated>2021-12-06T19:18:47.883Z</updated>
+        <content type="html"><![CDATA[넷플릭스(Netflix) '무브 투 헤븐'과 '스위트홈'이 2021 아시안 아카데미 크레이에티브 어워즈(Asian Academy Creative Awards ㅣ AACA)에서 각각 최고의 드라마 시리즈상과 남우주연상]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김요한♥조이현, 재회한 첫사랑 설렘 (‘학교2021’)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000949422</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000949422"/>
+        <updated>2021-12-06T19:18:47.883Z</updated>
+        <content type="html"><![CDATA[KBS2 수목드라마 ‘학교 2021’이 눌지과학기술고등학교 학생들의 우정과 사랑, 성장을 담은 다채로운 관계를 그려내고 있다. 지난 1일(수), 2일(목) KBS 2TV 수목드라마 ‘학교 2021’(극본 조아라, 동]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[거미 “작은 위로 되길” 부산 공연 성료]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000949421</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0004889752"/>
         <updated>2021-12-06T13:28:49.955Z</updated>
         <content type="html"><![CDATA[글로벌 신드롬의 주역, 그룹 방탄소년단(BTS)이 개인 인스타그램을 개설해 화제다. 6일 방탄소년단은 데뷔 8년 만에 저마다 개인 인스타그램 계정을 개설했다. 멤버들은 각자 첫 게시물을 올리고 댓글을 달며 서로 소통]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['백종원♥' 소유진, 대저택서 혼맥 중…트리 장식도 으리으리해]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003809848</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003809848"/>
-        <updated>2021-12-06T13:28:49.958Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 이게은기자] 배우 소유진이 근황을 전했다. 6일 소유진은 자신의 인스타그램에 "오늘은 고맙게도 모두 일찍 잠들어주어 엄마 휴식기간! 서현이가 화병으로 만들어준 캔들 홀더~ 분위기 잡고 혼맥 해야지"라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수현, 집에서 이런 미모가 가능해?...딸 출산 후 더 예뻐졌네 '흑백 뚫고 나온 청초']]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003809847</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003809847"/>
-        <updated>2021-12-06T13:28:49.959Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 정안지 기자] 배우 수현의 미모는 흑백 사진에서도 빛났다. 수현은 6일 자신의 인스타그램을 통해 "home sweet home"이라면서 사진을 게재했다. 사진 속에는 집에서 휴식을 취하고 있는 수현의]]></content>
     </entry>
 </feed>
