@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-12-06T16:29:34.896Z</updated>
+    <updated>2021-12-06T17:20:18.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[은혁→예나, ‘아받대2’ 메인 포스터 공개]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000949419</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000949419"/>
+        <updated>2021-12-06T17:20:11.058Z</updated>
+        <content type="html"><![CDATA[티빙 오리지널 ‘아이돌 받아쓰기 대회2’가 메인 포스터 2종과 멤버들의 자기소개 영상을 동시 공개했다. 오는 16일(목) 오후 4시 티빙에서 만날 수 있는 ‘아이돌 받아쓰기 대회2’(이하 ‘아받대2’/연출 이태경)는]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[심서준·박교희·하기원, 골프 콘텐츠 최강자 출연 (‘내 이름은 캐디’)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000949418</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000949418"/>
+        <updated>2021-12-06T17:20:11.059Z</updated>
+        <content type="html"><![CDATA[캐디 이승철, 김성주, 안정환과 골프 콘텐츠의 대명사 심서준, 박교희, 하기원의 시끌벅적 라운딩이 진행된다. 오는 8일(수) IHQ 예능프로그램 ‘내 이름은 캐디’ 5회 방송에서 세 번째 출근길에 나선 캐디즈 3인방]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김규철·이응경·김태한·노상보, 박진희 든든한 가족 (‘태종 이방원’)]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000949417</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=032&amp;aid=0003114699"/>
         <updated>2021-12-06T13:28:49.960Z</updated>
         <content type="html"><![CDATA[[경향신문] 우리 밥상에서 볼 수 있는 숟가락은 얼마나 긴 역사를 가지고 있을까. 7일 KBS 1TV &lt;역사스페셜&gt;은 우리가 매일같이 쓰면서도 알지 못했던 숟가락의 비밀을 알아본다. 비슷한 문화를 공유해 온 중국·일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021년 12월 7일 [TV하이라이트]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=032&amp;aid=0003114698</id>
-        <link href="https://entertain.naver.com/now/read?oid=032&amp;aid=0003114698"/>
-        <updated>2021-12-06T13:28:49.960Z</updated>
-        <content type="html"><![CDATA[[경향신문] 100년 된 폐가의 기묘한 환골탈태 ■라미란의 빈집살래 리턴즈(MBC 오후 9시) = 기묘한 M부동산이 다시 문을 연다. 부동산 반장으로 나선 배우 라미란과 최고의 건축가들은 절실하게 집이 필요한 사람들]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021년 12월 7일 [케이블·위성 하이라이트]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=032&amp;aid=0003114697</id>
-        <link href="https://entertain.naver.com/now/read?oid=032&amp;aid=0003114697"/>
-        <updated>2021-12-06T13:28:49.961Z</updated>
-        <content type="html"><![CDATA[[경향신문] ■ 영화 ■ 톰과 제리(캐치온1 오후 9시15분) = 생쥐 제리는 뉴욕에 위치한 로열 게이트 호텔에 새로운 보금자리를 마련한다. 제리로 인해 일자리를 잃은 고양이 톰은 호텔로 들어갈 기회를 호시탐탐 노린]]></content>
     </entry>
 </feed>
