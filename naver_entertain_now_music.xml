@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-06T12:35:16.003Z</updated>
+    <updated>2021-12-06T13:28:57.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단, 8년만 전원 개인 SNS 개설..최다 팔로워 뷔 '910만'[종합]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003010898</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003010898"/>
+        <updated>2021-12-06T13:28:43.016Z</updated>
+        <content type="html"><![CDATA[그룹 방탄소년단(BTS) 일곱 멤버가 데뷔 8년 만에 개인 인스타그램을 개설했다. 6일 방탄소년단 멤버 RM, 진, 슈가, 제이홉, 지민, 뷔, 정국은 개인 인스타그램 개설하고 팬들과 소통을 시작했다. 이는 2013]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네 손가락의 전설…'아코디언 대부' 심성락 별세(종합2보)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010874153</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010874153"/>
+        <updated>2021-12-06T13:28:43.016Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 회원으로 속했던 한국음악실연자연합회 주축 연주인장(葬) [서울=뉴시스]이재훈 기자 = '아코디언 연주의 대부'로 통하는 거장 아코디어니스트 심성락(85·심임섭)이 별세한 사실이 뒤늦게 알려졌다. 향년]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["일면식도 없는데.." 최예나, 재벌 회장 루머 강경 대응 예고→억울함 토로[종합]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003010892</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000332181"/>
         <updated>2021-12-06T09:23:21.912Z</updated>
         <content type="html"><![CDATA[[스포티비뉴스=장진리 기자] 가수 온유와 펀치가 '별 하나'로 만났다. 온유와 펀치는 6일 오후 6시 SM '스테이션'을 통해 컬래버레이션곡 '별 하나' 음원을 발표했다. '별 하나'는 서정적인 피아노 선율과 웅장한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["결국엔 변한 건 없어"…온유X펀치, 다른 곳에 있어도 '별 하나' [쥬크박스]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001382163</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001382163"/>
-        <updated>2021-12-06T09:23:21.913Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 그룹 샤이니 온유가 펀치와 컬래버레이션 신곡 '별 하나 (Way)'를 공개했다. SM 'STATION'(스테이션)은 6일 오후 6시 각종 온라인 음원 사이트를 통해 온유와 펀치의 컬래버레이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온유X펀치, 감미모운 보이스로 완성한 하모니 '별 하나' [6시★살롱]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003010866</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003010866"/>
-        <updated>2021-12-06T09:23:21.916Z</updated>
-        <content type="html"><![CDATA[온유와 펀치가 감미로운 보이스로 환상적인 듀엣을 완성했다. 6일 오후 온유와 펀치의 듀엣곡 '별 하나(Way)'가 각종 온라인 음원 사이트를 통해 공개됐다. '별 하나 (Way)'는 서정적인 피아노 선율과 웅장한 스]]></content>
     </entry>
 </feed>
