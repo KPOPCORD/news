@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-06T20:25:44.133Z</updated>
+    <updated>2021-12-06T21:20:09.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“킴 카다시안은 내 여자야!” 13세 연하 피트 데이비슨, 어떤 매력에 빠졌을까[해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003560489</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003560489"/>
+        <updated>2021-12-06T21:20:08.859Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 유명 셀럽 킴 카다시안(41)와 미국 코미디언 피트 데이비슨(28)의 사랑이 무르익고 있다. 한 소식통은 최근 연예매체 ‘피플’에 “피트 데이비슨은 카니예 웨스트와 이혼 후 킴]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['57세' 모니카 벨루치, 전성기 미모 여전…"늙는 것 두렵지 않아"]]></title>
         <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004679887</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000836197</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000836197"/>
         <updated>2021-12-06T02:38:08.847Z</updated>
-        <content type="html"><![CDATA[6일 오전 JTBC ‘싱어게인 시즌 2-무명가수전’ 온라인 제작발표회가 열렸다. 이날 제작발표회에는 윤현준 CP, 채성욱 PD, 이승기, 유희열, 이선희, 윤도현, 김이나, 규현, 이해리, 선미, 송민호가 참석했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이선희 '여전한 동안미모' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000836196</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000836196"/>
-        <updated>2021-12-06T02:38:08.848Z</updated>
         <content type="html"><![CDATA[6일 오전 JTBC ‘싱어게인 시즌 2-무명가수전’ 온라인 제작발표회가 열렸다. 이날 제작발표회에는 윤현준 CP, 채성욱 PD, 이승기, 유희열, 이선희, 윤도현, 김이나, 규현, 이해리, 선미, 송민호가 참석했다.]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-06T20:25:44.139Z</updated>
+    <updated>2021-12-06T21:20:09.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['음악 천재' 정동원, 성탄절 콘서트 티켓 5분 만에 전석 매진 "치열한 티켓 전쟁"]]></title>
+        <id>https://entertain.v.daum.net/v/20211207061838398</id>
+        <link href="https://entertain.v.daum.net/v/20211207061838398"/>
+        <updated>2021-12-06T21:19:32.727Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) ‘음악 천재’ 정동원이 크리스마스 콘서트에서도 막강한 티켓 파워를 과시했다. 가수 정동원의 첫 번째 크리스마스 콘서트 ‘성탄총동원’이 전석 매진됐다. 정동원은 이번 콘서트의 티켓 오픈 5분 만에 2회차 공연 2500석을 매진시키며 남다른 티켓 파워를 자랑했다. 앞서 정동원은 지난달 열린 첫 단독 콘서트 ‘정동원棟동 이야기話화 콘]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['싱어게인2' 핀테크 CEO 42호 가수 "이승윤 롤모델"]]></title>
+        <id>https://entertain.v.daum.net/v/20211207060206267</id>
+        <link href="https://entertain.v.daum.net/v/20211207060206267"/>
+        <updated>2021-12-06T21:19:32.727Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 이기은 기자] '싱어게인2' 42호 가수가 시처자들의 시선을 압도했다. 6일 밤 방송된 JTBC 예능프로그램 ‘싱어게인2’에서는 다양한 뮤지션들의 최고 가려내기 오디션이 포문을 열었다. 이날 금융 관련 핀테크 스타트업 대표라는 무명가수가 등장했다. 그는 “무명가수로 활동하는 것을 스타트업이라고도 생각한다”라며 “두 가지 스타트업 대표라고 생각]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[거미 "작은 위로 되길" 부산 공연 성료]]></title>
         <id>https://entertain.v.daum.net/v/20211207030009177</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211206180812437"/>
         <updated>2021-12-06T09:23:06.312Z</updated>
         <content type="html"><![CDATA[[OSEN=이승훈 기자] 그룹 몬스타엑스(MONSTA X)가 해외 프로모션 차 오늘(6일) LA로 출국한다. 몬스타엑스는 오는 10일 미국에서 두 번째 정규앨범 ‘THE DREAMING(더 드리밍)’을 발매한다. 이어 13일(이하 현지 시간) 필라델피아를 시작으로 14일 워싱턴 D.C, 16일 애틀란타, 19일 마이애미에서 진행되는 ‘징글볼(Jingle B]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성시경 vs 누리꾼, '설강화' 역사왜곡 논란 두고 설전]]></title>
-        <id>https://entertain.v.daum.net/v/20211206180206293</id>
-        <link href="https://entertain.v.daum.net/v/20211206180206293"/>
-        <updated>2021-12-06T09:23:06.312Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 황서연 기자] 가수 성시경이 '설강화' 역사 왜곡에 대한 자신의 생각을 밝힌 가운데, 온라인에서 설전이 이어지고 있다. 성시경은 지난 1일 온라인 라이브 방송 도중 최근 드라마 OST 작업을 했다고 밝혔다. 작품에 대한 추측이 이어지던 중 한 누리꾼이 "'설강화'만 아니면 된다"라고 댓글을 남겼고, 성시경이 이에 의문을 표하며 논란이 벌어졌다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데뷔부터 자작곡..엑스디너리 히어로즈, Z세대 대표 K팝 밴드 탄생]]></title>
-        <id>https://entertain.v.daum.net/v/20211206180007214</id>
-        <link href="https://entertain.v.daum.net/v/20211206180007214"/>
-        <updated>2021-12-06T09:23:06.312Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 믿고 들을 만한 Z세대 대표 밴드가 탄생했다. 앞날이 창창한 신예 밴드 엑스디너리 히어로즈(Xdinary Heroes, XH)가 화려한 데뷔를 알렸다. 엑스디너리 히어로즈는 12월 6일 오후 6시 국내외 음원 사이트를 통해 첫 싱글 'Happy Death Day'(해피 데스 데이)를 발매했다. 엑스디너리 히어로즈는 JYP엔터테인먼]]></content>
     </entry>
 </feed>
