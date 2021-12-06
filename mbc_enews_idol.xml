@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 01:10:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 02:38:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[포토] 송민호, '쇼미 더 무명']]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332585</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332585</guid>
+            <pubDate>Mon, 06 Dec 2021 02:37:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332585">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/06/741f7bb8-9035-49f2-8545-cbc3108f9077.jpg" alt="[포토] 송민호, '쇼미 더 무명'">        <div class="text-box">            <p class="summary">[포토] 송민호, '쇼미 더 무명'</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/06/741f7bb8-9035-49f2-8545-cbc3108f9077.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['방과후 설렘' 유리, 제니 닮은꼴 연습생에 마음 뺏겨…"노래 듣고 싶다"]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/332548</link>
@@ -86,14 +94,6 @@
             <pubDate>Sun, 05 Dec 2021 04:27:41 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332498">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/05/cS6YJ4SFlDkr637743047886439247.jpg" alt="투모로우바이투게더, MMA2021 ‘올해의 뮤직비디오’ 수상 " moa="" 덕분""="">        <div class="text-box">            <p class="summary">투모로우바이투게더, MMA2021 ‘올해의 뮤직비디오’ 수상 "MOA 덕분"</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/05/cS6YJ4SFlDkr637743047886439247.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['2021 MMA' 스테이씨, '원터케이 오리지널 콘텐츠' 수상]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332492</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332492</guid>
-            <pubDate>Sun, 05 Dec 2021 02:38:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332492">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/05/k5G8QlEQTNhH637742985960420222.jpg" alt="'2021 MMA' 스테이씨, '원터케이 오리지널 콘텐츠' 수상 ">        <div class="text-box">            <p class="summary">'2021 MMA' 스테이씨, '원터케이 오리지널 콘텐츠' 수상 </p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/05/k5G8QlEQTNhH637742985960420222.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
