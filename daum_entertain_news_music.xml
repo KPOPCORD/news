@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-06T13:28:57.377Z</updated>
+    <updated>2021-12-06T14:21:33.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이브, 데뷔 첫 리얼리티 '1,2,3 IVE' 공개]]></title>
+        <id>https://entertain.v.daum.net/v/20211206230007435</id>
+        <link href="https://entertain.v.daum.net/v/20211206230007435"/>
+        <updated>2021-12-06T14:20:58.167Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] [사진 = 스타쉽엔터테인먼트]그룹 아이브(IVE)가 6인 6색 출구 없는 입덕 포인트를 예고했다. 아이브는 지난 5일 공식 유튜브 채널을 통해 자체 리얼리티 콘텐츠 ‘1,2,3 IVE’의 두 번째 티저 영상을 게재했다. 공개된 영상 속 아이브는 서로 다른 여섯 명의 멤버가 만나 데뷔를 향해 쉼 없이 달려온 과정을 담아냈다. 유진과 원영을 주]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단, 8년만 전원 개인 SNS 개설..최다 팔로워 뷔 '910만']]></title>
         <id>https://entertain.v.daum.net/v/20211206221326250</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211206174040593"/>
         <updated>2021-12-06T09:23:06.316Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 그룹 몬스타엑스(MONSTA X)가 해외 프로모션 차 오늘(6일) LA로 출국한다. 몬스타엑스는 오는 12월 10일 미국에서 두 번째 정규앨범 ‘THE DREAMING(더 드리밍)’을 발매한다. 이어 13일(이하 현지 시간) 필라델피아를 시작으로 14일 워싱턴 D.C, 16일 애틀란타, 19일 마이애미에서 진행되는 ‘징글볼(Jing]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몬스타엑스, '커리어 하이' 찍고 美 활동으로 증명할 존재감]]></title>
-        <id>https://entertain.v.daum.net/v/20211206172526143</id>
-        <link href="https://entertain.v.daum.net/v/20211206172526143"/>
-        <updated>2021-12-06T08:27:43.585Z</updated>
-        <content type="html"><![CDATA[[OSEN=선미경 기자] 그룹 몬스타엑스가 ‘커리어 하이’를 달성하고, 미국 점령에 나선다. ‘러쉬 아워’ 활동을 성공적으로 마무리하고, 연말엔 미국 활동에 박차를 가할 예정이다. 정규앨범부터 ‘2021 징글볼’ 투어까지 연말 무대를 몬스타엑스로 꽉 채울 전망이다. 몬스타엑스는 지난 달 19일 미니앨범 ‘노 리밋(No Limit)’을 발표하고 타이틀곡 ‘러]]></content>
     </entry>
 </feed>
