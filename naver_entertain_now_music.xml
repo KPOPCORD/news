@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-06T15:24:14.683Z</updated>
+    <updated>2021-12-06T16:29:34.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[8년만 인스타 개설한 BTS, 7인 7색 SNS 활용법[★NEWSing]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003010912</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003010912"/>
+        <updated>2021-12-06T16:29:17.724Z</updated>
+        <content type="html"><![CDATA[그룹 방탄소년단(BTS·RM, 진, 슈가, 제이홉, 지민, 뷔, 정국)이 데뷔 8년 만에 개인 인스타그램 계정을 열었다. 일곱 멤버는 각자만의 방식으로 팬들과 소통을 시작하며 개성을 표출하고 있다. 6일 방탄소년단]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“K열풍, 한국어 붐으로…UCLA 중국학 추월” [연말특집 폭발하는 K-콘텐츠 ②]]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000779238</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010874024"/>
         <updated>2021-12-06T09:23:21.910Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 일본 대세 2인 밴드 '요아소비'가 정규 2집 '더 북(THE BOOK)2'를 발매했다고 국내 유통사 EMA가 6일 밝혔다. 전작으로 지난 1월에 나온 '더 북'을 포함해 한 해 동안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['10년만 컴백' 하하, 새 EP '공백' MV 티저 오픈..이광수 출연 '의리']]></title>
-        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003506686</id>
-        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003506686"/>
-        <updated>2021-12-06T09:23:21.910Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=박서현기자] 가수로 돌아오는 하하가 다채로운 티징 콘텐츠로 기대감을 높였다. 하하는 지난 5일 유튜브 채널 '하하 PD'에서 새 EP '공백'의 퍼포먼스 비디오 티저를 게재하고, 6일 오후 1theK(]]></content>
     </entry>
 </feed>
