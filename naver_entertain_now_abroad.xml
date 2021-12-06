@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-05T23:23:30.025Z</updated>
+    <updated>2021-12-06T01:10:35.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[앤 해서웨이, 초미니 패션+섹시 각선미…남편과 손잡고 '행복' [N해외연예]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005766258</id>
+        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005766258"/>
+        <updated>2021-12-06T01:10:34.842Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 할리우드 앤 해서웨이의 여전히 아름다운 미모가 포착됐다. 미국 연예매체 스플래시닷컴은 지난 2일(현지시간) 미국 뉴욕 소호에서 앤 해서웨이를 포착했다. 사진에서 앤 해서웨이는 남편인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[젠데이아 콜먼 "♥톰 홀랜드, 5cm 작아서 더 애착 느껴" [Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004522282</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004522282"/>
+        <updated>2021-12-06T01:10:34.842Z</updated>
+        <content type="html"><![CDATA[[OSEN=연휘선 기자] 할리우드 스타 커플 톰 홀랜드와 젠데이아 콜먼이 키 차이도 아랑곳하지 않는 인터뷰로 화제를 모았다. 3일(현지시간) 영국 BBC 예능 프로그램 '그레이엄 노튼 쇼'에서는 톰 홀랜드와 젠데이아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나다 '농구장에서도 카리스마' [MK포토]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000836093</id>
@@ -164,20 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000835929</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000835929"/>
         <updated>2021-12-04T12:34:21.752Z</updated>
-        <content type="html"><![CDATA[가수 임영웅이 4일 오후 온라인으로 진행된 ’멜론 뮤직 어워드(MMA 2021)’에 참석하고 있다. 사진=멜론]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임영웅 '멋진 무대' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000835928</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000835928"/>
-        <updated>2021-12-04T12:34:21.753Z</updated>
-        <content type="html"><![CDATA[가수 임영웅이 4일 오후 온라인으로 진행된 ’멜론 뮤직 어워드(MMA 2021)’에 참석하고 있다. 사진=멜론]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임영웅 '빛나는 무대' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000835927</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000835927"/>
-        <updated>2021-12-04T12:34:21.754Z</updated>
         <content type="html"><![CDATA[가수 임영웅이 4일 오후 온라인으로 진행된 ’멜론 뮤직 어워드(MMA 2021)’에 참석하고 있다. 사진=멜론]]></content>
     </entry>
 </feed>
