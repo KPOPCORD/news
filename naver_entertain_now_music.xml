@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-06T19:18:55.231Z</updated>
+    <updated>2021-12-06T20:25:44.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이젠 '화요일은 밤이 좋아'…시간 바꿔 새 무대]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010874210</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010874210"/>
+        <updated>2021-12-06T20:25:26.081Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]김예지 인턴 기자 = '금요일은 밤이 좋아'가 방송시간을 바꿔 매주 화요일에 시청자를 찾아간다. 6일 TV조선 측은 '금요일은 밤이 좋아'가 화요일 오후 10시에 '화요일은 밤이 좋아'로 편성시간을 바]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['최저점 저승사자' 박칼린, 심사중단 왜?…'풍류대장']]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010874193</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010874048"/>
         <updated>2021-12-06T10:26:01.098Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 래퍼 자이언트핑크가 엄마가 된다. 자이언트핑크는 6일 소셜미디어에 "다들 놀라셨겠지만, 요새 제가 살이 포동포동 오른 이유가 바로 요놈 때문! 어느덧 23주가 지나 이제 숨길 수 없을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['10년만 컴백' 하하, 신보 MV 티저 오픈…이광수 지원사격 '의리']]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001382168</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001382168"/>
-        <updated>2021-12-06T09:23:21.910Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) 10년 만에 가수로 돌아오는 하하가 컴백 기대감을 높였다. 하하는 지난 5일 유튜브 채널 하하 PD를 통해 새 EP 앨범 '공백'의 퍼포먼스 비디오 티저를 게재하고, 6일 오후 1theK]]></content>
     </entry>
 </feed>
