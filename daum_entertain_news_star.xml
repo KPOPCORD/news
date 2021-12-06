@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-12-06T17:20:18.381Z</updated>
+    <updated>2021-12-06T18:29:11.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장민호 "코요태 되고 싶었다" 고백]]></title>
+        <id>https://entertain.v.daum.net/v/20211207023010160</id>
+        <link href="https://entertain.v.daum.net/v/20211207023010160"/>
+        <updated>2021-12-06T18:28:44.260Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] [사진제공 = TV CHOSUN ‘화요일은 밤이 좋아’]‘금요일은 밤이 좋아’가 화요일 밤 10시에 방송되는 ‘화요일은 밤이 좋아’로 편성을 이동했다. TV CHOSUN ‘화요일은 밤이 좋아’는 ‘미스트롯2’ TOP7 양지은-홍지윤-김다현-김태연-김의영-별사랑-은가은과 ‘미스레인보우’ 강혜연 등 국민 딸들이 정통 트롯부터 7080 가요, 댄]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['동상이몽2' 이상해, "내가 당신 정말 많이 사랑해요"..김영임 향한 세레나데 '감동']]></title>
         <id>https://entertain.v.daum.net/v/20211207021200149</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211207002701880"/>
         <updated>2021-12-06T16:29:03.771Z</updated>
         <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 이용진이 본인이 사랑꾼이라 밝혔다. 6일 방송된 SBS '동상이몽 시즌2-너는 내 운명'(이하 '동상이몽2')에서는 개그맨 이용진이 스페셜 MC로 등장했다. 이날 방송에서 서장훈은 "이용진 씨가 스스로 남가좌동 최수종이라고 여기저기서 본인이 말하고 다닌다더라"라고 했다. 이에 이용진은 "이제 개그계에도 나올 때가 됐다"라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['동상이몽' 이용진 "子 위해 술도 취미도 끊어.. 출근 직전까지 육아"]]></title>
-        <id>https://entertain.v.daum.net/v/20211207002430873</id>
-        <link href="https://entertain.v.daum.net/v/20211207002430873"/>
-        <updated>2021-12-06T16:29:03.771Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 개그맨 이용진이 육아만렙 가장의 면면을 소개했다. 6일 방송된 SBS ‘동상이몽-너는 내 운명’에선 이용진이 스페셜MC로 출연해 결혼 3년차 부부의 러브스토리를 공개했다. 이날 이용진은 스스로를 ‘남가좌동 최수종’으로 명명한데 대해 “사랑꾼하면 배우 쪽엔 최수종, 가수 쪽엔 션이 있지 않나. 난 그렇게 생각한다. 이제 개그 쪽에서]]></content>
     </entry>
 </feed>

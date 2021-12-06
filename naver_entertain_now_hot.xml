@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-12-06T17:20:18.383Z</updated>
+    <updated>2021-12-06T18:29:11.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[거미 “작은 위로 되길” 부산 공연 성료]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000949421</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000949421"/>
+        <updated>2021-12-06T18:29:03.809Z</updated>
+        <content type="html"><![CDATA[가수 거미가 호응 속에 부산 공연을 마쳤다. 거미가 지난 주말(4-5일) KBS부산홀에서 열린 2021 전국투어 콘서트 '다시, Winter Ballad(윈터발라드)'로 부산 관객들과 뜻 깊은 시간을 보냈다. 2년만]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장민호 “코요태 되고 싶었다” 고백 (화요일은 밤이 좋아)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000949420</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000949420"/>
+        <updated>2021-12-06T18:29:03.814Z</updated>
+        <content type="html"><![CDATA[‘금요일은 밤이 좋아’가 화요일 밤 10시에 방송되는 ‘화요일은 밤이 좋아’로 편성을 이동했다. TV CHOSUN ‘화요일은 밤이 좋아’는 ‘미스트롯2’ TOP7 양지은-홍지윤-김다현-김태연-김의영-별사랑-은가은과]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[은혁→예나, ‘아받대2’ 메인 포스터 공개]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000949419</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003809847"/>
         <updated>2021-12-06T13:28:49.959Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 정안지 기자] 배우 수현의 미모는 흑백 사진에서도 빛났다. 수현은 6일 자신의 인스타그램을 통해 "home sweet home"이라면서 사진을 게재했다. 사진 속에는 집에서 휴식을 취하고 있는 수현의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장동민, 19일 깜짝 결혼 발표 "유세윤·유상무에 조언 듣고 준비"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=011&amp;aid=0003993658</id>
-        <link href="https://entertain.naver.com/now/read?oid=011&amp;aid=0003993658"/>
-        <updated>2021-12-06T13:28:49.959Z</updated>
-        <content type="html"><![CDATA[[서울경제] 개그맨 장동민이 깜짝 결혼 발표를 했다. 6일 소속사 엘디스토리는 공식입장을 통해 "장동민은 오는 19일 제주도의 모처에서 결혼식을 올릴 예정이다”라고 밝혔다. 결혼식이 며칠 안 남은 시점에 공개하는 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“밥 한술만 떠” 한국 밥상의 특별한 ‘숟가락’]]></title>
-        <id>https://entertain.naver.com/now/read?oid=032&amp;aid=0003114699</id>
-        <link href="https://entertain.naver.com/now/read?oid=032&amp;aid=0003114699"/>
-        <updated>2021-12-06T13:28:49.960Z</updated>
-        <content type="html"><![CDATA[[경향신문] 우리 밥상에서 볼 수 있는 숟가락은 얼마나 긴 역사를 가지고 있을까. 7일 KBS 1TV &lt;역사스페셜&gt;은 우리가 매일같이 쓰면서도 알지 못했던 숟가락의 비밀을 알아본다. 비슷한 문화를 공유해 온 중국·일]]></content>
     </entry>
 </feed>
