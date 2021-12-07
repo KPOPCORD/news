@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-07T14:22:29.269Z</updated>
+    <updated>2021-12-07T15:24:01.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘KBS 단독쇼’ 임영웅, 트롯픽 위클리 투표 남성 가수 부문 1위 등극]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001382704</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001382704"/>
+        <updated>2021-12-07T15:23:46.606Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 트로트가수 임영웅이 트롯픽 위클리 투표 남성 가수 부문 1위를 차지했다. 트로트 스타 웹서비스 '트롯픽'(Trotpick)에서는 최근 위클리 투표가 진행됐다. 이번 투표에서 임영웅은 1,]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임영웅 팬클럽 영웅시대 창원 서포터즈 사랑의 김장 담그기·기부..선한 영향력 실천 '훈훈']]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011141</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003011141"/>
+        <updated>2021-12-07T15:23:46.606Z</updated>
+        <content type="html"><![CDATA[가수 임영웅의 팬들이 사랑의 김장 담그기와 나눔으로 선한 영향력을 실천했다. 임영웅 팬클럽 영웅시대 창원 서포터즈는 12월 6일 경남 창원종합운동장에서 지역사회 소외계층의 따뜻한 겨울나기를 위한 2021 사랑의 김장]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[K팝 플랫폼 유니버스, 10개월 만에 2000만 다운로드]]></title>
         <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0001921892</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004522966"/>
         <updated>2021-12-07T09:25:21.218Z</updated>
         <content type="html"><![CDATA[[OSEN=이승훈 기자] 밴드 루시(신예찬, 최상엽, 조원상, 신광일)가 힘든 하루하루를 견뎌내고 있는 이들에게 따뜻한 위로를 건넸다. 루시(LUCY)는 오늘(7일) 오후 6시 각종 온라인 음원 사이트를 통해 두 번]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“준비 장전 발사” 여심저격 송민호, 사랑의 카우보이 변신 ‘탕!♡’[들어보고서]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000519975</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000519975"/>
-        <updated>2021-12-07T09:25:21.219Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 가수 송민호가 사랑의 카우보이로 변신했다. 송민호는 12월 7일 오후 6시 각종 음원 사이트를 통해 정규 3집 앨범 "TO INFINITY."(투 인피니티)를 발매했다. 이번 앨범은 송민호가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“그때로 뒤로 Back!” 루시, 믿고 듣는 자작곡 부자들 ‘떼굴떼굴’[들어보고서]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000519974</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000519974"/>
-        <updated>2021-12-07T09:25:21.220Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 믿고 듣는 대세 밴드 루시(LUCY)가 공감을 불러일으키는 자작곡으로 컴백했다. 루시는 12월 7일 오후 6시 각종 음원 사이트를 통해 두 번째 미니 앨범 'BLUE'(블루)를 발매했다. 지난]]></content>
     </entry>
 </feed>
