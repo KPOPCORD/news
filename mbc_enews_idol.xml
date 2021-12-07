@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Dec 2021 10:26:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 11:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제시카, 휴양지서 뽐낸 명품 몸매…섹시美 장착 [인스타]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332725</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332725</guid>
+            <pubDate>Tue, 07 Dec 2021 11:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332725">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/07/a0bd54ab-7fb7-4d5e-b555-de32cfdeb54d.jpg" alt="제시카, 휴양지서 뽐낸 명품 몸매…섹시美 장착 [인스타]">        <div class="text-box">            <p class="summary">제시카, 휴양지서 뽐낸 명품 몸매…섹시美 장착 [인스타]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/07/a0bd54ab-7fb7-4d5e-b555-de32cfdeb54d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 개인 인스타 개설→뷔, 제니 '언팔' 해프닝 [종합]]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/332723</link>
@@ -86,14 +94,6 @@
             <pubDate>Tue, 07 Dec 2021 07:21:37 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332702">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/07/a11bcd35-0bd5-4ff5-90e5-d64aa7e88796.jpg" alt="'주간아이돌' 아이브, 소녀시대→몬스타엑스 커버 무대 공개">        <div class="text-box">            <p class="summary">'주간아이돌' 아이브, 소녀시대→몬스타엑스 커버 무대 공개</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/07/a11bcd35-0bd5-4ff5-90e5-d64aa7e88796.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 소속사, 외국인 대상 한국어교재 ‘Talk! with BTS’ 출시]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332691</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332691</guid>
-            <pubDate>Tue, 07 Dec 2021 07:21:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332691">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/07/8d5ede82-28d4-405b-aae4-6c5859b0d94b.jpg" alt="방탄소년단 소속사, 외국인 대상 한국어교재 ‘Talk! with BTS’ 출시">        <div class="text-box">            <p class="summary">방탄소년단 소속사, 외국인 대상 한국어교재 ‘Talk! with BTS’ 출시</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/07/8d5ede82-28d4-405b-aae4-6c5859b0d94b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
