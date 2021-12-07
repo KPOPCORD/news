@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-12-07T16:34:48.590Z</updated>
+    <updated>2021-12-07T17:31:45.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김수현X차승원 ‘어느 날’ 호평 받는 이유]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000949693</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000949693"/>
+        <updated>2021-12-07T17:31:37.336Z</updated>
+        <content type="html"><![CDATA[4회까지 공개된 쿠팡플레이 시리즈 ‘어느 날’이 작품성과 화제성, 두 마리의 토끼를 동시에 잡은 보기 드문 웰메이드 드라마로 입소문을 타고 있다. 지난 11월 27일(토) 0시(26일(금) 밤 12시)에 첫 공개된]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[상극 추영우·황보름별, 서로에게 스며든다 (‘학교2021’)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000949692</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000949692"/>
+        <updated>2021-12-07T17:31:37.336Z</updated>
+        <content type="html"><![CDATA[KBS2 수목드라마 '학교2021' 상극이던 추영우와 황보름별이 서로에게 스며든다. 8일 KBS2 수목드라마 ‘학교 2021(극본 조아라, 동희선/ 연출 김민태, 홍은미) 5회에서 정영주(추영우 분)와 강서영(황보름]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소주연·정이서·조인, 복수 시작…‘셋’ 예고편 공개]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000949691</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000949681"/>
         <updated>2021-12-07T14:22:21.937Z</updated>
         <content type="html"><![CDATA[댄서 리아킴이 JTBC 월화드라마 ‘IDOL [아이돌 : The Coup]’ 특별출연을 통해 첫 연기 도전을 한다. 오늘(7일) JTBC 월화드라마 ‘IDOL [아이돌 : The Coup]’(극본 정윤정/ 연출 노종]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최희, 똑닮은 딸 향한 애정 "목숨보다…"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=009&amp;aid=0004890317</id>
-        <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0004890317"/>
-        <updated>2021-12-07T14:22:21.944Z</updated>
-        <content type="html"><![CDATA[아나운서 출신 방송인 최희가 딸을 향한 깊은 애정을 드러냈다. 7일 인스타그램에 "요즘 내 베프. 여기엔 꽤 많은 의미가. 너를 보느라 친구들을 못 만나니 (친구들아 나 잊었니..? 나 떠나지마..) 니가 친구고.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘스걸파’ YGX 리정도 팬? 스퀴드 등장 [TV체크]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000949680</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000949680"/>
-        <updated>2021-12-07T14:22:21.944Z</updated>
-        <content type="html"><![CDATA[차원이 다른 에너지와 실력으로 첫 방송부터 눈도장을 찍은 K-여고생 댄서들이 Mnet ‘스트릿댄스 걸스 파이터’ 크루 선발전을 이어간다. 오늘(7일) Mnet ‘스트릿댄스 걸스 파이터’(이하 ‘스걸파’) 2회에서는]]></content>
     </entry>
 </feed>
