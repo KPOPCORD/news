@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-07T20:23:49.892Z</updated>
+    <updated>2021-12-07T21:19:23.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘KBS 단독쇼’ 임영웅, 흑발이 잘 어울리는 스타]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001382714</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001382714"/>
+        <updated>2021-12-07T21:19:08.954Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 임영웅이 ‘팬앤스타’ 포토톡 “흑발이 잘 어울리는 스타” 투표 1위에 올랐다. 최근 ‘팬앤스타’ 포토톡에서는 12월 1주 차 투표로 “흑발이 잘 어울리는 스타” 투표를 진행했다. 이 투표]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘KBS 단독쇼’ 임영웅, 트롯픽 위클리 투표 남성 가수 부문 1위 등극]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001382704</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003011097"/>
         <updated>2021-12-07T09:25:21.216Z</updated>
         <content type="html"><![CDATA[배우 김유정과 래퍼 기리보이가 딩고와 만나 특급 컬래버레이션이 성사됐다. 딩고는 7일 오전 10시 딩고 뮤직 공식 SNS를 통해 딩고 뮤직 '듀엣메이트' 두 번째 주자인 김유정과 기리보이의 네 컷 사진을 공개했다 공]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["뒤돌아봐"..루시, 지쳐있던 오늘은 BACK! 내일의 희망 찾아 '떼굴떼굴'(종합)[퇴근길 신곡]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004522966</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004522966"/>
-        <updated>2021-12-07T09:25:21.218Z</updated>
-        <content type="html"><![CDATA[[OSEN=이승훈 기자] 밴드 루시(신예찬, 최상엽, 조원상, 신광일)가 힘든 하루하루를 견뎌내고 있는 이들에게 따뜻한 위로를 건넸다. 루시(LUCY)는 오늘(7일) 오후 6시 각종 온라인 음원 사이트를 통해 두 번]]></content>
     </entry>
 </feed>

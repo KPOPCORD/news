@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-07T20:23:49.866Z</updated>
+    <updated>2021-12-07T21:19:23.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“조지 클루니 네가 날 저격하다니…” 총기사고 알렉 볼드윈 불쾌감 토로[해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003560755</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003560755"/>
+        <updated>2021-12-07T21:19:23.250Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]영화 ‘러스트(Rust)’ 촬영 중 총기 오발사고를 일으킨 할리우드 배우 알렉 볼드윈(63)이 동료 조지 클루니(60)의 저격에 불쾌감을 드러냈다. 그는 최근 ABC 뉴스의 조지 스테파노]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['♥스파이더맨' 젠데이아, 가슴선 드러낸 파격 패션 '아찔']]></title>
         <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004680464</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004679886"/>
         <updated>2021-12-06T15:24:14.059Z</updated>
         <content type="html"><![CDATA[영화배우 휴 잭맨이 코로나19 백신 부스터샷 접종 인증샷을 공개했다. 휴 잭맨은 지난 5일(한국시각) 자신의 인스타그램에 사진 여러 장을 올리며 부스터샷 접종을 인증했다. 공개된 사진 속 휴 잭맨은 검은색 마스크를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조지 클루니, 하루 광고비로 414억원 제안받고도 칼거절 “아내와 상의”]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000519586</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000519586"/>
-        <updated>2021-12-06T09:23:34.370Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 조지 클루니가 단 하루 광고 비용으로 414억 원을 제안 받고도 거절했다고 밝혔다. 할리우드 배우 조지 클루니는 최근 영국 가디언지와의 인터뷰에서 모 항공사의 광고 개런티로 일일 3,500만]]></content>
     </entry>
 </feed>
