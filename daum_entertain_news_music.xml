@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-07T18:26:17.625Z</updated>
+    <updated>2021-12-07T19:20:24.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에스파, K팝의 '넥스트 레벨'로 안내하다]]></title>
+        <id>https://entertain.v.daum.net/v/20211208040212234</id>
+        <link href="https://entertain.v.daum.net/v/20211208040212234"/>
+        <updated>2021-12-07T19:19:46.744Z</updated>
+        <content type="html"><![CDATA[에스파(사진=SM엔터테인먼트)[이데일리 스타in 윤기백 기자] 그룹 에스파(aespa)가 올 연말 대중음악 시상식에서 이변의 주인공으로 떠오르고 있다. 에스파는 최근 진행된 ‘MMA 2021’(멜론 뮤직 어워즈 2021)에서 신인상과 4대 대상 중 하나인 ‘올해의 레코드’를 동시에 거머쥐며 그룹 방탄소년단(BTS), 아이유와 어깨를 나란히 했다. 신인 아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ITZY 류진, 단독 퍼포먼스 영상 1000만뷰]]></title>
+        <id>https://entertain.v.daum.net/v/20211208040006222</id>
+        <link href="https://entertain.v.daum.net/v/20211208040006222"/>
+        <updated>2021-12-07T19:19:46.749Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] (사진출처:  [Artist Of The Month]  Therefore I Am  covered by ITZY RYUJIN(류진) | November 2021  영상 화면 캡처)그룹 ITZY(있지) 류진의 '스튜디오 춤'(STUDIO CHOOM) 단독 퍼포먼스 영상이 1000만 뷰를 돌파했다. Mnet 디지털 스튜디오 M2가 지난달 20일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엔하이픈 성훈 오늘 생일..아이돌픽 이벤트 주인공]]></title>
         <id>https://entertain.v.daum.net/v/20211208000025374</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211207180007624"/>
         <updated>2021-12-07T09:25:01.027Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 위너 멤버 송민호가 로맨틱한 '디지털 건 맨'의 탈을 쓰고 돌아왔다. 송민호의 세 번째 솔로 정규 앨범 '투 인피니티.(TO INFINITY.)'와 타이틀곡 '탕!♡' 뮤직비디오가 7일 오후 6시 공개됐다. 송민호의 이번 앨범은 'LOVE IN DA CAR(러브 인 다 카)'를 시작으로 타이틀곡 '탕!♡'과 'PYRAMID]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["절망 위로 날아올라"..라포엠, 환희의 찬가 '빈체레']]></title>
-        <id>https://entertain.v.daum.net/v/20211207180003614</id>
-        <link href="https://entertain.v.daum.net/v/20211207180003614"/>
-        <updated>2021-12-07T09:25:01.039Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) 그룹 라포엠(LA POEM)이 극복의 환희를 담은 새 싱글 '빈체레(Vincere)'로 3부작 시리즈의 대단원을 마무리했다. 라포엠(유채훈, 박기훈, 최성훈, 정민성) 새 싱글 '빈체레 : 극복(Trilogy Ⅲ. Vincere)'(이하 '빈체레')이 7일 오후 6시 각종 온라인 음원사이트를 통해 공개됐다. 라포엠의 싱글 트릴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["사랑을 얻기 위해서라면"..송민호, 한계 없는 열정 사랑꾼 '탕!♡']]></title>
-        <id>https://entertain.v.daum.net/v/20211207175954594</id>
-        <link href="https://entertain.v.daum.net/v/20211207175954594"/>
-        <updated>2021-12-07T09:25:01.055Z</updated>
-        <content type="html"><![CDATA[[OSEN=이승훈 기자]&nbsp;위너 송민호(MINO)가 가장 송민호다운 음악으로 돌아왔다.&nbsp; 송민호는 오늘(7일) 오후 6시 각종 온라인 음원 사이트를 통해 솔로 세 번째 정규앨범 'TO INFINITY.'를 발매했다. 지난해 10월 정규 2집 'TAKE' 이후 약 1년 2개월 만에 컴백이다.&nbsp; 'TO INFINITY.'는 그동안 무한한 성장과 가능성이 있는 곳]]></content>
     </entry>
 </feed>
