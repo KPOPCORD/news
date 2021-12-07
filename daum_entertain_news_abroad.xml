@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-12-07T07:22:13.581Z</updated>
+    <updated>2021-12-07T08:27:56.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[콜린 파렐, '더 배트맨' 스핀오프 펭귄 役 출연 확정]]></title>
+        <id>https://entertain.v.daum.net/v/20211207170806065</id>
+        <link href="https://entertain.v.daum.net/v/20211207170806065"/>
+        <updated>2021-12-07T08:27:36.551Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 아일랜드 출신 배우 콜린 파렐이 '더 배트맨' 뿐만 아니라 스핀오프 시리즈에서도 빌런 펭귄 역으로 활약한다. 미국 연예매체 버라이어티는 6일(현지시간) "콜린 파렐이 '더 배트맨' 스핀오프에도 출연한다"고 보도했다. 콜린 파렐은 우선 2022년 3월 개봉 예정인 영화 '더 배트맨'에서 빌런 펭귄 역으로 활약할 예정. 여기서 멈추]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[드레이크, '2022 그래미' 후보 거절]]></title>
+        <id>https://entertain.v.daum.net/v/20211207165606607</id>
+        <link href="https://entertain.v.daum.net/v/20211207165606607"/>
+        <updated>2021-12-07T08:27:36.552Z</updated>
+        <content type="html"><![CDATA[팝스타 드레이크가 '2022 그래미' 후보를 거절했다. 7일 버라이어티 등 외신 보도에 따르면 드레이크는 2022년 그래미 어워드 후보 2개 부문을 철회해 달라고 미국 레코딩 아카데미에 요청했다. 그가 후보에 오른 부분은 '베스트 랩 앨범'과 '베스트 랩 퍼포먼스'였다. 드레이크와 그래미는 꽤나 불편한 관계를 지속했다. 이전에도 그래미 시상식에서 랩]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[젠데이아 "오징어 게임 정호연과 더 친해지고 싶다"]]></title>
         <id>https://entertain.v.daum.net/v/20211207132629124</id>
@@ -53,12 +67,5 @@
         <link href="https://entertain.v.daum.net/v/20211206181919605"/>
         <updated>2021-12-06T09:23:14.858Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 조지 클루니가 단 하루 광고 비용으로 414억 원을 제안 받고도 거절했다고 밝혔다. 할리우드 배우 조지 클루니는 최근 영국 가디언지와의 인터뷰에서 모 항공사의 광고 개런티로 일일 3,500만 달러(한화 약 414억 원)를 제안 받았으나, 거절했다고 밝혔다. 해당 인터뷰에서 조지 클루니는 "아내 아말 클루니와의 대화 끝에 찍을 가치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케빈 파이기 "찰리 콕스, 데어데블로 MCU 복귀할 것..시기는 미정"]]></title>
-        <id>https://entertain.v.daum.net/v/20211206170447551</id>
-        <link href="https://entertain.v.daum.net/v/20211206170447551"/>
-        <updated>2021-12-06T08:27:52.822Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) '데어데블'로 유명한 찰리 콕스가 마블 시네마틱 유니버스(MCU)로 복귀할 예정이다.  5일(현지시간) 마블 스튜디오 CEO 케빈 파이기는 시네마블렌드와의 인터뷰에서 찰리 콕스가 데어데블 역으로 복귀한다고 언급했다.  그는 "만약 MCU에 데어데블이 다시 나온다면 찰리 콕스가 다시 출연할 것"이라며 "언제, 어떻게, 어떤 방식]]></content>
     </entry>
 </feed>
