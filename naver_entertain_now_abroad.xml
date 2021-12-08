@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-08T14:22:55.171Z</updated>
+    <updated>2021-12-08T15:25:07.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[누드 촬영 후 사이즈 질문 받았던 '16살' 브룩 쉴즈 "사실상 범죄"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004680990</id>
+        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004680990"/>
+        <updated>2021-12-08T15:25:06.462Z</updated>
+        <content type="html"><![CDATA[할리우드 배우 브룩 쉴즈가 40년 전 인터뷰를 돌아보며 당시 받았던 질문에 대한 생각을 밝혔다. 브룩 쉴즈는 지난 6일(현지시간) 닥스 셰퍼드가 진행하는 팟캐스트 '암체어 엑스퍼트'(Armchair Expert)에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['56세' 브룩 쉴즈, 전성기 몸매 그대로…나이 잊은 수영복 자태]]></title>
         <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004680987</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000836647"/>
         <updated>2021-12-08T10:25:49.067Z</updated>
         <content type="html"><![CDATA[윤준협, 이재억, 임주안(왼쪽부터)이 8일 오후 서울 강남구 MBC 스마트센터에서 진행되는 서바이벌 오디션 프로그램 '극한데뷔 야생돌' 라이브토크 녹화를 위해 참석해 포즈를 취하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김기중-김현엽 '미소년들의 손하트' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000836646</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000836646"/>
-        <updated>2021-12-08T10:25:49.067Z</updated>
-        <content type="html"><![CDATA[김기중과 김현엽이 8일 오후 서울 강남구 MBC 스마트센터에서 진행되는 서바이벌 오디션 프로그램 '극한데뷔 야생돌' 라이브토크 녹화를 위해 참석해 포즈를 취하고 있다.]]></content>
     </entry>
 </feed>

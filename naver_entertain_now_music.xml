@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-08T14:22:55.157Z</updated>
+    <updated>2021-12-08T15:25:07.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[나의 인생곡㊻] 이혜리 '당신은 바보야', 억울한 스캔들 '한풀이']]></title>
+        <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000120584</id>
+        <link href="https://entertain.naver.com/now/read?oid=629&amp;aid=0000120584"/>
+        <updated>2021-12-08T15:24:52.672Z</updated>
+        <content type="html"><![CDATA[가요계 떠난 지 15년만에 컴백 후 히트 '가수 자존심' 확인 트로트 가수 이혜리의 매력은 감칠맛이 뚝뚝 묻어나는 목소리다. 맑고 경쾌하면서도 리드미컬한 톤이 투정 부리듯 애교 넘치는 표정과 어우러져 묘한 친근감을]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[래퍼 히어로의 무한 매력..임영웅 'BK Love' 100만뷰]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011461</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003011461"/>
+        <updated>2021-12-08T15:24:52.673Z</updated>
+        <content type="html"><![CDATA[가수 임영웅의 무한 매력에 빠지게 하는 'BK Love' 무대가 100만 뷰를 넘어섰다. 지난 6월 7일 유튜브 채널 미스&amp;미스터트롯 공식계정에 공개된 임영웅의 'BK Love' 무대는 12월 8일 조회수 100만]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에스파 ‘Next Level’, 英 NME 선정 ‘2021년 베스트 송 50’ 등극]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000836674</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010878729"/>
         <updated>2021-12-08T09:22:03.888Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 그룹 '에이핑크' 박초롱의 '학교 폭력' 의혹이 진실공방 양상으로 번지고 있다. 제보자 A씨와 박초롱 측이 입장을 거듭 추가로 내놓으면서 대립을 이어가고 있다. A씨 측의 법률대리인은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['추가확진자 無' 케플러, 코로나19 확산 방지 위해 데뷔 2022년 1월 3일 연기[전문]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004523527</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004523527"/>
-        <updated>2021-12-08T09:22:03.889Z</updated>
-        <content type="html"><![CDATA[[OSEN=박판석 기자] 그룹 케플러의 데뷔가 코로나19에 발목 잡혔다. 그들의 데뷔는 내년 1월 3일이다. 케플러의 소속사 웨이크원, 스윙 엔터테인먼트 측은 8일 케플러의 데뷔가 내년 1월 3일로 미뤄졌다고 발표했]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케플러, 내년 1월 3일 데뷔 연기 확정…‘마마’ 출연 취소(공식)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000836642</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000836642"/>
-        <updated>2021-12-08T09:22:03.890Z</updated>
-        <content type="html"><![CDATA[그룹 케플러의 데뷔가 연기됐다. 케플러 소속사 웨이크원, 스윙 엔터테인먼트는 8일 오후 공식입장을 내고 “14일로 예정되었던 케플러(Kep1er)의 첫 미니앨범 'FIRST IMPACT' 발매일을 2022년 1월 3]]></content>
     </entry>
 </feed>
