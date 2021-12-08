@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-08T11:20:34.441Z</updated>
+    <updated>2021-12-08T12:36:17.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에스파 ‘Next Level’, 英 NME 선정 ‘2021년 베스트 송 50’ 등극]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000836674</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000836674"/>
+        <updated>2021-12-08T12:36:02.203Z</updated>
+        <content type="html"><![CDATA[에스파의 히트곡 ‘Next Level’이 NME가 선정한 ‘2021년베스트 송 50’에 등극했다. 영국 유명 음악 전문 매거진 NME는 최근 공식 홈페이지를 통해 ‘2021년 베스트 송 50’를 선정, 에스파는 지난]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['흙에 살리라' 가수 홍세민 지난달 별세…향년 71세]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011438</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003011438"/>
+        <updated>2021-12-08T12:36:02.203Z</updated>
+        <content type="html"><![CDATA['흙에 살리라'를 부른 가수 홍세민이 지난달 별세한 사실이 뒤늦게 알려졌다. 8일 뉴스1에 따르면 고인은 30일 오전 심정지로 쓰러진 뒤 의식을 회복하지 못하고 세상을 떠났다. 이달 2일에는 발인식도 거행됐다. 19]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['김영후 빅밴드 단독콘서트'·'unCERTAINTY 서수진 단독공연' 개최]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003560983</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000836642"/>
         <updated>2021-12-08T09:22:03.890Z</updated>
         <content type="html"><![CDATA[그룹 케플러의 데뷔가 연기됐다. 케플러 소속사 웨이크원, 스윙 엔터테인먼트는 8일 오후 공식입장을 내고 “14일로 예정되었던 케플러(Kep1er)의 첫 미니앨범 'FIRST IMPACT' 발매일을 2022년 1월 3]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이효리만?..'2021 MAMA', 다듀·릴보이·이영지·조광일 힙합신 총출동]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004523515</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004523515"/>
-        <updated>2021-12-08T09:22:03.890Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] 오는 12월 11일 오후 6시(KST) 개최되는 World’s No.1 K-POP 음악 시상식 ‘2021 Mnet ASIAN MUSIC AWARDS(2021 MAMA)’에 ‘쇼미더머니’ 10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이브, 데뷔 일주일 만에 美 빌보드·日 라인뮤직 진입]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010878663</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010878663"/>
-        <updated>2021-12-08T09:22:03.892Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]김예지 인턴 기자 = 6인조 신예 걸그룹 '아이브(IVE)'가 데뷔 일주일 만에 각종 글로벌 차트에 진입했다. 미국 빌보드가 6일(이하 현지시간) 발표한 차트(11일자)에 따르면 아이브가 지난 1일 공]]></content>
     </entry>
 </feed>
