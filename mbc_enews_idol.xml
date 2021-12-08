@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 06:26:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 07:21:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이브 원영, 역대급 '얼굴 개인기' 공개(주간아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332805</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332805</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332805">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/08/16dbf18b-f8c2-4775-9555-2942f0c4bd13.jpg" alt="아이브 원영, 역대급 '얼굴 개인기' 공개(주간아이돌)">        <div class="text-box">            <p class="summary">아이브 원영, 역대급 '얼굴 개인기' 공개(주간아이돌)</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/08/16dbf18b-f8c2-4775-9555-2942f0c4bd13.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이브 'ELEVEN' 데뷔 소감, 공개된 적 없는 멤버들의 비밀과 징크스 (정희)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/332796</link>
@@ -86,14 +94,6 @@
             <pubDate>Wed, 08 Dec 2021 04:28:40 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332777">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/08/0ed78b7b-ab42-4e0b-8f90-a642f4e66ad3.jpg" alt="[포토] 조이, '해피니스~'">        <div class="text-box">            <p class="summary">[포토] 조이, '해피니스~'</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/08/0ed78b7b-ab42-4e0b-8f90-a642f4e66ad3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 카이, 'peach 왔다 카이~']]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332776</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332776</guid>
-            <pubDate>Wed, 08 Dec 2021 04:28:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332776">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/08/fbcb1299-8e99-49a5-aaf0-4d6c6c8ef310.jpg" alt="[포토] 카이, 'peach 왔다 카이~'">        <div class="text-box">            <p class="summary">[포토] 카이, 'peach 왔다 카이~'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/08/fbcb1299-8e99-49a5-aaf0-4d6c6c8ef310.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 06:26:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 07:21:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미리 메리 크리스마스, 스트레이 키즈의 '크리스마스 이블' (KBS연예 ─ 음악)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=178264</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=178264</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=178264">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211208161203_e72ef6f5069f36deea95f06d715424e2.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=178264">미리 메리 크리스마스, 스트레이 키즈의 '크리스마스 이블'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211208161203_e72ef6f5069f36deea95f06d715424e2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가온차트, 스포티파이와 ‘디지털차트’ 시작 (KBS연예 ─ 음악)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=178223</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=177587">방탄소년단, 빌보드 연말 결산차트 9개 부문 정상</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211206082937_87e3df3b2228a89fe5a1add19dd837f7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원더케이 오리지널 콘텐츠 수상 스테이씨  "더 열심히 노력해서 멋진 무대 보여드릴 것" (KBS연예 ─ 음악)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=177550</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=177550</guid>
-            <pubDate>Sun, 05 Dec 2021 14:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=177550">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211205222854_761f164eee906696d379f0cf21e65c6c.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=177550">원더케이 오리지널 콘텐츠 수상 스테이씨  "더 열심히 노력해서 멋진 무대 보여드릴 것"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211205222854_761f164eee906696d379f0cf21e65c6c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[골든디스크 어워즈 후보 공개, 방탄소년단부터 브레이브걸스까지 (KBS연예 ─ 연예)]]></title>
@@ -688,6 +688,14 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211203181504_274b6baeb9d83ea9cae6e15d12188f26.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아이브 원영, 역대급 '얼굴 개인기' 공개(주간아이돌) (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332805</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332805</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332805">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/08/16dbf18b-f8c2-4775-9555-2942f0c4bd13.jpg" alt="아이브 원영, 역대급 '얼굴 개인기' 공개(주간아이돌)">        <div class="text-box">            <p class="summary">아이브 원영, 역대급 '얼굴 개인기' 공개(주간아이돌)</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/08/16dbf18b-f8c2-4775-9555-2942f0c4bd13.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아이브 'ELEVEN' 데뷔 소감, 공개된 적 없는 멤버들의 비밀과 징크스 (정희) (MBC 연예 ─ 아이돌)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/332796</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332796</guid>
@@ -768,12 +776,25 @@
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/08/0ed78b7b-ab42-4e0b-8f90-a642f4e66ad3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[포토] 카이, 'peach 왔다 카이~' (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332776</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332776</guid>
-            <pubDate>Wed, 08 Dec 2021 04:28:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332776">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/08/fbcb1299-8e99-49a5-aaf0-4d6c6c8ef310.jpg" alt="[포토] 카이, 'peach 왔다 카이~'">        <div class="text-box">            <p class="summary">[포토] 카이, 'peach 왔다 카이~'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/08/fbcb1299-8e99-49a5-aaf0-4d6c6c8ef310.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[에이핑크 박초롱 측 "학폭 의혹 제보자 A씨, 사실관계 왜곡" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211208161402550</link>
+            <guid>https://entertain.v.daum.net/v/20211208161402550</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=강민경 기자]그룹 에이핑크 멤버 박초롱 학교 폭력을 폭로한 제보자 A씨가 2차 고소장을 접수한 가운데, 박초롱 측은 "사실관계를 왜곡하고 있는 것"이라고 입장을 밝혔다.8일 박초롱 법률 대리를 맡고 있는 법무법인 태림은 "최근 의뢰인에 대한 제보자 측에서 저희가 전달드린 경찰 수사 결과에 대한 입장문이 허위라고 주장하며 언론사를 상대로 정정 보도]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[에스파, 'Next Level' 英 NME '2021년 베스트 송 50' 선정 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211208153710777</link>
+            <guid>https://entertain.v.daum.net/v/20211208153710777</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=선미경 기자] 그룹 에스파(aespa,&nbsp;에스엠엔터테인먼트 소속)의 히트곡 ‘Next Level’(넥스트 레벨)이&nbsp;NME가 선정한 ‘2021년 베스트 송&nbsp;50’에 등극했다.&nbsp; 영국 유명 음악 전문 매거진&nbsp;NME는 최근 공식 홈페이지를 통해 ‘2021년 베스트 송&nbsp;50’를 선정,&nbsp;에스파는 지난 싱글 ‘Next Level’로&nbsp;45위에 랭크, K팝 걸그]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[에스파 '넥스트 레벨', 英 NME 선정 '2021년 베스트송 50'..K팝 걸그룹 유일 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211208152828292</link>
+            <guid>https://entertain.v.daum.net/v/20211208152828292</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 백지은 기자] 그룹 에스파의 '넥스트 레벨'이 영국 유명 음악 전문 매거진 NME 선정 '2021 베스트 송 50'에 등극했다. '넥스트 레벨'은 NME가 최근 발표한 '2021 베스트 송 50' 45위에 랭크됐다. 이번 순위에 이름을 올린 K팝 걸그룹은 에스파가 유일하다. NME는 "에스파는 '블랙맘바'와 '포에버'로 데뷔했다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[방탄소년단, 美 '피플스 초이스' 3관왕..'올해의 노래→그룹' 최다관왕 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
@@ -860,130 +881,109 @@
             <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 그룹 스트레이 키즈(Stray Kids)가 새 싱글 'Christmas EveL'(크리스마스 이블)로 주간 음반 차트 정상을 차지하고 확실한 대세 행보를 뽐냈다. 스트레이 키즈는 11월 29일 오후 6시 홀리데이 스페셜 싱글 'Christmas EveL'과 더블 타이틀곡 'Christmas EveL', 'Winter Falls'(]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['최파타' 카이 "예전에 콘서트 무대 도중 눈물, 안무 틀리니까 속상하더라" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211208140007961</link>
-            <guid>https://entertain.v.daum.net/v/20211208140007961</guid>
-            <pubDate>Wed, 08 Dec 2021 05:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 박상후 기자] '최파타'에서 그룹 엑소(EXO) 카이가 대면 콘서트 추억을 떠올렸다. 8일 오후 방송된 SBS 파워FM '최화정의 파워타임'(이하 '최파타')의 '최파타 쇼케이스' 코너에는 카이가 게스트로 출연해 입담을 뽐냈다. 이날 한 청취자는 카이이게 "예전 엑소 콘서트에서 카이를 봤던 게 생각한다. 실수했다고 울먹이는 모습이 아른거린]]></content:encoded>
+            <title><![CDATA['백수세끼' 하석진·고원희·임현주 '밥심으로 든든한 위로' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211208162017733</link>
+            <guid>https://entertain.v.daum.net/v/20211208162017733</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[기사내용 요약 '백수세끼' 제작발표회, 10일 티빙 첫 공개 [서울=뉴시스]안소윤 인턴 기자 = 배우 하석진, 고원희, 임현주가 따뜻한 밥 한 끼로 지친 이들을 위로한다. 8일 온라인으로 진행된 플레이리스트·스튜디오N 공동제작 드라마 '백수세끼' 제작발표회에는 하석진, 고원희, 임현주가 참석했다. '백수세끼'는 이별 후에도 밥은 넘어가는 백수 재호의]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['최파타' 카이 "백현 유튜브 벤치마킹 생각? 난 집에만 있는 편" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211208135329710</link>
-            <guid>https://entertain.v.daum.net/v/20211208135329710</guid>
-            <pubDate>Wed, 08 Dec 2021 05:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 박상후 기자] '최파타'에서 그룹 엑소(EXO) 카이가 백현을 언급했다. 8일 오후 방송된 SBS 파워FM '최화정의 파워타임'(이하 '최파타')의 '최파타 쇼케이스' 코너에는 카이가 게스트로 출연해 입담을 뽐냈다. 이날 한 청취자는 카이에게 "유튜브 채널 '카이스트(KAIst)'를 운영하고 계신다. 어떤 콘텐츠를 준비 중인지 궁금하다"라]]></content:encoded>
+            <title><![CDATA['먹보와 털보' 노홍철 "비, 이혼 안할 것..자기관리 최고" 케미 과시 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211208161609625</link>
+            <guid>https://entertain.v.daum.net/v/20211208161609625</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:38 GMT</pubDate>
+            <content:encoded><![CDATA['먹보와 털보' 노홍철이 비(정지훈)와의 남다른 케미를 자랑했다. 8일 오전 넷플릭스 '먹보와 털보' 온라인 제작발표회가 진행됐다. 행사에는 비(정지훈), 노홍철, 김태호 PD, 장우성 PD, 이주원 PD, 이상순 음악 감독이 참석했다. 이날 노홍철은 비와 자신의 호흡이 좋다며 비의 평소 생활 스타일에 대해 칭찬했다. 먼저 노홍철은 "연예인 부부 중 이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[하이키 시탈라 측 "부친 행적 불이익 불가, 멤버 그대로" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211208134725500</link>
-            <guid>https://entertain.v.daum.net/v/20211208134725500</guid>
-            <pubDate>Wed, 08 Dec 2021 05:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] 하이키 시탈라 측 “부친 행적 불이익 불가, 멤버 그대로” (전문) [공식] 그룹 하이키 측이 태국인 멤버 시탈라의 부친 논란에 대해 입장을 밝혔다. 소속사 GLG(그랜드라인 그룹)는 8일 시탈라의 아버지와 관련된 이슈를 두고 논의 끝에 멤버 변경 없이 함께하기로 결정했다고 알렸다. 시탈라의 아버지 故 사라뉴는 영화감독 겸 배우로 태국 군부]]></content:encoded>
+            <title><![CDATA[신현준 갑질 폭로 前 매니저, 유죄 판결 "정의는 실현된다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211208161339532</link>
+            <guid>https://entertain.v.daum.net/v/20211208161339532</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=장우영 기자] 배우 신현준으로부터 명예훼손 혐의로 고소를 당한 전 매니저 김 모씨가 유죄 판결을 받았다. 신현준 측은 “거짓은 진실을 가릴 수 없다”며 길었던 싸움을 마무리한 심경을 전했다. 8일 법조계에 따르면 이날 오전 서울 서부지방법원 형사4단독은 신현준의 전 매니저 김 모씨에 대한 허위사실 적시에 의한 정보통신망이용촉진및정보보호등에관한법률]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[배우 고상호 '고스트 닥터' 합류 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211208152531072</link>
-            <guid>https://entertain.v.daum.net/v/20211208152531072</guid>
-            <pubDate>Wed, 08 Dec 2021 06:25:55 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 배우 고상호가 ‘고스트 닥터’ 출연을 확정 지었다.tvN 새 월화드라마 ‘고스트 닥터’(연출 부성철/ 극본 김선수/ 제작 스튜디오드래곤, 본팩토리)는 신들린 의술의 오만한 천재 의사와 사명감이라곤 1도 없는 황금 수저 레지던트, 배경도 실력도 극과 극인 두 의사가 바디를 공유하면서 벌어지는 메디컬 스토리다. 앞서 정지훈, 김범, 유이, 손나]]></content:encoded>
+            <title><![CDATA[박초롱 측 "제보자 A씨, 허위 사생활로 협박+사실관계 왜곡" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211208161308515</link>
+            <guid>https://entertain.v.daum.net/v/20211208161308515</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 에이핑크 멤버 박초롱 측이 학교 폭력(학폭)을 폭로한 제보자 A씨에 대해 "허위 사생활로 협박했다"고 주장했다. 박초롱 법률대리인 법무법인 태림은 8일 공식입장을 통해 "제보자(A씨) 측은 현재 의뢰인(박초롱)에게 사과를 요구한 행위에 대해서 경찰이 협박 혐의를 인정했다고 주장하고 있으나 상식적으로 제보자가 의뢰인에게 단지]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['아카라' 김이나 "빅스 노래, 가사만 읽으니 너무 외설적" 당황 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211208152405959</link>
-            <guid>https://entertain.v.daum.net/v/20211208152405959</guid>
-            <pubDate>Wed, 08 Dec 2021 06:25:55 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 김이나 작사가가 자신이 작사한 빅스 노래 가사에 당황했다. 12월 8일 방송된 SBS 러브FM '나르샤의 아브라카다브라'(이하 '아카라') 음악살롱 코너에는 스타 작사가 김이나가 게스트로 함께했다. 이날 김이나는 자신이 지금껏 쓴 가사를 직접 낭송해보는 시간을 가졌다. 김이나는 낭송의 경험이 있냐는 물음에 "가사 낭송을 하면 좀]]></content:encoded>
+            <title><![CDATA[방탄소년단 뷔, 블랙핑크 제니 팔로우 해프닝에 '난리난 팬心' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211208160811301</link>
+            <guid>https://entertain.v.daum.net/v/20211208160811301</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 백지연 기자] 그룹 방탄소년단 멤버들이 SNS 계정을 개설했다. 뷔는 개설 하루 만에 2000만 팔로워를 돌파하는 대기록을 세우며 글로벌 스타로서의 인기를 과시했다. 하지만 SNS 개설만으로도 엄청난 화제를 몰고 있는 뷔가 블랙핑크 제니를 팔로우했다 빠르게 언팔로우하는 해프닝으로 논란이 일고 있다. 지난 6일 방탄소년단 멤버 RM, 제이홉,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방탄소년단, 美 '피플스 초이스 어워즈' 3관왕.."어려운 시기 행복 드렸길" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211208152403957</link>
-            <guid>https://entertain.v.daum.net/v/20211208152403957</guid>
-            <pubDate>Wed, 08 Dec 2021 06:25:55 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 백지은 기자] 그룹 방탄소년단이 '2021 피플스 초이스 어워즈' 3관왕을 차지했다. 방탄소년단은 7일(현지시각) 미국의 저명한 음악 영화 TV 시상식인 '2021 피플즈 초이스 어워즈'에서 '올해의 그룹'과 '올해의 노래', '올해의 뮤직비디오' 등 3개 부문에서 수상했다. 방탄소년단은 지난해에도 '올해의 그룹' '올해의 노]]></content:encoded>
+            <title><![CDATA['지옥' 김도윤 "'화살촉 리더' 유아인도 탐냈다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211208160737277</link>
+            <guid>https://entertain.v.daum.net/v/20211208160737277</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[기사내용 요약 "연상호 감독 영화 '반도'에도 출연, 배우 개성 잘살린다" "촬영현장은 광기로 가득찼지만 촬영내내 행복했다" [서울=뉴시스]조민정 인턴 기자 = "처음 대본을 보자마자 '미친 캐릭터'라고 생각했어요. '화살촉 리더'라는 역할이 워낙 광기 있고 센 캐릭터이다 보니 대중들에게 호불호가 갈릴 것이라고는 예상했죠. 그런데 이렇게까지 불편해하실 줄]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[상위1% 부부 수애·김강우, 침체 JTBC 드라마 살릴까 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211208151706719</link>
-            <guid>https://entertain.v.daum.net/v/20211208151706719</guid>
-            <pubDate>Wed, 08 Dec 2021 06:25:55 GMT</pubDate>
-            <content:encoded><![CDATA[기사내용 요약 수애 "촬영기간 8개월…주인공 폭풍감정 유지 힘들었다" 김강우 "앵커·정치인·기업인 역할하는게 쉽지 않았다" [서울=뉴시스] 최지윤 기자 = "상위 1% 사람들의 이야기지만 이질적이지 않다." 탤런트 수애가 5년만에 안방극장으로 돌아온 소감을 밝혔다. 수애는 8일 열린 JTBC 수목극 '공작도시' 제작발표회에서 "오랜만에 드라마 촬영이라서]]></content:encoded>
+            <title><![CDATA["비싼 돈 주고 불렀는데 춤 좀"..김현욱 "노제에 DM 통해 사과" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211208160602171</link>
+            <guid>https://entertain.v.daum.net/v/20211208160602171</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[아나운서 출신 방송인 김현욱(49)이 댄서 노제(본명 노지혜, 25)에 대한 무례한 발언을 사과했다. 김현욱은 지난 5일 인스타그램 게시물에 댓글을 달며 "제 의도와는 다르게 많은 노제 씨 팬들을 화나게 또는 불편하게 해드린 것 같아 진심 죄송하다"라고 사과했다. 김현욱은 "다시 한번 저 자신을 돌아보는 계기가 됐다. 의도가 어떻든 받아들이는 사람의]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[양방언 "솔로 데뷔 25주년, '현재 진행형 음악'이 의미가 있죠" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211208151625703</link>
-            <guid>https://entertain.v.daum.net/v/20211208151625703</guid>
-            <pubDate>Wed, 08 Dec 2021 06:25:55 GMT</pubDate>
-            <content:encoded><![CDATA[기사내용 요약 라이브·미발표 음원 담은 앨범 '라이트 &amp; 섀도우' 발매 [서울=뉴시스]이재훈 기자 = 작곡가 겸 피아니스트 양방언(61)은 지난 2015년 1월 큰 충격을 받았다. 자신과 절친한 러시아 가수 오리가(Origa)가 폐암으로 세상을 떠났기 때문이다. 오리가는 일본 애니메이션 '공각기동대 스탠드 얼론 콤플렉스'의 1기 오프닝 '이너 유니버스]]></content:encoded>
+            <title><![CDATA['옷소매' 이준호♥이세영, '정희' 스페셜 DJ 출격..시청률 공약 이행 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211208160422100</link>
+            <guid>https://entertain.v.daum.net/v/20211208160422100</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=하수정 기자] '산덕임 커플' 이준호와 이세영이 '정희' 스페셜 DJ로 나선다. 8일 오후 OSEN 취재 결과, MBC 금토드라마 '옷소매 붉은 끝동' 주연 배우 이준호, 이세영은 시청률 10% 돌파 공약을 이행하기 위해서 '정오의 희망곡 김신영입니다'의 스페셜 DJ로 출연할 예정이다. 관계자들에 따르면, 이준호와 이세영은 시청자들과 약속한 공약]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['지옥' 김도윤 "늘 캐릭터 뒤에 숨어있는 배우였으면" ③ (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211208151519651</link>
-            <guid>https://entertain.v.daum.net/v/20211208151519651</guid>
-            <pubDate>Wed, 08 Dec 2021 06:25:55 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 안태현 기자 = 지난달 19일 공개된 넷플릭스 오리지널 시리즈 '지옥'(감독 연상호)은 예고 없이 등장한 지옥의 사자들에 사람들이 지옥행 선고를 받는 초자연적인 현상이 발생하고, 이 혼란을 틈타 부흥한 종교단체 새진리회와 사건의 실체를 밝히려는 이들이 얽히면서 벌어지는 이야기를 그린 드라마다. 공개 하루 만에 드라마와 예능 등 TV프로그]]></content:encoded>
+            <title><![CDATA['이게 사과?'..김현욱 성의 없는 사과에 폭발한 노제 팬덤 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211208160407087</link>
+            <guid>https://entertain.v.daum.net/v/20211208160407087</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 김종은 기자] KBS 아나운서 출신 방송인 김현욱이 1주일 만에 댄서 노제에게 사과했다는 입장을 밝혔다. "노여움은 풀어주시길 부탁드린다"는 그의 호소와는 달리 진정성이 느껴지지 않는 사과에 팬들의 분노는 더 커진 상황이다. 김현욱이 도마 위에 오른 건 지난 1일, 2021 대한민국 패션대상 시상식의 진행을 맡으면서 부터다. 문제가 된 건]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김도윤 "'지옥' 위로와 희망의 메시지 전해주는 작품이라 생각" ② (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211208151515649</link>
-            <guid>https://entertain.v.daum.net/v/20211208151515649</guid>
-            <pubDate>Wed, 08 Dec 2021 06:25:55 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 안태현 기자 = 지난달 19일 공개된 넷플릭스 오리지널 시리즈 '지옥'(감독 연상호)은 예고 없이 등장한 지옥의 사자들에 사람들이 지옥행 선고를 받는 초자연적인 현상이 발생하고, 이 혼란을 틈타 부흥한 종교단체 새진리회와 사건의 실체를 밝히려는 이들이 얽히면서 벌어지는 이야기를 그린 드라마다. 공개 하루 만에 드라마와 예능 등 TV프로그]]></content:encoded>
+            <title><![CDATA[함소원, 25년 전 과거사 고백.."10·20대=굶주림의 연속" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211208160019878</link>
+            <guid>https://entertain.v.daum.net/v/20211208160019878</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 최희재 기자) 함소원이 과거 20대 시절을 떠올렸다. 함소원은 8일 자신의 인스타그램에 "미스코리아 당선되어 방송 활동 하던 때. 다음날 방송이 있으면 매일 굶어야 했던 날들. 고등학교 때는 무용을 하여 굶어 그 다음은 카메라에 이쁘게 나왔으면 하여 굶어 지금 생각하면 나의10대 20대 시절은 굶주림의 연속"이라는 글과 함께 사진을 게재했다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[신현준 깎아내린 매니저 유죄..신현준 측 "재판부 감사" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211208151512641</link>
-            <guid>https://entertain.v.daum.net/v/20211208151512641</guid>
-            <pubDate>Wed, 08 Dec 2021 06:25:55 GMT</pubDate>
-            <content:encoded><![CDATA[배우 신현준에게 수년간 갑질을 당했으며 그가 프로포폴을 불법 투약했다 주장해온 전 매니저가 징역형 집행유예를 선고 받았다. 이에 신현준의 소속사는 정의가 실현됐다며 기뻐했다. 8일 서울서부지법 형사4단독 박보미 판사는 정보통신망 이용 촉진 및 정보보호 등에 관한 법률 위반(명예훼손) 등 혐의로 기소된 신현준의 전 매니저 A에게 징역 1년에 집행유예 2년]]></content:encoded>
+            <title><![CDATA['아카라' 김이나 "저작권 든든한 삶? 리즈 시절 수면·불안장애 생겨" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211208155903813</link>
+            <guid>https://entertain.v.daum.net/v/20211208155903813</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 김이나 작사가가 저작권과 멘탈의 아이러니한 반비례 관계를 전했다. 12월 8일 방송된 SBS 러브FM '나르샤의 아브라카다브라'(이하 '아카라') 음악살롱 코너에는 스타 작사가 김이나가 게스트로 함께했다. 이날 한 청취자는 김이나가 과거 작사 비결로 국어사전을 애기한 적이 있다며 이게 진짜인지 물었다. 이에 김이나는 "그건 작사]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['지옥' 김도윤 "이동욱, 커뮤니티 댓글 이미지화 시키고팠다" ① (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211208151512640</link>
-            <guid>https://entertain.v.daum.net/v/20211208151512640</guid>
-            <pubDate>Wed, 08 Dec 2021 06:25:55 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 안태현 기자 = 지난달 19일 공개된 넷플릭스 오리지널 시리즈 '지옥'(감독 연상호)은 예고 없이 등장한 지옥의 사자들에 사람들이 지옥행 선고를 받는 초자연적인 현상이 발생하고, 이 혼란을 틈타 부흥한 종교단체 새진리회와 사건의 실체를 밝히려는 이들이 얽히면서 벌어지는 이야기를 그린 드라마다. 공개 하루 만에 드라마와 예능 등 TV프로그]]></content:encoded>
+            <title><![CDATA[박초롱 측 "제보자 A, 허위 사생활로 협박한 것 맞다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211208155543639</link>
+            <guid>https://entertain.v.daum.net/v/20211208155543639</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 박초롱의 학교폭력(학폭)을 폭로한 제보자 A씨가 박초롱을 협박했다는 것에 대해 "사실이 아니다"고 주장하고 있는 가운데, 박초롱 측은 꾸준히 "협박이 맞다"고 맞서고 있다. 박초롱 측 법률 대리인은 12월 8일 공식입장을 내고 "제보자가 박초롱의 사생활 등과 관련된 허위사실을 언급하며 박초롱을 협박했다"며 "경찰은 이점을 기반으로]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["충격과 놀라운 반전"..수애X김강우, 보편적 욕망들의 깊이 '공작도시' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211208151504628</link>
-            <guid>https://entertain.v.daum.net/v/20211208151504628</guid>
-            <pubDate>Wed, 08 Dec 2021 06:25:55 GMT</pubDate>
-            <content:encoded><![CDATA[배우 수애와 김강우가 ‘공작도시’로 이질적이지 않은 매력으로 충격과 반전을 선사한다. 8일 오후 JTBC 새 수목드라마 ‘공작도시’의 제작발표회가 온라인으로 생중계됐다. 현장에는 전창근 감독, 수애, 김강우, 이이담, 이학주가 참석해 작품에 대한 진솔한 이야기를 나눴다. 이날 5년 만에 안방극장에 복귀하게 된 수애는 “오랜만에 드라마 촬영이라 긴장 많이]]></content:encoded>
+            <title><![CDATA['K-컬처' 시대..BTS·'오징어게임', 美 피플스초이스 싹쓸이 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211208155158497</link>
+            <guid>https://entertain.v.daum.net/v/20211208155158497</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[기사내용 요약 방탄소년단, '올해의 그룹' 등 3관왕 오징어게임, '올해의 정주행 쇼' [서울=뉴시스]이재훈 최지윤 기자 = 그룹 '방탄소년단'(BTS)과 넷플릿스 시리즈 '오징어게임'이 미국의 저명한 음악·영화·TV 시상식 '2021 피플스 초이스 어워즈(E! People's Choice Awards 2021·PCAs)'에서 수상했다. 방탄소년단은 7]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['공작도시' 김강우X수애→이학주 "성진家의 야망과 욕망 보여줄 것" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211208151106504</link>
-            <guid>https://entertain.v.daum.net/v/20211208151106504</guid>
-            <pubDate>Wed, 08 Dec 2021 06:25:55 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 백지연 기자] '공작도시' 배우 김강우, 수애, 이학주, 이이담 등 믿고 보는 배우들이 총출동해 성진가 이야기를 그린다. 인간의 야망과 욕망에 초점이 맞춰진 흥미진진한 이야기로 시청자들을 찾아간다. 8일 오후 JTBC 새수목드라마 '공작도시' 제작발표회가 진행돼  수애, 김강우, 이이담, 이학주, 전창근 감독이 참석했다. '공작도시'는 대]]></content:encoded>
+            <title><![CDATA[함연지♥김재우 '동굴캐슬' 여정 끝냈다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211208155157496</link>
+            <guid>https://entertain.v.daum.net/v/20211208155157496</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 세 부부가 핫한 동굴 클럽 파티를 즐기고 서로의 진심을 확인하는 시간을 보냈다. 지난 7일(화)에 방송된 ‘동굴캐슬’ 6화에서는 점점 성숙해가며 부부들의 참 의미를 깨닫는 모습이 전파를 탔다. 또한 열악한 상황 속에서도 달달함을 잊지 않았던 함연지-김재우 부부가 행복한 마음으로 동굴을 떠났다. ‘동굴캐슬’은 동굴 속에서 벌어지는 셀럽 부부들]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김태균 "랄랄, '회전목마' 아인슈타인 노래라고..박사님 아직 살아계신줄" 폭소 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211208151039482</link>
-            <guid>https://entertain.v.daum.net/v/20211208151039482</guid>
-            <pubDate>Wed, 08 Dec 2021 06:25:55 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박은해 기자] 김태균이 랄랄의 말실수에 폭소했다. 12월 8일 방송된 SBS 파워FM '두시탈출 컬투쇼'에는 유튜버 랄랄이 스페셜 DJ로 출연했다. 이날 DJ 김태균은 랄랄에게 "'컬투쇼' 오면 어때요? 편해요?"라고 물었고, 랄랄은 "너무 편하고 재밌다. 솔직히 다 필요 없고 라디오가 제일 잘 맞는 것 같다"고 답했다. 이에 김태균은 "DJ 하]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['공작도시' 수애X김강우 "충격적인 반전, 욕망의 민낯 보여주는 드라마" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211208151015464</link>
-            <guid>https://entertain.v.daum.net/v/20211208151015464</guid>
-            <pubDate>Wed, 08 Dec 2021 06:25:55 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=강효진 기자] 드라마 '공작도시'가 5년 만에 드라마에 복귀하는 수애를 필두로 욕망의 민낯을 보여주는 충격 반전 스토리로 연말 시청자들을 사로잡겠다는 포부를 밝혔다. JTBC 새 수목드라마 '공작도시' 온라인 제작발표회가 8일 오후 2시 진행됐다. 이날 현장에는 연출을 맡은 전창근PD, 배우 수애, 김강우, 이이담, 이학주가 참석했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[안창환, '신스틸러 페스티벌' 신스틸러상 "저는 행운아" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211208150829392</link>
-            <guid>https://entertain.v.daum.net/v/20211208150829392</guid>
-            <pubDate>Wed, 08 Dec 2021 06:25:55 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자] 배우 안창환이&nbsp;2021년 최고의 신스틸러로 인정받았다. 8일 안창환은 소속사를 통해 “이렇게 큰 상을 주셔서 진심으로 감사드린다”며 “연기를 하면서 좋은 동료들을 많이 얻었다.&nbsp;제가 좋아하는 연기를 하면서 사람도 얻어 저는 정말로 운이 좋은 행운아다.&nbsp;아직 부족한 점이 많지만 저 역시도 다른 사람들에게 행운을 가져다줄 수 있는 사람]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김현욱, 무례 발언 논란에 사과 "노제에게 DM 보내..노여움 풀길" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211208150634337</link>
-            <guid>https://entertain.v.daum.net/v/20211208150634337</guid>
-            <pubDate>Wed, 08 Dec 2021 06:25:55 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=지민경 기자] 방송인 김현욱이 댄서 노제에게 무례한 발언을 한 것에 대해 사과했다. 김현욱은 자신의 인스타그램에 “제 의도와는 다르게 많은 노제씨 팬들을 화나게 또는 불편하게 해드린것같아 진심 죄송하다”며 사과의 댓글을 남겼다. 그는 ”다시한번 저 자신을 돌아보는 계기가 됐다. 의도가 어떻든 받아들이는 사람의 마음도 더 살펴야한다는 깨달음을 얻었]]></content:encoded>
+            <title><![CDATA[노홍철 "비, ♥김태희와 이혼 안할 것" 왜? (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211208154916381</link>
+            <guid>https://entertain.v.daum.net/v/20211208154916381</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[[한국경제TV 이휘경 기자] 방송인 노홍철이 가수 비의 인성을 칭찬했다. 8일 온라인으로 열린 넷플릭스 오리지널 예능 '먹보와 털보' 제작발표회가 열렸다. 이날 자리에는 비, 노홍철, 이상순 음악감독, 김태호 감독, 장우성 PD, 이주원 PD가 참석했다. 이날 노홍철은 비와 호흡에 대해 "비는 제가 20년 동안 이 바닥에서 겪은 연예인 중 가장 깨끗하다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[팬데믹 이후 최고 흥행작 '샹치' 2편 제작 돌입 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
@@ -993,7 +993,7 @@
             <content:encoded><![CDATA[북미 박스오피스에서 27일 연속 1위를 차지하는 등 전 세계 막강한 흥행 수익을 올린 마블 영화 '샹치와 텐 링즈의 전설'이 속편 제작에 들어간다. 지난 8일(현지시간) 미국 NBC뉴스에 따르면 '샹치와 텐 링즈의 전설'의 데스틴 크리튼 감독이 마블스튜디오를 산하에 두고 있는 디즈니와 다년간 독점 계약을 체결하고 '샹치' 속편의 각본과 연출을 맡기로 했]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[존 굿맨, 총 90kg 감량 반쪽 됐다..비결은? (다음 연예 ─ 뉴스 ─ 해외)]]></title>
+            <title><![CDATA["몸이 반쪽" 존 굿맨, 무려 90kg 감량 성공..비결은? (다음 연예 ─ 뉴스 ─ 해외)]]></title>
             <link>https://entertain.v.daum.net/v/20211208144505610</link>
             <guid>https://entertain.v.daum.net/v/20211208144505610</guid>
             <pubDate>Wed, 08 Dec 2021 06:26:00 GMT</pubDate>
@@ -1077,6 +1077,153 @@
             <content:encoded><![CDATA[팝스타 드레이크가 '2022 그래미' 후보를 거절했다. 7일 버라이어티 등 외신 보도에 따르면 드레이크는 2022년 그래미 어워드 후보 2개 부문을 철회해 달라고 미국 레코딩 아카데미에 요청했다. 그가 후보에 오른 부분은 '베스트 랩 앨범'과 '베스트 랩 퍼포먼스'였다. 드레이크와 그래미는 꽤나 불편한 관계를 지속했다. 이전에도 그래미 시상식에서 랩]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[미리 메리 크리스마스, 스트레이 키즈의 '크리스마스 이블' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=438&amp;aid=0000041591</link>
+            <guid>https://entertain.naver.com/now/read?oid=438&amp;aid=0000041591</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[스트레이 키즈(Stray Kids)가 새 싱글 'Christmas EveL'(크리스마스 이블)로 주간 음반 차트 정상을 차지했다. 스트레이 키즈는 11월 29일 오후 6시 홀리데이 스페셜 싱글 'Christmas E]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 美 '피플스 초이스 어워즈' 3관왕…"노력 인정 기뻐" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=416&amp;aid=0000277861</link>
+            <guid>https://entertain.naver.com/now/read?oid=416&amp;aid=0000277861</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[[SBS연예뉴스 | 강선애 기자] 그룹 방탄소년단(BTS)이 '2021 피플스 초이스 어워즈(E! People's Choice Awards 2021)'에서 3관왕을 차지했다. 방탄소년단은 7일(이하 현지시간) 미국의]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김호중, ‘36회 골든디스크 어워즈’ 노미네이트…군백기 무색한 막강한 파워 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=408&amp;aid=0000140756</link>
+            <guid>https://entertain.naver.com/now/read?oid=408&amp;aid=0000140756</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[가수 김호중이 군백기에도 뜨거운 인기를 입증했다. 8일 골든디스크어워즈에 따르면 김호중이 ‘36회 골든디스크 어워즈’ 음반 부문에 후보로 올랐다. 김호중이 후보에 오른 ‘36회 골든디스크 어워즈’는 지난 2020년]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[권민정, 트로트 요정에서 뉴트로트 퀸으로 진화 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=629&amp;aid=0000120530</link>
+            <guid>https://entertain.naver.com/now/read?oid=629&amp;aid=0000120530</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[본선 무대 앞두고 강렬한 눈도장 MBN의 야심작인 '헬로트로트'가 본선 라운드를 앞둔 가운데 권민정이 눈에 띄는 활약을 펼치고 있다. 7일 방송된 MBN '헬로트로트'는 대망의 본선 라운드 시작에 앞서 '헬로트로트']]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘기부천사’ 임영웅, 바이브 음악검색 TOP 100서 1위 등극 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001382997</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001382997</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이정범 기자) 임영웅의 인기가 눈길을 끈다. 7일 바이브 음악검색 TOP100에 따르면, 임영웅의 ‘사랑은 늘 도망가’가 1위를 차지했다. 이러한 기록은 그의 남다른 인기를 실감케 한다. 한편, 가수]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[온유X펀치, 오늘(8일) '별 하나' 라이브 비디오 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003560957</link>
+            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003560957</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 오윤주 기자] 그룹 샤이니 멤버 온유와 가수 펀치가 입을 맞춘다. 8일 SM STATION 유튜브 채널을 통해 온유와 펀치가 호흡을 맞춘 '별 하나 (Way)' 라이브 비디오가 공개된다. '별 하나]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[엑스디너리 히어로즈, '해피 데스 데이'로 강렬한 첫인상…뮤비 비하인드 컷 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000332484</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000332484</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자]JYP엔터테인먼트(이하 JYP) 새 보이밴드 엑스디너리 히어로즈(Xdinary Heroes, XH)가 데뷔곡 '해피 데스 데이'(Happy Death Day)를 향한 뜨거운 성원에 힘입어]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김호중, 36회 골든디스크 어워즈 후보에…'인기 여전' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010878301</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010878301</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]김예지 인턴 기자 = 가수 김호중이 군백기에도 여전한 인기를 입증했다. 8일 골든디스크어워즈에 따르면 김호중은 '36회 골든디스크 어워즈' 음반 부문에 후보로 올랐다. 김호중이 후보에 오른 '36회 골]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['K-컬처' 시대…BTS·'오징어게임', 美 피플스초이스 싹쓸이(종합) (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010878296</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010878296</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[기사내용 요약 방탄소년단, '올해의 그룹' 등 3관왕 오징어게임, '올해의 정주행 쇼' [서울=뉴시스]이재훈 최지윤 기자 = 그룹 '방탄소년단'(BTS)과 넷플릿스 시리즈 '오징어게임'이 미국의 저명한 음악·영화·T]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김호중, 군백기에도 막강한 파워 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000779668</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000779668</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 김호중이 군백기에도 뜨거운 인기를 입증했다. 8일 골든디스크어워즈에 따르면 김호중이 ‘36회 골든디스크 어워즈’ 음반 부문에 후보로 올랐다. 김호중이 후보에 오른 ‘36회 골든디스크 어워즈’는 지난 2]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[FT아일랜드, 2년 2개월 만에 컴백 새 앨범 '록 업' 트랙리스트 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000332481</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000332481</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자]밴드 FT아일랜드(이홍기, 이재진, 최민환)가 트랙리스트를 공개하며 컴백에 대한 기대감을 고조시켰다. FT아일랜드 소속사 FNC엔터테인먼트는 지난 7일 공식 SNS를 통해 여덟 번째 미니앨]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 美 '피플스 초이스 어워즈' 3관왕.."아미 덕분" 소감 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011388</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011388</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 방탄소년단(BTS)이 '2021 피플스 초이스 어워즈(E! People's Choice Awards 2021)'에서 3관왕을 차지했다. 방탄소년단은 7일(이하 현지시간) 미국의 저명한 음악·영화·TV 시상식 ']]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아이브·세븐틴·브레이브걸스 'KBS가요대축제' 출격 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010878250</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010878250</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]전재경 인턴 기자 = '2021 KBS 가요대축제'의 2차 라인업이 공개됐다. 걸그룹 아이브를 비롯해 세븐틴, 선미, 뉴이스트, 아스트로, 브레이브걸스, NCT U, SF9, 김우석, 스테이가 KBS]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["어려운 시기 행복 드렸길"…BTS, 美 '피플스 초이스 어워즈' 3관왕 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001201716</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001201716</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 방탄소년단이 ‘2021 피플스 초이스 어워즈(E! People's Choice Awards 2021)’에서 3관왕을 차지했다. 방탄소년단은 7일(이하 현지시간) 미국의 저명한 음악·영화·TV 시상식 ‘2021]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['케이팝 차트' 가온차트, 스포티파이와 '맞손' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010878246</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010878246</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]김예지 인턴 기자 = 국내 대표 케이팝차트 '가온차트'가 세계 최대 오디오·음원 스트리밍 플랫폼 '스포티파이 코리아'와 정식으로 손잡고 '케이팝 세계화'로 나아간다. 8일 가온차트는 스포티파이 코리아와]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘15일 발표’ 다비, ‘?=1 Re:new’ 신보 타이틀 공개…기대감 고조 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001382988</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001382988</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김예나 기자) 싱어송라이터 다비(DAVII)가 컴백 일주일 앞두고 신보 타이틀을 공개했다. 다비는 8일 정오 공식 SNS 채널을 통해 두 번째 미니 앨범 ‘?=1 Re:new’ 앨범 타이틀을 공개, 기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 美 '피플스 초이스 어워즈' 3관왕…"'버터'가 행복 드렸길" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000332479</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000332479</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=장진리 기자] 그룹 방탄소년단이 ‘2021 피플스 초이스 어워즈’에서 3관왕을 차지했다. 방탄소년단은 7일(이하 현지시간) 미국의 저명한 음악·영화·TV 시상식 ‘2021 피플스 초이스 어워즈’에서 ‘]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[공식] 에스파 '넥스트 레벨', 英 NME 선정 '2021년 베스트송 50'…K팝 걸그룹 유일 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003810486</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003810486</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 백지은 기자] 그룹 에스파의 '넥스트 레벨'이 영국 유명 음악 전문 매거진 NME 선정 '2021 베스트 송 50'에 등극했다. '넥스트 레벨'은 NME가 최근 발표한 '2021 베스트 송 50' 45위]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 美 '피플스 초이스 어워즈' 3관왕 "아미가 뒤에 있었기에" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003560949</link>
+            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003560949</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 오윤주 기자] 그룹 방탄소년단이 '2021 피플스 초이스 어워즈(E! People's Choice Awards 2021)'에서 3관왕을 차지했다. 방탄소년단은 7일(이하 현지시간) 미국 음악·영화·T]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[에스파 'Next Level', 英 NME 선정 '2021년 베스트 송 50' 등극 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001382983</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001382983</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 에스파(aespa)의 히트곡 ‘Next Level’(넥스트 레벨)이 NME가 선정한 ‘2021년 베스트 송 50’에 등극했다. 영국 유명 음악 전문 매거진 NME는 최근 공식 홈페이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[신예 무지개, ‘어떻게 잘 지내니 내가 없어도’ 흑백 티저 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000779661</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000779661</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 4인조 남성 보컬그룹 무지개(MUZIGAE)가 티저를 공개하며 국내외 팬덤 공략에 나섰다. 8일 소속사 유엠아이엔터테인먼트는 무지개 공식 유튜브 채널과 SNS를 통해 무지개의 데뷔곡 ‘어떻게 잘 지내니]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[릴보이·조광일, 한번에 본다…'2021 MAMA' 쇼미 10주년 특별무대 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
             <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010878144</link>
             <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010878144</guid>
@@ -1105,336 +1252,189 @@
             <content:encoded><![CDATA[그룹 방탄소년단이 ‘2021 피플스 초이스 어워즈(E! People's Choice Awards 2021)’에서 3관왕을 차지했다. 방탄소년단은 7일(이하 현지시간) 미국의 저명한 음악·영화·TV 시상식 ‘2021]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[FT아일랜드, 2년 2개월만 컴백→신곡 '말이 안 돼'로 글로벌 싱잉 콘테스트 진행 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004523436</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004523436</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:08 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=이승훈 기자] 컴백을 앞둔 밴드 FT아일랜드가 신곡 ‘말이 안 돼(Unthinkable)’로 글로벌 싱잉 콘테스트를 진행한다. FT아일랜드는 오는 12월 8일부터 내년 1월 7일까지 ‘K-araoke Gl]]></content:encoded>
+            <title><![CDATA[A씨 측 '박초롱 측, 유리한 부분만 언급" vs 박초롱 측 "학폭제보자 사실 왜곡" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005772631</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005772631</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 김민지 기자 = 에이핑크 박초롱의 학폭 의혹을 제기한 A씨가 박초롱이 2차, 3차 가해를 이어가고 있다며 명예훼손 혐의로 추가 고소를 하겠다는 입장을 밝혔다. 이에 대해 박초롱 측은 사실과 다른 내용]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방탄소년단, 美 ‘피플스 초이스’ 3관왕..'올해의 노래→그룹' 최다관왕 [공식] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004523435</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004523435</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:08 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=지민경 기자] 그룹 방탄소년단이 ‘2021 피플스 초이스 어워즈(E! People's Choice Awards 2021)’에서 3관왕을 차지했다. 방탄소년단은 7일(이하 현지시간) 미국의 저명한 음악·영화]]></content:encoded>
+            <title><![CDATA['결혼 D-3' 이예림♥김영찬 '선남선녀' 웨딩 화보...父 이경규 뭉클할 듯 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003810499</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003810499</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조윤선 기자] 개그맨 이경규의 딸이자 배우인 이예림과 예비 신랑인 경남 FC 김영찬의 웨딩 화보가 공개됐다. 8일 공개된 웨딩 화보에서 이예림과 김영찬은 선남선녀 비주얼을 드러냈다. 순백의 드레스를 입고]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[양방언 "솔로 데뷔 25주년, '현재 진행형 음악'이 의미가 있죠" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010878122</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010878122</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:08 GMT</pubDate>
-            <content:encoded><![CDATA[기사내용 요약 라이브·미발표 음원 담은 앨범 '라이트 &amp; 섀도우' 발매 [서울=뉴시스]이재훈 기자 = 작곡가 겸 피아니스트 양방언(61)은 지난 2015년 1월 큰 충격을 받았다. 자신과 절친한 러시아 가수 오리가(]]></content:encoded>
+            <title><![CDATA['스우파' 이채연, '미모 DNA' 엄마와 생얼 노출…오밀조밀 이목구비까지 모전여전 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003810498</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003810498</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[엄마야? 언니야? 미모 DNA로 똘똘 뭉친 모전여전이다. 이채연이 자신의 인스타그램에 엄마와 함께 찍은 사진을 올렸다. 편하게 누워서 다정하게 촬영한 것으로 보이는 이 사진에서 이채연과 엄마의 모습은 나이차이 얼마]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에스파 ‘Next Level’, 英 NME 선정 ‘2021년 베스트 송 50’ 등극 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000520282</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000520282</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:08 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 에스파의 히트곡 ‘Next Level’(넥스트 레벨)이 NME가 선정한 ‘2021년 베스트 송 50’에 등극했다. 영국 유명 음악 전문 매거진 NME는 최근 공식 홈페이지를 통해 ‘2021년]]></content:encoded>
+            <title><![CDATA['여신 미모' 설현, 드레스 피팅 비하인드..."같이 골라봐요" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004890750</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004890750</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 AOA 멤버 겸 배우 설현이 청룡영화상 시상식 드레스 피팅 과정을 공개했다. 설현이 운영하는 유튜브 채널 '눈이 부시게 by 설현'에는 8일 '청룡영화상 드레스 같이 골라봐요(청룡영화상 비하인드)'라는 제목의]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[홍지은, 11월 ‘선한트롯’ 가왕전 상금 50만 원 기부…(재)한국소아암재단에 전달 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001382976</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001382976</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:08 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이정범 기자) (재)한국소아암재단(이사장 이성희)은 11월 선한트롯 가왕전을 통해 선한트롯가수에 오른 가수 홍지윤의 이름으로 상금 50만 원을 전달받았다고 8일 밝혔다. (재)한국소아암재단은 기부받은]]></content:encoded>
+            <title><![CDATA[김수현, 팬들 쓰러질 미소…꾸밈없이 '멋집' 폭발 [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000516738</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000516738</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=노규민 기자] 배우 김수현이 넘사벽 잘생김을 뽐냈다. 김수현은 8일 자신의 인스타그램에 사진을 게재하며 근황을 알렸다. 사진 속 김수현은 특유의 훈훈한 미소로 설렘을 유발했다. 주머니에 손을 넣고 휴대폰을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에스파 '넥스트 레벨', 英 NME 선정 '2021 베스트 송 50'…K팝 걸그룹 유일 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000332477</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000332477</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:08 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=장진리 기자] 그룹 에스파의 '넥스트 레벨'이 NME가 선정한 '2021년 베스트 송 50'에 선정됐다. 에스파는 최근 영국 유명 음악 전문 매거진 NME는 발표한 '2021년 베스트 송 50'에 '넥]]></content:encoded>
+            <title><![CDATA[샤넬 패션쇼서 ‘한국어’ 노래한 수주, 모델+뮤지션 넘치는 재능 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003645931</link>
+            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003645931</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[사진=수주 인스타그램 캡처 7일 프랑스 파리에서 세계적인 명품 브랜드 ‘샤넬의 패션쇼’가 열린 가운데 브랜드 샤넬의 뮤즈이자 탑모델 수주(본명 박수주)가 한국어로 라이브 무대를 선보였다. 7일(현지시각) 샤넬은 프랑]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘컴백’ 다비, ‘?=1 Re:new’ 앨범 타이틀 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000836627</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000836627</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:08 GMT</pubDate>
-            <content:encoded><![CDATA[싱어송라이터 다비(DAVII)가 앨범 타이틀을 공개, 새 앨범의 베일을 벗었다. 다비는 8일 정오 공식 SNS 채널을 통해 두 번째 미니앨범 ‘?=1 Re:new’의 앨범 타이틀을 공개하며 기다려온 팬들의 관심을 증]]></content:encoded>
+            <title><![CDATA['힐링산장 2' 앤디 "제주살이 만족인데 형들이 사고치니까…" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004890749</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004890749</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 신화 앤디가 제주살이 근황을 공개했다. 우리동네 B tv, 채널S 예능프로그램 '힐링산장-줄을 서시오 시즌 2’(SK브로드밴드-미디어S 공동제작, 연출 심세호 김수현, 이하 힐링산장 2) 측은 8일 방송되는 9]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방탄소년단, 美 피플스 초이스 어워즈 3관왕 “어려운 시기 행복 드렸길” (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000520281</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000520281</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:08 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 방탄소년단이 ‘2021 피플스 초이스 어워즈(E! People's Choice Awards 2021)’에서 3관왕을 차지했다. 방탄소년단은 12월 7일(이하 현지시간) 미국의 음악·영화·TV]]></content:encoded>
+            <title><![CDATA[이정현, 임신 선물에 "입덧 안 끝나 골골대는데…행복·감사" [N샷] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005772614</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005772614</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 이정현이 지인이 전한 임신 선물에 고마움을 표했다. 이정현은 8일 자신의 인스타그램에 "여러분 임신 축하해주셔서 정말 정말 감사드려요, 입덧이 아직 안 끝나서 요리도 못하고 골골]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방탄소년단, 美 '피플스 초이스 어워즈' 3관왕 "어려운 시기에 행복 드렸길" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001674665</link>
-            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001674665</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:08 GMT</pubDate>
-            <content:encoded><![CDATA[방탄소년단이 '2021 피플스 초이스 어워즈(E! People's Choice Awards 2021)'에서 3관왕을 차지했다. 방탄소년단은 7일(이하 현지시간) 미국의 저명한 음악·영화·TV 시상식 '2021 피플스]]></content:encoded>
+            <title><![CDATA[비, '아이언맨' 로다주와 술잔 들고 다정한 '투샷'…왜? [N샷] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005772609</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005772609</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 가수 비(정지훈)가 할리우드 스타 로버트 다우니 주니어와 찍은 사진을 올렸다. 비는 8일 자신의 인스타그램에 "벌써…"라는 글과 함께 사진을 올렸다. 사진 속 비는 로버트 다우니 주니]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김호중 ‘골든디스크 어워즈’ 노미네이트…군백기에도 막강 파워 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000520279</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000520279</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:08 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 가수 김호중이 군백기에도 뜨거운 인기를 입증했다. 12월 8일 골든디스크어워즈에 따르면 김호중은 ‘36회 골든디스크 어워즈’ 음반 부문에 후보로 올랐다. 김호중이 후보에 오른 ‘36회 골든디스]]></content:encoded>
+            <title><![CDATA[[★화보] 씨엘(CL), 할리우드 느낌 카리스마 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000762586</link>
+            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000762586</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[2NE1 출신 가수 씨엘(CL)이 화보에서 특유의 카리스마를 뽐냈다. 12월 7일 롤링스톤 코리아는 공식 홈페이지를 통해 씨엘과 함께한 화보를 공개했다. 화보 인터뷰에서 씨엘은 “저는 그룹으로 활동하던 시절부터 음악]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방탄소년단, '2021 피플스 초이스 어워즈' 3관왕.."표현 어려울 정도로 감사해" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003507459</link>
-            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003507459</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:08 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드POP=조은미 기자]그룹 방탄소년단이 ‘2021 피플스 초이스 어워즈(E! People's Choice Awards 2021)’에서 3관왕을 차지했다. 방탄소년단은 7일(이하 현지시간) 미국의 저명한 음악·영]]></content:encoded>
+            <title><![CDATA['라스' 안영미 "장도연 춤은 되고 내 가슴춤은?" 분노 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004890746</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004890746</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[개그우먼 안영미가 장도연과 비교하며 자신의 춤이 방송에 비춰지지 않는 것에 분노했다. 8일 MBC 예능프로그램 '라디오스타'의 선공개 영상이 유튜브 채널 'MBC 엔터테인먼트'에 공개됐다. 개그우먼 장도연이 신기루,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에스파 'Next Level', 英 NME 선정 '2021년 베스트 송 50' 등극..K팝 걸그룹 유일 '글로벌 핫 인기' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011383</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011383</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:08 GMT</pubDate>
-            <content:encoded><![CDATA[걸그룹 에스파(aespa)의 히트곡 'Next Level'(넥스트 레벨)이 NME가 선정한 '2021년 베스트 송 50'에 오르며 글로벌 인기를 입증했다. 영국 유명 음악 전문 매거진 NME는 최근 공식 홈페이지를]]></content:encoded>
+            <title><![CDATA[“채워져라” 추성훈 노화 방지 피부과 시술 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000949844</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000949844</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[이종격투기 선수 출신 방송인 추성훈이 피부과 시술을 인증했다. 추성훈은 8일 인스타그램 계정에 “마취하고 하니 그리 아프지 않다. 피부에 차오르는 것을 생각하니 좋다. 여러분도 피부 케어하길 바란다. 돌보지 않으면]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[엔씨 '유니버스', 글로벌 입지 구축…233개국 서비스 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010878099</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010878099</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:08 GMT</pubDate>
-            <content:encoded><![CDATA[기사내용 요약 출시 10개월 만에 2000만 다운로드…해외 이용자 89% 온·오프라인 행사, 오리지널 콘텐츠 통해 이용자 확보 "아티스트 참여와 NFT 굿즈 통해 성장세 지속 전망" [서울=뉴시스] 오동현 기자 =]]></content:encoded>
+            <title><![CDATA[[Y초점] BTS 뷔의 팔로우 버튼은 미사일 발사 버튼이었나 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001674700</link>
+            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001674700</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 스타의 삶이란 부럽다가도 안쓰럽다. 인스타그램 팔로우 버튼을 누른 것만으로 아수라장이 펼쳐지는 것 직접 보게 된 스타의 기분은 어떨지 짐작하기조차 어렵다. 최근 방탄소년단 뷔는 데뷔 8년 만에 인스타그램 계정]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에스파 '넥스트 레벨', NME 선정 '2021년 베스트 송 50' 등극 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003560940</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003560940</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:08 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 강다윤 기자] 그룹 에스파(aespa)의 히트곡 '넥스트 레벨(Next Level)'이 NME가 선정한 '2021년 베스트 송 50'에 등극했다. 영국 유명 음악 전문 매거진 NME는 최근 공식 홈페]]></content:encoded>
+            <title><![CDATA[방탄소년단 ‘버터’ 美롤링스톤 선정 ‘2021 베스트송’ 16위…에픽하이 40위 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003645925</link>
+            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003645925</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 방탄소년단(BTS)의 히트곡 '버터'(Butter)가 미국 음악 잡지 '롤링스톤'의 '2021 베스트 송 50'에서 16위를 차지했다. 미국의 음악 매체 롤링스톤이 6일(현지시간) 홈페이지를 통해 공개한 '20]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에스파 '넥스트 레벨', NME 선정 '2021년 베스트 송 50' 등극..K팝 걸그룹 중 유일 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003507455</link>
-            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003507455</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:08 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드POP=조은미 기자]에스파(aespa, 에스엠엔터테인먼트 소속)의 히트곡 ‘Next Level’(넥스트 레벨)이 NME가 선정한 ‘2021년 베스트 송 50’에 등극해 화제다. 영국 유명 음악 전문 매거진 N]]></content:encoded>
+            <title><![CDATA['신민철♥' 혜림, 어째 임신 후 더 예뻐져…스웨터로 살짝 가린 D라인 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003810495</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003810495</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선닷컴 이게은기자] 그룹 원더걸스 출신 혜림이 근황을 전했다. 8일 혜림은 자신의 인스타그램에 "이제는 나와 아이를 생각해 건강한 식습관을 갖추려고 노력하고 있어요"라는 글과 자신의 사진을 게재했다. 사진]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[싱어송라이터 쏠, 크리스마스 싱글 첫 티저 공개…캐럴 분위기 물씬 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000332472</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000332472</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:08 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자]싱어송라이터 쏠(SOLE)이 크리스마스 시즌을 맞아 신곡을 선사한다. 아메바컬쳐는 8일 "쏠이 오는 13일 오후 6시 크리스마스 음반을 발매한다"라고 밝혔다. 이와 함께 지난 7일 공식 S]]></content:encoded>
+            <title><![CDATA['사업가♥' 최희, 단아한 미소...꽃 보다 아름다운 미모[TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000516732</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000516732</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=조준원 기자] 방송인 최희가 근황을 전했다. 최희는 8일 자신의 인스타그램에 "시간 나서 셀카 타임! (혼자 찍는 셀카 오랜만 ㅎㅎ) 이제 애보러 갔다가 다시 저녁 방송하러. 그래도 중간에 복이 볼 수 있]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['2021 넘버원' 임영웅, 아이돌차트 연말결산 평점랭킹 1위 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011380</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011380</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:08 GMT</pubDate>
-            <content:encoded><![CDATA[가수 임영웅이 아이돌차트 연말결산 평점랭킹 1위를 차지하며 왕좌를 빛냈다. 임영웅은 지난 12월 7일 아이돌차트가 발표한 2021 아이돌차트 연말결산에서 평점랭킹 1위를 기록했다. 임영웅은 올 한해 아이돌차트에서 눈]]></content:encoded>
+            <title><![CDATA[방탄소년단 美 '피플스 초이스 어워즈' 3관왕 등극 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=079&amp;aid=0003583879</link>
+            <guid>https://entertain.naver.com/now/read?oid=079&amp;aid=0003583879</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 방탄소년단이 '2021 피플스 초이스 어워즈(E! People's Choice Awards 2021)'에서 3관왕을 차지했다. 방탄소년단은 7일(이하 현지시간) 미국의 저명한 음악·영화·TV 시상식 '2021]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['Hot HERO♥' 임영웅 '사랑은 늘 도망가' 바이브 음악검색 1위 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011379</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011379</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:08 GMT</pubDate>
-            <content:encoded><![CDATA[가수 임영웅의 '사랑은 늘 도망가'가 네이버 바이브(VIBE) 음악검색 1위를 기록하며 '대세' 인기를 이어갔다. 임영웅의 '사랑은 늘 도망가'는 12월 7일 오후 2시 기준 바이브 음악검색 톱100 1위를 차지했다]]></content:encoded>
+            <title><![CDATA['임신' 이정현 "건강하게 순산할 것"..손예진→성유리 '축하' [스타IN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011391</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011391</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[임신 소식을 직접 알린 이정현이 많은 사람들의 축하에 감사 인사를 전했다. 8일 이정현은 자신의 인스타그램에 "여러분 임신 축하해 주셔서 감사드린다"라며 "입덧이 아직 안 끝나서 요리도 못하고 골골대고 있다"라고 밝]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김호중, 군백기에도 '36회 골든디스크 어워즈' 노미네이트 [공식] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004523424</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004523424</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:08 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최나영 기자] 가수 김호중이 군백기에도 뜨거운 인기를 입증했다. 8일 골든디스크어워즈에 따르면 김호중이 ‘36회 골든디스크 어워즈’ 음반 부문에 후보로 올랐다. 김호중이 후보에 오른 ‘36회 골든디스크 어]]></content:encoded>
+            <title><![CDATA[CJ, 美 4대 메이저 기업 바이아컴CBS와 손잡는다 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004890741</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004890741</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[CJ ENM이 미국 CBS, 쇼타임, 파라마운트 픽처스 등을 보유한 종합 미디어그룹 바이아컴CBS(ViacomCBS)와 전방위 파트너십을 체결했다. 파트너십 체결을 통해 CJ ENM 지적재산(IP)을 활용해 영화 및]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘명곡맛집’ 온앤오프의 질주, ‘Goosebumps’ 아이튠즈 톱 앨범 차트 정상 [앳뉴스] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=415&amp;aid=0000006558</link>
-            <guid>https://entertain.naver.com/now/read?oid=415&amp;aid=0000006558</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:08 GMT</pubDate>
-            <content:encoded><![CDATA[[앳스타일 황연도 기자] ‘명곡 맛집’ 온앤오프(ONF)가 국내 차트에 이어 해외 차트에서도 심상치 않은 성과를 거두고 있다. 지난 3일에 공개된 온앤오프의 여섯 번째 미니 앨범 ‘Goosebumps’가 아르헨티나,]]></content:encoded>
+            <title><![CDATA[[종합] 김현욱 "노제에게 사과 DM 보냈다"→성의 없는 댓글 사과에 여론 악화 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000516731</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000516731</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=정태건 기자] KBS 아나운서 출신 방송인 김현욱이 댄서 노제에게 무례한 발언으로 눈살을 찌푸리게 한 것에 대해 사과했다. 하지만 누리꾼들은 사과하는 방식이나 태도가 성의 없다고 지적하며 더 큰 잡음을 빚]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김호중 골든디스크 음반 부문 후보 올라 ‘군백기가 뭔가요?’ [앳뉴스] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=415&amp;aid=0000006557</link>
-            <guid>https://entertain.naver.com/now/read?oid=415&amp;aid=0000006557</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:08 GMT</pubDate>
-            <content:encoded><![CDATA[[앳스타일 황연도 기자] 가수 김호중이 군백기에도 뜨거운 인기를 입증했다. 8일 골든디스크어워즈에 따르면 김호중이 ‘36회 골든디스크 어워즈’ 음반 부문에 후보로 올랐다. 김호중이 후보에 오른 ‘36회 골든디스크 어]]></content:encoded>
+            <title><![CDATA[신현준 측 "갑질+프로포폴 명예훼손 전 매니저 유죄" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000762580</link>
+            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000762580</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[배우 신현준의 '갑질'과 프로포폴 불법 투약 의혹을 제기했다가 명예훼손 혐의로 기소된 전 매니저가 1심에서 징역형의 집행유예를 선고받았다. 신현준의 소속사 에이치제이필름 측은 8일 "거짓 모함으로 인한 억울함을 풀기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[공식] 방탄소년단, 美 '피플스 초이스 어워즈' 3관왕…"어려운 시기 행복 드렸길" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003810484</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003810484</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:15 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 백지은 기자] 그룹 방탄소년단이 '2021 피플스 초이스 어워즈' 3관왕을 차지했다. 방탄소년단은 7일(현지시각) 미국의 저명한 음악 영화 TV 시상식인 '2021 피플즈 초이스 어워즈'에서 '올해의 그]]></content:encoded>
+            <title><![CDATA['빛나는 의리' 나나, 더 빛날 '배우 나나'에 거는 기대 [문완식의 톡식] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011390</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011390</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[나나의 빛나는 의리가 돋보인다. 나나는 최근 플레디스 엔터테인먼트와 재계약을 체결했다. 플레디스와 네 번째 계약이자 세 번째 재계약이다. 2009년 이후 올해까지 12년 간 이어진 '의리'는 앞으로 더 빛나게 됐다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[조혜련X김혜선, 축구선수도 놀랄 '허벅지 근육'...이은형 "같은 편이라 다행" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003810483</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003810483</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:15 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조윤선 기자] 개그우먼 이은형이 조혜련과 김혜선의 강렬한 투샷을 공개했다. 이은형은 8일 자신의 인스타그램에 "두 사람 다 같은 편이라 너무 다행이다. 증맬루. 오늘 밤 '골 때리는 그녀들' 본방사수의]]></content:encoded>
+            <title><![CDATA['대한외국인' 2AM 조권, 박진영 디스?! ”공기 반, 소리 반 창법은 옛말“ (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004890738</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004890738</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 2AM 리더 조권이 신개념 창법을 소개한다. 8일 오후 8시 30분 방송되는 MBC에브리원 예능프로그램 ‘대한외국인’에는 명품 발라드 그룹 2AM 조권, 이창민, 임슬옹, 정진운이 출연해 폭소만발 퀴즈 대결을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방탄소년단, 美 ‘피플스 초이스 어워즈’ 3관왕 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000949837</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000949837</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:15 GMT</pubDate>
-            <content:encoded><![CDATA[방탄소년단, 美 ‘피플스 초이스 어워즈’ 3관왕 그룹 방탄소년단이 ‘2021 피플스 초이스 어워즈(E! People's Choice Awards 2021)’에서 3관왕을 차지했다. 방탄소년단은 7일(이하 현지시간)]]></content:encoded>
+            <title><![CDATA['경관의 피' 메인 예고편, 경찰 조진웅과 그를 감시하는 최우식 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005772521</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005772521</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '경관의 피'(감독 이규만)가 메인 예고편을 최초 공개했다. 배급사 (주)에이스메이커무비웍스는 8일 '경관의 피'의 메인 예고편을 공개했다. 그간 1차 예고편, 포스터, 스틸 등을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 이이담 '청순 미소' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003645904</link>
-            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003645904</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:15 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이이담이 8일 오후 온라인으로 진행된 JTBC 수목드라마 '공작도시'의 제작발표회에 참석해 포즈를 취하고 있다. 사진제공=JTBC]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[현장] ‘공작도시’, 상류층 1%의 민낯 보여준다…수애X김강우 욕망의 끝은? (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000599148</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000599148</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:15 GMT</pubDate>
-            <content:encoded><![CDATA[상류층 1%의 이야기를 그린 JTBC ‘공작도시’가 온다 8일 JTB 새 수목드라마 '‘공작도시’는 첫 방송을 앞두고 온라인 제작발표회를 개최했다. 이날 전창근 감독을 비롯해 주연 배우 수애, 김강우, 이이담, 이학]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 연극 '라스트 세션', 기대해도 좋아요 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004890715</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004890715</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:15 GMT</pubDate>
-            <content:encoded><![CDATA[연극 '라스트 세션'의 기자간담회가 8일 오후 동숭동 대학로 예스24스테이지 3관에서 열렸다. 이날 기자간담회에는 출연배우 신구, 오영수, 이상윤, 전박찬과 연출가 오경택 등이 참석했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘스걸파’, K-여고생 댄서들의 본격 활약…마스터들도 극찬 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000599147</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000599147</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:15 GMT</pubDate>
-            <content:encoded><![CDATA[춤에 대한 자신감과 열정으로 똘똘 뭉친 10대들의 본격적인 활약이 시작됐다. 지난 7일 방송된 Mnet ‘스트릿댄스 걸스 파이터’(이하 ‘스걸파’) 2회에서는 1차 오디션인 크루 선발전에 이어 각 팀당 2크루씩 남게]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[T포토] 이상윤 '보조개가 쏙' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001201715</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001201715</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:15 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이상윤이 8일 오후 서울 종로구 숭의동 예스24 스테이지에서 열린 연극 '라스트 세션' 기자간담회에서 포토타임을 갖고 있다. 한편, 연극 '라스트 세션'은 미국의 극작가 마크 세인트 저메인이 아맨드 M. 니콜라]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['김태희♥' 비, '아이언맨' 로버트 다우니 주니어와 투샷 공개 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000762555</link>
-            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000762555</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:15 GMT</pubDate>
-            <content:encoded><![CDATA[가수 겸 배우 비(정지훈)가 '아이언맨' 로버트 다우니 주니어와 찍은 투샷을 공개했다. 비는 12월 8일 자신의 인스타그램에 "벌써..."라는 글과 함께 한 장의 사진을 게재했다. 공개된 사진에는 비와 로버트 다우니]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[엔하이픈 성훈, 생일 맞아 韓·日 빛낸 전광판 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=629&amp;aid=0000120512</link>
-            <guid>https://entertain.naver.com/now/read?oid=629&amp;aid=0000120512</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:15 GMT</pubDate>
-            <content:encoded><![CDATA["성훈아 생일 축하해" 그룹 엔하이픈 성훈이 생일을 맞아 팬들에게 잊지 못할 선물을 받았다. 팬앤스타는 8일 서울 광진구 건대 스타시티 전광판에서 광고 중인 성훈 생일 축하 이벤트 사진을 공개했다. 성훈의 팬들은 지]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 美 '피플스초이스어워즈' 올해의 노래 등 3관왕 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004890712</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004890712</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:15 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 방탄소년단(BTS)이 ‘2021 피플스 초이스 어워즈(E! People's Choice Awards 2021)’에서 3관왕을 차지했다. 방탄소년단은 7일(이하 현지시간) 미국의 저명한 음악·영화·TV 시상식 ‘]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[T포토] 연극 '라스트 세션' 주역들 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001201714</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001201714</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:15 GMT</pubDate>
-            <content:encoded><![CDATA[배우 전박찬, 신구, 오영수, 이상윤이 8일 오후 서울 종로구 숭의동 예스24 스테이지에서 열린 연극 '라스트 세션' 기자간담회에서 포토타임을 갖고 있다. 한편, 연극 '라스트 세션'은 미국의 극작가 마크 세인트 저]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 전박찬·이상윤, 서로 다른 연기 매력 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004890711</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004890711</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:15 GMT</pubDate>
-            <content:encoded><![CDATA[연극 '라스트 세션'의 기자간담회가 8일 오후 동숭동 대학로 예스24스테이지 3관에서 열렸다. 이날 기자간담회에는 출연배우 신구, 오영수, 이상윤, 전박찬과 연출가 오경택 등이 참석했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 수애 '공작도시에서 만나요!' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003645902</link>
-            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003645902</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:15 GMT</pubDate>
-            <content:encoded><![CDATA[배우 수애가 8일 오후 온라인으로 진행된 JTBC 수목드라마 '공작도시'의 제작발표회에 참석해 포즈를 취하고 있다. 사진제공=JTBC]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 수애 '아름다운 미소' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003645901</link>
-            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003645901</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:15 GMT</pubDate>
-            <content:encoded><![CDATA[배우 수애가 8일 오후 온라인으로 진행된 JTBC 수목드라마 '공작도시'의 제작발표회에 참석해 포즈를 취하고 있다. 사진제공=JTBC]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토] '우린 깐부잖아' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004890708</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004890708</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:15 GMT</pubDate>
-            <content:encoded><![CDATA[연극 '라스트 세션'의 기자간담회가 8일 오후 동숭동 대학로 예스24스테이지 3관에서 열렸다. 이날 기자간담회에는 출연배우 신구, 오영수, 이상윤, 전박찬과 연출가 오경택 등이 참석했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 수애 '5년만에 안방극장 복귀' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003645900</link>
-            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003645900</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:15 GMT</pubDate>
-            <content:encoded><![CDATA[배우 수애가 8일 오후 온라인으로 진행된 JTBC 수목드라마 '공작도시'의 제작발표회에 참석해 포즈를 취하고 있다. 사진제공=JTBC]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[신현준, 갑질·프로포폴 주장한 前매니저 유죄 판결에 “정의가 이겼다” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003645899</link>
-            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003645899</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:15 GMT</pubDate>
-            <content:encoded><![CDATA[배우 신현준. 신현준 사회관계망서비스(SNS) 갈무리 배우 신현준의 전 매니저가 허위사실 유포에 의한 명예훼손 혐의로 유죄 판결을 선고받자 신현준 측이 “정의가 승리했다”는 입장을 냈다. 에이치제이필름은 8일 입장문]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[확진자 역대최다인데…나훈아 부산공연, 사흘간 2만4천명 본다 '우려' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004890705</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004890705</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:15 GMT</pubDate>
-            <content:encoded><![CDATA[오미크론 변이 확산 속 '가황' 나훈아의 부산 콘서트가 사흘간 2만명 넘는 관객을 동원할 것으로 예상돼 방역당국이 긴장하고 있다. 나훈아는 오는 10일부터 사흘간 부산 벡스코 전시장에서 '나훈아 어게인(AGAIN)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[T포토] 신구 '꽃할배의 미소' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001201713</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001201713</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:15 GMT</pubDate>
-            <content:encoded><![CDATA[배우 신구가 8일 오후 서울 종로구 숭의동 예스24 스테이지에서 열린 연극 '라스트 세션' 기자간담회에서 포토타임을 갖고 있다. 한편, 연극 '라스트 세션'은 미국의 극작가 마크 세인트 저메인이 아맨드 M. 니콜라이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['라스트 세션' 주역들 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005772408</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005772408</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:15 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 권현진 기자 = 배우 전박찬(왼쪽부터), 신구, 오영수, 이상윤이 8일 오후 서울 종로구 예스24스테이지에서 열린 연극 ‘라스트 세션’의 기자간담회에 참석해 포즈를 취하고 있다. ‘라스트 세션’은 영]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 김강우-수애 '멋진 연기 기대하세요!' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003645897</link>
-            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003645897</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:15 GMT</pubDate>
-            <content:encoded><![CDATA[배우 김강석(사진 왼쪽)과 수애가 8일 오후 온라인으로 진행된 JTBC 수목드라마 '공작도시'의 제작발표회에 참석해 포즈를 취하고 있다. 사진제공=JTBC]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[T포토] 신구-오영수 '케미가 돋보이는 조합' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001201712</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001201712</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:15 GMT</pubDate>
-            <content:encoded><![CDATA[배우 신구, 오영수가 8일 오후 서울 종로구 숭의동 예스24 스테이지에서 열린 연극 '라스트 세션' 기자간담회에서 포토타임을 갖고 있다. 한편, 연극 '라스트 세션'은 미국의 극작가 마크 세인트 저메인이 아맨드 M.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[T포토] 신구-오영수 '손 맞잡고 미소 활짝' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001201711</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001201711</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:15 GMT</pubDate>
-            <content:encoded><![CDATA[배우 신구, 오영수가 8일 오후 서울 종로구 숭의동 예스24 스테이지에서 열린 연극 '라스트 세션' 기자간담회에서 포토타임을 갖고 있다. 한편, 연극 '라스트 세션'은 미국의 극작가 마크 세인트 저메인이 아맨드 M.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전박찬-이상윤, 루이스 역으로 만나요 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005772405</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005772405</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:15 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 권현진 기자 = 배우 전박찬, 이상윤(오른쪽)이 8일 오후 서울 종로구 예스24스테이지에서 열린 연극 ‘라스트 세션’의 기자간담회에 참석해 포즈를 취하고 있다. ‘라스트 세션’은 영국과 독일과의 전면]]></content:encoded>
+            <title><![CDATA[김구라, 번아웃 고백 "늦둥이도 태어나 행복하지만..." (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003810490</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003810490</guid>
+            <pubDate>Wed, 08 Dec 2021 07:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조윤선 기자] 방송인 김구라가 번아웃을 고백했다. 8일 김구라와 아들 그리의 유튜브 채널 '그리구라'에는 '번아웃이 온 김구라'라는 제목으로 영상이 게재됐다. 영상에서 김구라는 "국진이 형이 그 얘기를]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['특별상영 5000석 매진' 몬스타엑스 영화 개봉 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
             <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010878139</link>
             <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010878139</guid>
-            <pubDate>Wed, 08 Dec 2021 06:26:22 GMT</pubDate>
+            <pubDate>Wed, 08 Dec 2021 06:26:08 GMT</pubDate>
             <content:encoded><![CDATA[[서울=뉴시스]김예지 인턴 기자 = 그룹 몬스타엑스(MONSTA X)가 케이팝을 넘어 스크린 접수를 예고했다. 8일부터 몬스타엑스의 영화 '몬스타엑스 : 더 드리밍(MONSTA X : THE DREAMING)'이 국]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[존 굿맨, 총 90kg 감량 반쪽 됐다..비결은? [Oh!llywood] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <title><![CDATA["몸이 반쪽" 존 굿맨, 무려 90kg 감량 성공..비결은? [Oh!llywood] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
             <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004523418</link>
             <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004523418</guid>
             <pubDate>Wed, 08 Dec 2021 06:26:22 GMT</pubDate>
