@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-12-08T13:30:25.370Z</updated>
+    <updated>2021-12-08T14:22:55.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘문명’ 관전 포인트 공개…‘문벤져스’ 활약→최후의 1인 찾기]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000949915</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000949915"/>
+        <updated>2021-12-08T14:22:46.226Z</updated>
+        <content type="html"><![CDATA[‘문명:최후의 섬’을 더욱 재미있게 즐길 수 있는 관전 포인트가 공개됐다. 국내 최대 OTT 웨이브(wavve) 오리지널 다큐멘터리 예능 '문명:최후의 섬(이하 '문명')’은 각자 다른 능력을 가진 10인이 고립된]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['현빈♥' 손예진 "사랑으로 계속 배가 불러요"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003810602</id>
+        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003810602"/>
+        <updated>2021-12-08T14:22:46.227Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 이유나 기자] 배우 손예진이 끝없는 응원에 감사의 인사를 전했다. 손예찐은 8일 인스타그램에 "계속 고맙다는 인사로 안부를 전하게 되네요"라며 "아.. 이 고마움을 어떻게 보답해야할지"라고 감사의 인사를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘찐경규’ 이경규X김영찬, 취중진담 나눠 “제 코드는 원래 아버님”]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000949914</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=032&amp;aid=0003115157"/>
         <updated>2021-12-08T12:36:09.457Z</updated>
         <content type="html"><![CDATA[[경향신문] 찬 바람이 불면 바다의 맛은 더욱 풍성해진다. 9일 방송되는 KBS 1TV &lt;한국인의 밥상&gt;은 방어와 대삼치, 돌돔과 물메기가 오르는 통영과 고성의 제철밥상을 소개한다. 경남 통영시 한산면의 홍도에서는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘버터’로 세계 녹인 BTS… 美 ‘피플스 초이스’ 3관왕]]></title>
-        <id>https://entertain.naver.com/now/read?oid=022&amp;aid=0003646008</id>
-        <link href="https://entertain.naver.com/now/read?oid=022&amp;aid=0003646008"/>
-        <updated>2021-12-08T11:20:26.284Z</updated>
-        <content type="html"><![CDATA[올해의 그룹·노래·뮤비 수상 ‘마이 유니버스’도 장기 흥행 빌보드 ‘핫100’ 10주 연속 진입 그룹 방탄소년단(BTS·사진)이 미국 대중문화 시상식 ‘2021 E! 피플스 초이스 어워즈(E! People’s Cho]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘쇼챔’ 고스트나인, 시간 순삭 퍼포먼스…‘팬심 마에스트로’]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000949887</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000949887"/>
-        <updated>2021-12-08T11:20:26.287Z</updated>
-        <content type="html"><![CDATA[그룹 고스트나인(GHOST9)이 뚜렷한 성장세로 K-pop 팬들의 마음을 휘저었다. 고스트나인(손준형, 이신, 최준성, 이강성, 프린스, 이우진, 이진우)은 8일 오후 방송된 MBC M ‘쇼! 챔피언’에 출연해 다섯]]></content>
     </entry>
 </feed>
