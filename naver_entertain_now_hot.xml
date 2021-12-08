@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-12-08T18:26:51.460Z</updated>
+    <updated>2021-12-08T19:19:07.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이지혜 출산휴가 “빠이빠이, 두 달 후를 기약하며” [M+★SNS]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001627028</id>
+        <link href="https://entertain.naver.com/now/read?oid=057&amp;aid=0001627028"/>
+        <updated>2021-12-08T19:19:00.055Z</updated>
+        <content type="html"><![CDATA[가수 겸 방송인 이지혜가 만삭 휴가에 들어간다. 이지혜가 DJ를 맡고 있는 MBC FM4U ‘오후의 발견’ 제작진은 지난8일 공식 SNS에 “다음주부터 샵디 출산휴가라 고정게스트들과 빠이빠이 주간”이라고 알렸다. 함]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[블랙핑크 로제, 스타일리쉬함 속 돋보이는 팔 [M+★SNS]]]></title>
         <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001627027</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0004890937"/>
         <updated>2021-12-08T12:36:09.447Z</updated>
         <content type="html"><![CDATA[수애가 성진가(家)의 심장부로 들어간다. JTBC 새 수목드라마 ‘공작도시’(극본 손세동/ 연출 전창근/ 제작 하이스토리디앤씨, JTBC스튜디오)는 대한민국 정재계를 쥐고 흔드는 성진그룹의 미술관을 배경으로, 대한민]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘나는야 흙에 살리라’… 가수 홍세민 별세]]></title>
-        <id>https://entertain.naver.com/now/read?oid=022&amp;aid=0003646016</id>
-        <link href="https://entertain.naver.com/now/read?oid=022&amp;aid=0003646016"/>
-        <updated>2021-12-08T12:36:09.451Z</updated>
-        <content type="html"><![CDATA[“초가삼간 집을 짓는 내 고향 정든 땅 / 아기 염소 벗을 삼아 논밭 길을 가노라면 / 이 세상 모두가 내 것인 것을 / 왜 남들은 고향을 버릴까 고향을 버릴까 / 나는야 흙에 살리라 부모님 모시고 / 효도하면서 흙]]></content>
     </entry>
 </feed>
