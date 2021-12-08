@@ -4,9 +4,41 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 03:23:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 04:29:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[포토] 카이, '순간이동 마법사' 헤이~ MAMA~]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332780</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332780</guid>
+            <pubDate>Wed, 08 Dec 2021 04:28:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332780">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/08/68790aa4-71f3-44a4-b7f9-0a9503d90a07.jpg" alt="[포토] 카이, '순간이동 마법사' 헤이~ MAMA~">        <div class="text-box">            <p class="summary">[포토] 카이, '순간이동 마법사' 헤이~ MAMA~</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/08/68790aa4-71f3-44a4-b7f9-0a9503d90a07.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[포토] 라비, '어쩌다 마주친 그대']]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332778</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332778</guid>
+            <pubDate>Wed, 08 Dec 2021 04:28:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332778">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/08/457231c1-7b88-4e96-ac3c-50f9783dac88.jpg" alt="[포토] 라비, '어쩌다 마주친 그대'">        <div class="text-box">            <p class="summary">[포토] 라비, '어쩌다 마주친 그대'</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/08/457231c1-7b88-4e96-ac3c-50f9783dac88.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[포토] 조이, '해피니스~']]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332777</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332777</guid>
+            <pubDate>Wed, 08 Dec 2021 04:28:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332777">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/08/0ed78b7b-ab42-4e0b-8f90-a642f4e66ad3.jpg" alt="[포토] 조이, '해피니스~'">        <div class="text-box">            <p class="summary">[포토] 조이, '해피니스~'</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/08/0ed78b7b-ab42-4e0b-8f90-a642f4e66ad3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[포토] 카이, 'peach 왔다 카이~']]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332776</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332776</guid>
+            <pubDate>Wed, 08 Dec 2021 04:28:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332776">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/08/fbcb1299-8e99-49a5-aaf0-4d6c6c8ef310.jpg" alt="[포토] 카이, 'peach 왔다 카이~'">        <div class="text-box">            <p class="summary">[포토] 카이, 'peach 왔다 카이~'</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/08/fbcb1299-8e99-49a5-aaf0-4d6c6c8ef310.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['크러쉬♥'조이 "추위와 싸우는 중" 상큼 모먼트 [인스타]]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/332773</link>
@@ -62,38 +94,6 @@
             <pubDate>Tue, 07 Dec 2021 10:25:53 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332723">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/07/19ad354b-f8fc-4bcb-a4bb-513d4ec3777f.jpg" alt="방탄소년단 개인 인스타 개설→뷔, 제니 '언팔' 해프닝 [종합]">        <div class="text-box">            <p class="summary">방탄소년단 개인 인스타 개설→뷔, 제니 '언팔' 해프닝 [종합]</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/07/19ad354b-f8fc-4bcb-a4bb-513d4ec3777f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['아이돌라디오2' 하성운·정세운, 찰떡 케미 자랑]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332722</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332722</guid>
-            <pubDate>Tue, 07 Dec 2021 10:25:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332722">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/07/32c8af23-a0b2-48b1-b34d-1b6a59567fe4.jpg" alt="'아이돌라디오2' 하성운·정세운, 찰떡 케미 자랑">        <div class="text-box">            <p class="summary">'아이돌라디오2' 하성운·정세운, 찰떡 케미 자랑</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/07/32c8af23-a0b2-48b1-b34d-1b6a59567fe4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[움짤] 아이브 장원영, '갓기'의 '모태센터' 출근길]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332713</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332713</guid>
-            <pubDate>Tue, 07 Dec 2021 07:21:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332713">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/07/3f681eaf-15f5-4fe6-9ba6-c1e05f5f25cb.jpg" alt="[움짤] 아이브 장원영, '갓기'의 '모태센터' 출근길">        <div class="text-box">            <p class="summary">[움짤] 아이브 장원영, '갓기'의 '모태센터' 출근길</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/07/3f681eaf-15f5-4fe6-9ba6-c1e05f5f25cb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[움짤] 아이브 안유진, '일레븐' 매력]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332712</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332712</guid>
-            <pubDate>Tue, 07 Dec 2021 07:21:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332712">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/07/95199f5f-8adf-4217-bae8-82ad52e3ae2a.jpg" alt="[움짤] 아이브 안유진, '일레븐' 매력">        <div class="text-box">            <p class="summary">[움짤] 아이브 안유진, '일레븐' 매력</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/07/95199f5f-8adf-4217-bae8-82ad52e3ae2a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 아이브 안유진, 분위기 '손깻잎']]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332711</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332711</guid>
-            <pubDate>Tue, 07 Dec 2021 07:21:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332711">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/07/cc41d87b-a117-42d6-9337-80d990c04ea9.jpg" alt="[포토] 아이브 안유진, 분위기 '손깻잎'">        <div class="text-box">            <p class="summary">[포토] 아이브 안유진, 분위기 '손깻잎'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/07/cc41d87b-a117-42d6-9337-80d990c04ea9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
