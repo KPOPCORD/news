@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-12-08T17:28:53.543Z</updated>
+    <updated>2021-12-08T18:26:51.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[블랙핑크 로제, 스타일리쉬함 속 돋보이는 팔 [M+★SNS]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001627027</id>
+        <link href="https://entertain.naver.com/now/read?oid=057&amp;aid=0001627027"/>
+        <updated>2021-12-08T18:26:43.227Z</updated>
+        <content type="html"><![CDATA[블랙핑크 로제가 근황을 공개했다. 로제는 지난 8일 자신의 인스타그램에 사진을 올렸다. 공개된 사진 속 로제는 바지에 손을 넣고 강렬한 표정으로 카메라를 바라보고 있다. 그는 금발의 헤어에 회색 의상을 입고, 클로버]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이요원, 민소매 입고 찰각..배두나 "너무 심하게 동안" [스타IN★]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011466</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=022&amp;aid=0003646016"/>
         <updated>2021-12-08T12:36:09.451Z</updated>
         <content type="html"><![CDATA[“초가삼간 집을 짓는 내 고향 정든 땅 / 아기 염소 벗을 삼아 논밭 길을 가노라면 / 이 세상 모두가 내 것인 것을 / 왜 남들은 고향을 버릴까 고향을 버릴까 / 나는야 흙에 살리라 부모님 모시고 / 효도하면서 흙]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서현, 아찔한 어깨라인에 고혹적 비주얼…치명적 눈빛 ‘심쿵’[M+★SNS]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001626997</id>
-        <link href="https://entertain.naver.com/now/read?oid=057&amp;aid=0001626997"/>
-        <updated>2021-12-08T12:36:09.451Z</updated>
-        <content type="html"><![CDATA[소녀시대 서현이 우아한 자태를 자랑했다. 서현은 8일 오후 자신의 인스타그램에 입술 이모티콘과 사진 여러장을 게재했다. 사진 속에는 블랙 원피스를 입고 있는 그의 모습이 담겨 있다. 마릴린 먼로를 연상케하는 자태를]]></content>
     </entry>
 </feed>
