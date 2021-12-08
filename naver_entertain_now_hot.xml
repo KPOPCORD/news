@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-12-08T15:25:07.076Z</updated>
+    <updated>2021-12-08T16:33:17.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이요원, 민소매 입고 찰각..배두나 "너무 심하게 동안" [스타IN★]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011466</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003011466"/>
+        <updated>2021-12-08T16:33:09.672Z</updated>
+        <content type="html"><![CDATA[배우 이요원이 여리여리한 여성미를 자랑했다. 지난 8일 이요원은 자신의 인스타그램을 통해 "사실 추웠음"이라는 글과 함께 사진을 올렸다. 공개 된 사진 속에는 이요원이 베이지색 민소매 원피스를 입고 있다. 이요원의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[태연, 과감한 브라톱 패션으로 공개한 무결점 몸매 [스타IN★]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011463</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=057&amp;aid=0001626997"/>
         <updated>2021-12-08T12:36:09.451Z</updated>
         <content type="html"><![CDATA[소녀시대 서현이 우아한 자태를 자랑했다. 서현은 8일 오후 자신의 인스타그램에 입술 이모티콘과 사진 여러장을 게재했다. 사진 속에는 블랙 원피스를 입고 있는 그의 모습이 담겨 있다. 마릴린 먼로를 연상케하는 자태를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서현, 블랙 원피스 입고 도발적 포즈…소시 막내의 성숙미 [스타IN★]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011434</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003011434"/>
-        <updated>2021-12-08T12:36:09.451Z</updated>
-        <content type="html"><![CDATA[소녀시대 서현이 우아한 매력을 과시했다. 서현은 8일 자신의 인스타그램에 입술 이모티콘과 여러 장의 사진을 게재했다. 공개된 사진 속 서현은 검은 드레스를 입고 카메라를 응시하며 포즈를 취하고 있다. 평소의 청순한]]></content>
     </entry>
 </feed>
