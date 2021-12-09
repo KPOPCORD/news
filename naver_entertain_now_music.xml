@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-09T13:28:52.314Z</updated>
+    <updated>2021-12-09T14:21:30.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2AM 이창민, 자살방지 프로젝트 참여..자살률 1위 韓 불명예 씻자]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004524220</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004524220"/>
+        <updated>2021-12-09T14:21:13.817Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 가수 이창민이 참여한 자살방지 프로젝트 ‘Never Give Up’의 네 번째 프로젝트 캠페인 송 티저 영상이 공개됐다. 9일 오전(한국시간) 유스타 파운데이션 공식 홈페이지와 SNS 채널,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이찬원, 2달 만에 신곡 ‘참 좋은 날’ 발매…팬들 사랑 보답 위해]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000836811</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003011665"/>
         <updated>2021-12-09T08:26:31.085Z</updated>
         <content type="html"><![CDATA[킹덤(KINGDOM)의 '판타지돌' 레드카펫 패션이 화제다. 영국의 유명 패션 전문가 조지 홀린스(George Hollins)는 지난 5일 본인의 유튜브 채널에 '2021 Asia Artists Awards(아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[레드벨벳 조이·아이브 레이, 이 친목 찬성일세]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010881177</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010881177"/>
-        <updated>2021-12-09T08:26:31.089Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]김예지 인턴 기자 = 레드벨벳 조이가 후배인 아이브 레이에 대한 '내리사랑'을 드러냈다. 8일, 조이는 자신의 인스타그램 스토리에 레이의 자필 편지가 적혀 있는 아이브 데뷔 싱글앨범 사진과 레이와의 셀]]></content>
     </entry>
 </feed>
