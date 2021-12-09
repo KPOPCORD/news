@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 09:24:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 10:24:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211206095132_1761ca01722e56bce5ef4c32ea99450d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["뮤지컬의 독립을 허하라"  공연법 개정안, 문체위 전체회의 통과 (KBS연예 ─ 연예)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=178520</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=178520</guid>
+            <pubDate>Thu, 09 Dec 2021 10:23:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=178520">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211209165141_f3f65d3b6c19a2a6cda3d65f525f5e0a_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=178520">"뮤지컬의 독립을 허하라"  공연법 개정안, 문체위 전체회의 통과</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211209165141_f3f65d3b6c19a2a6cda3d65f525f5e0a_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[FT아일랜드 이재진, 뮤지컬 '뱀파이어 아더' 출연 (KBS연예 ─ 연예)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=178475</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=178475</guid>
@@ -671,21 +688,28 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211204072055_cfc1568c6c7358e9af4962946afb9583_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[차지연, '모범택시'로  AAA신스틸러 수상 (KBS연예 ─ 연예)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=177297</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=177297</guid>
-            <pubDate>Sat, 04 Dec 2021 01:04:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=177297">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211204071748_6cb953d87b081ba3bb7234e7a192c5ef.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=177297">차지연, '모범택시'로  AAA신스틸러 수상 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211204071748_6cb953d87b081ba3bb7234e7a192c5ef.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[포토] 방탄소년단 제이홉, '곰돌이 호석이' (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332914</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332914</guid>
+            <pubDate>Thu, 09 Dec 2021 10:23:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332914">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/09/3af10595-857e-42c2-964d-1449142c9bfd.jpg" alt="[포토] 방탄소년단 제이홉, '곰돌이 호석이'">        <div class="text-box">            <p class="summary">[포토] 방탄소년단 제이홉, '곰돌이 호석이'</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/09/3af10595-857e-42c2-964d-1449142c9bfd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[포토] 방탄소년단 제이홉, 글로벌 '가운패션' (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332913</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332913</guid>
+            <pubDate>Thu, 09 Dec 2021 10:23:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332913">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/09/70cd6947-96fc-4d36-a7fc-8564b8ecb1e5.jpg" alt="[포토] 방탄소년단 제이홉, 글로벌 '가운패션'">        <div class="text-box">            <p class="summary">[포토] 방탄소년단 제이홉, 글로벌 '가운패션'</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/09/70cd6947-96fc-4d36-a7fc-8564b8ecb1e5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제이홉 콘돔 셔츠→진 '슈퍼참치'…방탄소년단의 '화려한 휴가' [종합] (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332910</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332910</guid>
+            <pubDate>Thu, 09 Dec 2021 10:23:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332910">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/09/f86a53ba-1d41-4ee9-b3a6-69de91b353dc.jpg" alt="제이홉 콘돔 셔츠→진 '슈퍼참치'…방탄소년단의 '화려한 휴가' [종합]">        <div class="text-box">            <p class="summary">제이홉 콘돔 셔츠→진 '슈퍼참치'…방탄소년단의 '화려한 휴가' [종합]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/09/f86a53ba-1d41-4ee9-b3a6-69de91b353dc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아이돌 킹덤, '2021AAA' 베스트드레서 '극찬세례' (MBC 연예 ─ 아이돌)]]></title>
@@ -750,30 +774,6 @@
             <pubDate>Thu, 09 Dec 2021 01:09:11 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332849">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/09/366bf169-54f7-4dc0-9ed7-f4ca90dcf098.jpg" alt="아이브 원영, '라디오스타'서 개인기 종합 세트로 매력 발산">        <div class="text-box">            <p class="summary">아이브 원영, '라디오스타'서 개인기 종합 세트로 매력 발산</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/09/366bf169-54f7-4dc0-9ed7-f4ca90dcf098.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[움짤] 레드벨벳 조이, 퇴근길 '고급 과즙 애교' 농도초과 (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332822</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332822</guid>
-            <pubDate>Wed, 08 Dec 2021 10:25:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332822">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/08/44a0ce52-5055-4e89-9490-f48717c16535.gif" alt="[움짤] 레드벨벳 조이, 퇴근길 '고급 과즙 애교' 농도초과">        <div class="text-box">            <p class="summary">[움짤] 레드벨벳 조이, 퇴근길 '고급 과즙 애교' 농도초과</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/08/44a0ce52-5055-4e89-9490-f48717c16535.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[움짤] 레드벨벳 조이, 세상 러블리 한 '연말조이' (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332820</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332820</guid>
-            <pubDate>Wed, 08 Dec 2021 10:25:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332820">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/08/b5129da5-4e5f-4317-a472-adab28397856.gif" alt="[움짤] 레드벨벳 조이, 세상 러블리 한 '연말조이'">        <div class="text-box">            <p class="summary">[움짤] 레드벨벳 조이, 세상 러블리 한 '연말조이'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/08/b5129da5-4e5f-4317-a472-adab28397856.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[케플러 최유진→김채현, 코로나 여파로 데뷔 미룬다 [전문] (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332819</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332819</guid>
-            <pubDate>Wed, 08 Dec 2021 10:25:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332819">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/08/ca044e59-4f41-42b5-91d7-e69929e09cb3.jpg" alt="케플러 최유진→김채현, 코로나 여파로 데뷔 미룬다 [전문]">        <div class="text-box">            <p class="summary">케플러 최유진→김채현, 코로나 여파로 데뷔 미룬다 [전문]</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/08/ca044e59-4f41-42b5-91d7-e69929e09cb3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이찬원, 새 싱글 '참 좋은 날' 발매.. "팬들 위한 선물" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
@@ -881,6 +881,48 @@
             <content:encoded><![CDATA[[스포츠경향] 그룹 투모로우바이투게더의 ‘혼돈의 장: FIGHT OR ESCAPE’가 미국 TIME(타임)지 선정 ‘2021 베스트 K-팝 앨범’에 이름을 올렸다. 지난 8일(현지시간) 미국 시사주간지 TIME이 공식 홈페이지에 게재한 기사에 따르면, 투모로우바이투게더(수빈, 연준, 범규, 태현, 휴닝카이)가 지난 8월 발매한 정규 2집 리패키지 앨범 ‘]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[삼성전자 신임부사장 고봉준, 과거 서울대 아카펠라 그룹 멤버였다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211209191944448</link>
+            <guid>https://entertain.v.daum.net/v/20211209191944448</guid>
+            <pubDate>Thu, 09 Dec 2021 10:24:01 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박은해 기자] 삼성전자 신임 부사장의 독특한 과거 경력이 관심을 끌고 있다. 12월 9일 머니투데이는 삼성전자 2022년도 정기 임원인사에서 부사장으로 승진한 고봉준 VD(영상디스플레이) 사업부 서비스 소프트웨어 랩장(49)이 1993년 데뷔한 6인조 아카펠라 그룹 인공위성의 원년 멤버라고 보도했다. 보도에 따르면 서울대 전기공학과 90학번인 고]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[최우식 "영화에서 자주 죽어..인물 성 기억 안 한다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211209191003261</link>
+            <guid>https://entertain.v.daum.net/v/20211209191003261</guid>
+            <pubDate>Thu, 09 Dec 2021 10:24:01 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김수정 인턴기자) 배우 최우식이 자신이 작품 속 죽음을 언급했다. 유튜브 채널 'COSMOPOLITAN Korea'는 지난 7일 "김다미♥최우식, 서로 죽이는 연기를 하다가 첫사랑 커플 연기를 한다고? 대환장인데 좋못사..."라는 제목의 영상을 게재했다. 공개된 영상에는 SBS 월화드라마 '그 해 우리는'에서 주인공으로 호흡을 맞추고 있는]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[무섭다 무서워, 재벌 암투 '공작도시' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211209185901092</link>
+            <guid>https://entertain.v.daum.net/v/20211209185901092</guid>
+            <pubDate>Thu, 09 Dec 2021 10:24:01 GMT</pubDate>
+            <content:encoded><![CDATA[사람이 거의 없는 어두운 곳에서 일이 벌어진다. 대화는 낮은 목소리로 조용조용하게 나눈다. 이야기하다 화가 나도 감정을 드러내지 않는다. 모두 목표를 향해 직진한다. 비밀 작전을 수행하는 킬러들의 행동 양식이나 학생들이 공부하는 독서실 주의사항이 아니다. 지난 8일 오후 10시30분 첫 방송된 JTBC 새 수목드라마 ‘공작도시’ 속 분위기다. ‘공작도시’]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['편스토랑' 류수영, 어남선생표 호감수프 공개.. 딸 "따뜻하고 맛있어요" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211209184932961</link>
+            <guid>https://entertain.v.daum.net/v/20211209184932961</guid>
+            <pubDate>Thu, 09 Dec 2021 10:24:01 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 이소연 기자] 류수영이 딸이 좋아하는 호감수프 레시피를 소개한다. 오는 10일(금) 방송되는 KBS2 ‘신상출시 편스토랑’(이하 ‘편스토랑’)에서는 ‘겨울의 맛’을 주제로 2021년 마지막 메뉴 개발 대결이 이어진다. 그중 어남선생 류수영은 평소 딸이 좋아해서 자주 만든다는 호감수프 레시피를 공개한다. 감자수프에 이어 또 하나의 어남선생 레전]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[주지훈 "잘생긴 거 몰라..'궁' 리메이크 출연? 좀 더 무르익을 때" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211209184003793</link>
+            <guid>https://entertain.v.daum.net/v/20211209184003793</guid>
+            <pubDate>Thu, 09 Dec 2021 10:24:01 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김수정 인턴기자) 주지훈이 외모 칭찬에 겸손한 반응을 보였다. 유튜브 채널 'COSMOPOLITAN Korea'는 지난 6일 "K-KING의 정석 주지훈, ‘궁’ 리메이크에 출연?! 그 시절 ‘궁’ 토크부터 최애 향수, 붕어빵 취향, 오늘의 TMI까지!"라는 제목의 영상을 게재했다. 공개된 영상에서 주지훈은 네티즌들이 보내온 여러 가지 질문]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['오토바이 사망사고' 박신영, 눈물 호소에도 실형 구형.."속도·신호 위반" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211209182702502</link>
+            <guid>https://entertain.v.daum.net/v/20211209182702502</guid>
+            <pubDate>Thu, 09 Dec 2021 10:24:01 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=정태건 기자]오토바이와 교통사고를 내 운전자를 숨지게 한 혐의를 받는 아나운서 출신 방송인 박신영이 실형을 구형받았다.검찰은 9일 서울서부지법 형사5단독 정인재 부장판사 심리로 열린 박선영의 교통사고처리특례법상 치사 혐의 사건 첫 공판에서 금고 1년을 선고해 달라고 재판부에 요청했다.&nbsp;검찰은 "사고에서 피해자 측의 과실도 있다고는 하나 피고인의]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[슈가, 故주스월드 유작앨범 참여.."프로듀서 민윤기, fighting demons" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
             <link>https://entertain.v.daum.net/v/20211209180434942</link>
             <guid>https://entertain.v.daum.net/v/20211209180434942</guid>
@@ -893,13 +935,6 @@
             <guid>https://entertain.v.daum.net/v/20211209180205887</guid>
             <pubDate>Thu, 09 Dec 2021 09:23:32 GMT</pubDate>
             <content:encoded><![CDATA[[TV리포트=이혜미 기자] 김예림이 뉴엔트리(NEW ENTRY)와 전속계약을 맺고 본격적인 활동에 나선다. 9일 소속사 뉴엔트리는 김예림과의 전속계약 체결 소식을 전하며 “대체 불가능한 보이스로 대중의 큰 사랑을 받고 있는 김예림과 함께하게 되어서 영광이다. 음악은 물론 예능, 연기까지 다양한 분야에서의 활동을 지원할 예정”이라고 밝혔다. 김예림 또한 뉴엔]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MC몽 "병역 비리한 적 없다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211209175802767</link>
-            <guid>https://entertain.v.daum.net/v/20211209175802767</guid>
-            <pubDate>Thu, 09 Dec 2021 09:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 가수 MC몽이 과거 병역 기피 의혹에 대해 재차 해명했다. 앞서 6일 MC몽은 자신의 인스타그램에 코로나19 백신 부스터 샷 접종 후유증을 호소, 주목을 이끌었던 바. 해당 이슈를 보도하며 한 매체에선 '병역 비리 사건 이후 잠잠했던 MC몽'이라는 자막을 내보내기도. 이에 MC몽은 9일 SNS에 캡처 사진과 함께 "앨범을 7]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["아파트만 여러 개"..황현희, '개콘' 퇴출 후 수익 10배↑ 비결 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
@@ -951,41 +986,6 @@
             <content:encoded><![CDATA[[서울=뉴시스]고다연 인턴 기자 = 드라마 '엉클'이 시청자들에게 따뜻함을 전한다. 11일 오후 9시 첫 방송되는 TV 조선 주말 드라마 '엉클'은 누나의 이혼으로 얼떨결에 초등학생 조카를 떠맡은 루저 뮤지션 삼촌의 코믹 유쾌 성장 생존기를 담은 작품이다. 동명의 BBC 드라마를 리메이크했다. 9일 온라인으로 진행된 제작발표회에는 배우 오정세, 전혜진,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['나혼산' 이은지, 2개월 만 컴백..핵인싸 라이프 공개 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211209172210603</link>
-            <guid>https://entertain.v.daum.net/v/20211209172210603</guid>
-            <pubDate>Thu, 09 Dec 2021 08:26:17 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 백지연 기자] '나 혼자 산다'에서 화제의 핵인싸 라이프를 선보였던 개그우먼 이은지가 돌아온다. 세탁기를 수납장으로 쓰고, 거실 한복판에서 반신욕을 즐기는 '여자 기안84' 이은지의 범상치 않은 일상에 이목이 쏠린다. 10일 밤 11시 10분에 방송되는 MBC '나 혼자 산다'4에서는 이은지의 상상 초월 일상이 공개된다. 이은지는 지난 10]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['셋' 정이서 "영화 '밀양' 참고, 잘 해내고 싶다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211209172036550</link>
-            <guid>https://entertain.v.daum.net/v/20211209172036550</guid>
-            <pubDate>Thu, 09 Dec 2021 08:26:17 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 황서연 기자] 배우 정이서가 '셋'에 참여하는 소감을 밝혔다. 9일 오후 KBS2 '드라마 스페셜 2021-셋'(극본 이남희·연출 구성준, 이하 '셋')의 기자간담회가 온라인으로 진행됐다. 현장에는 배우 소주연 정이서 조인, 구성준 PD가 참석해 작품에 대한 이야기를 나눴다. '셋'은 성범죄의 상처를 안고 살아가던 친구 셋 종희(소주연), 형]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[설렘‧아찔‧숨멎 다했다..엔딩맛집 '옷소매 붉은 끝동', 당신의 1위는? (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211209171231243</link>
-            <guid>https://entertain.v.daum.net/v/20211209171231243</guid>
-            <pubDate>Thu, 09 Dec 2021 08:26:17 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=김현록 기자]주말 안방극장을 사로잡은 옷소매 붉은 끝동’이 세기의 로맨스 명장면들을 탄생시키며 ‘옷소매 폐인’들을 양산하고 있다. MBC 금토드라마 ‘옷소매 붉은 끝동’(극본 정해리, 연출 정지인 송연화, 제작 위매드 앤피오엔터테인먼트, 영제 The Red Sleeve, 이하 ‘옷소매’)이 시청률과 화제성, VOD 시장까지 올킬하며 하반]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼인플루언서어워즈 시즌2 성황리 개최 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211209171133204</link>
-            <guid>https://entertain.v.daum.net/v/20211209171133204</guid>
-            <pubDate>Thu, 09 Dec 2021 08:26:17 GMT</pubDate>
-            <content:encoded><![CDATA[[김치윤 기자] ‘슈퍼인플루언서어워즈’ 시즌2가 지난 11월27일 웰리힐리파크 그랜드볼룸에서 성황리에 개최됐다.&nbsp;슈퍼인플루언서어워즈 대회는 포털사이트에서 영향력이 큰 블로그를 운영하는 블로거나 많은 팔로워를 가진 소셜네트워크서비스 사용자, 혹은 1인 방송진행자들이 영향력을 가지고 기업들 및 필요로 하는 곳에서 소통을 하기 위한 대회다. 인플루언서 활동을 비]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[임영웅 "세상을 뒤집고 청춘을 되돌릴 영웅이 온다"..콘서트 티저 공개 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211209171007142</link>
-            <guid>https://entertain.v.daum.net/v/20211209171007142</guid>
-            <pubDate>Thu, 09 Dec 2021 08:26:17 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=장우영 기자] KBS가 단독으로 선보이는 임영웅의 콘서트의 티저가 공개됐다. 연말을 빛낼 임영웅의 콘서트인 만큼 기대감이 치솟는다. 9일 KBS 공식 인스타그램 등에는 “세상을 뒤집고 청춘을 되돌릴 영웅이 온다! 올해를 보내는 최고의 선택. ‘2021 KBS 송년특집 We`re HERO 임영웅’”이라는 글과 영상이 한 편 게재됐다. 공개된 영상은]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA['007' 제작자 "차기 본드, 인종은 상관없지만 英 출신 남성이어야" (다음 연예 ─ 뉴스 ─ 해외)]]></title>
             <link>https://entertain.v.daum.net/v/20211209171926518</link>
             <guid>https://entertain.v.daum.net/v/20211209171926518</guid>
@@ -1012,6 +1012,41 @@
             <guid>https://entertain.v.daum.net/v/20211209085507180</guid>
             <pubDate>Thu, 09 Dec 2021 01:09:25 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 벤 애플렉(49)과 세계적 팝스타 제니퍼 로페즈(52)가 NBA 데이트를 즐겼다. 이들은 8일(현지시간) 미국 LA 스테이플스 센터에서 열린 LA레이커스-보스턴 셀틱스 NBA 경기를 관람하며 로맨틱한 분위기를 연출했다. 이날 경기에선 LA가 보스턴을 117대 102로 꺾었다. 벤 애플렉과 제니퍼 로페즈는 한시]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['고등래퍼4' 우승 트레이드 엘, 라이브 클립 호평→유년기 최초 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001383449</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001383449</guid>
+            <pubDate>Thu, 09 Dec 2021 10:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김노을 기자) 래퍼 트레이드 엘(TRADE L)이 독보적인 라이브 실력을 선보였다. 소속사 하이어뮤직은 공식 SNS 계정을 통해 9일 오후 6시 트레이드 엘의 첫 번째 EP 'Time Table - T]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, '버터'로 美 '제임스 코든쇼' 1000회 엔딩 장식 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001383447</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001383447</guid>
+            <pubDate>Thu, 09 Dec 2021 10:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김노을 기자)그룹 방탄소년단이 미국 CBS 인기 토크쇼 '더 레이트 레이트 쇼 위드 제임스 코든(The Late Late Show with James Corden, 이하 '제임스 코든쇼')'에서 'Bu]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연제협, 문체부·콘진원 함께 대중음악 공연계 도왔다…'예술 활동 기반' 마련 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001383444</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001383444</guid>
+            <pubDate>Thu, 09 Dec 2021 10:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김노을 기자) 대한민국 문화체육관광부(장관 황희, 이하 문체부)와 한국콘텐츠진흥원(원장 조현래, 이하 콘진원), 사단법인 한국연예제작자협회(회장 임백운, 이하 연제협), 사단법인 한국음악레이블산업협회(]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[트레이드 엘, 'Light Out' 라이브 클립서 유년 시절 모습 최초 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011676</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011676</guid>
+            <pubDate>Thu, 09 Dec 2021 10:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[아티스트 트레이드 엘(TRADE L)이 독보적인 라이브 실력을 선보였다. 하이어뮤직은 공식 SNS 계정을 통해 9일 오후 6시 트레이드 엘의 첫 번째 EP [Time Table - The Trip] 마지막 오피셜 라]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[임영웅,'이제 나만 믿어요' 1억 이상 스트리밍 대기록 달성 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=016&amp;aid=0001922962</link>
+            <guid>https://entertain.naver.com/now/read?oid=016&amp;aid=0001922962</guid>
+            <pubDate>Thu, 09 Dec 2021 10:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[[헤럴드경제 = 서병기 선임기자]가수 임영웅이 가온으로부터 스트리밍 부문에서 '이제 나만 믿어요' 음원이 플래티넘(Platinum) 인증을 Justin Bieber의 'Peaches (feat. Daniel Caes]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[‘고등래퍼4’ 우승자 트레이드 엘, 첫 EP 마지막 라이브 클립 ‘Light Out’ 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
@@ -1154,214 +1189,179 @@
             <content:encoded><![CDATA[[스포츠경향] 가수 유호가 KBS 아침마당 5연승에 이어 신곡 ‘한방 인생을 발매했다고 소속사가 밝혔다. 방송에 얼굴을 자주 비추며 활발히 활동 중인 유호의 ‘한방 인생’은 제목 그대로 본인의 음악생활에 한방을 보여]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[찬또배기 이찬원, 팬들 향한 사랑 담긴 '참 좋은 날' 발매! (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=438&amp;aid=0000041628</link>
-            <guid>https://entertain.naver.com/now/read?oid=438&amp;aid=0000041628</guid>
-            <pubDate>Thu, 09 Dec 2021 08:26:31 GMT</pubDate>
-            <content:encoded><![CDATA[‘찬또배기’ 이찬원이 팬들을 위한 신곡을 공개한다. 가수 이찬원의 새 디지털 싱글 ‘참 좋은 날’이 오늘 9일 오후 6시 각종 음원사이트를 통해 발매된다. 이찬원의 두 번째 디지털 싱글 ‘참 좋은 날’에는 이찬원이]]></content:encoded>
+            <title><![CDATA[[T포토] 제이홉 '미국 다녀왔어요' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001201814</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001201814</guid>
+            <pubDate>Thu, 09 Dec 2021 10:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 방탄소년단(BTS) 제이홉이 미국 로스앤젤레스 소파이 스타디움(SoFi Stadium)에서 개최된 단독 콘서트 'BTS PERMISSION TO DANCE ON STAGE - LA'를 마치고 9일 오후 인천국제]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[MC몽, 병역 기피 재해명 "한 적 없음…일 크게 만들지 말아 달라" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011662</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011662</guid>
-            <pubDate>Thu, 09 Dec 2021 08:26:31 GMT</pubDate>
-            <content:encoded><![CDATA[가수 MC몽이 병역 기피 논란을 재차 해명했다. 9일 MC몽은 개인 인스타그램에 "공연 연습하는 영상 하나 올렸을 뿐. 보셨죠, 여러분. 말이 얼마나 다르게 변하는지"라는 글과 함께 사진 여러 장을 게재했다. 공개된]]></content:encoded>
+            <title><![CDATA[[T포토] 제이홉 '가려도 존재감 뿜뿜' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001201813</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001201813</guid>
+            <pubDate>Thu, 09 Dec 2021 10:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 방탄소년단(BTS) 제이홉이 미국 로스앤젤레스 소파이 스타디움(SoFi Stadium)에서 개최된 단독 콘서트 'BTS PERMISSION TO DANCE ON STAGE - LA'를 마치고 9일 오후 인천국제]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[알렉사, 내년 1월 컴백 확정! (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=438&amp;aid=0000041626</link>
-            <guid>https://entertain.naver.com/now/read?oid=438&amp;aid=0000041626</guid>
-            <pubDate>Thu, 09 Dec 2021 08:26:31 GMT</pubDate>
-            <content:encoded><![CDATA[알렉사가 내년 1월 컴백을 확정 지었다. 알렉사는 오늘(9일) 정오 네이버 브이라이브 채널에서 생일 기념 방송을 진행하던 중 컴백 소식을 팬들에게 전해 폭발적인 반응을 이끌어냈다. 알렉사는 "내년 1월 6일 컴백이]]></content:encoded>
+            <title><![CDATA[[T포토] 제이홉 '잘 다녀왔어요~' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001201812</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001201812</guid>
+            <pubDate>Thu, 09 Dec 2021 10:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 방탄소년단(BTS) 제이홉이 미국 로스앤젤레스 소파이 스타디움(SoFi Stadium)에서 개최된 단독 콘서트 'BTS PERMISSION TO DANCE ON STAGE - LA'를 마치고 9일 오후 인천국제]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['싱어게인2', 더 강력해진 '무명의 반란' 왜? (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010881055</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010881055</guid>
-            <pubDate>Thu, 09 Dec 2021 08:26:31 GMT</pubDate>
-            <content:encoded><![CDATA[기사내용 요약 예능 아니 음악 본질에 집중 코로나19로 인해 줄어든 라이브 대리만족 [서울=뉴시스]이재훈 기자 = 올해 초 종영한 JTBC 오디션 프로그램 '싱어게인 - 무명가수전'은 '오디션의 종언'을 유예했다.]]></content:encoded>
+            <title><![CDATA[[T포토] 제이홉 '이 구역 패셔니스타' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001201811</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001201811</guid>
+            <pubDate>Thu, 09 Dec 2021 10:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 방탄소년단(BTS) 제이홉이 미국 로스앤젤레스 소파이 스타디움(SoFi Stadium)에서 개최된 단독 콘서트 'BTS PERMISSION TO DANCE ON STAGE - LA'를 마치고 9일 오후 인천국제]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘MZ세대 대변인’ 싱어송라이더 윌 하이드, 두 번째 EP 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000779917</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000779917</guid>
-            <pubDate>Thu, 09 Dec 2021 08:26:31 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 영연방 음악 잡지 뉴 뮤지컬 익스프레스(NME)와 원더랜드(Wonderland)로부터 호평을 받고 있는 호주 멜버른 출신 싱어송라이터 윌 하이드(will hyde)가 새 EP ‘nothing ever]]></content:encoded>
+            <title><![CDATA[[T포토] 제이홉 '패피의 공항패션' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001201810</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001201810</guid>
+            <pubDate>Thu, 09 Dec 2021 10:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 방탄소년단(BTS) 제이홉이 미국 로스앤젤레스 소파이 스타디움(SoFi Stadium)에서 개최된 단독 콘서트 'BTS PERMISSION TO DANCE ON STAGE - LA'를 마치고 9일 오후 인천국제]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“참가비만 내면 후보”…현직 화가, 솔비 아트페어 대상 저격 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000599237</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000599237</guid>
-            <pubDate>Thu, 09 Dec 2021 09:23:53 GMT</pubDate>
-            <content:encoded><![CDATA[가수 겸 화가 솔비가 바르셀로나 국제 아트페어(FIABCN) 시상식에서 대상을 받은 가운데 이와 관련해 현직 화가가 비판의 목소리를 냈다. 8일 화가 겸 유튜버 이진석 씨는 생방송에서 “솔비가 대상을 받은 FIABC]]></content:encoded>
+            <title><![CDATA[[T포토] 제이홉 '시선 사로잡는 곰돌이 패션' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001201809</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001201809</guid>
+            <pubDate>Thu, 09 Dec 2021 10:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 방탄소년단(BTS) 제이홉이 미국 로스앤젤레스 소파이 스타디움(SoFi Stadium)에서 개최된 단독 콘서트 'BTS PERMISSION TO DANCE ON STAGE - LA'를 마치고 9일 오후 인천국제]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['검사♥' 한지혜, 순둥이 딸 자랑 "어려운 포대기 매기 성공" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003810889</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003810889</guid>
-            <pubDate>Thu, 09 Dec 2021 09:23:53 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조윤선 기자] 배우 한지혜가 육아 일상을 공개했다. 한지혜는 9일 자신의 인스타그램 스토리에 "어려운 포대기 매기 성공"이라는 글과 함께 사진을 게재했다. 사진 속 한지혜는 노란색 아기 포대기로 딸 윤슬]]></content:encoded>
+            <title><![CDATA[뷔, 매니저 없이 홀로 입국 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005775629</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005775629</guid>
+            <pubDate>Thu, 09 Dec 2021 10:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[(인천공항=뉴스1) 권현진 기자 = 방탄소년단(BTS) 뷔가 9일 새벽 LA 콘서트와 방송 일정을 마치고 인천국제공항을 통해 입국하고 있다. 2021.12.9/뉴스1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[신민아, 함께 촬영 중 ♥김우빈이 찍어줬나? 제주도서 '찰칵' [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000517012</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000517012</guid>
-            <pubDate>Thu, 09 Dec 2021 09:23:53 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=강민경 기자] 배우 신민아가 드라마 촬영 중 근황을 전했다. 신민아는 9일 자신의 인스타그램에 "금귤과"라는 글과 함께 사진 두 장을 게재했다. 사진 속 신민아는 금귤 나무 앞에서 사진을 찍고 있는 모습이]]></content:encoded>
+            <title><![CDATA[방탄소년단 뷔, 공항 포착 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005775626</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005775626</guid>
+            <pubDate>Thu, 09 Dec 2021 10:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[(인천공항=뉴스1) 권현진 기자 = 방탄소년단(BTS) 뷔가 9일 새벽 LA 콘서트와 방송 일정을 마치고 인천국제공항을 통해 입국하고 있다. 2021.12.9/뉴스1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘태종 이방원’ 진한 케미+웃음 가득 촬영장→명품 사극 예고 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000950086</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000950086</guid>
-            <pubDate>Thu, 09 Dec 2021 09:23:53 GMT</pubDate>
-            <content:encoded><![CDATA[KBS 1TV 새 대하사극 ‘태종 이방원’의 배우들이 쉴 틈 없는 연기 열정과 화기애애한 현장의 분위기를 전하며 명품 정통 사극 탄생을 기대하게 만들고 있다. 오는 12월 11일 토요일 밤 9시 40분 첫 방송 되는]]></content:encoded>
+            <title><![CDATA[방탄소년단 뷔, 계절파괴 패션 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005775623</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005775623</guid>
+            <pubDate>Thu, 09 Dec 2021 10:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[(인천공항=뉴스1) 권현진 기자 = 방탄소년단(BTS) 뷔가 9일 새벽 LA 콘서트와 방송 일정을 마치고 인천국제공항을 통해 입국하고 있다. 2021.12.9/뉴스1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[걸스데이 소진, "집에 못 올 뻔" 뜻밖의 근황[스타IN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011674</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011674</guid>
-            <pubDate>Thu, 09 Dec 2021 09:23:53 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 걸스데이 소진이 근황을 전했다. 9일 소진은 자신의 인스타그램을 통해 "할 말 너무 많이 필요하지 않게 쬐끄맣고 깔끔하고 사랑스럽고 탁자 한켠에 올려놔도 귀여울 카드 찾기. 집에 못 올 뻔"이라는 글과 함께 사]]></content:encoded>
+            <title><![CDATA[진세연, 추위 걱정되는 '초미니 스커트+극세사 다리'[스타IN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011687</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011687</guid>
+            <pubDate>Thu, 09 Dec 2021 10:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[배우 진세연이 근황을 전했다. 9일 진세연은 자신의 인스타그램을 통해 "헤헷"이라는 글과 함께 사진을 게재했다. 공개된 사진속에는 진세연이 아이보리컬러의 투피스를 입고 길거리에서 포즈를 취하고 있다. 또한 귀여운 집]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[조민아, CEO 남편 고가 선물 자랑…1000만원대 목걸이+C사 명품백 [TEN ★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000517010</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000517010</guid>
-            <pubDate>Thu, 09 Dec 2021 09:23:53 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=정태건 기자] 그룹 쥬얼리 출신 조민아가 남편에게 받은 고가 선물을 자랑했다. 조민아는 9일 자신의 인스타그램에 "만난지 500일 기념 선물 미리 준다면서 핸드폰과 목걸이를 선물한 허니베어"라는 글과 함께]]></content:encoded>
+            <title><![CDATA[제이홉, 멀리서도 한 눈에 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005775614</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005775614</guid>
+            <pubDate>Thu, 09 Dec 2021 10:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[(인천공항=뉴스1) 권현진 기자 = 방탄소년단(BTS) 제이홉이 9일 새벽 LA 콘서트와 방송 일정을 마치고 인천국제공항을 통해 입국하고 있다. 2021.12.9/뉴스1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘살림남2’ 이은혜 모녀 대립 ‘개도 가족 vs 아이와 분리’ (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000950085</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000950085</guid>
-            <pubDate>Thu, 09 Dec 2021 09:23:53 GMT</pubDate>
-            <content:encoded><![CDATA[이은혜 모녀가 반려견 문제를 두고 대립했다. 11일 방송되는 KBS2 ‘살림하는 남자들 시즌2’(이하 ‘살림남2′)에서는 반려견의 분리 문제를 둘러싸고 심각한 갈등을 빚은 이은혜 모녀의 이야기가 그려진다. 최근 들어]]></content:encoded>
+            <title><![CDATA[방탄소년단 제이홉 '나 홀로 입국' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005775613</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005775613</guid>
+            <pubDate>Thu, 09 Dec 2021 10:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[(인천공항=뉴스1) 권현진 기자 = 방탄소년단(BTS) 제이홉이 9일 새벽 LA 콘서트와 방송 일정을 마치고 인천국제공항을 통해 입국하고 있다. 2021.12.9/뉴스1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[조민아, ♥CEO 남편 선물 자랑 'B사 목걸이·C사 명품백'[스타IN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011672</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011672</guid>
-            <pubDate>Thu, 09 Dec 2021 09:23:53 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 쥬얼리 출신 조민아가 남편에게 받은 선물을 자랑했다. 조민아는 9일 인스타그램에 "만난지 500일 기념 선물 미리 준다면서 핸드폰과 목걸이를 선물한 허니베어. 표현이 서툴 때가 많지만 나아지기 위해 노력하는 모]]></content:encoded>
+            <title><![CDATA[‘둘째 임신’ 이지혜 “출산 휴가로 두 달 휴식...잘 낳고 복귀할게요” [스타★샷] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000599238</link>
+            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000599238</guid>
+            <pubDate>Thu, 09 Dec 2021 10:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[방송인 이지혜가 둘째 출산을 앞두고 두 달간 휴식기를 갖는다. 9일 이지혜는 자신의 인스타그램에 “‘오후의 발견’, 출산 휴가로 두 달 정도 쉬게 되었어요. MBC 식구들, 수뇌부 선생님들까지 순산하고 오라고 이렇게]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[신지수, 독박육아 서러움 토로 "다 무너질 것 같았다"→둘째 계획 질문에 '단호' ('해방타운') (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003810885</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003810885</guid>
-            <pubDate>Thu, 09 Dec 2021 09:23:53 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조윤선 기자] 배우 신지수가 독박육아 고충을 토로해 안타까움을 안겼다. 10일(금) 밤 10시 30분 방송되는 JTBC '내가 나로 돌아가는 곳-해방타운'(이하' 해방타운')에서는 데뷔 23년 차 '국민]]></content:encoded>
+            <title><![CDATA[제이홉, 귀국하는 슈퍼스타 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005775606</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005775606</guid>
+            <pubDate>Thu, 09 Dec 2021 10:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[(인천공항=뉴스1) 권현진 기자 = 방탄소년단(BTS) 제이홉이 9일 새벽 LA 콘서트와 방송 일정을 마치고 인천국제공항을 통해 입국하고 있다. 2021.12.9/뉴스1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[넷플릭스, 성우 갑질 논란에 “일부 오해…향후 만전 기할 것” (공식) (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000836798</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000836798</guid>
-            <pubDate>Thu, 09 Dec 2021 09:23:53 GMT</pubDate>
-            <content:encoded><![CDATA[성우 최재호가 넷플릭스 갑질 의혹을 제기했다. 이에 넷플릿스 측이 해명했다. 지난 8일 최재호는 자신의 SNS에 “지금도 계속해서 해외글로벌 OTT들과 국내 ai관련 오디오북 시장, 게임시장등의 불공정 사례들이 쏟아]]></content:encoded>
+            <title><![CDATA[이지혜 "출산휴가로 '오후의 발견' 두달 쉬어" [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000517018</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000517018</guid>
+            <pubDate>Thu, 09 Dec 2021 10:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=신소원 기자] 가수 이지혜가 '오후의 발견'을 잠시 내려놓는다. 9일 이지혜는 자신의 인스타그램에 "'오후의 발견' 출산휴가로 두달 정도 쉬게 되었어요. 엠비씨 식구들 수뇌부 선생님들까지 순산하고 오라고]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["히어로가 온다"… 임영웅 콘서트, 티저에 기대감 상승 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000763036</link>
-            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000763036</guid>
-            <pubDate>Thu, 09 Dec 2021 09:23:53 GMT</pubDate>
-            <content:encoded><![CDATA[가수 임영웅의 콘서트 티저 영상이 공개됐다. 9일 KBS 공식 인스타그램 등에는 "세상을 뒤집고 청춘을 되돌릴 영웅이 온다! 올해를 보내는 최고의 선택. '2021 KBS 송년특집 We`re HERO 임영웅'"이라는]]></content:encoded>
+            <title><![CDATA[제시, 대문자 S라인 '파격 호피 수영복'[스타IN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011681</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011681</guid>
+            <pubDate>Thu, 09 Dec 2021 10:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[가수 제시가 볼륨감 넘치는 몸매를 과시했다. 9일 제시는 자신의 인스타그램을 통해 "Ice cold baby"라는 글귀와 함께 사진을 게재했다. 공개된 사진 속에는 제시가 호피무늬의 파격적인 의상을 입고 과감한 포즈]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김정임, ♥홍성흔도 없는 복근 자랑 "50년째 유지어터"[TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000517008</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000517008</guid>
-            <pubDate>Thu, 09 Dec 2021 09:23:53 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=강민경 기자] 전 야구선수 홍성흔 아내 김정임이 복근을 자랑했다. 김정임은 9일 자신의 인스타그램에 "빼기도 힘들지만 유지하는 것 또한 쉽지 않은 연말입니다. 참 손도 크고 차리기도 잘 차리는 저 인 것]]></content:encoded>
+            <title><![CDATA[제이홉, 가운 패션에 슬리퍼 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005775604</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005775604</guid>
+            <pubDate>Thu, 09 Dec 2021 10:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[(인천공항=뉴스1) 권현진 기자 = 방탄소년단(BTS) 제이홉이 9일 새벽 LA 콘서트와 방송 일정을 마치고 인천국제공항을 통해 입국하고 있다. 2021.12.9/뉴스1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[심진화, '정형돈♥' 한유라와 절친 이혜원 매장 방문 "너무나 멋진 그림 완성" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003810884</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003810884</guid>
-            <pubDate>Thu, 09 Dec 2021 09:23:53 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조윤선 기자] 개그우먼 심진화가 안정환 아내 이혜원을 응원했다. 심진화는 9일 자신의 인스타그램에 "언니가 생각한 대로 그려온 대로 하얀 도화지에 너무나 멋진 그림이 완성된 듯했다. 감탄하고 수다 떤다고]]></content:encoded>
+            <title><![CDATA[방탄소년단 제이홉, 공항 패션은 '가운' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005775603</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005775603</guid>
+            <pubDate>Thu, 09 Dec 2021 10:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[(인천공항=뉴스1) 권현진 기자 = 방탄소년단(BTS) 제이홉이 9일 새벽 LA 콘서트와 방송 일정을 마치고 인천국제공항을 통해 입국하고 있다. 2021.12.9/뉴스1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이홍기, 이별 당시 前 여친에 들은 말은?('원스') (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004891513</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004891513</guid>
-            <pubDate>Thu, 09 Dec 2021 09:23:53 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 FT아일랜드 이홍기가 전 여자친구와 연애사를 공개한다. 오는 10일 오후 8시 방송되는 MBC M 예능프로그램 ‘원스’는 ‘웰메이드 아티스트’ 특집으로 꾸며져 위키미키, 기리보이가 게스트로 출연한다. 이들은 음]]></content:encoded>
+            <title><![CDATA[한가인, 활동 비수기 미모가 더 놀라워...♥연정훈 매일 놀랄 듯 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003810909</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003810909</guid>
+            <pubDate>Thu, 09 Dec 2021 10:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조윤선 기자] 배우 한가인이 한결같은 미모를 자랑했다. 메이크업 아티스트 길경아는 9일 자신의 인스타그램에 "촬영 대기 중에 한 장"이라는 글과 함께 사진을 게재했다. 사진 속 한가인은 한쪽 어깨를 살짝]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이현경, SNS로 결혼 발표 "소중한 분과 새로운 출발" [전문] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011671</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011671</guid>
-            <pubDate>Thu, 09 Dec 2021 09:23:53 GMT</pubDate>
-            <content:encoded><![CDATA[프리랜서 아나운서 이현경이 결혼한다. 이현경은 9일 자신의 인스타그램에 "제가 소중한 분과 새로운 출발을 하게 됐다. 직접 전해드리고픈 마음에 글을 적는다"라며 결혼 사실을 알렸다. 이현경은 "멀리서 또 가까이에서]]></content:encoded>
+            <title><![CDATA[이혜성, 전현무랑 데이트? 파인다이닝 자랑[스타IN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011679</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011679</guid>
+            <pubDate>Thu, 09 Dec 2021 10:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[아나운서 출신 방송인 이혜성이 근황을 공개했다. 9일 이혜성은 자신의 인스타그램에 "최고의 한식 파인다이닝"이라는 글과 함께 근황이 담긴 사진을 게재했다. 공개된 사진 속에는 이혜성이 파인다이닝 레스토랑에서 식사를]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“얼굴 서른 같아” RM, 맏형 진 댓글에 깊은 깨달음 [스타★샷] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000599236</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000599236</guid>
-            <pubDate>Thu, 09 Dec 2021 09:23:53 GMT</pubDate>
-            <content:encoded><![CDATA[방탄소년단 RM의 SNS 게시물에 멤버 진이 댓글을 남겨 화제다. 9일 RM은 자신의 인스타그램에 “이제 정말 얼굴이 서른같네요”라는 글과 함께 사진 여러 장을 게재했다. 공개된 사진에는 휴가를 맞아 여유로운 한때를]]></content:encoded>
+            <title><![CDATA['오토바이 교통사고 치사' 박신영 前 아나, 금고 1년 구형 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011678</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011678</guid>
+            <pubDate>Thu, 09 Dec 2021 10:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[검찰이 교통사고로 오토바이 운전자를 숨지게 한 혐의를 받는 아나운서 출신 방송인 박신영에게 금고 1년을 구형했다. 서울서부지법 형사5단독(부장판사 정인재)은 9일 교통사고처리특례법상 치사 혐의로 기소된 박신영의 첫]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[카이, 신곡 ‘피치스’ 퍼포먼스 비디오 공개 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000599235</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000599235</guid>
-            <pubDate>Thu, 09 Dec 2021 09:23:53 GMT</pubDate>
-            <content:encoded><![CDATA[엑소 카이의 신곡 ‘Peaches’(피치스) 퍼포먼스 비디오가 9일 공개된다. ‘Peaches’ 퍼포먼스 비디오는 오늘 오후 8시 유튜브 EXO 채널 등을 통해 공개되며, 스윗한 매력의 음악과 어우러진 카이의 퍼포먼]]></content:encoded>
+            <title><![CDATA[‘배앤크’ 이동욱X위하준X한지은X차학연, 거침없는 팀플레이 예고 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000950087</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000950087</guid>
+            <pubDate>Thu, 09 Dec 2021 10:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[tvN ‘배드 앤 크레이지’ 이동욱, 위하준, 한지은, 차학연이 의문의 실종사건을 추적하는 팀플레이로 긴장감 넘치는 전개를 예고한다. ‘해피니스’ 후속으로 12월 17일 첫 방송되는 tvN 새 금토드라마 ‘배드 앤]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독] 전여빈, ‘상견니’ 여주 물망…안효섭과 만날까 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000950084</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000950084</guid>
-            <pubDate>Thu, 09 Dec 2021 09:23:53 GMT</pubDate>
-            <content:encoded><![CDATA[배우 전여빈이 ‘상견니’ 여주인공 물망에 올랐다. 동아닷컴 취재 결과, 전여빈이 ‘상견니’ 여주인공 출연을 검토 중이다. ‘상견니’는 불의의 사고로 세상을 떠난 남자친구를 그리워하는 여자친구가 우연히 선물 받은 휴대]]></content:encoded>
+            <title><![CDATA['연정훈♥' 한가인, 곧 40대 맞아? '예쁘다'는 말도 식상한 미모[TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000517015</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000517015</guid>
+            <pubDate>Thu, 09 Dec 2021 10:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=강민경 기자] 배우 한가인이 여전한 미모를 자랑했다. 길경아 메이크업 아티스트는 9일 자신의 인스타그램에 "촬영 대기 중에 한 장~"이라는 글과 함께 사진을 게재했다. 이어 "언니 자주 봐서 좋다", "너]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이찬원, 생애 첫 자작곡 '참 좋은 날' 발표 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=277&amp;aid=0005013090</link>
-            <guid>https://entertain.naver.com/now/read?oid=277&amp;aid=0005013090</guid>
-            <pubDate>Thu, 09 Dec 2021 09:23:53 GMT</pubDate>
-            <content:encoded><![CDATA[가수 이찬원이 신곡 '참 좋은 날'을 발표한다. 이찬원이 팬들의 사랑에 보답하기 위해 직접 작사·작곡에 참여한 새 디지털 싱글 '참 좋은 날'이 9일 오후 6시 공개된다. 생애 첫 자작곡인 '참 좋은 날'은 이찬원이]]></content:encoded>
+            <title><![CDATA[샤이니 키X민호, 부쩍 진해진 우정 "내 사랑 고마워잉♥"[스타IN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011677</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011677</guid>
+            <pubDate>Thu, 09 Dec 2021 10:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 샤이니의 키가 같은 멤버인 민호의 생일을 축하했다. 9일 키는 자신의 인스타그램을 통해 "happy b day !! ♥"라는 글과 함께 사진을 게재했다. 공개된 사진 속에는 키와 민호가 서로 얼굴을 맞닿은 채]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[노제, 무엇이든 물어보세요...저의 어떤 모습도 사랑하려고요[TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000517006</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000517006</guid>
-            <pubDate>Thu, 09 Dec 2021 09:23:53 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=조준원 기자] 안무가 노제가 사랑스러운 근황을 전했다. 노제는 8일 자신의 인스타그램 스토리 '무엇이든 물어보세요' 기능을 통해 팬들과 소통했다. 노제는 타투 도안을 공개하기도 했다. 이에 한 네티즌이 "]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이혼 앞둔 최정윤 "차부터 가방까지 일단 다 팔아야겠다" 고백 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005775530</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005775530</guid>
-            <pubDate>Thu, 09 Dec 2021 09:23:53 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 이혼 절차를 밟고 있는 배우 최정윤이 절친 배우 진선미, 정이랑을 만나 그들의 '비밀 아지트'를 방문한다. 최근 진행된 SBS '워맨스가 필요해' 촬영에서 최정윤은 영화 '감쪽같은 그]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김의철 KBS 사장 10일 취임식 연다 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004891481</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004891481</guid>
-            <pubDate>Thu, 09 Dec 2021 09:23:53 GMT</pubDate>
-            <content:encoded><![CDATA[김의철 제25대 KBS 사장 취임식이 10일 오전 서울 여의도 KBS 본사 아트홀에서 열린다. 9일 청와대의 임명안 재가로 임기를 시작한 김의철 사장은 취임식에서 ‘시청자 중심, 신뢰의 KBS’로 거듭나기 위한 구체]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['김수미 며느리' 서효림 "노홍철 천재 맞네요" 극찬한 이유[스타IN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011670</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011670</guid>
-            <pubDate>Thu, 09 Dec 2021 09:23:53 GMT</pubDate>
-            <content:encoded><![CDATA[배우 서효림이 방송인 노홍철을 응원했다. 서효림은 9일 인스타그램에 "꺄아아아~ 드디어 도착. 저도 늘 주문해서 사먹어요"라며 노홍철이 운영 중인 빵집의 빵을 주문해 받은 사진을 공개했다. 이어 그는 "넘넘 맛있어요]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[설현, 바비인형 아냐? 핑크 원피스로 청순 매력 발산 [스타★샷] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000599234</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000599234</guid>
-            <pubDate>Thu, 09 Dec 2021 09:23:53 GMT</pubDate>
-            <content:encoded><![CDATA[AOA 멤버 겸 배우 설현이 인형 비주얼을 뽐냈다. 설현은 9일 자신의 인스타그램에 사진 여러 장을 게재했다. 공개된 사진에는 분홍색 원피스를 입은 채 포즈를 취하고 있는 설현의 모습이 담겼다. 설현은 소멸 직전 작]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BTS 진 자작곡 ‘슈퍼참치’에 日 누리꾼들 트집 “동해 아닌 일본해” (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003646344</link>
-            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003646344</guid>
-            <pubDate>Thu, 09 Dec 2021 09:23:53 GMT</pubDate>
-            <content:encoded><![CDATA[진. BTS 제공 아이돌 그룹 방탄소년단(BTS)의 멤버 진(본명 김석진)이 일부 일본 누리꾼들로부터 공격을 받았다. 자작곡에서 ‘일본해’를 ‘동해’라고 썼다는 이유에서다. 진은 지난 4일 자신의 생일을 기념해 자작]]></content:encoded>
+            <title><![CDATA[53세 치과의사 맞어? 베이글 미녀 "딸 옷 입었다 디지게 혼나" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003810907</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003810907</guid>
+            <pubDate>Thu, 09 Dec 2021 10:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 이유나 기자] 서울대 출신의 치과의사 이수진 씨가 딸 옷을 입고 촬영한 사진을 게재했다. 이수진 씨는 9일 인스타그램에 "제나 옷 몰래입고 나와 촬영했다 제나한테 들켜 되~~~~~지게 혼났네요"라고 적었]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['만삭' 제니퍼 로렌스, 토크쇼 뒤집어놓은 '미국 유머' 한 마디는? (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
