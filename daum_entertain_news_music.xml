@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-09T10:24:29.877Z</updated>
+    <updated>2021-12-09T11:19:16.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[성형도 개명도 NO..김예림, 은퇴 오해 벗었다]]></title>
+        <id>https://entertain.v.daum.net/v/20211209200402375</id>
+        <link href="https://entertain.v.daum.net/v/20211209200402375"/>
+        <updated>2021-12-09T11:18:43.648Z</updated>
+        <content type="html"><![CDATA[[텐아시아=우빈 기자]가수 김예림이 비로소 제 모습을 찾았다. 낯설기만 했던 활동명 림킴(Lim Kim)을 던지고 익숙한 본명으로 돌아왔다. 3년 간 대중의 시선에서 멀어졌던 김예림은 공백 동안 과감한 변신으로 몰라보게 달라진 비주얼로 행보를 기대케한다.&nbsp;김예림은 2011년 Mnet '슈퍼스타K'에 멤버 도대윤과 함께 투개월로 출전했다. 허스키한 보컬인 김]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이찬원, 새 싱글 '참 좋은 날' 발매.. "팬들 위한 선물"]]></title>
         <id>https://entertain.v.daum.net/v/20211209173630089</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211209152046526"/>
         <updated>2021-12-09T06:26:19.153Z</updated>
         <content type="html"><![CDATA[[티브이데일리 박상후 기자] '컬투쇼'에서 가수 정인이 남편 조정치를 언급했다. 9일 오후 방송된 SBS 파워FM '두시탈출 컬투쇼'(이하 '컬투쇼')의 '컬투 음감회'에서는 멜로망스, 정인이 게스트로 출연해 입담을 뽐냈다. 이날 정인은 집에서 말맛이 없다며 "너무 다 지쳐있다. 남편도 마찬가지다. 딸이 전날에 남편에게 '궁금한 게 있는데 아빠는 힘이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美TIME, 투모로우바이투게더 '2021 베스트 K팝 앨범' 선정]]></title>
-        <id>https://entertain.v.daum.net/v/20211209150928005</id>
-        <link href="https://entertain.v.daum.net/v/20211209150928005"/>
-        <updated>2021-12-09T06:26:19.156Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 그룹 투모로우바이투게더의 ‘혼돈의 장: FIGHT OR ESCAPE’가 미국 TIME(타임)지 선정 ‘2021 베스트 K-팝 앨범’에 이름을 올렸다. 지난 8일(현지시간) 미국 시사주간지 TIME이 공식 홈페이지에 게재한 기사에 따르면, 투모로우바이투게더(수빈, 연준, 범규, 태현, 휴닝카이)가 지난 8월 발매한 정규 2집 리패키지 앨범 ‘]]></content>
     </entry>
 </feed>

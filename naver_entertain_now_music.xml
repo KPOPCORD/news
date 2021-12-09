@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-09T10:24:29.879Z</updated>
+    <updated>2021-12-09T11:19:16.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단, ‘버터’로 전 세계 평정…英·美 음악 매체 ‘2021 최고의 노래’]]></title>
+        <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0001922979</id>
+        <link href="https://entertain.naver.com/now/read?oid=016&amp;aid=0001922979"/>
+        <updated>2021-12-09T11:19:02.266Z</updated>
+        <content type="html"><![CDATA[[헤럴드경제=고승희 기자] 그룹 방탄소년단의 ‘버터(Butter)’가 미국, 영국의 주요 음악 매체들이 선정한 ‘2021년 최고의 노래’에 줄줄이 이름을 올리고　있다. 9일 소속사 빅히트 뮤직에 따르면 ‘버터’는 미]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서리, Vevo 유튜브에 ‘Dive with you’ 라이브 영상 공개]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000779964</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000779964"/>
+        <updated>2021-12-09T11:19:02.266Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 싱어송라이터 서리(Seori)가 ‘Dive with you’ 라이브 영상으로 글로벌 음악 팬들을 매료시켰다. 미국 음원 미디어 서비스 회사 VEVO 측은 9일(한국 시간) VevoDSCVR 유튜브 채널]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['고등래퍼4' 우승 트레이드 엘, 라이브 클립 호평→유년기 최초 공개]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001383449</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003561207"/>
         <updated>2021-12-09T08:26:31.095Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]YG 대형 그룹 트레저(TREASURE)의 'BOY' 뮤직비디오가 유튜브에서 1억뷰를 돌파했다. 9일 YG엔터테인먼트에 따르면 트레저의 'BOY' 뮤직비디오는 이날 오전 8시 46분께 유]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[B1A4 산들 ‘I Miss You’ 음원 발매]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000779923</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000779923"/>
-        <updated>2021-12-09T08:26:31.096Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 데브시스터즈(주)(공동대표 이지훈, 김종흔)가 뮤직 프로젝트 ‘쿠키박스(CookieBox)’의 시작을 알리고, 가수 산들과 함께한 첫 음원 ‘아이 미스 유(I Miss You)’를 발매한다고 9일 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘미스터트롯’ 출신 유호, 신곡 ‘한방 인생’ 발매]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000779919</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000779919"/>
-        <updated>2021-12-09T08:26:31.097Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 가수 유호가 KBS 아침마당 5연승에 이어 신곡 ‘한방 인생을 발매했다고 소속사가 밝혔다. 방송에 얼굴을 자주 비추며 활발히 활동 중인 유호의 ‘한방 인생’은 제목 그대로 본인의 음악생활에 한방을 보여]]></content>
     </entry>
 </feed>
