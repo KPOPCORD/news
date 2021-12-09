@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-09T11:19:16.876Z</updated>
+    <updated>2021-12-09T12:34:15.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[알렉사, 내년 1월 6일 컴백 확정 "MV 촬영 마쳤다"]]></title>
+        <id>https://entertain.v.daum.net/v/20211209204232005</id>
+        <link href="https://entertain.v.daum.net/v/20211209204232005"/>
+        <updated>2021-12-09T12:33:41.457Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김노을 기자) 가수 알렉사가 내년 1월 컴백을 확정 지었다. 알렉사는 9일 네이버 브이라이브 채널에서 생일 기념 방송을 진행하던 중 컴백 소식을 팬들에게 전했다. 이날 알렉사는 "내년 1월 6일 컴백이 확정됐고 녹음과 뮤직비디오 촬영까지 끝났다"고 밝혔다. 이어 "'A.I Trooper(팬클럽 명)'과 만날 생각에 설레인다. 멋진 앨범이니 많]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성형도 개명도 NO..김예림, 은퇴 오해 벗었다]]></title>
         <id>https://entertain.v.daum.net/v/20211209200402375</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211209153207035"/>
         <updated>2021-12-09T07:20:24.121Z</updated>
         <content type="html"><![CDATA[[티브이데일리 박상후 기자] '컬투쇼'에서 그룹 멜로망스 김민석이 정동환과의 추억을 떠올렸다. 9일 오후 방송된 SBS 파워FM '두시탈출 컬투쇼'(이하 '컬투쇼')의 '컬투 음감회'에서는 멜로망스, 정인이 게스트로 출연해 입담을 뽐냈다. 멜로망스는 지난달 26일 카카오웹툰 'N번째 연애'와의 컬래버레이션 음원 '그게 더 편할 것 같아'를 발매했다. '그]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컬투쇼' 정인 "♥조정치 집에서 지쳐있어, 가슴 정말 아파"]]></title>
-        <id>https://entertain.v.daum.net/v/20211209152046526</id>
-        <link href="https://entertain.v.daum.net/v/20211209152046526"/>
-        <updated>2021-12-09T06:26:19.153Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 박상후 기자] '컬투쇼'에서 가수 정인이 남편 조정치를 언급했다. 9일 오후 방송된 SBS 파워FM '두시탈출 컬투쇼'(이하 '컬투쇼')의 '컬투 음감회'에서는 멜로망스, 정인이 게스트로 출연해 입담을 뽐냈다. 이날 정인은 집에서 말맛이 없다며 "너무 다 지쳐있다. 남편도 마찬가지다. 딸이 전날에 남편에게 '궁금한 게 있는데 아빠는 힘이]]></content>
     </entry>
 </feed>

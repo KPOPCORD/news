@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-09T11:19:16.879Z</updated>
+    <updated>2021-12-09T12:34:15.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[음공협 ‘위기의 한국대중음악공연업을 위한 실질적 지원방안’ 세미나 13일 개최]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000779978</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000779978"/>
+        <updated>2021-12-09T12:34:00.273Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 한국대중음악공연산업협회(이하 음공협)가 한국체육산업개발(주)과 함께 오는 13일 오후 2시 올림픽홀 뮤즈라이브에서 코로나19로 인한 ‘위기의 한국대중음악공연업을 위한 실질적 지원 방안’ 세미나를 진행한]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[알렉사, 내년 1월 6일 컴백 확정 "MV 촬영 마쳤다" [공식입장]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001383475</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001383475"/>
+        <updated>2021-12-09T12:34:00.275Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김노을 기자) 가수 알렉사가 내년 1월 컴백을 확정 지었다. 알렉사는 9일 네이버 브이라이브 채널에서 생일 기념 방송을 진행하던 중 컴백 소식을 팬들에게 전했다. 이날 알렉사는 "내년 1월 6일 컴백이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단, ‘버터’로 전 세계 평정…英·美 음악 매체 ‘2021 최고의 노래’]]></title>
         <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0001922979</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010881142"/>
         <updated>2021-12-09T08:26:31.092Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]김예지 인턴 기자 = 그룹 '투모로우바이투게더'(TXT·투바투)의 '혼돈의 장: 파이트 오어 이스케이프(혼돈의 장: FIGHT OR ESCAPE)'가 미국 타임(TIME)지 선정 '2021 베스트 K팝]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DAY6 원필, 인디 팝 듀오 1415 신보 ‘naps!’ 피처링 지원사격]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000520662</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000520662"/>
-        <updated>2021-12-09T08:26:31.093Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 밴드 DAY6(데이식스) 멤버 원필이 인디 팝 듀오 1415(주성근, 오지현) 신보에 참여했다. 12월 8일 오후 6시 음원 사이트를 통해 1415의 3번째 EP 'naps!(냅스)'가 발매됐]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YG 트레저 'BOY' 뮤직비디오 1억뷰 돌파 "글로벌 팬덤 파워 입증"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003561207</id>
-        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003561207"/>
-        <updated>2021-12-09T08:26:31.095Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]YG 대형 그룹 트레저(TREASURE)의 'BOY' 뮤직비디오가 유튜브에서 1억뷰를 돌파했다. 9일 YG엔터테인먼트에 따르면 트레저의 'BOY' 뮤직비디오는 이날 오전 8시 46분께 유]]></content>
     </entry>
 </feed>
