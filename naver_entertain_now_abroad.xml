@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-09T22:22:21.116Z</updated>
+    <updated>2021-12-09T23:23:41.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[플로렌스 퓨x라미 말렉x베니 사프디, 놀란 감독 차기작 캐스팅[Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004524304</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004524304"/>
+        <updated>2021-12-09T23:23:40.985Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 배우 플로렌스 퓨, 라미 말렉, 베니 사프디가 크리스토퍼 놀란 감독의 신작에 출연한다. 9일(현지 시간) 유니버셜 스튜디오에 따르면 크리스토퍼 놀란의 차기작 ‘오펜하이머’에 세 배우가 캐스팅]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["성관계 많이 해"…제니퍼 로렌스, 홍보도 급이 다른 할리우드(종합)[Oh!쎈 이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004524259</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004680990"/>
         <updated>2021-12-08T15:25:06.462Z</updated>
         <content type="html"><![CDATA[할리우드 배우 브룩 쉴즈가 40년 전 인터뷰를 돌아보며 당시 받았던 질문에 대한 생각을 밝혔다. 브룩 쉴즈는 지난 6일(현지시간) 닥스 셰퍼드가 진행하는 팟캐스트 '암체어 엑스퍼트'(Armchair Expert)에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['56세' 브룩 쉴즈, 전성기 몸매 그대로…나이 잊은 수영복 자태]]></title>
-        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004680987</id>
-        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004680987"/>
-        <updated>2021-12-08T14:22:54.461Z</updated>
-        <content type="html"><![CDATA[할리우드 배우 브룩 쉴즈가 50대의 나이에도 탄탄한 몸매를 자랑했다. 브룩 쉴즈는는 지난 5일(이하 현지시간) 자신의 인스타그램에 "일요일"이라는 짧은 글과 함께 사진 한 장을 공개했다. 공개된 사진 속 브룩 쉴즈는]]></content>
     </entry>
 </feed>
