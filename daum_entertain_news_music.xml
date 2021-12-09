@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-09T20:23:02.572Z</updated>
+    <updated>2021-12-09T21:20:09.711Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다비치→BTS, 코로나로 지친 마음 달래줄 겨울 시즌송]]></title>
+        <id>https://entertain.v.daum.net/v/20211210060008851</id>
+        <link href="https://entertain.v.daum.net/v/20211210060008851"/>
+        <updated>2021-12-09T21:19:34.682Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 정하은기자] 계속된 코로나 펜데믹으로 몸도 마음도 지친 요즘, 12월을 맞은 가요계에는 따뜻한 겨울 시즌송들이 찾아왔다. 12월과 함께 찾아온 완연한 겨울, 연이어 발표 중인 겨울 시즌송의 따뜻한 멜로디가 코로나19로 꽁꽁 언 리스너들의 마음을 포근하게 만들고 있다. 다비치가 신곡 ‘매일 크리스마스’로 음원차트에서 선전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[겨울에도 하늘색 사랑 활짝♥ 임영웅 팬들 28번째 쪽방촌 봉사]]></title>
         <id>https://entertain.v.daum.net/v/20211210050202129</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211209161816049"/>
         <updated>2021-12-09T07:20:24.116Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 방탄소년단 멤버 슈가(본명 민윤기)가 미국 출신 가수 고(故) 주스 월드(Juice WRLD) 새 앨범에 참여한다. 12월 9일 고 주스 월드 공식 SNS에는 10일 발매되는 주스 월드의 신규 앨범 'Fighting Demons'(파이팅 디몬스) 티저와 트랙 리스트가 게재됐다. 공개된 트랙리스트에 따르면 슈가는 수록곡 'Gir]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윌 하이드, 새 EP 발매 "자신 돌아보는 일기 같은 작품"]]></title>
-        <id>https://entertain.v.daum.net/v/20211209161519919</id>
-        <link href="https://entertain.v.daum.net/v/20211209161519919"/>
-        <updated>2021-12-09T07:20:24.117Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 호주 멜버른 출신의 싱어송라이터 윌 하이드(will hyde)가 새 EP를 발매한다. ‘nothing ever changes.’는 윌 하이드 자신을 돌아보는 일기와 같은 작품이다. 아티스트 측은 “살아보니 자책할 필요가 없더라. 우리는 변함없는 존재이기에 있는 그대로를 받아들여야 한다”는 메시지를 보낸다. 총 7개의 챕터로 엮는 소]]></content>
     </entry>
 </feed>

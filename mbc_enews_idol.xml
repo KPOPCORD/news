@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 20:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 21:20:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강다니엘, 명품 슈트핏…훈훈 바이브 뿜뿜 [인스타]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332833</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332833</guid>
+            <pubDate>Thu, 09 Dec 2021 21:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332833">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/09/CcxuRFgEi8Jp637746090482140335.jpg" alt="강다니엘, 명품 슈트핏…훈훈 바이브 뿜뿜 [인스타] ">        <div class="text-box">            <p class="summary">강다니엘, 명품 슈트핏…훈훈 바이브 뿜뿜 [인스타] </p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/09/CcxuRFgEi8Jp637746090482140335.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[움짤] 장원영, '갓기'의 '일레븐' 매력 (라디오스타 B하인드②)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/332893</link>
@@ -86,14 +94,6 @@
             <pubDate>Thu, 09 Dec 2021 08:26:05 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332903">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/09/a9e405a8-b80c-403d-9af0-54f117da67bb.jpg" alt="'야생돌' 마지막 순위 발표식…데뷔조 만감 교차">        <div class="text-box">            <p class="summary">'야생돌' 마지막 순위 발표식…데뷔조 만감 교차</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/09/a9e405a8-b80c-403d-9af0-54f117da67bb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 RM, "서른 같은 얼굴" 셀카 공개…진 반응은? [인스타]]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332900</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332900</guid>
-            <pubDate>Thu, 09 Dec 2021 08:26:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332900">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/09/190706d5-7fcd-4308-a0f1-c15b7008adbf.jpg" alt="방탄소년단 RM, " 서른="" 같은="" 얼굴"="" 셀카="" 공개…진="" 반응은?="" [인스타]"="">        <div class="text-box">            <p class="summary">방탄소년단 RM, "서른 같은 얼굴" 셀카 공개…진 반응은? [인스타]</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/09/190706d5-7fcd-4308-a0f1-c15b7008adbf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
