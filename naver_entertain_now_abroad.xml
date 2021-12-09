@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-09T08:26:46.282Z</updated>
+    <updated>2021-12-09T09:24:01.070Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['만삭' 제니퍼 로렌스, 토크쇼 뒤집어놓은 '미국 유머' 한 마디는?]]></title>
+        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004681527</id>
+        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004681527"/>
+        <updated>2021-12-09T09:24:00.421Z</updated>
+        <content type="html"><![CDATA[헐리우드 배우 제니퍼 로렌스가 화끈한 입담을 뽐냈다. 7일(현지 시간) 제니퍼 로렌스는 스티븐 콜베어가 진행하는 CBS '더 레이트 쇼(The Late Show)'에 출연해 근황을 전했다. 이날 방송에서 스티븐 콜베]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비욘세, 3700만원 과한 명품 의상 입고 ♥︎제이지와 꽁냥꽁냥 [Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004524073</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004524073"/>
+        <updated>2021-12-09T09:24:00.422Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 팝스타 비욘세의 온 몸이 명품 크리스털로 뒤덮였다. 비욘세는 8일(현지시간) 자신의 SNS에 크리스털로 뒤덮인 화려한 구찌 x 발렌시아가의 옷을 입고 남편 제이지와 포즈를 취하거나 달달하게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['007' 제작자 "차기 본드, 인종은 상관없지만 英 출신 남성이어야" [엑's 할리우드]]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001383419</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000836670"/>
         <updated>2021-12-08T10:25:49.040Z</updated>
         <content type="html"><![CDATA[김지성이 8일 오후 서울 강남구 MBC 스마트센터에서 진행되는 서바이벌 오디션 프로그램 '극한데뷔 야생돌' 라이브토크 녹화를 위해 참석해 포즈를 취하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임주안 '퓨워터로 갈증 해소' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000836669</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000836669"/>
-        <updated>2021-12-08T10:25:49.040Z</updated>
-        <content type="html"><![CDATA[임주안이 8일 오후 서울 강남구 MBC 스마트센터에서 진행되는 서바이벌 오디션 프로그램 '극한데뷔 야생돌' 라이브토크 녹화를 위해 참석해 포즈를 취하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤준협 '퓨워터, 물 맛이 끝내줘요' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000836667</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000836667"/>
-        <updated>2021-12-08T10:25:49.041Z</updated>
-        <content type="html"><![CDATA[윤준협이 8일 오후 서울 강남구 MBC 스마트센터에서 진행되는 서바이벌 오디션 프로그램 '극한데뷔 야생돌' 라이브토크 녹화를 위해 참석해 포즈를 취하고 있다.]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-09T08:26:46.292Z</updated>
+    <updated>2021-12-09T09:24:01.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이찬원, 새 싱글 '참 좋은 날' 발매.. "팬들 위한 선물"]]></title>
+        <id>https://entertain.v.daum.net/v/20211209173630089</id>
+        <link href="https://entertain.v.daum.net/v/20211209173630089"/>
+        <updated>2021-12-09T09:23:27.398Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이혜미 기자] ‘찬또배기’ 이찬원이 팬들의 큰 사랑에 보답하는 팬송을 2달만에 공개한다. 가수 이찬원의 새 디지털 싱글 ‘참 좋은 날’이 오늘 9일 오후 6시 각종 음원사이트를 통해 발매된다. 이찬원의 두 번째 디지털 싱글 ‘참 좋은 날’에는 이찬원이 직접 작사, 작곡에 참여한 ‘참 좋은 날’과 첫 번째 미니앨범 ‘..선물’에서 더블 타이틀 곡]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['금의환향' 솔비, 대중 편견 뒤엎은 진심]]></title>
         <id>https://entertain.v.daum.net/v/20211209170724018</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211209150928005"/>
         <updated>2021-12-09T06:26:19.156Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 그룹 투모로우바이투게더의 ‘혼돈의 장: FIGHT OR ESCAPE’가 미국 TIME(타임)지 선정 ‘2021 베스트 K-팝 앨범’에 이름을 올렸다. 지난 8일(현지시간) 미국 시사주간지 TIME이 공식 홈페이지에 게재한 기사에 따르면, 투모로우바이투게더(수빈, 연준, 범규, 태현, 휴닝카이)가 지난 8월 발매한 정규 2집 리패키지 앨범 ‘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알렉사, 내년 1월 6일 컴백..'메타버스 K팝' 출격]]></title>
-        <id>https://entertain.v.daum.net/v/20211209150902982</id>
-        <link href="https://entertain.v.daum.net/v/20211209150902982"/>
-        <updated>2021-12-09T06:26:19.156Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 가수&nbsp;알렉사가 내년 1월 컴백을 확정 지었다. 알렉사는 오늘(9일) 정오 네이버 브이라이브 채널에서 생일 기념 방송을 진행하던 중 컴백 소식을 팬들에게 전해 뜨거운&nbsp;반응을 이끌어냈다. 알렉사는 "내년 1월 6일 컴백이 확정됐고 녹음과 뮤직비디오 촬영까지 끝났다."며 "'A.I Trooper(팬클럽 명)'과 만날 생각에 설레인다. 멋]]></content>
     </entry>
 </feed>
