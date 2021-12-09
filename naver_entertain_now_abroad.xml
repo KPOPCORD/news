@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-09T19:17:47.037Z</updated>
+    <updated>2021-12-09T20:23:02.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["성관계 많이 해"…제니퍼 로렌스, 홍보도 급이 다른 할리우드(종합)[Oh!쎈 이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004524259</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004524259"/>
+        <updated>2021-12-09T20:23:01.915Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 역시 할리우드의 급이 다른 농담이다. 배우 제니퍼 로렌스(31)가 충격적인 농담을 던져 전 세계 영화 팬들의 이목을 모으고 있다. 제니퍼 로렌스는 지난 7일(현지 시간) 미국 CBS ‘더 레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["온몸이 보석"…비욘세, '3800만원대' 하의실종 패션 '깜짝']]></title>
         <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004681582</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004680987"/>
         <updated>2021-12-08T14:22:54.461Z</updated>
         <content type="html"><![CDATA[할리우드 배우 브룩 쉴즈가 50대의 나이에도 탄탄한 몸매를 자랑했다. 브룩 쉴즈는는 지난 5일(이하 현지시간) 자신의 인스타그램에 "일요일"이라는 짧은 글과 함께 사진 한 장을 공개했다. 공개된 사진 속 브룩 쉴즈는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤준협 '수소를 담은 퓨워터로 목을 축이며' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000836672</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000836672"/>
-        <updated>2021-12-08T10:25:49.036Z</updated>
-        <content type="html"><![CDATA[윤준협이 8일 오후 서울 강남구 MBC 스마트센터에서 진행되는 서바이벌 오디션 프로그램 '극한데뷔 야생돌' 라이브토크 녹화를 위해 참석해 포즈를 취하고 있다.]]></content>
     </entry>
 </feed>

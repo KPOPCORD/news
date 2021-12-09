@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-09T19:17:47.028Z</updated>
+    <updated>2021-12-09T20:23:02.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[겨울에도 하늘색 사랑 활짝♥ 임영웅 팬들 28번째 쪽방촌 봉사]]></title>
+        <id>https://entertain.v.daum.net/v/20211210050202129</id>
+        <link href="https://entertain.v.daum.net/v/20211210050202129"/>
+        <updated>2021-12-09T20:22:29.026Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 문완식 기자] 한겨울 쪽방촌에 하늘색 사랑이 활짝 폈다. 가수 임영웅의 팬들이 스물여덟 번째 쪽방촌 도시락 봉사로 선한 영향력을 실천했다. 임영웅 팬클럽 영웅시대밴드(나눔모임)은 최근 서울 동자동 가톨릭사랑평화의집을 찾아 쪽방촌 도시락 봉사를 펼쳤다. 올해 마지막 도시락 봉사에서 영웅시대밴드(나눔모임) 회원들은 코로나19 여파로 예전보다 좀]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['국민가수' 뮤지컬 프린스가 해냈다, 고은성 1위로 결승 진출..톱10 확정]]></title>
         <id>https://entertain.v.daum.net/v/20211210004721137</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211209161519919"/>
         <updated>2021-12-09T07:20:24.117Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 호주 멜버른 출신의 싱어송라이터 윌 하이드(will hyde)가 새 EP를 발매한다. ‘nothing ever changes.’는 윌 하이드 자신을 돌아보는 일기와 같은 작품이다. 아티스트 측은 “살아보니 자책할 필요가 없더라. 우리는 변함없는 존재이기에 있는 그대로를 받아들여야 한다”는 메시지를 보낸다. 총 7개의 챕터로 엮는 소]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투모로우바이투게더, 美 타임 선정 '2021 베스트 K팝 앨범']]></title>
-        <id>https://entertain.v.daum.net/v/20211209161318831</id>
-        <link href="https://entertain.v.daum.net/v/20211209161318831"/>
-        <updated>2021-12-09T07:20:24.118Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 백지은 기자] 그룹 투모로우바이투게더가 미국 타임지 선정 '2021 베스트 K-팝 앨범'에 이름을 올렸다. 지난 8일(현지시간) 미국 시사주간지 타임이 공식 홈페이지에 게재한 기사에 따르면, 투모로우바이투게더가 지난 8월 발매한 정규 2집 리패키지 앨범 '혼돈의 장: 파이트 오어 이스케이프'가 '2021년 베스트 K-팝 앨범'(]]></content>
     </entry>
 </feed>

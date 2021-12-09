@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-09T19:17:47.036Z</updated>
+    <updated>2021-12-09T20:23:02.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[겨울에도 하늘색 사랑 활짝♥ 임영웅 팬들 28번째 쪽방촌 봉사]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011724</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003011724"/>
+        <updated>2021-12-09T20:22:48.133Z</updated>
+        <content type="html"><![CDATA[한겨울 쪽방촌에 하늘색 사랑이 활짝 폈다. 가수 임영웅의 팬들이 스물여덟 번째 쪽방촌 도시락 봉사로 선한 영향력을 실천했다. 임영웅 팬클럽 영웅시대밴드(나눔모임)은 최근 서울 동자동 가톨릭사랑평화의집을 찾아 쪽방촌]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["영웅이 온다" 임영웅 KBS 단독쇼 티저 공개 '기대UP']]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011718</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000520666"/>
         <updated>2021-12-09T08:26:31.084Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 밴드 DAY6(데이식스) 멤버 원필이 데뷔 7년 만에 솔로 가수로 데뷔한다. 12월 9일 DAY6 소속사 JYP엔터테인먼트에 따르면 원필은 솔로 데뷔를 확정했다. 소속사 측은 이날 뉴스엔에 "]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘천재 뮤지션’ 다비, 컴백 티저 이미지 공개…잘생쁨 발산]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000836794</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000836794"/>
-        <updated>2021-12-09T08:26:31.085Z</updated>
-        <content type="html"><![CDATA[천재 뮤지션 다비(DAVII)의 새 앨범 ‘?=1 Re:new’ 컴백 티저 이미지가 공개됐다. 9일 정오 다비의 공식 SNS 채널을 통해 컴백 티저 이미지가 공개돼 ‘?=1 Re:new’의 컴백에 대한 열기를 고조시]]></content>
     </entry>
 </feed>
