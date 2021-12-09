@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-09T03:21:47.374Z</updated>
+    <updated>2021-12-09T04:28:45.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단 진 '슈퍼참치' 유튜브 2천만뷰 돌파..'동해' 글로벌 홍보까지]]></title>
+        <id>https://entertain.v.daum.net/v/20211209123659398</id>
+        <link href="https://entertain.v.daum.net/v/20211209123659398"/>
+        <updated>2021-12-09T04:28:10.879Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 방탄소년단(BTS) 멤버 진의 솔로곡 '슈퍼 참치'가 뜨거운 인기를 이어가고 있다. 동해를 전 세계에 알리는 역할도 톡톡히 했다. 동영상 공유 사이트 유튜브 상에 공개된 진의 '슈퍼 참치' 스페셜 퍼포먼스 비디오는 12월 4일 오전 기준 유튜브 2,000만 뷰를 돌파했다. '슈퍼 참치' 퍼포먼스 비디오는 진이 12월 4일 자신]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나상현씨밴드, '멜랑꼴리아' OST Part 3 '은방울 ' 참여]]></title>
         <id>https://entertain.v.daum.net/v/20211209115524097</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211209103237072"/>
         <updated>2021-12-09T02:37:16.478Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 세종문화회관에서 의미있는 공연이 펼쳐진다. 12월 11일 오후 5시 세종문화회관 대극장에서 '위드 코로나 위드 하모니 12월의 선물'(이하 '12월의 선물')이 진행된다. 유명 연출가인 안주은 단국대학교 뉴뮤직과 교수가 총감독 및 해설자로 참여하고, 중앙대학교 문예창작과 이대영 교수가 예술감독을 맡았다. 양진모의 지휘로 펼쳐지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤계상 주연 '크라임 퍼즐' 해외 100여개국 판매 완료]]></title>
-        <id>https://entertain.v.daum.net/v/20211209102246596</id>
-        <link href="https://entertain.v.daum.net/v/20211209102246596"/>
-        <updated>2021-12-09T02:37:16.479Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 문지연 기자] 흥미진진한 전개로 작품성을 인정받은 '크라임 퍼즐'이 해외 100여 개국에 공개될 예정이다. 올레tv x seezn 오리지널 '크라임 퍼즐'(최종길 극본, 김상훈 연출)이 후지TV, 라쿠텐 비키(Rakuten Viki) 등 글로벌 온라인 동영상 서비스(OTT)와 콘텐츠 유통 계약을 맺고 일본, 북남미, 유럽 등 10]]></content>
     </entry>
 </feed>
