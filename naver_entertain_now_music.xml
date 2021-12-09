@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-09T14:21:30.893Z</updated>
+    <updated>2021-12-09T15:24:06.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["영웅이 온다" 임영웅 KBS 단독쇼 티저 공개 '기대UP']]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011718</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003011718"/>
+        <updated>2021-12-09T15:23:51.426Z</updated>
+        <content type="html"><![CDATA[가수 임영웅의 KBS 단독쇼 티저가 공개, 기대감을 한껏 높였다. 임영웅 KBS 단독쇼 'We're HERO 임영웅' 12월 9일 유튜브 채널 KBS 골든케이팝를 통해 티저 영상을 공개했다. 16초 분량의 영상은 "]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2AM 이창민, 자살방지 프로젝트 참여..자살률 1위 韓 불명예 씻자]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004524220</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000836794"/>
         <updated>2021-12-09T08:26:31.085Z</updated>
         <content type="html"><![CDATA[천재 뮤지션 다비(DAVII)의 새 앨범 ‘?=1 Re:new’ 컴백 티저 이미지가 공개됐다. 9일 정오 다비의 공식 SNS 채널을 통해 컴백 티저 이미지가 공개돼 ‘?=1 Re:new’의 컴백에 대한 열기를 고조시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[킹덤의 '2021 AAA' 의상, 英 패션 전문가도 극찬 세례]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011665</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003011665"/>
-        <updated>2021-12-09T08:26:31.085Z</updated>
-        <content type="html"><![CDATA[킹덤(KINGDOM)의 '판타지돌' 레드카펫 패션이 화제다. 영국의 유명 패션 전문가 조지 홀린스(George Hollins)는 지난 5일 본인의 유튜브 채널에 '2021 Asia Artists Awards(아시아]]></content>
     </entry>
 </feed>
