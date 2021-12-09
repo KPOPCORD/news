@@ -2,22 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-09T02:37:49.586Z</updated>
+    <updated>2021-12-09T03:21:47.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나상현씨밴드, '멜랑꼴리아' OST Part 3 '은방울 ' 참여]]></title>
+        <id>https://entertain.v.daum.net/v/20211209115524097</id>
+        <link href="https://entertain.v.daum.net/v/20211209115524097"/>
+        <updated>2021-12-09T03:21:15.414Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김수진 기자] 인디밴드 나상현씨밴드가 tvN 15주년 특별기획 수목드라마 '멜랑꼴리아'(극본 김지운 연출 김상협) OST 라인업에 합류했다. 나상현씨밴드는 9일 오후 6시 국내 주요 음원사이트를 통해 공개되는 '멜랑꼴리아' OST 가창자로 확정돼 이날 '멜랑꼴리아' OST Part 3 '은방울 (원곡: DANIEL)'을 발매한다. '은방울 (]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임영웅, 11월 가온차트 3관왕 등극→26일 단독쇼 기대]]></title>
+        <id>https://entertain.v.daum.net/v/20211209115521093</id>
+        <link href="https://entertain.v.daum.net/v/20211209115521093"/>
+        <updated>2021-12-09T03:21:15.423Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 가수 임영웅이 11월 가온차트에서 3관왕 영예를 안았다. 12월 9일 가온차트를 운영하는 사단법인 한국음악콘텐츠협회에 따르면 임영웅은 '사랑은 늘 도망가'로 BGM, 벨소리, 컬러링 차트 정상에 올랐다. 2개월 연속 1위 기록이다. 앞서 임영웅은 10월 월간 가온차트에서 5관왕을 차지했다. 벨소리, 컬러링 차트에서는 8주 연속 1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[문체부·콘진원·연제협·음레협, 대중음악 공연 업계 코로나19 피해 지원]]></title>
+        <id>https://entertain.v.daum.net/v/20211209114319508</id>
+        <link href="https://entertain.v.daum.net/v/20211209114319508"/>
+        <updated>2021-12-09T03:21:15.423Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 공미나 기자] /사진제공=한국연예제작자협회대한민국 문화체육관광부(장관 황희, 이하 문체부)와 한국콘텐츠진흥원(원장 조현래, 이하 콘진원), 사단법인 한국연예제작자협회(회장 임백운, 이하 연제협), 사단법인 한국음악레이블산업협회(회장 이규영, 이하 음레협)가 진행한 '대중음악 공연분야 인력지원 사업'이 코로나19 상황 장기화로 인해 경제적 피해를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단 'Butter', 英·美 음악 매체 선정 '2021년 최고의 노래']]></title>
         <id>https://entertain.v.daum.net/v/20211209113506127</id>
         <link href="https://entertain.v.daum.net/v/20211209113506127"/>
         <updated>2021-12-09T02:37:16.467Z</updated>
         <content type="html"><![CDATA[[OSEN=선미경 기자] 그룹 방탄소년단의 'Butter'가 해외 주요 매체들로부터 '2021년 최고의 노래'로 선정되며 명실상부 '글로벌 메가 히트송'으로 인정받았다.&nbsp; 'Butter'는 미국 연예 매체 버라이어티(Variety)가 음악 큐레이터들의 평가를 토대로 지난 7일(이하 현지시각) 발표한 '올해 최고의 노래 50(Best Songs of 2021]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[B1A4 산들, 오늘 신규 음원 'I Miss You' 발매]]></title>
-        <id>https://entertain.v.daum.net/v/20211209113015817</id>
-        <link href="https://entertain.v.daum.net/v/20211209113015817"/>
-        <updated>2021-12-09T02:37:16.468Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 B1A4(비원에이포) 멤버 산들이 새 음원을 공개한다. 데브시스터즈 측은 12월 9일 뮤직 프로젝트 ‘쿠키박스(CookieBox)' 시작을 알리고 산들과 함께한 첫 음원 ‘아이 미스 유(I Miss You)’를 발매한다고 밝혔다. 쿠키박스는 음악을 통해 팬과 쿠키런의 세계를 연결시켜주는 뮤직 프로젝트로, 다양한 콘텐츠 분야에서]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['국민가수' 결승전에 진출할 10인 누가 될까]]></title>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211209102246596"/>
         <updated>2021-12-09T02:37:16.479Z</updated>
         <content type="html"><![CDATA[[스포츠조선 문지연 기자] 흥미진진한 전개로 작품성을 인정받은 '크라임 퍼즐'이 해외 100여 개국에 공개될 예정이다. 올레tv x seezn 오리지널 '크라임 퍼즐'(최종길 극본, 김상훈 연출)이 후지TV, 라쿠텐 비키(Rakuten Viki) 등 글로벌 온라인 동영상 서비스(OTT)와 콘텐츠 유통 계약을 맺고 일본, 북남미, 유럽 등 10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서리, 'Dive with you' 라이브 영상 공개..'2022 기대되는 아티스트' 행보ing]]></title>
-        <id>https://entertain.v.daum.net/v/20211209101344188</id>
-        <link href="https://entertain.v.daum.net/v/20211209101344188"/>
-        <updated>2021-12-09T02:37:16.481Z</updated>
-        <content type="html"><![CDATA[[OSEN=이승훈 기자] 싱어송라이터 서리(Seori)가 'Dive with you' 라이브 영상으로 글로벌 음악 팬들을 매료시켰다. 미국의 음원 미디어 서비스 회사 VEVO 측은 9일(한국 시간) VevoDSCVR 유튜브 채널에 서리의 'Dive with you (다이브 위드 유)' 라이브 영상을 공개했다. 98만 명 이상의 구독자를 보유한 VevoDSC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엑소 카이 'Peaches' 퍼포먼스 비디오 공개, 달콤 스웨그 기대]]></title>
-        <id>https://entertain.v.daum.net/v/20211209100606832</id>
-        <link href="https://entertain.v.daum.net/v/20211209100606832"/>
-        <updated>2021-12-09T01:09:16.469Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 엑소 카이의 신곡 ‘Peaches’(피치스) 퍼포먼스 비디오가 공개된다. ‘Peaches’ 퍼포먼스 비디오는 12월 9일 오후 8시 유튜브 EXO 채널 등이 게재된다. 스윗한 매력의 음악과 어우러진 카이의 퍼포먼스를 한눈에 만날 수 있어 시선을 사로잡을 전망이다. 이번 ‘Peaches’ 퍼포먼스는 가사 내용에 맞춰 복숭아를 콘셉트로]]></content>
     </entry>
 </feed>

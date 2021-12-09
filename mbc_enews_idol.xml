@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 02:37:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 03:21:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[포토] 임시완, '제국의 볼하트']]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332866</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332866</guid>
+            <pubDate>Thu, 09 Dec 2021 03:21:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332866">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/09/ec37ef5c-0439-4fe1-af93-307f529af374.jpg" alt="[포토] 임시완, '제국의 볼하트'">        <div class="text-box">            <p class="summary">[포토] 임시완, '제국의 볼하트'</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/09/ec37ef5c-0439-4fe1-af93-307f529af374.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['원스' 이홍기, 전 여친에 들었던 충격 답변 고백]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/332864</link>
@@ -86,14 +94,6 @@
             <pubDate>Wed, 08 Dec 2021 09:21:40 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332813">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/08/bb2e58ff-1bae-4adb-8aea-4243822972bf.jpg" alt="'대한외국인' 조권 " 공기="" 반="" 소리="" 창법은="" 옛말""="">        <div class="text-box">            <p class="summary">'대한외국인' 조권 "공기 반 소리 반 창법은 옛말"</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/08/bb2e58ff-1bae-4adb-8aea-4243822972bf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 조이, '외로운 날들이여 이제는 안녕?']]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332812</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332812</guid>
-            <pubDate>Wed, 08 Dec 2021 08:26:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332812">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/08/7dbdd241-5147-432e-8f15-3c217d97c76c.jpg" alt="[포토] 조이, '외로운 날들이여 이제는 안녕?'">        <div class="text-box">            <p class="summary">[포토] 조이, '외로운 날들이여 이제는 안녕?'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/08/7dbdd241-5147-432e-8f15-3c217d97c76c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
