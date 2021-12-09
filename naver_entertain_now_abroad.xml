@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-09T15:24:06.813Z</updated>
+    <updated>2021-12-09T16:34:31.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["온몸이 보석"…비욘세, '3800만원대' 하의실종 패션 '깜짝']]></title>
+        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004681582</id>
+        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004681582"/>
+        <updated>2021-12-09T16:34:30.232Z</updated>
+        <content type="html"><![CDATA[[구찌 X 발렌시아가 협업 제품 착용한 비욘세…잘록한 허리+각선미 강조] 팝 가수 비욘세가 눈부신 초호화 명품 패션을 선보였다. 비욘세는 8일(현지시간) 자신의 인스타그램에 눈부시게 반짝이는 크리스털로 장식된 재킷과]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['만삭' 제니퍼 로렌스, 토크쇼 뒤집어놓은 '미국 유머' 한 마디는?]]></title>
         <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004681527</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000836672"/>
         <updated>2021-12-08T10:25:49.036Z</updated>
         <content type="html"><![CDATA[윤준협이 8일 오후 서울 강남구 MBC 스마트센터에서 진행되는 서바이벌 오디션 프로그램 '극한데뷔 야생돌' 라이브토크 녹화를 위해 참석해 포즈를 취하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김지성 '퓨워터, 수소 물 맛을 느끼며' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000836670</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000836670"/>
-        <updated>2021-12-08T10:25:49.040Z</updated>
-        <content type="html"><![CDATA[김지성이 8일 오후 서울 강남구 MBC 스마트센터에서 진행되는 서바이벌 오디션 프로그램 '극한데뷔 야생돌' 라이브토크 녹화를 위해 참석해 포즈를 취하고 있다.]]></content>
     </entry>
 </feed>

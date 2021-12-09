@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-09T15:24:06.811Z</updated>
+    <updated>2021-12-09T16:34:31.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['국민가수' 뮤지컬 프린스가 해냈다, 고은성 1위로 결승 진출..톱10 확정]]></title>
+        <id>https://entertain.v.daum.net/v/20211210004721137</id>
+        <link href="https://entertain.v.daum.net/v/20211210004721137"/>
+        <updated>2021-12-09T16:33:54.871Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김한길 기자] '국민가수' 뮤지컬 프린스 고은성이 1위로 결승에 진출했다. 9일 밤 방송된 TV CHOSUN 오디션 프로그램 '내일은 국민가수'(이하 '국민가수') 10회에서는 준결승전 2라운드 일대일 한 곡 대결이 펼쳐졌다. 이날 일대일 대결에 임한 이들은 자신만의 음색으로 눈을 뗄 수 없는 무대를 만들었다. 상대보다 더 나은 개인적 역량을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['국민가수' 이병찬, 준결승전 일대일 대결 승리 '드디어 활짝 웃었다']]></title>
         <id>https://entertain.v.daum.net/v/20211210001311988</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211209161318831"/>
         <updated>2021-12-09T07:20:24.118Z</updated>
         <content type="html"><![CDATA[[스포츠조선 백지은 기자] 그룹 투모로우바이투게더가 미국 타임지 선정 '2021 베스트 K-팝 앨범'에 이름을 올렸다. 지난 8일(현지시간) 미국 시사주간지 타임이 공식 홈페이지에 게재한 기사에 따르면, 투모로우바이투게더가 지난 8월 발매한 정규 2집 리패키지 앨범 '혼돈의 장: 파이트 오어 이스케이프'가 '2021년 베스트 K-팝 앨범'(]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투모로우바이투게더, 美 타임 선정 '2021 베스트 K-팝 앨범']]></title>
-        <id>https://entertain.v.daum.net/v/20211209161105720</id>
-        <link href="https://entertain.v.daum.net/v/20211209161105720"/>
-        <updated>2021-12-09T07:20:24.118Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 그룹 투모로우바이투게더의 ‘혼돈의 장: FIGHT OR ESCAPE’가 미국 TIME(타임)지 선정 ‘2021 베스트 K-팝 앨범’에 이름을 올렸다. 지난 8일(현지시간) 미국 시사주간지 TIME이 공식 홈페이지에 게재한 기사에 따르면, 투모로우바이투게더(수빈, 연준, 범규, 태현, 휴닝카이)가 지난 8월 발매한 정규 2집 리패]]></content>
     </entry>
 </feed>
