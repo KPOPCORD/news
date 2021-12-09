@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-09T04:28:45.094Z</updated>
+    <updated>2021-12-09T05:20:33.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘만삭’ 제니퍼 로렌스 “결혼 후 3년간 성관계 많이 해” 화끈 입담]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000520578</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000520578"/>
+        <updated>2021-12-09T05:20:32.816Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박은해 기자] 할리우드 스타 제니퍼 로렌스(31)가 화끈한 입담을 뽐냈다. 12월 7일(현지 시간) 제니퍼 로렌스는 스테판 콜베어가 진행하는 '더 레이트 쇼'에 출연해 근황을 공개했다. 이날 스테판 콜베어는]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제니퍼 로렌스 “3년 공백기 동안 성관계 많이 했다..현재 임신 중”]]></title>
+        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003810811</id>
+        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003810811"/>
+        <updated>2021-12-09T05:20:32.819Z</updated>
+        <content type="html"><![CDATA[[스포츠조선닷컴 박아람 기자] 할리우드 배우 제니퍼 로렌스(31)가 화끈한 입담을 자랑했다. 제니퍼 로렌스는 지난 6일(현지시간) 스테판 콜베어의 '더 레이트 쇼'에 출연해 3년간의 연기 공백 기간 동안 남편 쿡 마]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[몬스타엑스, 성장세 계속…美 정규앨범·징글볼로 잇는다]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010879906</id>
@@ -164,20 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000836660</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000836660"/>
         <updated>2021-12-08T10:25:49.051Z</updated>
-        <content type="html"><![CDATA[가수 예린이 8일 오후 서울 강남구 MBC 스마트센터에서 진행되는 서바이벌 오디션 프로그램 '극한데뷔 야생돌' 라이브토크 녹화를 위해 참석해 포즈를 취하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예린 '미소가 반짝 반짝' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000836659</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000836659"/>
-        <updated>2021-12-08T10:25:49.051Z</updated>
-        <content type="html"><![CDATA[가수 예린이 8일 오후 서울 강남구 MBC 스마트센터에서 진행되는 서바이벌 오디션 프로그램 '극한데뷔 야생돌' 라이브토크 녹화를 위해 참석해 포즈를 취하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예린 '이래도 안 반해?' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000836658</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000836658"/>
-        <updated>2021-12-08T10:25:49.052Z</updated>
         <content type="html"><![CDATA[가수 예린이 8일 오후 서울 강남구 MBC 스마트센터에서 진행되는 서바이벌 오디션 프로그램 '극한데뷔 야생돌' 라이브토크 녹화를 위해 참석해 포즈를 취하고 있다.]]></content>
     </entry>
 </feed>
