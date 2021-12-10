@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-10T16:32:58.623Z</updated>
+    <updated>2021-12-10T17:28:16.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘카운트다운 판타지(COUNTDOWN FANTASY) 2021-2022’ 전체 공연일정 발표]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000780271</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000780271"/>
+        <updated>2021-12-10T17:28:01.927Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] ‘카운트다운 판타지(COUNTDOWN FANTASY) 2021-2022’ 전체 공연일정 발표 오는 31일 2021년 연말을 화려하게 장식 할 ‘카운트다운 판타지(COUNTDOWN FANTASY) 202]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에이티즈→데이브레이크, ‘CDF 2021-2022’ 전체 공연일정 발표]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001383982</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000780243"/>
         <updated>2021-12-10T11:19:13.158Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 배우 정하준이 존박,전미도의 신곡‘밤새 서로 미루다’ 뮤직비디오에 출연하여 훈훈한 비주얼과 호소력 깊은 연기력을 선보였다. 소속사 앨컴퍼니는 지난 9일 오후 6시 발매된 존박x전미도 ‘밤새 서로 미루다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["MV 촬영 앞두고 칼 밟아" 피 흘린 키아라, '픽미업' 대박 조짐 [종합]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001383927</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001383927"/>
-        <updated>2021-12-10T11:19:13.159Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김노을 기자) 가수 키이라가 '픽미업' 대박 조짐을 읽었다. 10일 오후 키아라의 세 번째 싱글 앨범 '픽미업(PICK ME UP)' 발매 기념 온라인 쇼케이스가 열렸다. 이번 컴백은 지난해 10월 발]]></content>
     </entry>
 </feed>
