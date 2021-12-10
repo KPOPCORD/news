@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 04:29:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 05:20:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이브, '아이돌라디오2'서 다채로운 케미＋매력 대방출]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332970</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332970</guid>
+            <pubDate>Fri, 10 Dec 2021 05:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332970">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/10/a56b92a9-d13a-4e65-93b2-4da5b4c36962.jpg" alt="아이브, '아이돌라디오2'서 다채로운 케미＋매력 대방출">        <div class="text-box">            <p class="summary">아이브, '아이돌라디오2'서 다채로운 케미＋매력 대방출</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/10/a56b92a9-d13a-4e65-93b2-4da5b4c36962.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[FT아일랜드, 군백기 끝내고 '전참시'서 완전체 컴백]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/332961</link>
@@ -86,14 +94,6 @@
             <pubDate>Thu, 09 Dec 2021 11:18:37 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332886">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/09/e84cba39-aa8d-45b3-b209-aca3191ec1c6.gif" alt="[움짤] 장원영, 'I have~ 인형' 맞습니다 (라디오스타 B하인드①)">        <div class="text-box">            <p class="summary">[움짤] 장원영, 'I have~ 인형' 맞습니다 (라디오스타 B하인드①)</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/09/e84cba39-aa8d-45b3-b209-aca3191ec1c6.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 제이홉, '격리면제 국내예방접종 완료자']]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332917</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332917</guid>
-            <pubDate>Thu, 09 Dec 2021 11:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332917">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/09/73174f3a-310f-4b3b-a6fd-882f098ca442.jpg" alt="[포토] 제이홉, '격리면제 국내예방접종 완료자'">        <div class="text-box">            <p class="summary">[포토] 제이홉, '격리면제 국내예방접종 완료자'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/09/73174f3a-310f-4b3b-a6fd-882f098ca442.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
