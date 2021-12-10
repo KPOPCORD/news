@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-10T11:19:27.832Z</updated>
+    <updated>2021-12-10T12:34:50.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강다니엘 측 "코로나19 음성 판정" [공식입장]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001383961</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001383961"/>
+        <updated>2021-12-10T12:34:34.802Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 가수 강다니엘이 코로나19 음성 판정을 받았다. 소속사 커넥트엔터테인먼트 측 관계자는 10일 엑스포츠뉴스에 "강다니엘이 코로나19 검사 결과 음성 판정을 받았다"고 밝혔다. 앞서 이날 오]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔하이픈, 내년 1월 리패키지 컴백]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000780250</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000780250"/>
+        <updated>2021-12-10T12:34:34.804Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 그룹 ENHYPEN(엔하이픈)이 내년 1월 10일 정규 1집 리패키지 앨범 ‘DIMENSION : ANSWER’로 돌아온다. ENHYPEN(정원, 희승, 제이, 제이크, 성훈, 선우, 니키)은 오늘(1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하하, 10년 만의 컴백..힐링 감성]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011887</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001383868"/>
         <updated>2021-12-10T09:21:38.920Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 그룹 에이티즈(ATEEZ)가 신곡 '야간비행'을 통해 청춘들을 향한 공감과 위로를 전했다. 10일 에이티즈는 첫 번째 리패키지 EP 'ZERO : FEVER EPILOGUE'를 발매하고 더]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['군백기 끝' FT아일랜드, 2년 여만 증명한 완전체의 합 (쥬크박스)[종합]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001383867</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001383867"/>
-        <updated>2021-12-10T09:21:38.921Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) 밴드 FT아일랜드가 이별의 기억을 담은 신보로 돌아왔다. FT아일랜드 여덟 번째 미니 앨범 '락 업(LOCK UP)'은 10일 오후 6시 각종 온라인 음원사이트를 통해 공개됐다. 이번 신]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“우린 뜨겁게 살아” 에이티즈, 이런 게 바로 ‘멋’인 기라[들어보고서]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000521003</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000521003"/>
-        <updated>2021-12-10T09:21:38.921Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 에이티즈(홍중, 성화, 윤호, 여상, 산, 민기, 우영, 종호)가 진정한 '멋'을 담은 신곡으로 돌아왔다. 에이티즈는 12월 10일 오후 6시 국내외 음원 사이트를 통해 첫 리패키지 미니]]></content>
     </entry>
 </feed>
