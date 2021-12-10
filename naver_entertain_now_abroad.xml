@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-10T03:24:05.901Z</updated>
+    <updated>2021-12-10T04:29:08.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[베리베리, 美 투어 동시에 팬들과 온라인 소통…"열정에 감동했다"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010882457</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010882457"/>
+        <updated>2021-12-10T04:29:08.182Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]김예지 인턴 기자 = 그룹 '베리베리'가 첫 미국 투어와 함께 팬들과 소통을 이어가고 있다. 10일 젤리피쉬엔터테인먼트에 따르면 베리베리는 최근 브이라이브(V라이브)를 통해 첫 미국투어 '2021 베리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[몬스타엑스, 美 '굿모닝 아메리카' 출연…"거침없네"]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010882323</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=022&amp;aid=0003646203"/>
         <updated>2021-12-09T01:09:47.019Z</updated>
         <content type="html"><![CDATA[할리우드 배우 제니퍼 로렌스(사진)가 근황을 전했다. 로렌스는 지난 7일(현지시간) 스테판 콜베어의 ‘더 레이트 쇼’에 출연해 재치 있는 입담을 드러냈다. 이날 진행자는 “결혼한 후 지난 3년간 어떻게 지냈나”라고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“성관계 많이 했다” 31살 만삭 제니퍼 로렌스, “은퇴하면 가정부될 것”[해외이슈]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003561076</id>
-        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003561076"/>
-        <updated>2021-12-09T01:09:47.019Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘오스카 여신’ 제니퍼 로렌스(31)가 가벼운 농담으로 청중을 즐겁게 했다. 그는 7일(현지시간) 스테판 콜베어의 ‘더 레이트 쇼’에 출연해 “결혼한 후 지난 3년간 어떻게 지냈나”라는]]></content>
     </entry>
 </feed>
