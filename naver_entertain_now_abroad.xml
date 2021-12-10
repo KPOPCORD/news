@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-10T07:21:51.755Z</updated>
+    <updated>2021-12-10T08:27:56.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[“레티티아 라이트, 백신 안맞아 ‘블랙팬서2’ 촬영 지연” 루머 확산…팬들 뿔났다[해외이슈]]]></title>
+        <title type="html"><![CDATA[플로렌스 퓨·라미 말렉·베니 사프디, 놀란 신작 '오펜하이머' 캐스팅 [엑's 할리우드]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001383791</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001383791"/>
+        <updated>2021-12-10T08:27:55.752Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 크리스토퍼 놀란 감독의 신작 '오펜하이머'의 추가 캐스팅이 공개돼 눈길을 끈다. 9일(현지시간) 미국 할리우드 리포터(THR)는 플로렌스 퓨, 라미 말렉, 베니 사프디가 '오펜하이머'에]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“레티티아 라이트, 백신 안맞아 ‘블랙팬서2’ 하차” 루머 확산…팬들 뿔났다[해외이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003561452</id>
         <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003561452"/>
         <updated>2021-12-10T07:21:51.046Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]영국 배우 레티티아 라이트가 부상에 이어 백신 접종을 하지 않아 영화 '블랙팬서2'의 촬영이 연기되고 있다는 루머가 제기됐다. 할리우드 매체 ‘위 갓 디스 커버드’는 9일(현지시간) 코로]]></content>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]영국 배우 레티티아 라이트가 부상에 이어 백신 접종을 하지 않아 영화 '블랙팬서2'에서 하차했다는 루머가 제기됐다. 할리우드 매체 ‘위 갓 디스 커버드’는 9일(현지시간) 코로나 백신 접]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CIX '시네마' 美 Time 선정 '2021 베스트 K팝 노래']]></title>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000520578"/>
         <updated>2021-12-09T05:20:32.816Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박은해 기자] 할리우드 스타 제니퍼 로렌스(31)가 화끈한 입담을 뽐냈다. 12월 7일(현지 시간) 제니퍼 로렌스는 스테판 콜베어가 진행하는 '더 레이트 쇼'에 출연해 근황을 공개했다. 이날 스테판 콜베어는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제니퍼 로렌스 “3년 공백기 동안 성관계 많이 했다..현재 임신 중”]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003810811</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003810811"/>
-        <updated>2021-12-09T05:20:32.819Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 박아람 기자] 할리우드 배우 제니퍼 로렌스(31)가 화끈한 입담을 자랑했다. 제니퍼 로렌스는 지난 6일(현지시간) 스테판 콜베어의 '더 레이트 쇼'에 출연해 3년간의 연기 공백 기간 동안 남편 쿡 마]]></content>
     </entry>
 </feed>
