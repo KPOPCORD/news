@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-10T10:26:09.245Z</updated>
+    <updated>2021-12-10T11:19:27.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["MV 촬영 앞두고 칼 밟아" 피 흘린 키아라, '픽미업' 대박 조짐]]></title>
+        <id>https://entertain.v.daum.net/v/20211210193012102</id>
+        <link href="https://entertain.v.daum.net/v/20211210193012102"/>
+        <updated>2021-12-10T11:18:54.162Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김노을 기자) 가수 키이라가 '픽미업' 대박 조짐을 읽었다. 10일 오후 키아라의 세 번째 싱글 앨범 '픽미업(PICK ME UP)' 발매 기념 온라인 쇼케이스가 열렸다. 이번 컴백은 지난해 10월 발매된 '톰보이(TOMBOY)' 이후 1년 2개월 만이다. 타이틀곡 '픽미업'은 묵직한 베이스를 중심으로 리드미컬한 분위기를 이끌다 후반부 화려한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["You're my Universe"..NCT, 너라는 우주를 향한 '유니버스']]></title>
         <id>https://entertain.v.daum.net/v/20211210192126988</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211210180039454"/>
         <updated>2021-12-10T09:21:19.704Z</updated>
         <content type="html"><![CDATA[밴드 FT아일랜드가 애틋한 이별 감성으로 또 한번의 히트곡 탄생을 예고했다. FT아일랜드는 10일 오후 6시 주요 음원사이트를 통해 미니 8집 '락 업(LOCK UP)'을 발매했다. 이들이 2년 2개월 만에 발매하는 새 앨범은 이별 후 연인과의 기억을 판도라의 상자에 가둬버린, 아픈 사랑의 순간에 대한 이야기를 담았다. FT아일랜드는 이별에 직면한 순간부터]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이게 바로 '멋'인 기라"..에이티즈 밝힌 신념]]></title>
-        <id>https://entertain.v.daum.net/v/20211210180037450</id>
-        <link href="https://entertain.v.daum.net/v/20211210180037450"/>
-        <updated>2021-12-10T09:21:19.705Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 그룹 에이티즈(ATEEZ)가 신곡 '멋'으로 에이티즈만의 흥을 전파했다. 10일 에이티즈는 첫 번째 리패키지 EP 'ZERO : FEVER EPILOGUE'를 발매하고 더블 타이틀곡 '야간비행 (Turbulence)', '멋 (The Real) (흥 : 興 Ver.)'의 뮤직비디오를 공개했다.  'FEVER' 시리즈가 선보인 콘]]></content>
     </entry>
 </feed>
