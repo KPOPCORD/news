@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-10T19:18:33.021Z</updated>
+    <updated>2021-12-10T20:22:43.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['완성형 자신감' 아이브, 기대감을 확신으로[TF초점]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000121079</id>
+        <link href="https://entertain.naver.com/now/read?oid=629&amp;aid=0000121079"/>
+        <updated>2021-12-10T20:22:28.857Z</updated>
+        <content type="html"><![CDATA[데뷔 일주일 만에 주요 음원차트 상위권에 음방 1위까지 국내 주요 음원차트 톱10을 비롯해 세계 최대 음악 사이트 스포티파이와 미국 빌보드 차트 진입, 음악 방송 1위. 이미 꽤 자리를 잡은 가수의 성적을 나열한 것]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔하이픈(ENHYPEN) 니키, 17번째 생일 기념 기부요정 등극]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001383992</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001383992"/>
+        <updated>2021-12-10T20:22:28.857Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 엔하이픈(ENHYPEN) 니키가 제252대 기부요정으로 선정되어 기부한다. 니키는 아이돌 순위 서비스 ‘최애돌’에서 팬들의 뜨거운 지지로 193,232,694표를 받았다. 12월 9일,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘카운트다운 판타지(COUNTDOWN FANTASY) 2021-2022’ 전체 공연일정 발표]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000780271</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000780250"/>
         <updated>2021-12-10T12:34:34.804Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 그룹 ENHYPEN(엔하이픈)이 내년 1월 10일 정규 1집 리패키지 앨범 ‘DIMENSION : ANSWER’로 돌아온다. ENHYPEN(정원, 희승, 제이, 제이크, 성훈, 선우, 니키)은 오늘(1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하하, 10년 만의 컴백..힐링 감성]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011887</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003011887"/>
-        <updated>2021-12-10T11:19:13.157Z</updated>
-        <content type="html"><![CDATA[가수 하하가 응원의 메시지와 힐링 감성을 담은 신곡으로 돌아왔다. 하하는 10일 오후 방송된 KBS 2TV '뮤직뱅크'에 출연해 새 EP '공백'의 동명의 타이틀곡 '공백' 무대를 음악 방송 최초로 선보였다. 하하는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정하준 ‘존박x전미도 뮤비’ 주연, 이별을 앓다]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000780243</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000780243"/>
-        <updated>2021-12-10T11:19:13.158Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 배우 정하준이 존박,전미도의 신곡‘밤새 서로 미루다’ 뮤직비디오에 출연하여 훈훈한 비주얼과 호소력 깊은 연기력을 선보였다. 소속사 앨컴퍼니는 지난 9일 오후 6시 발매된 존박x전미도 ‘밤새 서로 미루다]]></content>
     </entry>
 </feed>

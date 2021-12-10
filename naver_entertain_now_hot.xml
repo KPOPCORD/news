@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-12-10T19:18:33.018Z</updated>
+    <updated>2021-12-10T20:22:43.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이키 "내 평생 애착 인형♥"…뭔가 봤더니 '너무 귀여워!']]></title>
+        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003811420</id>
+        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003811420"/>
+        <updated>2021-12-10T20:22:35.895Z</updated>
+        <content type="html"><![CDATA[[스포츠조선닷컴 이게은기자] 댄서 아이키가 근황을 전했다. 11일 아이키는 자신의 인스타그램에 "내 평생 애착인형"이라는 글과 여러 장의 사진을 게재했다. 사진 속 아이키는 딸 연우 양과 다정한 모녀 케미를 자랑하고]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['33세' 제시카, 80억 피소에도 여유만만…부내 넘치는 CEO룩]]></title>
+        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003811419</id>
+        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003811419"/>
+        <updated>2021-12-10T20:22:35.901Z</updated>
+        <content type="html"><![CDATA[[스포츠조선닷컴 이게은기자] 가수 제시카가 근황을 전했다. 10일 제시카는 자신의 인스타그램에 "Hi"라는 글과 두 장의 사진을 게재했다. 사진 속 제시카는 레더 아우터를 입고 시크한 매력을 자아냈다. 거울을 보며]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[블랙핑크 지수, 굴욕없는 도자기 피부…청순+러블리한 예쁨[M+★SNS]]]></title>
         <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001627545</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000517208"/>
         <updated>2021-12-10T13:27:00.470Z</updated>
         <content type="html"><![CDATA[[텐아시아=노규민 기자] 다비치 멤버 이혜리가 반전 몸매를 자랑했다. 이해리는 10일 자신의 인스타그램에 "멜크 보그 라이브 봤어요? 그게 아니라…사진 많음 주의"라는 글과 함께 여러장의 사진을 게재했다. 사진 속]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤하, ‘END THEORY’ 美 타임지 ‘베스트 케이팝 앨범’ 선정]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000950313</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000950313"/>
-        <updated>2021-12-10T13:27:00.471Z</updated>
-        <content type="html"><![CDATA[가수 윤하의 새 앨범 'END THEORY'가 미국 타임지가 뽑은 '베스트 케이팝 앨범'으로 선정됐다. 미국 시사주간지 타임지는 지난 8일(현지 시간) 공식 홈페이지를 통해 '2021년 베스트 케이팝 노래와 앨범(T]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[워너원, 코로나 검사 결과 전원 음성…'MAMA' 사녹은 협의중]]></title>
-        <id>https://entertain.naver.com/now/read?oid=437&amp;aid=0000283271</id>
-        <link href="https://entertain.naver.com/now/read?oid=437&amp;aid=0000283271"/>
-        <updated>2021-12-10T13:27:00.474Z</updated>
-        <content type="html"><![CDATA[그룹 워너원이 코로나 19 검사 결과 전원 음성을 확인했다. 10일 워너원 멤버들은 이날 오전 실시간 PCR 검사에서 모두 음성 판정을 받았다. 현장에 함께 했던 소속사 스태프도 선제적 검사를 받아 추가 확진자는]]></content>
     </entry>
 </feed>
