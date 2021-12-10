@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-10T14:21:37.769Z</updated>
+    <updated>2021-12-10T15:27:26.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임영웅, ‘영광극장’ 5화 속 빛나는 비주얼…오락실의 임히어로]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001383979</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001383979"/>
+        <updated>2021-12-10T15:27:12.348Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) ‘영광극장’ 속 임영웅의 비주얼이 눈길을 끈다. 10일 임영웅 공식 유튜브 채널 ‘임영웅’에는 “[영광극장 5부] 오락 밖에 난 몰라”이라는 제목의 영상이 게재됐다. 영상 속에는 오락실에]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[워너원, 'MAMA' 사녹 재개…"생방송은 불참, 안전에 만전 기여" [공식]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004524799</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004524799"/>
+        <updated>2021-12-10T15:27:12.350Z</updated>
+        <content type="html"><![CDATA[[OSEN=김나연 기자] 워너원이 멤버 전원 코로나19 음성 판정을 받음에 따라 '2021 MAMA' 사전녹화를 재개한다. 10일 Mnet 측은 OSEN에 "워너원(강다니엘, 박지훈, 이대휘, 김재환, 옹성우, 박우]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MAMA, '코로나 전원 음성' 워너원 사전녹화..생방송은 불참 [공식입장 전문]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011914</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003561509"/>
         <updated>2021-12-10T10:25:54.024Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 이승록 기자] 보이그룹 NCT가 정규 3집 타이틀곡 '유니버스(Universe)'(Let's Play Ball)를 10일 오후 6시 발표했다. 도영, 정우, 마크, 샤오쥔, 제노, 해찬, 재민, 양양]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투모로우바이투게더, 日 레코드협회 골드 디스크 첫 '플래티넘']]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004639248</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004639248"/>
-        <updated>2021-12-10T10:25:54.024Z</updated>
-        <content type="html"><![CDATA[그룹 투모로우바이투게더가 일본 레코드협회로부터 골드 디스크 '플래티넘' 인증을 받았다. 10일 일본 레코드협회에 따르면 투모로우바이투게더(수빈, 연준, 범규, 태현, 휴닝카이)가 지난달 발매한 일본 첫 EP '카오틱]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D-1 'MAMA' 최시원, 코로나 확진→워너워, 코로나 검사 '비상' [종합]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003011879</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003011879"/>
-        <updated>2021-12-10T10:25:54.026Z</updated>
-        <content type="html"><![CDATA[코로나19 재확산으로 인해 연말 마무리를 준비하던 2021 엠넷 아시안 뮤직 어워즈'(Mnet Asian Music Awards, 이하 MAMA) 사전 녹화가 연기 되는 등 비상이 걸렸다. 10일 슈퍼주니어 최시원이]]></content>
     </entry>
 </feed>

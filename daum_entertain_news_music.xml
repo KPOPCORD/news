@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-10T14:21:37.767Z</updated>
+    <updated>2021-12-10T15:27:26.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안성준 오늘 생일..트롯픽 이벤트 주인공]]></title>
+        <id>https://entertain.v.daum.net/v/20211211000012072</id>
+        <link href="https://entertain.v.daum.net/v/20211211000012072"/>
+        <updated>2021-12-10T15:26:54.267Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 안성준 오늘(11일) 생일…트롯픽 이벤트 주인공 [DA:차트] 가수 안성준이 트롯픽 생일 이벤트를 받는다. 11일 트롯 문화를 사랑하는 사람들을 응원하는 서비스 트롯픽(trotpick)에 따르면 안성준은 12월 생일자를 대상으로 한 스페셜 투표에서 이벤트 주인공으로 선정됐다. 이번 투표는 지난달 15일부터 21일까지 진행됐다. 트롯픽의 생일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[워너원, 'MAMA' 사녹 재개.."생방송은 불참, 안전에 만전 기여"]]></title>
+        <id>https://entertain.v.daum.net/v/20211210233030933</id>
+        <link href="https://entertain.v.daum.net/v/20211210233030933"/>
+        <updated>2021-12-10T15:26:54.269Z</updated>
+        <content type="html"><![CDATA[[OSEN=김나연 기자] 워너원이 멤버 전원 코로나19 음성 판정을 받음에 따라 '2021 MAMA' 사전녹화를 재개한다. 10일 Mnet 측은 OSEN에 "워너원(강다니엘,&nbsp;박지훈,&nbsp;이대휘,&nbsp;김재환,&nbsp;옹성우,&nbsp;박우진, 윤지성,&nbsp;황민현,&nbsp;배진영,&nbsp;하성운)의 무대를 모두 사전녹화로 진행할 예정"이라고 밝혔다. 이날 오전 '2021 MAMA'&nbsp;사전녹화를 위한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MAMA, '코로나 전원 음성' 워너원 사전녹화..생방송은 불참]]></title>
         <id>https://entertain.v.daum.net/v/20211210231522858</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211210192126988"/>
         <updated>2021-12-10T10:25:35.909Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 이승록 기자] 보이그룹 NCT가 정규 3집 타이틀곡 '유니버스(Universe)'(Let's Play Ball)를 10일 오후 6시 발표했다. 도영, 정우, 마크, 샤오쥔, 제노, 해찬, 재민, 양양, 쇼타로가 참여한 신곡 '유니버스'(Let's Play Ball)는 중독성 강한 훅이 매력적인 힙합 기반의 R&amp;B 댄스 곡으로, 가사에는 너]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[슈퍼주니어 최시원 코로나 확진, 2021 MAMA 불참]]></title>
-        <id>https://entertain.v.daum.net/v/20211210183529206</id>
-        <link href="https://entertain.v.daum.net/v/20211210183529206"/>
-        <updated>2021-12-10T10:25:35.922Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 그룹 슈퍼주니어 멤버 최시원이 코로나19 확진 판정을 받았다. SM엔터테인먼트는 10일 공식입장을 통해 "최시원이 금일 오전 코로나19 확진 판정을 받았습니다"라고 밝혔다. 소속사 측에 따르면 최시원은 지난 9월 백신 2차 접종을 완료한 상태였으나, 스케줄을 소화하기 위해 선제적 조치로 진행한 코로나19 PCR 검사에서 확진 판]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김희철, 코로나19 음성..방송가 안도]]></title>
-        <id>https://entertain.v.daum.net/v/20211210183207141</id>
-        <link href="https://entertain.v.daum.net/v/20211210183207141"/>
-        <updated>2021-12-10T10:25:35.922Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 박상후 기자] 그룹 슈퍼주니어(SUPER JUNIOR) 김희철이 신종 코로나 바이러스 감염증(코로나19) 검사 결과 음성 판정을 받은 것으로 확인됐다. 멤버 최시원의 확진 소식 이후 연쇄 감염 우려로 걱정을 산 가운데, 음성이 확인되며 가슴을 쓸어내리게 됐다. 10일 티브이데일리 취재에 따르면 김희철은 최근 코로나19 검사를 진행한 결과 음성]]></content>
     </entry>
 </feed>
