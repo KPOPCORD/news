@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-10T22:21:11.439Z</updated>
+    <updated>2021-12-10T23:22:32.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[벤 애플렉, 전처 제니퍼 가너에 벌 세우고 분노? 근황 화제[Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004524862</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004524862"/>
+        <updated>2021-12-10T23:22:31.490Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 할리우드 배우 벤 애플렉이 최근 전처인 배우 제니퍼 가너와 가진 근황이 화제다. 두 사람은 지난 9일(현지시간) 미국 로스엔젤레스의 한 보도에서 목격됐다. 두 사람은 아이들 때문에 만남을 가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘아마존 CEO와 이혼’ 매켄지 스콧 재산 70조, “가장 영향력 있는 여성 1위”[해외이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003561571</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001383760"/>
         <updated>2021-12-10T07:21:51.053Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 넷플릭스 오리지널 시리즈 '카우보이 비밥'의 시즌2 제작이 취소됐다. 9일(현지시간) 미국 할리우드 리포터(THR)는 넷플릭스가 '카우보이 비밥'을 시즌1으로 마무리하기로 결정했다고 보도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[슈주 D&E '니드 유' 8개 지역서 아이튠즈 1위]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010882516</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010882516"/>
-        <updated>2021-12-10T05:20:11.099Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]김예지 인턴 기자 = 슈퍼주니어 디앤이(슈퍼주니어-D&amp;E)가 에필로그 앨범으로 글로벌 팬들의 사랑을 받고 있다. 10일 Label SJ에 따르면 슈퍼주니어 디앤이의 첫 번째 정규앨범 '카운트다운 - 제]]></content>
     </entry>
 </feed>
