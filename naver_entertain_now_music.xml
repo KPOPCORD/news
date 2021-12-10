@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-10T15:27:26.455Z</updated>
+    <updated>2021-12-10T16:32:58.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에이티즈→데이브레이크, ‘CDF 2021-2022’ 전체 공연일정 발표]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001383982</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001383982"/>
+        <updated>2021-12-10T16:32:44.128Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 2021년의 연말을 화려하게 장식할 '카운트다운 판타지(COUNTDOWN FANTASY) 2021-2022'(이하 CDF)의 전체 공연 일정을 담은 타임 테이블이 공개됐다. 총 2부에 걸]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅, ‘영광극장’ 5화 속 빛나는 비주얼…오락실의 임히어로]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001383979</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001383927"/>
         <updated>2021-12-10T11:19:13.159Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김노을 기자) 가수 키이라가 '픽미업' 대박 조짐을 읽었다. 10일 오후 키아라의 세 번째 싱글 앨범 '픽미업(PICK ME UP)' 발매 기념 온라인 쇼케이스가 열렸다. 이번 컴백은 지난해 10월 발]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["You're my Universe"…NCT, 너라는 우주를 향한 '유니버스' [MD신곡]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003561509</id>
-        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003561509"/>
-        <updated>2021-12-10T10:25:54.024Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 이승록 기자] 보이그룹 NCT가 정규 3집 타이틀곡 '유니버스(Universe)'(Let's Play Ball)를 10일 오후 6시 발표했다. 도영, 정우, 마크, 샤오쥔, 제노, 해찬, 재민, 양양]]></content>
     </entry>
 </feed>
