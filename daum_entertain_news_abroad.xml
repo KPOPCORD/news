@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-12-11T07:21:44.303Z</updated>
+    <updated>2021-12-11T08:24:56.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린시절 학대 이겨내고 톱스타된 배우들]]></title>
+        <id>https://entertain.v.daum.net/v/20211211171415188</id>
+        <link href="https://entertain.v.daum.net/v/20211211171415188"/>
+        <updated>2021-12-11T08:24:34.408Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 과거의 아픔을 딛고 정상에 오른 사람들이 있다. 특히 할리우드에서는 어린 시절 학대의 아픔을 견디거나 극복하고 톱스타의 자리에 오른 배우들을 어렵지 않게 찾아볼 수 있다. 최근 이러한 고백으로 화제를 모은 배우들을 살펴봤다. 이들의 고백과 극복에 대한 내용은 비슷한 상황에 놓인 이들에게&nbsp;공감과 희망을 안겨주고 있다. - 윌 스미스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[킴 카다시안, 카니예 웨스트 재결합 구애에도 독신자 서류 제출]]></title>
         <id>https://entertain.v.daum.net/v/20211211141237701</id>
@@ -39,12 +46,5 @@
         <link href="https://entertain.v.daum.net/v/20211211060005917"/>
         <updated>2021-12-10T21:18:37.130Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]제니퍼 애니스톤, 안젤리나 졸리와 이혼한 브래드 피트(57)가 새로운 사랑을 찾을 수 있을까. 할리우드 매체 ‘유에스 위클리’는 9일(현지시간) 내부자의 말을 인용해 “브래드 피트는 새로운 사랑을 찾고 싶어하지만, 연애에 어려움을 겪고 있다”고 말했다. 그는 “그가 새로운 사랑을 찾는 과정을 싫어하고, 구설수에 오르내리지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[플로렌스 퓨·라미 말렉·베니 사프디, 놀란 신작 '오펜하이머' 캐스팅]]></title>
-        <id>https://entertain.v.daum.net/v/20211210164129042</id>
-        <link href="https://entertain.v.daum.net/v/20211210164129042"/>
-        <updated>2021-12-10T08:27:32.004Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자)&nbsp;크리스토퍼 놀란 감독의 신작 '오펜하이머'의 추가 캐스팅이 공개돼 눈길을 끈다. 9일(현지시간) 미국 할리우드 리포터(THR)는 플로렌스 퓨, 라미 말렉, 베니 사프디가 '오펜하이머'에 새로이 합류했다고 단독보도했다. 세 배우는 모두 크리스토퍼 놀란의 작품에 출연하는 것은 이번이 처음이다. '블랙 위도우'로 국내 팬들에게도 익]]></content>
     </entry>
 </feed>
