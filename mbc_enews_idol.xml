@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Dec 2021 22:22:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Dec 2021 23:23:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하니, 러블리+섹시 공존하는 명품 비주얼 [인스타]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333044</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333044</guid>
+            <pubDate>Sat, 11 Dec 2021 23:22:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333044">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/11/62oF0IlNNxrR637748314060391580.jpg" alt="하니, 러블리+섹시 공존하는 명품 비주얼 [인스타] ">        <div class="text-box">            <p class="summary">하니, 러블리+섹시 공존하는 명품 비주얼 [인스타] </p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/11/62oF0IlNNxrR637748314060391580.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정채연, 팬들 설레게 하는 물오른 청순美 [인스타]]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/333041</link>
@@ -86,14 +94,6 @@
             <pubDate>Sat, 11 Dec 2021 18:25:44 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333127">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/12/6691c6d0-6a79-42d7-9f69-4c8c8d939581.jpg" alt="[포토] 에스파 지젤, '윈터' 옆 추워여~">        <div class="text-box">            <p class="summary">[포토] 에스파 지젤, '윈터' 옆 추워여~</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/12/6691c6d0-6a79-42d7-9f69-4c8c8d939581.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 에스파 윈터, '겨울은 춥다']]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333126</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333126</guid>
-            <pubDate>Sat, 11 Dec 2021 18:25:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333126">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/12/d29bd176-df03-44ab-835f-95fef9e6d8ec.jpg" alt="[포토] 에스파 윈터, '겨울은 춥다'">        <div class="text-box">            <p class="summary">[포토] 에스파 윈터, '겨울은 춥다'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/12/d29bd176-df03-44ab-835f-95fef9e6d8ec.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
