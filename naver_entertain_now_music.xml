@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-11T17:26:12.356Z</updated>
+    <updated>2021-12-11T18:26:19.961Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['애셋맘' 별, 걸그룹 센터급 비주얼..하하 또 반하겠네[스타IN★]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003012112</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003012112"/>
+        <updated>2021-12-11T18:26:06.354Z</updated>
+        <content type="html"><![CDATA[가수 별이 미모를 뽐냈다. 별은 11일 자신의 인스타그램에 "오늘 아닌 어느 날"이라며 사진을 게재했다. 사진 속 별은 거울을 바라보며 자신의 모습을 촬영하고 있다. 크롭 카디건 아래 보이는 슬림한 허리가 눈길을 끈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['대상 4관왕' 방탄소년단 빠진 '2021 MAMA', 엔딩은 이효리X'스우파' [종합]]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001384293</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004639503"/>
         <updated>2021-12-11T14:19:44.989Z</updated>
         <content type="html"><![CDATA[그룹 에스파 닝닝이 11일 오후 경기도 파주시 CJ ENM 스튜디오 센터에서 열린 '2021 Mnet Asian Music Awards (2021 MAMA)' 레드카펫 행사에 참석해 포토타임을 갖고 있다. ‘MAMA]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 에스파 카리나, '말로 표현할 수 없는 예쁨~' (2021 MAMA)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004639502</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004639502"/>
-        <updated>2021-12-11T14:19:44.990Z</updated>
-        <content type="html"><![CDATA[그룹 에스파 카리나가 11일 오후 경기도 파주시 CJ ENM 스튜디오 센터에서 열린 '2021 Mnet Asian Music Awards (2021 MAMA)' 레드카펫 행사에 참석해 포토타임을 갖고 있다. ‘MAM]]></content>
     </entry>
 </feed>
