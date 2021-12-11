@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-11T04:29:43.107Z</updated>
+    <updated>2021-12-11T05:19:18.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[킴 카다시안, 카니예 웨스트 재결합 구애에도 독신자 서류 제출]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000521170</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000521170"/>
+        <updated>2021-12-11T05:19:17.841Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 킴 카다시안이 완벽한 홀로서기에 나섰다. 12월 10일(현지시간) 피플 보도에 따르면 킴 카다시안은 법적으로 독신 선고를 요청했다. 보도에 따르면 카니예 웨스트와 이혼 절차를 밟고 있는 킴 카]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“그래, 나는 공유를 볼거야” 유명잡지 엘르 ‘고요의 바다’ 주목[해외이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003561634</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001383791"/>
         <updated>2021-12-10T08:27:55.752Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 크리스토퍼 놀란 감독의 신작 '오펜하이머'의 추가 캐스팅이 공개돼 눈길을 끈다. 9일(현지시간) 미국 할리우드 리포터(THR)는 플로렌스 퓨, 라미 말렉, 베니 사프디가 '오펜하이머'에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“레티티아 라이트, 백신 안맞아 ‘블랙팬서2’ 하차” 루머 확산…팬들 뿔났다[해외이슈]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003561452</id>
-        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003561452"/>
-        <updated>2021-12-10T07:21:51.046Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]영국 배우 레티티아 라이트가 부상에 이어 백신 접종을 하지 않아 영화 '블랙팬서2'에서 하차했다는 루머가 제기됐다. 할리우드 매체 ‘위 갓 디스 커버드’는 9일(현지시간) 코로나 백신 접]]></content>
     </entry>
 </feed>
