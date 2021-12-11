@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-11T18:26:19.961Z</updated>
+    <updated>2021-12-11T19:16:55.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["너무 예뻐서 깜놀" 박미선, 몰라보게 예뻐진 신지에 감탄[스타IN★]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003012113</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003012113"/>
+        <updated>2021-12-11T19:16:41.897Z</updated>
+        <content type="html"><![CDATA[개그우먼 박미선이 가수 신지의 외모를 칭찬했다. 박미선은 11일 자신의 인스타그램에 "뭐야 왜 이렇게 예뻐진 거야? 누군지 맞춰보세요. 너무 예뻐서 깜짝 놀랐네"라며 신지와 함께 찍은 사진을 게재했다. 사진 속 박미]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['애셋맘' 별, 걸그룹 센터급 비주얼..하하 또 반하겠네[스타IN★]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003012112</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004639504"/>
         <updated>2021-12-11T14:19:44.988Z</updated>
         <content type="html"><![CDATA[그룹 에스파 지젤, 윈터가 11일 오후 경기도 파주시 CJ ENM 스튜디오 센터에서 열린 '2021 Mnet Asian Music Awards (2021 MAMA)' 레드카펫 행사에 참석해 포토타임을 갖고 있다. ‘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 에스파 닝닝, '귀여운 손인사~' (2021 MAMA)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004639503</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004639503"/>
-        <updated>2021-12-11T14:19:44.989Z</updated>
-        <content type="html"><![CDATA[그룹 에스파 닝닝이 11일 오후 경기도 파주시 CJ ENM 스튜디오 센터에서 열린 '2021 Mnet Asian Music Awards (2021 MAMA)' 레드카펫 행사에 참석해 포토타임을 갖고 있다. ‘MAMA]]></content>
     </entry>
 </feed>

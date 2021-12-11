@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Dec 2021 18:26:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Dec 2021 19:16:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[포토] 리정, '심장? 어 그럼 내가 또 보여줘야지']]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333137</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333137</guid>
+            <pubDate>Sat, 11 Dec 2021 19:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333137">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/12/1a44332f-3ae7-4591-86ac-c4498a8a9d08.jpg" alt="[포토] 리정, '심장? 어 그럼 내가 또 보여줘야지'">        <div class="text-box">            <p class="summary">[포토] 리정, '심장? 어 그럼 내가 또 보여줘야지'</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/12/1a44332f-3ae7-4591-86ac-c4498a8a9d08.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[포토] 아이키, '제가 본 MAMA 중 제일 섹시했습니다']]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/333136</link>
@@ -86,14 +94,6 @@
             <pubDate>Sat, 11 Dec 2021 18:25:44 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333125">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/12/010a6ba2-fa6b-4221-a047-0dcb96f58326.jpg" alt="[포토] 에스파 닝닝, '넥스트 닝닝?'">        <div class="text-box">            <p class="summary">[포토] 에스파 닝닝, '넥스트 닝닝?'</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/12/010a6ba2-fa6b-4221-a047-0dcb96f58326.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 있지(ITZY) 예지, '퓨리냥' 매력]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333123</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333123</guid>
-            <pubDate>Sat, 11 Dec 2021 18:25:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333123">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/12/5b04d1e7-03aa-4923-800c-eb6306956d71.jpg" alt="[포토] 있지(ITZY) 예지, '퓨리냥' 매력">        <div class="text-box">            <p class="summary">[포토] 있지(ITZY) 예지, '퓨리냥' 매력</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/12/5b04d1e7-03aa-4923-800c-eb6306956d71.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
