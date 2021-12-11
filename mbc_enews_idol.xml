@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Dec 2021 06:25:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Dec 2021 07:21:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[포토] 에스파 카리나, 독보적 분위기]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333048</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333048</guid>
+            <pubDate>Sat, 11 Dec 2021 07:21:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333048">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/11/a135d713-c045-4d8f-9fb5-3f846fcbcbbf.jpg" alt="[포토] 에스파 카리나, 독보적 분위기">        <div class="text-box">            <p class="summary">[포토] 에스파 카리나, 독보적 분위기</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/11/a135d713-c045-4d8f-9fb5-3f846fcbcbbf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뷔, “날 사랑한다면 모든 것 줄 수 있어” 달콤한 세레나데]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/333037</link>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 10 Dec 2021 22:20:33 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332998">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/10/LshC5Sk5L7v6637747661353040180.jpg" alt="아이브 장원영, 엄청난 다리 길이…비주얼도 완벽 [인스타] ">        <div class="text-box">            <p class="summary">아이브 장원영, 엄청난 다리 길이…비주얼도 완벽 [인스타] </p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/10/LshC5Sk5L7v6637747661353040180.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강혜원, 얼굴에서 빛이나…청순 매력 뿜뿜 [인스타]]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332996</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332996</guid>
-            <pubDate>Fri, 10 Dec 2021 20:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332996">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/10/mV7sbuWoifjb637747660312563271.jpg" alt="강혜원, 얼굴에서 빛이나…청순 매력 뿜뿜 [인스타] ">        <div class="text-box">            <p class="summary">강혜원, 얼굴에서 빛이나…청순 매력 뿜뿜 [인스타] </p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/10/mV7sbuWoifjb637747660312563271.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
