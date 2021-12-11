@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Dec 2021 10:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Dec 2021 11:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슈퍼주니어, 최시원 제외한 전원 음성 [공식]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333078</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333078</guid>
+            <pubDate>Sat, 11 Dec 2021 11:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333078">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/11/33a0d196-5208-4192-9da2-fe6b50072088.jpg" alt="슈퍼주니어, 최시원 제외한 전원 음성 [공식]">        <div class="text-box">            <p class="summary">슈퍼주니어, 최시원 제외한 전원 음성 [공식]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/11/33a0d196-5208-4192-9da2-fe6b50072088.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['음중' 송민호, 신곡 '탕!♡'으로 팬심 저격]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/333073</link>
@@ -86,14 +94,6 @@
             <pubDate>Sat, 11 Dec 2021 06:25:22 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333037">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/11/WNLfbd6JqMJD637748307524218705.jpg" alt="뷔, “날 사랑한다면 모든 것 줄 수 있어” 달콤한 세레나데">        <div class="text-box">            <p class="summary">뷔, “날 사랑한다면 모든 것 줄 수 있어” 달콤한 세레나데</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/11/WNLfbd6JqMJD637748307524218705.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라도, 유재석-하하 질투 부른 미주 편애 “목소리 너무 예뻐” (놀면 뭐하니?)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333031</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333031</guid>
-            <pubDate>Sat, 11 Dec 2021 04:29:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333031">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/11/JrW8s5stZq9q637748252848555665.jpg" alt="라도, 유재석-하하 질투 부른 미주 편애 “목소리 너무 예뻐” (놀면 뭐하니?)">        <div class="text-box">            <p class="summary">라도, 유재석-하하 질투 부른 미주 편애 “목소리 너무 예뻐” (놀면 뭐하니?)</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/11/JrW8s5stZq9q637748252848555665.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
