@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-11T02:39:43.048Z</updated>
+    <updated>2021-12-11T03:23:13.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“그래, 나는 공유를 볼거야” 유명잡지 엘르 ‘고요의 바다’ 주목[해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003561634</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003561634"/>
+        <updated>2021-12-11T03:23:12.886Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]유명 잡지 ‘엘르’가 공유를 주목했다. ‘엘르’는 10일(현지시간) ‘그래, 나는 우주에 있는 공유를 볼거야’라는 제하의 기사를 통해 넷플릭스 ‘고요의 바다’를 추천했다. 이 잡지는 “‘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[63살 마돈나, 25살 모델 딸과 완벽한 몸매 자랑 “자매 같아”[해외이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003561628</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003561452"/>
         <updated>2021-12-10T07:21:51.046Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]영국 배우 레티티아 라이트가 부상에 이어 백신 접종을 하지 않아 영화 '블랙팬서2'에서 하차했다는 루머가 제기됐다. 할리우드 매체 ‘위 갓 디스 커버드’는 9일(현지시간) 코로나 백신 접]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CIX '시네마' 美 Time 선정 '2021 베스트 K팝 노래']]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010882921</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010882921"/>
-        <updated>2021-12-10T07:21:51.047Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]김예지 인턴 기자 = 그룹 씨아이엑스(CIX)의 '시네마(Cinema)'가 미국 타임지가 뽑은 '베스트 케이팝 노래'로 선정됐다. 미국 시사주간지 타임지는 지난 8일(현지 시간) 공식 홈페이지를 통해]]></content>
     </entry>
 </feed>
