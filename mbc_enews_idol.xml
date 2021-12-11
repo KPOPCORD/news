@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Dec 2021 16:32:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Dec 2021 17:26:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[포토] 있지(ITZY) 채령, 저 '스우파' 안나왔어요~]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333119</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333119</guid>
+            <pubDate>Sat, 11 Dec 2021 17:25:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333119">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/12/1924455c-1f6c-41d0-a487-8b29d48c331a.jpg" alt="[포토] 있지(ITZY) 채령, 저 '스우파' 안나왔어요~">        <div class="text-box">            <p class="summary">[포토] 있지(ITZY) 채령, 저 '스우파' 안나왔어요~</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/12/1924455c-1f6c-41d0-a487-8b29d48c331a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['2021MAMA' 브레이브걸스, 순백의 천사인 듯! KTO 브레이크 아웃 아티스트상 수상]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/333092</link>
@@ -86,14 +94,6 @@
             <pubDate>Sat, 11 Dec 2021 08:24:17 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333055">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/11/05d6b995-c427-41e6-9719-8f92e0b6ce1e.jpg" alt="[포토] 투모로우바이투게더(TXT) 휴닝카이, '엘프'">        <div class="text-box">            <p class="summary">[포토] 투모로우바이투게더(TXT) 휴닝카이, '엘프'</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/11/05d6b995-c427-41e6-9719-8f92e0b6ce1e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 있지 예지, '라이트퓨리' 왔지~]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333052</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333052</guid>
-            <pubDate>Sat, 11 Dec 2021 08:24:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333052">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/11/c133e2e0-aa68-438c-aced-ec9d94752106.jpg" alt="[포토] 있지 예지, '라이트퓨리' 왔지~">        <div class="text-box">            <p class="summary">[포토] 있지 예지, '라이트퓨리' 왔지~</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/11/c133e2e0-aa68-438c-aced-ec9d94752106.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
