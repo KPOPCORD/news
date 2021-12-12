@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-12T01:12:15.496Z</updated>
+    <updated>2021-12-12T02:37:51.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[드류 베리모어, 파격적인 눈가 화장…못 알아볼 뻔한 근황 [N해외연예]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005779010</id>
+        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005779010"/>
+        <updated>2021-12-12T02:37:50.348Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 안태현 기자 = 할리우드 배우 드류 베리모어(46)의 근황이 포착됐다. 미국 연예매체 스플래시닷컴은 11일(현지시간) 미국의 뉴욕에서 열린 Z100 징글볼 콘서트에 참석한 드류 베리모어의 모습을 담은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[63세 마돈나, 25세 딸과 함께…아슬아슬한 란제리룩 '완벽 소화']]></title>
         <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004682114</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000837238</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000837238"/>
         <updated>2021-12-11T08:24:56.258Z</updated>
-        <content type="html"><![CDATA[김서형이 11일 오후 경기도 파주 CJENM 스튜디오에서 열린 2021 엠넷 아시안 뮤직 어워즈(MAMA) 레드카펫에 참석하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김서형 '마마 레드카펫' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000837236</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000837236"/>
-        <updated>2021-12-11T08:24:56.266Z</updated>
         <content type="html"><![CDATA[김서형이 11일 오후 경기도 파주 CJENM 스튜디오에서 열린 2021 엠넷 아시안 뮤직 어워즈(MAMA) 레드카펫에 참석하고 있다.]]></content>
     </entry>
 </feed>
