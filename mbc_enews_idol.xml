@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Dec 2021 21:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Dec 2021 22:22:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['마의7년' 여자친구·러블리즈 울고→세븐틴·SF9 웃고 [2021총결산]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/332990</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/332990</guid>
+            <pubDate>Sun, 12 Dec 2021 22:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332990">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/10/rhM0sawONrBY637747537345858221.jpg" alt="'마의7년' 여자친구·러블리즈 울고→세븐틴·SF9 웃고 [2021총결산]">        <div class="text-box">            <p class="summary">'마의7년' 여자친구·러블리즈 울고→세븐틴·SF9 웃고 [2021총결산]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/10/rhM0sawONrBY637747537345858221.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이브, '일레븐(ELEVEN)' MV 비하인드 공개...6人 6色 러블리 매력 폭발]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/333166</link>
@@ -86,14 +94,6 @@
             <pubDate>Sat, 11 Dec 2021 19:16:20 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333137">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/12/1a44332f-3ae7-4591-86ac-c4498a8a9d08.jpg" alt="[포토] 리정, '심장? 어 그럼 내가 또 보여줘야지'">        <div class="text-box">            <p class="summary">[포토] 리정, '심장? 어 그럼 내가 또 보여줘야지'</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/12/1a44332f-3ae7-4591-86ac-c4498a8a9d08.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 아이키, '제가 본 MAMA 중 제일 섹시했습니다']]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333136</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333136</guid>
-            <pubDate>Sat, 11 Dec 2021 18:25:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333136">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/12/4cc9cccd-8624-4062-abff-35b7cd0a02f2.jpg" alt="[포토] 아이키, '제가 본 MAMA 중 제일 섹시했습니다'">        <div class="text-box">            <p class="summary">[포토] 아이키, '제가 본 MAMA 중 제일 섹시했습니다'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/12/4cc9cccd-8624-4062-abff-35b7cd0a02f2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
