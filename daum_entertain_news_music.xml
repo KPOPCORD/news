@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-12T20:23:33.148Z</updated>
+    <updated>2021-12-12T21:19:24.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나에 숨죽인 연말 콘서트, "이러나저러나 욕먹어" 울상]]></title>
+        <id>https://entertain.v.daum.net/v/20211213060006730</id>
+        <link href="https://entertain.v.daum.net/v/20211213060006730"/>
+        <updated>2021-12-12T21:18:52.956Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 정하은기자] 수그러들지 않는 코로나팬데믹 기세에 연말 콘서트가 숨죽이고 있다. 이러나저러나 쓴소리를 듣는 형국이다. 신종 코로나바이러스 감염증(코로나19) 확산세가 거센 가운데 지난 주말 전국 곳곳에서 대규모 콘서트가 열렸다. 콘서트 대부분이 방역패스가 적용되고 음식물 반입, 함성, 구호, 기립, 단체행동 등이 금지됐지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['라이언전 걸그룹' 버가부 "행복했던 첫 활동, 만족도는.."]]></title>
         <id>https://entertain.v.daum.net/v/20211213030000414</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211212152300236"/>
         <updated>2021-12-12T06:25:56.803Z</updated>
         <content type="html"><![CDATA[[스타뉴스 이덕행 기자] /사진=MNETMnet 힙합 서바이벌 '쇼미더머니10'를 향한 열풍이 식지 않고 있다. 제작진의 노력과 참가자들의 다채로운 서사가 조화를 이루며 '쇼미열풍'은 한동안 이어질 것으로 보인다. 12월 10일 기준, 국내 최대 음원사이트 멜론 차트 TOP10에는 '쇼미더머니10' 음원이 무려 7곡이나 포함되어 있다. 특히 비오의 '리무진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기록 행진 아이브, 데뷔와 동시에 증명한 '완성형' 수식어]]></title>
-        <id>https://entertain.v.daum.net/v/20211212152223224</id>
-        <link href="https://entertain.v.daum.net/v/20211212152223224"/>
-        <updated>2021-12-12T06:25:56.803Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 공미나 기자] 아이브 /사진제공=스타쉽엔터테인먼트데뷔 앨범 초동 15만장, 일주일 만에 첫 음악방송 1위. 미국 빌보드와 스포티파이 차트 진입. 신인 그룹 아이브(IVE, 안유진 가을 레이 장원영 리즈 이서)의 기세가 심상치 않다. 데뷔와 동시에 남다른 기록을 써내리며 차세대 대표 K팝 걸그룹의 등장을 알리고 있다. 지난 1일 데뷔한 아이브는 스]]></content>
     </entry>
 </feed>
