@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-12T13:25:56.337Z</updated>
+    <updated>2021-12-12T14:20:25.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일요일 저녁 발표했는데, 곧장 1위…비오 'Counting Stars', 파란 일으켰다]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003561994</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003561994"/>
+        <updated>2021-12-12T14:20:10.890Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 이승록 기자] 래퍼 비오(BE'O, 본명 유찬욱·21)가 파란을 일으켰다. 비오가 12일 발표한 노래 'Counting Stars'가 멜론을 비롯해 지니, 벅스 등 주요 음원차트에서 이날 1위를 석권]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[퍼플키스, 데뷔 첫 윈터송 'My My' 콘셉트 포토 공개..러블리 비주얼]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003012249</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003012215"/>
         <updated>2021-12-12T06:26:18.339Z</updated>
         <content type="html"><![CDATA[데뷔 앨범 초동 15만장, 일주일 만에 첫 음악방송 1위. 미국 빌보드와 스포티파이 차트 진입. 신인 그룹 아이브(IVE, 안유진 가을 레이 장원영 리즈 이서)의 기세가 심상치 않다. 데뷔와 동시에 남다른 기록을 써]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT, 2021년 완벽하게 마무리할 정규 3집 'Universe' [★FOCUS]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003012214</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003012214"/>
-        <updated>2021-12-12T06:26:18.340Z</updated>
-        <content type="html"><![CDATA[그룹 NCT가 2021년을 완벽하게 마무리할 정규 3집으로 돌아온다. NCT는 14일 각종 온라인 음원사이트를 통해 정규 3집 '유니버스(Universe)'를 발매한다. '유니버스'에는 더블 타이틀 곡 'Univer]]></content>
     </entry>
 </feed>
