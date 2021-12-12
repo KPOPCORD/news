@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-12T03:22:32.268Z</updated>
+    <updated>2021-12-12T04:27:52.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“디카프리오 117억 대저택 구입”, 침실·화장실 각 5개씩+수영장 “럭셔리”[해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003561920</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003561920"/>
+        <updated>2021-12-12T04:27:51.526Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 레오나르도 디카프리오(47)가 말리부 부동산을 매각한지 몇 주 만에 비버리힐스에 있는 저택은 990만 달러(약 117억원)에 구입했다고 ‘더트’가 12일(현지시간) 보도했다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[티파니 영 '파격 시스루 패션' [MK화보]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000837344</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000837242"/>
         <updated>2021-12-11T08:24:56.257Z</updated>
         <content type="html"><![CDATA[티파니 영이 11일 오후 경기도 파주 CJENM 스튜디오에서 열린 2021 엠넷 아시안 뮤직 어워즈(MAMA) 레드카펫에 참석하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티파니 영 '섹시한 미소' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000837241</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000837241"/>
-        <updated>2021-12-11T08:24:56.257Z</updated>
-        <content type="html"><![CDATA[티파니가 11일 오후 경기도 파주 CJENM 스튜디오에서 열린 2021 엠넷 아시안 뮤직 어워즈(MAMA) 레드카펫에 참석하고 있다.]]></content>
     </entry>
 </feed>
