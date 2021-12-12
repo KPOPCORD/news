@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-12T09:22:07.354Z</updated>
+    <updated>2021-12-12T10:22:59.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“기적이 벌어졌다…워너원이 다시 뭉치다니” [스경X초점]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000780476</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000780476"/>
+        <updated>2021-12-12T10:22:45.631Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] “기적 같은 일이 벌어졌다” 바라지만 이뤄지지 않을 것 같은 일, 그야말로 ‘꿈’ 같은 일이 벌어졌다. 해체됐던 워너원이 한 무대에 선 것이다. 지난 11일 오후 경기도 파주시 CJ ENM 스튜디오센터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우원재, 김수현의 ‘어느 날’ OST 참여... ‘백지’ 발매[공식]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001202066</id>
+        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001202066"/>
+        <updated>2021-12-12T10:22:45.631Z</updated>
+        <content type="html"><![CDATA[우원재가 쿠팡 플레이 오리지널 드라마 '어느 날' OST의 세 번째 주자로 나섰다. 우원재가 참여한 '어느 날'의 세 번째 OST '백지'가 오늘 12일 오후 6시 각종 음원사이트를 통해 발매된다. 이 곡은 앞서 ']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘인기가요’ 안예은, 독보적 음악 세계관…‘소식’으로 무대 장악]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000837398</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001384395"/>
         <updated>2021-12-12T06:26:18.348Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 임영웅이 멜론차트에서 남다른 존재감을 뽐내고 있다. 11일 오전 8시 멜론차트에 따르면, 임영웅이 부른 노래들이 멜론차트 TOP10에 다수 진입했다. 1위 ‘사랑은 늘 도망가’, 4위 ‘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세븐틴, 日 장악… '아이노치카라'로 오리콘 데일리 싱글 랭킹 4일 연속 1위]]></title>
-        <id>https://entertain.naver.com/now/read?oid=052&amp;aid=0001676163</id>
-        <link href="https://entertain.naver.com/now/read?oid=052&amp;aid=0001676163"/>
-        <updated>2021-12-12T06:26:18.349Z</updated>
-        <content type="html"><![CDATA[그룹 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)이 일본 스페셜 싱글 '아이노치카라'로 오리콘 데일리 싱글 랭킹에서 나흘째 정상을 지키고 있다. 지난 11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이브 ‘일레븐’ MV 비하인드 공개…반짝이는 케미]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000780429</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000780429"/>
-        <updated>2021-12-12T06:26:18.350Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 그룹 아이브(IVE)가 ‘완성형 그룹’의 진가를 발휘했다. 아이브는 지난 11일 사회적관계망서비스(SNS)를 통해 첫 번째 싱글 앨범 ‘ELEVEN’(일레븐) 뮤직비디오 촬영 비하인드 영상을 공개했다.]]></content>
     </entry>
 </feed>

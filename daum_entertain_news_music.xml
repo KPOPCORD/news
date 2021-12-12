@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-12T09:22:07.361Z</updated>
+    <updated>2021-12-12T10:22:59.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["기적이 벌어졌다..워너원이 다시 뭉치다니"]]></title>
+        <id>https://entertain.v.daum.net/v/20211212190111566</id>
+        <link href="https://entertain.v.daum.net/v/20211212190111566"/>
+        <updated>2021-12-12T10:22:28.315Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] “기적 같은 일이 벌어졌다” 바라지만 이뤄지지 않을 것 같은 일, 그야말로 ‘꿈’ 같은 일이 벌어졌다. 해체됐던 워너원이 한 무대에 선 것이다. 지난 11일 오후 경기도 파주시 CJ ENM 스튜디오센터에서 ‘2021 엠넷 아시안 뮤직 어워즈(2021 Mnet ASIAN MUSIC AWARDS, 이하 2021 MAMA)’가 열렸다. 이날  3]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우원재, 김수현의 '어느 날' OST 참여.. '백지' 발매]]></title>
+        <id>https://entertain.v.daum.net/v/20211212185000479</id>
+        <link href="https://entertain.v.daum.net/v/20211212185000479"/>
+        <updated>2021-12-12T10:22:28.316Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 우원재가 쿠팡 플레이 오리지널 드라마 '어느 날' OST의 세 번째 주자로 나섰다. 우원재가 참여한 '어느 날'의 세 번째 OST '백지'가 오늘 12일 오후 6시 각종 음원사이트를 통해 발매된다. 이 곡은 앞서 '어느 날'의 드라마 티저에 삽입되어 강렬한 존재감을 입증한 바 있다. '백지'는 다크하고 몽롱한 비트 위에 오묘한 신]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뿔난 中팬들, 한한령 6년만 EXO 출연예고한 TMEA 일방취소에 분노]]></title>
         <id>https://entertain.v.daum.net/v/20211212180810020</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211212143843438"/>
         <updated>2021-12-12T06:25:56.810Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 양유진 기자] '2021 MAMA(2021 Mnet ASIAN MUSIC AWARDS)'가 대한민국 가요계 우먼 파워를 제대로 보여줬다. 11일 '2021 MAMA'가 전세계 생중계된 가운데 MAMA 최초 여성 호스트 이효리, K-POP 레전드 뮤지션 엄정화, 대한민국 춤 열풍을 몰고 온 '스트릿 우먼 파이터'(이하 '스우파')의 8개 크]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이브, 러블리 매력 한도 초과..'콘셉트 소화력甲' 입증한 '일레븐' 뮤비 비하인드 오픈]]></title>
-        <id>https://entertain.v.daum.net/v/20211212143032346</id>
-        <link href="https://entertain.v.daum.net/v/20211212143032346"/>
-        <updated>2021-12-12T06:25:56.812Z</updated>
-        <content type="html"><![CDATA[[OSEN=이승훈 기자] 그룹 아이브(IVE)가 다채로운 매력으로 ‘완성형 그룹’의 진가를 발휘했다.&nbsp; 아이브(유진, 가을, 레이, 원영, 리즈, 이서)는 지난 11일 공식 유튜브 채널을 통해 첫 번째 싱글 ‘ELEVEN(일레븐)’ 뮤직비디오 촬영 비하인드 영상을 공개했다.&nbsp; 공개된 영상 속 아이브는 개성 있는 프린팅이 돋보이는 의상을 착장하고 뮤직비디오]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[루시·송민호·보이스퍼·하하·에이티즈·FT아일랜드]]></title>
-        <id>https://entertain.v.daum.net/v/20211212141207034</id>
-        <link href="https://entertain.v.daum.net/v/20211212141207034"/>
-        <updated>2021-12-12T05:21:04.429Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 가요팀] 12월 둘째주(12월 6일~12일)에는 반가운 얼굴들이 대거 컴백했다. 하하가 10년 만에 솔로 앨범을 발매했으며, FT아일랜드가 전역 후 완전체로 모습을 드러냈다. 또한 밴드 루시, 래퍼 송민호, 보이스퍼가 신보를 발매했다. 에이티즈도 첫 리패키지 앨범으로 돌아왔다. ◆ 루시(LUCY) - '블루(BLUE)' (발매일 12월 7]]></content>
     </entry>
 </feed>
