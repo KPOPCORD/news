@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-12T05:21:36.684Z</updated>
+    <updated>2021-12-12T06:26:36.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['부동산 큰손' 디카프리오, 또 집 샀다…117억원 LA 대저택]]></title>
+        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004682238</id>
+        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004682238"/>
+        <updated>2021-12-12T06:26:35.392Z</updated>
+        <content type="html"><![CDATA[할리우드 배우 레오나르도 디카프리오가 캘리포니아주 로스앤젤레스(LA) 비버리힐스에 있는 저택을 990만달러(한화 약 117억원)에 구입했다. LA 인근 말리부 해변에 위치한 165억원대 부동산을 매각한지 몇 주 만이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“디카프리오 117억 대저택 구입”, 침실·화장실 각 5개씩+수영장 “럭셔리”[해외이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003561920</id>
@@ -170,13 +177,6 @@
         <title type="html"><![CDATA[티파니 '섹시한 뒤태' [MK포토]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000837243</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000837243"/>
-        <updated>2021-12-11T08:24:56.257Z</updated>
-        <content type="html"><![CDATA[티파니 영이 11일 오후 경기도 파주 CJENM 스튜디오에서 열린 2021 엠넷 아시안 뮤직 어워즈(MAMA) 레드카펫에 참석하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티파니 영 '파격 드레스' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000837242</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000837242"/>
         <updated>2021-12-11T08:24:56.257Z</updated>
         <content type="html"><![CDATA[티파니 영이 11일 오후 경기도 파주 CJENM 스튜디오에서 열린 2021 엠넷 아시안 뮤직 어워즈(MAMA) 레드카펫에 참석하고 있다.]]></content>
     </entry>
