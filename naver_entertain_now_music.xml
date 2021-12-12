@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-12T11:18:09.415Z</updated>
+    <updated>2021-12-12T12:33:38.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[퍼플키스, 데뷔 첫 윈터송 'My My' 콘셉트 포토 공개..러블리 비주얼]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003012249</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003012249"/>
+        <updated>2021-12-12T12:33:23.922Z</updated>
+        <content type="html"><![CDATA[그룹 퍼플키스(PURPLE KISS, 박지은·나고은·도시·이레·유키·채인·수안)가 데뷔 후 처음으로 윈터송을 발표한다. 퍼플키스는 12일 공식 SNS를 통해 디지털 싱글 'My My'의 콘셉트 포토를 선보였다. 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[T1419, ‘무궁화 꽃이 피었습니다’로 화려한 퍼포먼스+안정적 라이브(인기가요)]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000837410</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003012214"/>
         <updated>2021-12-12T06:26:18.340Z</updated>
         <content type="html"><![CDATA[그룹 NCT가 2021년을 완벽하게 마무리할 정규 3집으로 돌아온다. NCT는 14일 각종 온라인 음원사이트를 통해 정규 3집 '유니버스(Universe)'를 발매한다. '유니버스'에는 더블 타이틀 곡 'Univer]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팝업★]방탄소년단, 'MAMA' 9관왕 소감 "우리 아미 상 받았네..3월에 꼭 보길"(종합)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003508903</id>
-        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003508903"/>
-        <updated>2021-12-12T06:26:18.342Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=박서연 기자]그룹 방탄소년단(BTS, RM 진 슈가 제이홉 지민 뷔 정국)이 '2021 MAMA' 9관왕 소감을 밝혔다. 지난 11일 '2021 엠넷 아시안 뮤직 어워드'(2021 Mnet ASIAN]]></content>
     </entry>
 </feed>
