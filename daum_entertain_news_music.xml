@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-12T02:37:51.211Z</updated>
+    <updated>2021-12-12T03:22:32.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단 4관왕→최초 이효리..'MAMA'가 'MAMA' 했다]]></title>
+        <id>https://entertain.v.daum.net/v/20211212115609296</id>
+        <link href="https://entertain.v.daum.net/v/20211212115609296"/>
+        <updated>2021-12-12T03:22:02.078Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] World’s No.1 K-POP&nbsp;음악 시상식&nbsp;‘2021 Mnet ASIAN MUSIC AWARDS (2021&nbsp;MAMA)’가 지역과 문화를 넘어 전세계 음악 팬들을&nbsp;K-POP이라는 언어 안에서 교감하게 만들며 성황리에 막을 내렸다. ‘2021&nbsp;MAMA’는 역대급 무대 스케일,&nbsp;첨단 공연 기술,&nbsp;아티스트들의 놀라운 퍼포먼스가 하나돼&nbsp;]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전 세계 달군 '2021 MAMA'..방탄소년단 대상 4관왕]]></title>
+        <id>https://entertain.v.daum.net/v/20211212115451278</id>
+        <link href="https://entertain.v.daum.net/v/20211212115451278"/>
+        <updated>2021-12-12T03:22:02.080Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 양유진 기자] ‘World’s No.1 K-POP 음악 시상식 ‘2021 Mnet ASIAN MUSIC AWARDS (2021 MAMA)’가 지역과 문화를 넘어 전세계 음악 팬들을 K-POP이라는 언어 안에서 교감하게 만들며 성황리에 막을 내렸다. ‘2021 MAMA’는 역대급 무대 스케일, 첨단 공연 기술, 아티스트들의 놀라운 퍼포먼스가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원어스 'DEVIL' 美 타임 '2021 베스트 K팝 앨범' 선정]]></title>
         <id>https://entertain.v.daum.net/v/20211212113639082</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211212102156984"/>
         <updated>2021-12-12T02:37:11.414Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 그룹 블랙핑크의 ‘STAY’ 뮤직비디오가 유튜브 3억뷰를 돌파하며 통산 16번째 3억뷰를 달성했다.12일 YG엔터테인먼트에 따르면 블랙핑크의 ‘STAY’ 뮤직비디오는 이날 오전 0시 46분께 유튜브 조회수 3억 회를 넘어섰다. ‘STAY’는 지난 2016년 11월 1일 발매된 싱글 앨범 ‘SQUARE TWO’의 더블 타이틀로 공개된 지 약]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['보이스킹' 리누, OST로 드러낸 올라운더 면모]]></title>
-        <id>https://entertain.v.daum.net/v/20211212101519880</id>
-        <link href="https://entertain.v.daum.net/v/20211212101519880"/>
-        <updated>2021-12-12T02:37:11.415Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김현식 기자] “‘올라운더’ 리누로 기억해주세요.” 드라마 OST로 또 다른 색을 드러낸 ‘보이스킹’ 우승자 리누의 말이다. 리누는 지난 6일 각종 음원사이트를 통해 공개된 KBS1 일일드라마 ‘국가대표 와이프’ OST ‘별이될래’ 가창을 맡아 시원시원한 목소리를 들려줬다. 음원 공개 후 이데일리와 서면 인터뷰를 진행한 그는 “좋은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에스파 부르는 'Dreams Come True' 어떨까..보아 프로듀싱]]></title>
-        <id>https://entertain.v.daum.net/v/20211212101358846</id>
-        <link href="https://entertain.v.daum.net/v/20211212101358846"/>
-        <updated>2021-12-12T02:37:11.416Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 에스파가 리마스터링 프로젝트를 통해 S.E.S.의 히트곡 ‘Dreams Come True’를 새롭게 선보인다. 에스파의 ‘Dreams Come True’는 12월 20일 오후 6시 플로, 멜론, 지니, 아이튠즈, 애플뮤직, 스포티파이, QQ뮤직, 쿠거우뮤직, 쿠워뮤직 등 각종 음악 사이트에서 공개된다. SM은 유튜브와 함께 지난]]></content>
     </entry>
 </feed>

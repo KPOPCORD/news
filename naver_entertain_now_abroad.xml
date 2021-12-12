@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-12T02:37:51.201Z</updated>
+    <updated>2021-12-12T03:22:32.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[티파니 영 '파격 시스루 패션' [MK화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000837344</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000837344"/>
+        <updated>2021-12-12T03:22:31.587Z</updated>
+        <content type="html"><![CDATA[소녀시대 티파니 영이 11일 오후 경기도 파주 CJENM 스튜디오에서 열린 2021 엠넷 아시안 뮤직 어워즈(MAMA) 레드카펫에 참석하고 있다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이효리 '독보적 카리스마' [MK화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000837342</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000837342"/>
+        <updated>2021-12-12T03:22:31.589Z</updated>
+        <content type="html"><![CDATA[MAMA 최초 여성 호스트 이효리가 1일 오후 경기도 파주 CJENM 스튜디오에서 열린 2021 엠넷 아시안 뮤직 어워즈(MAMA) 레드카펫에 참석하고 있다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[드류 베리모어, 파격적인 눈가 화장…못 알아볼 뻔한 근황 [N해외연예]]]></title>
         <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005779010</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000837241"/>
         <updated>2021-12-11T08:24:56.257Z</updated>
         <content type="html"><![CDATA[티파니가 11일 오후 경기도 파주 CJENM 스튜디오에서 열린 2021 엠넷 아시안 뮤직 어워즈(MAMA) 레드카펫에 참석하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티파니 '시원한 미소' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000837240</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000837240"/>
-        <updated>2021-12-11T08:24:56.258Z</updated>
-        <content type="html"><![CDATA[티파니가 11일 오후 경기도 파주 CJENM 스튜디오에서 열린 2021 엠넷 아시안 뮤직 어워즈(MAMA) 레드카펫에 참석하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김서형 '아름다운 블랙' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000837238</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000837238"/>
-        <updated>2021-12-11T08:24:56.258Z</updated>
-        <content type="html"><![CDATA[김서형이 11일 오후 경기도 파주 CJENM 스튜디오에서 열린 2021 엠넷 아시안 뮤직 어워즈(MAMA) 레드카펫에 참석하고 있다.]]></content>
     </entry>
 </feed>
