@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-12T08:27:01.626Z</updated>
+    <updated>2021-12-12T09:22:07.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뿔난 中팬들, 한한령 6년만 EXO 출연예고한 TMEA 일방취소에 분노]]></title>
+        <id>https://entertain.v.daum.net/v/20211212180810020</id>
+        <link href="https://entertain.v.daum.net/v/20211212180810020"/>
+        <updated>2021-12-12T09:21:35.866Z</updated>
+        <content type="html"><![CDATA[중국 TMEA 2021 예고영상에 등장했던 엑소. 출처|웨이보          중국 TMEA 2021 예고영상에 등장했던 엑소. 출처|웨이보    [스포츠서울 | 박효실기자] 중국 텐센트뮤직엔터테인먼트그룹(TME)이 6년만에 한국 가수 중 최초로 그룹 엑소(EXO)의 시상식 출연을 광고해놓고, 돌연 출연을 취소해 논란이 되고 있다. 2016년]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가요계 '우먼파워' 빛난 '2021 MAMA']]></title>
         <id>https://entertain.v.daum.net/v/20211212171302036</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211212141207034"/>
         <updated>2021-12-12T05:21:04.429Z</updated>
         <content type="html"><![CDATA[[티브이데일리 가요팀] 12월 둘째주(12월 6일~12일)에는 반가운 얼굴들이 대거 컴백했다. 하하가 10년 만에 솔로 앨범을 발매했으며, FT아일랜드가 전역 후 완전체로 모습을 드러냈다. 또한 밴드 루시, 래퍼 송민호, 보이스퍼가 신보를 발매했다. 에이티즈도 첫 리패키지 앨범으로 돌아왔다. ◆ 루시(LUCY) - '블루(BLUE)' (발매일 12월 7]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['불후' 스테파니, 범접 불가 퍼포먼스..토요일 밤 홀린 역대급무대]]></title>
-        <id>https://entertain.v.daum.net/v/20211212140508916</id>
-        <link href="https://entertain.v.daum.net/v/20211212140508916"/>
-        <updated>2021-12-12T05:21:04.431Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 윤상근 기자] /사진=KBS 2TV '불후의 명곡' 방송화면 하늘이 내린 춤 '천무(天舞)' 스테파니가 범접 불가한 퍼포먼스로 토요일 밤을 홀렸다. 지난 11일 방송된 KBS 2TV '불후의 명곡-전설을 노래하다'에서는 대한민국 대표 가수와 케이팝, 보깅, 크럼프, 발레 등 다양한 장르의 댄서가 함께 무대를 꾸미는 '불후와 함께 춤을' 특집이 펼]]></content>
     </entry>
 </feed>
