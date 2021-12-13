@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 06:26:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 07:22:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['야생돌', 파이널 생방송 아시아 동시 생중계…최종 7인 선정]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333244</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333244</guid>
+            <pubDate>Mon, 13 Dec 2021 07:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333244">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/13/4df42aae-e6a2-4eeb-9342-1d7d83f2af7d.jpg" alt="'야생돌', 파이널 생방송 아시아 동시 생중계…최종 7인 선정">        <div class="text-box">            <p class="summary">'야생돌', 파이널 생방송 아시아 동시 생중계…최종 7인 선정</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/13/4df42aae-e6a2-4eeb-9342-1d7d83f2af7d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[송민호 "팬들의 디테일한 감상평 힘 돼, '탕!♡'은 '신서유기'에서 영감 받은 것 아냐" (정희)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/333234</link>
@@ -86,14 +94,6 @@
             <pubDate>Sun, 12 Dec 2021 03:21:56 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333158">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/12/OOrj4Tq8vk2D637749069341303401.jpg" alt="세븐틴, 日 스페셜 싱글 '아이노치카라' 오리콘 데일리 싱글 랭킹 4일 연속 1위">        <div class="text-box">            <p class="summary">세븐틴, 日 스페셜 싱글 '아이노치카라' 오리콘 데일리 싱글 랭킹 4일 연속 1위</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/12/OOrj4Tq8vk2D637749069341303401.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크, 'STAY' 뮤직비디오 3억 뷰 돌파...통산 16번째 3억 뷰]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333156</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333156</guid>
-            <pubDate>Sun, 12 Dec 2021 03:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333156">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/12/aNTkYzkGRHVq637749062646541051.jpg" alt="블랙핑크, 'STAY' 뮤직비디오 3억 뷰 돌파...통산 16번째 3억 뷰">        <div class="text-box">            <p class="summary">블랙핑크, 'STAY' 뮤직비디오 3억 뷰 돌파...통산 16번째 3억 뷰</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/12/aNTkYzkGRHVq637749062646541051.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
