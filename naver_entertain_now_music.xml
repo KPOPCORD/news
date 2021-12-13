@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-13T12:35:03.304Z</updated>
+    <updated>2021-12-13T13:28:30.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이찬원, 모교 영남대서 열리는 ‘삼성현 문화축제’ 출격…‘또의환향’]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001384903</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001384903"/>
+        <updated>2021-12-13T13:28:14.390Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 이찬원이 초대가수로 모교인 영남대학교를 찾는다. 이번 공연은 ‘제1회 천민만락 통통 삼성현 문화축제’의 일환으로, 경북 경산 제석사가 주최하고 BBS 대구불교방송이 주관한다. 이는 경산에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[팻분에서 장고 라인하트까지, 재즈 황금시대 크리스마스 캐롤 15선 컬렉션 ‘크리스마스 재즈 II’ 출시]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000780706</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010886876"/>
         <updated>2021-12-13T09:24:07.648Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]김예지 인턴 기자 = 정채연의 한복 패션이 눈길을 끌고 있다. KBS2 월화드라마 '연모'를 통해 데뷔 후 첫 사극에 도전한 정채연은 극 중 노학수(정재성 분)의 늦둥이 막내딸로 귀하게 자란 '맑은 영]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이효리 "이상순, 내 전남친들 안보려면 뉴스나 봐야 한다고" 폭소]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003012487</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003012487"/>
-        <updated>2021-12-13T09:24:07.655Z</updated>
-        <content type="html"><![CDATA[가수 커플 이효리 이상순 부부가 이효리의 전 남자친구와 관련한 재미있는(?) 비하인드를 전했다. 이효리 이상순 부부는 지난 11일 넷플릭스를 통해 비와 노홍철이 출연하는 여행 버라이어티 '먹보와 털보'에 모습을 드러]]></content>
     </entry>
 </feed>
