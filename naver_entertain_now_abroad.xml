@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-13T20:22:56.793Z</updated>
+    <updated>2021-12-13T21:19:49.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“식인 발언·성폭행·불륜” 아미 해머 재활원 퇴소, ‘콜바넴’ 배우가 어쩌다가…[해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003562271</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003562271"/>
+        <updated>2021-12-13T21:19:48.523Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘콜 미 바이 유어 네임’으로 한국에서도 유명한 아미 해머가 식인 발언, 성폭행, 불륜 등으로 논란을 일으킨 가운데 최근 재활원에서 퇴소했다고 12일(현지시간) ‘더 선’이 보도했다. 한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["어떻게 키스했냐더라"…톰 홀랜드, ♥젠데이아와 키 차이 언급]]></title>
         <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004682838</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000521844"/>
         <updated>2021-12-13T06:26:12.482Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 제니퍼 로페즈, 벤 애플렉이 데이트를 즐겼다. 스플래쉬닷컴은 12월 11일(현지시간) LA에서 포착된 제니퍼 로페즈, 벤 애플렉 근황을 공개했다. 제니퍼 로페즈와 벤 애플랙은 이날 크리스마스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드라마 '사랑의 꽈배기' 배우들 [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000837528</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000837528"/>
-        <updated>2021-12-13T04:29:27.766Z</updated>
-        <content type="html"><![CDATA[출연진들이 13일 오전 온라인 생중계로 진행된 KBS 2TV 새 저녁 일일드라마 ’사랑의 꽈배기’ 온라인 제작발표회에 참석해 포토타임을 갖고 있다. 사진=KBS]]></content>
     </entry>
 </feed>
