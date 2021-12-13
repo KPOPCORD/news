@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 01:09:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 02:38:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS, “일곱 명이 집중되는 무대 만들고 싶었다”]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333224</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333224</guid>
+            <pubDate>Mon, 13 Dec 2021 02:37:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333224">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/13/08e80970-b940-430b-8c7d-ed14fbdd3d75.jpg" alt="BTS, “일곱 명이 집중되는 무대 만들고 싶었다”">        <div class="text-box">            <p class="summary">BTS, “일곱 명이 집중되는 무대 만들고 싶었다”</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/13/08e80970-b940-430b-8c7d-ed14fbdd3d75.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['민효린♥' 태양, 득남 후 일상? '애교 만발' [인스타]]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/333217</link>
@@ -86,14 +94,6 @@
             <pubDate>Sun, 12 Dec 2021 02:37:04 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333151">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/12/Ja8RzFmp6qeX637749030560656475.jpg" alt="투모로우바이투게더, ‘MAMA’서 ‘월드와이드 팬스 초이스’ 수상 " 진짜="" 주인공은="" moa""="">        <div class="text-box">            <p class="summary">투모로우바이투게더, ‘MAMA’서 ‘월드와이드 팬스 초이스’ 수상 "진짜 주인공은 MOA"</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/12/Ja8RzFmp6qeX637749030560656475.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하니, 러블리+섹시 공존하는 명품 비주얼 [인스타]]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333044</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333044</guid>
-            <pubDate>Sat, 11 Dec 2021 23:22:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333044">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/11/62oF0IlNNxrR637748314060391580.jpg" alt="하니, 러블리+섹시 공존하는 명품 비주얼 [인스타] ">        <div class="text-box">            <p class="summary">하니, 러블리+섹시 공존하는 명품 비주얼 [인스타] </p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/11/62oF0IlNNxrR637748314060391580.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
