@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-13T04:29:28.465Z</updated>
+    <updated>2021-12-13T05:20:43.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김용준x김성규, SG워너비와 인피니트가 뭉쳤다..男男 크리스마스 듀엣곡]]></title>
+        <id>https://entertain.v.daum.net/v/20211213135356871</id>
+        <link href="https://entertain.v.daum.net/v/20211213135356871"/>
+        <updated>2021-12-13T05:20:13.057Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 가수 김용준과 김성규가 겨울의 설렘을 담은 듀엣곡을 들려준다. 김용준과 김성규는 13일 오후 6시 각종 음원 사이트를 통해 크리스마스 시즌송 '눈이 내리면'을 발매한다. '눈이 내리면'은 따뜻한 겨울 느낌의 패드 사운드와 에너제틱한 기타 사운드가 더해진 록 장르의 노래다. 겨울을 녹이는 따뜻함과 기분 좋은 경쾌함을 모두 느낄 수 있]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임영웅, 유튜브 주간 인기 아티스트 5위 등극..아이돌 못지않은 인기]]></title>
+        <id>https://entertain.v.daum.net/v/20211213134924731</id>
+        <link href="https://entertain.v.daum.net/v/20211213134924731"/>
+        <updated>2021-12-13T05:20:13.057Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박은해 기자] 가수 임영웅이 유튜브 주간 인기 아티스트 TOP5를 기록했다. 임영웅은 12월 3일부터 12월 9일까지 집계 결과로 발표한 유튜브 인기 아티스트 차트 5위를 차지했다. 임영웅은 아이유, 방탄소년단, 트와이스, 에스파 등 글로벌 인기 아이돌 못지않은 인기를 자랑하고 있다. 앞서 임영웅은 지난 12월 2일 ‘2021 Asia Artis]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[블랙핑크, '포에버 영' 안무영상 2억뷰 돌파]]></title>
         <id>https://entertain.v.daum.net/v/20211213131807892</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211213112250628"/>
         <updated>2021-12-13T02:37:35.836Z</updated>
         <content type="html"><![CDATA[[OSEN=이승훈 기자] 가수 정승환이 ‘겨울 감성’의 진가를 발휘한다. 안테나는 지난 10일 공식 SNS를 통해 오는 16일 오후 6시 발매되는 정승환의 DS ‘별 (Dear)’ 보이스 트레일러를 공개하며 컴백 기대감을 고조시켰다. 공개된 트레일러 영상은 햇살이 은은하게 비추는 사진관 속 정승환의 모습과 감미로운 피아노 선율이 어우러진 영상으로, 정승환의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['라디오쇼' 강민경 "다비치 장수 비결? 서로 비밀 없이 솔직한 편"]]></title>
-        <id>https://entertain.v.daum.net/v/20211213112206608</id>
-        <link href="https://entertain.v.daum.net/v/20211213112206608"/>
-        <updated>2021-12-13T02:37:35.838Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 박상후 기자] '라디오쇼'에서 그룹 다비치 강민경이 장수 활동 비결을 밝혔다. 13일 오전 방송된 KBS 쿨FM '박명수의 라디오쇼'(이하 '라디오쇼')의 '전설의 고수' 코너에는 다비치(이해리, 강민경)가 게스트로 출연해 입담을 뽐냈다. 이날 강민경은 14년 동안 장수 그룹으로 활동한 비결에 대해 "하고 싶은 이야기를 가감 없이 하는 편]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단 진, 탄생 10600일 최애돌 기부요정 등극]]></title>
-        <id>https://entertain.v.daum.net/v/20211213111631326</id>
-        <link href="https://entertain.v.daum.net/v/20211213111631326"/>
-        <updated>2021-12-13T02:37:35.840Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 윤상근 기자] /사진제공=최애돌 톱 아이돌그룹 방탄소년단(BTS, RM 진 지민 제이홉 슈가 뷔 정국) 멤버 진이 아이돌 순위 서비스 최애돌 기부요정으로 등극했다. 진은 지난 11일 5767만 6370표를 받아 제254대 기부요정에 이름을 올렸다. 진이 태어난 지 10600일째 되는 날 팬덤 아미가 일찍이 힘을 모았다. 투표 시작 후 11일 하루]]></content>
     </entry>
 </feed>
