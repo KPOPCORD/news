@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-12-13T14:21:23.699Z</updated>
+    <updated>2021-12-13T15:23:30.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오겜', 韓 드라마 최초 美 골든글로브 3개상 후보…이정재·오영수까지(종합)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005781888</id>
+        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005781888"/>
+        <updated>2021-12-13T15:23:20.723Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 윤효정 기자 = 엔터테인먼트 스트리밍 서비스 플랫폼 넷플릭스 오리지널 시리즈 '오징어 게임'(감독 황동혁)이 미국 골든 글로브 시상식으로 향한다. '오징어 게임'은 13일 오후 11시15분(한국시간)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하트 14번 '영철 사과글'…누리꾼 분노 "약 올리냐"[TF확대경]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000121416</id>
+        <link href="https://entertain.naver.com/now/read?oid=629&amp;aid=0000121416"/>
+        <updated>2021-12-13T15:23:20.730Z</updated>
+        <content type="html"><![CDATA['나는 솔로(SOLO)' 영철 시청자 사과…누리꾼 "출연진에 먼저해라" '나는 솔로(SOLO)' 4기로 출연 중인 영철이 최근 일으킨 언행 논란에 대해 시청자들에게 사과했으나 싸늘한 반응을 맞고 있다. 13일 오후]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[심지호 "결혼 9년 차인데 소개팅 제안→아내와 이별 1년 후 재결합" ('동상이몽2')[종합]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003812160</id>
+        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003812160"/>
+        <updated>2021-12-13T15:23:20.733Z</updated>
+        <content type="html"><![CDATA[[스포츠조선닷컴 이우주 기자] '동상이몽2' 심지호가 아내와의 러브스토리를 밝혔다. 13일 방송된 SBS 예능프로그램 '동상이몽2-너는 내 운명'에서는 배우 심지호가 스페셜 MC로 출연했다. 심지호는 두 아이를 두고]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[속보] '오징어게임'·이정재 美 '골든글로브' 후보 지명]]></title>
+        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005781884</id>
+        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005781884"/>
+        <updated>2021-12-13T15:23:20.734Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 윤효정 기자 = '오징어 게임'과 배우 이정재가 골든글로브 시상식 후보로 지명됐다. 엔터테인먼트 스트리밍 서비스 플랫폼 넷플릭스 오리지널 시리즈 '오징어 게임'(감독 황동혁)과 이정재는 13일 오후]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한소희, 극과 극 매력 발산..'예쁨 한도 초과' 미모[스타IN★]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003012525</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003012525"/>
+        <updated>2021-12-13T15:23:20.735Z</updated>
+        <content type="html"><![CDATA[배우 한소희가 극과 극의 매력을 발산했다. 한소희는 13일 자신의 인스타그램에 두 장의 사진을 게재했다. 공개된 사진에는 한소희의 '예쁨 한도 초과' 미모가 고스란히 담겼다. 청재킷을 입고 있는 모습에서는 고혹적인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['43호' 김현성 "'비운의 가수' 꼬리표 떼고 싶어 도전"...규현 "우상이었다" 눈물 ('싱어게인2') [종합]]]></title>
         <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003812157</id>
@@ -144,40 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003812115"/>
         <updated>2021-12-13T11:19:11.718Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 정안지 기자] 블랙핑크 로제가 배우 김고은과 데이트를 즐겼다. 로제는 13일 자신의 인스타그램을 통해 "바라던 따루뚜"라면서 사진을 게재했다. 사진 속에는 데이트 중인 로제와 김고은의 모습이 담겨있다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김재중, 헬스장에서 일상 공개 "팔 근육 과시"[스타IN★]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003012504</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003012504"/>
-        <updated>2021-12-13T11:19:11.719Z</updated>
-        <content type="html"><![CDATA[가수이자 배우인 김재중이 탄탄한 몸매를 자랑했다. 13일 김재중은 자신의 인스타그램 스토리를 통해 사진과 영상을 게재했다. 사진과 영상 속에는 김재중이 헬스장에서 회색 나시티를 입고 덤벨을 들고 있는 모습이 담겨있다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이상화♥' 강남, 3수 끝에 韓귀화 필기 합격 "면접 가즈아"[스타IN★]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003012505</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003012505"/>
-        <updated>2021-12-13T11:19:11.720Z</updated>
-        <content type="html"><![CDATA[일본 출신 가수 겸 방송인 강남이 한국 귀화 필기시험 합격 소식을 전했다. 강남은 13일 자신의 인스타그램에 "귀화시험 붙었음요! 가즈아아아아아~! 이제 면접 가즈아으으아아!"라는 글과 사진을 게재했다. 강남이 공개]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["잠시만 안녕"… 배우 공명, '14일 입대']]></title>
-        <id>https://entertain.naver.com/now/read?oid=417&amp;aid=0000764116</id>
-        <link href="https://entertain.naver.com/now/read?oid=417&amp;aid=0000764116"/>
-        <updated>2021-12-13T11:19:11.721Z</updated>
-        <content type="html"><![CDATA[배우 공명이 국방의 의무를 다하기 위해 잠시 팬들 곁을 떠난다. 공명은 오는 14일 입대한다. 공명의 소속사 사람엔터테인먼트(이하 사람엔터)는 앞서 지난달 9일 "당사 소속 배우 공명이 현역 입대하게 됐다"고 전했다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유재석 코로나19 확진→녹화취소·SBS 연예대상 불참 (종합) [DA:이슈]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000950818</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000950818"/>
-        <updated>2021-12-13T11:19:11.722Z</updated>
-        <content type="html"><![CDATA[개그맨 유재석이 코로나19(코로나바이러스감염증-19, COVID-19) 확진(양성) 판정을 받으면서 각 프로그램 제작진이 입장을 밝혔다. 먼저 소속사 안테나는 13일 오후 공식입장문을 통해 유재석 코로나19 확진 소]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['정경호♥' 최수영, 아끼던 목도리 잃어버리고 신났네..."좋댄다"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003812112</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003812112"/>
-        <updated>2021-12-13T11:19:11.723Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 정안지 기자] 그룹 소녀시대 멤버 겸 배우 최수영이 청초한 미모를 자랑했다. 최수영은 13일 자신의 인스타그램을 통해 "아끼던 목도리 잃어버리고 좋댄다"라면서 사진을 게재했다. 사진 속에는 외출 중인]]></content>
     </entry>
 </feed>
