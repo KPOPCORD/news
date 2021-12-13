@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-13T15:23:30.187Z</updated>
+    <updated>2021-12-13T16:32:57.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["어떻게 키스했냐더라"…톰 홀랜드, ♥젠데이아와 키 차이 언급]]></title>
+        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004682838</id>
+        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004682838"/>
+        <updated>2021-12-13T16:32:56.451Z</updated>
+        <content type="html"><![CDATA[[5㎝ 작은 톰 홀랜드 "키 차이 고정관념 어리석어"] 할리우드 배우 톰 홀랜드가 여자친구 젠데이아와의 일화를 전하며 달달한 모습을 보였다. 톰 홀랜드는 지난 11일(현지시간) 영화 '스파이더맨: 노웨이 홈'에 함께]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['억만장자♥' 미란다 커, 남편과 연말 파티?…아찔한 몸매 '감탄']]></title>
         <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004682834</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000837528"/>
         <updated>2021-12-13T04:29:27.766Z</updated>
         <content type="html"><![CDATA[출연진들이 13일 오전 온라인 생중계로 진행된 KBS 2TV 새 저녁 일일드라마 ’사랑의 꽈배기’ 온라인 제작발표회에 참석해 포토타임을 갖고 있다. 사진=KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김진엽-함은정-손성윤-장세현 '드라마에서 만나요' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000837526</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000837526"/>
-        <updated>2021-12-13T04:29:27.768Z</updated>
-        <content type="html"><![CDATA[배우 김진엽, 함은정, 손성윤, 장세현이 13일 오전 온라인 생중계로 진행된 KBS 2TV 새 저녁 일일드라마 ’사랑의 꽈배기’ 온라인 제작발표회에 참석해 포토타임을 갖고 있다. 사진=KBS]]></content>
     </entry>
 </feed>
