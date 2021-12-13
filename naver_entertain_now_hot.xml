@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-12-13T13:28:30.571Z</updated>
+    <updated>2021-12-13T14:21:23.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['43호' 김현성 "'비운의 가수' 꼬리표 떼고 싶어 도전"...규현 "우상이었다" 눈물 ('싱어게인2') [종합]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003812157</id>
+        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003812157"/>
+        <updated>2021-12-13T14:21:16.028Z</updated>
+        <content type="html"><![CDATA[[스포츠조선닷컴 정안지 기자] '싱어게인2' 연속 ALL 어게인이 시즌2 최초로 나왔다. 13일 방송된 JTBC '싱어게인 시즌 2-무명가수전'(이하 '싱어게인2')에서는 본선 1라운드 조별 생존전이 그려졌다. 이날]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤세아, 루돌프 머리띠 쓰고 필라테스 삼매경…지도자 과정 밟을 만해]]></title>
+        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003812155</id>
+        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003812155"/>
+        <updated>2021-12-13T14:21:16.032Z</updated>
+        <content type="html"><![CDATA[[스포츠조선닷컴 이우주 기자] 배우 윤세아가 필라테스 지도자가 되기 위해 열심히 운동 중이다. 윤세아는 13일 자신의 SNS를 통해 "란이와 여덟 번째 필라수업. 친구들아. 가던 길 가자. 조금 쉬어가고 조금 돌아가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김수지♥한기주 결혼 “‘오 나의 파트너’로 인연” (공식) [전문]]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000950839</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003812112"/>
         <updated>2021-12-13T11:19:11.723Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 정안지 기자] 그룹 소녀시대 멤버 겸 배우 최수영이 청초한 미모를 자랑했다. 최수영은 13일 자신의 인스타그램을 통해 "아끼던 목도리 잃어버리고 좋댄다"라면서 사진을 게재했다. 사진 속에는 외출 중인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백지영 "그날의 오해 확실히 풀었습니다"...직접 단발 C컬 웨이브 도전]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003812104</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003812104"/>
-        <updated>2021-12-13T11:19:11.724Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 정안지 기자] 가수 백지영이 그날의 오해를 풀기 위해 나섰다. 백지영은 13일 자신의 인스타그램을 통해 "직접 단발 C컬 웨이브 했어요"라면서 사진을 게재했다. 사진 속에는 C컬 웨이브 헤어스타일을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘유퀴즈’ 측 “유재석 코로나19 확진→금주 녹화 취소” (전문) [공식]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000950817</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000950817"/>
-        <updated>2021-12-13T10:24:26.263Z</updated>
-        <content type="html"><![CDATA[개그맨 유재석이 코로나19(코로나바이러스감염증-19, COVID-19) 확진(양성) 판정을 받은 가운데 tvN ‘유 퀴즈 온 더 블럭’ 제작진이 공식입장을 밝혔다. ‘유 퀴즈 온 더 블럭’ 제작진은 13일 저녁 공식]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-13T13:28:30.577Z</updated>
+    <updated>2021-12-13T14:21:23.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['싱어게인2' 48호 가수 안다은, 강력한 우승후보]]></title>
+        <id>https://entertain.v.daum.net/v/20211213225207248</id>
+        <link href="https://entertain.v.daum.net/v/20211213225207248"/>
+        <updated>2021-12-13T14:20:49.905Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 이기은 기자] '싱어게인2' 강력한 우승 후보가 등장했다. 13일 밤 방송된 JTBC 예능프로그램 ‘싱어게인2’에서는 다양한 뮤지션들의 최고 가려내기 오디션이 진행됐다. 이날 2014년 드라마 ‘연애의 발견’ OST 가수가 등장했다. 48호 가수는 여전히 녹슬지 않는 완벽한 정교함을 과시했다. 노래는 ‘묘해 너와’였다. 이선희는 “너무 잘 하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유니버스, SF9 팬사인회 27일 개최.."온·오프라인 동시 진행"]]></title>
         <id>https://entertain.v.daum.net/v/20211213181536899</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211213155206461"/>
         <updated>2021-12-13T07:21:52.555Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김한길 기자] 가수 겸 화가 솔비(본명 권지안)의 국제예술상 대상 수상을 두고 갑론을박이 벌어지고 있다. 솔비는 지난 4일 바르셀로나 국제 아트페어(이하 FIABCN)에서 진행된 '2021 바르셀로나 국제 예술상(이하 PIAB21, The Premi Internacional d’Art de Barcelona)'에서 영예의 대상인 '그랜드 아티]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방시혁 하이브 의장, 통산 5번째 'MAMA' 베스트 제작자상 수상]]></title>
-        <id>https://entertain.v.daum.net/v/20211213152053321</id>
-        <link href="https://entertain.v.daum.net/v/20211213152053321"/>
-        <updated>2021-12-13T06:25:39.260Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 방시혁 하이브 이사회 의장이 12월 11일 진행된 ‘2021 Mnet ASIAN MUSIC AWARDS(엠넷 아시안 뮤직 어워즈, 이하 2021 MAMA)’ 전문심사 부문에서 수상했다. 방시혁 의장은 전문심사 부문 중 ‘베스트 제작자(Best Executive Producer of the Year)’ 상을 받았다. 지난 2016년]]></content>
     </entry>
 </feed>
