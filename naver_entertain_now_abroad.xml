@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-12T23:22:27.178Z</updated>
+    <updated>2021-12-13T01:09:38.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['흑인 인어공주' 할리 베일리, 못생겼는데 예뻐..자아도취 물고기 [Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004525812</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004525812"/>
+        <updated>2021-12-13T01:09:37.537Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] ‘흑인 인어공주’ 할리 베일리가 자신의 아름다움에 도취됐다. 할리 베일리는 13일(한국 시각) 자신의 인스타그램 스토리에 셀카 영상 하나를 올렸다. 영상에서 그는 한껏 예쁜 척을 하며 카메라]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“데미 무어 59살 맞아?” 보톡스 효과 VS 자연 미인 논란[해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003562043</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003562043"/>
+        <updated>2021-12-13T01:09:37.538Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 데미 무어(59)의 욕조 셀카가 큰 관심을 모으고 있다. 데미 무어는 11일(현지시간) “이른 아침 뜨거운 목욕과 명상. 고독과 바람의 노래들”이라는 글과 함께 사진을 게재]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['부동산 큰손' 디카프리오, 또 집 샀다…117억원 LA 대저택]]></title>
         <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004682238</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000837247"/>
         <updated>2021-12-11T09:22:43.267Z</updated>
         <content type="html"><![CDATA[스우파 리더들이 11일 오후 경기도 파주 CJENM 스튜디오에서 열린 2021 엠넷 아시안 뮤직 어워즈(MAMA) 레드카펫에 참석하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노제 '청순 미모' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000837245</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000837245"/>
-        <updated>2021-12-11T08:24:56.257Z</updated>
-        <content type="html"><![CDATA[스우파 노제가 11일 오후 경기도 파주 CJENM 스튜디오에서 열린 2021 엠넷 아시안 뮤직 어워즈(MAMA) 레드카펫에 참석하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티파니 '섹시한 뒤태' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000837243</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000837243"/>
-        <updated>2021-12-11T08:24:56.257Z</updated>
-        <content type="html"><![CDATA[티파니 영이 11일 오후 경기도 파주 CJENM 스튜디오에서 열린 2021 엠넷 아시안 뮤직 어워즈(MAMA) 레드카펫에 참석하고 있다.]]></content>
     </entry>
 </feed>
