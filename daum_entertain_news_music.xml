@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-14T20:22:28.517Z</updated>
+    <updated>2021-12-14T21:18:32.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['풍류대장' 임재현, 아내 위한 러브송]]></title>
+        <id>https://entertain.v.daum.net/v/20211215060207399</id>
+        <link href="https://entertain.v.daum.net/v/20211215060207399"/>
+        <updated>2021-12-14T21:17:59.731Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 이기은 기자] ‘풍류대장’ 뮤지션 임재현, 그의 실력이 모두를 감탄케 했다. 14일 밤 방송된 JTBC 예능프로그램 ‘풍류대장’에서는 국악 실력파들의 톱6의 세미파이널이 공개됐다. 이날 레게와 병창의 조화를 끌어낸 임재현의 무대가 눈길을 모았다. 그는 아내를 위해 직접 ‘러브송’을 불렀고, 그의 구수한 보이스와 감각적인 리듬이 제대로 어우러졌]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["2000만 팔로워→기네스 신기록" 방탄소년단, 인스타 개설에 '후끈']]></title>
+        <id>https://entertain.v.daum.net/v/20211215060005204</id>
+        <link href="https://entertain.v.daum.net/v/20211215060005204"/>
+        <updated>2021-12-14T21:17:59.732Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 정하은기자]그룹 방탄소년단(RM, 진, 슈가, 제이홉, 지민, 뷔, 정국)의 SNS가 연일 뜨거운 이슈를 낳고 있다. 방탄소년단은 데뷔 8년 만에 개인 인스타그램을 개설하고 팬들과 소통을 시작했다. 이들의 인스타그램은 공개되자마자 각종 전 세계 기록을 갈아치우는 건 물론 셀러브리티들의 팔로잉 행렬도 끝없이 이어지고 있다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['아이돌 더 쿠데타' 완전체 코튼캔디의 성장]]></title>
         <id>https://entertain.v.daum.net/v/20211215001914483</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211214183005310"/>
         <updated>2021-12-14T10:23:24.076Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 이승록 기자] 보이그룹 NCT가 정규 3집 앨범 'Universe(유니버스)'를 14일 발표했다. 더블 타이틀곡이다. 'Beautiful(뷰티풀)'과 'Universe'(Let’s Play Ball)로, 선공개된 'Universe'에 이어 이날 또 다른 타이틀곡 'Beautiful'의 뮤직비디오도 공개됐다. 소속사 SM엔터테인먼트에 따르]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임영웅, '사랑은 늘 도망가' 멜론 3개 차트 '동시 싹쓸이']]></title>
-        <id>https://entertain.v.daum.net/v/20211214181043942</id>
-        <link href="https://entertain.v.daum.net/v/20211214181043942"/>
-        <updated>2021-12-14T09:23:18.753Z</updated>
-        <content type="html"><![CDATA['신사와 아가씨' OST곡, 14일 음원 영상 1200만 뷰 돌파 [더팩트｜강일홍 기자] 임영웅이 부른 '신사와 아가씨' OST 곡이 멜론 OST 일간, 주간에 이어 월간 차트까지 1위에 오르며 3개 차트순위를 동시 싹쓸이 했다. 14일 멜론에 따르면 임영웅의 첫번째 OST 곡 '사랑을 늘 도망가'는 OST 부문 일간, 주간, 월간차트에서 각각 1위를 차]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["그대로 완벽한 걸" NCT, 21명이 부르는 따뜻한 연말 힐링송 '뷰티풀']]></title>
-        <id>https://entertain.v.daum.net/v/20211214181006923</id>
-        <link href="https://entertain.v.daum.net/v/20211214181006923"/>
-        <updated>2021-12-14T09:23:18.753Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 그룹 NCT가 연말을 맞아 가슴 따뜻한 힐링송을 선물했다. NCT는 14일 오후 6시 정규 3집 '유니버스'(Universe) 전곡 음원과 타이틀곡 '뷰티풀'(Beautiful) 뮤직비디오를 공개했다. '유니버스'는 NCT가 지난해 10월 발매한 정규 2집 '레조넌스'(RESONANCE) 이후 1년2개월여 만에 선보이는]]></content>
     </entry>
 </feed>
