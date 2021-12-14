@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-14T11:19:15.049Z</updated>
+    <updated>2021-12-14T12:34:44.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['더쇼' 안예은 '소식' 열창..아름다운 음색에 '홀릭']]></title>
+        <id>https://entertain.v.daum.net/v/20211214212302027</id>
+        <link href="https://entertain.v.daum.net/v/20211214212302027"/>
+        <updated>2021-12-14T12:34:11.531Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 윤성열 기자] /사진='더 쇼' 방송 화면 싱어송라이터 안예은이 '더 쇼'에서 인상 깊은 라이브 무대를 선사했다. 안예은은 14일 오후 방송된 SBS MTV 음악 프로그램 '더 쇼'에 출연해 신곡 '소식'으로 무대를 꾸몄다. 이날 안예은은 음악 세계관이 드러나는 의상 스타일링과 메이크업으로 시작부터 시선을 끌었다. 또한 매혹적인 음색으로 시청자들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NCT 도영·마크·쟈니 '제주 지진' 경솔한 언행에 사과]]></title>
         <id>https://entertain.v.daum.net/v/20211214195224618</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211214180001666"/>
         <updated>2021-12-14T09:23:18.767Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 그룹 NCT(엔시티)가 희망적인 메시지 가득한 신곡으로 돌아왔다. NCT 정규 3집 'Universe(유니버스)' 전곡과 더블 타이틀곡 'Beautiful(뷰티풀)'의 뮤직비디오가 14일 오후 6시 공개됐다. 이번 NCT 정규 3집에서는 NCT의 다양한 조합과 음악 색깔을 만날 수 있다. 그중 타이틀곡 'Beautiful'은 앨]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['션 합류' 빌리, 일곱 소녀의 따스한 겨울 감성 'snowy night']]></title>
-        <id>https://entertain.v.daum.net/v/20211214180001665</id>
-        <link href="https://entertain.v.daum.net/v/20211214180001665"/>
-        <updated>2021-12-14T09:23:18.768Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이덕행 기자] /사진=미스틱스토리빌리가 따스한 겨울 감성으로 돌아왔다. 14일 오후 6시 빌리의(시윤, 츠키, 션, 수현, 하람, 문수아, 하루나)의 새 싱글 'the collective soul and unconscious : snowy night (더 컬렉티브 소울 앤 언컨시어스 : 스노이 나이트)'이 공개 됐다. 타이틀곡 'snowy ni]]></content>
     </entry>
 </feed>
