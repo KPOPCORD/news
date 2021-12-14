@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-14T12:34:44.516Z</updated>
+    <updated>2021-12-14T13:26:42.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독]세븐틴 정한-엔하이픈 정원, 2021 AAA서 함께 만든 ♥[★FOCUS]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003012766</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003012766"/>
+        <updated>2021-12-14T13:26:28.246Z</updated>
+        <content type="html"><![CDATA[그룹 세븐틴의 정한과 엔하이픈의 정원이 최근 열린 2021 Asia Artsit Awards(2021 AAA) 단체 사진에서 함께 만든 하트의 비밀이 공개됐다. 정한은 14일 오후 방송된 브이라이브에서 정원과 하트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신예 아이브, 잘 나가네..'더쇼' 1위 등극 "큰 선물 감사" [★밤TView]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003012765</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003012765"/>
+        <updated>2021-12-14T13:26:28.247Z</updated>
+        <content type="html"><![CDATA[걸 그룹 아이브(안유진 가을 레이 장원영 리즈 이서)가 '더 쇼' 정상에 등극했다. 14일 오후 방송된 SBS MTV 음악 프로그램 '더 쇼'에서는 신곡 'ELEVEN'(일레븐)으로 활동 중인 아이브가 에이티즈와 에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['더쇼' 안예은 '소식' 열창..아름다운 음색에 '홀릭']]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003012762</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000333440"/>
         <updated>2021-12-14T09:23:36.290Z</updated>
         <content type="html"><![CDATA[[스포티비뉴스=장진리 기자] 그룹 빌리가 션(김수연) 합류 후 첫 신곡을 발표한다. 빌리는 14일 오후 6시 싱글 '더 컬렉티브 소울 앤 언컨시어스: 스노이 나이트'의 타이틀곡 '스노이 나이트' 음원과 뮤직비디오를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빌리의 첫겨울, 포근한 '스노이 나이트'에 세계관 한 스푼 [쥬크박스]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001385291</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001385291"/>
-        <updated>2021-12-14T09:23:36.291Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 새 멤버 션과 함께 돌아온 그룹 빌리(Billlie)가 겨울과 꼭 맞는 시즌송에서도 세계관에 충실, 색다른 매력으로 이목을 사로잡았다. 빌리(시윤·츠키·션·수현·하람·문수아·하루나)의 새]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팝's신곡]"그 모습 그대로 충분해요"‥NCT, 21인이 건네는 위로 'Beautiful']]></title>
-        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003509725</id>
-        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003509725"/>
-        <updated>2021-12-14T09:23:36.292Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=박서현기자] NCT가 따뜻한 위로와 응원을 건넨다. 오늘(14일) 오후 NCT 정규3집 'Universe'가 베일을 벗었다. 타이틀 곡 'Beautiful'은 피아노와 밴드 사운드가 어우러진 팝 발라드]]></content>
     </entry>
 </feed>
