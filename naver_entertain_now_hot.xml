@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-12-14T15:23:43.713Z</updated>
+    <updated>2021-12-14T16:33:57.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘오징어 게임’ 韓드라마 첫 골든글로브 간다]]></title>
+        <id>https://entertain.naver.com/now/read?oid=022&amp;aid=0003647962</id>
+        <link href="https://entertain.naver.com/now/read?oid=022&amp;aid=0003647962"/>
+        <updated>2021-12-14T16:33:49.811Z</updated>
+        <content type="html"><![CDATA[작품상 등 3개 부문 후보 올라 이정재·오영수, 주·조연상 도전 전세계를 휩쓴 넷플릭스 시리즈 ‘오징어 게임’이 미국 골든글로브 시상식에서 작품상·남우주연상·남우조연상 등 3개 부문 후보에 올랐다. 행사를 주관하는]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[진재영, 제주도 지진에 “너무 놀라...저는 괜찮아요”]]></title>
+        <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001628391</id>
+        <link href="https://entertain.naver.com/now/read?oid=057&amp;aid=0001628391"/>
+        <updated>2021-12-14T16:33:49.812Z</updated>
+        <content type="html"><![CDATA[배우 진재영이 제주도에서 근황을 전했다. 진재영은 지난 14일 자신의 SNS에 “방금 버몬트에 앉아있다가 지진 나서 저도 너무 놀랐어요. 괜찮냐고 문자가 많이 와서요. 저는 괜찮아요”라고 알렸다. 이어 “많이 놀라신]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노홍철 '연예인 특혜' 논란에 식당 측 "과정 생략 됐다"]]></title>
         <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000121641</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=032&amp;aid=0003116376"/>
         <updated>2021-12-14T13:26:35.037Z</updated>
         <content type="html"><![CDATA[[경향신문] 트로트 대세들이 강남에 떴다 ■2021 강남 트롯페스타(SBS 오후 5시50분) = 강남구가 구민에게 ‘힐링’의 시간을 제공하고자 코엑스 오디토리움에서 개최한 콘서트가 공개된다. ‘역주행 신화’ 트로트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021년 12월 15일 [케이블·위성 하이라이트]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=032&amp;aid=0003116375</id>
-        <link href="https://entertain.naver.com/now/read?oid=032&amp;aid=0003116375"/>
-        <updated>2021-12-14T13:26:35.038Z</updated>
-        <content type="html"><![CDATA[[경향신문] ■ 영화 ■ 모가디슈(캐치온1 오후 3시) = 1991년. 대한민국이 유엔 가입을 위해 분투하던 시기 소말리아의 수도이자 가장 인구가 많은 도시 모가디슈에서 내전이 일어난다. 총알과 포탄이 빗발치고, 통]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박태환, 암 투병 母와 뭉클 사연 "엄마 위해 우승"…1호 효자 등극('맘마미안')[종합]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003812541</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003812541"/>
-        <updated>2021-12-14T13:26:35.039Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 김준석 기자] 수영선수 박태환이 어머니의 손맛 찾기에 성공했다. 14일 방송된 MBC에브리원 '맘마미안'에는 대한민국 수영 선수 최초로 올림픽 금메달을 획득했던 마린보이 박태환이 출연했다. 이날 박태]]></content>
     </entry>
 </feed>

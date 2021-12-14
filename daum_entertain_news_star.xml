@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-12-14T15:23:43.704Z</updated>
+    <updated>2021-12-14T16:33:57.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021년 카카오TV 총결산, '며느라기' '체인지 데이즈' 인기..2022년 IP 후속시리즈 계획]]></title>
+        <id>https://entertain.v.daum.net/v/20211215012640809</id>
+        <link href="https://entertain.v.daum.net/v/20211215012640809"/>
+        <updated>2021-12-14T16:33:29.531Z</updated>
+        <content type="html"><![CDATA[[헤럴드경제 = 서병기 선임기자]카카오엔터테인먼트가 2021년 한 해 동안 시청자들의 폭발적인 호응을 얻은 카카오TV 오리지널을 총결산, 주요 키워드와 평균 시청자 수 등을 분석한 결과를 공개했다. 지난 2020년 9월 첫 선을 보인 카카오TV 오리지널을 통해 지난 11월까지 약 15개월간 누적 조회수 14억 뷰를 달성했으며, 총 누적 시청자 수는 5700]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['옥문아들' 하하, 정형돈과 방송 재회→사랑꾼 면모까지]]></title>
+        <id>https://entertain.v.daum.net/v/20211215003900565</id>
+        <link href="https://entertain.v.daum.net/v/20211215003900565"/>
+        <updated>2021-12-14T16:33:29.532Z</updated>
+        <content type="html"><![CDATA['옥문아들' 하하가 절친 정형돈과 특급 케미를 자랑했다. 14일 방송된 KBS2 예능프로그램 '옥탑방의 문제아들'(이하 '옥문아들')에서는 하하가 출연해 ‘찐 사랑꾼’ 면모를 드러냈다. 이날 김숙은 하하에 "정형돈과 안 본지 6~7년 됐냐"고 물었다. 이에 하하는 "1년 전에 봤다"며 "형돈이형이 나를 보니까 당황해 했다. 그리고 얼마후 형한테 전화]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['화밤' 양지은, 탬버린 요정 변신하며 댄스 삼매경 '웃음만발']]></title>
+        <id>https://entertain.v.daum.net/v/20211215002730524</id>
+        <link href="https://entertain.v.daum.net/v/20211215002730524"/>
+        <updated>2021-12-14T16:33:29.533Z</updated>
+        <content type="html"><![CDATA[[TV리포트 = 하수나 기자] 가수 양지은이 탬버린 요정으로 변신, 눈길을 모았다.&nbsp; 14일 방송된 TV조선 ‘화요일은 밤이 좋아’에선 사랑의 짝꿍쇼 특집으로 펼쳐졌다. 이날 마지막 짝꿍으로 현숙과 양지은이 무대를 꾸몄다. 현숙은 ‘춤추는 탬버린’을 부르며 탬버린을 흔들며 무대를 흥으로 물들였고 출연자 모두 탬버린 댄스를 추며 흥을 분출했다.&nbsp; 하늘색 원피]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['옥문아들' 정형돈 "하하가 휴식기 때 백만 원 보내줘.. 내가 더 많이 버는데" 폭소]]></title>
+        <id>https://entertain.v.daum.net/v/20211215002400515</id>
+        <link href="https://entertain.v.daum.net/v/20211215002400515"/>
+        <updated>2021-12-14T16:33:29.534Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 방송인 정형돈이 휴식기 동안 하하에게 100만 원을 받았다며 관련 사연을 공개했다. 14일 방송된 KBS 2TV ‘옥탑방의 문제아들’에선 하하가 게스트로 출연해 퀴즈풀이에 도전했다. 하하와 정형돈은 ‘무한도전’으로 함께했던 옛 전우다. 이날 정형돈은 “지난해 방송을 쉬었을 때 하하가 카톡으로 100만 원을 쏴줬다”고 고백, 놀라움]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조영남, 전처 윤여정 언급.."'우아한 복수' 말했다가 악플 시달려"]]></title>
         <id>https://entertain.v.daum.net/v/20211215002203506</id>
@@ -81,33 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211214230001916"/>
         <updated>2021-12-14T14:19:47.312Z</updated>
         <content type="html"><![CDATA[[스포티비뉴스=정서희 기자] 배우 남윤수가 첫 번째 사극 '연모'로 또 한번 연기 스펙트럼을 넓혔다. 할리우드 스타 리어나도 디캐프리오가 롤모델이라는 그는 팔색조 같은 배우가 될 것을 약속해 미래를 기대케 했다. KBS2 월화드라마 '연모'(극본 한희정, 연출 송현욱·이현석)를 마친 남윤수는 최근 스포티비뉴스와 서면 인터뷰에서 "사계절을 함께 지내온]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연모' 박은빈, 궐 떠나 로운과 제2 인생 시작→입맞춤하며 해피엔딩]]></title>
-        <id>https://entertain.v.daum.net/v/20211214230001914</id>
-        <link href="https://entertain.v.daum.net/v/20211214230001914"/>
-        <updated>2021-12-14T14:19:47.312Z</updated>
-        <content type="html"><![CDATA['연모' 박은빈과 로운이 새로운 삶을 시작했다. 14일 방송된 KBS2 월화드라마 '연모'에서는 여인의 신분을 되찾은 이휘(박은빈 분)와 정지운(로운 분)이 새로운 삶을 사는 모습이 그려졌다. 이날 한기재(윤제문 분)의 역모로 이휘는 위기에 놓였다. 그 순간 정석조(배수빈 분)이 나타나 이휘 일행을 도왔고, 이휘와 정지운은 위기를 빠져 나갈 수 있었]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그해 우리는' 최우식VS이준혁, 김다미 앞에서 신경전]]></title>
-        <id>https://entertain.v.daum.net/v/20211214225600902</id>
-        <link href="https://entertain.v.daum.net/v/20211214225600902"/>
-        <updated>2021-12-14T14:19:47.313Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 최우식과 이준혁이 김다미 앞에서 짧은 신경전을 벌였다. 14일 방송된 SBS ‘그 해 우리는’에선 표절 문제로 기 싸움을 벌이는 웅(최우식 분)과 도율(이준혁 분)의 모습이 그려졌다. 이날 웅이 연수(김다미 분)의 회사를 찾은 가운데 직원들은 그를 알아보고 놀라워했다. 웅은 연수의 옛 남자친구가 아닌 계약을 앞둔 디자이너로 회사를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유재석→신현빈, 코로나19 돌파 감염 속출..방송가 '초비상']]></title>
-        <id>https://entertain.v.daum.net/v/20211214225001863</id>
-        <link href="https://entertain.v.daum.net/v/20211214225001863"/>
-        <updated>2021-12-14T14:19:47.313Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 하지원 기자) 스타들이 연일 코로나19 확진 판정을 받으며 연예계 돌파 감염의 위협이 갈수록 커지고 있다. 14일 배우 신현빈이 코로나19 확진 판정을 받았다. 신현빈은 지난 9월 백신 2차 접종까지 완료했다. 정기적으로 코로나19 검사를 시행한 신현빈은 지난 13일 밀접 접촉 통보를 받고 그 즉시 PCR 검사를 진행한 후 보류 및 경계 판]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스걸파' 블링걸즈·연살, '원트' 최종 합격..1차 오디션 종료]]></title>
-        <id>https://entertain.v.daum.net/v/20211214224914860</id>
-        <link href="https://entertain.v.daum.net/v/20211214224914860"/>
-        <updated>2021-12-14T14:19:47.313Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = '스트릿댄스 걸스 파이터' 블링걸즈와 연살이 원트에 최종 합격했다. 14일 오후 10시 20분에 방송된 Mnet 예능 프로그램 '스트릿댄스 걸스 파이터'(이하 '스걸파')에서는 원트의 즉흥 배틀을 끝으로 1차 오디션 크루 선발전이 종료됐다. 원트는 블링걸즈, 포커스, 연살을 호명, 크루 당 대표 2명씩 선발해 1명씩 곡에]]></content>
     </entry>
 </feed>

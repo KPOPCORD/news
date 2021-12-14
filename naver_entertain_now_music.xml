@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-14T15:23:43.705Z</updated>
+    <updated>2021-12-14T16:33:57.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NCT 정규 3집 ‘Universe’ 선주문량 170만장 돌파…브랜드 파워 증명]]></title>
+        <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0001924727</id>
+        <link href="https://entertain.naver.com/now/read?oid=016&amp;aid=0001924727"/>
+        <updated>2021-12-14T16:33:42.816Z</updated>
+        <content type="html"><![CDATA[[헤럴드경제 = 서병기 선임기자]NCT(엔시티, 에스엠엔터테인먼트 소속)의 정규 3집 앨범 선주문량이 170만장을 돌파, 막강한 NCT 브랜드 파워를 증명했다. 14일 발매된 NCT 정규 3집 ‘Universe’(유]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[It's HERO♡ 임영웅, 빛나는 미모 눈부신 카리스마]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003012790</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004526484"/>
         <updated>2021-12-14T09:23:36.285Z</updated>
         <content type="html"><![CDATA[[OSEN=이승훈 기자] 그룹 NCT(태일, 쟈니, 태용, 유타, 도영, 텐, 재현, 윈윈, 마크, 런쥔, 제노, 해찬, 재민, 천러, 지성, 루카스, 정우, 쿤, 샤오쥔, 양양, 헨드리, 쇼타로, 성찬)가 한겨울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["그 모습 그대로 충분해요"…추위 녹일 NCT 표 힐링송 '뷰티풀' [신곡in가요]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=015&amp;aid=0004640613</id>
-        <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004640613"/>
-        <updated>2021-12-14T09:23:36.286Z</updated>
-        <content type="html"><![CDATA[그룹 NCT가 올 한해를 따뜻한 '힐링송'으로 마무리한다. NCT는 14일 오후 6시 정규 3집 '유니버스(Universe)'의 전곡 음원을 공개했다. 이번 앨범에는 더블 타이틀곡 '뷰티풀(Beautiful)'과 ']]></content>
     </entry>
 </feed>

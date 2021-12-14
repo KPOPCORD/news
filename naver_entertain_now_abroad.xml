@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-14T15:23:43.708Z</updated>
+    <updated>2021-12-14T16:33:57.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['산타' 톰 크루즈, 전용기에 실어보낸 스태프 선물 300개 정체는]]></title>
+        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004683400</id>
+        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004683400"/>
+        <updated>2021-12-14T16:33:56.957Z</updated>
+        <content type="html"><![CDATA[할리우드 배우 톰 크루즈가 통큰 '산타클로스'의 면모를 보였다. 영국 매체 '더 선'은 13일(현지시간) 톰 크루즈가 자신이 출연한 영화 '미션 임파서블' 스태프들을 위한 선물 300개를 전용기로 실어날랐다고 보도했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['♥스파이더맨' 젠데이아, 남친 옆 누드톤 착시 드레스…"파격"]]></title>
         <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004683392</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000837722"/>
         <updated>2021-12-14T03:22:04.313Z</updated>
         <content type="html"><![CDATA[TV조선 예능 '부캐전성시대' 제작발표회가 14일 오전 서울 종로구 동대문 JW메리어트 호텔에서 열렸다. 강예빈이 포토타임을 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양치승 'MC양치' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000837721</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000837721"/>
-        <updated>2021-12-14T03:22:04.314Z</updated>
-        <content type="html"><![CDATA[TV조선 예능 '부캐전성시대' 제작발표회가 14일 오전 서울 종로구 동대문 JW메리어트 호텔에서 열렸다. 양치승이 포토타임을 갖고 있다.]]></content>
     </entry>
 </feed>
