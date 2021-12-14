@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-14T14:20:13.478Z</updated>
+    <updated>2021-12-14T15:23:43.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[It's HERO♡ 임영웅, 빛나는 미모 눈부신 카리스마]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003012790</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003012790"/>
+        <updated>2021-12-14T15:23:29.724Z</updated>
+        <content type="html"><![CDATA[가수 임영웅이 눈부신 카리스마로 팬심을 사로잡았다. 임영웅이 모델로 활약 중인 아이웨어 브랜드 키싱하트는 12월 14일 공식 유튜브 채널을 통해 '키싱하트X임영웅 현장스케치 두 번째 버전' 영상을 공개했다. 공개된]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트와이스 'Formula of Love' 빌보드 200 66위 4주 차트인[공식]]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003012783</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=015&amp;aid=0004640613"/>
         <updated>2021-12-14T09:23:36.286Z</updated>
         <content type="html"><![CDATA[그룹 NCT가 올 한해를 따뜻한 '힐링송'으로 마무리한다. NCT는 14일 오후 6시 정규 3집 '유니버스(Universe)'의 전곡 음원을 공개했다. 이번 앨범에는 더블 타이틀곡 '뷰티풀(Beautiful)'과 ']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“영화같은 순간” 빌리, 윤종신 걸그룹 따스한 겨울감성 ‘snowy night’[들어보고서]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000522273</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000522273"/>
-        <updated>2021-12-14T09:23:36.287Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 빌리(시윤, 츠키, 션, 수현, 하람, 문수아, 하루나)가 따스한 겨울 감성을 담은 신곡으로 돌아왔다. 빌리는 12월 14일 오후 6시 국내외 음원 사이트를 통해 새 디지털 싱글 'the]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-14T14:20:13.466Z</updated>
+    <updated>2021-12-14T15:23:43.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아이돌 더 쿠데타' 완전체 코튼캔디의 성장]]></title>
+        <id>https://entertain.v.daum.net/v/20211215001914483</id>
+        <link href="https://entertain.v.daum.net/v/20211215001914483"/>
+        <updated>2021-12-14T15:23:13.627Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 이기은 기자] ‘아이돌 더 쿠데타’ 모두가 아팠지만 성장했다. 14일 밤 방송된 tvN 월화드라마 ‘IDOL [아이돌 : The Coup]’(극본 정윤정‧연출 노종찬)(이하 ‘아이돌 더 쿠데타') 마지막회 12회에서는  그룹 코튼캔디 멤버들의 마지막 성장이 그려졌다. 이날 리더 김제나(안희연)를 비롯해 엘(추소정), 현지(안솔빈), 스텔라(한]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안성훈, 생일 축하합니다]]></title>
+        <id>https://entertain.v.daum.net/v/20211215000009244</id>
+        <link href="https://entertain.v.daum.net/v/20211215000009244"/>
+        <updated>2021-12-14T15:23:13.627Z</updated>
+        <content type="html"><![CDATA[[동아닷컴]  가수 안성훈이 트롯픽 생일상을 받는다. 트롯 문화를 사랑하는 사람들을 응원하는 서비스 트롯픽(trotpick)에 따르면, 안성훈은 12월 생일자를 대상으로 한 스페셜 투표에서 이벤트 주인공으로 선정됐다. 이번 투표는 11월 15일부터 11월21일까지 진행됐다. 트롯픽의 생일 이벤트는 득표에 따라 서포트가 단계별로 진행된다. ▲5천 포인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트와이스 'Formula of Love' 빌보드 200 66위 4주 차트인]]></title>
         <id>https://entertain.v.daum.net/v/20211214231606010</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211214181006923"/>
         <updated>2021-12-14T09:23:18.753Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 그룹 NCT가 연말을 맞아 가슴 따뜻한 힐링송을 선물했다. NCT는 14일 오후 6시 정규 3집 '유니버스'(Universe) 전곡 음원과 타이틀곡 '뷰티풀'(Beautiful) 뮤직비디오를 공개했다. '유니버스'는 NCT가 지난해 10월 발매한 정규 2집 '레조넌스'(RESONANCE) 이후 1년2개월여 만에 선보이는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["차가워도 난 따스해" 빌리, 일곱 소녀들의 환상적인 세계 'snowy night']]></title>
-        <id>https://entertain.v.daum.net/v/20211214180324770</id>
-        <link href="https://entertain.v.daum.net/v/20211214180324770"/>
-        <updated>2021-12-14T09:23:18.758Z</updated>
-        <content type="html"><![CDATA[[OSEN=지민경 기자] 그룹 빌리(Billlie)가 데뷔 한 달 만의 초고속 컴백으로 새로운 멀티 세계관의 시작을 알렸다. 빌리는 14일 오후 6시 각종 음원사이트를 통해 새&nbsp;싱글&nbsp;'the&nbsp;collective&nbsp;soul&nbsp;and&nbsp;unconscious&nbsp;:&nbsp;snowy&nbsp;night&nbsp;(더&nbsp;컬렉티브&nbsp;소울&nbsp;앤&nbsp;언컨시어스&nbsp;:&nbsp;스노이&nbsp;나이트)’ 음원과 타이틀곡&nbsp;‘snowy&nbsp;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["새롭게 시작해" NCT, 이미 충분히 빛나는 'Beautiful'..자신을 믿어]]></title>
-        <id>https://entertain.v.daum.net/v/20211214180159733</id>
-        <link href="https://entertain.v.daum.net/v/20211214180159733"/>
-        <updated>2021-12-14T09:23:18.761Z</updated>
-        <content type="html"><![CDATA[[OSEN=이승훈 기자]&nbsp;그룹 NCT(태일, 쟈니, 태용, 유타, 도영, 텐, 재현, 윈윈, 마크, 런쥔, 제노, 해찬, 재민, 천러, 지성, 루카스, 정우, 쿤, 샤오쥔, 양양, 헨드리, 쇼타로, 성찬)가 한겨울 추위를 녹일 따뜻한 힐링송으로 돌아왔다. NCT는 오늘(14일) 오후 6시 각종 온라인 음원 사이트를 통해 세 번째 정규앨범 'Universe']]></content>
     </entry>
 </feed>
