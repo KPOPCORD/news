@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-12-14T17:25:33.454Z</updated>
+    <updated>2021-12-14T18:27:12.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[모모랜드 주이, 몰라보게 예뻐진 미모+돋보이는 각선미 [M+★SNS]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001628393</id>
+        <link href="https://entertain.naver.com/now/read?oid=057&amp;aid=0001628393"/>
+        <updated>2021-12-14T18:27:04.677Z</updated>
+        <content type="html"><![CDATA[모모랜드 주이가 일상을 공개했다. 주이는 지난 14일 자신의 인스타그램에 하트 이모티콘과 함께 두 장의 사진을 게재했다. 공개된 사진 속 주이는 금발 헤어에 검은색 재킷과 핫팬츠을 입고 카메라를 향해 포즈를 취하고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘이영하·선우은숙 며느리’ 최선정, 둘째 득녀 “제 이름은 이현이에요”]]></title>
         <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001628392</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=396&amp;aid=0000599646"/>
         <updated>2021-12-14T13:26:35.034Z</updated>
         <content type="html"><![CDATA[배우 김혜리가 제주 지진 상황을 공유했다. 14일 김혜리는 자신의 인스타그램 스토리에 “강도 5.3 지진. 사람들 밖으로 나오고 차 타고 피난 가나 봐”라는 글과 함께 짧은 영상 한 개를 게재했다. 공개된 영상에는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼음골 사과가 풍년인데 딸 사람이 없다고?]]></title>
-        <id>https://entertain.naver.com/now/read?oid=032&amp;aid=0003116377</id>
-        <link href="https://entertain.naver.com/now/read?oid=032&amp;aid=0003116377"/>
-        <updated>2021-12-14T13:26:35.035Z</updated>
-        <content type="html"><![CDATA[[경향신문] 경남 밀양 얼음골에 펼쳐진 4000평 사과밭. 사과가 나무를 뒤덮을 정도로 많이 열렸지만 수확이 늦어지고 있다. 코로나19로 일손을 구하지 못했기 때문이다. 발을 동동 구르고 있는 사과 농가를 KBS 1]]></content>
     </entry>
 </feed>
