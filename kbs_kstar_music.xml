@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 07:21:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 08:26:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트와이스, 월드투어 초고속 매진에 추가 개최 결정!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=179856</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=179856</guid>
+            <pubDate>Tue, 14 Dec 2021 08:25:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=179856">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211214162838_41c2b854106d84390bf8c582ec5aeebc.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=179856">트와이스, 월드투어 초고속 매진에 추가 개최 결정!</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211214162838_41c2b854106d84390bf8c582ec5aeebc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[콘서트] 입대 앞둔 온앤오프 "행복한 순간들에는 항상 퓨즈가 있었다"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=179833</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=178131">하이브 글로벌 음악축제, ‘2022 Weverse Con’ 온·오프라인 동시 개최</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211208075639_c9f3df78c70d8b044faeaed4c6eac034.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 실력파 밴드 원위 "원위일 수 있는 이유는 위브들"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=178048</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=178048</guid>
-            <pubDate>Tue, 07 Dec 2021 08:26:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=178048">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211207171613_6a4bb03bf57fc24e9752700776a3b738.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=178048">[인터뷰] 실력파 밴드 원위 "원위일 수 있는 이유는 위브들"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211207171613_6a4bb03bf57fc24e9752700776a3b738.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
