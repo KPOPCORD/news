@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 01:11:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 02:39:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레드벨벳 슬기, 러블리+시크 공존하는 완벽 비주얼 [인스타]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333298</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333298</guid>
+            <pubDate>Tue, 14 Dec 2021 02:38:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333298">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/14/OsQnFFcjIt47637750760468351955.jpg" alt="레드벨벳 슬기, 러블리+시크 공존하는 완벽 비주얼 [인스타] ">        <div class="text-box">            <p class="summary">레드벨벳 슬기, 러블리+시크 공존하는 완벽 비주얼 [인스타] </p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/14/OsQnFFcjIt47637750760468351955.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['야생돌' 파이널 생방송 곡 발매…넬 김종완·심은지 지원사격]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/333285</link>
@@ -86,14 +94,6 @@
             <pubDate>Sun, 12 Dec 2021 22:21:28 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332990">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/10/rhM0sawONrBY637747537345858221.jpg" alt="'마의7년' 여자친구·러블리즈 울고→세븐틴·SF9 웃고 [2021총결산]">        <div class="text-box">            <p class="summary">'마의7년' 여자친구·러블리즈 울고→세븐틴·SF9 웃고 [2021총결산]</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/10/rhM0sawONrBY637747537345858221.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이브, '일레븐(ELEVEN)' MV 비하인드 공개...6人 6色 러블리 매력 폭발]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333166</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333166</guid>
-            <pubDate>Sun, 12 Dec 2021 06:25:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333166">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/12/RiTi1zk3a7eO637749159780390150.jpg" alt="아이브, '일레븐(ELEVEN)' MV 비하인드 공개...6人 6色 러블리 매력 폭발">        <div class="text-box">            <p class="summary">아이브, '일레븐(ELEVEN)' MV 비하인드 공개...6人 6色 러블리 매력 폭발</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/12/RiTi1zk3a7eO637749159780390150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
