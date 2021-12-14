@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-12-14T18:27:12.290Z</updated>
+    <updated>2021-12-14T19:18:26.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["인형인 줄" 황신영, 세 쌍둥이 너무 사랑스럽잖아 [스타IN★]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003012795</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003012795"/>
+        <updated>2021-12-14T19:18:19.880Z</updated>
+        <content type="html"><![CDATA[개그우먼 황신영이 귀여운 세 쌍둥이의 모습을 공개했다. 황신영은 지난 14일 자신의 인스타그램을 통해 "손님 지하철 막차에요. 내리셔야 하는데", "아영아. 아준이랑 아서 낑겼베베"라는 글과 함께 여러 사진과 영상을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[모모랜드 주이, 몰라보게 예뻐진 미모+돋보이는 각선미 [M+★SNS]]]></title>
         <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001628393</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003012768"/>
         <updated>2021-12-14T13:26:35.033Z</updated>
         <content type="html"><![CDATA[가수 송가인이 JTBC 경연 프로그램 '풍류대장 - 힙한 소리꾼들의 전쟁'(이하 '풍류대장') 본 방송 시청을 독려했다. 송가인은 14일 자신의 인스타그램을 통해 "오늘밤 풍류대장"이라는 글과 함께 여러 장의 사진을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘싱글맘’ 김혜리, 제주 지진 상황 공유…“무서워서 꼼짝 못 해”]]></title>
-        <id>https://entertain.naver.com/now/read?oid=396&amp;aid=0000599646</id>
-        <link href="https://entertain.naver.com/now/read?oid=396&amp;aid=0000599646"/>
-        <updated>2021-12-14T13:26:35.034Z</updated>
-        <content type="html"><![CDATA[배우 김혜리가 제주 지진 상황을 공유했다. 14일 김혜리는 자신의 인스타그램 스토리에 “강도 5.3 지진. 사람들 밖으로 나오고 차 타고 피난 가나 봐”라는 글과 함께 짧은 영상 한 개를 게재했다. 공개된 영상에는]]></content>
     </entry>
 </feed>
