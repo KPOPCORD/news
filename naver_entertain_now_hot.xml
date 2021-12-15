@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-12-15T18:26:40.836Z</updated>
+    <updated>2021-12-15T19:19:53.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['추성훈♥' 야노시호X사랑 '오징어 게임' 커플룩...'456번 사랑이 초긴장']]></title>
+        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003812946</id>
+        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003812946"/>
+        <updated>2021-12-15T19:19:46.162Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 이유나 기자] 격투기 선수 추성훈의 아내 야노시호와 딸 사랑이가 넷플릭스 드라마 '오징어 게임' 츄리닝을 커플룩을 맞춰 입었다. 야노시호는 "오징어 게임 속 마음에 드는 실내복"이라며 "안에 기모도 있어]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[권은비, 팜 파탈 매력 [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000951364</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000951364"/>
+        <updated>2021-12-15T19:19:46.162Z</updated>
+        <content type="html"><![CDATA[권은비, 팜 파탈 매력 [화보] 가수 권은비가 맵스(MAPS) 커버를 장식했다. 글로벌 아트 패션 매거진 맵스는 지난 14일 공식 SNS를 통해 권은비가 참여한 2022년 1월 호 커버 2종을 공개했다. 커버 속 권]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강유미 “큰 사랑, ‘개콘’ 전성기 안 부러워” [화보]]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000951363</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003812921"/>
         <updated>2021-12-15T13:28:20.164Z</updated>
         <content type="html"><![CDATA[[스포츠조선 이유나 기자] 레드벨벳 조이의 비밀 SNS 계정이 해킹당했다? 15일 페이스북 페이지 아이돌 이슈에는 '오늘 알려진 조이 인스타 세컨 계쩡에 올라온 크러쉬와 투샷'이라는 제목과 함께 사진이 게재됐다. 사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤아, 실제 보면 이런 느낌..동그란 어깨+살짝 숙인 가슴 '미모 미쳤다']]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003812917</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003812917"/>
-        <updated>2021-12-15T12:34:50.455Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 이유나 기자] 소녀시대 출신 배우 윤아가 화보 촬영 대기 중 직찍을 공개했다. 윤아는 15일 인스타그램에 2021년 매거진 커버를 장식한 자신의 화보 촬영 근황을 전했다. 튜브톱 캉캉 드레스를 우아하게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JYP 측 “2PM 멤버별 계약 기간 달라…찬성만 계약 만료]]></title>
-        <id>https://entertain.naver.com/now/read?oid=009&amp;aid=0004894383</id>
-        <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0004894383"/>
-        <updated>2021-12-15T12:34:50.456Z</updated>
-        <content type="html"><![CDATA[그룹 2PM 소속사 JYP 엔터테인먼트가 멤버들의 계약 기간에 대한 입장을 밝혔다. 15일 JYP엔터테인먼트 관계자는 매일경제 스타투데이에 “멤버별로 재재재계약 시 계약 기간이 다 달랐으며, 찬성의 경우 계약 기간이]]></content>
     </entry>
 </feed>
