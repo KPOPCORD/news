@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-15T22:21:24.585Z</updated>
+    <updated>2021-12-15T23:21:46.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["제니퍼 로페즈 도망가"..벤 애플렉, 전처 발언 '비난 세례' [Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004527235</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004527235"/>
+        <updated>2021-12-15T23:21:45.728Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 할리우드 배우 벤 애플렉이 전처 관련 발언으로 뭇매를 맞고 있다. 애플렉은 최근 시리우스XM의 '하워드 스턴 쇼'에 출연, 가너와의 결혼 생활에 옥죄인 느낌을 가졌다고 털어놓으며 "(결혼 생]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“11살때부터 야동 너무 많이 봐 뇌 파괴돼”, 19살 빌리 아일리시 충격고백[해외이슈](종합)]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003562781</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003562647"/>
         <updated>2021-12-15T05:20:43.995Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘그래미 여신’ 빌리 아일리시가 지난 8월부터 두달간 코로나19와 사투를 벌였다고 말했다. 그는 13일(현지시간) 하워드 스턴과 인터뷰에서 지난 8월에 코로나19에 감염돼 두 달간 아팠으]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['성전환' 엘리엇 페이지, 시크한 훈남 패션…날렵 턱선까지 [N해외연예]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005785590</id>
-        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005785590"/>
-        <updated>2021-12-15T03:23:01.217Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 여성에서 남성으로 성전환 수술을 한 할리우드 배우 엘리엇 페이지의 일상이 포착됐다. 미국 연예매체 스플래시닷컴은 지난 12일 미국 로스앤젤레스 웨스트 할리우드에서 포착된 엘리엇 페이지]]></content>
     </entry>
 </feed>
