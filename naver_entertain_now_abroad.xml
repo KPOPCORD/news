@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-15T07:23:29.519Z</updated>
+    <updated>2021-12-15T08:26:31.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빌리 아일리시 "지난 8월 코로나 감염…백신 맞고 살았다" [엑's 해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001385716</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001385716"/>
+        <updated>2021-12-15T08:26:30.489Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김노을 기자) 팝스타 빌리 아일리시가 코로나19 감염 후유증을 고백했다. 빌리 아일리시는 13일(현지시간) 하워드 스턴이 진행하는 라디오쇼 '하워드 스턴쇼'에 출연해 "지난 8월 코로나19에 감염돼 두]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘제이로♥’ 벤 애플렉, 전처 향한 불평 “결혼 불행해 술만 마셔”]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000522598</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000522598"/>
+        <updated>2021-12-15T08:26:30.490Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 제니퍼 로페즈와 열애 중인 벤 애플렉이 전처 제니퍼 가너와의 결혼 생활을 회상하며 "불행했다"는 취지로 발언해 현지 매체들이 보도했다. 할리우드 배우 벤 애플렉은 최근 미국 라디오 프로그램 ']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[빌리 아일리시, 코로나 감염 고백 “백신 덕에 살아”]]></title>
         <id>https://entertain.naver.com/now/read?oid=022&amp;aid=0003648186</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001385538"/>
         <updated>2021-12-15T02:36:42.980Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) '드래곤볼'로 유명한 일본의 성우 야나미 조지가 세상을 떠났다. 지난 14일 NHK 등 다수 매체는 야나미 조지가 지난 3일 세상을 떠났다고 보도했다. 향년 90세. 1931년생인 야나미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["지금도 열기"…몬스터엑스 '징글볼'투어 첫 공연 성황]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010890302</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010890302"/>
-        <updated>2021-12-15T02:36:42.987Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]김예지 인턴 기자 = "거의 2년 만에 팬분들과 함께 호흡했던 무대...공연이 끝난 지금도 그 열기가 잊히지 않는다. 남은 '징글볼' 공연에서도 좋은 무대 보여드릴 수 있도록 노력할 것." (아이엠)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[벤 애플렉 막말? "전처 제니퍼가너와 계속 살면 술 못 끊었을 것"[Oh!llywood]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004526801</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004526801"/>
-        <updated>2021-12-15T01:08:16.573Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 할리우드 배우 벤 애플렉이 "내가 제니퍼 가너와 계속 결혼 생활을 했다면 난 여전히 술을 마셨을 것"이라고 한 발언이 화제다. 애플렉은 최근 시리우스XM의 '하워드 스턴 쇼'에 출연, 가너와]]></content>
     </entry>
 </feed>

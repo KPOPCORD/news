@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 07:23:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 08:26:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 RM, 여행 사진 올리자 진·뷔가 보인 반응 [인스타]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333428</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333428</guid>
+            <pubDate>Wed, 15 Dec 2021 08:25:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333428">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/15/9078bda4-ceef-45b8-8559-2715dd35d5eb.jpg" alt="방탄소년단 RM, 여행 사진 올리자 진·뷔가 보인 반응 [인스타]">        <div class="text-box">            <p class="summary">방탄소년단 RM, 여행 사진 올리자 진·뷔가 보인 반응 [인스타]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/15/9078bda4-ceef-45b8-8559-2715dd35d5eb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강다니엘, 훈훈美 장착한 겨울 남친의 정석 [인스타]]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/333426</link>
@@ -86,14 +94,6 @@
             <pubDate>Wed, 15 Dec 2021 01:07:30 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333367">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/15/4752687b-e3dd-43fc-88d3-e92f629344e0.jpg" alt="'연모' 로운 " 시청자분들이="" 오랫동안="" 기억해="" 주시길"="" 종영소감"="">        <div class="text-box">            <p class="summary">'연모' 로운 "시청자분들이 오랫동안 기억해 주시길" 종영소감</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/15/4752687b-e3dd-43fc-88d3-e92f629344e0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[케플러 샤오팅·마시로, 코로나19 무증상 확진 [전문]]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333351</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333351</guid>
-            <pubDate>Tue, 14 Dec 2021 09:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333351">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/14/054e6df1-b836-4da0-aec1-6b609254be3d.jpg" alt="케플러 샤오팅·마시로, 코로나19 무증상 확진 [전문]">        <div class="text-box">            <p class="summary">케플러 샤오팅·마시로, 코로나19 무증상 확진 [전문]</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/14/054e6df1-b836-4da0-aec1-6b609254be3d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
