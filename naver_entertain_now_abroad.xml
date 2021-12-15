@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-14T23:22:38.095Z</updated>
+    <updated>2021-12-15T01:08:17.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[벤 애플렉 막말? "전처 제니퍼가너와 계속 살면 술 못 끊었을 것"[Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004526801</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004526801"/>
+        <updated>2021-12-15T01:08:16.573Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 할리우드 배우 벤 애플렉이 "내가 제니퍼 가너와 계속 결혼 생활을 했다면 난 여전히 술을 마셨을 것"이라고 한 발언이 화제다. 애플렉은 최근 시리우스XM의 '하워드 스턴 쇼'에 출연, 가너와]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美 연예매체, “‘기생충’ 박소담 갑상선 유두암 수술” 비중있게 보도[해외이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003562546</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000837724"/>
         <updated>2021-12-14T03:22:04.310Z</updated>
         <content type="html"><![CDATA[TV조선 예능 '부캐전성시대' 제작발표회가 14일 오전 서울 종로구 동대문 JW메리어트 호텔에서 열렸다. 조현영이 포토타임을 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[길건 '오랜만에 인사' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000837723</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000837723"/>
-        <updated>2021-12-14T03:22:04.312Z</updated>
-        <content type="html"><![CDATA[TV조선 예능 '부캐전성시대' 제작발표회가 14일 오전 서울 종로구 동대문 JW메리어트 호텔에서 열렸다. 길건이 포토타임을 갖고 있다.]]></content>
     </entry>
 </feed>
