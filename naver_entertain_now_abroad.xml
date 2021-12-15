@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-15T20:24:04.439Z</updated>
+    <updated>2021-12-15T21:21:27.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“11살때부터 야동 너무 많이 봐 뇌 파괴돼”, 19살 빌리 아일리시 충격고백[해외이슈](종합)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003562781</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003562781"/>
+        <updated>2021-12-15T21:21:27.156Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘그래미 여신’ 빌리 아일리시(19)가 11살 때부터 야동(포르노)을 너무 많이 봐 악몽에 시달렸다고 털어놓았다. 그는 14일(현지시간) ‘하워드 스턴 쇼'에 출연해 "여성으로서 야동을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[빌리 아일리시, 코로나19 돌파 감염 "백신 안 맞았으면 죽었을 것"]]></title>
         <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004683982</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005785590"/>
         <updated>2021-12-15T03:23:01.217Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 여성에서 남성으로 성전환 수술을 한 할리우드 배우 엘리엇 페이지의 일상이 포착됐다. 미국 연예매체 스플래시닷컴은 지난 12일 미국 로스앤젤레스 웨스트 할리우드에서 포착된 엘리엇 페이지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트와이스, 美 '빌보드200' 4주 연속 차트인…66위]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010890459</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010890459"/>
-        <updated>2021-12-15T03:23:01.218Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]김예지 인턴 기자 = 그룹 '트와이스'가 미국 빌보드 메인 차트 '빌보드 200'에 4주 연속 이름을 올렸다. 14일(현지시간) 빌보드에 따르면 트와이스가 지난달 12일 발매한 정규 3집 '포뮬러 오브]]></content>
     </entry>
 </feed>

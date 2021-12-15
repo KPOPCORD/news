@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-15T20:24:04.442Z</updated>
+    <updated>2021-12-15T21:21:27.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NCT로 빛난 2021, '유니버스'로 화룡점정]]></title>
+        <id>https://entertain.v.daum.net/v/20211216060017447</id>
+        <link href="https://entertain.v.daum.net/v/20211216060017447"/>
+        <updated>2021-12-15T21:20:55.882Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 정하은기자] 올해 어떤 K팝 그룹보다 화려한 성과를 얻은 NCT가 2021년 연말까지 유종의 미를 거둔다. NCT가 올 한 해 판매한 앨범만 해도 무려 700만 장에 육박하는 것으로 확인됐다. NCT는 올해 5월 NCT DREAM 정규 1집 ‘맛(Hot Sauce)’, 9월 NCT 127 정규 3집 ‘스티커(Sticke]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전미경 '장녹수', 애틋함 내뿜은 '불후의 명곡']]></title>
         <id>https://entertain.v.daum.net/v/20211216000008842</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211215165223300"/>
         <updated>2021-12-15T08:25:57.278Z</updated>
         <content type="html"><![CDATA[[동아닷컴] 오마이걸 23일 신곡 ‘Shark’ 발매 확정 [공식] 유니버스가 걸그룹 오마이걸(OH MY GIRL)과 함께 특급 시너지를 선사한다. 15일 글로벌 팬덤 플랫폼 유니버스(UNIVERSE) 측은 “오는 23일 유니버스 뮤직에서 선보이는 오마이걸의 신곡 ‘Shark (샤크)’ 발매를 확정 지었다”고 전했다. 이와 함께 지난 14일 유니버스 앱과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[갓세븐 영재, 오늘 '같이 걸어가줘요' 발매..연말 시즌송 느낌]]></title>
-        <id>https://entertain.v.daum.net/v/20211215163259683</id>
-        <link href="https://entertain.v.daum.net/v/20211215163259683"/>
-        <updated>2021-12-15T08:25:57.282Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 갓세븐 영재가 솔로 앨범 발매 2개월만에 새로운 곡으로 팬들을 만난다. 영재는 12월 15일 오후 6시 각종 음원사이트를 통해 디지털 싱글 ‘같이 걸어가줘요’를 발매한다. ‘같이 걸어가줘요’는 사랑하는 사람에게 이제 나와 함께 해달라는 따뜻한 고백의 가사가 인상적인 곡으로 영재가 직접 작사 작곡에 참여했다. 영재 특유의 감미로운 보]]></content>
     </entry>
 </feed>
