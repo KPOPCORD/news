@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-15T10:24:54.207Z</updated>
+    <updated>2021-12-15T11:18:32.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에버글로우, 블랙홀 같은 매력의 우주 해적]]></title>
+        <id>https://entertain.v.daum.net/v/20211215195127708</id>
+        <link href="https://entertain.v.daum.net/v/20211215195127708"/>
+        <updated>2021-12-15T11:17:59.865Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김수진 기자] 그룹 에버글로우(EVERGLOW)가 블랙홀 같은 매력으로 글로벌 팬들의 마음을 싹쓸이했다. 에버글로우(이유, 시현, 미아, 온다, 아샤, 이런)는 15일 오후 방송된 MBC M '쇼! 챔피언'에 출연해 세 번째 미니앨범 'Return of The Girl (리턴 오브 더 걸)' 타이틀곡 'Pirate (파일럿)' 무대를 선보였다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고스트나인, 마음 홀리는 마성의 지휘돌]]></title>
+        <id>https://entertain.v.daum.net/v/20211215194325484</id>
+        <link href="https://entertain.v.daum.net/v/20211215194325484"/>
+        <updated>2021-12-15T11:17:59.869Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김수진 기자] 사진 = MBC M ‘쇼! 챔피언’ 방송 화면 캡처그룹 고스트나인(GHOST9)이 치명적 카리스마와 남성미로 무대를 장악했다. 고스트나인(손준형, 이신, 최준성, 이강성, 프린스, 이우진, 이진우)은 15일 방송된 MBC M '쇼! 챔피언'에서 새 미니앨범 'NOW : Who we are facing (나우 : 후 위 아 페이싱)']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[길구봉구 길구, 아빠 된다..결혼 2년 만에 경사]]></title>
         <id>https://entertain.v.daum.net/v/20211215185934746</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211215162546411"/>
         <updated>2021-12-15T08:25:57.284Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 세계적인 ‘K’ 열풍 속 K팝 가수들이 너도나도 동양미로 ‘뽐’을 내고 있다. 전통 악기를 활용한 음악부터 한복과 전통 소품을 사용한 비주얼까지, K팝의 높아진 위상 속 한국의 미를 알리는 행보가 눈길을 끈다. 엑소 카이는 지난달 30일 발매된 두 번째 미니 앨범 ‘피치스(Peaches)’을 통해 복숭아처럼 달콤한 매력의 동양미를 선보이고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['결혼 발표' 황찬성, 일-사랑 다 잡았다..옥택연 "항상 응원"]]></title>
-        <id>https://entertain.v.daum.net/v/20211215162407357</id>
-        <link href="https://entertain.v.daum.net/v/20211215162407357"/>
-        <updated>2021-12-15T08:25:57.284Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김한길 기자] 그룹 2PM의 황찬성이 내년 결혼한다. 2PM 활동에 이어 배우로서도 가능성을 보여온 그. 일과 사랑을 모두 잡게 됐다. 황찬성은 15일, 자신의 SNS를 통해 여자친구의 임신 소식과 함께, 내년 초 결혼 소식까지 전했다. 그는 "저에게는 오랫동안 교제해 온 사람이 있다. 이 사람은 긴 시간 불안정한 제 마음의 안식처이자 무엇이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에스파, '2021 SBS 연예대상' 축하 공연]]></title>
-        <id>https://entertain.v.daum.net/v/20211215154914049</id>
-        <link href="https://entertain.v.daum.net/v/20211215154914049"/>
-        <updated>2021-12-15T07:22:56.328Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 박상후 기자] 그룹 에스파가 '2021 SBS 연예대상'에 참여한다. SBS 측은 15일 "에스파가 '2021 SBS 연예대상'에 출연해 축하공연을 펼친다"라고 밝혔다. '2021 SBS 연예대상'은 2021년을 빛낸 SBS 예능인들과 함께 'Next Level'이라는 부제로 올해의 SBS 예능 총결산은 물론, 메타버스 콘셉트의 세트와 무]]></content>
     </entry>
 </feed>

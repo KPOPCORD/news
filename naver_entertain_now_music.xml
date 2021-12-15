@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-15T10:24:54.209Z</updated>
+    <updated>2021-12-15T11:18:32.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신예 토미요, 데뷔곡 ‘춤’으로 출격]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000781215</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000781215"/>
+        <updated>2021-12-15T11:18:17.570Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 신예 아티스트 토미요가 첫 싱글 ‘춤’으로 가요계에 출격한다. 오는 21일 정오 각종 음원사이트를 통해 토미요 첫 번째 싱글 ‘춤’이 공개될 예정이다. 싱글 ‘춤’은 모던 록에 기반한 스타일과 몽환적인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에버글로우, 블랙홀 같은 매력의 우주 해적 [쇼챔피언]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003013040</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003013040"/>
+        <updated>2021-12-15T11:18:17.571Z</updated>
+        <content type="html"><![CDATA[그룹 에버글로우(EVERGLOW)가 블랙홀 같은 매력으로 글로벌 팬들의 마음을 싹쓸이했다. 에버글로우(이유, 시현, 미아, 온다, 아샤, 이런)는 15일 오후 방송된 MBC M '쇼! 챔피언'에 출연해 세 번째 미니]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고스트나인, 마음 홀리는 마성의 지휘돌 [쇼챔피언]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003013039</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003013039"/>
+        <updated>2021-12-15T11:18:17.572Z</updated>
+        <content type="html"><![CDATA[그룹 고스트나인(GHOST9)이 치명적 카리스마와 남성미로 무대를 장악했다. 고스트나인(손준형, 이신, 최준성, 이강성, 프린스, 이우진, 이진우)은 15일 방송된 MBC M '쇼! 챔피언'에서 새 미니앨범 'NOW]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 '프랑켄슈타인' 포토존, 왜 이렇게 웅장한가 봤더니]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003562727</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003562727"/>
+        <updated>2021-12-15T11:18:17.573Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 이승록 기자] 뮤지컬 ‘프랑켄슈타인’ 웅장한 포토존이 관객들의 마음을 사로잡고 있다. 매 회차마다 관객들의 호평을 받으며 순항하고 있는 뮤지컬 ‘프랑켄슈타인’의 극장 로비는 공연 관람 전후 포토존 앞]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라비, 새 싱글 'ANI' 댄스 챌린지 열풍..전소연→이찬원 참여]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003013033</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003013033"/>
+        <updated>2021-12-15T11:18:17.574Z</updated>
+        <content type="html"><![CDATA[가수 라비의 신곡 'ANI(애니)' 댄스 챌린지가 뜨거운 열풍을 불러일으키고 있다. (여자)아이들 소연부터 이찬원까지 장르 불문 아티스트들이 글로벌 숏 비디오 플랫폼 틱톡(Tik Tok)을 통해 진행되는 '애니' 챌]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독]길구봉구 길구, 아빠 된다..결혼 2년 만에 경사]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003013029</id>
@@ -144,40 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003013016"/>
         <updated>2021-12-15T08:26:16.268Z</updated>
         <content type="html"><![CDATA[보이그룹 T1419(티일사일구)가 '무궁화 꽃이 피었습니다' 활동을 마무리했다. T1419는 지난 14일 방송된 SBS MTV '더쇼(THE SHOW)'에 출연해 '무궁화 꽃이 피었습니다(Red Light, Gree]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강다니엘, 겨울 여심을 사로잡는 비주얼]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001385700</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001385700"/>
-        <updated>2021-12-15T08:26:16.273Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 강다니엘의 비주얼이 눈길을 끈다. 15일 강다니엘 인스타그램에는 “겨울겨울”이라는 글과 함께 사진이 게재됐다. 사진 속 그는 카메라를 바라보고 있다. 그의 남다른 비주얼은 팬들의 시선을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2PM 찬성, “오래 교제한 사람과 내년 결혼…생명의 축복”]]></title>
-        <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0001925210</id>
-        <link href="https://entertain.naver.com/now/read?oid=016&amp;aid=0001925210"/>
-        <updated>2021-12-15T08:26:16.273Z</updated>
-        <content type="html"><![CDATA[[헤럴드경제=고승희 기자] 그룹 2PM의 찬성이 내년이면 아빠가 된다. 찬성은 15일 자신의 인스타그램을 통해 다가올 새해의 결혼 계획과 2세를 가진 사실을 밝혔다. 그는 “저에게는 오랫동안 교제해 온 사람이 있다”]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단 뷔, ‘그 해 우리는’ OST ‘크리스마스 트리’ 발매…“크리스마스 선물” [앳뉴스]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=415&amp;aid=0000006741</id>
-        <link href="https://entertain.naver.com/now/read?oid=415&amp;aid=0000006741"/>
-        <updated>2021-12-15T08:26:16.273Z</updated>
-        <content type="html"><![CDATA[[앳스타일 박승현 기자] 방탄소년단 뷔가 참여한 SBS ‘그 해 우리는’의 OST가 크리스마스 이브에 발매된다. 뷔가 참여한 ‘그 해 우리는’ OST ‘크리스마스 트리(Christmas Tree)’가 오는 24일 오]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세븐틴, 美 MTV와 인터뷰...12월의 아티스트 선정]]></title>
-        <id>https://entertain.naver.com/now/read?oid=052&amp;aid=0001677516</id>
-        <link href="https://entertain.naver.com/now/read?oid=052&amp;aid=0001677516"/>
-        <updated>2021-12-15T08:26:16.273Z</updated>
-        <content type="html"><![CDATA[그룹 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)이 미국 MTV와 단독 인터뷰를 했다. 14일(현지 시간) 미국 유명 음악 전문 방송인 MTV 측은 공식]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라비, 새 싱글 ‘ANI’ 댄스 챌린지 열풍]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000781164</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000781164"/>
-        <updated>2021-12-15T08:26:16.275Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 가수 라비의 신곡 ‘ANI(애니)’ 댄스 챌린지가 뜨거운 열풍을 불러일으키고 있다. (여자)아이들 소연부터 이찬원까지 장르 불문 아티스트들이 글로벌 숏 비디오 플랫폼 틱톡(Tik Tok)을 통해 진행되]]></content>
     </entry>
 </feed>
