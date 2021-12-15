@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-15T14:21:23.549Z</updated>
+    <updated>2021-12-15T15:26:37.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[나의 인생곡㊼] 전미경 '장녹수', 애틋함 내뿜은 '불후의 명곡']]></title>
+        <id>https://entertain.naver.com/now/read?oid=629&amp;aid=0000121878</id>
+        <link href="https://entertain.naver.com/now/read?oid=629&amp;aid=0000121878"/>
+        <updated>2021-12-15T15:26:22.746Z</updated>
+        <content type="html"><![CDATA[트로트가 밝고 젊어졌다. 최근 몇 년 사이 방송가에 트로트 오디션 프로그램이 활성화되면서다. 전통적으로 중장년층 전유물처럼 여겨지던 트로트 팬층도 훨씬 넓고 깊고 다양해졌다. 덕분에 잊혀졌던 곡들이 리바이벌 돼 역주]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임영웅 팬들 미혼한부모가정에 500만원 기부..선한 영향력 실천]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003013074</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003013074"/>
+        <updated>2021-12-15T15:26:22.749Z</updated>
+        <content type="html"><![CDATA[가수 임영웅의 팬들이 미혼한부모가정을 위한 사랑의 기부로 선한 영향력을 실천했다. 임영웅 팬클럽 영웅시대 웅벤져스 경기모임은 12월 14일 홀트아동복지회(회장 이수연)에 500만 원을 기부했다. 영웅시대 웅벤져스 경]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국음악레이블산업협회, 네이버와 음원 정산분배 제도화]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000781223</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000837952"/>
         <updated>2021-12-15T09:22:43.114Z</updated>
         <content type="html"><![CDATA[‘트롯 새싹’ 김희진이 깊은 여운을 남겼다. 김희진은 15일 오후 5시 방송된 MBC M, MBC every1 ‘쇼! 챔피언’에 출연, 신곡 ‘삼산이수(三山二水)’로 무대를 꾸몄다. 이날 김희진은 단아한 비주얼로 한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단 뷔, ‘그 해 우리는’ OST ‘Christmas Tree’ 24일 발매... 절친 최우식을 위해]]></title>
-        <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001202238</id>
-        <link href="https://entertain.naver.com/now/read?oid=213&amp;aid=0001202238"/>
-        <updated>2021-12-15T09:22:43.114Z</updated>
-        <content type="html"><![CDATA[방탄소년단(BTS) 뷔가 참여한 SBS 월화드라마 ‘그 해 우리는’의 OST가 크리스마스 이브에 발매된다. 뷔가 참여한 ‘그 해 우리는’ OST ‘Christmas Tree’가 오는 24일 오후 6시 정식 발매된다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리누X요아리, ‘K-pop 페스티벌 위크’서 명곡 메들리]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000781182</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000781182"/>
-        <updated>2021-12-15T09:22:43.115Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 가수 리누와 요아리가 메타버스 공연으로 콘서트에 온 듯한 즐거움을 선사했다. 리누와 요아리는 지난 14일 오후 6시 메타버스 플랫폼서비스 ‘이프랜드(ifland)’의 ‘K-pop 페스티벌 위크’에 출연]]></content>
     </entry>
 </feed>

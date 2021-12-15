@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-15T14:21:23.548Z</updated>
+    <updated>2021-12-15T15:26:37.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전미경 '장녹수', 애틋함 내뿜은 '불후의 명곡']]></title>
+        <id>https://entertain.v.daum.net/v/20211216000008842</id>
+        <link href="https://entertain.v.daum.net/v/20211216000008842"/>
+        <updated>2021-12-15T15:26:04.174Z</updated>
+        <content type="html"><![CDATA[트로트가 밝고 젊어졌다. 최근 몇 년 사이 방송가에 트로트 오디션 프로그램이 활성화되면서다. 전통적으로 중장년층 전유물처럼 여겨지던 트로트 팬층도 훨씬 넓고 깊고 다양해졌다. 덕분에 잊혀졌던 곡들이 리바이벌 돼 역주행 신화를 만들기도 한다. 누구나 무명시절은 있기 마련이고 터닝포인트도 있다. 수많은 히트곡을 낸 레전드 가수들 역시 인생을 바꾼, 또는 족적]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임영웅 팬들 미혼한부모가정에 500만원 기부..선한 영향력 실천]]></title>
+        <id>https://entertain.v.daum.net/v/20211216000002831</id>
+        <link href="https://entertain.v.daum.net/v/20211216000002831"/>
+        <updated>2021-12-15T15:26:04.174Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 문완식 기자] 가수 임영웅의 팬들이 미혼한부모가정을 위한 사랑의 기부로 선한 영향력을 실천했다. 임영웅 팬클럽 영웅시대 웅벤져스 경기모임은 12월 14일 홀트아동복지회(회장 이수연)에 500만 원을 기부했다. 영웅시대 웅벤져스 경기모임은 "'평소 좋아하는 임영웅 씨를 위해 우리 모임에서 작은  도움이라도 되어보자'라는 마음으로 기부를 시작하게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에버글로우, 블랙홀 같은 매력의 우주 해적]]></title>
         <id>https://entertain.v.daum.net/v/20211215195127708</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211215163259683"/>
         <updated>2021-12-15T08:25:57.282Z</updated>
         <content type="html"><![CDATA[[뉴스엔 김명미 기자] 갓세븐 영재가 솔로 앨범 발매 2개월만에 새로운 곡으로 팬들을 만난다. 영재는 12월 15일 오후 6시 각종 음원사이트를 통해 디지털 싱글 ‘같이 걸어가줘요’를 발매한다. ‘같이 걸어가줘요’는 사랑하는 사람에게 이제 나와 함께 해달라는 따뜻한 고백의 가사가 인상적인 곡으로 영재가 직접 작사 작곡에 참여했다. 영재 특유의 감미로운 보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['RBW 형제그룹' 원어스X원위, 겨울 시즌송 'STAY' 티저 '감성 시너지']]></title>
-        <id>https://entertain.v.daum.net/v/20211215162920540</id>
-        <link href="https://entertain.v.daum.net/v/20211215162920540"/>
-        <updated>2021-12-15T08:25:57.283Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] RBW 형제 그룹 원어스(ONEUS)와 원위(ONEWE)의 합동 싱글 티저 이미지가 공개됐다. 원어스(RAVN(레이븐)·서호·이도·건희·환웅·시온)와 원위(용훈·강현·하린·동명·키아)는 12월 15일 0시 공식 SNS를 통해 디지털 싱글 'STAY'의 콘셉트가 담긴 티저 이미지를 선보이며 팬들의 기대감을 고조시켰다. 사진에는 자연광]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['K' 열풍 속 한복으로 '뽐'낸 아이돌]]></title>
-        <id>https://entertain.v.daum.net/v/20211215162546411</id>
-        <link href="https://entertain.v.daum.net/v/20211215162546411"/>
-        <updated>2021-12-15T08:25:57.284Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 세계적인 ‘K’ 열풍 속 K팝 가수들이 너도나도 동양미로 ‘뽐’을 내고 있다. 전통 악기를 활용한 음악부터 한복과 전통 소품을 사용한 비주얼까지, K팝의 높아진 위상 속 한국의 미를 알리는 행보가 눈길을 끈다. 엑소 카이는 지난달 30일 발매된 두 번째 미니 앨범 ‘피치스(Peaches)’을 통해 복숭아처럼 달콤한 매력의 동양미를 선보이고]]></content>
     </entry>
 </feed>
