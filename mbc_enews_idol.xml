@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 05:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 06:25:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[포토] 김우석, '부캐'로 인사드립니다]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333407</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333407</guid>
+            <pubDate>Wed, 15 Dec 2021 06:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333407">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/15/8cdf5683-d06f-4543-8f18-d4245c0628c2.jpg" alt="[포토] 김우석, '부캐'로 인사드립니다">        <div class="text-box">            <p class="summary">[포토] 김우석, '부캐'로 인사드립니다</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/15/8cdf5683-d06f-4543-8f18-d4245c0628c2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[온앤오프 막내 유, '최애 형' 최초 고백(주간아이돌)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/333399</link>
@@ -86,14 +94,6 @@
             <pubDate>Tue, 14 Dec 2021 06:25:42 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333334">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/14/49ea475d-663a-4aba-9172-3cf3fc195cab.JPG" alt="제시카, 망사 스타킹 완벽 소화…여신 비주얼 인증 [인스타]">        <div class="text-box">            <p class="summary">제시카, 망사 스타킹 완벽 소화…여신 비주얼 인증 [인스타]</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/14/49ea475d-663a-4aba-9172-3cf3fc195cab.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 도영, 친형 공명 입대에 따뜻한 응원 "잘 다녀와" [인스타]]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333333</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333333</guid>
-            <pubDate>Tue, 14 Dec 2021 06:25:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333333">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/14/316aa826-680a-4667-92bc-40ffae68e3f5.jpg" alt="NCT 도영, 친형 공명 입대에 따뜻한 응원 " 잘="" 다녀와"="" [인스타]"="">        <div class="text-box">            <p class="summary">NCT 도영, 친형 공명 입대에 따뜻한 응원 "잘 다녀와" [인스타]</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/14/316aa826-680a-4667-92bc-40ffae68e3f5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
