@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-15T08:26:31.103Z</updated>
+    <updated>2021-12-15T09:22:58.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[中 톱스타 왕리홍, 10살 연하 아내와 이혼 발표..결혼 8년만 [Oh! 차이나]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004526999</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004526999"/>
+        <updated>2021-12-15T09:22:57.637Z</updated>
+        <content type="html"><![CDATA[[OSEN=지민경 기자] 중화권 톱스타 왕리홍이 결혼 8년 만에 이혼했다. 15일(현지 시간) 다수의 중국 매체 보도에 따르면 왕리홍은 지난 11월 말 10살 연하 아내 리징레이와 이혼하고 지난 8년 간의 결혼 생활]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[빌리 아일리시 "지난 8월 코로나 감염…백신 맞고 살았다" [엑's 해외이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001385716</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010890454"/>
         <updated>2021-12-15T03:23:01.223Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]김예지 인턴 기자 = 엔시티(NCT)가 정규 3집 '유니버스(Universe)' 발매와 동시에 국내외 차트 1위를 차지했다. 15일 SM엔터테인먼트에 따르면, 지난 14일 발매된 엔시티 정규 3집 '유]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['드래곤볼' 성우 야나미 조지, 요양 중 별세…향년 90세 [엑's 재팬]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001385538</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001385538"/>
-        <updated>2021-12-15T02:36:42.980Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) '드래곤볼'로 유명한 일본의 성우 야나미 조지가 세상을 떠났다. 지난 14일 NHK 등 다수 매체는 야나미 조지가 지난 3일 세상을 떠났다고 보도했다. 향년 90세. 1931년생인 야나미]]></content>
     </entry>
 </feed>

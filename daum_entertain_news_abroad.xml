@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-12-15T08:26:31.102Z</updated>
+    <updated>2021-12-15T09:22:58.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[中 톱스타 왕리홍, 10살 연하 아내와 이혼 발표..결혼 8년만]]></title>
+        <id>https://entertain.v.daum.net/v/20211215172626434</id>
+        <link href="https://entertain.v.daum.net/v/20211215172626434"/>
+        <updated>2021-12-15T09:22:35.265Z</updated>
+        <content type="html"><![CDATA[[OSEN=지민경 기자] 중화권 톱스타 왕리홍이 결혼 8년 만에 이혼했다. 15일(현지 시간) 다수의 중국 매체 보도에 따르면 왕리홍은 지난 11월 말 10살 연하 아내 리징레이와 이혼하고 지난 8년 간의 결혼 생활을 마무리 했다. 왕리홍 역시 이날 오후 자신의 웨이보를 통해 이혼을 공식 인정했다. 그는 “최근 몇 년 간의 결혼 생활 중 내가 부족한 점이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[빌리 아일리시 "지난 8월 코로나 감염..백신 맞고 살았다"]]></title>
         <id>https://entertain.v.daum.net/v/20211215172441375</id>
