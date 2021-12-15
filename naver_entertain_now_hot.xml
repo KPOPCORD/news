@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-12-15T17:27:20.123Z</updated>
+    <updated>2021-12-15T18:26:40.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강유미 “큰 사랑, ‘개콘’ 전성기 안 부러워” [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000951363</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000951363"/>
+        <updated>2021-12-15T18:26:31.535Z</updated>
+        <content type="html"><![CDATA[강유미 “큰 사랑, ‘개콘’ 전성기 안 부러워” [화보] 크리에이터 강유미가 매거진 빅이슈 265호의 커버 모델이 됐다. 유튜브 ‘좋아서 하는 채널’의 콘텐츠를 통해 수많은 캐릭터를 창조해내며 다채로운 모습을 보여주]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍광호, 재발행 더뮤지컬 첫호 표지 장식]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000951362</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0004894383"/>
         <updated>2021-12-15T12:34:50.456Z</updated>
         <content type="html"><![CDATA[그룹 2PM 소속사 JYP 엔터테인먼트가 멤버들의 계약 기간에 대한 입장을 밝혔다. 15일 JYP엔터테인먼트 관계자는 매일경제 스타투데이에 “멤버별로 재재재계약 시 계약 기간이 다 달랐으며, 찬성의 경우 계약 기간이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허니제이, 5억 넘는 고급 외제차 자랑..."자낳괴" 고백]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003812911</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003812911"/>
-        <updated>2021-12-15T12:34:50.460Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 조윤선 기자] 댄서 허니제이가 여유 넘치는 근황을 공개했다. 허니제이는 15일 자신의 인스타그램에 "나는 아닌 줄 알았어. 자낳괴(자본주의가 낳은 괴물)"라는 글과 함께 사진을 게재했다. 사진 속 허니제]]></content>
     </entry>
 </feed>
