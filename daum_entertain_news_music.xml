@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-16T20:22:21.161Z</updated>
+    <updated>2021-12-16T21:20:06.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영탁 팬클럽 '영탁이 딱이야' 사랑의열매 5천만원 기부..나눔리더스클럽 가입]]></title>
+        <id>https://entertain.v.daum.net/v/20211217060002147</id>
+        <link href="https://entertain.v.daum.net/v/20211217060002147"/>
+        <updated>2021-12-16T21:19:35.076Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 문완식 기자] 영탁 가수 영탁의 팬클럽 '영탁이 딱이야'가 사랑의열매에 5000여만 원을 기부하며 '희망2022나눔캠페인'에 팬덤기부 1호로 참여, '나눔리더스클럽'에 가입했다. 17일 사랑의열매 사회복지공동모금회(회장 조흥식)에 따르면 '영탁이 딱이야'는 지난 16일 서울 중구 사랑의열매 회관에서 기부금을 전달하고 나눔리더스클럽에 가입했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['국민가수' 1위 박창근 등 '톱7' 확정..조연호·김희석·김영흠 탈락]]></title>
         <id>https://entertain.v.daum.net/v/20211217011007649</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211216180325675"/>
         <updated>2021-12-16T09:21:36.316Z</updated>
         <content type="html"><![CDATA[[OSEN=지민경 기자] 가수 정승환이 신곡 '별 (Dear)'로 또 하나의 겨울 발라드 명곡을 추가했다. 정승환은 16일 오후 6시 각종 음원사이트를 통해 새 싱글 '별 (Dear)’ 음원과 뮤직비디오를 공개했다. 겨울에 발표하는 곡마다 리스너들의 많은 사랑을 받으며 믿고 듣는 정승환의 겨울 발라드라는 자신의 영역을 구축한 정승환이 올해 겨울에도 어김없이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무대 찢었다! 스트레이 키즈 2021 AAA 무대 비하인드 영상 공개]]></title>
-        <id>https://entertain.v.daum.net/v/20211216180126606</id>
-        <link href="https://entertain.v.daum.net/v/20211216180126606"/>
-        <updated>2021-12-16T09:21:36.324Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 문완식 기자] ▶[ENG] [2021 AAA BEHIND] Stray Kids(스트레이 키즈) AAA Behind 비하인드 [2021 Asia Artist Awards] (AAA 2021)★ 그룹 스트레이 키즈(Stray Kids)의 2021 Asia Artist Awards(2021 아시아 아티스트 어워즈, 2021 AAA) 무대 비하인드 영상]]></content>
     </entry>
 </feed>
