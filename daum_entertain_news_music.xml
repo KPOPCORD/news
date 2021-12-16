@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-16T02:38:06.770Z</updated>
+    <updated>2021-12-16T03:23:09.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임영웅, 가온 소셜차트 4위→유튜브 누적 조회수 11억 6000만뷰 돌파..히어로 겹경사]]></title>
+        <id>https://entertain.v.daum.net/v/20211216122037299</id>
+        <link href="https://entertain.v.daum.net/v/20211216122037299"/>
+        <updated>2021-12-16T03:22:34.843Z</updated>
+        <content type="html"><![CDATA[[OSEN=이승훈 기자]&nbsp;가수&nbsp;임영웅이 가온차트 50주차 소셜 차트에서 주간 랭킹 4위를 차지했다. 9일 한국음악콘텐츠협회에서 운영하는 가온차트는 지난달 5일부터 11일까지 진행된 50주차 소셜차트 순위를 공개했다. 순위에 따르면, 임영웅은 그룹 방탄소년단, 리사, 블랙핑크에 이어 4위에 이름을 올렸다. 이로써&nbsp;임영웅은 트로트 가수로서 최정상에 올랐다. 앞]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[레드벨벳→에스파, '2021 SBS 가요대전' 라인업 확정]]></title>
+        <id>https://entertain.v.daum.net/v/20211216121915278</id>
+        <link href="https://entertain.v.daum.net/v/20211216121915278"/>
+        <updated>2021-12-16T03:22:34.845Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 박상후 기자] '2021 SBS 가요대전'의 화려한 라인업이 공개됐다. SBS 측은 16일 "'2021 SBS 가요대전' 최종 라인업이 드디어 확정됐다"라고 밝혔다. 공개된 라인업에는  NCT 127, NCT DREAM, 키, 뉴이스트, 레드벨벳, 오마이걸, 브레이브걸스, 아스트로, 더보이즈, 스트레이키즈, 에이티즈, ITZY, 투모로우바]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이브, '일레븐'으로 음악방송 3관왕 등극.."실감 안 나"]]></title>
         <id>https://entertain.v.daum.net/v/20211216112931469</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211216100806116"/>
         <updated>2021-12-16T01:08:52.873Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김지하 기자] 정부가 또다시 '거리두기 강화'를 발표하며, 공연계가 긴장 상태에 돌입했다. 김부겸 국무총리는 16일 정부서울청사에서 신종 코로나바이러스 감염증(코로나19) 대응 중앙재난안전대책본부(중대본) 회의를 주재하고 사적모임 허용 인원을 4인까지로 축소하고, 이를 전국에 걸쳐 동일하게 적용하는 등의 거리두기 강화 조정안을 발표했다. 시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동방신기, 26일 데뷔 18주년 기념 유튜브 라이브]]></title>
-        <id>https://entertain.v.daum.net/v/20211216100715083</id>
-        <link href="https://entertain.v.daum.net/v/20211216100715083"/>
-        <updated>2021-12-16T01:08:52.887Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 그룹 동방신기가 데뷔 18주년을 맞아 팬들과 소통한다. 동방신기는 데뷔 기념일인 12월 26일 오후 5시부터 유튜브 동방신기 채널을 통해 생방송 ‘Dinner with Cassiopeia│TVXQ! 18th Anniversary Party’(디너 위드 카시오페아│TVXQ! 18th 애니버서리 파티)를 펼친다. 이번 방송에서 동방신]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유노윤호 활동 재개..동방신기, 26일 18주년 라이브 방송]]></title>
-        <id>https://entertain.v.daum.net/v/20211216100538978</id>
-        <link href="https://entertain.v.daum.net/v/20211216100538978"/>
-        <updated>2021-12-16T01:08:52.888Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] 영업제한 시간 이후에도 유흥주점에 있다가 적발돼 과태료를 문 유노윤호가 활동을 재개한다. 유노윤호는 동방신기로서 데뷔 18주년을 맞아 스페셜 생방송으로 팬들과 만난다. 동방신기는 데뷔 기념일인 12월 26일 오후 5시부터 유튜브 동방신기 채널을 통해 생방송 ‘Dinner with Cassiopeia│TVXQ! 18th Anniversary]]></content>
     </entry>
 </feed>
