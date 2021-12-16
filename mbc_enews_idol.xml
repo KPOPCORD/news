@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 06:27:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 07:21:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['대마 흡연 혐의' 정일훈, 실형 피했다…항소심서 석방 [종합]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333523</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333523</guid>
+            <pubDate>Thu, 16 Dec 2021 07:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333523">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/16/5014f2e9-48c4-44a8-a836-597464cc76d6.jpg" alt="'대마 흡연 혐의' 정일훈, 실형 피했다…항소심서 석방 [종합]">        <div class="text-box">            <p class="summary">'대마 흡연 혐의' 정일훈, 실형 피했다…항소심서 석방 [종합]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/16/5014f2e9-48c4-44a8-a836-597464cc76d6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['야생돌', 오늘(16일) 최종 데뷔조 결정된다…대망의 파이널 생방송]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/333507</link>
@@ -86,14 +94,6 @@
             <pubDate>Thu, 16 Dec 2021 01:08:47 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333467">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/16/13a57cc9-3492-4ce1-bf47-becfc43ee325.jpg" alt="'야생돌', 오늘(16일) 파이널 생방송 진행…넬 김종완과 완벽 시너지">        <div class="text-box">            <p class="summary">'야생돌', 오늘(16일) 파이널 생방송 진행…넬 김종완과 완벽 시너지</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/16/13a57cc9-3492-4ce1-bf47-becfc43ee325.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[온앤오프, 동반 입대 앞두고 '주간아이돌'서 뭉클 인사]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333457</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333457</guid>
-            <pubDate>Thu, 16 Dec 2021 01:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333457">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/16/ccc0be9c-80b8-49b4-a3f7-90aab5fc0cdd.jpg" alt="온앤오프, 동반 입대 앞두고 '주간아이돌'서 뭉클 인사">        <div class="text-box">            <p class="summary">온앤오프, 동반 입대 앞두고 '주간아이돌'서 뭉클 인사</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/16/ccc0be9c-80b8-49b4-a3f7-90aab5fc0cdd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-16T06:27:03.158Z</updated>
+    <updated>2021-12-16T07:21:23.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['90일의 약혼자' 인기 출연자, 코로나로 사망..향년 45세 [Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004527489</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004527489"/>
+        <updated>2021-12-16T07:21:22.731Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 미국 인기 리얼리티쇼인 TLC '90일의 약혼자(90 Day Fiancé)' 시즌 2 스타 중 한 명인 제이슨 히치가 신종코로나바이러스감염증(COVID-19)으로 인한 합병증으로 사]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카메론 감독 "'아바타' 속편 극장 개봉=도박…돈 벌까?" [Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004527487</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004527487"/>
+        <updated>2021-12-16T07:21:22.731Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 영화감독 제임스 카메론이 차기작 ‘아바타’ 시리즈와 관련, “도박이 될 거 같다”라고 말했다. 제임스 카메론 감독은 15일(현지 시간) 엔터테인먼트 위클리와 인터뷰에서 “오랫동안 기다려온 ‘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[젠데이아, 남친 '♥톰 홀랜드' 향한 애정 "나의 스파이더맨" [Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004527476</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005787361"/>
         <updated>2021-12-16T01:09:25.961Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 박형기 기자 = 오징어게임 추리닝 등 관련 상품이 핼러윈데이를 휩쓴데 이어 크리스마스도 석권할 조짐이라고 홍콩의 영자지 사우스차이나모닝포스트(SCMP)가 16일 보도했다. ‘무궁화 꽃이 피었습니다’]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[벤 애플렉, 전처 발언 '비난 세례'.."제니퍼와 계속 살면 술 못 끊었다" [Oh!llywood]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004527235</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004527235"/>
-        <updated>2021-12-15T23:21:45.728Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 할리우드 배우 벤 애플렉이 전처 관련 발언으로 뭇매를 맞고 있다. 애플렉은 최근 시리우스XM의 '하워드 스턴 쇼'에 출연, 가너와의 결혼 생활에 옥죄인 느낌을 가졌다고 털어놓으며 "(결혼 생]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“11살때부터 야동 너무 많이 봐 뇌 파괴돼”, 19살 빌리 아일리시 충격고백[해외이슈](종합)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003562781</id>
-        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003562781"/>
-        <updated>2021-12-15T21:21:27.156Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘그래미 여신’ 빌리 아일리시(19)가 11살 때부터 야동(포르노)을 너무 많이 봐 악몽에 시달렸다고 털어놓았다. 그는 14일(현지시간) ‘하워드 스턴 쇼'에 출연해 "여성으로서 야동을]]></content>
     </entry>
 </feed>
