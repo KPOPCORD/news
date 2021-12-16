@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-16T15:24:44.133Z</updated>
+    <updated>2021-12-16T16:34:22.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['국민가수' 1위 박창근 등 '톱7' 확정..조연호·김희석·김영흠 탈락]]></title>
+        <id>https://entertain.v.daum.net/v/20211217011007649</id>
+        <link href="https://entertain.v.daum.net/v/20211217011007649"/>
+        <updated>2021-12-16T16:33:47.583Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김한길 기자] '국민가수' 박창근, 김동현, 이솔로몬, 이병찬, 박장현, 고은성, 손진욱이 톱7에 이름을 올리며 최종 파이널에 진출했고, 조연호, 김희석, 김영흠은 최종 탈락했다. 16일 밤 방송된 TV CHOSUN 오디션프로그램 '내일은 국민가수'(이하 '국민가수') 11회에서는 톱10 멤버 중 톱7을 가리는, 결승 1라운드 '레전드 미션]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['국민가수' 윤민수, 고은성 무대 극찬 "발성은 두성, 흉성 아니고 고은성"]]></title>
         <id>https://entertain.v.daum.net/v/20211217000407296</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211216180126606"/>
         <updated>2021-12-16T09:21:36.324Z</updated>
         <content type="html"><![CDATA[[스타뉴스 문완식 기자] ▶[ENG] [2021 AAA BEHIND] Stray Kids(스트레이 키즈) AAA Behind 비하인드 [2021 Asia Artist Awards] (AAA 2021)★ 그룹 스트레이 키즈(Stray Kids)의 2021 Asia Artist Awards(2021 아시아 아티스트 어워즈, 2021 AAA) 무대 비하인드 영상]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정승환, 발라드 황태자의 위로 "밤이 깊을 수록 더 빛나는 '별'"]]></title>
-        <id>https://entertain.v.daum.net/v/20211216180010547</id>
-        <link href="https://entertain.v.daum.net/v/20211216180010547"/>
-        <updated>2021-12-16T09:21:36.324Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] 가수 정승환이 오늘(16일) 오후 6시 디지털 싱글 '별 (Dear)'을 발표했다. 신곡 '별 (Dear)'은 정승환이 사랑하는 사람들에게 들려주고, 또 듣고 싶은 이야기를 고유의 방식으로 표현해낸 자작곡이다. '2019 정승환의 안녕, 겨울 : 우리가 사랑한 1년' 공연을 통해 팬들에게만 선공개된 적이 있어 특별하다. 다양한 밴드 사운드]]></content>
     </entry>
 </feed>
