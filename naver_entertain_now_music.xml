@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-16T13:28:08.557Z</updated>
+    <updated>2021-12-16T14:21:04.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트와이스, 24일 콘서트 취소…거리두기 강화 탓]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010894217</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010894217"/>
+        <updated>2021-12-16T14:20:49.840Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 25~26일 공연은 예정대로 진행 26일 공연은 온라인 중계도 [서울=뉴시스]이재훈 기자 = 정부의 코로나19 관련 거리두기 강화로 그룹 '트와이스'의 오프라인 콘서트 일부가 취소됐다. 소속사 JYP엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[woo!ah!(우아!), 日 디저트 테마파크 엠버서더 전격 발탁 [공식]]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001386293</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003813191"/>
         <updated>2021-12-16T09:21:53.963Z</updated>
         <content type="html"><![CDATA[[스포츠조선 백지은 기자] '밸런스돌' 퍼플키스의 메인 보컬 수안이 '학교 2021' OST 가창에 참여한다. 수안은 17일 오후 6시 KBS2 수목극 '학교 2021' 6번째 OST '멍하니'를 발매한다. '멍하니]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김나영, 마이큐와 열애 "11월부터 연인 발전"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010893935</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010893935"/>
-        <updated>2021-12-16T09:21:53.964Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스] 최지윤 기자 = MC 김나영(40)이 싱어송라이터 마이큐(40·유현석)와 한달째 열애 중이다. 김나영 소속사 스카이이앤엠은 16일 "마이큐와 만남을 이어가고 있다"면서 "11월부터 연인으로 발전했다.]]></content>
     </entry>
 </feed>
