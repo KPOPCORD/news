@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-12-16T18:25:35.742Z</updated>
+    <updated>2021-12-16T19:18:58.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[몬스타엑스 민혁 “공연장 꽉 채운 팬들 함성 그리워” [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000951555</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000951555"/>
+        <updated>2021-12-16T19:18:49.132Z</updated>
+        <content type="html"><![CDATA[몬스타엑스 민혁 “공연장 꽉 채운 팬들 함성 그리워” [화보] 그룹 몬스타엑스(MONSTA X) 민혁이 싱글즈 2022년 첫 커버를 장식했다. 16일 라이프스타일 매거진 싱글즈는 2022년 1월 호 커버를 장식한 몬]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마술사 최현우 “데뷔 25주년, 마법과 같은 시간” [화보]]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000951554</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=014&amp;aid=0004757349</id>
         <link href="https://entertain.naver.com/now/read?oid=014&amp;aid=0004757349"/>
         <updated>2021-12-16T15:24:36.937Z</updated>
-        <content type="html"><![CDATA[[FN스타 이승훈 기자] 그룹 아이브가 16일 서울 여의도 KBS에서 진행된 '2021 KBS 가요대축제’ 사전녹화를 마치고 길을 나서고 있다. totopurdy_star@fnnews.com fn스타 이승훈 기자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 아이브 리즈, '금발머리 인형의 하트']]></title>
-        <id>https://entertain.naver.com/now/read?oid=014&amp;aid=0004757348</id>
-        <link href="https://entertain.naver.com/now/read?oid=014&amp;aid=0004757348"/>
-        <updated>2021-12-16T15:24:36.939Z</updated>
         <content type="html"><![CDATA[[FN스타 이승훈 기자] 그룹 아이브가 16일 서울 여의도 KBS에서 진행된 '2021 KBS 가요대축제’ 사전녹화를 마치고 길을 나서고 있다. totopurdy_star@fnnews.com fn스타 이승훈 기자]]></content>
     </entry>
 </feed>
