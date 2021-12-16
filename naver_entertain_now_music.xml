@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-16T12:34:01.807Z</updated>
+    <updated>2021-12-16T13:28:08.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[woo!ah!(우아!), 日 디저트 테마파크 엠버서더 전격 발탁 [공식]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001386293</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001386293"/>
+        <updated>2021-12-16T13:27:54.646Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 그룹 woo!ah!(우아!)가 일본 도쿄 지유가오카의 스위츠(디저트) 테마파크 '스윗츠 포레스트' 엠버서더로 나선다. 일본 주식회사 오카타 부동산은 16일 "woo!ah!(우아!)가 일본]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SKT, 체험형 음악전시 ‘사운드 팩토리’ 개최]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000781498</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010893935"/>
         <updated>2021-12-16T09:21:53.964Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스] 최지윤 기자 = MC 김나영(40)이 싱어송라이터 마이큐(40·유현석)와 한달째 열애 중이다. 김나영 소속사 스카이이앤엠은 16일 "마이큐와 만남을 이어가고 있다"면서 "11월부터 연인으로 발전했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송가인, 트롯스타 18주 연속 1위…철옹성 인기 질주]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001386179</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001386179"/>
-        <updated>2021-12-16T09:21:53.965Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김노을 기자) 가수 송가인이 트롯스타 투표에서 18주 연속 압도적인 1위를 차지했다. 송가인은 지난 9일부터 16일까지 스타랭킹 플랫폼에서 진행된 ‘트롯스타 여자 1위는?’이라는 투표에서 81,928표]]></content>
     </entry>
 </feed>
