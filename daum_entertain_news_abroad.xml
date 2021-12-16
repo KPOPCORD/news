@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-12-16T08:27:26.529Z</updated>
+    <updated>2021-12-16T09:22:08.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아바타' 제임스 카메론 감독 "차기작 흥행 여부? 장담할 수 없다"]]></title>
+        <id>https://entertain.v.daum.net/v/20211216173116591</id>
+        <link href="https://entertain.v.daum.net/v/20211216173116591"/>
+        <updated>2021-12-16T09:21:46.393Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 제임스 카메론 감독이 '아바타' 차기작에 대해 말했다. 제임스 카메론은 14일(현지시간) 엔터테인먼트 위클리와의 인터뷰에서 영화 '아바타2'의 제작 근황을 들려줬다. 이날 제임스 카메론은 "'아바타'의 엄청난 성공으로 후속작까지 제작할 수 있었지만, 차기작이 흥행할 수 있을 것 같냐에 대한 질문에는 쉽사리 대답하지 못할 것 같다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['90일의 약혼자' 인기 출연자, 코로나로 사망..향년 45세]]></title>
         <id>https://entertain.v.daum.net/v/20211216160218729</id>
