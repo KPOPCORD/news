@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-16T10:23:06.495Z</updated>
+    <updated>2021-12-16T11:19:43.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["행복했습니다"..김철민 폐암 투병 끝에 사망]]></title>
+        <id>https://entertain.v.daum.net/v/20211216195154609</id>
+        <link href="https://entertain.v.daum.net/v/20211216195154609"/>
+        <updated>2021-12-16T11:19:11.749Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 김철민이 생전 올린 사진. 사진｜김철민 페이스북“행복했습니다”…김철민 폐암 투병 끝에 사망 [종합] 개그맨 김철민이 폐암 투병 끝에 별세했다. 향년 58세. 16일 복수 관계자에 따르면 이날 김철민은 원자력병원 호스피스 병동에서 사망했다. 빈소는 원자력병원 장례식장에 마련된 것으로 알려졌다. 김철민(본명 김철순)은 MBC 공채 5기 개그맨 출]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['정희' 쏠 "에스파 윈터, 친분 없지만 신곡 '메리 메리' 홍보 고마워"]]></title>
         <id>https://entertain.v.daum.net/v/20211216190537765</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211216161340073"/>
         <updated>2021-12-16T07:20:43.344Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 주인공 없는 연말 가요 시상식, 방송사의 고심이 깊어지고 있다. 엠넷 ‘MAMA(아시안 뮤직 어워드)’를 비롯해 지상파 방송 3사의 연말 가요제는 K팝 팬들에게는 빼놓을 수 없는 연례 행사 중 하나다. 코로나19로 생방송 무대나 관객 참여에 어느 정도 제한은 있지만, 그럼에도 팬들의 기대는 뜨겁다. 특히 K팝을 향한 글로벌 관심이 그 어느]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[렌 코로나 음성 "자발적 자가격리, 뉴이스트 4인 무대"]]></title>
-        <id>https://entertain.v.daum.net/v/20211216160935967</id>
-        <link href="https://entertain.v.daum.net/v/20211216160935967"/>
-        <updated>2021-12-16T07:20:43.348Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] 렌 코로나 음성 “자발적 자가격리, 뉴이스트 4인 무대” (전문) [공식] 뉴이스크 렌이 코로나19 확진자와 접촉해 자발적 자가격리 중이다. 검사 결과 음성이 나왔지만 혹시나 모를 상황에 주변 사람들의 건강과 안전을 고려해 내린 결정이다. 소속사 플레디스는 16일 렌이 지난 14일 코로나19 확진자와 접촉해 다음날 즉시 PCR 검사를 받았으며]]></content>
     </entry>
 </feed>
