@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-16T07:21:23.548Z</updated>
+    <updated>2021-12-16T08:27:26.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ITZY, 아일랜드 환아에 특별한 시간 선물]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010893818</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010893818"/>
+        <updated>2021-12-16T08:27:25.827Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]김예지 인턴 기자 = 그룹 있지(ITZY)와 JYP엔터테인먼트가 해외 환아에게 특별한 시간을 선물했다. 16일 JYP에 따르면, 있지는 JYP가 지난해 6월 메이크어위시 코리아와 사회공헌사업 MOU 체]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['90일의 약혼자' 인기 출연자, 코로나로 사망..향년 45세 [Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004527489</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010892145"/>
         <updated>2021-12-16T01:09:25.961Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]김예지 인턴 기자 = '2021 SBS 가요대전' 라인업이 공개됐다. 16일 '2021 SBS 가요대전' 측에 따르면 오는 25일 오후 6시 인천 남동 체육관에서 생방송으로 펼쳐지는 '2021 SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["'오겜' 이정재 트레이닝복·영희 시계, 美성탄절 선물 불티"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005787361</id>
-        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005787361"/>
-        <updated>2021-12-16T01:09:25.961Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 박형기 기자 = 오징어게임 추리닝 등 관련 상품이 핼러윈데이를 휩쓴데 이어 크리스마스도 석권할 조짐이라고 홍콩의 영자지 사우스차이나모닝포스트(SCMP)가 16일 보도했다. ‘무궁화 꽃이 피었습니다’]]></content>
     </entry>
 </feed>

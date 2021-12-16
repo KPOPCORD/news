@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 07:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 08:27:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[움짤] 장원영 안유진, '아는 자매님' 출근길 다이브~]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333527</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333527</guid>
+            <pubDate>Thu, 16 Dec 2021 08:26:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333527">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/16/e1b81f0b-a863-4f4b-9a53-c49400abe05d.gif" alt="[움짤] 장원영 안유진, '아는 자매님' 출근길 다이브~">        <div class="text-box">            <p class="summary">[움짤] 장원영 안유진, '아는 자매님' 출근길 다이브~</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/16/e1b81f0b-a863-4f4b-9a53-c49400abe05d.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA['대마 흡연 혐의' 정일훈, 실형 피했다…항소심서 석방 [종합]]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/333523</link>
@@ -86,14 +94,6 @@
             <pubDate>Thu, 16 Dec 2021 02:37:30 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333475">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/16/e882556d-7e5c-45a0-b91d-ee7403ee8934.jpg" alt="러블리즈 진 " 외모비하·인신공격="" 악플러,="" 강력="" 대응"="" [전문]"="">        <div class="text-box">            <p class="summary">러블리즈 진 "외모비하·인신공격 악플러, 강력 대응" [전문]</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/16/e882556d-7e5c-45a0-b91d-ee7403ee8934.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['야생돌', 오늘(16일) 파이널 생방송 진행…넬 김종완과 완벽 시너지]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333467</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333467</guid>
-            <pubDate>Thu, 16 Dec 2021 01:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333467">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/16/13a57cc9-3492-4ce1-bf47-becfc43ee325.jpg" alt="'야생돌', 오늘(16일) 파이널 생방송 진행…넬 김종완과 완벽 시너지">        <div class="text-box">            <p class="summary">'야생돌', 오늘(16일) 파이널 생방송 진행…넬 김종완과 완벽 시너지</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/16/13a57cc9-3492-4ce1-bf47-becfc43ee325.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
