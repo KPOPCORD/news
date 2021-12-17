@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-17T12:35:19.004Z</updated>
+    <updated>2021-12-17T13:26:42.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['방과후 설렘' 유리 팬몰이 발언 논란..알고 보니 악마의 편집?]]></title>
+        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004685100</id>
+        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004685100"/>
+        <updated>2021-12-17T13:26:41.423Z</updated>
+        <content type="html"><![CDATA[그룹 소녀시대 멤버 유리가 MBC '방과후 설렘' 방송에서 한 '팬몰이 멤버' 발언으로 논란이 된 가운데 누리꾼들이 '악마의 편집'을 지적했다. 17일 MBC 걸그룹 오디션 프로그램 '방과후 설렘' 유튜브 채널에는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[해외 톱스타들도 '돌파 감염'..찰리 푸스도 코로나19 확진]]></title>
         <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004685098</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838383"/>
         <updated>2021-12-17T10:24:30.759Z</updated>
         <content type="html"><![CDATA[SF9이 17일 오후 서울 영등포구 여의도 KBS에서 진행된 KBS 가요대축제에 참석하고 있다. 사진=KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더보이즈 'KBS 가요대축제 참석' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838382</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838382"/>
-        <updated>2021-12-17T10:24:30.770Z</updated>
-        <content type="html"><![CDATA[더보이즈가 17일 오후 서울 영등포구 여의도 KBS에서 진행된 KBS 가요대축제에 참석하고 있다. 사진=KBS]]></content>
     </entry>
 </feed>
