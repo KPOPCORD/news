@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 09:23:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 10:24:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[록킹돌 레나 "포기하고 싶은 순간 많았지만 멤버들과 극복"]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333605</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333605</guid>
+            <pubDate>Fri, 17 Dec 2021 10:23:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333605">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/17/743dd616-86b6-41ac-9afa-b1461730fbac.JPG" alt="록킹돌 레나 " 포기하고="" 싶은="" 순간="" 많았지만="" 멤버들과="" 극복""="">        <div class="text-box">            <p class="summary">록킹돌 레나 "포기하고 싶은 순간 많았지만 멤버들과 극복"</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/17/743dd616-86b6-41ac-9afa-b1461730fbac.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[록킹돌 로아·아리 "데뷔 꿈만 같아, 성장하는 모습 보여줄 것"]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/333604</link>
@@ -86,14 +94,6 @@
             <pubDate>Thu, 16 Dec 2021 07:20:35 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333523">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/16/5014f2e9-48c4-44a8-a836-597464cc76d6.jpg" alt="'대마 흡연 혐의' 정일훈, 실형 피했다…항소심서 석방 [종합]">        <div class="text-box">            <p class="summary">'대마 흡연 혐의' 정일훈, 실형 피했다…항소심서 석방 [종합]</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/16/5014f2e9-48c4-44a8-a836-597464cc76d6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['야생돌', 오늘(16일) 최종 데뷔조 결정된다…대망의 파이널 생방송]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333507</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333507</guid>
-            <pubDate>Thu, 16 Dec 2021 06:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333507">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/16/459d5d61-e737-4178-8451-ce71fe542101.jpg" alt="'야생돌', 오늘(16일) 최종 데뷔조 결정된다…대망의 파이널 생방송">        <div class="text-box">            <p class="summary">'야생돌', 오늘(16일) 최종 데뷔조 결정된다…대망의 파이널 생방송</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/16/459d5d61-e737-4178-8451-ce71fe542101.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

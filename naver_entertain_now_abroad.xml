@@ -2,182 +2,182 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-17T09:23:18.935Z</updated>
+    <updated>2021-12-17T10:24:31.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[영화의 날 펼쳐진 한복 퍼포먼스 [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838355</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838355"/>
-        <updated>2021-12-17T09:23:18.312Z</updated>
+        <title type="html"><![CDATA[SF9 'KBS 가요대축제 즐겨요' [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838383</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838383"/>
+        <updated>2021-12-17T10:24:30.759Z</updated>
+        <content type="html"><![CDATA[SF9이 17일 오후 서울 영등포구 여의도 KBS에서 진행된 KBS 가요대축제에 참석하고 있다. 사진=KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더보이즈 'KBS 가요대축제 참석' [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838382</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838382"/>
+        <updated>2021-12-17T10:24:30.770Z</updated>
+        <content type="html"><![CDATA[더보이즈가 17일 오후 서울 영등포구 여의도 KBS에서 진행된 KBS 가요대축제에 참석하고 있다. 사진=KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김우석 '가요대축제 기대하세요' [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838381</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838381"/>
+        <updated>2021-12-17T10:24:30.770Z</updated>
+        <content type="html"><![CDATA[김우석이 17일 오후 서울 영등포구 여의도 KBS에서 진행된 KBS 가요대축제에 참석하고 있다. 사진=KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김우석 '반가운 인사' [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838380</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838380"/>
+        <updated>2021-12-17T10:24:30.770Z</updated>
+        <content type="html"><![CDATA[김우석이 17일 오후 서울 영등포구 여의도 KBS에서 진행된 KBS 가요대축제에 참석하고 있다. 사진=KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투모로우 바이 투게더 '가요대축제 출석' [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838379</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838379"/>
+        <updated>2021-12-17T10:24:30.770Z</updated>
+        <content type="html"><![CDATA[투모로우 바이 투게더가 17일 오후 서울 영등포구 여의도 KBS에서 진행된 KBS 가요대축제에 참석하고 있다. 사진=KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에스파 '상큼한 하트' [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838378</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838378"/>
+        <updated>2021-12-17T10:24:30.770Z</updated>
+        <content type="html"><![CDATA[에스파가 17일 오후 서울 영등포구 여의도 KBS에서 진행된 KBS 가요대축제에 참석하고 있다. 사진=KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리는 에스파 [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838377</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838377"/>
+        <updated>2021-12-17T10:24:30.771Z</updated>
+        <content type="html"><![CDATA[에스파가 17일 오후 서울 영등포구 여의도 KBS에서 진행된 KBS 가요대축제에 참석하고 있다. 사진=KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에스파 닝닝 '사랑스러운 손인사' [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838376</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838376"/>
+        <updated>2021-12-17T10:24:30.773Z</updated>
+        <content type="html"><![CDATA[에스파 닝닝이 17일 오후 서울 영등포구 여의도 KBS에서 진행된 KBS 가요대축제에 참석하고 있다. 사진=KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지젤-윈터 '가요대축제 왔습니다' [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838375</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838375"/>
+        <updated>2021-12-17T10:24:30.774Z</updated>
+        <content type="html"><![CDATA[에스파 지젤, 윈터가 17일 오후 서울 영등포구 여의도 KBS에서 진행된 KBS 가요대축제에 참석하고 있다. 사진=KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카리나 '가려도 예쁨' [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838374</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838374"/>
+        <updated>2021-12-17T10:24:30.775Z</updated>
+        <content type="html"><![CDATA[에스파 카리나가 17일 오후 서울 영등포구 여의도 KBS에서 진행된 KBS 가요대축제에 참석하고 있다. 사진=KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강다니엘 '가요대축제 함께 즐겨요' [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838372</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838372"/>
+        <updated>2021-12-17T10:24:30.776Z</updated>
+        <content type="html"><![CDATA[강다니엘이 17일 오후 서울 영등포구 여의도 KBS에서 진행된 KBS 가요대축제에 참석하고 있다. 사진=KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강다니엘 '하트는 선물' [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838371</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838371"/>
+        <updated>2021-12-17T10:24:30.778Z</updated>
+        <content type="html"><![CDATA[강다니엘이 17일 오후 서울 영등포구 여의도 KBS에서 진행된 KBS 가요대축제에 참석하고 있다. 사진=KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[차상복 대표 '국회보건복지위원장상 수상' [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838369</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838369"/>
+        <updated>2021-12-17T10:24:30.778Z</updated>
         <content type="html"><![CDATA[제59회 영화의 날 기념행사가 17일 오후 목동 로운아트홀에서 열렸다. 이날 영화의 날은 사단법인 한국영화인총연합회가 주최하고 제59회 영화의 날 조직위원회와 한국프리미엄브랜드진흥원이 주관하며 문화체육관광부, 서울특]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[조하영 대표 '한복 미녀들과 무대인사' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838354</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838354"/>
-        <updated>2021-12-17T09:23:18.312Z</updated>
+        <title type="html"><![CDATA[방여름 디노블 대표 '국회문화체육관광위원장상 수상' [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838368</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838368"/>
+        <updated>2021-12-17T10:24:30.780Z</updated>
         <content type="html"><![CDATA[제59회 영화의 날 기념행사가 17일 오후 목동 로운아트홀에서 열렸다. 이날 영화의 날은 사단법인 한국영화인총연합회가 주최하고 제59회 영화의 날 조직위원회와 한국프리미엄브랜드진흥원이 주관하며 문화체육관광부, 서울특]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[영화의 날 아름다운 한복 퍼포먼스 [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838353</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838353"/>
-        <updated>2021-12-17T09:23:18.313Z</updated>
+        <title type="html"><![CDATA[김성희 '영화의 날 뜻깊은 상 받았어요' [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838367</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838367"/>
+        <updated>2021-12-17T10:24:30.780Z</updated>
         <content type="html"><![CDATA[제59회 영화의 날 기념행사가 17일 오후 목동 로운아트홀에서 열렸다. 이날 영화의 날은 사단법인 한국영화인총연합회가 주최하고 제59회 영화의 날 조직위원회와 한국프리미엄브랜드진흥원이 주관하며 문화체육관광부, 서울특]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[단미한복과 함께 하는 영화의 날 [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838352</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838352"/>
-        <updated>2021-12-17T09:23:18.315Z</updated>
+        <title type="html"><![CDATA[김형일 '영화의 날 수상 기념촬영' [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838366</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838366"/>
+        <updated>2021-12-17T10:24:30.782Z</updated>
         <content type="html"><![CDATA[제59회 영화의 날 기념행사가 17일 오후 목동 로운아트홀에서 열렸다. 이날 영화의 날은 사단법인 한국영화인총연합회가 주최하고 제59회 영화의 날 조직위원회와 한국프리미엄브랜드진흥원이 주관하며 문화체육관광부, 서울특]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[조하영 대표 '영화인들 향해 인사' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838351</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838351"/>
-        <updated>2021-12-17T09:23:18.316Z</updated>
+        <title type="html"><![CDATA[김희라 '영화의 날 공로패 수상' [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838364</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838364"/>
+        <updated>2021-12-17T10:24:30.782Z</updated>
         <content type="html"><![CDATA[제59회 영화의 날 기념행사가 17일 오후 목동 로운아트홀에서 열렸다. 이날 영화의 날은 사단법인 한국영화인총연합회가 주최하고 제59회 영화의 날 조직위원회와 한국프리미엄브랜드진흥원이 주관하며 문화체육관광부, 서울특]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[조하영 대표 '한복은 영화인과 함께 합니다' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838350</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838350"/>
-        <updated>2021-12-17T09:23:18.317Z</updated>
+        <title type="html"><![CDATA[한지일 '공로패 받았습니다' [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838363</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838363"/>
+        <updated>2021-12-17T10:24:30.782Z</updated>
         <content type="html"><![CDATA[제59회 영화의 날 기념행사가 17일 오후 목동 로운아트홀에서 열렸다. 이날 영화의 날은 사단법인 한국영화인총연합회가 주최하고 제59회 영화의 날 조직위원회와 한국프리미엄브랜드진흥원이 주관하며 문화체육관광부, 서울특]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김혜원-김태환, '영화의 날' 기념행사 깔끔한 진행 [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838348</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838348"/>
-        <updated>2021-12-17T09:23:18.319Z</updated>
-        <content type="html"><![CDATA[제59회 영화인의 날 기념행사가 17일 오후 목동 로운아트홀에서 열렸다. 이날 영화인의 날은 사단법인 한국영화인총연합회가 주최하고 제59회 영화의날 조직위원회와 한국프리미엄브랜드진흥원이 주관하며 문화체육관광부, 서울]]></content>
+        <title type="html"><![CDATA[김현중 조직위원장 '한지일에 공로패 시상' [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838362</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838362"/>
+        <updated>2021-12-17T10:24:30.786Z</updated>
+        <content type="html"><![CDATA[제59회 영화의 날 기념행사가 17일 오후 목동 로운아트홀에서 열렸다. 이날 영화의 날은 사단법인 한국영화인총연합회가 주최하고 제59회 영화의 날 조직위원회와 한국프리미엄브랜드진흥원이 주관하며 문화체육관광부, 서울특]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김혜원-김태환 '영화의 날 사회 맡았어요' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838347</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838347"/>
-        <updated>2021-12-17T09:23:18.320Z</updated>
-        <content type="html"><![CDATA[제59회 영화인의 날 기념행사가 17일 오후 목동 로운아트홀에서 열렸다. 이날 영화인의 날은 사단법인 한국영화인총연합회가 주최하고 제59회 영화의날 조직위원회와 한국프리미엄브랜드진흥원이 주관하며 문화체육관광부, 서울]]></content>
+        <title type="html"><![CDATA[이빈화 '공로패 받았어요' [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838361</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838361"/>
+        <updated>2021-12-17T10:24:30.786Z</updated>
+        <content type="html"><![CDATA[제59회 영화의 날 기념행사가 17일 오후 목동 로운아트홀에서 열렸다. 이날 영화의 날은 사단법인 한국영화인총연합회가 주최하고 제59회 영화의 날 조직위원회와 한국프리미엄브랜드진흥원이 주관하며 문화체육관광부, 서울특]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김보연 '착한 브랜드 시상합니다' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838346</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838346"/>
-        <updated>2021-12-17T09:23:18.321Z</updated>
-        <content type="html"><![CDATA[제59회 영화의 날 기념행사가 17일 오후 목동 로운아트홀에서 열렸다. 이날 영화의 날은 사단법인 한국영화인총연합회가 주최하고 제59회 영화의날 조직위원회와 한국프리미엄브랜드진흥원이 주관하며 문화체육관광부, 서울특별]]></content>
+        <title type="html"><![CDATA[김보연 '기념촬영은 필수' [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838360</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838360"/>
+        <updated>2021-12-17T10:24:30.786Z</updated>
+        <content type="html"><![CDATA[제59회 영화의 날 기념행사가 17일 오후 목동 로운아트홀에서 열렸다. 이날 영화의 날은 사단법인 한국영화인총연합회가 주최하고 제59회 영화의 날 조직위원회와 한국프리미엄브랜드진흥원이 주관하며 문화체육관광부, 서울특]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김보연 '시상하러 왔어요' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838345</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838345"/>
-        <updated>2021-12-17T09:23:18.323Z</updated>
-        <content type="html"><![CDATA[제59회 영화의 날 기념행사가 17일 오후 목동 로운아트홀에서 열렸다. 이날 영화의 날은 사단법인 한국영화인총연합회가 주최하고 제59회 영화의날 조직위원회와 한국프리미엄브랜드진흥원이 주관하며 문화체육관광부, 서울특별]]></content>
+        <title type="html"><![CDATA[김보연 '국회문화체육관광위원장상 받았어요' [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838359</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838359"/>
+        <updated>2021-12-17T10:24:30.790Z</updated>
+        <content type="html"><![CDATA[제59회 영화의 날 기념행사가 17일 오후 목동 로운아트홀에서 열렸다. 이날 영화의 날은 사단법인 한국영화인총연합회가 주최하고 제59회 영화의 날 조직위원회와 한국프리미엄브랜드진흥원이 주관하며 문화체육관광부, 서울특]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[차상복 대표 '영화인들이 뽑은 착한 브랜드 대상' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838344</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838344"/>
-        <updated>2021-12-17T09:23:18.324Z</updated>
-        <content type="html"><![CDATA[제59회 영화의 날 기념행사가 17일 오후 목동 로운아트홀에서 열렸다. 이날 영화의 날은 사단법인 한국영화인총연합회가 주최하고 제59회 영화의날 조직위원회와 한국프리미엄브랜드진흥원이 주관하며 문화체육관광부, 서울특별]]></content>
+        <title type="html"><![CDATA[김현중 조직위원장 '제59회 영화의 날' 기념사 [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838358</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838358"/>
+        <updated>2021-12-17T10:24:30.792Z</updated>
+        <content type="html"><![CDATA[제59회 영화의 날 기념행사가 17일 오후 목동 로운아트홀에서 열렸다. 이날 영화의 날은 사단법인 한국영화인총연합회가 주최하고 제59회 영화의 날 조직위원회와 한국프리미엄브랜드진흥원이 주관하며 문화체육관광부, 서울특]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[록킹돌 주리 '요정 미모' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838341</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838341"/>
-        <updated>2021-12-17T08:26:04.726Z</updated>
-        <content type="html"><![CDATA[그룹 록킹돌(Rocking doll) 첫 번째 싱글 앨범 'Rocking Doll' 발매 기념 쇼케이스가 17일 온라인으로 진행됐다. 록킹돌 주리가 포즈를 취하고 있다. 사진=SRP엔터테인먼트 [천정환 MK스포츠 기]]></content>
+        <title type="html"><![CDATA[김현중 조직위원장 '영화의 날' 축하합니다 [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838357</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838357"/>
+        <updated>2021-12-17T10:24:30.792Z</updated>
+        <content type="html"><![CDATA[제59회 영화의 날 기념행사가 17일 오후 목동 로운아트홀에서 열렸다. 이날 영화의 날은 사단법인 한국영화인총연합회가 주최하고 제59회 영화의 날 조직위원회와 한국프리미엄브랜드진흥원이 주관하며 문화체육관광부, 서울특]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[록킹돌 주리 '엘프 미모' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838340</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838340"/>
-        <updated>2021-12-17T08:26:04.727Z</updated>
-        <content type="html"><![CDATA[그룹 록킹돌(Rocking doll) 첫 번째 싱글 앨범 'Rocking Doll' 발매 기념 쇼케이스가 17일 온라인으로 진행됐다. 록킹돌 주리가 포즈를 취하고 있다. 사진=SRP엔터테인먼트 [천정환 MK스포츠 기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[록킹돌 아리 '설레는 데뷔' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838338</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838338"/>
-        <updated>2021-12-17T08:26:04.727Z</updated>
-        <content type="html"><![CDATA[그룹 록킹돌(Rocking doll) 첫 번째 싱글 앨범 'Rocking Doll' 발매 기념 쇼케이스가 17일 온라인으로 진행됐다. 록킹돌 아리가 포즈를 취하고 있다. 사진=SRP엔터테인먼트 [천정환 MK스포츠 기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[록킹돌 로아 '섹시한 눈빛' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838337</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838337"/>
-        <updated>2021-12-17T08:26:04.730Z</updated>
-        <content type="html"><![CDATA[그룹 록킹돌(Rocking doll) 첫 번째 싱글 앨범 'Rocking Doll' 발매 기념 쇼케이스가 17일 온라인으로 진행됐다. 록킹돌 로아가 포즈를 취하고 있다. 사진=SRP엔터테인먼트 [천정환 MK스포츠 기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[록킹돌 로아 '청순 엘프' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838336</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838336"/>
-        <updated>2021-12-17T08:26:04.730Z</updated>
-        <content type="html"><![CDATA[그룹 록킹돌(Rocking doll) 첫 번째 싱글 앨범 'Rocking Doll' 발매 기념 쇼케이스가 17일 온라인으로 진행됐다. 록킹돌 로아가 포즈를 취하고 있다. 사진=SRP엔터테인먼트 [천정환 MK스포츠 기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[록킹돌 레나 '요정 귀가 포인트' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838334</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838334"/>
-        <updated>2021-12-17T08:26:04.731Z</updated>
-        <content type="html"><![CDATA[그룹 록킹돌(Rocking doll) 첫 번째 싱글 앨범 'Rocking Doll' 발매 기념 쇼케이스가 17일 온라인으로 진행됐다. 록킹돌 레나가 포즈를 취하고 있다. 사진=SRP엔터테인먼트 [천정환 MK스포츠 기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[록킹돌 '요정 귀에 깜짝!' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838333</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838333"/>
-        <updated>2021-12-17T08:26:04.732Z</updated>
-        <content type="html"><![CDATA[그룹 록킹돌(Rocking doll) 첫 번째 싱글 앨범 'Rocking Doll' 발매 기념 쇼케이스가 17일 온라인으로 진행됐다. 사진=SRP엔터테인먼트 [천정환 MK스포츠 기자]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[록킹돌 '요정 귀' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838332</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838332"/>
-        <updated>2021-12-17T08:26:04.733Z</updated>
-        <content type="html"><![CDATA[그룹 록킹돌(Rocking doll) 첫 번째 싱글 앨범 'Rocking Doll' 발매 기념 쇼케이스가 17일 온라인으로 진행됐다. 사진=SRP엔터테인먼트 [천정환 MK스포츠 기자]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[록킹돌 '첫 번째 싱글 앨범' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838330</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838330"/>
-        <updated>2021-12-17T08:26:04.734Z</updated>
-        <content type="html"><![CDATA[그룹 록킹돌(Rocking doll) 첫 번째 싱글 앨범 'Rocking Doll' 발매 기념 쇼케이스가 17일 온라인으로 진행됐다. 사진=SRP엔터테인먼트 [천정환 MK스포츠 기자]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[록킹돌 '떨리는 쇼케이스' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838329</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838329"/>
-        <updated>2021-12-17T08:26:04.738Z</updated>
-        <content type="html"><![CDATA[그룹 록킹돌(Rocking doll) 첫 번째 싱글 앨범 'Rocking Doll' 발매 기념 쇼케이스가 17일 온라인으로 진행됐다. 사진=SRP엔터테인먼트 [천정환 MK스포츠 기자]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빌리 아일리시 이어 찰리 푸스까지 “코로나19 양성 판정”]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000523664</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000523664"/>
-        <updated>2021-12-17T08:26:04.738Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 가수 찰리 푸스(Charlie Puth)가 신종 코로나바이러스 감염증(코로나19) 확진 판정을 받았다. 찰리 푸스는 12월 16일(한국시간) 공식 SNS를 통해 팬들에게 인사를 건넨 후 "오늘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[찰리 푸스, 코로나19 확진 고백 “기분 좋지 않아”]]></title>
-        <id>https://entertain.naver.com/now/read?oid=022&amp;aid=0003648846</id>
-        <link href="https://entertain.naver.com/now/read?oid=022&amp;aid=0003648846"/>
-        <updated>2021-12-17T08:26:04.738Z</updated>
-        <content type="html"><![CDATA[가수 찰리 푸스(사진)가 신종 코로나바이러스 감염증(코로나 19)에 걸렸다. 푸스는 지난 16일(현지시간) 트위터에 “오늘 아침 코로나 양성 반응이 나왔다”고 밝혔다. 그는 “기분이 좋지는 않지만 최악의 상황은 지난]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“백신 두 번 맞았는데...” 찰리 푸스 코로나 걸렸다[해외이슈]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003563173</id>
-        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003563173"/>
-        <updated>2021-12-17T08:26:04.738Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]인기 아티스트 찰리 푸스가 코로나 19에 감염됐다. 찰리 푸스는 16일(현지시간) 트위터에 “오늘 아침 코로나 양성 반응이 나왔다"고 말했다. 이어 ”기분이 좋지는 않지만 최악의 상황은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[벤 애플렉, 전처 관련 발언 보도에 불만…"날 끔찍하게 묘사" [엑's 할리우드]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001386560</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001386560"/>
-        <updated>2021-12-17T07:21:41.508Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 할리우드 배우 벤 애플렉이 자신의 발언이 왜곡된 것에 대해 불만을 토로했다. 지난 16일(현지시간) 벤 애플렉은 '지미 키멜 쇼'에 출연해 "얼마 전에 당신의 친구 하워드 스턴이 진행하는]]></content>
+        <title type="html"><![CDATA[김현중 '조직위원장 '제59회 영화의 날'을 축하합니다 [MK포토]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838356</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838356"/>
+        <updated>2021-12-17T10:24:30.792Z</updated>
+        <content type="html"><![CDATA[제59회 영화의 날 기념행사가 17일 오후 목동 로운아트홀에서 열렸다. 이날 영화의 날은 사단법인 한국영화인총연합회가 주최하고 제59회 영화의 날 조직위원회와 한국프리미엄브랜드진흥원이 주관하며 문화체육관광부, 서울특]]></content>
     </entry>
 </feed>
