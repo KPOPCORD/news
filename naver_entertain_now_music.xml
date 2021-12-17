@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-17T20:20:11.615Z</updated>
+    <updated>2021-12-17T21:19:08.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팝업★]故샤이니 종현, 오늘(18일) 4주기..너무 빨랐던 이별]]></title>
+        <id>https://entertain.naver.com/now/read?oid=112&amp;aid=0003511061</id>
+        <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003511061"/>
+        <updated>2021-12-17T21:18:53.811Z</updated>
+        <content type="html"><![CDATA[[헤럴드POP=박서현기자] 그룹 샤이니 멤버 종현이 세상을 떠난지 4년이라는 시간이 흘렀다. 지난 2017년 12월 18일 故종현의 비보가 전해졌다. 향년 28세. 글로벌 아이돌 종현의 가슴아픈 소식에 전세계 팬들은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엑소-트와이스, 11월 이어 ‘최애돌’ 명예전당 1위…기부천사 등극]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001386834</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838415"/>
         <updated>2021-12-17T13:26:26.224Z</updated>
         <content type="html"><![CDATA[오마이걸이 반전되는 매력을 뽐냈다. 17일 오후 서울 영등포구 여의도 KBS홀에서 ‘2021 KBS 가요대축제’가 열렸다. 이날 AOA 설현, SF9 로운, 아스트로 차은우가 진행을 맡았다. 오마이걸은 한국의 아름다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더보이즈, 윈터송 '캔들스' 무대 첫 공개→달달한 크리스마스 예고 [KBS 가요대축제]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001386777</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001386777"/>
-        <updated>2021-12-17T13:26:26.226Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 더보이즈가 윈터송 '캔들스' 무대를 최초 공개했다. 17일 오후 여의도 KBS홀에서 '2021 KBS 가요대축제'가 열렸다. 이날 진행은 아스트로 차은우, AOA 설현, SF9 로운]]></content>
     </entry>
 </feed>

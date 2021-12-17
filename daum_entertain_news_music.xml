@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-17T20:20:11.612Z</updated>
+    <updated>2021-12-17T21:19:08.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['가요대축제' 로운, 여심 녹인 ★]]></title>
+        <id>https://entertain.v.daum.net/v/20211218060209308</id>
+        <link href="https://entertain.v.daum.net/v/20211218060209308"/>
+        <updated>2021-12-17T21:18:34.365Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 이기은 기자] '2021 가요대축제' SF9(에스에프나인) 로운의 특별한 무대가 여심을 녹였다. 17일 밤 방송된 KBS2 음악프로그램 ‘2021 KBS 가요대축제’에서는 로운의 스페셜 무대가 공개됐다. 이날 로운은 설현, 차은우와 함께 진행자를 맡았다. 깔끔하고 근사한 비주얼에 더불어, 진행 멘트 역시 토씨 하나 틀리지 않는 부드러운 센스로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[춤추는 '팝의 여왕' 마돈나가 록의 전설로 추앙받는다고?]]></title>
         <id>https://entertain.v.daum.net/v/20211218030229557</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211217223502319"/>
         <updated>2021-12-17T14:19:30.211Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김노을 기자) 새로운 9인조 걸그룹이 결성됐다. 17일 오후 여의도 KBS홀에서 '2021 KBS 가요대축제'가 열렸다. 이날 진행은 아스트로 차은우, AOA 설현, SF9 로운이 맡았다. 이날 레드벨벳 웬디, 오마이걸 지호, 브레이브걸스 유나, 있지 유나와 채령, 스테이씨의 시은과 윤, 아이브의 원영과 유진은 F9이라는 팀명으로 새로운 그룹]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT U, 믿고 보는 넘사벽 군무로 완성한 'Universe']]></title>
-        <id>https://entertain.v.daum.net/v/20211217222733281</id>
-        <link href="https://entertain.v.daum.net/v/20211217222733281"/>
-        <updated>2021-12-17T14:19:30.212Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 NCT U가 넘사벽 군무를 선보였다. 17일 오후 여의도 KBS홀에서 '2021 KBS 가요대축제'가 열렸다. 이날 진행은 아스트로 차은우, AOA 설현, SF9 로운이 맡았다. 이날 NCT U는 에너지 넘치는 퍼포먼스와 넘사벽 군무로 2부 마지막 무대를 장식했다. 정규 3집 타이틀곡 'Universe'의 에너지 넘치는 퍼]]></content>
     </entry>
 </feed>
