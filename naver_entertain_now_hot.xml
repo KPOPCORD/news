@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-12-17T16:33:01.783Z</updated>
+    <updated>2021-12-17T17:28:14.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘불가살’ 이준 “이진욱과 연기, 너무 좋아 희열” [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000951713</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000951713"/>
+        <updated>2021-12-17T17:28:06.688Z</updated>
+        <content type="html"><![CDATA[‘불가살’ 이준 “이진욱과 연기, 너무 좋아 희열” [화보] 오늘(18일) 첫방을 앞둔 tvN 드라마 ‘불가살’의 두 배우 이진욱과 이준의 ‘코스모폴리탄’ 1월호 화보와 인터뷰가 공개됐다. 한국의 다도를 테마로 진행]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노엘, 무면허 음주운전 인정…경찰 폭행은 부인]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838425</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838421"/>
         <updated>2021-12-17T14:19:57.705Z</updated>
         <content type="html"><![CDATA[트로트 가수 박성연이 일상을 공유했다. 17일 오후 박성연은 자신의 인스타그램에 “어머 내가 이걸 보다니... 실물영접하구 왔습니다! 영광이옵니다”라는 글과 함께 두 장의 사진을 게재했다. 이어 “#나훈아콘서트 #테]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토]차은우-설현-로운, 가요대축제 파이팅]]></title>
-        <id>https://entertain.naver.com/now/read?oid=009&amp;aid=0004895504</id>
-        <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0004895504"/>
-        <updated>2021-12-17T14:19:57.707Z</updated>
-        <content type="html"><![CDATA[가수 차은우 설현 로운이 17일 오후 비대면으로 진행된 2021 KBS 가요대축제에 참석해 레드카펫을 밟고 있다[사진제공=KBS]]]></content>
     </entry>
 </feed>
