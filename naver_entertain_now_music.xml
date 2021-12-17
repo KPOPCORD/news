@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-17T19:20:01.133Z</updated>
+    <updated>2021-12-17T20:20:11.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엑소-트와이스, 11월 이어 ‘최애돌’ 명예전당 1위…기부천사 등극]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001386834</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001386834"/>
+        <updated>2021-12-17T20:19:57.798Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 아이돌 인기 순위 서비스 ‘최애돌’에서 그룹 엑소(EXO)와 트와이스(TWICE)가 11월에 이어 명예전당 남녀 그룹 누적 순위 1위에 올라 제75대 기부천사로 등극했다. 최근 30일 동]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정신과 전문의가 본 '아는 형님' 권력 구도는…]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010896156</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001386777"/>
         <updated>2021-12-17T13:26:26.226Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 더보이즈가 윈터송 '캔들스' 무대를 최초 공개했다. 17일 오후 여의도 KBS홀에서 '2021 KBS 가요대축제'가 열렸다. 이날 진행은 아스트로 차은우, AOA 설현, SF9 로운]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투모로우바이투게더, 강렬한 'LO$ER=LO♡ER'…카리스마 그 자체 [KBS 가요대축제]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001386774</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001386774"/>
-        <updated>2021-12-17T13:26:26.226Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 투모로우바이투게더가 강렬한 무대를 완성했다. 17일 오후 여의도 KBS홀에서 '2021 KBS 가요대축제'가 열렸다. 이날 진행은 아스트로 차은우, AOA 설현, SF9 로운이 맡았]]></content>
     </entry>
 </feed>

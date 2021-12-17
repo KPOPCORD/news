@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-12-17T19:20:01.137Z</updated>
+    <updated>2021-12-17T20:20:11.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘폐암 투병’ 개그맨 김철민, 오늘(18일) 발인]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838426</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838426"/>
+        <updated>2021-12-17T20:20:04.348Z</updated>
+        <content type="html"><![CDATA[폐암 투병 끝에 하늘로 떠난 코미디언 김철민의 발인식이 오늘(18일) 엄수된다. 18일 오전 10시 원자력병원 장례식장에서 고(故) 김철민의 발인식이 진행된다. 김철민은 지난 2019년 7월 폐암 4기 판정을 받고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘불가살’ 이준 “이진욱과 연기, 너무 좋아 희열” [화보]]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000951713</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000951707"/>
         <updated>2021-12-17T14:19:57.704Z</updated>
         <content type="html"><![CDATA[문소리 여성영화인상 연기상 수상 배우 문소리가 수상 소식을 전했다. 문소리는 어제(16일) 개최된 제22회 ‘올해의 여성영화인상’에 참석, 영화 ‘세자매’로 연기상을 수상했다. 문소리는 이로써 41회 영화평론가협회상]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박성연, 나훈아 실물 영접? “사랑해요 테스형” [똑똑SNS]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838421</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838421"/>
-        <updated>2021-12-17T14:19:57.705Z</updated>
-        <content type="html"><![CDATA[트로트 가수 박성연이 일상을 공유했다. 17일 오후 박성연은 자신의 인스타그램에 “어머 내가 이걸 보다니... 실물영접하구 왔습니다! 영광이옵니다”라는 글과 함께 두 장의 사진을 게재했다. 이어 “#나훈아콘서트 #테]]></content>
     </entry>
 </feed>
