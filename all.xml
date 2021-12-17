@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 13:26:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 14:20:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,60 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211208171639_f75b08545eefb70f59a66d36c9f4e6bf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[배우보다 더 배우~ 우리가 ITZY~ (KBS연예 ─ 연예)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=180633</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=180633</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=180633">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211217225106_fd260208f7e0771ff1b13afe79c925c1.PNG" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=180633">배우보다 더 배우~ 우리가 ITZY~</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=2021%20KBS%20%EA%B0%80%EC%9A%94%EB%8C%80%EC%B6%95%EC%A0%9C">2021 KBS 가요대축제</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211217225106_fd260208f7e0771ff1b13afe79c925c1.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
+            <title><![CDATA[에스파는 나야~ '가요대축제' 접수한 'Savage' (KBS연예 ─ 연예)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=180627</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=180627</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=180627">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211217224209_c61a1d050ed221441b41de23a7e98305_1.PNG" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=180627">에스파는 나야~ '가요대축제' 접수한 'Savage'</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=2021%20KBS%20%EA%B0%80%EC%9A%94%EB%8C%80%EC%B6%95%EC%A0%9C">2021 KBS 가요대축제</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211217224209_c61a1d050ed221441b41de23a7e98305_1.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
+            <title><![CDATA[ITZY부터 아이브까지, 대세 걸그룹 멤버들의 콜라보 F9의 탄생! (KBS연예 ─ 연예)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=180622</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=180622</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=180622">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211217223831_60946d12fbef34aa08221383897f2f07.PNG" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=180622">ITZY부터 아이브까지, 대세 걸그룹 멤버들의 콜라보 F9의 탄생!</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=2021%20KBS%20%EA%B0%80%EC%9A%94%EB%8C%80%EC%B6%95%EC%A0%9C">2021 KBS 가요대축제</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211217223831_60946d12fbef34aa08221383897f2f07.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
             <title><![CDATA[무한확장 NCT U, 터프한 매력으로 휘어잡는 '유니버스' (KBS연예 ─ 연예)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=180616</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=180616</guid>
@@ -654,55 +708,12 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211217202453_119310fdcdb44ce4951a4e245ae996ab.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["신구 캐스트 완벽조화"  뮤지컬 '팬레터' 돌아오다 (KBS연예 ─ 연예)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=180362</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=180362</guid>
-            <pubDate>Fri, 17 Dec 2021 05:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=180362">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211217113318_45274f34a3f94a86ebead00b3b94615b.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=180362">"신구 캐스트 완벽조화"  뮤지컬 '팬레터' 돌아오다</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211217113318_45274f34a3f94a86ebead00b3b94615b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['장르만 로맨스' 무진성, 시크한 매력 발산! (KBS연예 ─ 연예)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=180225</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=180225</guid>
-            <pubDate>Thu, 16 Dec 2021 07:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=180225">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211216154306_8783bca364a7fcb4bfa60b5e682f0566.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=180225">'장르만 로맨스' 무진성, 시크한 매력 발산!</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211216154306_8783bca364a7fcb4bfa60b5e682f0566.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[있지의 선한 영향력, 해외 환아를 위한 특별한 시간! (KBS연예 ─ 연예)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=180197</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=180197</guid>
-            <pubDate>Thu, 16 Dec 2021 05:19:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=180197">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211216135642_55ed171c7bc9cf04d60cca23c86dfa5e.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=180197">있지의 선한 영향력, 해외 환아를 위한 특별한 시간!</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211216135642_55ed171c7bc9cf04d60cca23c86dfa5e.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[블랙핑크 지수, 블랙 드레스 입고 뽐낸 우아 자태 [인스타] (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333616</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333616</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333616">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/17/LaVHaCwdP0JH637753768290920711.jpg" alt="블랙핑크 지수, 블랙 드레스 입고 뽐낸 우아 자태 [인스타] ">        <div class="text-box">            <p class="summary">블랙핑크 지수, 블랙 드레스 입고 뽐낸 우아 자태 [인스타] </p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/17/LaVHaCwdP0JH637753768290920711.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[록킹돌 레나 "포기하고 싶은 순간 많았지만 멤버들과 극복" (MBC 연예 ─ 아이돌)]]></title>
@@ -785,12 +796,60 @@
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/16/e1b81f0b-a863-4f4b-9a53-c49400abe05d.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA['대마 흡연 혐의' 정일훈, 실형 피했다…항소심서 석방 [종합] (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333523</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333523</guid>
-            <pubDate>Thu, 16 Dec 2021 07:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333523">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/16/5014f2e9-48c4-44a8-a836-597464cc76d6.jpg" alt="'대마 흡연 혐의' 정일훈, 실형 피했다…항소심서 석방 [종합]">        <div class="text-box">            <p class="summary">'대마 흡연 혐의' 정일훈, 실형 피했다…항소심서 석방 [종합]</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/16/5014f2e9-48c4-44a8-a836-597464cc76d6.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[레드벨벳, 매혹적인 'Psycho'→크리스마스 요정 'Queendom' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211217231852612</link>
+            <guid>https://entertain.v.daum.net/v/20211217231852612</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 레드벨벳이 극과 극을 오가는 매력을 발산했다. 17일 오후 여의도 KBS홀에서 '2021 KBS 가요대축제'가 열렸다. 이날 진행은 아스트로 차은우, AOA 설현, SF9 로운이 맡았다. 이날 레드벨벳은 올해 큰 사랑을 받은 'Psycho'와 'Queendom'으로 무대를 꾸몄다. 레드벨벳 멤버들은 레드와 블랙의 조화가 돋]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['가요대축제' 방탄소년단 "새해복 많이 받으세요" 영상편지 피날레 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211217231602588</link>
+            <guid>https://entertain.v.daum.net/v/20211217231602588</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 윤상근 기자] /사진=2021 KBS 가요대축제'2021 KBS 가요대축제'가 2021년을 뜨겁게 달군 핫한 K팝 아티스트들의 무대로 완성됐다. 17일 방송된 'KBS 2021 가요대축제'는 차은우, 설현, 로운의 진행으로 개최됐으며 코로나19로 인해 아티스트들과 팬들이 만날 수 없던 상황에서 힘내 '함께' 나아가자는 의미의 'WITH'를 주제로]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["세상 끝나더라도" 세븐틴, 연말 뜨겁게 달군 'Rock with you' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211217230347511</link>
+            <guid>https://entertain.v.daum.net/v/20211217230347511</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 세븐틴이 축제를 뜨겁게 달궜다. 17일 오후 여의도 KBS홀에서 '2021 KBS 가요대축제'가 열렸다. 이날 진행은 아스트로 차은우, AOA 설현, SF9 로운이 맡았다. 이날 세븐틴은 'Crush'와 'Ready to love', 'Rock with you'를 연달아 열창하며 분위기를 끌어올렸다. 특히 마지막곡인 'Ro]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ITZY, 5人5色 '마.피.아. In the morning'..무대 찢었다 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211217225357449</link>
+            <guid>https://entertain.v.daum.net/v/20211217225357449</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 ITZY가 저마다 매력으로 무대를 찢었다. 17일 오후 여의도 KBS홀에서 '2021 KBS 가요대축제'가 열렸다. 이날 진행은 아스트로 차은우, AOA 설현, SF9 로운이 맡았다. 이날 올블랙에서 실버 장식으로 약간의 포인트를 준 의상을 입고 무대에 오른 ITZY는 처음부터 강렬한 눈빛으로 관중을 압도했다. 류진의 파워]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[레드벨벳 웬디→아이브 원영·유진 뭉쳤다..비주얼 끝판왕 유닛 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211217224501395</link>
+            <guid>https://entertain.v.daum.net/v/20211217224501395</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[레드벨벳, 아이브 등 걸그룹이 ‘힘’을 주기 위해 뭉쳤다. 17일 오후 서울 영등포구 여의도 KBS홀에서 ‘2021 KBS 가요대축제’가 열렸다. 이날 AOA 설현, SF9 로운, 아스트로 차은우가 진행을 맡았다. 레드벨벳 웬디, 오마이걸 지호, 브레이브걸스 유나, ITZY 채령과 유나, 스테이씨 시은과 윤, 아이브 원영과 유진 등 9명의 멤버들은 새로운]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['가요대축제' 레드벨벳 웬디→아이브 원영, 소녀시대 '힘내' 스페셜 무대 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211217223610324</link>
+            <guid>https://entertain.v.daum.net/v/20211217223610324</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 윤상근 기자] /사진=2021 KBS 가요대축제 방송화면 레드벨벳 웬디와 오마이걸 지호, 브레이브걸스 유나, ITZY 유나 채령, 스테이씨 시은 유, 아이브 원영 유진이 소녀시대 '힘내'로 색다른 매력을 전했다. 레드벨벳 웬디와 오마이걸 지호, 브레이브걸스 유나, ITZY 유나 채령, 스테이씨 시은 유, 아이브 원영 유진은 17일 방송된 'KBS]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[진짜 소녀시대인 줄..레드벨벳→아이브, 꽃미모 9인조 결성 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211217223502319</link>
+            <guid>https://entertain.v.daum.net/v/20211217223502319</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김노을 기자) 새로운 9인조 걸그룹이 결성됐다. 17일 오후 여의도 KBS홀에서 '2021 KBS 가요대축제'가 열렸다. 이날 진행은 아스트로 차은우, AOA 설현, SF9 로운이 맡았다. 이날 레드벨벳 웬디, 오마이걸 지호, 브레이브걸스 유나, 있지 유나와 채령, 스테이씨의 시은과 윤, 아이브의 원영과 유진은 F9이라는 팀명으로 새로운 그룹]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT U, 믿고 보는 넘사벽 군무로 완성한 'Universe' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211217222733281</link>
+            <guid>https://entertain.v.daum.net/v/20211217222733281</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 NCT U가 넘사벽 군무를 선보였다. 17일 오후 여의도 KBS홀에서 '2021 KBS 가요대축제'가 열렸다. 이날 진행은 아스트로 차은우, AOA 설현, SF9 로운이 맡았다. 이날 NCT U는 에너지 넘치는 퍼포먼스와 넘사벽 군무로 2부 마지막 무대를 장식했다. 정규 3집 타이틀곡 'Universe'의 에너지 넘치는 퍼]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[강다니엘, 혼자 꽉 채운 무대 'Antidote'..독보적 퍼포머 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
@@ -842,165 +901,109 @@
             <content:encoded><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 SF9 로운부터 김우석까지 다채로운 OST 스페셜 무대를 꾸몄다. 17일 오후 여의도 KBS홀에서 '2021 KBS 가요대축제'가 열렸다. 이날 진행은 아스트로 차은우, AOA 설현, SF9 로운이 맡았다. 이날 아스트로 윤산하와 김우석, 더보이즈 현재, 스트레이 키즈 승민은 드라마 '꽃보다 남자' OST '파라다이스'를,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[SF9 로운, 귀여운 진행 실수에 차은우-설현 '빵' 터졌다 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211217213105695</link>
-            <guid>https://entertain.v.daum.net/v/20211217213105695</guid>
-            <pubDate>Fri, 17 Dec 2021 12:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 SF9 로운의 진행 실수에 차은우, 설현이 빵 터졌다. 17일 오후 여의도 KBS홀에서 '2021 KBS 가요대축제'가 열렸다. 이날 진행은 아스트로 차은우, AOA 설현, SF9 로운이 맡았다. 이날 코로나19 여파로 현장에 자리하지 못한 글로벌 팬들은 온라인 생중계로 함께했다. 이에 로운은 "올해 '가요대축제'는 전 세]]></content:encoded>
+            <title><![CDATA[방탄소년단, 영상으로 깜짝 등장.."기적 같은 일들, 모두 아미 덕분" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211217231756606</link>
+            <guid>https://entertain.v.daum.net/v/20211217231756606</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 정지현 기자] 그룹 방탄소년단이 '2021 KBS 가요대축제'에 깜짝 편지 영상으로 등장했다. 17일 오후 '2021 KBS 가요대축제'가 서울 영등포구 여의도 KBS홀에서 AOA 설현, SF9 로운, 아스트로 차은우의 진행으로 펼쳐졌다. 이날 방탄소년단은 "올해 저희에게 특별한 일들이 많이 일어났다. 다 함께 이겨내길 바라는 마음을 담아]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김우석, 누구보다 달콤한 '슈가' 열창..만찢남 비주얼 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211217212407605</link>
-            <guid>https://entertain.v.daum.net/v/20211217212407605</guid>
-            <pubDate>Fri, 17 Dec 2021 12:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김노을 기자) 가수 김우석이 만찢남 비주얼로 축제를 가득 채웠다. 17일 오후 여의도 KBS홀에서 '2021 KBS 가요대축제'가 열렸다. 이날 진행은 아스트로 차은우, AOA 설현, SF9 로운이 맡았다. 이날 김우석은 지난 2월 발표한 곡 '슈가'로 달콤한 보이스를 선사했다. 새하얀 의상을 입고 무대에 오른 그는 볼 한쪽에 큐빅 스티커를]]></content:encoded>
+            <title><![CDATA[레드벨벳·세븐틴→에스파·아이브까지, 2021 총정리..BTS 깜짝 인사 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211217231749605</link>
+            <guid>https://entertain.v.daum.net/v/20211217231749605</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 박하나 기자 = '2021 KBS 가요대축제'가 글로벌 케이팝스타들과 함께 다채로운 무대를 꾸몄다. 17일 오후 8시 30분부터 여의도 KBS홀에서 열린 생방송 '2021 KBS 가요대축제'에서는 코로나19로 K-POP 가수들과 팬들이 만날 수 없던 상황에서 힘내어 '함께' 나아가자는 의미의 'WITH'로 시청자에게 다채로운 무대들을 선]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[투바투X엔하이픈, H.O.T.→방탄소년단 '레전드' 컬래버 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211217211653521</link>
-            <guid>https://entertain.v.daum.net/v/20211217211653521</guid>
-            <pubDate>Fri, 17 Dec 2021 12:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 투모로우바이투게더와 엔하이픈이 가요대축제에 H.O.T., 방탄소년단의 무대를 재해석했다. 17일 오후 여의도 KBS홀에서 '2021 KBS 가요대축제'가 열렸다. 이날 진행은 아스트로 차은우, AOA 설현, SF9 로운이 맡았다. 투모로우바이투게더는 90년대 1세대 아이돌 H.O.T.의 '캔디' 무대를 발랄하게 꾸몄다. 이]]></content:encoded>
+            <title><![CDATA[신기루, 학폭논란 직접 입 열어 "숨겨지지도 않는 몸.." (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211217231712598</link>
+            <guid>https://entertain.v.daum.net/v/20211217231712598</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 최근 학폭 논란에 휩싸인 개그우먼 신기루가 학폭 논란에 직접 입을 열었다. 신기루는 17일 자신의 SNS인스타그램에 장문의 글을 올려 자신을 둘러싼 학폭 논란을 부인하고 자신의 학창시절 학생기록부 등을 공개했다. 또 폭로자의 연락을 기다리겠다고 했다. 신기루는 “숨겨지지도 않는 몸으로 소속사 뒤에 숨어 입장을 밝히다가, 이제서야 제 이야기를]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['엔하이픈→아이브'..4세대 아이돌, '가요대축제' 레드카펫 접수 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211217210708411</link>
-            <guid>https://entertain.v.daum.net/v/20211217210708411</guid>
-            <pubDate>Fri, 17 Dec 2021 12:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[올 한해를 뜨겁게 달궜던 '4세대' 대세 아이돌들이 한 자리에 모였다. 각양각색의 매력이 묻어나는 포즈와 존재감 가득한 비주얼로 '2021 가요대축제'의 레드카펫을 장식한 K-아이돌들의 이모저모를 모아봤다. KBS2 '2021 KBS 가요대축제'가 18일 오후 생방송으로 진행됐다. 올해 '가요대축제'는 코로나19로 인해 K팝 아티스트와 팬들이 만날 수 없는]]></content:encoded>
+            <title><![CDATA['가요대축제' 웬디→유나·원영·유진..비주얼 걸그룹 F9 탄생 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211217231500583</link>
+            <guid>https://entertain.v.daum.net/v/20211217231500583</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[ITZY, 스테이씨, 레드벨벳 등 인기 걸그룹 비주얼 멤버들이 한 자리에 뭉쳤다. 17일 오후 8시 30분터 서울 여의도 KBS 공개홀에서 ‘KBS 2021 가요대축제’가 차은우, 설현, 로운 3MC의 진행으로 펼쳐졌다. 이날 레드벨벳 웬디, 오마이걸 지호, 브레이브걸스 유나, 있지 채령과 유나, 스테이씨 시은과 윤, 아이브 원영과 유진이 프로젝트 걸그]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[투모로우바이투게더·엔하이픈 "컬래버, 달콤하게 불타오를 것" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211217210037319</link>
-            <guid>https://entertain.v.daum.net/v/20211217210037319</guid>
-            <pubDate>Fri, 17 Dec 2021 12:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 투모로우바이투게더와 엔하이픈이 컬래버 무대를 기대케 했다. 17일 오후 여의도 KBS홀에서 '2021 KBS 가요대축제'가 열렸다. 이날 진행은 아스트로 차은우, AOA 설현, SF9 로운이 맡았다. 이날 백스테이지 인터뷰에서 투모로우바이투게더는 엔하이픈과 컬래버레이션 무대에 대해 "모든 분들이 즐길 수 있을 만한 무대를]]></content:encoded>
+            <title><![CDATA['지헤중' 장기용, 이별 고한 송혜교에 "조금만 더 기다려보면 안되나?" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211217230902551</link>
+            <guid>https://entertain.v.daum.net/v/20211217230902551</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:35 GMT</pubDate>
+            <content:encoded><![CDATA['지헤중' 장기용이 송혜교를 설득했다. 17일 방송된 SBS 금토드라마 '지금 헤어지는 중입니다'('이하 '지헤중')에서는 윤재국(장기용 분)이 하영은(송혜교 분)을 이별에 대해 설득하는 모습이 그려졌다. 이날 윤재국은 "인수합병이 다 나쁜 건 아니다. 오히려 더 회사가 커질 수도 있다"고 말했다. 이에 하영은은 "신경 안 쓴다. 어차피 나랑 상관있]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아이브, 완성형 걸그룹의 '일레븐'..매력적인 오프닝 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211217205016163</link>
-            <guid>https://entertain.v.daum.net/v/20211217205016163</guid>
-            <pubDate>Fri, 17 Dec 2021 12:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 아이브가 축제의 시작을 알렸다. 17일 오후 여의도 KBS홀에서 '2021 KBS 가요대축제'가 열렸다. 이날 진행은 아스트로 차은우, AOA 설현, SF9 로운이 맡았다. 이날 단체 오프닝 이후 본격적인 무대의 시작을 알리는 아티스트 오프닝은 아이브가 꾸몄다. 아이브 멤버들은 화이트 의상을 맞춰 입고 사랑스러우면서도 카리]]></content:encoded>
+            <title><![CDATA['옷소매 붉은 끝동' 이준호, 조부 이덕화 오해 샀다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211217230727539</link>
+            <guid>https://entertain.v.daum.net/v/20211217230727539</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 이기은 기자] '옷소매 붉은 끝동' 이준호가 혈육 이덕화의 눈밖에 났다. 17일 밤 방송된 MBC 금토드라마 '옷소매 붉은 끝동'(극본 정해리·연출 정지인) 11회에서는 왕세손 이산(이준호), 궁녀 성덕임(이세영) 궁중 멜로가 그려졌다. 이날 세손 이산은 조부 영조(이덕화)의 치매 증세를 우려했다. 영조는 이산이 이 사실을 세간에 떠들었다고]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[음악레이블산업협회·콘텐츠진흥원, '2021 대중음악 산업 발전을 위한 세미나' 성료 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211217204741132</link>
-            <guid>https://entertain.v.daum.net/v/20211217204741132</guid>
-            <pubDate>Fri, 17 Dec 2021 12:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드경제 = 서병기 선임기자]한국음악레이블산업협회와 한국콘텐츠진흥원이 업계 관계자들과 대중음악 발전을 위한 소통을 펼쳤다. 사단법인 한국음악레이블산업협회(이하 음레협)는 최근 한국콘텐츠진흥원(이하 콘진원)과 함께 ‘2021 대중음악 산업 발전을 위한 세미나’를 개최했다. 이번 세미나에는 레이블, 뮤지션, 공연장 관계자, 프로덕션 업체, 프리랜서 등 음악]]></content:encoded>
+            <title><![CDATA["우린 임신 금지" 현쥬니·별·양은지까지..엄마→아이돌로 뭉쳤다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211217230334510</link>
+            <guid>https://entertain.v.daum.net/v/20211217230334510</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조윤선 기자] '엄마는 아이돌' 완전체 6인이 모였다. 17일 방송된 tvN '엄마는 아이돌'에서는 아이돌에 재도전하는 레전드 걸그룹 맘들의 정체가 공개됐다. 이날 방송에는 가희, 박정아, 선예에 이어 현쥬니가 네 번째 멤버로 등장했다. 여성 4인조 록밴드 벨라마피아 출신인 현쥬니는 '베토벤 바이러스', '아이리스', '태양의 후]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[블랙 드레스 입은 설현, '그대와 함께' 열창하며 축제 포문 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211217204504103</link>
-            <guid>https://entertain.v.daum.net/v/20211217204504103</guid>
-            <pubDate>Fri, 17 Dec 2021 12:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 AOA 멤버 설현이 아름다운 블랙 드레스 자태로 가요대축제 포문을 열었다. 17일 오후 여의도 KBS홀에서 '2021 KBS 가요대축제'가 열렸다. 이날 진행은 아스트로 차은우, AOA 설현, SF9 로운이 맡았다. 이날 세 MC는 '그대와 함께' 초입부를 감미롭게 가창하며 축제의 시작을 알렸다. 그중에서도 단연 눈길을 끄]]></content:encoded>
+            <title><![CDATA['나 혼자 산다' 박세리, 김효주-LPGA 동료 박진영과 집콕 송년회 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211217230304508</link>
+            <guid>https://entertain.v.daum.net/v/20211217230304508</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[‘나 혼자 산다’ 박세리가 집콕 송년회로 2021년을 마무리한다. 오늘(17일) 오후 방송되는 MBC ‘나 혼자 산다’에서는 박세리와 의 집콕 송년회가 공개된다. 박세리가 2021년을 떠나보내는 집콕 송년회를 예고해 기대를 모은다. 박세리가 초대한 손님은 바로 여자 골프 국가대표팀의 막내 김효주와 전 LPGA 프로 선수 박진영. 오붓하게 3인이 모인]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['옷소매' 이준호, 이덕화 분노에 손 화상..장희진, 서효림에 "어리석은 것" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211217222331265</link>
-            <guid>https://entertain.v.daum.net/v/20211217222331265</guid>
-            <pubDate>Fri, 17 Dec 2021 13:26:11 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트=김은정 기자] 장희진이 서효림에게 격노했다. 17일 오후 방송된 MBC 금토드라마 ‘옷소매 붉은 끝동’에서는 이산(이준호 분)이 영조(이덕화 분)의 분노를 받아냈다. 이날 영조는 상에 오른 생감과 게장을 보고 분노했다. "누가 과인에게 이런 음식을 올렸을까?"라며 달궈진 쇠를 들고 모두를 압박했고, 혜빈 홍씨(강말금 분)에게 휘둘렀다. 불안한]]></content:encoded>
+            <title><![CDATA['런닝맨' 하도권 차청화 허영지, 슬기로운 연말 파티 레이스 출격 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211217230001475</link>
+            <guid>https://entertain.v.daum.net/v/20211217230001475</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[배우 하도권 차청화 허영지가 ‘런닝맨’에 뜬다. 19일 방송되는 SBS ‘런닝맨’에서는 하도권 차청화 허영지와 함께한 연말 파티가 공개된다. 최근 진행된 녹화에서 멤버들은 한 해를 마무리하는 개성만점 멋진 파티룩으로 등장했다. 송지효는 세련된 화이트 가죽 패션을 선보이며 시크미를 강조하는가 하면, 전소민은 왕관과 블랙 드레스를 착용해 여왕의 포스를 풍겼]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['다수의 수다' 국어 일타강사 김민정 "출산 5일 전까지 수능 파이널 강의" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211217222206257</link>
-            <guid>https://entertain.v.daum.net/v/20211217222206257</guid>
-            <pubDate>Fri, 17 Dec 2021 13:26:11 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] '다수의 수다' 김민정이 일타강사로서의 고충을 토로했다. 17일 밤 방송된 JTBC 예능프로그램 '다수의 수다'에서는 국어·영어·한국사·화학까지, 대한민국 수험생들의 아이돌로 불리는 '일타강사'들이다. 국어 김민정, 영어 조정식, 한국사 최태성, 화학 박상현까지 각 과목을 대표하는 4명의 스타 강사들이 '다수'로 출연해 다양한]]></content:encoded>
+            <title><![CDATA['옷소매' 이세영, '이준호 내게 어떤 의미냐' 물음에 애틋한 침묵 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211217225907469</link>
+            <guid>https://entertain.v.daum.net/v/20211217225907469</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 백지연 기자] '옷소매 붉은 끝동' 이세영이 이준호를 떠올렸다. 17일 밤 방송된 MBC 금토드라마 '옷소매 붉은 끝동'(극본 정해리·연출 정지인)에서 성식(양병열)이 성덕임(이세영)에게 떠나자 했다. 이날 방송에서 성식은 고난에 처한 성덕임에 "오라비랑 같이 멀리 떠나자. 모든 걸 훌훌 털어버리고. 마음 편히 그렇게 살아가지 않겠냐"며]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['라키 불참' 아스트로, 강렬하거나 청량하게 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211217221704228</link>
-            <guid>https://entertain.v.daum.net/v/20211217221704228</guid>
-            <pubDate>Fri, 17 Dec 2021 13:26:11 GMT</pubDate>
-            <content:encoded><![CDATA[아스트로가 남성미를 과시했다. 17일 오후 서울 영등포구 여의도 KBS홀에서 ‘2021 KBS 가요대축제’가 열렸다. 이날 AOA 설현, SF9 로운, 아스트로 차은우가 진행을 맡았다. 아스트로는 ‘ONE’에서는 강렬하고 에너제틱한 퍼포먼스를 선보였다. 오차 없는 풀파워 칼군무부터 한층 더 업그레이드된 아스트로의 비주얼이 눈길까지 끌었다. 또 아스트로는]]></content:encoded>
+            <title><![CDATA['지헤중' 송혜교, 장기용에 "하고 싶은 거 다하고 우리 헤어질까?" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211217225100435</link>
+            <guid>https://entertain.v.daum.net/v/20211217225100435</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:35 GMT</pubDate>
+            <content:encoded><![CDATA['지헤중' 송혜교가 장기용에 이별을 말했다. 17일 방송된 SBS 금토드라마 '지금 헤어지는 중입니다'('이하 '지헤중')에서는 윤재국(장기용 분)에게 이별을 언급하는 하영은(송혜교 분)의 모습이 그려졌다. 이날 윤재국과 함께 있던 하영은은 "하고 싶은 거 다 하고 나서 우리 헤어질까?"라고 물었다. 그러면서 "서로 상처주기 전에 싸우고 지치고 그]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[슬리피 "3년 전 재산 7만원·독촉장 多→야외 결혼식 원해 결혼 연기" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211217221148186</link>
-            <guid>https://entertain.v.daum.net/v/20211217221148186</guid>
-            <pubDate>Fri, 17 Dec 2021 13:26:11 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선닷컴 이우주 기자] '국민 영수증' 슬리피가 3년 만에 환골탈태한 근황을 공개했다. 17일 방송된 KBS 조이 예능프로그램 '국민 영수증'에서는 래퍼 슬리피가 공감요정으로 출연해 영수증을 공개했다. 3년 전 '영수증 시즌1'에 출연했던 슬리피는 당시를 '짠내의 절정'이라 표현했다. 슬리피는 당시 7만원 밖에 없는 계좌를 공개하기]]></content:encoded>
+            <title><![CDATA[신기루 '학폭' 재차 부인+심경고백..생활기록부 공개 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211217224738408</link>
+            <guid>https://entertain.v.daum.net/v/20211217224738408</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] 신기루 ‘학폭’ 재차 부인+심경고백…생활기록부 공개 (전문) [종합] 개그우먼 신기루(39)가 ‘학교폭력(학폭)’ 의혹을 재차 부인하며 심경을 고백했다. 학창시절 생활기록부 일부를 공개하며 억울하다고 호소했다. 지난 10일 한 온라인 커뮤니티를 통해 제기된 신기루의 ‘학폭’ 의혹. 누리꾼 A씨는 신기루가 자신을 따돌렸으며 욕설을 하고 따귀를]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[양은지 "♥이호 결혼 후 경력 단절, 아이들 보란듯이 도전"..결과는 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211217221141183</link>
-            <guid>https://entertain.v.daum.net/v/20211217221141183</guid>
-            <pubDate>Fri, 17 Dec 2021 13:26:11 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 이지현 기자 = 양은지가 '엄마는 아이돌'에 출격했다. 17일 오후 방송된 tvN 예능 프로그램 '엄마는 아이돌'에서는 여성 밴드 출신 배우 현쥬니, 발라드 가수 별에 이어 베이비복스리브 출신 양은지가 등장했다. 특히 마지막 멤버로 나온 양은지가 이목을 집중시켰다. 올해 38살인 그는 세 자매를 키우는 육아 12년차라고 전했다. 양은]]></content:encoded>
+            <title><![CDATA['엄마는 아이돌' 현쥬니X별X양은지 출격, 봉인됐던 끼 대방출 '시선강탈' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211217224530399</link>
+            <guid>https://entertain.v.daum.net/v/20211217224530399</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트 = 하수나 기자] 현쥬니, 별, 양은지가 ‘엄마는 아이돌’에서 춤과 댄스 실력을 공개하며 봉인됐던 끼를 대 방출했다. 17일 방송된 tvN ‘엄마는 아이돌’에선 박정아, 가희, 선예에 이어 또다른 멤버들이 등장해 무대를 선보였다.&nbsp; 이날 여성 록밴드 출신인 배우 현주니가 현실 점검 보컬 무대에 등장했다. 결혼 10년 에 초듣학교 2학년 아들을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[오마이걸·스트레이키즈, K-문화재와 스페셜 컬래버..한국의 美 가득 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211217220949150</link>
-            <guid>https://entertain.v.daum.net/v/20211217220949150</guid>
-            <pubDate>Fri, 17 Dec 2021 13:26:11 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 정지현 기자] 그룹 오마이걸과 스트레이 키즈가 K 문화재와 스페셜 컬래버레이션 무대를 꾸몄다. '2021 KBS 가요대축제'가 17일 오후 서울 영등포구 여의도 KBS홀에서 AOA 설현, SF9 로운, 아스트로 차은우의 진행으로 펼쳐졌다. 이날 분홍색 한복을 입은 오마이걸은 고석정의 자연 경관과 어우러지는 '비밀정원' 무대를 꾸며 신비로운]]></content:encoded>
+            <title><![CDATA['당나귀 귀' 황재근, 마감 열흘 남기고 디자인 전면 수정 위기 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211217224317381</link>
+            <guid>https://entertain.v.daum.net/v/20211217224317381</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 자타공인 천재 디자이너 황재근이 고민에 빠진 이유는 무엇일까. 19일 방송되는 KBS2 예능프로그램 '사장님 귀는 당나귀 귀'(이하 '당나귀 귀')에서는 신화 속 동물들을 가면과 의상으로 표현해내는 신규 프로젝트에 돌입한 황재근 디자이너의 이야기가 그려진다. 앞선 촬영에서 황재근은 촉박한 마감에 시달리면서도 작은 부분까지 꼼꼼하]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[유리 욕 먹인 '방과후 설렘'..제작진 "전체 맥락 제대로 전달 못했다" 사과 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211217220815141</link>
-            <guid>https://entertain.v.daum.net/v/20211217220815141</guid>
-            <pubDate>Fri, 17 Dec 2021 13:26:11 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 박윤진 기자] MBC '방과후 설렘' 측이 걸그룹 소녀시대 멤버 유리의 심사평 논란을 만든 것과 관련해 제작진의 잘못이라며 사과했다. 17일 오후 '방과후 설렘' 측은 "편집 과정에서 전체 맥락을 제대로 전달하지 못했다"면서 "시청자 분들께 불편함을 느끼게 했다면 진심으로 사과드린다"고 전했다. 앞서 지난 12일 '방과후 설렘'은 본]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['2021 KBS 가요대축제' 아이브, 오프닝 무대 꾸민 대세 신인 '몽환적 분위기' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211217220704132</link>
-            <guid>https://entertain.v.daum.net/v/20211217220704132</guid>
-            <pubDate>Fri, 17 Dec 2021 13:26:11 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 백지연 기자] '2021 KBS 가요대축제'에서 신인그룹 아이브가 오프닝 무대를 꾸몄다. 17일 밤 방송된 KBS2 '2021 KBS 가요대축제'가 진행돼 차은우, 로운, 설현이 MC를 맡아 진행했다. 이날 방송에서 아이브는 데뷔 한 달이 채 안 된 신인임에도 오프닝을 꾸며 눈길을 끌었다. 아이브는 몽환적인 분위기가 돋보이는 '일레븐'으]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[오마이걸, 한복입고 우아함 폭발..고석정 앞 '비밀정원' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211217220458109</link>
-            <guid>https://entertain.v.daum.net/v/20211217220458109</guid>
-            <pubDate>Fri, 17 Dec 2021 13:26:11 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 박하나 기자 = '2021 KBS 가요대축제' 오마이걸이 우리 문화재를 주제로 고석정에서 '비밀정원' 무대를 꾸몄다. 17일 오후 8시 30분부터 여의도 KBS홀에서 열린 생방송 '2021 KBS 가요대축제'에서는 코로나19로 K-POP 가수들과 팬들이 만날 수 없던 상황에서 힘내어 '함께' 나아가자는 의미의 'WITH'로 시청자에게 다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["새벽까지 시끌"..김경남, "당사자 만나 사과" 층간소음 인정 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211217215416966</link>
-            <guid>https://entertain.v.daum.net/v/20211217215416966</guid>
-            <pubDate>Fri, 17 Dec 2021 13:26:11 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=장우영 기자] ‘나 혼자 산다’에 출연한 이들에 대한 층간소음 논란이 불거졌다. 지난 16일 한 온라인 커뮤니티에는 ‘옆집 이웃인 유명 연예인의 소음 문제 끝까지 가야되겠죠?’라는 글이 게재됐다. 이 글을 작성한 네티즌 B씨는 “사는 집이 오래된 오피스텔이라 방음이 안돼 층간소음 주의가 필요하다. A씨가 작년 이맘때 이사를 와서 매일 새벽까지 친]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[신기루, 학폭 의혹 직접 해명 "단 한 번도 누구 때린 적 없어" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211217213907778</link>
-            <guid>https://entertain.v.daum.net/v/20211217213907778</guid>
-            <pubDate>Fri, 17 Dec 2021 13:26:11 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 백지연 기자] 개그우먼 신기루가 학교폭력에 대해 직접 입장을 밝혔다. 신기루는 17일 자신의 인스타그램을 통해 “숨겨지지도 않는 몸으로 소속사 뒤에 숨어 입장을 밝히다가 이제서야 제 이야기를 전하는 점 죄송하다. 제 나이가 41세이고 25년 전의 일이라 그 시절을 복기하는 시간이 조금 걸렸다”며 장문의 글을 게재했다. 신기루는 과거 기억을 회]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김우석x윤산하x현재x승민, 비주얼 4인방 'V4'로 뭉쳤다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211217213741763</link>
-            <guid>https://entertain.v.daum.net/v/20211217213741763</guid>
-            <pubDate>Fri, 17 Dec 2021 13:26:11 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 박하나 기자 = '2021 KBS 가요대축제' 김우석, 아스트로 윤산하, 더보이즈 현재, 스트레이키즈 승민이 '파라다이스' 무대를 함께 꾸몄다. 17일 오후 8시 30분부터 여의도 KBS홀에서 열린 생방송 '2021 KBS 가요대축제'에서는 코로나19로 K-POP 가수들과 팬들이 만날 수 없던 상황에서 힘내어 '함께' 나아가자는 의미의]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['어느날' 유제희 "삭발+체중감량 도전 만족, 행복했던 시간" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211217213505735</link>
-            <guid>https://entertain.v.daum.net/v/20211217213505735</guid>
-            <pubDate>Fri, 17 Dec 2021 13:26:11 GMT</pubDate>
-            <content:encoded><![CDATA[배우 유희제가 '어느 날' 종영 소감을 전했다. 유희제는 쿠팡플레이 시리즈 '어느 날'에서 교도소 내 최고 권력자 도지태(김성규)의 믿음직한 오른팔인 접골사 역을 맡아 강한 인상을 남겼다. 유희제는 연극 '호기심'으로 데뷔한 이래, 영화 '롱 리브 더 킹: 목포 영웅', 드라마 '본 대로 말하라', '사생활' 등 무대와 스크린을 오가며 깊은 연기 내공]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["15년 고생했는데"..신기루, '학폭' 직접 해명 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211217213414726</link>
-            <guid>https://entertain.v.daum.net/v/20211217213414726</guid>
-            <pubDate>Fri, 17 Dec 2021 12:34:52 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김예나 기자) 신기루가 학교 폭력 가해 의혹에 대해 직접 입을 열어 답답한 마음을 털어놨다.&nbsp; 신기루는 17일 자신의 인스타그램을 통해 최근 불거진 학교 폭력 가해 의혹과 관련한 심경을 밝혔다.&nbsp; 신기루는 "제 나이가 41세, 25년 전의 일이라 그 시절을 복기하는 시간이 조금 걸렸다. 1996년 중학교 3학년 때의 저는 공부에 전혀 관심이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[신기루 학폭 의혹 직접 해명 "단 한 번도 누굴 때려 본 적 없다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211217213302708</link>
-            <guid>https://entertain.v.daum.net/v/20211217213302708</guid>
-            <pubDate>Fri, 17 Dec 2021 12:34:52 GMT</pubDate>
-            <content:encoded><![CDATA[개그우먼 신기루가 학교폭력(학폭) 의혹에 대해 직접 입장을 밝혔다. 신기루는 17일 자신의 인스타그램을 통해 “숨겨지지도 않는 몸으로 소속사 뒤에 숨어 입장을 밝히다가 이제서야 제 이야기를 전하는 점 죄송하다. 제 나이가 41세이고 25년 전의 일이라 그 시절을 복기하는 시간이 조금 걸렸다”며 장문의 글을 게재했다. 신기루는 과거 기억을 회상하며 “19]]></content:encoded>
+            <title><![CDATA[레드벨벳 웬디→아이브 원영 뭉쳤다..역대급 걸그룹 F9 탄생 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211217224029357</link>
+            <guid>https://entertain.v.daum.net/v/20211217224029357</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 정지현 기자] '2021 KBS 가요대축제'에서 역대급 걸그룹이 탄생했다. 17일 오후 '2021 KBS 가요대축제'가 서울 영등포구 여의도 KBS홀에서 AOA 설현, SF9 로운, 아스트로 차은우의 진행으로 펼쳐졌다. 이날 레드벨벳 웬디, 오마이걸 지호, 브레이브걸스 유나, 있지 채령과 유나, 스테이씨 시은과 윤, 아이브 원영과 유진은]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['방과후 설렘' 유리 팬몰이 발언 논란..알고 보니 악마의 편집? (다음 연예 ─ 뉴스 ─ 해외)]]></title>
@@ -1078,6 +1081,83 @@
             <guid>https://entertain.v.daum.net/v/20211217112503743</guid>
             <pubDate>Fri, 17 Dec 2021 02:39:29 GMT</pubDate>
             <content:encoded><![CDATA[[뉴스엔 이민지 기자] 크리스 프랫, 캐서린 슈왈제네거가 둘째를 임신했다. 12월 16일(현지시간) 피플에 따르면 크리스 프랫, 캐서린 슈왈제네거가 둘째 출산을 앞두고 있다. 양측은 임신에 대해 공식적인 언급은 하지 않고 있으나 소식통들은 두 사람이 둘째 출산을 준비 중이라고 알렸다. 지난 2019년 6월 결혼한 두 사람은 지난해 8월 딸 라일라 마]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[레드벨벳, 매혹적인 'Psycho'→크리스마스 요정 'Queendom' [KBS 가요대축제] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001386799</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001386799</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 레드벨벳이 극과 극을 오가는 매력을 발산했다. 17일 오후 여의도 KBS홀에서 '2021 KBS 가요대축제'가 열렸다. 이날 진행은 아스트로 차은우, AOA 설현, SF9 로운이 맡]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['가요대축제' 방탄소년단 "새해복 많이 받으세요" 영상편지 피날레[밤TView] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003013623</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003013623</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:49 GMT</pubDate>
+            <content:encoded><![CDATA['2021 KBS 가요대축제'가 2021년을 뜨겁게 달군 핫한 K팝 아티스트들의 무대로 완성됐다. 17일 방송된 'KBS 2021 가요대축제'는 차은우, 설현, 로운의 진행으로 개최됐으며 코로나19로 인해 아티스트들]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["세상 끝나더라도" 세븐틴, 연말 뜨겁게 달군 'Rock with you' [KBS 가요대축제] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001386797</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001386797</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 세븐틴이 축제를 뜨겁게 달궜다. 17일 오후 여의도 KBS홀에서 '2021 KBS 가요대축제'가 열렸다. 이날 진행은 아스트로 차은우, AOA 설현, SF9 로운이 맡았다. 이날 세]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ITZY, 5人5色 '마.피.아. In the morning'…무대 찢었다 [KBS 가요대축제] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001386796</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001386796</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 ITZY가 저마다 매력으로 무대를 찢었다. 17일 오후 여의도 KBS홀에서 '2021 KBS 가요대축제'가 열렸다. 이날 진행은 아스트로 차은우, AOA 설현, SF9 로운이 맡았다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뉴이스트, 성숙한 섹시미의 결정체 'BLACK'…확진자 접촉 렌 불참 [KBS 가요대축제] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001386793</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001386793</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 뉴이스트가 성숙한 섹시미를 선보였다. 17일 오후 여의도 KBS홀에서 '2021 KBS 가요대축제'가 열렸다. 이날 진행은 아스트로 차은우, AOA 설현, SF9 로운이 맡았다. 이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[레드벨벳 웬디→아이브 원영·유진 뭉쳤다…비주얼 끝판왕 유닛 [가요대축제] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838420</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838420</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[레드벨벳, 아이브 등 걸그룹이 ‘힘’을 주기 위해 뭉쳤다. 17일 오후 서울 영등포구 여의도 KBS홀에서 ‘2021 KBS 가요대축제’가 열렸다. 이날 AOA 설현, SF9 로운, 아스트로 차은우가 진행을 맡았다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[에스파, 꽉 채운 'Next Level'→'Savage'…역시 4세대 걸그룹 대표주자 [KBS 가요대축제] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001386788</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001386788</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 에스파가 4세대 대표 걸그룹다운 카리스마를 뽐냈다. 17일 오후 여의도 KBS홀에서 '2021 KBS 가요대축제'가 열렸다. 이날 진행은 아스트로 차은우, AOA 설현, SF9 로운]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['가요대축제' 레드벨벳 웬디→아이브 원영, 소녀시대 '힘내' 스페셜 무대[별별TV] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003013620</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003013620</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[레드벨벳 웬디와 오마이걸 지호, 브레이브걸스 유나, ITZY 유나 채령, 스테이씨 시은 유, 아이브 원영 유진이 소녀시대 '힘내'로 색다른 매력을 전했다. 레드벨벳 웬디와 오마이걸 지호, 브레이브걸스 유나, ITZY]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[진짜 소녀시대인 줄…레드벨벳→아이브, 꽃미모 9인조 결성 [KBS 가요대축제] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001386786</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001386786</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김노을 기자) 새로운 9인조 걸그룹이 결성됐다. 17일 오후 여의도 KBS홀에서 '2021 KBS 가요대축제'가 열렸다. 이날 진행은 아스트로 차은우, AOA 설현, SF9 로운이 맡았다. 이날 레드벨]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT U, 믿고 보는 넘사벽 군무로 완성한 'Universe' [KBS 가요대축제] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001386784</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001386784</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 NCT U가 넘사벽 군무를 선보였다. 17일 오후 여의도 KBS홀에서 '2021 KBS 가요대축제'가 열렸다. 이날 진행은 아스트로 차은우, AOA 설현, SF9 로운이 맡았다. 이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[설현, '돋보이는 상큼 미모' (KBS 가요대축제) (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003563243</link>
+            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003563243</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 송일섭 기자] 17일 오후 서울 여의도 KBS에서 진행된 '2021 KBS 가요대축제' 레드카펫 포토월 행사에서 포토타임을 갖고 있다. 설현, 상큼미모 차은우-설현-로운, 저희가 MC맡았어요 차은우-]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[고스트나인, 내년 1월 첫 미국 단독 투어 개최…LA→보스턴까지 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
@@ -1178,81 +1258,95 @@
             <content:encoded><![CDATA[[스포츠경향] 신예 싱어송라이터 밀레나(Milena)의 신곡이 베일을 벗었다. 밀레나는 17일 오후 6시 각종 온라인 음원 사이트를 통해 새 싱글 ‘Letter’를 발매했다. 지난 16일 공식 SNS를 통해 ‘Let]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 선미, '화려한 헤어컬러에 시선강탈' (2021 KBS 가요대축제) (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004642115</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004642115</guid>
-            <pubDate>Fri, 17 Dec 2021 12:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[가수 선미가 17일 오후 서울 영등포구 여의도 KBS에서 열린 '2021 KBS 가요대축제' 레드카펫 행사에 참석해 포토타임을 갖고 있다. (사진제공=KBS)]]></content:encoded>
+            <title><![CDATA[[포토]브레으브걸스, 화이트 여신 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004895508</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004895508</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[가수 브레이브걸스사 7일 오후 비대면으로 진행된 2021 KBS 가요대축제에 참석해 레드카펫을 밟고 있다[사진제공=KBS]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[음콘협, 저작권 분배율에 대해 "저작권자·가수·음반제작자는 공동 운명체" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=016&amp;aid=0001926224</link>
-            <guid>https://entertain.naver.com/now/read?oid=016&amp;aid=0001926224</guid>
-            <pubDate>Fri, 17 Dec 2021 12:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드경제 = 서병기 선임기자]케이팝 산업 발전을 위해 설립된 사단법인 한국음악콘텐츠협회(이하 ‘음콘협’)가 저작권자·가수·음반제작자 등에게 분배되는 저작권료 요율 문제에 대해 입을 열었다. 현재 전송 음원사용료]]></content:encoded>
+            <title><![CDATA[에이프릴 김채원, 솔로로 활동 재개 예고 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000951708</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000951708</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[에이프릴 김채원, 솔로로 활동 재개 예고 에이프릴 김채원이 솔로로 활동 재개를 예고했다. 김채원은 지난 15일 자신의 인스타그램을 통해 직접 작사·작곡에 참여한 솔로곡 ‘사월에게(TO THE MEMORIES OF A]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 선미, '도도하게~' (2021 KBS 가요대축제) (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004642114</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004642114</guid>
-            <pubDate>Fri, 17 Dec 2021 12:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[가수 선미가 17일 오후 서울 영등포구 여의도 KBS에서 열린 '2021 KBS 가요대축제' 레드카펫 행사에 참석해 포토타임을 갖고 있다. (사진제공=KBS)]]></content:encoded>
+            <title><![CDATA[[KBS 가요대축제] ITZY·선미, 차원 다른 퍼포먼스… "무대 압도" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000765794</link>
+            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000765794</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[ITZY와 선미가 수준 높은 퍼포먼스로 축제의 장을 빛냈다. 17일 '2021 KBS 가요대축제'는 차은우, 설현, 로운의 진행으로 개최됐다. 가요대축제의 올해 주제는 신종 코로나바이러스 감염증(코로나19)로 인해]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 선미, '사랑스러운 눈웃음~' (2021 KBS 가요대축제) (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004642113</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004642113</guid>
-            <pubDate>Fri, 17 Dec 2021 12:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[가수 선미가 17일 오후 서울 영등포구 여의도 KBS에서 열린 '2021 KBS 가요대축제' 레드카펫 행사에 참석해 포토타임을 갖고 있다. (사진제공=KBS)]]></content:encoded>
+            <title><![CDATA["우린 임신 금지" 현쥬니·별·양은지까지..엄마→아이돌로 뭉쳤다 ('엄마는 아이돌')[종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003813542</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003813542</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조윤선 기자] '엄마는 아이돌' 완전체 6인이 모였다. 17일 방송된 tvN '엄마는 아이돌'에서는 아이돌에 재도전하는 레전드 걸그룹 맘들의 정체가 공개됐다. 이날 방송에는 가희, 박정아, 선예에 이어]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 스테이씨, '상큼함 가득~' (2021 KBS 가요대축제) (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004642112</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004642112</guid>
-            <pubDate>Fri, 17 Dec 2021 12:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 스테이씨가 17일 오후 서울 영등포구 여의도 KBS에서 열린 '2021 KBS 가요대축제' 레드카펫 행사에 참석해 포토타임을 갖고 있다. (사진제공=KBS)]]></content:encoded>
+            <title><![CDATA[박성연, 나훈아 찐팬 인증 “실물 영접하고 왔어요” [M+★SNS] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001629184</link>
+            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001629184</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[트로트 가수 박성연이 나훈아 콘서트 관람을 인증했다. 17일 오후 박성연은 자신의 인스타그램에 “어머 내가 이걸 보다니... 실물영접하구 왔습니다! 영광이옵니다”라는 글과 함께 두 장의 사진을 게재했다. 이어 “#나]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 오마이걸, '각자 개성 넘치는 스타일로~' (2021 KBS 가요대축제) (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004642111</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004642111</guid>
-            <pubDate>Fri, 17 Dec 2021 12:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 오마이걸이 17일 오후 서울 영등포구 여의도 KBS에서 열린 '2021 KBS 가요대축제' 레드카펫 행사에 참석해 포토타임을 갖고 있다. (사진제공=KBS)]]></content:encoded>
+            <title><![CDATA[문소리 여성영화인상 연기상 수상 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000951707</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000951707</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[문소리 여성영화인상 연기상 수상 배우 문소리가 수상 소식을 전했다. 문소리는 어제(16일) 개최된 제22회 ‘올해의 여성영화인상’에 참석, 영화 ‘세자매’로 연기상을 수상했다. 문소리는 이로써 41회 영화평론가협회상]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[투모로우바이투게더·엔하이픈 "컬래버, 달콤하게 불타오를 것" [KBS 가요대축제] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001386748</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001386748</guid>
-            <pubDate>Fri, 17 Dec 2021 12:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 투모로우바이투게더와 엔하이픈이 컬래버 무대를 기대케 했다. 17일 오후 여의도 KBS홀에서 '2021 KBS 가요대축제'가 열렸다. 이날 진행은 아스트로 차은우, AOA 설현, SF]]></content:encoded>
+            <title><![CDATA[박성연, 나훈아 실물 영접? “사랑해요 테스형” [똑똑SNS] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838421</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838421</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[트로트 가수 박성연이 일상을 공유했다. 17일 오후 박성연은 자신의 인스타그램에 “어머 내가 이걸 보다니... 실물영접하구 왔습니다! 영광이옵니다”라는 글과 함께 두 장의 사진을 게재했다. 이어 “#나훈아콘서트 #테]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[래퍼 식보이(Sikboy), 새 싱글 ‘HERCULES’ 기습 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000781718</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000781718</guid>
-            <pubDate>Fri, 17 Dec 2021 12:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 래퍼 식보이(Sikboy)가 새 싱글 ’HERCULES’를 17일 발표했다. 식보이 특유의 화려한 랩 퍼포먼스가 인상적인 ]HERCULES’는 하나의 곡을 세 명의 프로듀서가 각자의 시선으로 해석한 독]]></content:encoded>
+            <title><![CDATA[[포토]차은우-설현-로운, 가요대축제 파이팅 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004895504</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004895504</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[가수 차은우 설현 로운이 17일 오후 비대면으로 진행된 2021 KBS 가요대축제에 참석해 레드카펫을 밟고 있다[사진제공=KBS]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 브레이브걸스, '단아한 모습에 눈길~' (2021 KBS 가요대축제) (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004642110</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004642110</guid>
-            <pubDate>Fri, 17 Dec 2021 12:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 브레이브걸스가 17일 오후 서울 영등포구 여의도 KBS에서 열린 '2021 KBS 가요대축제' 레드카펫 행사에 참석해 포토타임을 갖고 있다. (사진제공=KBS)]]></content:encoded>
+            <title><![CDATA[[포토]선미, 블루여신 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004895503</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004895503</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[가수 선미가 17일 오후 비대면으로 진행된 2021 KBS 가요대축제에 참석해 레드카펫을 밟고 있다[사진제공=KBS]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 브레이브걸스, '눈부신 청순미~' (2021 KBS 가요대축제) (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004642109</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004642109</guid>
-            <pubDate>Fri, 17 Dec 2021 12:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 브레이브걸스가 17일 오후 서울 영등포구 여의도 KBS에서 열린 '2021 KBS 가요대축제' 레드카펫 행사에 참석해 포토타임을 갖고 있다. (사진제공=KBS)]]></content:encoded>
+            <title><![CDATA[신기루 ‘학폭’ 재차 부인+심경고백…생활기록부 공개 (전문) [종합] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000951706</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000951706</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[신기루 ‘학폭’ 재차 부인+심경고백…생활기록부 공개 (전문) [종합] 개그우먼 신기루(39)가 ‘학교폭력(학폭)’ 의혹을 재차 부인하며 심경을 고백했다. 학창시절 생활기록부 일부를 공개하며 억울하다고 호소했다. 지난]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 레드벨벳, '매력 넘치는 그녀들~' (2021 KBS 가요대축제) (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004642108</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004642108</guid>
-            <pubDate>Fri, 17 Dec 2021 12:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 레드벨벳이 17일 오후 서울 영등포구 여의도 KBS에서 열린 '2021 KBS 가요대축제' 레드카펫 행사에 참석해 포토타임을 갖고 있다. (사진제공=KBS)]]></content:encoded>
+            <title><![CDATA[[KBS 가요대축제] 에스파·뉴이스트, 화려한 퍼포먼스 무대 압도… "역시는 역시" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000765793</link>
+            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000765793</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[에스파와 뉴이스트가 무대 퍼포먼스로 시청자들을 심쿵하게 만들었다. 17일 '2021 KBS 가요대축제'는 차은우, 설현, 로운의 진행으로 개최됐다. 가요대축제의 올해 주제는 신종 코로나바이러스 감염증(코로나19)로]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[신기루, 학폭논란 직접 입열었다→학생기록부 공개 "따돌림·폭력無"[전문] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003813541</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003813541</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 이유나 기자] "살면서 단 한번도 누굴 때려본 적이 없다." 개그우먼 신기루가 학폭 논란에 직접 입을 열었다. 신기루는 17일 인스타그램에 최근 자신을 둘러싼 학폭 폭로글에 대해 "제 나이가41세 이고]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[KBS 가요대축제] 강다니엘·NCT U, 화려한 퍼포먼스로 2부 마무리… "눈을 못 떼겠네" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000765792</link>
+            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000765792</guid>
+            <pubDate>Fri, 17 Dec 2021 14:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[강다니엘과 NCT U가 KBS 가요대축제 2부를 마무리했다. 17일 '2021 KBS 가요대축제'는 차은우, 설현, 로운의 진행으로 개최됐다. 가요대축제의 올해 주제는 신종 코로나바이러스 감염증(코로나19)로 인해]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[KBS 가요대축제] 스트레이키즈, 한국적 멋 제공한 무대 '소리꾼' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
@@ -1337,97 +1431,6 @@
             <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000951705</guid>
             <pubDate>Fri, 17 Dec 2021 12:35:11 GMT</pubDate>
             <content:encoded><![CDATA[로운 실수에 빵 터진 차은우-설현 ‘웃참 실패’ (KBS 가요대축제) 아스트로 차은우와 AOA 설현이 ‘웃음 참기’에 실패했다. 17일 밤 8시 30분 방송된 ‘KBS 2021 가요대축제’에서 진행을 맡은 차은우,]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[TEN 포토] 오마이걸 아린 '공주풍 드레스' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518691</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518691</guid>
-            <pubDate>Fri, 17 Dec 2021 12:35:11 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=조준원 기자]걸그룹 오마이걸 아린이 17일 오후 온라인 생중계로 진행된 KBS '가요대축제' 레드카펫 행사에 참석해 포즈를 취하고 있다. 사진=KBS 제공 조준원 기자 wizard333@tenasia.co]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[TEN 포토] 오마이걸 '작심하고 꾸민 패션' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518690</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518690</guid>
-            <pubDate>Fri, 17 Dec 2021 12:35:11 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=조준원 기자]걸그룹 오마이걸이 17일 오후 온라인 생중계로 진행된 KBS '가요대축제' 레드카펫 행사에 참석해 포즈를 취하고 있다. 사진=KBS 제공 조준원 기자 wizard333@tenasia.co.kr]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2021 KBS 가요대축제] 이무진·엔하이픈, 귀와 눈 즐거운 무대 선보여 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000765785</link>
-            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000765785</guid>
-            <pubDate>Fri, 17 Dec 2021 12:35:11 GMT</pubDate>
-            <content:encoded><![CDATA[이무진과 엔하이픈은 '2021 KBS 가요대축제'에서 귀와 눈이 즐거운 무대를 선보였다. 17일 '2021 KBS 가요대축제'는 차은우, 설현, 로운의 진행으로 개최됐다. 가요대축제의 올해 주제는 신종 코로나바이러스]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[전문]김경남, 측간 소음 피해자 만나 사과…"이런 일 다시 없도록 하겠다" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518689</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518689</guid>
-            <pubDate>Fri, 17 Dec 2021 12:35:11 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=정태건 기자] 배우 김경남이 측간 소음 피해를 호소한 이웃을 만나 사과했다. 김경남의 소속사 제이알이엔티는 17일 공식입장문을 내고 "오늘 저녁 김경남 배우가 당사자 분을 찾아가 이야기를 나누었다. 진심으]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[전문]신기루, 학폭 의혹 직접 해명 "그 친구와 감정 안 좋았지만 때린 적 없다" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518688</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518688</guid>
-            <pubDate>Fri, 17 Dec 2021 12:35:11 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=정태건 기자] 개그우먼 신기루가 학교폭력(학폭) 의혹에 대해 직접 입을 열었다. 신기루는 17일 자신의 인스타그램에 "숨겨지지도 않는 몸으로 소속사 뒤에 숨어 입장을 밝히다가 이제서야 제 이야기를 전하는]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[TEN 포토] 스테이씨 '추위 날리는 하트' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518686</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518686</guid>
-            <pubDate>Fri, 17 Dec 2021 12:35:11 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=조준원 기자]걸그룹 스테이씨가 17일 오후 온라인 생중계로 진행된 KBS '가요대축제' 레드카펫 행사에 참석해 포즈를 취하고 있다. 사진=KBS 제공 조준원 기자 wizard333@tenasia.co.kr]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[TEN 포토] 스테이씨 '선명한 인형 비주얼' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518685</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518685</guid>
-            <pubDate>Fri, 17 Dec 2021 12:35:11 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=조준원 기자]걸그룹 스테이씨가 17일 오후 온라인 생중계로 진행된 KBS '가요대축제' 레드카펫 행사에 참석해 포즈를 취하고 있다. 사진=KBS 제공 조준원 기자 wizard333@tenasia.co.kr]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[신기루, 학폭 논란 입 열었다 "겁 많아서 몸싸움도 해본적 없다"[전문] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003013608</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003013608</guid>
-            <pubDate>Fri, 17 Dec 2021 12:35:11 GMT</pubDate>
-            <content:encoded><![CDATA[방송인 신기루가 학폭(학교 폭력) 논란에 직접 입을 열고 자신의 동창들을 향해 연락을 기다린다고 밝혔다. 신기루는 17일 자신의 인스타그램을 통해 자신의 학폭 논란에 대해 장문의 글을 적었다. 신기루는 "숨겨지지도]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[TEN 포토] 선미 '섹시한 초미니' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518683</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518683</guid>
-            <pubDate>Fri, 17 Dec 2021 12:35:11 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=조준원 기자]가수 선미가 17일 오후 온라인 생중계로 진행된 KBS '가요대축제' 레드카펫 행사에 참석해 포즈를 취하고 있다. 사진=KBS 제공 조준원 기자 wizard333@tenasia.co.kr]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2021 KBS 가요대축제] 화려한 첫 무대 시작 알린 IVE (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000765782</link>
-            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000765782</guid>
-            <pubDate>Fri, 17 Dec 2021 12:35:11 GMT</pubDate>
-            <content:encoded><![CDATA['2021 KBS 가요대축제' 첫 무대는 IVE가 장식했다. 17일 '2021 KBS 가요대축제'는 차은우, 설현, 로운의 진행으로 개최됐다. 가요대축제의 올해 주제는 신종 코로나바이러스 감염증(코로나19)로 인해]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['문재완♥' 이지혜, 둘째 출산 직전에도 딸 생일 챙기는 만삭 임산부 "많이 힘들구나" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003813529</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003813529</guid>
-            <pubDate>Fri, 17 Dec 2021 12:35:11 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조윤선 기자] 가수 겸 방송인 이지혜가 딸 태리의 생일을 축하했다. 이지혜는 17일 자신의 인스타그램에 "우리 딸 세 번째 생일. 이제 네 살인데 며칠 후면 벌써 다섯 살. 엄마 말 너무 안 들어서 힘들]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[TEN 포토] 선미 '유혹적인 눈빛' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518682</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518682</guid>
-            <pubDate>Fri, 17 Dec 2021 12:35:11 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=조준원 기자]가수 선미가 17일 오후 온라인 생중계로 진행된 KBS '가요대축제' 레드카펫 행사에 참석해 포즈를 취하고 있다. 사진=KBS 제공 조준원 기자 wizard333@tenasia.co.kr]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[TEN 포토] 아이브 '비주얼 대세 걸그룹' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518680</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518680</guid>
-            <pubDate>Fri, 17 Dec 2021 12:35:11 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=조준원 기자]걸그룹 아이브가 17일 오후 온라인 생중계로 진행된 KBS '가요대축제' 레드카펫 행사에 참석해 포즈를 취하고 있다. 사진=KBS 제공 조준원 기자 wizard333@tenasia.co.kr]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['방과후 설렘' 유리 팬몰이 발언 논란..알고 보니 악마의 편집? (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
