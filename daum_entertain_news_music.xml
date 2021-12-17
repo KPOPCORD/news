@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-17T17:28:14.078Z</updated>
+    <updated>2021-12-17T18:26:19.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[춤추는 '팝의 여왕' 마돈나가 록의 전설로 추앙받는다고?]]></title>
+        <id>https://entertain.v.daum.net/v/20211218030229557</id>
+        <link href="https://entertain.v.daum.net/v/20211218030229557"/>
+        <updated>2021-12-17T18:25:42.270Z</updated>
+        <content type="html"><![CDATA[‘로큰롤 명예의 전당(The Rock and Roll Hall of Fame)’이라는 게 있다. 우리 머릿속 관념이 아닌 미국 클리블랜드에 실제 있는 장소다. 이름 그대로 로큰롤 명예의 전당에는 로큰롤의 전설이 모셔져 있다. 현대적 로큰롤 사당(祠堂)인 셈이다. 어쨌든 당신이 록 마니아라면 이곳은 미쉐린가이드 식으로 정의해 별 3개다. 방문을 목적으로 클리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박상민, '다솜이 소리빛 산타' 행사 참여 "소리 들리지 않아 어려움 겪는 아이 없길"]]></title>
         <id>https://entertain.v.daum.net/v/20211218000004842</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211217222733281"/>
         <updated>2021-12-17T14:19:30.212Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 NCT U가 넘사벽 군무를 선보였다. 17일 오후 여의도 KBS홀에서 '2021 KBS 가요대축제'가 열렸다. 이날 진행은 아스트로 차은우, AOA 설현, SF9 로운이 맡았다. 이날 NCT U는 에너지 넘치는 퍼포먼스와 넘사벽 군무로 2부 마지막 무대를 장식했다. 정규 3집 타이틀곡 'Universe'의 에너지 넘치는 퍼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강다니엘, 혼자 꽉 채운 무대 'Antidote'..독보적 퍼포머]]></title>
-        <id>https://entertain.v.daum.net/v/20211217222107248</id>
-        <link href="https://entertain.v.daum.net/v/20211217222107248"/>
-        <updated>2021-12-17T13:26:06.191Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김노을 기자) 가수 강다니엘이 독보적인 퍼포머 면모를 입증했다. 17일 오후 여의도 KBS홀에서 '2021 KBS 가요대축제'가 열렸다. 이날 진행은 아스트로 차은우, AOA 설현, SF9 로운이 맡았다. 이날 강다니엘은 'Antidote' 무대를 선사했다. 블랙과 화이트의 조화가 돋보이는 의상을 입고 등장한 강다니엘은 초반부터 강렬한 퍼포먼]]></content>
     </entry>
 </feed>
