@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-17T10:24:31.373Z</updated>
+    <updated>2021-12-17T11:18:27.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["롤모델=블랙핑크" 록킹돌, 꿈같은 데뷔→매력돌 되는 그날까지]]></title>
+        <id>https://entertain.v.daum.net/v/20211217195006948</id>
+        <link href="https://entertain.v.daum.net/v/20211217195006948"/>
+        <updated>2021-12-17T11:17:54.547Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 록킹돌이 꿈같은 데뷔를 이뤄냈다. 17일 오후 록킹돌(로아, 주리, 아리, 레나)의 첫 번째 싱글 앨범 'Rocking Doll' 발매 기념 온라인 쇼케이스가 열렸다. 진행은 코미디언 홍윤화가 맡았다. 데뷔곡 'Rocking Doll'은 이들만의 당찬 자신감과 희망을 담아낸 곡이다. 유니크한 콘셉트로 주목 받아온 록킹돌의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['방과후 설렘' 측 "권유리 심사 논란, 편집 과정 맥락 전달 못해"]]></title>
         <id>https://entertain.v.daum.net/v/20211217191917363</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211217175118987"/>
         <updated>2021-12-17T09:22:45.605Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김노을 기자) 외계 요정 콘셉트로 가요계에 등장한 그룹 록킹돌이 '탈지구급 신인'을 꿈군다. 17일 오후 록킹돌(로아, 주리, 아리, 레나)의 첫 번째 싱글 앨범 'Rocking Doll' 발매 기념 온라인 쇼케이스가 열렸다. 진행은 코미디언 홍윤화가 맡았다. 데뷔곡 'Rocking Doll'은 당찬 자신감과 희망을 표현한 곡이다. 록킹돌만의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[록킹돌 "개성+매력 다양해..우린 탈지구급 신인"]]></title>
-        <id>https://entertain.v.daum.net/v/20211217174504863</id>
-        <link href="https://entertain.v.daum.net/v/20211217174504863"/>
-        <updated>2021-12-17T09:22:45.605Z</updated>
-        <content type="html"><![CDATA[그룹 록킹돌이 자신들을 '탈지구급 신인'이라고 소개했다. 록킹돌(로아, 주리, 아리, 레나)은 17일 오후 5시 유튜브 채널을 통해 데뷔 앨범 ‘록킹돌(Rocking Doll)’ 발매 기념 쇼케이스를 열고, 신곡을 공개했다. 이날 아리는 ‘올해 많은 신인 그룹이 데뷔했는데 록킹돌 만의 차별점이 있나’라는 질문에 “멤버 각자의 개성과 매력이 다양하고 외]]></content>
     </entry>
 </feed>
