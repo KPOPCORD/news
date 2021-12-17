@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-17T02:39:52.015Z</updated>
+    <updated>2021-12-17T03:23:21.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[매튜 본 "'킥애스', 2년 내 리부트…사람들 좋아할 것" [엑's 할리우드]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001386460</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001386460"/>
+        <updated>2021-12-17T03:23:20.641Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 영화 '킥애스'가 리부트된다. 16일(현지시간) '킥애스'를 연출했던 매튜 본 감독은 콜라이더와의 인터뷰에서 "2년 안에 '킥애스'를 대대적으로 리부트할 예정"이라고 밝혔다. 그는 "아직]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JYP 박진영, 이번엔 '남자 니쥬' 제작한다]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010895082</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010895082"/>
+        <updated>2021-12-17T03:23:20.645Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]김예지 인턴 기자 = JYP엔터테인먼트(이하 JYP)의 '니지 프로젝트(Nizi Project)' 시즌 2가 본격적인 시작을 알린다. 17일 JYP에 따르면 전날 JYP와 소니뮤직은 보이그룹 탄생을 목]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“언론이 낚시질로 날 끔찍하게 묘사” 제니퍼 가너 전남편 벤 애플렉 분노[해외이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003563113</id>
@@ -164,20 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838146</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838146"/>
         <updated>2021-12-16T05:20:25.027Z</updated>
-        <content type="html"><![CDATA[블랙핑크 지수가 16일 오후 JTBC 새 토일 드라마 '설강화' 온라인 제작발표회에 참석하고 있다. 사진=JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블핑 지수 '그림같은 미모' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838145</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838145"/>
-        <updated>2021-12-16T05:20:25.028Z</updated>
-        <content type="html"><![CDATA[블랙핑크 지수가 16일 오후 JTBC 새 토일 드라마 '설강화' 온라인 제작발표회에 참석하고 있다. 사진=JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블핑 지수 '우아한 미모' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838144</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838144"/>
-        <updated>2021-12-16T05:20:25.030Z</updated>
         <content type="html"><![CDATA[블랙핑크 지수가 16일 오후 JTBC 새 토일 드라마 '설강화' 온라인 제작발표회에 참석하고 있다. 사진=JTBC]]></content>
     </entry>
 </feed>
