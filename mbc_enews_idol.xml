@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 08:26:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 09:23:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[록킹돌 로아·아리 "데뷔 꿈만 같아, 성장하는 모습 보여줄 것"]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333604</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333604</guid>
+            <pubDate>Fri, 17 Dec 2021 09:22:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333604">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/17/6a6bcbd5-7ad4-48a0-b661-39f201d790e4.JPG" alt="록킹돌 로아·아리 " 데뷔="" 꿈만="" 같아,="" 성장하는="" 모습="" 보여줄="" 것""="">        <div class="text-box">            <p class="summary">록킹돌 로아·아리 "데뷔 꿈만 같아, 성장하는 모습 보여줄 것"</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/17/6a6bcbd5-7ad4-48a0-b661-39f201d790e4.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA['아이돌라디오2' 에이티즈, 실력＋매력＋케미 꽉 채웠다]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/333601</link>
@@ -86,14 +94,6 @@
             <pubDate>Thu, 16 Dec 2021 06:26:19 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333507">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/16/459d5d61-e737-4178-8451-ce71fe542101.jpg" alt="'야생돌', 오늘(16일) 최종 데뷔조 결정된다…대망의 파이널 생방송">        <div class="text-box">            <p class="summary">'야생돌', 오늘(16일) 최종 데뷔조 결정된다…대망의 파이널 생방송</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/16/459d5d61-e737-4178-8451-ce71fe542101.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] 아이브 장원영 안유진, '역시 교복이 찰떡']]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333509</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333509</guid>
-            <pubDate>Thu, 16 Dec 2021 06:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333509">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/16/64748e0d-fdf1-4685-abd6-b417350f2d1c.jpg" alt="[포토] 아이브 장원영 안유진, '역시 교복이 찰떡'">        <div class="text-box">            <p class="summary">[포토] 아이브 장원영 안유진, '역시 교복이 찰떡'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/16/64748e0d-fdf1-4685-abd6-b417350f2d1c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
