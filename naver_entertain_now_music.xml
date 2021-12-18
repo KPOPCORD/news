@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-18T19:18:22.378Z</updated>
+    <updated>2021-12-18T20:24:18.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["우리의 전부♥" 임영웅 팬들 저소득 가정에 연탄 4000장 기부]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003013859</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003013859"/>
+        <updated>2021-12-18T20:24:04.847Z</updated>
+        <content type="html"><![CDATA[가수 임영웅의 팬들이 저소득 가정에 연탄 4000장을 기부, 따뜻한 사랑을 실천했다. 임영웅 팬카페 대구영웅시대 대구누부야방은 대구광역시 달서구청을 통해 저소득 가정에 300만 원 상당 연탄 4000장을 기부했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트로피 하나짜리 단체 대상? '미우새' 팀 당황 "이상민 받을 줄" [2021 SBS 연예대상]]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003563441</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000781825"/>
         <updated>2021-12-18T08:26:03.613Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 영화 ‘스파이더맨: 노 웨이 홈’의 주인공 할리우드 배우 톰 홀랜드가 BTS(방탄소년단)을 언급해 화제다. ‘스파이더맨: 노 웨이 홈’ 출연 배우인 톰 홀랜드와 젠데이아, 제이콥 배가 영화 홍보차 진행]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임영웅, 피아노영재 박지찬 군 ‘사랑은 늘 도망가’ 커버 극찬 “저도 반했어요”]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001386999</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001386999"/>
-        <updated>2021-12-18T08:26:03.614Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 임영웅의 피아노영재 박지찬 군 극찬이 눈길을 끈다. 지난 15일 피아노영재로 유명한 박지찬 군은 자신의 유튜브 채널에 “임영웅 - 사랑은 늘 도망가 (신사와 아가씨 OST Part.2)]]></content>
     </entry>
 </feed>
