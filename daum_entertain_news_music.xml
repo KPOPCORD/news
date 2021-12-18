@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-18T03:23:22.972Z</updated>
+    <updated>2021-12-18T04:29:03.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[베리베리 용승, 코로나19 확진..美 투어 취소]]></title>
+        <id>https://entertain.v.daum.net/v/20211218125007825</id>
+        <link href="https://entertain.v.daum.net/v/20211218125007825"/>
+        <updated>2021-12-18T04:28:32.251Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 이기은 기자] 그룹 베리베리 용승이 신종 코로나바이러스 감염증(코로나19) 확진 판정을 받았다. 18일 소속사 젤리피쉬 엔터테인먼트는 "베리베리의 멤버 용승 군이 코로나 19 판정을 받았다. 용승 군은 현재 오하이오주 클리블랜드 지역의 방역 지침에 따라 자가 격리 중이다"라고 밝혔다. 이에 따라 베리베리 일정에도 변화가 생겼다. 미국 투어 ‘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정신 차린 김현중, 상처 줬지만..거미 '남자라서']]></title>
         <id>https://entertain.v.daum.net/v/20211218121002630</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211218083001441"/>
         <updated>2021-12-18T01:10:37.080Z</updated>
         <content type="html"><![CDATA[[스타뉴스 윤상근 기자] /사진=방탄소년단 뷔 인스타그램데뷔 이후 2번째 장기휴가에 돌입하며 2021년 연말연시를 재충전의 시간으로 보내고 있는 톱 아이돌그룹 방탄소년단(BTS, RM 진 지민 제이홉 슈가 뷔 정국)을 향한 또 하나의 이슈는 바로 '개인 인스타그램 계정'이었다. 안 그래도 멤버들의 일거수일투족을 방탄소년단 공식 트위터 등을 통해 들여다보며]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아스트로, 단체무대→차은우·윤산하 스페셜 무대..종합선물세트]]></title>
-        <id>https://entertain.v.daum.net/v/20211218080757294</id>
-        <link href="https://entertain.v.daum.net/v/20211218080757294"/>
-        <updated>2021-12-17T23:23:10.688Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;그룹 아스트로가 멋진 무대로 'KBS 2021 가요대축제'를 빛냈다.&nbsp; 아스트로는 지난 17일 방송된 'KBS 2021 가요대축제'(이하 '가요대축제')에서 MC를 시작으로, 단체 무대와 스페셜 무대까지 다양한 모습을 선보이며 종횡무진 활약했다.&nbsp; 이날 아스트로는 올해 많은 사랑을 받았던 정규 2집 'All Yours'(올 유어스)]]></content>
     </entry>
 </feed>
