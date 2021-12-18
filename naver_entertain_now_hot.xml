@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-12-18T17:27:09.586Z</updated>
+    <updated>2021-12-18T18:25:54.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박하선, 라디오DJ 신인상 수상...가녀린 드레스 자태 [똑똑SNS]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838636</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838636"/>
+        <updated>2021-12-18T18:25:47.546Z</updated>
+        <content type="html"><![CDATA[배우 박하선이 ‘2021 SBS 연예대상’에서 라디오DJ 신인상을 받은 소감을 밝혔다. 박하선은 지난 18일 자신의 SNS에 “라디오 신인상을 받았습니다”라고 말문을 열었다. 이어 “준비 해놓고 은근 떨려서 미쳐 다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[블랙핑크 지수, 거울 셀카도 예쁨+상큼 [M+★SNS]]]></title>
         <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001629341</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0004895734"/>
         <updated>2021-12-18T15:23:03.689Z</updated>
         <content type="html"><![CDATA[골??리는 그녀들 팀이 18일 오후 서울 상암동 SBS프리즘타워에서 진행된 2021 SBS 연예대상에서 쇼 스포츠 부문 우수상 수상 후 소감을 말하고 있다. [사진제공=SBS]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토]이지혜, 연예대상 우수상 수상]]></title>
-        <id>https://entertain.naver.com/now/read?oid=009&amp;aid=0004895733</id>
-        <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0004895733"/>
-        <updated>2021-12-18T15:23:03.691Z</updated>
-        <content type="html"><![CDATA[방송인 이지혜가 18일 오후 서울 상암동 SBS프리즘타워에서 진행된 2021 SBS 연예대상에서 리얼리티 부문 우수상 수상 후 소감을 말하고 있다. [사진제공=SBS]]]></content>
     </entry>
 </feed>
