@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-18T20:24:18.050Z</updated>
+    <updated>2021-12-18T21:20:34.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주말EZ]임영웅, 디지털 '세대 격차'를 해소하는 가교]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010896658</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010896658"/>
+        <updated>2021-12-18T21:20:21.031Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]이수진 인턴 기자 = 작년 TV조선 '미스터 트롯' 우승 이후 신드롬을 일으킨 가수 임영웅이 세대 간 디지털 격차도 해소하고 있다. 디지털 격차는 기기의 보유 여부에 따른 하드웨어적인 측면과 애플리케이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[2021 대중음악 결산]BTS·음반판매량 6천만장·NFT]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010896651</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010896651"/>
+        <updated>2021-12-18T21:20:21.031Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 에스파 등 4세대 아이돌 활약 '스우파' 신드롬 [서울=뉴시스]이재훈 기자 = 작년에 이어 올해도 코로나19 여파가 이어졌지만 국내 대중음악계는 활로를 모색했다. 그룹 '방탄소년단'(BTS)은 K팝 신]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["우리의 전부♥" 임영웅 팬들 저소득 가정에 연탄 4000장 기부]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003013859</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003013735"/>
         <updated>2021-12-18T08:26:03.611Z</updated>
         <content type="html"><![CDATA[싱어송라이터 썸머케익(SUMMER CAKE)이 신곡 라이브로 리스너들에게 진한 감성을 선사했다. 썸머케익은 지난 17일 공식 SNS를 통해 데뷔 싱글 '러브 빌런'(LOVE VILLAIN)의 라이브 영상을 오픈했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[썸머케익, 꿀 뚝뚝 ‘러브 빌런’ 라이브 공개]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000781827</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000781827"/>
-        <updated>2021-12-18T08:26:03.612Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 싱어송라이터 썸머케익(SUMMER CAKE)이 신곡 라이브로 리스너들에게 진한 감성을 선사했다. 썸머케익은 지난 17일 공식 SNS를 통해 데뷔 싱글 ‘러브 빌런’(LOVE VILLAIN)의 라이브 영]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[톰 홀랜드도 홀린 ‘BTSX스파이더맨’ 화제]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000781825</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000781825"/>
-        <updated>2021-12-18T08:26:03.613Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 영화 ‘스파이더맨: 노 웨이 홈’의 주인공 할리우드 배우 톰 홀랜드가 BTS(방탄소년단)을 언급해 화제다. ‘스파이더맨: 노 웨이 홈’ 출연 배우인 톰 홀랜드와 젠데이아, 제이콥 배가 영화 홍보차 진행]]></content>
     </entry>
 </feed>
