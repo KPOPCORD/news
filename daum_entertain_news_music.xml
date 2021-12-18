@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-18T16:33:08.389Z</updated>
+    <updated>2021-12-18T17:27:09.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트로피 하나짜리 단체 대상? '미우새' 팀 당황 "이상민 받을 줄"]]></title>
+        <id>https://entertain.v.daum.net/v/20211219013446053</id>
+        <link href="https://entertain.v.daum.net/v/20211219013446053"/>
+        <updated>2021-12-18T17:26:22.968Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 오윤주 기자] SBS '미운 우리 새끼' 팀이 단체로 대상을 수상한 가운데 신동엽이 "시청자분들께 죄송하다"고 사과했다. '2021 SBS 연예대상'이 18일 밤 이승기, 장도연, 한혜진의 사회로 진행됐다. 이날 연예대상의 마지막을 장식할 대상 주인공에는 '미운 우리 새끼' 팀이 호명됐다. 멤버들은 예상치 못한 듯 조심스럽게 자리에서 일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[양세찬, 눈물의 최우수상 "헤맸던 4년..'런닝맨'에 감사"]]></title>
         <id>https://entertain.v.daum.net/v/20211219003357688</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211218164428852"/>
         <updated>2021-12-18T08:25:45.150Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 4세대 걸그룹&nbsp;픽시(PIXY)가 반전 콘셉트로 시선을 끌었다. 오늘(18일) 방송된 MBC '쇼! 음악중심'에서는&nbsp;픽시(엘라, 샛별, 수아, 디아, 로라, 다정)가 기존의 콘셉트를 벗어던지고 사랑스러운 여섯 요정으로 깜짝 변신ㅡ&nbsp;신곡 '불러불러(Call Me)'를 선보였다. 이날&nbsp;픽시는 연보랏빛 컬러감의 발랄하면서도 러블리한 스타일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[썸머케익 '러브 빌런' 라이브 영상 기습 공개, 미공개곡 깜짝 라이브까지]]></title>
-        <id>https://entertain.v.daum.net/v/20211218163946769</id>
-        <link href="https://entertain.v.daum.net/v/20211218163946769"/>
-        <updated>2021-12-18T08:25:45.152Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 싱어송라이터 썸머케익(SUMMER CAKE)이 신곡 라이브를 선보였다. 썸머케익은 12월 17일 공식 SNS를 통해 데뷔 싱글 ‘러브 빌런’(LOVE VILLAIN)의 라이브 영상을 오픈했다. 공개된 영상에서 썸머케익은 밴드 연주에 맞춰 타이틀곡 ‘LOVE VILLAIN’과 수록곡 ‘무브 미’(Move Me)를 열창, 유니크하고 세]]></content>
     </entry>
 </feed>

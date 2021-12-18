@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-18T16:33:08.412Z</updated>
+    <updated>2021-12-18T17:27:09.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트로피 하나짜리 단체 대상? '미우새' 팀 당황 "이상민 받을 줄" [2021 SBS 연예대상]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003563441</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003563441"/>
+        <updated>2021-12-18T17:26:46.278Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 오윤주 기자] SBS '미운 우리 새끼' 팀이 단체로 대상을 수상한 가운데 신동엽이 "시청자분들께 죄송하다"고 사과했다. '2021 SBS 연예대상'이 18일 밤 이승기, 장도연, 한혜진의 사회로 진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[양세찬, 눈물의 최우수상 "헤맸던 4년…'런닝맨'에 감사" [2021 SBS 연예대상]]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003563435</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001386999"/>
         <updated>2021-12-18T08:26:03.614Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 임영웅의 피아노영재 박지찬 군 극찬이 눈길을 끈다. 지난 15일 피아노영재로 유명한 박지찬 군은 자신의 유튜브 채널에 “임영웅 - 사랑은 늘 도망가 (신사와 아가씨 OST Part.2)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱어송라이터 시도, “언젠가 멋진 단독 공연하고파” #롤링스톤코리아]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001386991</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001386991"/>
-        <updated>2021-12-18T08:26:03.614Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 지난 13일 롤링스톤 코리아가 싱어송라이터 시도와의 웹진 인터뷰를 공개했다. 롤링스톤 코리아 홈페이지를 통해 공개된 시도와의 인터뷰는 지난 11월에 공개된 음원 ‘아이(feat. 민서)’]]></content>
     </entry>
 </feed>

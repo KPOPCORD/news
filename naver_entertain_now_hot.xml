@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-12-18T16:33:08.409Z</updated>
+    <updated>2021-12-18T17:27:09.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[블랙핑크 지수, 거울 셀카도 예쁨+상큼 [M+★SNS]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001629341</id>
+        <link href="https://entertain.naver.com/now/read?oid=057&amp;aid=0001629341"/>
+        <updated>2021-12-18T17:26:55.569Z</updated>
+        <content type="html"><![CDATA[블랙핑크 지수가 러블리한 비주얼로 눈길을 끌었다. 지수는 지난 17일 자신의 인스타그램에 “앞머리 아직 있다”라는 글과 함께 여러 장의 사진을 올렸다. 공개된 사진 속 지수는 작은 얼굴과 뚜렷한 이목구비로 인형 같은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미우새' 팀, 유재석 불참 속 SBS 연예대상 대상(종합)]]></title>
         <id>https://entertain.naver.com/now/read?oid=437&amp;aid=0000284011</id>
@@ -87,7 +94,7 @@
         <id>https://entertain.naver.com/now/read?oid=417&amp;aid=0000765912</id>
         <link href="https://entertain.naver.com/now/read?oid=417&amp;aid=0000765912"/>
         <updated>2021-12-18T16:33:00.885Z</updated>
-        <content type="html"><![CDATA[박선영·양세찬·탁재훈이 18일 오후 서울 마포구 상암동 SBS프리즘타워에서 열린 '2021 SBS 연예대상'에서 최우수 상을 수상했다. 최우수상 쇼스포츠 부문 박선영에게 돌아갔다. 박선영은 '최고의 에이스'라는 평가]]></content>
+        <content type="html"><![CDATA[박선영·양세찬·탁재훈이 18일 오후 서울 마포구 상암동 SBS프리즘타워에서 열린 '2021 SBS 연예대상'에서 최우수 상을 수상했다. 최우수상 쇼스포츠 부문은 박선영에게 돌아갔다. 박선영은 '최고의 에이스'라는 평]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[SBS 연예대상] 골때녀·런닝맨 '최우수 프로그램상' 수상]]></title>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0004895733"/>
         <updated>2021-12-18T15:23:03.691Z</updated>
         <content type="html"><![CDATA[방송인 이지혜가 18일 오후 서울 상암동 SBS프리즘타워에서 진행된 2021 SBS 연예대상에서 리얼리티 부문 우수상 수상 후 소감을 말하고 있다. [사진제공=SBS]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토]김종국, 연예대상 올해의 예능인상 수상]]></title>
-        <id>https://entertain.naver.com/now/read?oid=009&amp;aid=0004895732</id>
-        <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0004895732"/>
-        <updated>2021-12-18T15:23:03.692Z</updated>
-        <content type="html"><![CDATA[가수 김종국이 18일 오후 서울 상암동 SBS프리즘타워에서 진행된 2021 SBS 연예대상에서 올해의 예능인상 수상 후 소감을 말하고 있다. [사진제공=SBS]]]></content>
     </entry>
 </feed>
