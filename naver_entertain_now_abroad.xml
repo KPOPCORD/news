@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-17T23:23:46.886Z</updated>
+    <updated>2021-12-18T01:11:10.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[포토 in 월드] 사상최초 한국계 '미스 아메리카' 탄생 현장]]></title>
+        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005791772</id>
+        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005791772"/>
+        <updated>2021-12-18T01:11:09.584Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 박형기 기자 = 올해 100회를 맞은 ‘미스 아메리카’ 선발대회에서 사상최초로 한국계 미국 여성이 우승을 차지했다. 화제의 주인공은 에마 브로일스(19). 그는 16일(현지시간) 코네티컷주 언캐스빌의]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국계 미국인 100회 맞은 '미스 아메리카' 우승…사상 최초]]></title>
+        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005791758</id>
+        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005791758"/>
+        <updated>2021-12-18T01:11:09.585Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 박형기 기자 = 올해 100회를 맞은 ‘미스 아메리카’ 선발대회에서 사상최초로 한국계 미국 여성이 우승을 차지했다. 화제의 주인공은 에마 브로일스(19). 그는 16일(현지시간) 코네티컷주 언캐스빌의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['방과후 설렘', 영상 누적 조회 수 5억 3천만 기록. 다양한 볼거리 통했다!]]></title>
         <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003813563</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838391"/>
         <updated>2021-12-17T11:18:27.198Z</updated>
         <content type="html"><![CDATA[레드벨벳이 17일 오후 서울 영등포구 여의도 KBS에서 진행된 KBS 가요대축제에 참석하고 있다. 사진=KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이린 '상큼 하트' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838390</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838390"/>
-        <updated>2021-12-17T11:18:27.198Z</updated>
-        <content type="html"><![CDATA[레드벨벳 아이린이 17일 오후 서울 영등포구 여의도 KBS에서 진행된 KBS 가요대축제에 참석하고 있다. 사진=KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차은우-설현-로운 '하트는 선물' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838389</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838389"/>
-        <updated>2021-12-17T11:18:27.198Z</updated>
-        <content type="html"><![CDATA[차은우, 설현, 로운이 17일 오후 서울 영등포구 여의도 KBS에서 진행된 KBS 가요대축제에 참석하고 있다. 사진=KBS]]></content>
     </entry>
 </feed>

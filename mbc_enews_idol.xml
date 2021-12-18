@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 23:23:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Dec 2021 01:11:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오마이걸 효정, 상큼함의 교과서…리즈 경신中 [인스타]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333623</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333623</guid>
+            <pubDate>Sat, 18 Dec 2021 01:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333623">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/17/H9ytTfhW5APJ637753774210497410.jpg" alt="오마이걸 효정, 상큼함의 교과서…리즈 경신中 [인스타] ">        <div class="text-box">            <p class="summary">오마이걸 효정, 상큼함의 교과서…리즈 경신中 [인스타] </p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/17/H9ytTfhW5APJ637753774210497410.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[권은비, 물오른 비주얼 오늘도 예쁨 [인스타]]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/333622</link>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 17 Dec 2021 01:10:23 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333553">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/17/897a4cc8-beac-45bd-acf2-8892da94824d.jpg" alt="'방과후 설렘', 치열 신경전→매력 폭발 역대급 무대 공개">        <div class="text-box">            <p class="summary">'방과후 설렘', 치열 신경전→매력 폭발 역대급 무대 공개</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/17/897a4cc8-beac-45bd-acf2-8892da94824d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['야생돌' 이창선→임주안, '탄' 데뷔…완성형 아이돌 탄생]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333549</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333549</guid>
-            <pubDate>Fri, 17 Dec 2021 01:10:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333549">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/17/7a5b881e-72a3-4376-bb82-d7f1e06e9b75.jpg" alt="'야생돌' 이창선→임주안, '탄' 데뷔…완성형 아이돌 탄생">        <div class="text-box">            <p class="summary">'야생돌' 이창선→임주안, '탄' 데뷔…완성형 아이돌 탄생</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/17/7a5b881e-72a3-4376-bb82-d7f1e06e9b75.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
