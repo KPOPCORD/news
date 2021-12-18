@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-18T15:23:11.832Z</updated>
+    <updated>2021-12-18T16:33:08.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[양세찬, 눈물의 최우수상 "헤맸던 4년…'런닝맨'에 감사" [2021 SBS 연예대상]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003563435</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003563435"/>
+        <updated>2021-12-18T16:32:53.888Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 오윤주 기자] 개그맨 양세찬이 '런닝맨'으로 최우수상 버라이어티 부문을 수상했다. '2021 SBS 연예대상'이 18일 밤 이승기, 장도연, 한혜진의 사회로 진행됐다. 이날 최우수상 버라이어티 부문에]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['쇼! 음악중심', 확진자 발생에도 생방?…"우려 스태프 배제"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010896630</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010896630"/>
+        <updated>2021-12-18T16:32:53.892Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = MBC TV 음악방송 '쇼! 음악중심' 제작진이 코로나19 확진자가 발생했음에도 생방송을 강행했다는 주장에 대해 해명했다. '쇼! 음악중심' 제작진은 18일 오후 홈페이지에 "제작진 중]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['2021 최고의 무대' 임영웅 KBS 단독쇼 티저 네이버TV 1위]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003013848</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001386991"/>
         <updated>2021-12-18T08:26:03.614Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 지난 13일 롤링스톤 코리아가 싱어송라이터 시도와의 웹진 인터뷰를 공개했다. 롤링스톤 코리아 홈페이지를 통해 공개된 시도와의 인터뷰는 지난 11월에 공개된 음원 ‘아이(feat. 민서)’]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퍼플키스, 캐럴 '마이마이' 발표…데뷔 후 첫 시즌송]]></title>
-        <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000333998</id>
-        <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000333998"/>
-        <updated>2021-12-18T08:26:03.615Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=장진리 기자] 그룹 퍼플키스가 데뷔 후 첫 시즌송을 발표한다. 퍼플키스는 18일 오후 6시 디지털 싱글 '마이마이'를 공개한다. '마이마이'는 퍼플키스가 크리스마스를 맞아 준비한 캐럴로, 징글 사운드와]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[썸머케익 ‘러브 빌런’ 라이브 영상 기습 공개, 미공개곡 깜짝 라이브까지]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000523876</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000523876"/>
-        <updated>2021-12-18T08:26:03.616Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 싱어송라이터 썸머케익(SUMMER CAKE)이 신곡 라이브를 선보였다. 썸머케익은 12월 17일 공식 SNS를 통해 데뷔 싱글 ‘러브 빌런’(LOVE VILLAIN)의 라이브 영상을 오픈했다.]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-18T15:23:11.829Z</updated>
+    <updated>2021-12-18T16:33:08.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[양세찬, 눈물의 최우수상 "헤맸던 4년..'런닝맨'에 감사"]]></title>
+        <id>https://entertain.v.daum.net/v/20211219003357688</id>
+        <link href="https://entertain.v.daum.net/v/20211219003357688"/>
+        <updated>2021-12-18T16:32:35.184Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 오윤주 기자] 개그맨 양세찬이 '런닝맨'으로 최우수상 버라이어티 부문을 수상했다. '2021 SBS 연예대상'이 18일 밤 이승기, 장도연, 한혜진의 사회로 진행됐다. 이날 최우수상 버라이어티 부문에는 '런닝맨' 양세찬이 이름을 올렸다. 양세찬은 이름이 호명되자마자 눈물을 흘리며 무대에 올랐다. 양세찬은 "'런닝맨'을 5년 조금 넘게 했다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['올해의 예능인상' 김구라 "늦둥이 둘째, 날 보면 방긋 웃어줘"]]></title>
         <id>https://entertain.v.daum.net/v/20211218234847456</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211218163946769"/>
         <updated>2021-12-18T08:25:45.152Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 싱어송라이터 썸머케익(SUMMER CAKE)이 신곡 라이브를 선보였다. 썸머케익은 12월 17일 공식 SNS를 통해 데뷔 싱글 ‘러브 빌런’(LOVE VILLAIN)의 라이브 영상을 오픈했다. 공개된 영상에서 썸머케익은 밴드 연주에 맞춰 타이틀곡 ‘LOVE VILLAIN’과 수록곡 ‘무브 미’(Move Me)를 열창, 유니크하고 세]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['음중' 아이브 1위 "다이브 고마워"..라비·에이티즈 컴백]]></title>
-        <id>https://entertain.v.daum.net/v/20211218163348728</id>
-        <link href="https://entertain.v.daum.net/v/20211218163348728"/>
-        <updated>2021-12-18T08:25:45.153Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 아이브(IVE)가 ‘쇼! 음악중심’ 1위에 올랐다. 12월 18일 방송된 MBC ‘쇼! 음악중심’에서는 아이브가 ‘ELEVEN’으로 아이유, 다비치를 제치고 1위에 올랐다. 아이브 장원영은 “생각지도 못했는데 1위를 할 수 있게 만들어주신 다이브(아이브 팬덤명) 너무 감사드린다. 음악방송으로 인사드릴 일이 올해로는 마지막일 것]]></content>
     </entry>
 </feed>
