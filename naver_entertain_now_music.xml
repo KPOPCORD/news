@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-18T09:21:16.893Z</updated>
+    <updated>2021-12-18T10:23:49.009Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['콘셉돌' 픽시, 쌀쌀한 겨울을 따뜻하게 녹인 '불러불러' 무대... 반전의 '다크돌']]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003013743</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003013743"/>
+        <updated>2021-12-18T10:23:34.269Z</updated>
+        <content type="html"><![CDATA[2022년 K-POP을 이끌어갈 MZ세대 대표 4세대 걸그룹 픽시(PIXY)가 반전 콘셉트로 글로벌 팬심을 사로잡았다. 오늘(18일) 방송된 MBC '쇼! 음악중심'에서는 픽시(엘라, 샛별, 수아, 디아, 로라, 다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이브 ‘음악중심’ 1위, 슈퍼 루키 입증]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000781833</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004528295"/>
         <updated>2021-12-18T06:26:58.442Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] 가수 성시경이 JTBC ‘설강화’ OST의 첫 번째 주자로 나선다. 성시경이 참여한 JTBC 새 토일드라마 '설강화 : snowdrop'(극본 유현미, 연출 조현탁, 이하 '설강화')의 첫]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아역배우 이경훈, '엉클' OST 가창…뭉클한 감성 '기대 UP']]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001386945</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001386945"/>
-        <updated>2021-12-18T06:26:58.443Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 최희재 기자) 아역배우 이경훈이 주연을 맡은 드라마 ‘엉클’의 OST를 가창한다. 18일 각종 온라인 음원사이트를 통해 공개되는 드라마 ‘엉클 OST PART.3 파랑새’는 밝고 활기찬 멜로디가 담긴]]></content>
     </entry>
 </feed>
