@@ -4,9 +4,60 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Dec 2021 13:28:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Dec 2021 14:19:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[SBS연예대상]  차은우 "오늘은 SBS에서 하트~"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=180815</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=180815</guid>
+            <pubDate>Sat, 18 Dec 2021 14:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=180815">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211218213843_aa8d41e9535a61946a95334e53d1550f_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=180815">[SBS연예대상]  차은우 "오늘은 SBS에서 하트~"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211218213843_aa8d41e9535a61946a95334e53d1550f_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SBS연예대상]  이승엽, 유현주 "편먹고 공치리 로 참석합니다"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=180810</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=180810</guid>
+            <pubDate>Sat, 18 Dec 2021 14:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=180810">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211218213601_085b298b472bed01600c0b475cb758e0.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=180810">[SBS연예대상]  이승엽, 유현주 "편먹고 공치리 로 참석합니다"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211218213601_085b298b472bed01600c0b475cb758e0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SBS연예대상] 집사부일체 "파이팅!"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=180803</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=180803</guid>
+            <pubDate>Sat, 18 Dec 2021 14:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=180803">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211218213335_253f1243f202c2ebce9bdf98667adb52.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=180803">[SBS연예대상] 집사부일체 "파이팅!"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211218213335_253f1243f202c2ebce9bdf98667adb52.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[SBS연예대상]  런닝맨 "시상식의 왕, 유재석은 올해 불참!"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=180791</link>
@@ -307,60 +358,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=2021%20KBS%20%EA%B0%80%EC%9A%94%EB%8C%80%EC%B6%95%EC%A0%9C">2021 KBS 가요대축제</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211217211939_767aa03384407355cb74578471a93a88.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[가요대축제 포토] '가요대축제' 빛낸 뉴이스트의 젠틀한 매력]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=180570</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=180570</guid>
-            <pubDate>Fri, 17 Dec 2021 13:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=180570">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211217211411_f442103f4970960a537216e2a58f783e.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=180570">[가요대축제 포토] '가요대축제' 빛낸 뉴이스트의 젠틀한 매력</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=2021%20KBS%20%EA%B0%80%EC%9A%94%EB%8C%80%EC%B6%95%EC%A0%9C">2021 KBS 가요대축제</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211217211411_f442103f4970960a537216e2a58f783e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[가요대축제 포토] 꽉 찬 무대, 세븐틴의 아주 NICE한 '가요대축제']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=180565</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=180565</guid>
-            <pubDate>Fri, 17 Dec 2021 13:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=180565">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211217211056_e59f25faabb24a6af6daf82a0dcde62f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=180565">[가요대축제 포토] 꽉 찬 무대, 세븐틴의 아주 NICE한 '가요대축제'</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=2021%20KBS%20%EA%B0%80%EC%9A%94%EB%8C%80%EC%B6%95%EC%A0%9C">2021 KBS 가요대축제</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211217211056_e59f25faabb24a6af6daf82a0dcde62f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[가요대축제 포토] 역주행 신화, 롤린 롤린~ 브레이브 걸스 레드카펫 입성!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=180560</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=180560</guid>
-            <pubDate>Fri, 17 Dec 2021 13:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=180560">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211217210422_b54f503fd42d7fffdad1f4fdd83e2a52.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=180560">[가요대축제 포토] 역주행 신화, 롤린 롤린~ 브레이브 걸스 레드카펫 입성!</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=2021%20KBS%20%EA%B0%80%EC%9A%94%EB%8C%80%EC%B6%95%EC%A0%9C">2021 KBS 가요대축제</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211217210422_b54f503fd42d7fffdad1f4fdd83e2a52.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

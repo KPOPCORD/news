@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Dec 2021 13:28:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Dec 2021 14:19:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,57 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211208171639_f75b08545eefb70f59a66d36c9f4e6bf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[SBS연예대상]  차은우 "오늘은 SBS에서 하트~" (KBS연예 ─ 연예)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=180815</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=180815</guid>
+            <pubDate>Sat, 18 Dec 2021 14:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=180815">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211218213843_aa8d41e9535a61946a95334e53d1550f_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=180815">[SBS연예대상]  차은우 "오늘은 SBS에서 하트~"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211218213843_aa8d41e9535a61946a95334e53d1550f_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SBS연예대상]  이승엽, 유현주 "편먹고 공치리 로 참석합니다" (KBS연예 ─ 연예)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=180810</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=180810</guid>
+            <pubDate>Sat, 18 Dec 2021 14:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=180810">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211218213601_085b298b472bed01600c0b475cb758e0.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=180810">[SBS연예대상]  이승엽, 유현주 "편먹고 공치리 로 참석합니다"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211218213601_085b298b472bed01600c0b475cb758e0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SBS연예대상] 집사부일체 "파이팅!" (KBS연예 ─ 연예)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=180803</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=180803</guid>
+            <pubDate>Sat, 18 Dec 2021 14:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=180803">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211218213335_253f1243f202c2ebce9bdf98667adb52.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=180803">[SBS연예대상] 집사부일체 "파이팅!"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211218213335_253f1243f202c2ebce9bdf98667adb52.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[SBS연예대상]  런닝맨 "시상식의 왕, 유재석은 올해 불참!" (KBS연예 ─ 연예)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=180791</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=180791</guid>
@@ -649,60 +700,6 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211217211939_767aa03384407355cb74578471a93a88.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[가요대축제 포토] '가요대축제' 빛낸 뉴이스트의 젠틀한 매력 (KBS연예 ─ 연예)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=180570</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=180570</guid>
-            <pubDate>Fri, 17 Dec 2021 13:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=180570">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211217211411_f442103f4970960a537216e2a58f783e.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=180570">[가요대축제 포토] '가요대축제' 빛낸 뉴이스트의 젠틀한 매력</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=2021%20KBS%20%EA%B0%80%EC%9A%94%EB%8C%80%EC%B6%95%EC%A0%9C">2021 KBS 가요대축제</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211217211411_f442103f4970960a537216e2a58f783e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[가요대축제 포토] 꽉 찬 무대, 세븐틴의 아주 NICE한 '가요대축제' (KBS연예 ─ 연예)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=180565</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=180565</guid>
-            <pubDate>Fri, 17 Dec 2021 13:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=180565">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211217211056_e59f25faabb24a6af6daf82a0dcde62f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=180565">[가요대축제 포토] 꽉 찬 무대, 세븐틴의 아주 NICE한 '가요대축제'</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=2021%20KBS%20%EA%B0%80%EC%9A%94%EB%8C%80%EC%B6%95%EC%A0%9C">2021 KBS 가요대축제</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211217211056_e59f25faabb24a6af6daf82a0dcde62f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[가요대축제 포토] 역주행 신화, 롤린 롤린~ 브레이브 걸스 레드카펫 입성! (KBS연예 ─ 연예)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=180560</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=180560</guid>
-            <pubDate>Fri, 17 Dec 2021 13:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=180560">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211217210422_b54f503fd42d7fffdad1f4fdd83e2a52.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=180560">[가요대축제 포토] 역주행 신화, 롤린 롤린~ 브레이브 걸스 레드카펫 입성!</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=2021%20KBS%20%EA%B0%80%EC%9A%94%EB%8C%80%EC%B6%95%EC%A0%9C">2021 KBS 가요대축제</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211217210422_b54f503fd42d7fffdad1f4fdd83e2a52.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[‘음중’ 빌리, 크리스마스 분위기 ‘스노이 나이트’로 겨울 감성 자극 (MBC 연예 ─ 아이돌)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/333656</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333656</guid>
@@ -791,6 +788,27 @@
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/17/01xOkFCLVI1e637753773359653793.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[유재석, 입간판으로 등장 "실시간 시청 중"..올해의 예능인상 수상 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211218230914235</link>
+            <guid>https://entertain.v.daum.net/v/20211218230914235</guid>
+            <pubDate>Sat, 18 Dec 2021 14:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 오윤주 기자] 방송인 유재석 지석진 김종국이 올해의 예능인상을 수상했다. '2021 SBS 연예대상'이 18일 밤 이승기, 장도연, 한혜진의 사회로 진행됐다. 이날 '런닝맨' 유재석과 지석진, 김종국이 올해의 예능인상을 차지했다. 코로나19 확진으로 불참한 유재석은 입간판으로 등장했다. 지석진은 "난생 처음 재석이가 없어 아쉽고 섭섭하다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['골때녀' FC 구척장신, '헤이 마마'로 분위기 압도 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211218225314135</link>
+            <guid>https://entertain.v.daum.net/v/20211218225314135</guid>
+            <pubDate>Sat, 18 Dec 2021 14:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 오윤주 기자] SBS '골 때리는 그녀들' FC 구척장신이 축하공연을 펼쳤다. '2021 SBS 연예대상'이 18일 밤 이승기, 장도연, 한혜진의 사회로 진행됐다. 이날 FC 구척장신 이현이, 송해나, 아이린, 차수민, 김진경, 차서린 등이 무대를 꾸몄다. 골 때리는 그녀들'에서 빛나는 성장을 보여준 'FC 구척장신'은 올 한해 댄스 열풍]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이수근X배성재, 베스트 커플상 "영원하자"→"♥아내 이해할 것" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211218223854016</link>
+            <guid>https://entertain.v.daum.net/v/20211218223854016</guid>
+            <pubDate>Sat, 18 Dec 2021 14:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 오윤주 기자] '2021 SBS 연예대상' 베스트 커플상의 영광을 이수근·배성재가 가져간다. '2021 SBS 연예대상'이 18일 밤 이승기, 장도연, 한혜진의 사회로 진행됐다. 한배 탄만큼 베스트 커플상은 SBS '골 때리는 그녀들'에서 해설위원으로 활약 중인 이수근과 배성재가 수상했다. 배성재는 "'이게 축구다'라는 걸 매주 보여주고]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['동상이몽2' 이지훈 "결혼하길 잘했다" 베스트 패밀리상 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
             <link>https://entertain.v.daum.net/v/20211218221848833</link>
             <guid>https://entertain.v.daum.net/v/20211218221848833</guid>
@@ -875,130 +893,109 @@
             <content:encoded><![CDATA[[뉴스엔 이하나 기자] 가수 임한별이 연말 단독 콘서트 '크리스마스 시네마'를 연기했다. 플렉스엠은 지난 12월 17일 "오는 24일과 25일 서울 광진구 세종대학교 대양홀에서 예정됐던 임한별의 단독 콘서트 '크리스마스 시네마(Christmas CINEMA)'가 잠정 연기됐다"고 밝혔다. 임한별 측은 만전을 기해 공연을 준비하고 있었으나 현 사회적 거리]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[정동원, '신사와 아가씨' OST 4번째 주자..'가리워진 길' 오늘 발매 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211218154135223</link>
-            <guid>https://entertain.v.daum.net/v/20211218154135223</guid>
-            <pubDate>Sat, 18 Dec 2021 07:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이하나 기자] 정동원이 KBS 2TV 주말드라마 ‘신사와 아가씨’ OST의 네 번째 주자로 발탁되었다. 정동원이 참여한 ‘신사와 아가씨’(연출 신창석/ 극본 김사경/ 제작 지앤지프로덕션)의 네 번째 OST ‘가리워진 길’이 12월 18일 오후 6시 발매된다. ‘가리워진 길’은 1987년 발표된 유재하의 데뷔 앨범이자 유작 앨범의 수록곡으로, 이번]]></content:encoded>
+            <title><![CDATA[김준호 우수상 수상 "KBS 연예대상 후 첫 상, 좋다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211218231500264</link>
+            <guid>https://entertain.v.daum.net/v/20211218231500264</guid>
+            <pubDate>Sat, 18 Dec 2021 14:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[개그맨 김준호와 배우 임원희가 우수상을 수상했다. 18일 오후 ’2021 SBS 연예대상’이 열렸다. ‘넥스트 레벨(Next Level)’이라는 부제로 꾸며진 이번 연예대상은 이승기, 장도연, 한혜진이 MC를 맡았다. 임원희는 "보통 이런 상은 5년 정도 해야 주는 것 같은데, 일찍 과분한 상을 주셨다. '미운 우리 새끼', '돌싱포맨' 사랑해주셔서 감사]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['음악중심' 다비치vs아이브vs아이유, 1위 후보 격돌 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211218152827071</link>
-            <guid>https://entertain.v.daum.net/v/20211218152827071</guid>
-            <pubDate>Sat, 18 Dec 2021 07:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이하나 기자] 다비치, 아이브(IVE), 아이유가 1위 후보로 만났다. 12월 18일 방송된 MBC ‘쇼! 음악중심’에서는 12월 셋째 주 1위 후보가 공개 됐다. 이날 방송에는 다비치의 ‘매일 크리스마스’, 아이브의 ‘ELEVEN’, 아이유의 ‘strawberry moon’이 1위 후보로 올랐다. 다비치는 새로운 1위 후보로 등장했다. 다]]></content:encoded>
+            <title><![CDATA['SBS 연예대상' 올해의 예능인상 이경규 "사돈댁, 나 이런 사람..내년에는 대상으로 찾아뵐 것" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211218231206258</link>
+            <guid>https://entertain.v.daum.net/v/20211218231206258</guid>
+            <pubDate>Sat, 18 Dec 2021 14:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[[SBS연예뉴스 | 김효정 에디터] 이경규가 '올해의 예능인상'을 수상했다. 18일 서울 마포구 상암동 SBS 프리즘타워에서 밤 8시 35분부터 생방송으로 진행된 '2021 SBS 연예대상'에서는 올 한 해 SBS 예능을 빛낸 예능인들에게 '올해의 예능인상'이 주어졌다. 이날 올해의 예능인상을 수상한 이경규는 "받을만한 사람이 받았다. 사실 대상감이다"라고]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[성시경, '설강화 : snowdrop' OST 첫 주자..오늘 '곁에 있어준다면' 발매 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211218151039894</link>
-            <guid>https://entertain.v.daum.net/v/20211218151039894</guid>
-            <pubDate>Sat, 18 Dec 2021 06:26:39 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;가수 성시경이&nbsp;JTBC ‘설강화’ OST의 첫 번째 주자로 나선다. 성시경이 참여한&nbsp;JTBC&nbsp;새 토일드라마 '설강화&nbsp;: snowdrop'(극본 유현미, 연출 조현탁, 이하 '설강화')의 첫 번째&nbsp;OST '곁에 있어준다면'이&nbsp;18일 오후&nbsp;6시 전 온라인 음원 사이트를 통해 발매된다. ‘곁에 있어준다면’은 누군가 곁에 있어주는 것만으로]]></content:encoded>
+            <title><![CDATA['개승자' 장효인 "1라운드 후 유재석과 통화..격려·조언 해줬다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211218231201253</link>
+            <guid>https://entertain.v.daum.net/v/20211218231201253</guid>
+            <pubDate>Sat, 18 Dec 2021 14:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[장효인이 유재석을 언급했다. 18일 방송된 KBS 예능 프로그램 ‘개승자’에서는 유재석과의 에피소드를 언급하는 장효인의 모습이 그려졌다. 김성주는 "개승자 1라운드 이후에 유재석 씨와 통화했다는 얘길 들었다"고 말했다. 장효인은 "(재석 선배님이) '효인아' 하시면서 너무 좋아하셨다"고 밝혔다. 장효인은 "제가 어린이집에서 일하고 있으니까 (재석 선배님이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["엄마 자리 어렵다"..'살림남2' 율희, 아들 재율과 성공적 데이트 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211218222700892</link>
-            <guid>https://entertain.v.daum.net/v/20211218222700892</guid>
-            <pubDate>Sat, 18 Dec 2021 13:27:54 GMT</pubDate>
-            <content:encoded><![CDATA['살림남2' 율희가 매일 밤 할머니를 찾는 아들에게 서운한 마음을 드러낸 가운데, 하루 동안 온전히 아들과 함께하는 데이트를 즐겼다. 18일 방송된 KBS 2TV '살림하는 남자들 시즌2'(이하 '살림남2')에서 최민환♥율희 가족의 일상이 공개됐다. 이날 율희는 아들 재율을 재우기 위해 노력했다. 하지만 재율은 할머니를 보고싶어 했고, 할머니와 함께 자고]]></content:encoded>
+            <title><![CDATA[유재석·지석진·김종국, 올해의 예능인상.."실시간으로 보고 있어" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211218230602226</link>
+            <guid>https://entertain.v.daum.net/v/20211218230602226</guid>
+            <pubDate>Sat, 18 Dec 2021 14:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=지민경 기자] 유재석과 지석진, 김종국이 올해의 예능인상을 받았다. 18일 오후 방송된 ‘2021 SBS 연예대상’에서는 올해의 예능인상 수상자가 공개됐다. 앞서 신동엽, 탁재훈, 이상민, 이경규, 이승기, 박선영에 이어 유재석, 지석진, 김종국이 올해의 예능인상을 수상했다. 이날 코로나19 확진으로 현장에 함께 하지 못한 유재석을 위해 지석진과]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['아는 형님' 재재·비비·예나, 날카로운 추리 뽐내는 여고추리반 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211218222101855</link>
-            <guid>https://entertain.v.daum.net/v/20211218222101855</guid>
-            <pubDate>Sat, 18 Dec 2021 13:27:54 GMT</pubDate>
-            <content:encoded><![CDATA[재재·비비·예나가 날카로운 추리를 선보였다. 18일 방송된 JTBC 예능 프로그램 '아는 형님'(이하 '아형')에서는 추리 명문 태평여高에서 전학 온 재재·비비·예나의 활약상이 그려졌다. 이날 송형석이 상담 교사로 등장했다. 송형석은 멤버들의 성격을 분석했다. 그는 "호동이의 기질은 자아도취적이다. 성격적으로 높은 자기 초월적 사람"이라며 "전형적은 보스]]></content:encoded>
+            <title><![CDATA['개승자' 송병철 "오나미, 개그 잘 살리는 개그우먼" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211218230600224</link>
+            <guid>https://entertain.v.daum.net/v/20211218230600224</guid>
+            <pubDate>Sat, 18 Dec 2021 14:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[송병철이 오나미를 극찬했다. 18일 방송된 KBS 예능 프로그램 ‘개승자’에서는 2라운드를 준비하는 오나미 팀의 모습이 그려졌다. 동료 개그맨들이 오나미를 언급했다. 김원효는 "나미가 요즘 얄밉다. 얄밉게 잘해"라고 했다. 송병철은 "웃기기에 최적화된 하드웨어를 갖고 있다"며 "개그를 잘 살리는 개그우먼"이라고 극찬했다. 오나미는 "저희는 개그에 대한 간]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['불가살' 이진욱, 귀물 잡는 장수로 성장..두억시니 처치 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211218221841832</link>
-            <guid>https://entertain.v.daum.net/v/20211218221841832</guid>
-            <pubDate>Sat, 18 Dec 2021 13:27:54 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 이아영 기자 = '불가살' 이진욱이 두억시니를 죽이고 칭송을 받았다. 18일 방송된 tvN 새 주말드라마 '불가살'(극본 권소라, 서재원/연출 장영우)에서는 단활(이진욱 분)이 귀물을 잡는 장수가 됐다. 이날 단극(정진영 분)은 마지막 귀물을 잡기 위해 나섰다. 여자의 모습을 한 두억시니에 홀린 군사들은 헛것을 보고 서로를 죽고 죽였다.]]></content:encoded>
+            <title><![CDATA['설강화' 비난 여론 의식했나, TALK 채널 막았다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211218230406219</link>
+            <guid>https://entertain.v.daum.net/v/20211218230406219</guid>
+            <pubDate>Sat, 18 Dec 2021 14:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 김종은 기자] '설강화'가 시청자들이 드라마를 보며 서로 소통할 수 있는 네이버 TALK 채널을 막았다. JTBC 새 토일드라마 '설강화 : snowdrop'(극본 유현미·연출 조현탁, 이하 '설강화')가 18일 밤 첫 방송됐다. '설강화'는 1987년 서울을 배경으로 여자 기숙사에 피투성이로 뛰어든 재독 교포 출신 대학원생 수호(정해인)와]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['집사부일체' 팀 베스트 팀워크상 수상 "시청률 두배 올랐으면" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211218221812829</link>
-            <guid>https://entertain.v.daum.net/v/20211218221812829</guid>
-            <pubDate>Sat, 18 Dec 2021 13:27:54 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박수인 기자] '집사부일체' 팀이 베스트 팀워크상을 수상했다. 12월 18일 진행된 '2021 SBS 연예대상'에서는 SBS '집사부일체' 팀 이승기, 양세형, 김동현, 유수빈이 베스트 팀워크상 수상 영예를 안았다. 막내 유수빈은 "좋은 팀워크 보여드릴 수 있도록 더 열심히 노력하겠다"고 말했다. 김동현은 "'집사부일체'가 곧 200회가 된다.]]></content:encoded>
+            <title><![CDATA[김희철 "결혼 안하는 이유? '미우새'에서 쫓겨날까봐" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211218230300212</link>
+            <guid>https://entertain.v.daum.net/v/20211218230300212</guid>
+            <pubDate>Sat, 18 Dec 2021 14:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼주니어 김희철이 결혼을 안하는 이유를 공개했다. 18일 오후 ’2021 SBS 연예대상’이 열렸다. ‘넥스트 레벨(Next Level)’이라는 부제로 꾸며진 이번 연예대상은 이승기, 장도연, 한혜진이 MC를 맡았다. 가수 이지훈과 김희철은 우수 프로그램상 시상자로 무대에 올랐다. 이날 이지훈은 김희철에게 "결혼을 왜 안하는거냐"고 물었고, 김희철은 "]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['집사부일체' 베스트 팀워크상 수상 "곧 200회" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211218221808825</link>
-            <guid>https://entertain.v.daum.net/v/20211218221808825</guid>
-            <pubDate>Sat, 18 Dec 2021 13:27:54 GMT</pubDate>
-            <content:encoded><![CDATA['집사부일체'가 베스트 팀워크상을 수상했다. 18일 오후 ’2021 SBS 연예대상’이 열렸다. ‘넥스트 레벨(Next Level)’이라는 부제로 꾸며진 이번 연예대상은 이승기, 장도연, 한혜진이 MC를 맡았다. 유수빈은 "저희 형들이 잘 이끌어주고 도와줘서 팀워크가 좋았던 것 같다. 더 좋은 팀워크 보여드릴 수 있도록 노력하겠다"고 소감을 밝혔다. 김동]]></content:encoded>
+            <title><![CDATA[지석진·유재석·김종국, 올해의 예능인상 "열심히 뛸 것" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211218225806183</link>
+            <guid>https://entertain.v.daum.net/v/20211218225806183</guid>
+            <pubDate>Sat, 18 Dec 2021 14:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 최혜진 기자] 'SBS 연예대상' 지석진, 유재석, 김종국이 올해의 예능인상 수상의 기쁨을 누렸다. 18일 SBS에서 '2021 SBS 연예대상'(이하 'SBS 연예대상')이 생중계됐다. MC로는 모델 한혜진, 가수 이승기, 코미디언 장도연이 출연했다. '런닝맨'에서 활약한 지석진, 유재석, 김종국은 이날 올해의 예능인상을 수상했다. 이중 유]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['태종 이방원' 주상욱 "둘 중 하나가 죽어야 끝나..저도 돕겠다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211218221230760</link>
-            <guid>https://entertain.v.daum.net/v/20211218221230760</guid>
-            <pubDate>Sat, 18 Dec 2021 13:27:54 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트=김은정 기자] 주상욱이 김영철을 돕겠다고 나섰다. 18일 오후 방송된 KBS 1TV 대하사극 ‘태종 이방원’에서는 이방원(주상욱 분)이 이성계(김영철 분)를 지키고 부상을 당했다. 이날 이방원은 이성계를 노린 자객이 집안에 침입해 있다는 정보를 듣고 조영무(김법래 분)에게 "자객이 있다. 수상한 자가 있으면 무조건 잡아 놓으라"고 지시했다. 이]]></content:encoded>
+            <title><![CDATA[유재석, 불참 속 올해의 예능인상..김종국 "실시간 모니터 중" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211218225700169</link>
+            <guid>https://entertain.v.daum.net/v/20211218225700169</guid>
+            <pubDate>Sat, 18 Dec 2021 14:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=장진리 기자] 방송인 유재석이 신종 코로나바이러스 감염증(코로나19) 확진 판정으로 '2021 SBS 연예대상'에 불참한 가운데 올해의 예능인상을 수상했다.유재석은 지석진, 김종국과 함께 18일 방송된 '2021 SBS 연예대상'에서 올해의 예능인상을 차지하는 영광을 누렸다. 유재석은 코로나19 확진 판정을 받으면서 모든 일정을 중단했고]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['불가살' 공승연, 이진욱 원망 "이게 다 네놈의 저주 때문" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211218221118747</link>
-            <guid>https://entertain.v.daum.net/v/20211218221118747</guid>
-            <pubDate>Sat, 18 Dec 2021 13:27:54 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 김종은 기자] '불가살' 공승연이 이진욱을 원망했다. 18일 밤 첫 방송된 tvN 새 토일드라마 '불가살'(극본 권소라·연출 장영우) 1회에서는 600년 전 단솔(공승연)과 단활(이진욱)의 인연이 그려졌다. 오랜 세월이 지났지만 여전히 단활은 자신에게 저주받은 인생을 선사한 불가살의 뒤를 쫓고 있었다. 단활은 "아무튼 오늘은 좀 웃자. 이]]></content:encoded>
+            <title><![CDATA[유재석, 입간판으로 대리 수상.."실시간으로 보고 있는 중" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211218225606162</link>
+            <guid>https://entertain.v.daum.net/v/20211218225606162</guid>
+            <pubDate>Sat, 18 Dec 2021 14:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 김종은 기자] '2021 SBS 연예대상' 유재석이 김종국, 지석진과 함께 올해의 예능인상을 수상했다. '2021 SBS 연예대상'이 18일 밤 생중계로 진행됐다. 진행은 이승기, 장도연, 한혜진이 맡았다. 이날 '런닝맨'의 유재석, 김종국, 지석진은 이경규, 이승기, 박선영에 이어 올해의 예능인상을 수상하는 영예를 안았다. 최근 코로나19]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김봉곤 아들 경민 "대학교 휴학 후 공장 취직 계획" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211218220204652</link>
-            <guid>https://entertain.v.daum.net/v/20211218220204652</guid>
-            <pubDate>Sat, 18 Dec 2021 13:27:54 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 최혜진 기자] '살림남2' 김봉곤의 아들이 학업 포기 의사를 밝혔다. 18일 방송된 KBS2 예능프로그램 '살림하는 남자들2'(이하 '살림남2')에서는 김봉곤의 아들 경민이 군 휴가를 나와 가족들과 만난 모습이 그려졌다. 이날 경민은 "대학교 휴학을 계속하고 목돈을 벌기 위해 공장에 취직할까 생각하고 있다"고 선언했다. 이어 "제가 하고 싶]]></content:encoded>
+            <title><![CDATA[지석진 김종국, 불참한 유재석과 올해의 예능인상 "실시간으로 보는중" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211218225434144</link>
+            <guid>https://entertain.v.daum.net/v/20211218225434144</guid>
+            <pubDate>Sat, 18 Dec 2021 14:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박수인 기자] 유재석, 지석진, 김종국이 올해의 예능인상을 수상했다. 12월 18일 진행된 '2021 SBS 연예대상'에서는 유재석, 지석진, 김종국이 이경규, 이승기, 박선영, 신동엽, 탁재훈, 이상민에 이어 올해의 예능인상 수상의 영광을 안았다. 이날 지석진은 "(유)재석이가 이 자리에 없어서 뭔지 모르게 아쉽고 섭섭하기도 하다. 방송을 통해]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이경규, 올해의 예능인상 수상.."사돈댁 나 이런 사람이다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211218220118642</link>
-            <guid>https://entertain.v.daum.net/v/20211218220118642</guid>
-            <pubDate>Sat, 18 Dec 2021 13:27:54 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=지민경 기자] 신동엽, 탁재훈, 이상민, 이경규, 이승기, 박선영이 ‘올해의 예능인상’을 수상했다. 18일 오후 방송된 ‘2021 SBS 연예대상’에서는 올해의 예능인상 시상이 이어졌다. 올해 새로 생긴 올해의 예능인상은 총 12명에게 주어지는 상으로 1부에서는 신동엽, 탁재훈, 이상민, 이경규, 이승기, 박선영 6명이 먼저 발표됐다. 신동엽은]]></content:encoded>
+            <title><![CDATA[김종국 "유재석, 지석진 애드리브 부족하다고" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211218225400139</link>
+            <guid>https://entertain.v.daum.net/v/20211218225400139</guid>
+            <pubDate>Sat, 18 Dec 2021 14:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[김종국이 코로나19 확진 탓으로 불참한 유재석이 문자 내용을 공개했다. 18일 오후 ’2021 SBS 연예대상’이 열렸다. ‘넥스트 레벨(Next Level)’이라는 부제로 꾸며진 이번 연예대상은 이승기, 장도연, 한혜진이 MC를 맡았다. 지석진은 "난생 처음 재석이가 이 자리에 없어서 뭔지 모르게 아쉽고 섭섭하다. 방송을 보고 있는지 모르겠는데 유재석이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['살림남2' 김봉곤, 휴가 나온 아들 붙잡고 훈장 수업 시작 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211218220001624</link>
-            <guid>https://entertain.v.daum.net/v/20211218220001624</guid>
-            <pubDate>Sat, 18 Dec 2021 13:27:54 GMT</pubDate>
-            <content:encoded><![CDATA[김봉곤이 아들에게 훈장의 길을 알려주고자 훈장 수업을 시작했다. 18일 방송된 KBS 2TV '살림하는 남자들 시즌2'(이하 '살림남2')에서 김봉곤♥전혜란 가족의 일상이 공개됐다. 특히 현재 군 복무 중인 둘째 아들 경민이 1년 만에 2주의 휴가를 받아 집으로 돌아온 모습이 공개되기도 했다. 가족들은 경민을 반갑게 맞았다. 경민은 가족들을 위한 선물까]]></content:encoded>
+            <title><![CDATA[유재석·지석진·김종국 올해의 예능인상 "'런닝맨' 팬 덕분" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211218225355138</link>
+            <guid>https://entertain.v.daum.net/v/20211218225355138</guid>
+            <pubDate>Sat, 18 Dec 2021 14:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = '2021 SBS 연예대상' 유재석 지석진 김종국이 올해의 예능인상을 받았다. 18일 방송된 '2021 SBS 연예대상'에서는 올해의 예능인상 수상자로 유재석 지석진 김종국이 이름을 올렸다. 이날 수상자인 유재석은 코로나19 확진 판정을 받아 불참했다. 지석진은 "난생 처음 이렇게 재석이가 이 자리에 없어서 뭔지 모르게]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이경규, 올해의 예능인상 수상 "사돈댁 나 이런 사람" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211218215400547</link>
-            <guid>https://entertain.v.daum.net/v/20211218215400547</guid>
-            <pubDate>Sat, 18 Dec 2021 13:27:54 GMT</pubDate>
-            <content:encoded><![CDATA[방송인 이경규가 올해의 예능인상을 수상했다. 18일 오후 ’2021 SBS 연예대상’이 열렸다. ‘넥스트 레벨(Next Level)’이라는 부제로 꾸며진 이번 연예대상은 이승기, 장도연, 한혜진이 MC를 맡았다. 이경규는 "받을 만 한 사람이 받는 것 같다"고 말한 뒤 "사실 대상감인데 '편먹고 공치리'를 너무 늦게 시작했다. 3월부터 시작했으면 연예대상]]></content:encoded>
+            <title><![CDATA['골때녀' 이수근X배성재, 베스트 커플상 주인공 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211218224911103</link>
+            <guid>https://entertain.v.daum.net/v/20211218224911103</guid>
+            <pubDate>Sat, 18 Dec 2021 14:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 정하은기자]‘2021 SBS 연예대상’에서 이수근과 배성재가 베스트 커플상을 받았다. 18일 오후 8시 35분부터 ‘2021 SBS 연예대상’이 생방송으로 진행됐다. 올해는 ‘넥스트 레벨(Next Level)’이라는 부제로 꾸며져 이승기, 장도연, 한혜진이 MC를 맡았다. SBS는 올해도 트렌드를 이끄는 신규 예능 프로]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['불가살' 권나라, 저주받은 아이 '활' 구했다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211218214918506</link>
-            <guid>https://entertain.v.daum.net/v/20211218214918506</guid>
-            <pubDate>Sat, 18 Dec 2021 13:27:54 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 김종은 기자] '불가살' 권나라가 저주받은 아이를 구했다. 18일 밤 첫 방송된 tvN 새 토일드라마 '불가살'(극본 권소라·연출 장영우) 1회에서는 600년 전 불가살의 전생이 공개됐다. 이날 한마을에서는 계속 사람이 죽어나갔다. 짐승에게 당한 듯 갈기갈기 찢긴 시체에 마을 사람들은 경악했고, 사람들은 "사라지거나 죽은 사람이 벌써]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['SBS 연예대상' 이현이, "구척장신의 처음 있게 해 준 한혜진, 감사해"..박군과 '리얼리티 신인상' 수상 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211218214801484</link>
-            <guid>https://entertain.v.daum.net/v/20211218214801484</guid>
-            <pubDate>Sat, 18 Dec 2021 13:27:54 GMT</pubDate>
-            <content:encoded><![CDATA[[SBS연예뉴스 | 김효정 에디터] 박군과 이현이가 리얼리티 부분 신인상을 수상했다. 18일 서울 마포구 상암동 SBS 프리즘타워에서 밤 8시 35분부터 생방송으로 진행된 '2021 SBS 연예대상'에서는 올 한 해 SBS 예능에서 활약을 펼친 신인들에게 신인상을 시상했다. 이날 리얼리티 부문 신인상은 박군과 이현이가 수상했다. '미운 우리 새끼'에서 활약]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['동상이몽2' 베스트패밀리상..이지훈 "결혼하길 잘했다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211218214759482</link>
-            <guid>https://entertain.v.daum.net/v/20211218214759482</guid>
-            <pubDate>Sat, 18 Dec 2021 13:27:54 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = '동상이몽2-너는 내 운명' 부부들이 '2021 SBS 연예대상' 베스트 패밀리상을 수상했다. 18일 방송된 '2021 SBS 연예대상'에서는 베스트 패밀리상 수상자로 '동상이몽2-너는 내 운명' 팀이 호명됐다. 이날 이지훈은 "상상도 못했는데 좋은 상을 일찌감치 주셔서 놀랐다"며 "제일 먼저 저와 함께 결혼해준 아야네]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['불가살' 이진욱, 강렬한 첫 등장 "600년 동안 너를 찾아다녔다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211218214630464</link>
-            <guid>https://entertain.v.daum.net/v/20211218214630464</guid>
-            <pubDate>Sat, 18 Dec 2021 13:27:54 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트=김은정 기자] 이진욱이 강렬한 첫 등장으로 흥미를 자극했다. 18일 오후 방송된 tvN 새 토일드라마 '불가살'에서는 600년의 서사로 얽힌&nbsp;단활(이진욱 분)과 민상운(권나라 분)의 인연이 밝혀졌다. 이날 단활은 누군가와 싸우다 다리 아래로 추락했지만 죽지 않았다. 몸이 관통되는 상처를 입고도 눈을 뜨고 아무렇지 않게 걸었다. 600년 전 이땅]]></content:encoded>
+            <title><![CDATA[FC 구척장신, '헤이 마마' 축하공연 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211218224801095</link>
+            <guid>https://entertain.v.daum.net/v/20211218224801095</guid>
+            <pubDate>Sat, 18 Dec 2021 14:18:58 GMT</pubDate>
+            <content:encoded><![CDATA['골 때리는 그녀들' FC 구척장신이 '헤이 마마' 축하공연을 선보였다. 18일 오후 ’2021 SBS 연예대상’이 열렸다. ‘넥스트 레벨(Next Level)’이라는 부제로 꾸며진 이번 연예대상은 이승기, 장도연, 한혜진이 MC를 맡았다. ‘골 때리는 그녀들’에서 빛나는 성장을 보여준 ‘FC 구척장신’이 올 한 해 수많은 커버 댄스로 화제를 모은 ‘헤이]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['졸리 전 남편' 브래드 피트 "양육권 다툼? 긍정적으로 생각" (다음 연예 ─ 뉴스 ─ 해외)]]></title>
@@ -1048,6 +1045,27 @@
             <guid>https://entertain.v.daum.net/v/20211218075407132</guid>
             <pubDate>Fri, 17 Dec 2021 23:23:22 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=최나영 기자] 팝가수 테일러 스위프트(32)를 주제로 한 파티에 참석한 100여명의&nbsp;사람들이 신종코로나바이러스감염증(COVID-19) 양성 반응을 보였다. 뉴욕포스트의 17일(현지시간) 보도에 따르면 지난 10일 호주 시드니 메트로 시어터에서 열린 스위프트의 '레드(Red)' 앨범 발매 기념행사는 현재 '슈퍼 전파 행사'로 여겨지고 있으며, 아직]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[유재석, 입간판으로 등장 "실시간 시청 중"…올해의 예능인상 수상 [2021 SBS 연예대상] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003563418</link>
+            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003563418</guid>
+            <pubDate>Sat, 18 Dec 2021 14:19:12 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 오윤주 기자] 방송인 유재석 지석진 김종국이 올해의 예능인상을 수상했다. '2021 SBS 연예대상'이 18일 밤 이승기, 장도연, 한혜진의 사회로 진행됐다. 이날 '런닝맨' 유재석과 지석진, 김종국]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['골때녀' FC 구척장신, '헤이 마마'로 분위기 압도 [2021 SBS 연예대상] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003563415</link>
+            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003563415</guid>
+            <pubDate>Sat, 18 Dec 2021 14:19:12 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 오윤주 기자] SBS '골 때리는 그녀들' FC 구척장신이 축하공연을 펼쳤다. '2021 SBS 연예대상'이 18일 밤 이승기, 장도연, 한혜진의 사회로 진행됐다. 이날 FC 구척장신 이현이, 송해나]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이수근X배성재, 베스트 커플상 "영원하자"→"♥아내 이해할 것" [2021 SBS 연예대상] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003563413</link>
+            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003563413</guid>
+            <pubDate>Sat, 18 Dec 2021 14:19:12 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 오윤주 기자] '2021 SBS 연예대상' 베스트 커플상의 영광을 이수근·배성재가 가져간다. '2021 SBS 연예대상'이 18일 밤 이승기, 장도연, 한혜진의 사회로 진행됐다. 한배 탄만큼 베스트]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['동상이몽2' 이지훈 "결혼하길 잘했다" 베스트 패밀리상 [2021 SBS 연예대상] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
@@ -1204,200 +1222,186 @@
             <content:encoded><![CDATA[(엑스포츠뉴스 최희재 기자) 가수 성시경이 JTBC ‘설강화’ OST의 첫 번째 주자로 나선다. 성시경이 참여한 JTBC 새 토일드라마 ‘설강화 : snowdrop (연출 조현탁 / 극본 유현미 / 제작 드라마하우스]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[예지, ‘K-HIPHOP AWARD’서 최우수 힙합가수상 수상 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=408&amp;aid=0000141572</link>
-            <guid>https://entertain.naver.com/now/read?oid=408&amp;aid=0000141572</guid>
-            <pubDate>Sat, 18 Dec 2021 07:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[가수 예지가 명실상부 여성 대표 래퍼로 거듭났다. 예지는 지난 17일 오후 11시 30분 방송된 MBC M ‘K-HIPHOP AWARD’에서 최우수 힙합가수상을 수상했다. 이날 예지는 ‘미친개’ 무대를 통해 파워풀한]]></content:encoded>
+            <title><![CDATA[[포토]지석진, 올해의 예능인상 감사해요 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004895728</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004895728</guid>
+            <pubDate>Sat, 18 Dec 2021 14:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[방송인 지석진이 18일 오후 서울 상암동 SBS프리즘타워에서 진행된 2021 SBS 연예대상에서 올해의 예능인상 수상 후 소감을 말하고 있다. [사진제공=SBS]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[임한별, 거리두기 강화로 연말 콘서트 연기→무료 온라인 공연 개최 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000523865</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000523865</guid>
-            <pubDate>Sat, 18 Dec 2021 07:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이하나 기자] 가수 임한별이 연말 단독 콘서트 '크리스마스 시네마'를 연기했다. 플렉스엠은 지난 12월 17일 "오는 24일과 25일 서울 광진구 세종대학교 대양홀에서 예정됐던 임한별의 단독 콘서트 '크리스]]></content:encoded>
+            <title><![CDATA[[TEN 포토] 이승엽-유현주 '골프로 뭉쳤어요' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518847</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518847</guid>
+            <pubDate>Sat, 18 Dec 2021 14:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=조준원 기자]전 야구선수 이승엽과 프로골퍼 유현주가 18일 오후 서울 상암동 SBS프리즘타워에서 진행된 2021 SBS 연예대상에 참석해 포즈를 취하고 있다. [사진제공=SBS] 조준원 기자 wizard3]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[정동원, ‘신사와 아가씨’ OST 4번째 주자‥‘가리워진 길’ 오늘(18일) 발매 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000523864</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000523864</guid>
-            <pubDate>Sat, 18 Dec 2021 07:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이하나 기자] 정동원이 KBS 2TV 주말드라마 ‘신사와 아가씨’ OST의 네 번째 주자로 발탁되었다. 정동원이 참여한 ‘신사와 아가씨’(연출 신창석/ 극본 김사경/ 제작 지앤지프로덕션)의 네 번째 OST]]></content:encoded>
+            <title><![CDATA[[TEN 포토] 이승엽 '연예대상 왔어요' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518846</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518846</guid>
+            <pubDate>Sat, 18 Dec 2021 14:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=조준원 기자]전 야구선수 이승엽이 18일 오후 서울 상암동 SBS프리즘타워에서 진행된 2021 SBS 연예대상에 참석해 포즈를 취하고 있다. [사진제공=SBS] 조준원 기자 wizard333@tenasia]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[TEN 포토] '연예대상' 유재석 빠진 런닝맨 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518828</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518828</guid>
-            <pubDate>Sat, 18 Dec 2021 13:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=조준원 기자]'런닝맨' 출연자 김종국, 지석진, 전소민, 송지효, 양세찬, 하하가 18일 오후 서울 상암동 SBS프리즘타워에서 진행된 2021 SBS 연예대상에 참석해 포즈를 취하고 있다. [사진제공=SB]]></content:encoded>
+            <title><![CDATA[[TEN 포토] 유현주 '구릿빛 피부에 아찔한 각선미' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518845</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518845</guid>
+            <pubDate>Sat, 18 Dec 2021 14:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=조준원 기자]프로골퍼 유현주가 18일 오후 서울 상암동 SBS프리즘타워에서 진행된 2021 SBS 연예대상에 참석해 포즈를 취하고 있다. [사진제공=SBS] 조준원 기자 wizard333@tenasia.c]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 이미정, '우즈넥상 시상합니다' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=014&amp;aid=0004757934</link>
-            <guid>https://entertain.naver.com/now/read?oid=014&amp;aid=0004757934</guid>
-            <pubDate>Sat, 18 Dec 2021 13:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[[FN스타 이승훈 기자] 우즈넥스 이미정 NET 사업부 대표가 18일 오후 서울 강남구 SETEC 전시관에서 진행된 '유후와 함께하는 우즈넥스 2021 페이스오브아시아'에 참석해 대상을 시상하고 있다. ‘페이스오브아]]></content:encoded>
+            <title><![CDATA[[SBS 연예대상] 유재석·지석진·김종국 '올해의 예능인상' 수상 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000765907</link>
+            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000765907</guid>
+            <pubDate>Sat, 18 Dec 2021 14:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[유재석·지석진·김종국이 18일 오후 서울 마포구 상암동 SBS프리즘타워에서 열린 '2021 SBS 연예대상'에서 올해의 예능인상을 수상했다. 지석진은 "유재석씨가 이 자리에 없어서 아까부터 아쉽고 섭섭하다"면서 "우]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 김선균, '원어민같은 영어실력' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=014&amp;aid=0004757933</link>
-            <guid>https://entertain.naver.com/now/read?oid=014&amp;aid=0004757933</guid>
-            <pubDate>Sat, 18 Dec 2021 13:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[[FN스타 이승훈 기자] 이원다이애그노믹스 유후사업팀 김선균 이사가 18일 오후 서울 강남구 SETEC 전시관에서 진행된 '유후와 함께하는 우즈넥스 2021 페이스오브아시아'에 참석해 대상을 시상하고 있다. ‘페이스]]></content:encoded>
+            <title><![CDATA[[포토]구척장신이 펼치는 헤이마마 퍼포먼스 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004895723</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004895723</guid>
+            <pubDate>Sat, 18 Dec 2021 14:19:19 GMT</pubDate>
+            <content:encoded><![CDATA['골때리는 그녀들' 구척장신팀이 18일 오후 서울 상암동 SBS프리즘타워에서 진행된 2021 SBS 연예대상에서 올해의 예능인상 수상 후 소감을 말하고 있다. [사진제공=SBS]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[TEN 포토] 사랑이 넘치는 '동상이몽2 - 너는 내 운명'팀 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518827</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518827</guid>
-            <pubDate>Sat, 18 Dec 2021 13:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=조준원 기자]'동상이몽2 - 너는 내 운명' 홍성기 이현이 부부, 이지훈 아야네 부부, 최우성 김윤지 부부가 18일 오후 서울 상암동 SBS프리즘타워에서 진행된 2021 SBS 연예대상에 참석해 포즈를 취]]></content:encoded>
+            <title><![CDATA[[TEN 포토] 차은우 '심쿵 하트 뿌려요' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518843</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518843</guid>
+            <pubDate>Sat, 18 Dec 2021 14:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=조준원 기자]그룹 아스트로 차은우가 18일 오후 서울 상암동 SBS프리즘타워에서 진행된 2021 SBS 연예대상에 참석해 포즈를 취하고 있다. [사진제공=SBS] 조준원 기자 wizard333@tenasi]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[SBS 연예대상] 집사부일체팀 '베스트 팀워크상' 수상 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000765905</link>
-            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000765905</guid>
-            <pubDate>Sat, 18 Dec 2021 13:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[집사부일체팀이 18일 오후 서울 마포구 상암동 SBS프리즘타워에서 열린 '2021 SBS 연예대상에서 베스트 팀워크상을 수상했다. 이승기는 2관왕을 차지했다. 유수빈은 "형들이 너무 잘 이끌어주고 도와주서서 팀워크가]]></content:encoded>
+            <title><![CDATA[[TEN 포토] 차은우 '왕자님의 손인사' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518842</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518842</guid>
+            <pubDate>Sat, 18 Dec 2021 14:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=조준원 기자]그룹 아스트로 차은우가 18일 오후 서울 상암동 SBS프리즘타워에서 진행된 2021 SBS 연예대상에 참석해 포즈를 취하고 있다. [사진제공=SBS] 조준원 기자 wizard333@tenasi]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 신상철, '남자 모델 1위 발표합니다' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=014&amp;aid=0004757932</link>
-            <guid>https://entertain.naver.com/now/read?oid=014&amp;aid=0004757932</guid>
-            <pubDate>Sat, 18 Dec 2021 13:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[[FN스타 이승훈 기자] 아시아모델페스티벌조직위원회 신상철 운영위원장이 18일 오후 서울 강남구 SETEC 전시관에서 진행된 '유후와 함께하는 우즈넥스 2021 페이스오브아시아'에 참석해 대상을 시상하고 있다. ‘페]]></content:encoded>
+            <title><![CDATA[[TEN 포토] 유수빈 '예능인으로 인사' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518841</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518841</guid>
+            <pubDate>Sat, 18 Dec 2021 14:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=조준원 기자]배우 유수빈이 18일 오후 서울 상암동 SBS프리즘타워에서 진행된 2021 SBS 연예대상에 참석해 포즈를 취하고 있다. [사진제공=SBS] 조준원 기자 wizard333@tenasia.co.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[TEN 포토] 홍성기-이현이 부부 '비주얼 커플은 우리' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518826</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518826</guid>
-            <pubDate>Sat, 18 Dec 2021 13:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=조준원 기자]홍성기, 이현이 부부가 18일 오후 서울 상암동 SBS프리즘타워에서 진행된 2021 SBS 연예대상에 참석해 포즈를 취하고 있다. [사진제공=SBS] 조준원 기자 wizard333@tenasi]]></content:encoded>
+            <title><![CDATA[[포토]이수근-배성재, 베스트 커플상 탔어요 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004895721</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004895721</guid>
+            <pubDate>Sat, 18 Dec 2021 14:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[방송인 이수근 배성재가 18일 오후 서울 상암동 SBS프리즘타워에서 진행된 2021 SBS 연예대상에서 베스트 커플상 수상 후 소감을 말하고 있다. [사진제공=SBS]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토]이승기, 올해의 예능인상 영광입니다 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004895713</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004895713</guid>
-            <pubDate>Sat, 18 Dec 2021 13:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[방송인 이경규 이승기 박선영이 18일 오후 서울 상암동 SBS프리즘타워에서 진행된 2021 SBS 연예대상에서 올해의 예능인상 수상 후 소감을 말하고 있다. [사진제공=SBS]]]></content:encoded>
+            <title><![CDATA[[포토]팀케미 완벽한 집사부일체 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004895720</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004895720</guid>
+            <pubDate>Sat, 18 Dec 2021 14:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[집사부일체 팀이 18일 오후 서울 상암동 SBS프리즘타워에서 진행된 2021 SBS 연예대상에서 팀 케미상 수상 후 소감을 말하고 있다. [사진제공=SBS]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토]이경규, 트로피 든 예능계 대부 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004895711</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004895711</guid>
-            <pubDate>Sat, 18 Dec 2021 13:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[방송인 이경규 이승기 박선영이 18일 오후 서울 상암동 SBS프리즘타워에서 진행된 2021 SBS 연예대상에서 올해의 예능인상 수상 후 소감을 말하고 있다. [사진제공=SBS]]]></content:encoded>
+            <title><![CDATA[[TEN 포토] 유수빈-양세형-김동현 '집사부일체가 왔어요' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518840</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518840</guid>
+            <pubDate>Sat, 18 Dec 2021 14:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=조준원 기자]집사부일체의 유수빈 ,양세형 ,김동현이 18일 오후 서울 상암동 SBS프리즘타워에서 진행된 2021 SBS 연예대상에 참석해 포즈를 취하고 있다. [사진제공=SBS] 조준원 기자 wizard3]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토]박선영, 올해의 예능인상 트로피 들고 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004895710</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004895710</guid>
-            <pubDate>Sat, 18 Dec 2021 13:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[방송인 이경규 이승기 박선영이 18일 오후 서울 상암동 SBS프리즘타워에서 진행된 2021 SBS 연예대상에서 올해의 예능인상 수상 후 소감을 말하고 있다. [사진제공=SBS]]]></content:encoded>
+            <title><![CDATA[[TEN 포토] 양세형 '해피바이러스 하트' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518839</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518839</guid>
+            <pubDate>Sat, 18 Dec 2021 14:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=조준원 기자]개그맨 양세형이 18일 오후 서울 상암동 SBS프리즘타워에서 진행된 2021 SBS 연예대상에 참석해 포즈를 취하고 있다. [사진제공=SBS] 조준원 기자 wizard333@tenasia.co]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[TEN 포토] 최우성-김윤지 부부 '수줍은 포토타임' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518825</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518825</guid>
-            <pubDate>Sat, 18 Dec 2021 13:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=조준원 기자]최우성, 김윤지 부부가 18일 오후 서울 상암동 SBS프리즘타워에서 진행된 2021 SBS 연예대상에 참석해 포즈를 취하고 있다. [사진제공=SBS] 조준원 기자 wizard333@tenasi]]></content:encoded>
+            <title><![CDATA[[TEN 포토] 김동현 '해맑은 미소' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518838</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518838</guid>
+            <pubDate>Sat, 18 Dec 2021 14:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=조준원 기자]격투기 선수 김동현이 18일 오후 서울 상암동 SBS프리즘타워에서 진행된 2021 SBS 연예대상에 참석해 포즈를 취하고 있다. [사진제공=SBS] 조준원 기자 wizard333@tenasia]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 이청용, '여자 모델 1위 시상자' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=014&amp;aid=0004757931</link>
-            <guid>https://entertain.naver.com/now/read?oid=014&amp;aid=0004757931</guid>
-            <pubDate>Sat, 18 Dec 2021 13:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[[FN스타 이승훈 기자] 코베아그룹 이창용 회장이 18일 오후 서울 강남구 SETEC 전시관에서 진행된 '유후와 함께하는 우즈넥스 2021 페이스오브아시아'에 참석해 대상을 시상하고 있다. ‘페이스오브아시아’는 아시]]></content:encoded>
+            <title><![CDATA[[TEN 포토] 이숙영 '금빛 드레스 자태' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518836</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518836</guid>
+            <pubDate>Sat, 18 Dec 2021 14:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=조준원 기자]방송인 이숙영이 18일 오후 서울 상암동 SBS프리즘타워에서 진행된 2021 SBS 연예대상에 참석해 포즈를 취하고 있다. [사진제공=SBS] 조준원 기자 wizard333@tenasia.co]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토]동상이몽2 너는내운명 '베스트 패밀리상' 수상 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004895708</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004895708</guid>
-            <pubDate>Sat, 18 Dec 2021 13:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[동상이몽2 너는 내운명 팀이 18일 오후 서울 상암동 SBS프리즘타워에서 진행된 2021 SBS 연예대상에서 베스트 패밀리상 수상 후 소감을 말하고 있다. [사진제공=SBS]]]></content:encoded>
+            <title><![CDATA[[포토] 양의식, '아시아모델페스티벌조직위원회 회장' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=014&amp;aid=0004757942</link>
+            <guid>https://entertain.naver.com/now/read?oid=014&amp;aid=0004757942</guid>
+            <pubDate>Sat, 18 Dec 2021 14:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[[FN스타 이승훈 기자] 아시아모델페스티벌조직위원회 양의식 회장이 18일 오후 서울 강남구 SETEC 전시관에서 진행된 '유후와 함께하는 우즈넥스 2021 페이스오브아시아'에 참석해 대상을 시상하고 있다. ‘페이스오]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[TEN 포토] 이지훈-아야네 부부 '다정하게 결혼반지 끼고' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518824</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518824</guid>
-            <pubDate>Sat, 18 Dec 2021 13:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=조준원 기자]이지훈, 아야네 부부가 18일 오후 서울 상암동 SBS프리즘타워에서 진행된 2021 SBS 연예대상에 참석해 포즈를 취하고 있다. [사진제공=SBS] 조준원 기자 wizard333@tenasi]]></content:encoded>
+            <title><![CDATA[[TEN 포토] 안산 '완벽한 수트핏' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518835</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518835</guid>
+            <pubDate>Sat, 18 Dec 2021 14:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=조준원 기자]양궁 국가대표 안산이 18일 오후 서울 상암동 SBS프리즘타워에서 진행된 2021 SBS 연예대상에 참석해 포즈를 취하고 있다. [사진제공=SBS] 조준원 기자 wizard333@tenasia]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토]장도연, 넥스트레벨상 해냈어 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004895707</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004895707</guid>
-            <pubDate>Sat, 18 Dec 2021 13:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[방송인 장동연이 18일 오후 서울 상암동 SBS프리즘타워에서 진행된 2021 SBS 연예대상에서 넥스트 레벨상 수상 후 소감을 말하고 있다. [사진제공=SBS]]]></content:encoded>
+            <title><![CDATA[[포토] 김일훈, '지베르니 상 수상자는 아이아나 아베데바' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=014&amp;aid=0004757941</link>
+            <guid>https://entertain.naver.com/now/read?oid=014&amp;aid=0004757941</guid>
+            <pubDate>Sat, 18 Dec 2021 14:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[[FN스타 이승훈 기자] BHN코스메틱스 김일훈 이사가 18일 오후 서울 강남구 SETEC 전시관에서 진행된 '유후와 함께하는 우즈넥스 2021 페이스오브아시아'에 참석해 대상을 시상하고 있다. ‘페이스오브아시아’는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[TEN 포토] 임원희-탁재훈-이상민 '돌싱포맨 파이팅!' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518822</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518822</guid>
-            <pubDate>Sat, 18 Dec 2021 13:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=조준원 기자]'돌싱포맨' 임원희, 탁재훈, 이상민이 18일 오후 서울 상암동 SBS프리즘타워에서 진행된 2021 SBS 연예대상에 참석해 포즈를 취하고 있다. [사진제공=SBS] 조준원 기자 wizard3]]></content:encoded>
+            <title><![CDATA[[포토] '밀크바오밥 상 시상하는 박창호' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=014&amp;aid=0004757940</link>
+            <guid>https://entertain.naver.com/now/read?oid=014&amp;aid=0004757940</guid>
+            <pubDate>Sat, 18 Dec 2021 14:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[[FN스타 이승훈 기자] 태남생활건강 연구소 박창호 연구소장이 18일 오후 서울 강남구 SETEC 전시관에서 진행된 '유후와 함께하는 우즈넥스 2021 페이스오브아시아'에 참석해 대상을 시상하고 있다. ‘페이스오브아]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토]올해의 예능인상 트로피 거머쥔 이상민 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004895706</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004895706</guid>
-            <pubDate>Sat, 18 Dec 2021 13:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[방송인 신동엽 탁재훈 이상민이 18일 오후 서울 상암동 SBS프리즘타워에서 진행된 2021 SBS 연예대상에서 올해의 예능인상 수상 후 소감을 말하고 있다. [사진제공=SBS]]]></content:encoded>
+            <title><![CDATA[[TEN 포토] 박하선 '11시 요정의 인사' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518834</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518834</guid>
+            <pubDate>Sat, 18 Dec 2021 14:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=조준원 기자]배우 박하선이 18일 오후 서울 상암동 SBS프리즘타워에서 진행된 2021 SBS 연예대상에 참석해 포즈를 취하고 있다. [사진제공=SBS] 조준원 기자 wizard333@tenasia.co.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토]신동엽, 올해의 예능인상 받았어요 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004895705</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004895705</guid>
-            <pubDate>Sat, 18 Dec 2021 13:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[방송인 신동엽 탁재훈 이상민이 18일 오후 서울 상암동 SBS프리즘타워에서 진행된 2021 SBS 연예대상에서 올해의 예능인상 수상 후 소감을 말하고 있다. [사진제공=SBS]]]></content:encoded>
+            <title><![CDATA[[TEN 포토] 박하선 '과감한 드레스 자태' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518833</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518833</guid>
+            <pubDate>Sat, 18 Dec 2021 14:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=조준원 기자]배우 박하선이 18일 오후 서울 상암동 SBS프리즘타워에서 진행된 2021 SBS 연예대상에 참석해 포즈를 취하고 있다. [사진제공=SBS] 조준원 기자 wizard333@tenasia.co.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[TEN 포토] 금새록 '화이트 천사' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518820</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518820</guid>
-            <pubDate>Sat, 18 Dec 2021 13:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=조준원 기자]배우 금새록이 18일 오후 서울 상암동 SBS프리즘타워에서 진행된 2021 SBS 연예대상에 참석해 포즈를 취하고 있다. [사진제공=SBS] 조준원 기자 wizard333@tenasia.co.]]></content:encoded>
+            <title><![CDATA[[포토] '디떼뷰 상 시상하는 유병성' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=014&amp;aid=0004757939</link>
+            <guid>https://entertain.naver.com/now/read?oid=014&amp;aid=0004757939</guid>
+            <pubDate>Sat, 18 Dec 2021 14:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[[FN스타 이승훈 기자] 한성이비지니스 유병성 대표가 18일 오후 서울 강남구 SETEC 전시관에서 진행된 '유후와 함께하는 우즈넥스 2021 페이스오브아시아'에 참석해 대상을 시상하고 있다. ‘페이스오브아시아’는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토]탁재훈, 올해의 예능인상 감사해요 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004895704</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004895704</guid>
-            <pubDate>Sat, 18 Dec 2021 13:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[방송인 신동엽 탁재훈 이상민이 18일 오후 서울 상암동 SBS프리즘타워에서 진행된 2021 SBS 연예대상에서 올해의 예능인상 수상 후 소감을 말하고 있다. [사진제공=SBS]]]></content:encoded>
+            <title><![CDATA[[TEN 포토] 박소현 '20대는 못따라할 독보적 우아함' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518832</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518832</guid>
+            <pubDate>Sat, 18 Dec 2021 14:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=조준원 기자]배우 박소현이 18일 오후 서울 상암동 SBS프리즘타워에서 진행된 2021 SBS 연예대상에 참석해 포즈를 취하고 있다. [사진제공=SBS] 조준원 기자 wizard333@tenasia.co.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 양의식-김동수, '대상 시상자는~' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=014&amp;aid=0004757930</link>
-            <guid>https://entertain.naver.com/now/read?oid=014&amp;aid=0004757930</guid>
-            <pubDate>Sat, 18 Dec 2021 13:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[[FN스타 이승훈 기자] 아시아모델페스티벌조직위원회 양의식 회장과 한국 모델 콘텐츠 학회 김동수 회장이 18일 오후 서울 강남구 SETEC 전시관에서 진행된 '유후와 함께하는 우즈넥스 2021 페이스오브아시아'에 참]]></content:encoded>
+            <title><![CDATA[[SBS 연예대상] 이수근·배성재 '베스트 팀워크상' 수상 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000765906</link>
+            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000765906</guid>
+            <pubDate>Sat, 18 Dec 2021 14:19:19 GMT</pubDate>
+            <content:encoded><![CDATA['골때리는 그녀들'의 개그맨 이수근과 배성재 전 아나운서가 18일 오후 서울 마포구 상암동 SBS프리즘타워에서 열린 '2021 SBS 연예대상'에서 베스트 팀워크상을 수상했다. 배성재는 "제일 잘하는 축구 중계를 프]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[TEN 포토] '골때녀' 차서린 '시선 사로잡는 드레스' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518818</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518818</guid>
-            <pubDate>Sat, 18 Dec 2021 13:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=조준원 기자]'골때리는 그녀들' 차서린이 18일 오후 서울 상암동 SBS프리즘타워에서 진행된 2021 SBS 연예대상에 참석해 포즈를 취하고 있다. [사진제공=SBS] 조준원 기자 wizard333@ten]]></content:encoded>
+            <title><![CDATA[[TEN 포토] 박군 '연예대상 신인상 수상' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518830</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518830</guid>
+            <pubDate>Sat, 18 Dec 2021 14:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=조준원 기자]가수 박군이 18일 오후 서울 상암동 SBS프리즘타워에서 진행된 2021 SBS 연예대상에 참석해 포즈를 취하고 있다. [사진제공=SBS] 조준원 기자 wizard333@tenasia.co.k]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[TEN 포토] '골때녀' 차수민 '뻥 뚫린 뒤태' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518817</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518817</guid>
-            <pubDate>Sat, 18 Dec 2021 13:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=조준원 기자]'골때리는 그녀들' 차수민이 18일 오후 서울 상암동 SBS프리즘타워에서 진행된 2021 SBS 연예대상에 참석해 포즈를 취하고 있다. [사진제공=SBS] 조준원 기자 wizard333@ten]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포토]신동엽-탁재훈-이상민, 올해의 예능인 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004895702</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004895702</guid>
-            <pubDate>Sat, 18 Dec 2021 13:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[방송인 신동엽 탁재훈 이상민이 18일 오후 서울 상암동 SBS프리즘타워에서 진행된 2021 SBS 연예대상에서 올해의 예능인상 수상 후 소감을 말하고 있다. [사진제공=SBS]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[TEN 포토] '골때녀' 에바-최진철-채리나 '화려한 FC 탑걸' (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518816</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000518816</guid>
-            <pubDate>Sat, 18 Dec 2021 13:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=조준원 기자]'골때리는 그녀들' 에바, 최진철, 채리나가 18일 오후 서울 상암동 SBS프리즘타워에서 진행된 2021 SBS 연예대상에 참석해 포즈를 취하고 있다. [사진제공=SBS] 조준원 기자 wiza]]></content:encoded>
+            <title><![CDATA[제작진 '연애 금지' 당부에도…촬영 중 눈 맞은 '스파이더맨' 커플 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=008&amp;aid=0004685234</link>
+            <guid>https://entertain.naver.com/now/read?oid=008&amp;aid=0004685234</guid>
+            <pubDate>Sat, 18 Dec 2021 14:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[영화 '스파이더맨: 노 웨이 홈'이 코로나19 상황에도 개봉 4일 만에 200만 관객을 돌파한 가운데, 영화 주연 배우 두 사람의 열애에 대한 흥미로운 이야기가 알려졌다. 영화 '스파이더맨' 시리즈의 공동 프로듀서]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[박군 '신인상 감사합니다' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
@@ -1564,13 +1568,6 @@
             <title><![CDATA[소리디딤 전해옥 '가야금병창' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
             <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838595</link>
             <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838595</guid>
-            <pubDate>Sat, 18 Dec 2021 10:23:48 GMT</pubDate>
-            <content:encoded><![CDATA['2021 소서노 여대왕 선발대회'가 18일 오후 서울 광진구 군자동 세종대학교 컨벤션센터에서 개최됐다. ‘2021 소서노 여대왕 선발대회’는 우리나라 최초이자 유일한 여성 건국자인 소서노 여대왕을 널리 알리고, 남]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[소리디딤 전해옥 '소서노 여대왕 선발대회 축하공연' [MK포토] (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838594</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838594</guid>
             <pubDate>Sat, 18 Dec 2021 10:23:48 GMT</pubDate>
             <content:encoded><![CDATA['2021 소서노 여대왕 선발대회'가 18일 오후 서울 광진구 군자동 세종대학교 컨벤션센터에서 개최됐다. ‘2021 소서노 여대왕 선발대회’는 우리나라 최초이자 유일한 여성 건국자인 소서노 여대왕을 널리 알리고, 남]]></content:encoded>
         </item>
