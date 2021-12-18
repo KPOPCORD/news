@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-18T02:42:26.130Z</updated>
+    <updated>2021-12-18T03:23:22.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[58세 생일 브래드 피트, 졸리와 이혼 후 어떻게 지내나 봤더니…[해외이슈]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003563328</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003563328"/>
+        <updated>2021-12-18T03:23:22.269Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 브래드 피트가 18일(현지시간) 58세 생일 맞은 가운데 그의 일상에 관심이 모아지고 있다. 연예매체 피플은 이날 소식통의 말을 인용해 “브래드 피트는 남들 눈에 띄지 않게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘팝스타’ 테일러 스위프트, 파티서 코로나19 100명 확진...스위프트는 참석 NO]]></title>
         <id>https://entertain.naver.com/now/read?oid=022&amp;aid=0003649038</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838394</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838394"/>
         <updated>2021-12-17T11:18:27.194Z</updated>
-        <content type="html"><![CDATA[브레이브걸스가 17일 오후 서울 영등포구 여의도 KBS에서 진행된 KBS 가요대축제에 참석하고 있다. 사진=KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브레이브걸스 'KBS 가요대축제 함께해요' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838392</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838392"/>
-        <updated>2021-12-17T11:18:27.198Z</updated>
         <content type="html"><![CDATA[브레이브걸스가 17일 오후 서울 영등포구 여의도 KBS에서 진행된 KBS 가요대축제에 참석하고 있다. 사진=KBS]]></content>
     </entry>
 </feed>
