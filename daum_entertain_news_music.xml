@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-18T11:20:49.410Z</updated>
+    <updated>2021-12-18T12:32:58.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[금새록→박군·이현이, 신인상 수상 "첫 축구 도전..치열하게 살았다"]]></title>
+        <id>https://entertain.v.daum.net/v/20211218212052205</id>
+        <link href="https://entertain.v.daum.net/v/20211218212052205"/>
+        <updated>2021-12-18T12:32:20.786Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 오윤주 기자] 이승엽, 금새록, 박군, 이현이, 박하선이 '2021 SBS 연예대상' 신인상을 수상했다. '2021 SBS 연예대상'이 18일 밤 이승기, 장도연, 한혜진의 사회로 진행됐다. 쇼·스포츠 부문 신인상은 '편먹고 공치리' 이승엽이 차지했다. 이승엽은 "신인상이라니 이게 무슨 일인지 모르겠다"라며 "은퇴하고 난 뒤에 무료하게 생]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["너만이 내 위시리스트" 퍼플키스의 귀여운 크리스마스 고백 'My My']]></title>
         <id>https://entertain.v.daum.net/v/20211218180003753</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211218144101622"/>
         <updated>2021-12-18T06:26:39.931Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김수진 기자] 그룹 오메가엑스(OMEGA X) 휘찬이 6일 오후 온라인 생중계로 진행된 첫 번째 싱글 'WHAT'S GOIN' ON' 발매 기념 미디어 쇼케이스에서 신곡을 선보이고 있다.  첫 번째 싱글 'WHAT'S GOIN' ON'은 글로벌 K팝 시장을 향한 오메가엑스의 야심찬 포부와 열정이 돋보이는 앨범이다. 'E 버전' 'F 버전' 'S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[故 종현, 오늘 4주기..민호→예리 추모물결]]></title>
-        <id>https://entertain.v.daum.net/v/20211218144013610</id>
-        <link href="https://entertain.v.daum.net/v/20211218144013610"/>
-        <updated>2021-12-18T06:26:39.931Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 정하은기자]샤이니 고(故) 종현(본명 김종현)이 우리 곁을 떠난지 어느덧 4년이 흘렀다. 종현은 2017년 12월 18일 앓고 있던 우울증으로 세상을 떠났다. 향년 27세. 갑작스러운 비보에 동료들과 전 세계 팬들은 큰 슬픔에 빠졌다. 종현은 지난 2017년 12월 18일 세상과 작별했다. 종현은 2008년 샤이니로 데]]></content>
     </entry>
 </feed>
