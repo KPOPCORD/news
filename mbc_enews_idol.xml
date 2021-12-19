@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 03:23:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 04:28:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[권은비, 첫 팬미팅 성료 "로비 덕분에 많은 힘 받아"]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333708</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333708</guid>
+            <pubDate>Sun, 19 Dec 2021 04:27:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333708">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/19/f1VNNXSbSVR3637755133854868119.JPG" alt="권은비, 첫 팬미팅 성료 " 로비="" 덕분에="" 많은="" 힘="" 받아""="">        <div class="text-box">            <p class="summary">권은비, 첫 팬미팅 성료 "로비 덕분에 많은 힘 받아"</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/19/f1VNNXSbSVR3637755133854868119.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA['아는 형님' 최예나, 제기차기로 '홈런'→이수근 "너만 방송 나올 거야?"]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/333704</link>
@@ -86,14 +94,6 @@
             <pubDate>Sat, 18 Dec 2021 09:20:37 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333655">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/18/f8W5Cj9AeCSj637754465324030016.jpg" alt="‘쇼! 음악중심’ 트라이비, 인간 비타민 변신… ‘바바송’ 무대 최초 공개">        <div class="text-box">            <p class="summary">‘쇼! 음악중심’ 트라이비, 인간 비타민 변신… ‘바바송’ 무대 최초 공개</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/18/f8W5Cj9AeCSj637754465324030016.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 뷔, 크리스마스트리 함께 꾸미고 싶은 아이돌 ‘1위’]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333651</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333651</guid>
-            <pubDate>Sat, 18 Dec 2021 07:20:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333651">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/18/oySPNQ17PHJ9637754390054209794.jpg" alt="방탄소년단 뷔, 크리스마스트리 함께 꾸미고 싶은 아이돌 ‘1위’">        <div class="text-box">            <p class="summary">방탄소년단 뷔, 크리스마스트리 함께 꾸미고 싶은 아이돌 ‘1위’</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/18/oySPNQ17PHJ9637754390054209794.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
