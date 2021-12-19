@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 01:14:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 02:42:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[투모로우바이투게더, 美 빌보드 ‘올해의 베스트 K-팝 노래’ 선정]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333700</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333700</guid>
+            <pubDate>Sun, 19 Dec 2021 02:41:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333700">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/19/U0oMjU9lnaw1637755094451523229.jpg" alt="투모로우바이투게더, 美 빌보드 ‘올해의 베스트 K-팝 노래’ 선정 ">        <div class="text-box">            <p class="summary">투모로우바이투게더, 美 빌보드 ‘올해의 베스트 K-팝 노래’ 선정 </p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/19/U0oMjU9lnaw1637755094451523229.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['음중' 라붐, ‘White Love(스키장에서)' 스페셜 무대...청순+러블리 다 잡았다]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/333694</link>
@@ -86,14 +94,6 @@
             <pubDate>Sat, 18 Dec 2021 07:20:50 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333648">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/18/ATxzehg5QSmS637754384794247773.jpg" alt="‘동반 입대’ 앞둔 온앤오프, '아이돌리그' 전격 출연! 서은광 “내 동생들”">        <div class="text-box">            <p class="summary">‘동반 입대’ 앞둔 온앤오프, '아이돌리그' 전격 출연! 서은광 “내 동생들”</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/18/ATxzehg5QSmS637754384794247773.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베리베리 용승, 코로나19 확진 “美 뉴욕 공연 등 취소” [공식]]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333645</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333645</guid>
-            <pubDate>Sat, 18 Dec 2021 07:20:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333645">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/18/gdbQ18JdaMkl637754378706081411.jpg" alt="베리베리 용승, 코로나19 확진 “美 뉴욕 공연 등 취소” [공식]">        <div class="text-box">            <p class="summary">베리베리 용승, 코로나19 확진 “美 뉴욕 공연 등 취소” [공식]</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/18/gdbQ18JdaMkl637754378706081411.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
