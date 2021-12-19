@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-12-19T16:32:48.133Z</updated>
+    <updated>2021-12-19T17:28:09.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한지은, ‘배드 앤 크레이지’ 포스터 촬영 비하인드]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000951892</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000951892"/>
+        <updated>2021-12-19T17:28:02.567Z</updated>
+        <content type="html"><![CDATA[배우 한지은의 tvN 금토드라마 '배드 앤 크레이지’ 포스터 촬영 현장 비하인드가 공개됐다. ‘배드 앤 크레이지’(연출 유선동, 극본 김새봄)는 유능하지만 ‘나쁜 놈’ 수열(이동욱 분)이 정의로운 ‘미친 놈’ K(위]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수현 “‘재미교포 사업가’ 남편, 소셜 스킬에 반해” (동상이몽2)]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000951891</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=014&amp;aid=0004758326</id>
         <link href="https://entertain.naver.com/now/read?oid=014&amp;aid=0004758326"/>
         <updated>2021-12-19T13:27:20.942Z</updated>
-        <content type="html"><![CDATA[[FN스타 이승훈 기자] 그룹 브레이브걸스가 19일 서울 강남구 세텍전시장에서 진행된 ‘제16회 우즈넥스와 함께 하는 코리아에이치투얼라이언스 아시아모델어워즈’ 시상식에 참석했다. totopurdy_star@fnnew]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 브레이브걸스 은지, '오프숄더로 시선흡수']]></title>
-        <id>https://entertain.naver.com/now/read?oid=014&amp;aid=0004758325</id>
-        <link href="https://entertain.naver.com/now/read?oid=014&amp;aid=0004758325"/>
-        <updated>2021-12-19T13:27:20.952Z</updated>
         <content type="html"><![CDATA[[FN스타 이승훈 기자] 그룹 브레이브걸스가 19일 서울 강남구 세텍전시장에서 진행된 ‘제16회 우즈넥스와 함께 하는 코리아에이치투얼라이언스 아시아모델어워즈’ 시상식에 참석했다. totopurdy_star@fnnew]]></content>
     </entry>
 </feed>
