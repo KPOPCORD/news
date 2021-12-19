@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-19T07:21:37.508Z</updated>
+    <updated>2021-12-19T08:26:37.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NCT 127, 無함성 이시국 콘서트에 “이제 박수소리로 알아”[Beyond LIVE]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000524130</id>
+        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000524130"/>
+        <updated>2021-12-19T08:26:24.045Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 두 번째 단독 콘서트를 개최했다. NCT 127은 12월 19일 오후 5시 서울 구로구 고척스카이돔에서 단독 콘서트 ‘NEO CI]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['인터파크 보이그룹' 트렌드지, 완전체 최초 공개]]></title>
+        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003563529</id>
+        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003563529"/>
+        <updated>2021-12-19T08:26:24.045Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 오윤주 기자] 신인 보이그룹 트렌드지(TRENDZ)의 완전체가 최초로 공개됐다. 19일 트렌드지 공식 SNS 채널에서는 7명의 첫 완전체를 엿볼 수 있는 단체 콘셉트 포토가 공개됐다. 공개된 콘셉트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최시원, 코로나19 완치 판정 "향후 활동 이어갈 것"[공식]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003013932</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003013932"/>
+        <updated>2021-12-19T08:26:24.048Z</updated>
+        <content type="html"><![CDATA[그룹 슈퍼주니어의 멤버이자 배우 최시원이 신종 코로나바이러스 감염증(코로나19) 완치 판정을 받았다. 소속사 SM엔터테인먼트 관계자는 19일 스타뉴스에 "최시원은 더 이상의 감염 전파 우려가 없다는 보건당국의 판단에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘AAA 4관왕’ 임영웅, 처음으로 덕질하게 만들어준 스타]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001387268</id>
@@ -158,26 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003013910"/>
         <updated>2021-12-19T04:28:08.355Z</updated>
         <content type="html"><![CDATA[그룹 방탄소년단(RM , 진, 슈가, 제이홉, 지민, 뷔, 정국)이 영국 최초 권위의 음악 시상식 '2022 브릿 어워드(2022 The BRIT Awards)' 후보에 올랐다. '브릿 어워드'는 18일(이하 현지시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단, 英최고 권위 ‘브릿 어워드’ 2년연속 노미네이트 ‘인터내셔널 그룹’]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000524110</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000524110"/>
-        <updated>2021-12-19T04:28:08.356Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 방탄소년단이 영국 최초 권위의 음악 시상식 '2022 브릿 어워드(2022 The BRIT Awards)' 수상 후보에 올랐다. '브릿 어워드'는 18일(이하 현지시간) 공식 홈페이지와]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘5관왕’ 아이브, MV 엑스트라 버전 공개]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000781908</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000781908"/>
-        <updated>2021-12-19T04:28:08.357Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 6인조 신예 아이브(IVE)가 글로벌 팬들의 마음을 다채롭게 물들이고 있다. 아이브(유진, 가을, 레이, 원영, 리즈, 이서)는 최근 공식 유튜브 채널을 통해 데뷔 타이틀 ‘ELEVEN(일레븐)’의 뮤]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단, 2년연속 英 ‘브릿 어워드’ 후보 [공식]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000781907</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000781907"/>
-        <updated>2021-12-19T04:28:08.358Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 그룹 방탄소년단이 영국 최고 권위의 음악 시상식 ‘2022 브릿 어워드(2022 The BRIT Awards)’ 수상 후보에 올랐다. ‘브릿 어워드’는 18일(이하 현지시간) 공식 홈페이지와 SNS 등]]></content>
     </entry>
 </feed>
