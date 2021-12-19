@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 02:42:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 03:23:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['아는 형님' 최예나, 제기차기로 '홈런'→이수근 "너만 방송 나올 거야?"]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333704</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333704</guid>
+            <pubDate>Sun, 19 Dec 2021 03:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333704">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/19/UrmO4q7zA5Pq637755114219812653.jpg" alt="'아는 형님' 최예나, 제기차기로 '홈런'→이수근 " 너만="" 방송="" 나올="" 거야?""="">        <div class="text-box">            <p class="summary">'아는 형님' 최예나, 제기차기로 '홈런'→이수근 "너만 방송 나올 거야?"</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/19/UrmO4q7zA5Pq637755114219812653.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[투모로우바이투게더, 美 빌보드 ‘올해의 베스트 K-팝 노래’ 선정]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/333700</link>
@@ -86,14 +94,6 @@
             <pubDate>Sat, 18 Dec 2021 07:20:50 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333651">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/18/oySPNQ17PHJ9637754390054209794.jpg" alt="방탄소년단 뷔, 크리스마스트리 함께 꾸미고 싶은 아이돌 ‘1위’">        <div class="text-box">            <p class="summary">방탄소년단 뷔, 크리스마스트리 함께 꾸미고 싶은 아이돌 ‘1위’</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/18/oySPNQ17PHJ9637754390054209794.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘동반 입대’ 앞둔 온앤오프, '아이돌리그' 전격 출연! 서은광 “내 동생들”]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333648</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333648</guid>
-            <pubDate>Sat, 18 Dec 2021 07:20:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333648">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/18/ATxzehg5QSmS637754384794247773.jpg" alt="‘동반 입대’ 앞둔 온앤오프, '아이돌리그' 전격 출연! 서은광 “내 동생들”">        <div class="text-box">            <p class="summary">‘동반 입대’ 앞둔 온앤오프, '아이돌리그' 전격 출연! 서은광 “내 동생들”</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/18/ATxzehg5QSmS637754384794247773.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
