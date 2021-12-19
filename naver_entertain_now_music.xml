@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-19T14:19:51.685Z</updated>
+    <updated>2021-12-19T15:24:07.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빅스 레오, “지난 10년 동안 변하지 않은 것은 나의 열정” (롤링스톤 코리아)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001387367</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001387367"/>
+        <updated>2021-12-19T15:23:52.527Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 지난 6일 오후 1시 롤링스톤 코리아는 공식 홈페이지를 통해 빅스 레오와의 인터뷰와 화보 사진을 공개했다. 가수와 뮤지컬 배우로 활발히 활동 중인 레오. 그는 지난 11월 뮤지컬 ‘프랑켄]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트로트 가수 이지요, 아시아 리더 대상…최우수 가수 수상]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000781962</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001387268"/>
         <updated>2021-12-19T07:21:23.609Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 임영웅이 “이건 운명? 내가 처음으로 덕질한 스타는?” 투표 1위에 올랐다. 최근 커뮤니티 포털사이트 디시인사이드와 취향 검색 기업 마이셀럽스가 운영 중인 익사이팅디시에서는 “이건 운명?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단, 브릿어워즈 2년 연속 후보…아바와 트로피 경쟁]]></title>
-        <id>https://entertain.naver.com/now/read?oid=021&amp;aid=0002496657</id>
-        <link href="https://entertain.naver.com/now/read?oid=021&amp;aid=0002496657"/>
-        <updated>2021-12-19T07:21:23.609Z</updated>
-        <content type="html"><![CDATA[그룹 방탄소년단(BTS)이 영국 최고 권위의 음악 시상식인 브릿어워즈(BRIT Awards)에서 2년 연속 후보에 올랐다. 19일(현지시간) 영국 가디언 등 외신에 따르면 방탄소년단은 ‘브릿어워즈 2022’에서 인터]]></content>
     </entry>
 </feed>
