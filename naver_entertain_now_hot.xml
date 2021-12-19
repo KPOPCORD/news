@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-12-19T18:25:08.534Z</updated>
+    <updated>2021-12-19T19:18:57.894Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[백종원 추천 크리스마스 요리는? (‘백종원 클라쓰’)]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000951894</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000951894"/>
+        <updated>2021-12-19T19:18:46.483Z</updated>
+        <content type="html"><![CDATA[KBS2 '백종원 클라쓰'가 신비롭고 맛있는 숯불 연기에 휩싸였다. 20일 ‘백종원 클라쓰’에서는 백종원표 숯불 언양불고기 레시피와 가래떡 구이를 더욱 맛있게 먹을 수 있는 특별한 소스 조합이 공개된다. 이날 백종원]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이브, ‘일레븐’ MV 엑스트라 버전 공개]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000951893</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=014&amp;aid=0004758328"/>
         <updated>2021-12-19T14:19:43.374Z</updated>
         <content type="html"><![CDATA[[FN스타 이승훈 기자] 배우 김혜준이 19일 서울 강남구 세텍전시장에서 진행된 ‘제16회 우즈넥스와 함께 하는 코리아에이치투얼라이언스 아시아모델어워즈’ 시상식에 참석했다. totopurdy_star@fnnews.c]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 브레이브걸스 유나, '생머리 찰랑']]></title>
-        <id>https://entertain.naver.com/now/read?oid=014&amp;aid=0004758327</id>
-        <link href="https://entertain.naver.com/now/read?oid=014&amp;aid=0004758327"/>
-        <updated>2021-12-19T14:19:43.375Z</updated>
-        <content type="html"><![CDATA[[FN스타 이승훈 기자] 그룹 브레이브걸스가 19일 서울 강남구 세텍전시장에서 진행된 ‘제16회 우즈넥스와 함께 하는 코리아에이치투얼라이언스 아시아모델어워즈’ 시상식에 참석했다. totopurdy_star@fnnew]]></content>
     </entry>
 </feed>
