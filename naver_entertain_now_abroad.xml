@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-19T06:25:40.129Z</updated>
+    <updated>2021-12-19T07:21:37.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘겨울왕국’ 안나 日 성우, 호텔서 숨진 채 발견..극단적 선택 추정]]></title>
+        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003813906</id>
+        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003813906"/>
+        <updated>2021-12-19T07:21:36.809Z</updated>
+        <content type="html"><![CDATA[[스포츠조선닷컴 박아람 기자] 일본 가수 겸 성우 칸다 사야카(35)가 사망했다. 19일(현지시간) NHK, 요미우리 신문 등에 따르면 지난 18일 오후 1시경 칸다 사야카가 홋카이도 삿포로에 있는 22층 건물의 1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[테일러 스위프트 앨범 파티서 100명 확진…호주 초비상 [주말POP콘]]]></title>
         <id>https://entertain.naver.com/now/read?oid=018&amp;aid=0005109358</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838604"/>
         <updated>2021-12-18T12:32:57.456Z</updated>
         <content type="html"><![CDATA[야구 해설 이승엽, 골퍼 유현주가 18일 오후 서울 상암동 SBS프리즘타워에서 열린 '2021 SBS 연예대상' 레드카펫 행사에 참석하고 있다. 사진=SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[골프여신 유현주 '각선미 자랑하는 드레스' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838603</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838603"/>
-        <updated>2021-12-18T12:32:57.457Z</updated>
-        <content type="html"><![CDATA[골퍼 유현주가 18일 오후 서울 상암동 SBS프리즘타워에서 열린 '2021 SBS 연예대상' 레드카펫 행사에 참석하고 있다. 사진=SBS]]></content>
     </entry>
 </feed>
