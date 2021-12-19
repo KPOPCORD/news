@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-19T19:18:57.896Z</updated>
+    <updated>2021-12-19T20:24:42.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["성덕모찌♥" 방탄소년단 지민 크로스워크 콘서트 중 제임스 코든 '들튀'..역시 짐메리카 '美친 인기']]></title>
+        <id>https://entertain.v.daum.net/v/20211220052143652</id>
+        <link href="https://entertain.v.daum.net/v/20211220052143652"/>
+        <updated>2021-12-19T20:24:06.984Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 문완식 기자] 방탄소년단 지민(BTS JIMIN)'베이비모찌' 방탄소년단(BTS) 지민을 향한 '파파모찌' 제임스 코든의 뜨거운 '부성애'가 눈길을 모은다. 방탄소년단은 지난 17일 '제임스 코든쇼'의 코너 'BTS PERFORMS A CONCERT IN THE CROSSWALK'(이하 크로스워크 콘서트)에서 깜짝 콘서트를 펼쳤다. '크로스워크]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이브, '일레븐' MV 엑스트라 버전 공개]]></title>
         <id>https://entertain.v.daum.net/v/20211220030009741</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211219150006317"/>
         <updated>2021-12-19T06:25:08.428Z</updated>
         <content type="html"><![CDATA[[스타뉴스 윤상근 기자] /사진제공=에이티원엔터테인먼트 "높은 곳에서 출발해보자. 음악적으로도 고품격이 돼보자. 격이 있는 것을 지향하는 그룹이라는 의미를 담았습니다." 밴드 하이브로(HIGHBRO,윤장현 배상재 김호용 태근)는 2019년 장미여관 멤버로 활동했던 배상재와 윤장현의 의기투합과 함께 결성된 팀이었다. 결성 이후 약간의 우여곡절(?)도 없진 않]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱어송라이터 오넷, "크러쉬-페노메코와 꼭 작업하고파"]]></title>
-        <id>https://entertain.v.daum.net/v/20211219142626778</id>
-        <link href="https://entertain.v.daum.net/v/20211219142626778"/>
-        <updated>2021-12-19T06:25:08.428Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 싱어송라이터 OoOo(오넷)은 지난 1일 오후 6시, 싱글 앨범 ‘with you’를 발매했다. 오넷은 지난해 7월 첫 싱글 ‘OCEAN’으로 데뷔한 싱어송라이터로, 신예 아티스트임에도 깊은 감성과 감각적인 보컬을 통해 탄탄한 마니아층을 보유한 실력파 아티스트이다. 매번 다양한 장르의 음악적 행보를 보여주던 오넷은 겨울 시즌에]]></content>
     </entry>
 </feed>
