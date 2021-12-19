@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-19T21:19:22.048Z</updated>
+    <updated>2021-12-19T22:22:06.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[손나은 '감탄 나오는 치명적 미모' [MK화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838818</id>
+        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838818"/>
+        <updated>2021-12-19T22:22:05.478Z</updated>
+        <content type="html"><![CDATA[가수 손나은이 19일 오후 서울 강남구 대치동 세텍에서 열린 '제16회 아시아모델어워즈' 레드카펫 행사에 참석하고 있다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김우석 '멋진 하트' [MK포토]]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838799</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838767</id>
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838767"/>
         <updated>2021-12-19T10:24:20.814Z</updated>
-        <content type="html"><![CDATA[가수 손나은이 19일 오후 서울 강남구 대치동 세텍에서 열린 '제16회 아시아모델어워즈' 레드카펫 행사에 참석하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손나은 '쇄골 미녀' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838766</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838766"/>
-        <updated>2021-12-19T10:24:20.817Z</updated>
         <content type="html"><![CDATA[가수 손나은이 19일 오후 서울 강남구 대치동 세텍에서 열린 '제16회 아시아모델어워즈' 레드카펫 행사에 참석하고 있다.]]></content>
     </entry>
 </feed>
