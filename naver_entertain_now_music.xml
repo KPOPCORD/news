@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-19T09:22:37.396Z</updated>
+    <updated>2021-12-19T10:24:21.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NCT 127 "개인 무대, 핫한 신인이 데뷔한 느낌…우리칠 덕분에 준비"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000334105</id>
+        <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000334105"/>
+        <updated>2021-12-19T10:24:06.332Z</updated>
+        <content type="html"><![CDATA[[스포티비뉴스=정유진 기자] NCT 127이 역대급 스케일의 개인 무대를 꾸몄다. NCT 127은 19일 서울 구로 고척스카이돔과 네이버 브이라이브 비욘드라이브 채널을 통해 개최한 두 번째 온·오프라인 단독 콘서트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NCT 127 도영 "태용 솔로 무대, 좋은 회사서 밀어주는 신인 데뷔하는 줄"('THE LINK')]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004528786</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004528786"/>
+        <updated>2021-12-19T10:24:06.333Z</updated>
+        <content type="html"><![CDATA[[OSEN=이승훈 기자] 그룹 NCT 127(태일, 쟈니, 태용, 유타, 도영, 재현, 윈윈, 마크, 해찬, 정우) 멤버 도영이 태용의 솔로 무대를 극찬했다. 다른 팬사랑을 자랑했다. NCT 127은 오늘(19일)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["발망치+음악 소음"...'측간소음 논란' 성시경, 이웃에 사과]]></title>
         <id>https://entertain.naver.com/now/read?oid=416&amp;aid=0000278200</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003563502"/>
         <updated>2021-12-19T06:25:26.065Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 오윤주 기자] 4인조 신인 걸그룹 록킹돌이 가요계에 출격한다. 록킹돌은 19일 첫 번째 싱글 앨범 '록킹돌(Rocking Doll)'을 발매한다. 데뷔 타이틀곡 '록킹돌'은 일렉트로닉 테크노 장르로,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱어송라이터 오넷, “크러쉬-페노메코와 꼭 작업하고파” [엑's 인터뷰]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001387238</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001387238"/>
-        <updated>2021-12-19T06:25:26.066Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 싱어송라이터 OoOo(오넷)은 지난 1일 오후 6시, 싱글 앨범 ‘with you’를 발매했다. 오넷은 지난해 7월 첫 싱글 ‘OCEAN’으로 데뷔한 싱어송라이터로, 신예 아티스트임에도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['불후의 명곡' 에일리, 2021 왕중왕전 1부 최종 우승 "감사"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003013915</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003013915"/>
-        <updated>2021-12-19T05:20:48.577Z</updated>
-        <content type="html"><![CDATA[가수 에일리(Ailee)가 '불후의 명곡' 2021 왕중왕전 편에서 1부 최종 우승을 거머쥐었다. 에일리는 지난 18일 KBS 2TV '불후의 명곡' 2021 왕중왕전 1부에 출연해 우승을 거머쥐며 가요계 대표 디바]]></content>
     </entry>
 </feed>

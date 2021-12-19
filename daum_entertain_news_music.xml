@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-19T09:22:37.395Z</updated>
+    <updated>2021-12-19T10:24:21.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NCT 127 도영 "태용 솔로 무대, 좋은 회사서 밀어주는 신인 데뷔하는 줄"]]></title>
+        <id>https://entertain.v.daum.net/v/20211219185309982</id>
+        <link href="https://entertain.v.daum.net/v/20211219185309982"/>
+        <updated>2021-12-19T10:23:46.704Z</updated>
+        <content type="html"><![CDATA[[OSEN=이승훈 기자] 그룹 NCT 127(태일, 쟈니, 태용, 유타, 도영, 재현, 윈윈, 마크, 해찬, 정우) 멤버 도영이 태용의 솔로 무대를 극찬했다. 다른 팬사랑을 자랑했다.&nbsp; NCT 127은 오늘(19일) 오후 Beyond LIVE(비욘드 라이브)를 통해 서울 고척 스카이돔에서 개최된 'NEO CITY : SEOUL – THE LINK'(네오 시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NCT 127 태용 "시즈니와 연말 보낼 수 있음에 감사"]]></title>
         <id>https://entertain.v.daum.net/v/20211219181004439</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211219131805915"/>
         <updated>2021-12-19T04:27:49.366Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 가수 권은비가 첫 온라인 팬미팅을 성공적으로 마무리했다. 권은비는 12월 18일 오후 7시 첫 글로벌 온라인 팬미팅 '웰컴 투 은비 랜드 : 오픈 더 도어(WELCOME TO EUNBI LAND : OPEN THE DOOR)'를 열고 전 세계 팬들과 만났다. 권은비와 팬들이 미리 즐기는 크리스마스 파티로 꾸며진 '웰컴 투 은비 랜드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단, 2년연속 英 '브릿 어워드' 후보]]></title>
-        <id>https://entertain.v.daum.net/v/20211219131008794</id>
-        <link href="https://entertain.v.daum.net/v/20211219131008794"/>
-        <updated>2021-12-19T04:27:49.367Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 그룹 방탄소년단이 영국 최고 권위의 음악 시상식 ‘2022 브릿 어워드(2022 The BRIT Awards)’ 수상 후보에 올랐다. ‘브릿 어워드’는 18일(이하 현지시간) 공식 홈페이지와 SNS 등을 통해 방탄소년단이 ‘올해의 인터내셔널 그룹(International Group of the Year)’ 부문 수상 후보에 올랐다는 소식을]]></content>
     </entry>
 </feed>
