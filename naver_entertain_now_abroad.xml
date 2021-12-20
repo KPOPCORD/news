@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-20T21:19:59.903Z</updated>
+    <updated>2021-12-20T22:22:51.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노라 존스 "코로나19 팬데믹 속 캐럴 만들어…위로되길" [N인터뷰]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005795801</id>
+        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005795801"/>
+        <updated>2021-12-20T22:22:50.792Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 김민지 기자 = 세계적인 재즈 및 팝 보컬리스트이자 싱어송라이터 노라 존스가 첫 번째 크리스마스 앨범을 공개한다. 노라 존스는 22일 크리스마스 앨범 '아이 드림 오브 크리스마스'(I Dream of]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['색, 계'서 탕웨이 대학 선배…"도시마다 잠자리女" 전 부인 폭로]]></title>
+        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004685931</id>
+        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004685931"/>
+        <updated>2021-12-20T22:22:50.792Z</updated>
+        <content type="html"><![CDATA[영화 '색,계'에서 여주인공 역을 맡았던 탕웨이의 대학 선배로 출연했던 중화권 가수 겸 배우 왕리훙(王力宏·45)이 결혼 생활 중 외도와 성매매를 했다는 전 부인의 폭로로 결국 연예계 활동 중단을 선언했다. 지난 2]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20대 유명 래퍼, 콘서트서 흉기에 찔려 사망 “충격”[해외이슈]]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003563826</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838821"/>
         <updated>2021-12-19T23:21:23.641Z</updated>
         <content type="html"><![CDATA[머슬퀸들이 19일 오후 서울 강남구 대치동 세텍에서 열린 '제16회 아시아모델어워즈' 레드카펫 행사에 참석하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손나은 '감탄 나오는 치명적 미모' [MK화보]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838818</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838818"/>
-        <updated>2021-12-19T22:22:05.478Z</updated>
-        <content type="html"><![CDATA[가수 손나은이 19일 오후 서울 강남구 대치동 세텍에서 열린 '제16회 아시아모델어워즈' 레드카펫 행사에 참석하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김우석 '멋진 하트' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838799</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838799"/>
-        <updated>2021-12-19T11:17:53.074Z</updated>
-        <content type="html"><![CDATA[가수 김우석이 19일 오후 서울 강남구 대치동 세텍에서 열린 '제16회 아시아모델어워즈' 레드카펫 행사에 참석하고 있다.]]></content>
     </entry>
 </feed>

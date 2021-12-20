@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 21:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 22:22:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조유리, 꽃보다 싱그러운 명품 비주얼 [인스타]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333830</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333830</guid>
+            <pubDate>Mon, 20 Dec 2021 22:22:11 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333830">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/20/BklUsXvdNxcq637756383101759930.jpg" alt="조유리, 꽃보다 싱그러운 명품 비주얼 [인스타] ">        <div class="text-box">            <p class="summary">조유리, 꽃보다 싱그러운 명품 비주얼 [인스타] </p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/20/BklUsXvdNxcq637756383101759930.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비투비 민혁, 코로나 확진 탓 백신 미접종→"새 감염원 발행 가능有" [전문]]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/333819</link>
@@ -86,14 +94,6 @@
             <pubDate>Sun, 19 Dec 2021 04:27:43 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333708">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/19/f1VNNXSbSVR3637755133854868119.JPG" alt="권은비, 첫 팬미팅 성료 " 루비="" 덕분에="" 많은="" 힘="" 받아""="">        <div class="text-box">            <p class="summary">권은비, 첫 팬미팅 성료 "루비 덕분에 많은 힘 받아"</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/19/f1VNNXSbSVR3637755133854868119.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA['아는 형님' 최예나, 제기차기로 '홈런'→이수근 "너만 방송 나올 거야?"]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333704</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333704</guid>
-            <pubDate>Sun, 19 Dec 2021 03:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333704">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/19/UrmO4q7zA5Pq637755114219812653.jpg" alt="'아는 형님' 최예나, 제기차기로 '홈런'→이수근 " 너만="" 방송="" 나올="" 거야?""="">        <div class="text-box">            <p class="summary">'아는 형님' 최예나, 제기차기로 '홈런'→이수근 "너만 방송 나올 거야?"</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/19/UrmO4q7zA5Pq637755114219812653.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
