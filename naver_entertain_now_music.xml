@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-20T19:19:02.973Z</updated>
+    <updated>2021-12-20T20:23:06.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다정다감 히어로♡ 임영웅 '같이 놀이동산 놀러가고 싶은 스타']]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003014262</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003014262"/>
+        <updated>2021-12-20T20:22:50.731Z</updated>
+        <content type="html"><![CDATA[가수 임영웅이 '같이 놀이동산에 놀러가고 싶은 스타' 1위에 올랐다. 임영웅은 팬앤스타 테마 월드컵 '같이 놀이동산에 놀러가고 싶은 스타' 투표에서 3022표를 받아 1위를 차지했다. 임영웅은 앞서 지난 4월 공개된]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅 팬클럽, 대규모 지하철 광고로 KBS 단독쇼 ‘We're HERO’ 응원]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001387736</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003511816"/>
         <updated>2021-12-20T09:23:44.623Z</updated>
         <content type="html"><![CDATA[[헤럴드POP=김나율기자]그룹 에스파가 S.E.S 명곡을 재해석했다. 20일 오후 6시 에스파의 'Dreams Come True'(드림스 컴 트루) 음원과 뮤직비디오가 공개됐다. 에스파는 소속사 SM과 유튜브가 진행]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가수 로시, 네이버웹툰 ‘아는 여자애’ OST 발매…귀여운 집착송 ‘미리 좀 말해주지 그랬어 (ENFP)’]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000782121</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000782121"/>
-        <updated>2021-12-20T09:23:44.624Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 가수 로시, 네이버웹툰 ‘아는 여자애’ OST 발매…귀여운 집착송 ‘미리 좀 말해주지 그랬어 (ENFP)’ 가수 로시가 네이버웹툰 ‘아는 여자애’ OST로 특별한 러브송을 선보인다. 20일 오후 6시]]></content>
     </entry>
 </feed>
