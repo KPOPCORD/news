@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-20T11:19:18.770Z</updated>
+    <updated>2021-12-20T12:35:39.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임영웅 팬클럽 '웅바라기스쿨' 사랑의 달팽이에 608만원 기부·버스 광고 "KBS 단독쇼 축하합니다"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003014234</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003014234"/>
+        <updated>2021-12-20T12:35:24.842Z</updated>
+        <content type="html"><![CDATA[가수 임영웅의 팬들이 KBS 단독쇼를 축하하며 청각장애인들을 위한 기부로 의미를 더했다. 임영웅 팬클럽 영웅시대 '웅바라기스쿨'은 12월 17일 임영웅의 KBS 단독쇼 방송을 축하하며 청각장애인을 지원하는 사단법인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘해리 포터 시리즈 영화음악 크리스마스 에디션’(Christmas At Hogwarts) 4컬러 4LP 박스세트 발매]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000782151</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000782151"/>
+        <updated>2021-12-20T12:35:24.843Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 조앤 롤링 판타지 소설을 영화로 만들어 전세계 관객을 사로 잡았던 ‘해리 포터 시리즈’ 8부작의 음악을 모두 감상할 수 있는 ‘해리 포터 크리스마스 에디션 박스세트 4LP가 발매됐다고 굿인터내셔널 레이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하이브, ‘2022 위버스 콘’에서 서태지 헌정 무대]]></title>
         <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0001927026</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010899516"/>
         <updated>2021-12-20T08:29:01.395Z</updated>
         <content type="html"><![CDATA[기사내용 요약 보아 프로듀싱 [서울=뉴시스]이재훈 기자 = 대세 걸그룹 '에스파(aespa)'가 리메이크곡 '드림스 컴 트루(Dreams Come True)'를 20일 오후 6시 공개한다. SM엔터테인먼트와 유튜브가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자메즈, 여친이 데이트 폭력+마약 폭로?…소속사 "확인 중"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001387659</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001387659"/>
-        <updated>2021-12-20T08:29:01.396Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 래퍼 자메즈가 데이트 폭력, 마약 의혹에 휩싸였다 자메즈의 데이트 폭력 및 마약 폭로 글이 등장한 것과 관련해, 소속사 GRDL 측 관계자는 20일 엑스포츠뉴스에 "사실 확인 중"이라고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에스파부터 임영웅까지...MBC, '가요대제전' 라인업 발표 [공식]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004529145</id>
-        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004529145"/>
-        <updated>2021-12-20T08:29:01.398Z</updated>
-        <content type="html"><![CDATA[[OSEN=연휘선 기자] ‘2021 MBC 가요대제전: TOGETHER’이 라인업을 공개했다. ‘2021 MBC 가요대제전: TOGETHER(이하 가요대제전)’ 측은 20일 무대 라인업들을 발표했다. 올해 '가요대제]]></content>
     </entry>
 </feed>
