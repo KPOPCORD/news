@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 07:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 08:29:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[송가인·임영웅→MC 이준호 '2021 MBC 가요대제전' 라인업 공개]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333812</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333812</guid>
+            <pubDate>Mon, 20 Dec 2021 08:28:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333812">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/20/28ce6ddf-6787-43fe-b4f1-59ed0ec51924.jpg" alt="송가인·임영웅→MC 이준호 '2021 MBC 가요대제전' 라인업 공개">        <div class="text-box">            <p class="summary">송가인·임영웅→MC 이준호 '2021 MBC 가요대제전' 라인업 공개</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/20/28ce6ddf-6787-43fe-b4f1-59ed0ec51924.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김재중, 착한 얼굴에 그렇지 못한 근육 [인스타]]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/333811</link>
@@ -86,14 +94,6 @@
             <pubDate>Sun, 19 Dec 2021 01:13:43 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333694">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/19/e3xxXqXBK6cx637755028615621939.jpg" alt="'음중' 라붐, ‘White Love(스키장에서)' 스페셜 무대...청순+러블리 다 잡았다">        <div class="text-box">            <p class="summary">'음중' 라붐, ‘White Love(스키장에서)' 스페셜 무대...청순+러블리 다 잡았다</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/19/e3xxXqXBK6cx637755028615621939.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이브, '쇼! 음악중심'서 첫 1위→음악방송 5관왕 '쾌거']]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333691</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333691</guid>
-            <pubDate>Sun, 19 Dec 2021 01:13:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333691">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/19/jiagDgfJhaqN637755020597051226.jpg" alt="아이브, '쇼! 음악중심'서 첫 1위→음악방송 5관왕 '쾌거'">        <div class="text-box">            <p class="summary">아이브, '쇼! 음악중심'서 첫 1위→음악방송 5관왕 '쾌거'</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/19/jiagDgfJhaqN637755020597051226.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
