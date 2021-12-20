@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 09:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 10:24:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,40 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211210153651_9b8228fdcc636df165247a1868491cd2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[화보] 임윤아, 매거진 '얼루어' 커버 (KBS연예 ─ 연예)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=181220</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=181220</guid>
+            <pubDate>Mon, 20 Dec 2021 10:23:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=181220">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211220165148_29c608aeb1dfab2cce63846af6411919.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=181220">[화보] 임윤아, 매거진 '얼루어' 커버 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211220165148_29c608aeb1dfab2cce63846af6411919.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["빅토리아 시대 책 읽는 여자" 레드북, 한국뮤지컬어워즈 7개 부문 노미네이트 (KBS연예 ─ 연예)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=181209</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=181209</guid>
+            <pubDate>Mon, 20 Dec 2021 10:23:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=181209">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211220162534_8396603f121a6eb4e76bff2e9d229637.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=181209">"빅토리아 시대 책 읽는 여자" 레드북, 한국뮤지컬어워즈 7개 부문 노미네이트</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211220162534_8396603f121a6eb4e76bff2e9d229637.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["당신의 원픽 아티스트는 누구?" 골든디스크 인기상 투표 시작! (KBS연예 ─ 연예)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=181034</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=181034</guid>
@@ -660,40 +694,12 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211217220459_48e2fde021f8f1f2b3fae3f8a9bbeb33_1.PNG" length="0" type="image/PNG"/>
         </item>
         <item>
-            <title><![CDATA[청순미 뿜뿜하는 더보이즈의 무대 'Candles'부터 '스릴 라이드'까지 (KBS연예 ─ 연예)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=180598</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=180598</guid>
-            <pubDate>Fri, 17 Dec 2021 13:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=180598">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211217215115_9bb5809d9df682b2432e3ad5beb4d798_1.PNG" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=180598">청순미 뿜뿜하는 더보이즈의 무대 'Candles'부터 '스릴 라이드'까지</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=2021%20KBS%20%EA%B0%80%EC%9A%94%EB%8C%80%EC%B6%95%EC%A0%9C">2021 KBS 가요대축제</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211217215115_9bb5809d9df682b2432e3ad5beb4d798_1.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[브레이브걸스 민영과 SF9 인성의 황홀한 듀엣! (KBS연예 ─ 연예)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=180593</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=180593</guid>
-            <pubDate>Fri, 17 Dec 2021 13:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=180593">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211217213243_e98d127a96ed852c744969dc9dc542ab.PNG" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=180593">브레이브걸스 민영과 SF9 인성의 황홀한 듀엣!</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=2021%20KBS%20%EA%B0%80%EC%9A%94%EB%8C%80%EC%B6%95%EC%A0%9C">2021 KBS 가요대축제</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211217213243_e98d127a96ed852c744969dc9dc542ab.PNG" length="0" type="image/PNG"/>
+            <title><![CDATA[비투비 민혁, 코로나 확진 탓 백신 미접종→"새 감염원 발행 가능有" [전문] (MBC 연예 ─ 아이돌)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333819</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333819</guid>
+            <pubDate>Mon, 20 Dec 2021 10:23:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333819">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/20/t9w7FOcy9K5B637756235352832065.jpg" alt="비투비 민혁, 코로나 확진 탓 백신 미접종→" 새="" 감염원="" 발행="" 가능有"="" [전문]"="">        <div class="text-box">            <p class="summary">비투비 민혁, 코로나 확진 탓 백신 미접종→"새 감염원 발행 가능有" [전문]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/20/t9w7FOcy9K5B637756235352832065.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["과자값 나오겠네" 방탄소년단 뷔, 악성 유튜버 고소 예고 (MBC 연예 ─ 아이돌)]]></title>
@@ -776,12 +782,18 @@
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/19/UrmO4q7zA5Pq637755114219812653.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[투모로우바이투게더, 美 빌보드 ‘올해의 베스트 K-팝 노래’ 선정 (MBC 연예 ─ 아이돌)]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333700</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333700</guid>
-            <pubDate>Sun, 19 Dec 2021 02:41:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333700">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/19/U0oMjU9lnaw1637755094451523229.jpg" alt="투모로우바이투게더, 美 빌보드 ‘올해의 베스트 K-팝 노래’ 선정 ">        <div class="text-box">            <p class="summary">투모로우바이투게더, 美 빌보드 ‘올해의 베스트 K-팝 노래’ 선정 </p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/19/U0oMjU9lnaw1637755094451523229.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[비투비 이민혁 측 "코로나19 음성, 백신 접종 완료 못 해 자가격리" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211220184041736</link>
+            <guid>https://entertain.v.daum.net/v/20211220184041736</guid>
+            <pubDate>Mon, 20 Dec 2021 10:24:05 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 그룹 비투비 이민혁이 신종 코로나바이러스 감염증(코로나19) 음성 판정을 받았지만 자가격리에 들어간다. 20일 이민혁의 소속사 큐브엔터테인먼트는 "이민혁이 스케줄 중 코로나19 확진자와 동선이 겹친 사실을 확인해 선제적 차원에서 코로나19 유전자 증폭(PCR) 검사를 진행, 검사 결과 '음성' 판정을 받았다"고 밝혔다. 이어]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[에스파, S.E.S.와 광야로..'Dreams Come True' 재탄생 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.v.daum.net/v/20211220182446466</link>
+            <guid>https://entertain.v.daum.net/v/20211220182446466</guid>
+            <pubDate>Mon, 20 Dec 2021 10:24:05 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] 그룹 S.E.S.의 ‘Dreams Come True’(드림스 컴 트루)가 그룹 에스파(aespa)의 색깔로 재탄생했다. 20일 오후 6시 공개된 에스파의 ‘Dreams Come True’는 SM엔터테인먼트와 유튜브가 함께 진행하는 ‘리마스터링 프로젝트’의 일환이다. 그룹 S.E.S.가 1998년 발표한 정규 2집 타이틀 곡을 재해석, 에스]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[몽환적 분위기에 힙 한스푼..에스파의 'Dreams Come True' (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
@@ -875,18 +887,60 @@
             <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 그룹 방탄소년단과 가수 임영웅이 올해를 빛낸 가수로 꼽혔다. 리서치전문회사 한국갤럽이 2021년 7~8월, 9~10월, 11월 세 차례에 걸쳐 전국(제주 제외)의 만 13세 이상 5103명에게 올 한 해 활동한 대중 가수/그룹 중 가장 좋아하는 가수를 세 명까지 물은 결과(자유응답), 30대 이하(13~39세)에서는 방탄]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ITZY, 일본 정식 데뷔 전 팬심 예열 "최선 다할 것" (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211220163203197</link>
-            <guid>https://entertain.v.daum.net/v/20211220163203197</guid>
-            <pubDate>Mon, 20 Dec 2021 08:28:41 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 윤혜영 기자] 그룹 ITZY(있지)가 일본 데뷔 온라인 쇼케이스를 통해 팬심을 뜨겁게 예열했다. ITZY는 22일 베스트 앨범 'IT'z ITZY'(잇츠 있지)를 발매하고 일본에서 정식 데뷔를 맞이한다. 앞서 ITZY는 11월 1일 'WANNABE'(워너비) 일본어 버전, 12월 1일 'LOCO'(로꼬) 일본어 버전을 선공개했고, 지난달 1]]></content:encoded>
+            <title><![CDATA["따로 살자" 이효리, '재력가 집안' 이상순의 180도 달라진 태도에 '분노' 폭발 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211220192252292</link>
+            <guid>https://entertain.v.daum.net/v/20211220192252292</guid>
+            <pubDate>Mon, 20 Dec 2021 10:24:10 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김수형 기자] '먹보와 털보'에서 이효리와 이상순이 부부싸움한 일화로 웃음을 안겼다. 무엇보다 이상순이 고깃집을 운영하는 재력가 집안을 언급해 눈길을 끌고 있다.&nbsp; 지난 17일, 'Netflix Korea 넷플릭스 코리아' 유튜브 채널에서&nbsp;'효리의 거친 눈빛과 불안한 상순과 그걸지켜보는 먹털 (먹보와 털보)'란 제목으로 영상이 게재됐다.&nbsp; 이날]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[밴드 1415, 편안한 음악 그 안에 강력한 상상의 힘 (다음 연예 ─ 뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.v.daum.net/v/20211220163202195</link>
-            <guid>https://entertain.v.daum.net/v/20211220163202195</guid>
-            <pubDate>Mon, 20 Dec 2021 08:28:41 GMT</pubDate>
-            <content:encoded><![CDATA[밴드 1415의 음악은 늘 편안하게 귀에 감긴다. 자극적이지 않은 순한 맛의 보컬과 멜로디가 어우러져 자연스럽게 일상에 녹아든다. 인생의 BGM처럼 어떤 일상에서든 자신들의 음악이 함께하길 바란다는 1415의 신념과 꼭 닮아있다. 1415는 최근 세 번째 EP '냅스!(naps!)'를 공개했다. 지난해 3월 '우리 참 오래 만났었나 봐' 이후 무려 1년 9]]></content:encoded>
+            <title><![CDATA[비투비 이민혁, 완치됐는데 또? "코로나 확진자와 동선 겹쳐..자가격리" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211220192240288</link>
+            <guid>https://entertain.v.daum.net/v/20211220192240288</guid>
+            <pubDate>Mon, 20 Dec 2021 10:24:10 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박소영 기자] 비투비 이민혁이 코로나19 확진자와 동선이 겹쳤지만 다행히 음성 판정을 받았다. 소속사 큐브 엔터테인먼트 측은 20일 “이민혁이 스케줄 중 코로나19 확진자와 동선이 겹친 사실을 확인하여 선제적 차원에서 코로나19 유전자 증폭(PCR) 검사를 진행, 검사 결과 '음성' 판정을 받았다”고 밝혔다. 이민혁은 지난 7월에도 보컬 코치가]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[정해인 치킨까지 손절..'설강화' 협찬사들, 불매운동 무서워 돌아섰다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211220191016123</link>
+            <guid>https://entertain.v.daum.net/v/20211220191016123</guid>
+            <pubDate>Mon, 20 Dec 2021 10:24:10 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박소영 기자] JTBC 드라마 ‘설강화’가 역사왜곡 및 안기부 미화 논란에 휩싸인 가운데 협찬사들이 줄줄이 ‘손절’ 하고 있다. 소비자들의 불매운동이 무서운 이유에서다. 천연 옥꽃 브랜드&nbsp;측은 20일 공식 SNS를 통해 “역사 왜곡으로 논란이 되고 있는 드라마에 소품 협찬을 하게 되어 정말 죄송하다는 말씀을 드립니다”라며 “처음 협찬 요청을 받았]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['두 번째 남편' 지수원, 엄현경 시집살이 시작..오승아 '의심' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211220191001117</link>
+            <guid>https://entertain.v.daum.net/v/20211220191001117</guid>
+            <pubDate>Mon, 20 Dec 2021 10:24:10 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 박하나 기자 = '두 번째 남편' 엄현경이 시집살이를 시작했다. 20일 오후에 방송된 MBC 일일드라마 '두 번째 남편'(극본 서현주/연출 김칠봉)에서는 주해란(지수원 분)에게 정체를 들킨 뒤, 아슬아슬한 결혼 생활을 이어가는 봉선화(샤론 박, 엄현경 분), 윤재민(차서원 분)의 모습이 담겼다. 이날 주해란은 샤론 박에게 식구들 보란 듯]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['한 사람만' 안은진 "연극 치료 받는 느낌으로 촬영 중" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211220190439057</link>
+            <guid>https://entertain.v.daum.net/v/20211220190439057</guid>
+            <pubDate>Mon, 20 Dec 2021 10:24:10 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 배우 안은진이 ‘슬의생’ 차기작으로 택한 ‘한 사람만’을 촬영하며 느낀 소회를 밝혔다.안은진은 20일 오후 진행된 JTBC 새 월화드라마 ‘한 사람만’ 제작발표회에서 “처음 대본을 봤을 때 너무 재밌게 읽었는데, 이걸 내가 잘할 수 있을까 이런 생각이 많이 들었다”고 입을 열었다.한 사람만’은 호스피스에서 만난 세 여자가 죽기 전에 나쁜 놈]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[역사왜곡 아니라더니..'설강화' 옹호하던 성시경, 한 점 부끄러움 없을까 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211220183615663</link>
+            <guid>https://entertain.v.daum.net/v/20211220183615663</guid>
+            <pubDate>Mon, 20 Dec 2021 10:24:10 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] "역사 왜곡 드라마 아닌 걸로 확인했습니다." JTBC 새 토일드라마 '설강화 : snowdrop’(이하 설강화)가 역사 왜곡 소지가 다분한 드라마라는 사실이 확인된 가운데, 가수 성시경의 '설강화' 옹호 발언도 재조명받고 있다. 성시경은 12월 1일 개인 유튜브 채널을 통해 공개한 영상에서 '설강화' OST 참여 비화를 공개하며]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[비투비 이민혁, 코로나19 확진자와 접촉해 자가격리 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211220183129585</link>
+            <guid>https://entertain.v.daum.net/v/20211220183129585</guid>
+            <pubDate>Mon, 20 Dec 2021 10:24:10 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=장진리 기자] 비투비 이민혁이 신종 코로나바이러스 감염증(코로나19) 확진자와 접촉해 모든 스케줄을 취소했다.소속사 큐브엔터테인먼트는 "이민혁이 스케줄 중 코로나19 확진자와 동선이 겹쳐 선제적 차원에서 PCR 검사를 받고 음성 판정을 받았다"며 "25일까지 모든 스케줄을 취소하고 자가격리한다"고 밝혔다. 이민혁은 지난 7월 코로나19]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[유빈, 선예와 연말 데이트 "외로워..데이트 하고 싶어" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+            <link>https://entertain.v.daum.net/v/20211220183002551</link>
+            <guid>https://entertain.v.daum.net/v/20211220183002551</guid>
+            <pubDate>Mon, 20 Dec 2021 10:24:10 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김수정 인턴기자) 유빈이 외로움을 드러냈다. 유빈은 지난 19일, 자신의 유튜브 채널 '유빈'에 "오랜만에 만나는 선예랑 연말 데이트"라는 제목의 영상을 게재했다. 공개된 영상에는 오랜만에 만난 선예와 즐거운 시간을 보내는 유빈의 모습이 담겨있다. 영상 초반, 유빈은 룩북 촬영장에서의 모습을 공개하며 "다크서클이 많이 내려왔다. 월요일부터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['올해를 빛낸 가수' 방탄소년단·임영웅 1위 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
@@ -908,13 +962,6 @@
             <guid>https://entertain.v.daum.net/v/20211220181034224</guid>
             <pubDate>Mon, 20 Dec 2021 09:23:32 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리 = 이승록 기자] 보컬그룹 노을의 전국투어 콘서트가 관객들의 뜨거운 박수 속에 서울 공연을 마쳤다. 노을이 지난 금요일부터 3일간(17~19일) 코엑스 오디토리움에서 열린 2021 전국투어 콘서트 '노을이 내린 밤'으로 서울 관객들과 만났다. 코로나19로 2년만에 열린 콘서트에 3일 공연 모두 매진을 기록하는 등 공연 전부터 큰 기대를 모았던]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['정해인 모델' 푸라닭 치킨, '설강화' 손절.."제작 지원 철회·광고 중단" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211220180919191</link>
-            <guid>https://entertain.v.daum.net/v/20211220180919191</guid>
-            <pubDate>Mon, 20 Dec 2021 09:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 정지현 기자] 배우 정해인이 전속 모델로 활동 중인 푸라닭 치킨이 JTBC 토일드라마 강화 : snowdrop'(이하 설강화) 제작지원 철회에 나섰다. 20일 푸라닭 치킨은 공식 홈페이지를 통해 "JTBC 드라마 '설강화' 제작지원 진행에 대한 공식 입장을 전달드린다. 해당 광고는 자사 광고모델의 작품 활동을 응원하는 차원에서 진행됐다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[그루비룸 에어리어, 팝업 스토어 오픈 "컬처 레이블로 도약" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
@@ -945,60 +992,53 @@
             <content:encoded><![CDATA[[스포티비뉴스=장진리 기자] 그룹 에스파가 '대선배' S.E.S.와 만났다.에스파는 20일 오후 6시 S.E.S. 히트곡을 리메이크한 '드림스 컴 트루' 음원과 뮤직비디오를 발표했다. '드림스 컴 트루'는 1998년 발매된 S.E.S. 2집 타이틀곡을 에스파가 리메이크한 팝 댄스곡이다. 원곡의 신비롭고 몽화적인 사운드에 에스파의 에너지와 힙합 바이브가]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['쇼윈도' 전소민·황찬성, 신혼부부 분위기 포착 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211220175704913</link>
-            <guid>https://entertain.v.daum.net/v/20211220175704913</guid>
-            <pubDate>Mon, 20 Dec 2021 09:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 최혜진 기자] '쇼윈도' 신혼부부 분위기의 전소민과 황찬성이 포착됐다. 20일 채널A 월화드라마 '쇼윈도:여왕의 집'(극본 한보경·연출 강솔, 이하 '쇼윈도') 측은 7회 방송을 앞두고 스틸컷을 공개했다. 지난 방송에서는 윤미라(전소민)가 한정원(황찬성)의 애인으로 돌아와 다음 이야기에 대한 궁금증을 증폭시켰다. 이런 가운데 공개된 스틸컷]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['설강화' 제작지원·협찬사 줄줄이 손절 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211220175523865</link>
-            <guid>https://entertain.v.daum.net/v/20211220175523865</guid>
-            <pubDate>Mon, 20 Dec 2021 09:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] JTBC 토일드라마 ‘설강화’가 현대사 왜곡 논란 파문의 중심이 된 가운데 광고·협찬 업계의 ‘설강화 지우기’가 시작됐다. 다이슨코리아는 20일 스포츠경향에 “‘설강화’의 공고 편성을 철회했다. 해당 드라마의 이슈 사항 인지 직후 바로 조치했다”며 ‘설강화’ 광고 송출 중단 결정을 공지했다. 이들은 같은 내용의 입장문을 ‘설강화’ 광고 노출]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[떡 브랜드→치킨 광고까지, 불똥 튀기 전 빠른 손절 '협찬 철회' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211220175404828</link>
-            <guid>https://entertain.v.daum.net/v/20211220175404828</guid>
-            <pubDate>Mon, 20 Dec 2021 09:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 백지연 기자] '민주화 운동 폄훼' 논란에 휩싸인 JTBC 드라마 '설강화'의 광고·협찬사를 상대로 시청자들이 불매 운동에 나서자 업체들의 잇따른 손절이 이어지고 있다. 지난 18일 첫 방송 된 설강화는 방송 전에도 불거졌던 민주화 운동을 폄훼했다는 지적이 또다시 나왔다. 방송 직후 방영 중지를 요청하는 청와대 국민청원은 하루도 안 돼 20만]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[비투비 이민혁, 코로나 자가격리..일정 취소 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211220175354819</link>
-            <guid>https://entertain.v.daum.net/v/20211220175354819</guid>
-            <pubDate>Mon, 20 Dec 2021 09:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] 그룹 비투비 이민혁이 코로나19 자가격리로 일정을 취소한다. 이민혁의 소속사 큐브 엔터테인먼트는 20일 "비투비 이민혁이 스케줄 중 코로나19 확진자와 동선이 겹친 사실을 확인하여 선제적 차원에서 코로나19 유전자 증폭(PCR) 검사를 진행, 검사 결과 '음성' 판정을 받았다"라고 알렸다. 이어 "금일 영등포 보건소에 확인한 결과, 이민혁]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김민지 "♥박지성, '맨시티는 안돼'..강경한 태도 놀랐다" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211220175016745</link>
-            <guid>https://entertain.v.daum.net/v/20211220175016745</guid>
-            <pubDate>Mon, 20 Dec 2021 09:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 하지원 기자) 김민지가 남편 박지성의 강경한 태도에 놀랐던 일화를 전했다. 18일 김민지의 유튜브 채널 '김민지의 만두랑'(이하 '만두랑')에는 '한 해 동안 수고했어 :) 연말맞이 수다타임'이라는 제목의 영상이 게재됐다. 이날 김민지는 "각종 TMI가 난무하는 아무도 안 물어보고 아무도 궁금하지 않은 이야기로 한두 시간 동안 떠들 거다"라]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['층간소음 논란' 김경남, 재차 사과.."심려 끼쳐 죄송" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211220174657644</link>
-            <guid>https://entertain.v.daum.net/v/20211220174657644</guid>
-            <pubDate>Mon, 20 Dec 2021 09:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[배우 김경남이 층간소음 논란에 대해 재차 사과했다. 김경남은 20일 열린 JTBC 새 월화드라마 '한 사람만' 제작발표회를 통해 "드라마 첫 방송날 이런 말씀 드려서 죄송하다"고 입을 열었다. 이어 "얼마 전 제 불찰로 많은 분들께 심려를 끼친 점 이 자리를 빌려 죄송하다고 말씀 드린다. 앞으로는 같은 일이 반복되지 않도록 주의하겠다"며 고개를 숙였다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[금새록, 송중기와 한식구 됐다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-            <link>https://entertain.v.daum.net/v/20211220174547613</link>
-            <guid>https://entertain.v.daum.net/v/20211220174547613</guid>
-            <pubDate>Mon, 20 Dec 2021 09:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=하수정 기자] 배우 금새록이 하이스토리 디앤씨와 매니지먼트 계약을 체결했다. 20일 하이스토리 디앤씨는 “특유의 매력적인 에너지와 분위기를 소유한 금새록 배우와 함께하게 됐다. 연기에 대한 순수한 열정과 애정이 더욱 빛날 수 있도록 지원을 아끼지 않겠다”라고 밝혔다. 영화 ‘경성학교: 사라진 소녀들’으로 데뷔한 금새록은 영화 ‘독전’, 드라마 ‘]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[덴젤 워싱턴, 배우 은퇴 시사.."맡을 수 있는 역할 많지 않아" (다음 연예 ─ 뉴스 ─ 해외)]]></title>
             <link>https://entertain.v.daum.net/v/20211220171028541</link>
             <guid>https://entertain.v.daum.net/v/20211220171028541</guid>
             <pubDate>Mon, 20 Dec 2021 08:28:52 GMT</pubDate>
             <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) 할리우드 배우 덴젤 워싱턴이 은퇴를 시사했다. 덴젤 워싱턴은 지난 16일(현지시간) 엔터테인먼트 투데이(ET)와의 인터뷰에서 "이번 작품('맥베스의 비극')의 캐릭터처럼 나도 연기 경력의 끝자락에 와 있다"며 "솔직히 말해 연기가 아닌 다른 일을 찾고 있다. 내가 연기를 하는 한 이것은 엄청난 도전일 것"이라고 밝혔다. 그는]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[샤이니 민호, '하트브레이크' 뮤비 티저…SF 영상미 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010899738</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010899738</guid>
+            <pubDate>Mon, 20 Dec 2021 10:24:24 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]안소윤 인턴 기자 = 그룹 '샤이니' 민호의 신곡 뮤직비디오 티저 영상이 공개된다. 20일 오후 9시 민호의 신곡 '하트브레이크(Heartbreak)' 뮤직비디오 티저 영상이 유튜브 SM타운 채널 등에]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[그루비룸 '에어리어', 문화레이블 꿈꾼다…팝업스토어 운영 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010899736</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010899736</guid>
+            <pubDate>Mon, 20 Dec 2021 10:24:24 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]이재훈 기자 = 프로듀서 팀 '그루비룸'(규정·휘민)이 이끄는 레이블 에어리어(@AREA)가 문화 레이블로 도약을 꿈 꾼다. 20일 에어리어에 따르면, 내년 1월 13일까지 서울 여의도 더현대에서 한]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[래퍼 자메즈, 마약·데이트폭력 의혹..소속사 "사실 확인 중" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003014223</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003014223</guid>
+            <pubDate>Mon, 20 Dec 2021 10:24:24 GMT</pubDate>
+            <content:encoded><![CDATA[래퍼 자메즈(32, 김성희)가 마약 투약과 데이트 폭력 의혹에 휩싸였다. 20일 온라인 상에는 자메즈의 여자친구라고 주장하는 A씨가 한 카카오톡 오픈 채팅방에 폭로한 내용이 화제가 됐다. 이 A씨는 "자메즈의 실체]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[레이지본·크라잉넛…온라인 '인디 페스타 밴드 온' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010899733</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010899733</guid>
+            <pubDate>Mon, 20 Dec 2021 10:24:24 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]이재훈 기자 = 인디음악 축제 '인디 페스타 밴드 온'이 오는 21~22일 온라인을 통해 관객들을 만난다. 종로문화재단(대표 윤영민)과 한국예술인복지재단(대표 박영정)이 글로벌 숏폼 모바일 비디오 플랫]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘유쾌한혜진이 유쾌한콘서트’ 연다 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000782135</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000782135</guid>
+            <pubDate>Mon, 20 Dec 2021 10:24:24 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] ‘트롯신이떳다’, ‘미스트롯2’, ‘아침마당’ 등으로 얼굴을 알린 혜진이가 정규1집 ‘눈물잔,맛보고가세요’ 쇼케이스 겸 단독 콘서트를 개최한다. 이번 콘서트는 혜진이의 1집 수록곡을 6인조 EuReKa]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[비투비 이민혁 측 "코로나19 음성, 백신 접종 완료 못 해 자가격리" [공식입장] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001387704</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001387704</guid>
+            <pubDate>Mon, 20 Dec 2021 10:24:24 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 그룹 비투비 이민혁이 신종 코로나바이러스 감염증(코로나19) 음성 판정을 받았지만 자가격리에 들어간다. 20일 이민혁의 소속사 큐브엔터테인먼트는 "이민혁이 스케줄 중 코로나19 확진자와]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[몽환적 분위기에 힙 한스푼..에스파의 'Dreams Come True' [6시★살롱] (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
@@ -1134,46 +1174,46 @@
             <content:encoded><![CDATA[그룹 몬스타엑스(MONSTA X)가 미국 ‘징글볼(Jingle Ball)’ 투어를 빛내며 글로벌 아티스트로서의 위상을 입증했다. 몬스타엑스는 지난 16일(이하 미국 현지 시간) 애틀란타 스테이트팜 아레나(State]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[인터뷰+] 밴드 1415, 편안한 음악 그 안에 강력한 상상의 힘 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004642700</link>
-            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004642700</guid>
-            <pubDate>Mon, 20 Dec 2021 08:29:01 GMT</pubDate>
-            <content:encoded><![CDATA[밴드 1415의 음악은 늘 편안하게 귀에 감긴다. 자극적이지 않은 순한 맛의 보컬과 멜로디가 어우러져 자연스럽게 일상에 녹아든다. 인생의 BGM처럼 어떤 일상에서든 자신들의 음악이 함께하길 바란다는 1415의 신념과]]></content:encoded>
+            <title><![CDATA[김재중, 흉부가 기가 막힌 근황..탄탄한 상반신 노출 [스타IN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003014225</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003014225</guid>
+            <pubDate>Mon, 20 Dec 2021 10:24:31 GMT</pubDate>
+            <content:encoded><![CDATA[가수 겸 배우 김재중이 탄탄한 근육을 과시했다. 김재중은 20일 자신의 인스타그램을 통해 "따뜻한 듯 차가운 듯! 어찌 됐든 감기 조심하세요"라는 글과 함께 사진을 게재했다. 공개된 사진 속에는 김재중이 상반신을 노]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[샘김, 태국 아티스트 뮤 수파싯과 컬래버…'비포 4:30' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010899471</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010899471</guid>
-            <pubDate>Mon, 20 Dec 2021 08:29:01 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]김예지 인턴 기자 = 가수 샘김이 태국 대표 아티스트 뮤 수파싯(Mew Suppasit)과 손잡고 글로벌 컬래버 신곡을 발매했다. 20일 소속사 안테나에 따르면 샘김은 이날 0시 뮤 수파싯과의 글로벌]]></content:encoded>
+            <title><![CDATA[한소희, 분위기가 다 했다…함박눈 내리는 날 [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000519297</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000519297</guid>
+            <pubDate>Mon, 20 Dec 2021 10:24:31 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=노규민 기자] 배우 한소희가 함박눈이 내리는 날, 설렘을 유발하는 미모로 시선을 강탈했다. 한소희는 20일 자신의 인스타그램에 사진 두 장을 게재했다. 사진 속 한소희는 검은색 롱패딩을 입고 카메라를 응시]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[그루비룸 @AREA, 컬처 레이블로 도약..브랜드 팝업스토어 오픈 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=112&amp;aid=0003511771</link>
-            <guid>https://entertain.naver.com/now/read?oid=112&amp;aid=0003511771</guid>
-            <pubDate>Mon, 20 Dec 2021 08:29:01 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드POP=박서연 기자]그루비룸의 @AREA(에어리어)가 음악을 넘어 컬처 레이블로 도약한다. 그 일환으로 에어리어는 내년 1월 13일까지 서울 여의도 더현대에서 한 달간 'AREA@MOBETTERWORKS'라는]]></content:encoded>
+            <title><![CDATA[블랙핑크 로제, 근접샷에도 굴욕없는 미모[스타IN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003014222</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003014222</guid>
+            <pubDate>Mon, 20 Dec 2021 10:24:31 GMT</pubDate>
+            <content:encoded><![CDATA[블랙핑크 멤버 로제가 초근접샷을 공개했다. 로제는 19일 오후 자신의 인스타그램에 "CANTIK BANGET"이라는 글과 함께 두 장의 사진을 게재했다. 사진 속에는 가까운 거리에서 카메라를 향해 보는 로제의 모습이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[정승환, 데뷔 첫 전국 투어 서울 공연 성료..40인조 오케스트라와 함께한 '라이브 강자' (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004529139</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004529139</guid>
-            <pubDate>Mon, 20 Dec 2021 08:29:01 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=이승훈 기자] 가수 정승환이 데뷔 첫 전국 투어 서울 공연을 성황리에 마무리했다. 정승환은 지난 17일부터 19일까지 사흘간 서울 올림픽공원 SK올림픽핸드볼경기장에서 개최된 ‘2021 정승환의 안녕 겨울]]></content:encoded>
+            <title><![CDATA['김무열♥' 윤승아, 에펠탑 앞에서 "어설픈 프러포즈에 행복"[스타IN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003014221</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003014221</guid>
+            <pubDate>Mon, 20 Dec 2021 10:24:31 GMT</pubDate>
+            <content:encoded><![CDATA[배우 윤승아가 남편 김무열에게 파리에서 받은 프러포즈 사진을 공개했다. 윤승아는 20일 자신의 인스타그램을 통해 "2015. Paris 프러포즈 받은 어느 날. 네.. 맞아요… 안 간다고 난리 치던 그날…조그만 링]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에스파→양희은까지…'2021 MBC 가요대제전' 라인업 공개 (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001679363</link>
-            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001679363</guid>
-            <pubDate>Mon, 20 Dec 2021 07:22:32 GMT</pubDate>
-            <content:encoded><![CDATA['2021 MBC 가요대제전: TOGETHER'이 라인업을 공개했다. '2021 MBC 가요대제전'은 31일과 1월 1일에 걸쳐 방송되며 매해 마지막 날을 책임져온 만큼 올 2021년에도 전 세대가 함께 즐길 수 있]]></content:encoded>
+            <title><![CDATA[임수정, 43세 초동안 '이동욱이 선물한 커피차' 인증[스타IN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003014220</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003014220</guid>
+            <pubDate>Mon, 20 Dec 2021 10:24:31 GMT</pubDate>
+            <content:encoded><![CDATA[배우 임수정이 배우 이동욱이 선물한 커피차를 자랑했다. 임수정은 20일 자신의 인스타그램을 통해 "고마워. 덕분에 '운수 좋은 날' 보냈어. 곧 만납시다 박영호 작가"라는 글과 함께 두 장의 사진을 게재했다. 공개된]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['입대 시작 D-1' 온앤오프, 자체 기록 경신→콘서트.. "가장 기억에 남는 활동" (네이버 TV연예 ─ 최신뉴스 ─ 뮤직)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003014197</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003014197</guid>
-            <pubDate>Mon, 20 Dec 2021 07:22:32 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 온앤오프(ONF)가 입대 전 마지막 앨범 활동을 종료했다. 이번 활동 자체 기록을 경신에 이어 첫 단독 콘서트를 마친 온앤오프는 "가장 기억에 남는 활동"이라는 소감을 남겼다. 지난 3일 여섯 번째 미니앨범 ']]></content:encoded>
+            <title><![CDATA[에스파, S.E.S.와 광야로…‘Dreams Come True’ 재탄생 [DA:신곡] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000952062</link>
+            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000952062</guid>
+            <pubDate>Mon, 20 Dec 2021 10:24:31 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 S.E.S.의 ‘Dreams Come True’(드림스 컴 트루)가 그룹 에스파(aespa)의 색깔로 재탄생했다. 20일 오후 6시 공개된 에스파의 ‘Dreams Come True’는 SM엔터테인먼트와 유튜브가]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한소희, 함박눈보다 예쁜 미모 [스타IN★] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
@@ -1225,7 +1265,7 @@
             <content:encoded><![CDATA[KBS2 새 월화드라마 ‘꽃 피면 달 생각하고’ 시골 선비 유승호가 날라리 왕세자 변우석에게 눈 뜨고 코 베이는 현장이 포착됐다. 유가행렬 중 타고 가던 말을 뺏긴 것이다. ‘연모’ 후속으로 20일 처음 방송되는 K]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이민혁, 확진자 접촉→자가격리…프니엘 '비키라' 스페셜 DJ (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
+            <title><![CDATA[이민혁, 확진자 접촉→자가격리…서은광 '비키라' 스페셜 DJ (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
             <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004896546</link>
             <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004896546</guid>
             <pubDate>Mon, 20 Dec 2021 09:23:51 GMT</pubDate>
@@ -1307,48 +1347,6 @@
             <guid>https://entertain.naver.com/now/read?oid=437&amp;aid=0000284122</guid>
             <pubDate>Mon, 20 Dec 2021 09:23:51 GMT</pubDate>
             <content:encoded><![CDATA[어느 때보다 꽉 찬 한 해를 보냈다. 상반기 브라운관과 OTT 활약에 이어 하반기에는 최초의 도전들로 조금은 특별한 스크린 행보를 보인 배우 이제훈(38)이다. 의미있는 홀로서기에도 성공했다. 지난 4월 SBS]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['2번 이혼' 이지현, 제주행 비행기 탑승객에 사과 "떠들어서 죄송" (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003814265</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003814265</guid>
-            <pubDate>Mon, 20 Dec 2021 09:23:51 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 이유나 기자] 싱글맘 이지현이 아이들과 제주 여행을 떠나며 사과부터 시작했다. 이지현은 20일 인스타그램에 "제주 놀러왔어요^^ 지금 우리 셋 너무 행복 합니다"라고 적고 제주행 비행기를 타는 순간부터]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[일본 데뷔…있지, 쇼케이스부터 관심 집중 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000600139</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000600139</guid>
-            <pubDate>Mon, 20 Dec 2021 09:23:51 GMT</pubDate>
-            <content:encoded><![CDATA[걸그룹 ITZY(있지)가 일본 데뷔 온라인 쇼케이스를 통해 예열을 완료했다. ITZY는 오는 22일 베스트 앨범 'IT'z ITZY'(잇츠 있지)를 발매하고 일본에서 정식 데뷔를 맞이한다. 앞서 11월 1일 'WAN]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김나영, 유튜브로 번 돈 1억원 기부 "하반기 수익 2배 증가"[스타이슈] (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003014208</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003014208</guid>
-            <pubDate>Mon, 20 Dec 2021 09:23:51 GMT</pubDate>
-            <content:encoded><![CDATA[방송인 김나영이 한부모 여성 가장들을 위해 유튜브 채널 수익 1억원을 기부했다. 김나영은 19일 자신의 유튜채널 '김나영릐 노필터TV'에 '21년 하반기 노필터 광고수익 대공개! 2021 노필터어워즈'라]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘옷소매’ 이준호♥이세영, 설렘 탕약 시중…최고 16.6% (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000952055</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000952055</guid>
-            <pubDate>Mon, 20 Dec 2021 09:23:51 GMT</pubDate>
-            <content:encoded><![CDATA[MBC 금토드라마 ‘옷소매 붉은 끝동’(연출 정지인 송연화/극본 정해리/영제 The Red Sleeve/이하 ‘옷소매’)이 또 다시 자체 최고 시청률을 갈아치웠다. 20일, 시청률 조사 회사 닐슨 코리아 발표에 따르]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[황현희의 눈] 비난과 비판, 그 경계선을 구분하자 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000600138</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000600138</guid>
-            <pubDate>Mon, 20 Dec 2021 09:23:51 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 우리는 조롱과 비난의 시대에 살고 있다. 정치인, 연예인, 유튜버, 일반인 등 가리지 않는다. ‘비난’의 사전적 정의를 찾아보았다. 비난이란 누군가 도덕적으로 옳지 못한 행위를 했을 때, 그 대상에 대해 부정적]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[임영웅→이무진, ‘2021 MBC 가요대제전’ 36팀 라인업 공개 (네이버 TV연예 ─ 최신뉴스 ─ 연예가화제)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=382&amp;aid=0000952054</link>
-            <guid>https://entertain.naver.com/now/read?oid=382&amp;aid=0000952054</guid>
-            <pubDate>Mon, 20 Dec 2021 08:29:09 GMT</pubDate>
-            <content:encoded><![CDATA[‘2021 MBC 가요대제전: TOGETHER’이 라인업을 공개했다. ‘2021 MBC 가요대제전’은 오는 31일(금)과 1월 1일(토)에 걸쳐 방송되며 매해 마지막 날을 책임져온 만큼 올 2021년에도 전 세대가]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["정해인 응원했는데"…푸라닭도 '설강화' 광고 손절 (네이버 TV연예 ─ 최신뉴스 ─ 해외연예)]]></title>

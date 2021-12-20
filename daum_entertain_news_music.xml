@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-20T09:23:58.677Z</updated>
+    <updated>2021-12-20T10:24:39.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비투비 이민혁 측 "코로나19 음성, 백신 접종 완료 못 해 자가격리"]]></title>
+        <id>https://entertain.v.daum.net/v/20211220184041736</id>
+        <link href="https://entertain.v.daum.net/v/20211220184041736"/>
+        <updated>2021-12-20T10:24:05.162Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 그룹 비투비 이민혁이 신종 코로나바이러스 감염증(코로나19) 음성 판정을 받았지만 자가격리에 들어간다. 20일 이민혁의 소속사 큐브엔터테인먼트는 "이민혁이 스케줄 중 코로나19 확진자와 동선이 겹친 사실을 확인해 선제적 차원에서 코로나19 유전자 증폭(PCR) 검사를 진행, 검사 결과 '음성' 판정을 받았다"고 밝혔다. 이어]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에스파, S.E.S.와 광야로..'Dreams Come True' 재탄생]]></title>
+        <id>https://entertain.v.daum.net/v/20211220182446466</id>
+        <link href="https://entertain.v.daum.net/v/20211220182446466"/>
+        <updated>2021-12-20T10:24:05.163Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 그룹 S.E.S.의 ‘Dreams Come True’(드림스 컴 트루)가 그룹 에스파(aespa)의 색깔로 재탄생했다. 20일 오후 6시 공개된 에스파의 ‘Dreams Come True’는 SM엔터테인먼트와 유튜브가 함께 진행하는 ‘리마스터링 프로젝트’의 일환이다. 그룹 S.E.S.가 1998년 발표한 정규 2집 타이틀 곡을 재해석, 에스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[몽환적 분위기에 힙 한스푼..에스파의 'Dreams Come True']]></title>
         <id>https://entertain.v.daum.net/v/20211220182109394</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211220163634424"/>
         <updated>2021-12-20T08:28:41.754Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 그룹 방탄소년단과 가수 임영웅이 올해를 빛낸 가수로 꼽혔다. 리서치전문회사 한국갤럽이 2021년 7~8월, 9~10월, 11월 세 차례에 걸쳐 전국(제주 제외)의 만 13세 이상 5103명에게 올 한 해 활동한 대중 가수/그룹 중 가장 좋아하는 가수를 세 명까지 물은 결과(자유응답), 30대 이하(13~39세)에서는 방탄]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ITZY, 일본 정식 데뷔 전 팬심 예열 "최선 다할 것"]]></title>
-        <id>https://entertain.v.daum.net/v/20211220163203197</id>
-        <link href="https://entertain.v.daum.net/v/20211220163203197"/>
-        <updated>2021-12-20T08:28:41.754Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 윤혜영 기자] 그룹 ITZY(있지)가 일본 데뷔 온라인 쇼케이스를 통해 팬심을 뜨겁게 예열했다. ITZY는 22일 베스트 앨범 'IT'z ITZY'(잇츠 있지)를 발매하고 일본에서 정식 데뷔를 맞이한다. 앞서 ITZY는 11월 1일 'WANNABE'(워너비) 일본어 버전, 12월 1일 'LOCO'(로꼬) 일본어 버전을 선공개했고, 지난달 1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밴드 1415, 편안한 음악 그 안에 강력한 상상의 힘]]></title>
-        <id>https://entertain.v.daum.net/v/20211220163202195</id>
-        <link href="https://entertain.v.daum.net/v/20211220163202195"/>
-        <updated>2021-12-20T08:28:41.754Z</updated>
-        <content type="html"><![CDATA[밴드 1415의 음악은 늘 편안하게 귀에 감긴다. 자극적이지 않은 순한 맛의 보컬과 멜로디가 어우러져 자연스럽게 일상에 녹아든다. 인생의 BGM처럼 어떤 일상에서든 자신들의 음악이 함께하길 바란다는 1415의 신념과 꼭 닮아있다. 1415는 최근 세 번째 EP '냅스!(naps!)'를 공개했다. 지난해 3월 '우리 참 오래 만났었나 봐' 이후 무려 1년 9]]></content>
     </entry>
 </feed>

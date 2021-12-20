@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 09:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 10:24:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비투비 민혁, 코로나 확진 탓 백신 미접종→"새 감염원 발행 가능有" [전문]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333819</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333819</guid>
+            <pubDate>Mon, 20 Dec 2021 10:23:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333819">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/20/t9w7FOcy9K5B637756235352832065.jpg" alt="비투비 민혁, 코로나 확진 탓 백신 미접종→" 새="" 감염원="" 발행="" 가능有"="" [전문]"="">        <div class="text-box">            <p class="summary">비투비 민혁, 코로나 확진 탓 백신 미접종→"새 감염원 발행 가능有" [전문]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/20/t9w7FOcy9K5B637756235352832065.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["과자값 나오겠네" 방탄소년단 뷔, 악성 유튜버 고소 예고]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/333816</link>
@@ -86,14 +94,6 @@
             <pubDate>Sun, 19 Dec 2021 03:22:48 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333704">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/19/UrmO4q7zA5Pq637755114219812653.jpg" alt="'아는 형님' 최예나, 제기차기로 '홈런'→이수근 " 너만="" 방송="" 나올="" 거야?""="">        <div class="text-box">            <p class="summary">'아는 형님' 최예나, 제기차기로 '홈런'→이수근 "너만 방송 나올 거야?"</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/19/UrmO4q7zA5Pq637755114219812653.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[투모로우바이투게더, 美 빌보드 ‘올해의 베스트 K-팝 노래’ 선정]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333700</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333700</guid>
-            <pubDate>Sun, 19 Dec 2021 02:41:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333700">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/19/U0oMjU9lnaw1637755094451523229.jpg" alt="투모로우바이투게더, 美 빌보드 ‘올해의 베스트 K-팝 노래’ 선정 ">        <div class="text-box">            <p class="summary">투모로우바이투게더, 美 빌보드 ‘올해의 베스트 K-팝 노래’ 선정 </p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/19/U0oMjU9lnaw1637755094451523229.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

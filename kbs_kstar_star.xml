@@ -4,9 +4,43 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 09:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 10:24:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[화보] 임윤아, 매거진 '얼루어' 커버]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=181220</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=181220</guid>
+            <pubDate>Mon, 20 Dec 2021 10:23:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=181220">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211220165148_29c608aeb1dfab2cce63846af6411919.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=181220">[화보] 임윤아, 매거진 '얼루어' 커버 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211220165148_29c608aeb1dfab2cce63846af6411919.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["빅토리아 시대 책 읽는 여자" 레드북, 한국뮤지컬어워즈 7개 부문 노미네이트]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=181209</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=181209</guid>
+            <pubDate>Mon, 20 Dec 2021 10:23:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=181209">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211220162534_8396603f121a6eb4e76bff2e9d229637.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=181209">"빅토리아 시대 책 읽는 여자" 레드북, 한국뮤지컬어워즈 7개 부문 노미네이트</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211220162534_8396603f121a6eb4e76bff2e9d229637.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["당신의 원픽 아티스트는 누구?" 골든디스크 인기상 투표 시작!]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=181034</link>
@@ -318,42 +352,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=2021%20KBS%20%EA%B0%80%EC%9A%94%EB%8C%80%EC%B6%95%EC%A0%9C">2021 KBS 가요대축제</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211217220459_48e2fde021f8f1f2b3fae3f8a9bbeb33_1.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[청순미 뿜뿜하는 더보이즈의 무대 'Candles'부터 '스릴 라이드'까지]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=180598</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=180598</guid>
-            <pubDate>Fri, 17 Dec 2021 13:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=180598">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211217215115_9bb5809d9df682b2432e3ad5beb4d798_1.PNG" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=180598">청순미 뿜뿜하는 더보이즈의 무대 'Candles'부터 '스릴 라이드'까지</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=2021%20KBS%20%EA%B0%80%EC%9A%94%EB%8C%80%EC%B6%95%EC%A0%9C">2021 KBS 가요대축제</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211217215115_9bb5809d9df682b2432e3ad5beb4d798_1.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[브레이브걸스 민영과 SF9 인성의 황홀한 듀엣!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=180593</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=180593</guid>
-            <pubDate>Fri, 17 Dec 2021 13:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=180593">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211217213243_e98d127a96ed852c744969dc9dc542ab.PNG" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=180593">브레이브걸스 민영과 SF9 인성의 황홀한 듀엣!</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=2021%20KBS%20%EA%B0%80%EC%9A%94%EB%8C%80%EC%B6%95%EC%A0%9C">2021 KBS 가요대축제</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211217213243_e98d127a96ed852c744969dc9dc542ab.PNG" length="0" type="image/PNG"/>
         </item>
     </channel>
 </rss>
