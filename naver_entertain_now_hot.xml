@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-12-20T16:35:43.742Z</updated>
+    <updated>2021-12-20T17:29:46.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유영재, ‘춘정지란’ 출연…첫 주연]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000952100</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000952100"/>
+        <updated>2021-12-20T17:29:38.849Z</updated>
+        <content type="html"><![CDATA[가수 겸 배우 유영재가 ‘춘정지란’ 주연으로 출연한다. ‘춘정지란’(연출 이창한/극본 유지연)은 노비 신분을 벗으려는 주인공이 여장 남자로 위장해 혼인하게 되면서 벌어지는 아찔한 세 남자의 청춘 로맨스 사극이다. 웹]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미래소년 손동표, ‘온에어’ 첫 공연 성공적]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000952099</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003814297"/>
         <updated>2021-12-20T13:31:40.884Z</updated>
         <content type="html"><![CDATA[[스포츠조선 이유나 기자] 삼둥이맘 황신영이 출산 3개월만에 출산 전 몸무게를 되찾아 놀라움을 안겼다. 황신영은 20일 인스타그램에 '애나쓰 몸무게 변천사' 제목으로 출산 직전부터 출산 100일이 되어가는 현재까지의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김혜진, ‘2021 한류문화대상 시상식’ 배우‧연기자부문 우수연기상 수상]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000838959</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000838959"/>
-        <updated>2021-12-20T13:31:40.885Z</updated>
-        <content type="html"><![CDATA[배우 김혜진이 ‘2021 한류문화대상시상식’에서 배우‧연기자 우수연기상 부문을 수상했다. 김혜진은 20일 오후 서울 목동 로운 아트홀에서 진행된 ‘2021 한류문화대상 시상식’에서 배우‧연기자]]></content>
     </entry>
 </feed>
