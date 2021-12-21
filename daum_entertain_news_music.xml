@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-21T09:23:36.674Z</updated>
+    <updated>2021-12-21T10:24:32.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NCT, 2주연속 케이팝 레이더 차트 1위]]></title>
+        <id>https://entertain.v.daum.net/v/20211221192127285</id>
+        <link href="https://entertain.v.daum.net/v/20211221192127285"/>
+        <updated>2021-12-21T10:23:57.098Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 4세대 대표 그룹 엔시티 2021(NCT 2021)이 신곡 ‘Beautiful’으로 케이팝 레이더 차트 1위 자리를 차지했다.엔시티 2021의 ‘Beautiful’ 뮤직비디오는 케이팝 레이더 51주차 집계 기간 (12월 12일 ~ 12월 18일) 동안 1,921만 뷰의 조회수를 발생시키며 ‘Universe (Let’s Play Ball)’에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카리나 천재 아이돌력 발휘! 에스파 리액션 모음]]></title>
         <id>https://entertain.v.daum.net/v/20211221181529317</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211221174834568"/>
         <updated>2021-12-21T09:23:03.362Z</updated>
         <content type="html"><![CDATA[그룹 몬스타엑스(MONSTA X)가 미국 프로모션을 성황리에 마쳤다. 몬스타엑스는 21일 인천국제공항을 통해 입국했다. 지난 13일(이하 미국 현지 시간) 필라델피아를 비롯해 14일 워싱턴 D.C, 16일 애틀란타에서 미국 유명 방송국 아이하트라디오(iHeartRadio)가 개최하는 현지 최대 연말 공연 ‘징글볼(Jingle Ball)’ 투어를 마치고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이브 연습생 시절 공개 '열정 가득']]></title>
-        <id>https://entertain.v.daum.net/v/20211221171912688</id>
-        <link href="https://entertain.v.daum.net/v/20211221171912688"/>
-        <updated>2021-12-21T08:26:16.863Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김지하 기자] 6인조 신예 아이브(IVE)가 열정으로 가득 찬 연습생 시절을 공개해 눈길을 끈다. 지난 20일 오후 아이브(유진, 가을, 레이, 원영, 리즈, 이서) 공식 유튜브 채널을 통해 자체 리얼리티 콘텐츠 '1,2,3 IVE'가 공개됐다. 공개된 영상 속 아이브는 데뷔를 앞두고 연습에 몰두하고 있다. 보컬 레슨에 임한 멤버들은 트레이너]]></content>
     </entry>
 </feed>

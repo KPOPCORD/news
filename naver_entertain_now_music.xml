@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-21T09:23:36.589Z</updated>
+    <updated>2021-12-21T10:24:32.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NCT, 2주연속 케이팝 레이더 차트 1위]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000782381</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000782381"/>
+        <updated>2021-12-21T10:24:17.042Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 4세대 대표 그룹 엔시티 2021(NCT 2021)이 신곡 ‘Beautiful’으로 케이팝 레이더 차트 1위 자리를 차지했다. 엔시티 2021의 ‘Beautiful’ 뮤직비디오는 케이팝 레이더 51주차]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[pH-1, 윈터 싱글 ‘LATELY’ 티저 공개]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000782371</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000334353"/>
         <updated>2021-12-21T08:26:35.196Z</updated>
         <content type="html"><![CDATA[[스포티비뉴스=김원겸 기자]가수 김재환이 컴백을 앞두고 동료들의 든든한 지원사격을 받았다. 김재환은 지난 20일과 21일 이틀에 걸쳐 공식 SNS와 유튜브를 통해 '다 잊은 줄 알았어'의 스포일러 청음회 (React]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아스트로 라키X위키미키 세이 '청춘향전' 공개..10가지 결말 담았다]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003014484</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003014484"/>
-        <updated>2021-12-21T08:26:35.197Z</updated>
-        <content type="html"><![CDATA[남원에서 펼쳐지는 현대판 청춘들의 춘향전 '청춘향전'이 드디어 공개됐다. 제작사 제이원더는 지난 20일 인터랙티브 멀티엔딩 드라마 '청춘향전'을 공개했다고 밝혔다. 현대판 청춘들의 춘향전을 그린 '청춘향전'은 위키미]]></content>
     </entry>
 </feed>

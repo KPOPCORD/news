@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-21T09:23:36.584Z</updated>
+    <updated>2021-12-21T10:24:32.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[日 유명 성우 칸다 사야카, 호텔서 숨진 채 발견 [엑's 재팬]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001388102</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001388102"/>
+        <updated>2021-12-21T10:24:31.947Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김노을 기자) 일본 배우 겸 성우 칸다 사야카가 사망했다. NHK, 요미우리 신문 등 현지 언론매체에 따르면 칸다 사야카는 지난 18일 오후 1시경 일본 홋카이도 삿포로의 한 호텔의 야외 공간에서 발견]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[진정한 크리스마스 연금…머라이어 캐리, 캐럴로 3년 연속 빌보드 1위]]></title>
         <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005797893</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003814430"/>
         <updated>2021-12-21T02:43:07.503Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 박아람 기자] 중국 톱스타 왕리홍(45)이 사생활 논란에 휩싸였다. 21일 대만 중앙통신사 등 중화권 매체 보도에 따르면 왕리홍의 전 부인 리징레이(35)는 지난 17일 자신의 SNS에 결혼 생활 내]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘색,계’ 출연 男배우 전 부인 “도시마다 잠자리女 있다” 폭로]]></title>
-        <id>https://entertain.naver.com/now/read?oid=022&amp;aid=0003649755</id>
-        <link href="https://entertain.naver.com/now/read?oid=022&amp;aid=0003649755"/>
-        <updated>2021-12-21T02:43:07.503Z</updated>
-        <content type="html"><![CDATA[사진=웨이보 캡처 국내에도 잘 알려진 영화 ‘색,계’에 출연했던 중화권 톱스타 가수 겸 배우 왕리훙이 결혼 생활 중 외도와 성매매를 했다는 폭로가 제기됐다. 20일 대만 중앙통신사 등 매체는 보도를 통해 왕리훙의 전]]></content>
     </entry>
 </feed>
