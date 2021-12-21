@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-21T14:22:07.897Z</updated>
+    <updated>2021-12-21T15:24:14.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김태욱 오늘 생일..트롯픽 이벤트 주인공]]></title>
+        <id>https://entertain.v.daum.net/v/20211222000009537</id>
+        <link href="https://entertain.v.daum.net/v/20211222000009537"/>
+        <updated>2021-12-21T15:23:39.603Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 김태욱 오늘(22일) 생일…트롯픽 이벤트 주인공 [DA:차트] 가수 김태욱이 트롯픽 생일 이벤트를 받는다. 22일 트롯 문화를 사랑하는 사람들을 응원하는 서비스 트롯픽(trotpick)에 따르면 김태욱은 12월 생일자를 대상으로 한 스페셜 투표에서 이벤트 주인공으로 선정됐다. 이번 투표는 지난달 15일부터 21일까지 진행됐다. 트롯픽의 생일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임영웅 팬들 미혼모 자립기반 지원 후원금 564만원 기부]]></title>
+        <id>https://entertain.v.daum.net/v/20211222000001526</id>
+        <link href="https://entertain.v.daum.net/v/20211222000001526"/>
+        <updated>2021-12-21T15:23:39.604Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 문완식 기자] 가수 임영웅의 팬들이 미혼모들의 자립기반을 지원하기 위한 후원금을 기부, 선한 영향력을 실천했다. 임영웅 팬클럽 영웅시대 전북별빛방 회원들은 12월 21일 전북 전주시 덕진구 미혼모 보호시설 '기쁨누리의집'을 찾아 미혼모 자립기반을 위한 지원금 564만 9000원을 후원했다. 이번 후원은 임영웅 KBS 단독쇼 'We're HER]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['풍류대장' 서도밴드, 최종 우승 "새로운 풍류 타실 준비 되셨나요?"]]></title>
         <id>https://entertain.v.daum.net/v/20211221230712256</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211221180157994"/>
         <updated>2021-12-21T09:23:03.343Z</updated>
         <content type="html"><![CDATA[[OSEN=이승훈 기자]&nbsp;샤이니 민호가 한층 더 성숙해진 사랑을 노래했다. 샤이니 민호는 오늘(21일) 오후 6시 각종 온라인 음원 사이트를 통해 신곡 'Heartbreak’(하트브레이크)'를 발매했다. 지난 2019년 3월 SM 'STATION'을 통해 발표한 'I’m Home (그래)'(아임 홈) 이후 약 2년 9개월 만에 선보이는 두 번째 솔로곡이다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["대답 없는 네게"..민호, 담담한 이별의 슬픔 'Heartbreak']]></title>
-        <id>https://entertain.v.daum.net/v/20211221180023916</id>
-        <link href="https://entertain.v.daum.net/v/20211221180023916"/>
-        <updated>2021-12-21T09:23:03.345Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 그룹 샤이니 민호가 사랑의 고통을 담담하게 표현한 신곡 'Heartbreak'을 발매했다. 민호는 21일 오후 6시 신곡 'Heartbreak'(하트브레이크)의 뮤직비디오를 공개했다. 지난 2019년 SM 'STATION'(스테이션)을 통해 발표한 'I'm Home (그래)'(아임 홈) 이후로 공개하는 민호의 두 번째 솔로곡 ']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3년 3개월 만에 뭉친 원어스X원위, 성장한 겨울 감성 'STAY']]></title>
-        <id>https://entertain.v.daum.net/v/20211221180013906</id>
-        <link href="https://entertain.v.daum.net/v/20211221180013906"/>
-        <updated>2021-12-21T09:23:03.346Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 그룹 원어스(ONEUS), 원위(ONEWE)가 신곡 'STAY'로 따뜻한 겨울 감성을 전달했다. RBW 형제 그룹 원어스, 원위의 디지털 싱글 'STAY'(스테이)의 뮤직비디오가 21일 오후 6시 공개됐다.  데뷔 전 '데뷔하겠습니다' 프로젝트를 통해 선공개됐던 'STAY'. 원어스, 원위는 팬들이 기다리던 'STAY'를 깜짝]]></content>
     </entry>
 </feed>

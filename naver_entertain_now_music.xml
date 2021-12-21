@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-21T14:22:07.896Z</updated>
+    <updated>2021-12-21T15:24:14.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임영웅 팬들 미혼모 자립기반 지원 후원금 564만원 기부]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003014549</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003014549"/>
+        <updated>2021-12-21T15:23:59.569Z</updated>
+        <content type="html"><![CDATA[가수 임영웅의 팬들이 미혼모들의 자립기반을 지원하기 위한 후원금을 기부, 선한 영향력을 실천했다. 임영웅 팬클럽 영웅시대 전북별빛방 회원들은 12월 21일 전북 전주시 덕진구 미혼모 보호시설 '기쁨누리의집'을 찾아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크리스마스의 여왕 머라이어 캐리, ‘3년 연속 빌보드 차트 1위 캐럴’ 기록 달성]]></title>
         <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003564050</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003564023"/>
         <updated>2021-12-21T09:23:22.244Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 박윤진 기자] '곁에 머물러줘' '언제나 네 자릴 비워둘게' RBW 형제 그룹 원위(ONEWE)와 원어스(ONEUS)가 21일 오후 6시 디지털 싱글 '스테이(STAY)'를 발매했다. '스테이'는 겨]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3년 3개월 만에 뭉친 원어스X원위, 성장한 겨울 감성 'STAY' [쥬크박스]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001388076</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001388076"/>
-        <updated>2021-12-21T09:23:22.248Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 그룹 원어스(ONEUS), 원위(ONEWE)가 신곡 'STAY'로 따뜻한 겨울 감성을 전달했다. RBW 형제 그룹 원어스, 원위의 디지털 싱글 'STAY'(스테이)의 뮤직비디오가 21일 오]]></content>
     </entry>
 </feed>
