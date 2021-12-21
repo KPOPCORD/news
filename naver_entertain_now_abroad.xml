@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-21T13:29:50.388Z</updated>
+    <updated>2021-12-21T14:22:07.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[日 ‘겨울왕국 안나 성우’ 칸다 사야카, 18일 호텔서 사망]]></title>
+        <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001629998</id>
+        <link href="https://entertain.naver.com/now/read?oid=057&amp;aid=0001629998"/>
+        <updated>2021-12-21T14:22:07.275Z</updated>
+        <content type="html"><![CDATA[일본 가수 겸 성우 칸다 사야카가 사망했다. NHK 등 현지 매체에 따르면 칸다 사야카는 지난 18일 세상을 떠났다. 고인은 일본 훗카이도 삿포로의 한 호텔의 야외 공간에서 쓰러진 채 발견됐으며, 병원으로 이송됐으나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘겨울왕국’ 안나 日 성우 칸다 사야카, 삿포로 호텔서 숨진 채 발견]]></title>
         <id>https://entertain.naver.com/now/read?oid=396&amp;aid=0000600218</id>
@@ -34,7 +41,7 @@
         <content type="html"><![CDATA[영화 ‘섹스 앤 더 시티’ 스틸 [이데일리 스타in 박미애 기자] ‘섹스 앤 더 시티’ 시리즈에서 사라 제시카 파커의 상대역을 맡은 크리스 노스가 성폭행 의혹에 휩싸여 출연 중인 드라마에서 하차했다. 21일(현지시간]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['색스앤더시티' 男주, 세 여성 성폭행 의혹..주인공들 성명발표 "女응원"]]></title>
+        <title type="html"><![CDATA['섹스앤더시티' 男주, 세 여성 성폭행 의혹..주인공들 성명발표 "女응원"]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004529622</id>
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004529622"/>
         <updated>2021-12-21T09:23:35.995Z</updated>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004529478"/>
         <updated>2021-12-21T04:29:55.909Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 할리우드 배우 레오나르도 디카프리오가 그의 개들을 구하기 위해 얼어붙은 호수에 뛰어들었다. 디카프리오는 넷플릭스 영화 '돈 룩 업(Don't Look Up)'을 촬영하던 중 두 마리의 개(허]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베리베리, 美 첫 투어 성료…"현지 매체들 호평"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010900757</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010900757"/>
-        <updated>2021-12-21T03:23:58.046Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]김예지 인턴 기자 = 그룹 '베리베리'가 첫번째 미국 투어를 성료했다. 21일 소속사 젤리피쉬엔터테인먼트에 따르면, 베리베리는 지난 5일(현지 시간) 로스앤젤레스를 시작으로 15일 포트웨인까지 미국 주]]></content>
     </entry>
 </feed>

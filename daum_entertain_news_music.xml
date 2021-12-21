@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-21T13:29:50.401Z</updated>
+    <updated>2021-12-21T14:22:07.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['풍류대장' 서도밴드, 최종 우승 "새로운 풍류 타실 준비 되셨나요?"]]></title>
+        <id>https://entertain.v.daum.net/v/20211221230712256</id>
+        <link href="https://entertain.v.daum.net/v/20211221230712256"/>
+        <updated>2021-12-21T14:21:35.733Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 최하나 기자] '풍류대장' 서도밴드가 최종 우승을 거뒀다 21일 저녁 방송된 JTBC 예능프로그램 '풍류대장'에서는 파이널 라운드가 펼쳐졌다. 이날 이상 억스 김주리 온도 김준수 서도밴드 최고의 기량으로 파이널 라운드 무대를 꾸몄다. 억스와 김준수가 심사위원 점수 782점을 기록해 1위를 차지한 가운데 서도밴드가 무대에 올랐다. 창작곡인 ']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['풍류대장' 서도밴드, 억스·김준수 꺾고 심사위원 점수 1위 "지구 살렸다"]]></title>
         <id>https://entertain.v.daum.net/v/20211221220211875</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211221180013906"/>
         <updated>2021-12-21T09:23:03.346Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 그룹 원어스(ONEUS), 원위(ONEWE)가 신곡 'STAY'로 따뜻한 겨울 감성을 전달했다. RBW 형제 그룹 원어스, 원위의 디지털 싱글 'STAY'(스테이)의 뮤직비디오가 21일 오후 6시 공개됐다.  데뷔 전 '데뷔하겠습니다' 프로젝트를 통해 선공개됐던 'STAY'. 원어스, 원위는 팬들이 기다리던 'STAY'를 깜짝]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["곁에 머물러줘" 원어스X원위, RBW 형제케미 빛난 'STAY']]></title>
-        <id>https://entertain.v.daum.net/v/20211221180013907</id>
-        <link href="https://entertain.v.daum.net/v/20211221180013907"/>
-        <updated>2021-12-21T09:23:03.347Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 원어스(ONEUS)와 원위(ONEWE)가 겨울 시즌송에서 형제 케미스트리를 뽐냈다. 원어스, 원위는 12월 21일 오후 6시 각종 음원 사이트를 통해 새 디지털 싱글 'STAY'(스테이)를 발매했다. 이번 신곡은 엔터테인먼트 사 RBW에 함께 몸 담고 있는 두 팀이 데뷔 후 최초로 함께 부르고 정식 발표한 노래다. 데뷔 전 출]]></content>
     </entry>
 </feed>
