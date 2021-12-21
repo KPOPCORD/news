@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-21T10:24:32.716Z</updated>
+    <updated>2021-12-21T11:21:39.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
@@ -32,13 +32,6 @@
         <link href="https://entertain.v.daum.net/v/20211221180157994"/>
         <updated>2021-12-21T09:23:03.343Z</updated>
         <content type="html"><![CDATA[[OSEN=이승훈 기자]&nbsp;샤이니 민호가 한층 더 성숙해진 사랑을 노래했다. 샤이니 민호는 오늘(21일) 오후 6시 각종 온라인 음원 사이트를 통해 신곡 'Heartbreak’(하트브레이크)'를 발매했다. 지난 2019년 3월 SM 'STATION'을 통해 발표한 'I’m Home (그래)'(아임 홈) 이후 약 2년 9개월 만에 선보이는 두 번째 솔로곡이다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[릴보이 래핑에 튠..오묘한 '주스']]></title>
-        <id>https://entertain.v.daum.net/v/20211221180106946</id>
-        <link href="https://entertain.v.daum.net/v/20211221180106946"/>
-        <updated>2021-12-21T09:23:03.344Z</updated>
-        <content type="html"><![CDATA[래퍼 릴보이(lIlBOI)가 새로운 시도를 펼쳤다. 랩 위에 튠을 더했고 힙합에 댄서들을 불렀다. 21일 릴보이는 새 싱글 'JUICE'(주스)를 발매했다. 음악 제작 유통사 블렌딩의 새로운 음원 프로젝트 일환으로, 릴보이(lIl BOI)에 두 명의 댄서 리안, JayB가 의기투합했다. Mnet '쇼미더머니9' 우승으로 실력을 입증한 릴보이는 '주스']]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["대답 없는 네게"..민호, 담담한 이별의 슬픔 'Heartbreak']]></title>
@@ -109,5 +102,12 @@
         <link href="https://entertain.v.daum.net/v/20211221174834568"/>
         <updated>2021-12-21T09:23:03.362Z</updated>
         <content type="html"><![CDATA[그룹 몬스타엑스(MONSTA X)가 미국 프로모션을 성황리에 마쳤다. 몬스타엑스는 21일 인천국제공항을 통해 입국했다. 지난 13일(이하 미국 현지 시간) 필라델피아를 비롯해 14일 워싱턴 D.C, 16일 애틀란타에서 미국 유명 방송국 아이하트라디오(iHeartRadio)가 개최하는 현지 최대 연말 공연 ‘징글볼(Jingle Ball)’ 투어를 마치고]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이브 연습생 시절 공개 '열정 가득']]></title>
+        <id>https://entertain.v.daum.net/v/20211221171912688</id>
+        <link href="https://entertain.v.daum.net/v/20211221171912688"/>
+        <updated>2021-12-21T11:21:09.848Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김지하 기자] 6인조 신예 아이브(IVE)가 열정으로 가득 찬 연습생 시절을 공개해 눈길을 끈다. 지난 20일 오후 아이브(유진, 가을, 레이, 원영, 리즈, 이서) 공식 유튜브 채널을 통해 자체 리얼리티 콘텐츠 '1,2,3 IVE'가 공개됐다. 공개된 영상 속 아이브는 데뷔를 앞두고 연습에 몰두하고 있다. 보컬 레슨에 임한 멤버들은 트레이너]]></content>
     </entry>
 </feed>
