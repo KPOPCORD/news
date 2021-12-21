@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-21T03:23:58.665Z</updated>
+    <updated>2021-12-21T04:29:56.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[블리처스, 내년 1월 3일 '바빈' 컴백..성숙한 소년美]]></title>
+        <id>https://entertain.v.daum.net/v/20211221131102362</id>
+        <link href="https://entertain.v.daum.net/v/20211221131102362"/>
+        <updated>2021-12-21T04:29:23.264Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 백지은 기자] 그룹 블리처스(BLITZERS)가 성숙한 소년미로 돌아온다. 소속사 우조엔터테인먼트는 21일 0시 공식 SNS를 통해 블리처스(진화, 고유, 주한, 샤, 크리스, 루탄, 우주) 첫 싱글 '바빈(BOBBIN)'의 온라인 커버를 공개했다. '바빈'은 고개를 끄덕이는 모습을 의미한다. 앞서 오픈된 블리처스 멤버로 추정되는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노라 존스, "첫 크리스마스 앨범 발매, 작은 즐거움 주고싶었다"]]></title>
         <id>https://entertain.v.daum.net/v/20211221112425692</id>
@@ -55,7 +62,7 @@
         <content type="html"><![CDATA[[스타뉴스 윤상근 기자] /사진제공=ATISPAUS싱어송라이터 서리(Seori)가 디어유 버블을 통해 글로벌 팬들과 더욱 활발한 소통을 펼친다. 레이블 ATISPAUS(아티스파우스)는 21일"서리가 프라이빗 메시지 플랫폼 디어유 (DearU)에 합류해 21일부터 '디어유 버블 (DearU bubble)' 서비스를 오픈한다"라고 밝혔다. 디어유 버블은 아티스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[에스파 'Next Level' 스포티파이 'K팝 허브' 최다 스트리밍 1위]]></title>
+        <title type="html"><![CDATA[에스파 'Next Level' 스포티파이 'K팝 대박' 최다 스트리밍 1위]]></title>
         <id>https://entertain.v.daum.net/v/20211221105046008</id>
         <link href="https://entertain.v.daum.net/v/20211221105046008"/>
         <updated>2021-12-21T02:42:35.837Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211221102042774"/>
         <updated>2021-12-21T02:42:35.849Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;'글로벌 슈퍼루키' 알렉사가 컴백에 시동을 걸었다.&nbsp; 지비레이블은 오늘(21일) 오전 10시 공식 SNS 채널에 알렉사의 새로운 로고를 공개, 본격적인 컴백 예열에 돌입했다. 알렉사는 오는 2022년 1월 6일 신곡과 함께 글로벌 컴백에 나설 예정이다. 알렉사의 로고는 검은색 바탕에 감각적인 네온 효과를 가미해 시선을 사로잡았다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트와이스 정연, 서울 콘서트 불참.."건강상의 이유"]]></title>
-        <id>https://entertain.v.daum.net/v/20211221101421526</id>
-        <link href="https://entertain.v.daum.net/v/20211221101421526"/>
-        <updated>2021-12-21T02:42:35.851Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이덕행 기자] 걸그룹 트와이스 정연이 9일 네이버 VLIVE(브이라이브)를 통해 진행된 단독 온택트 콘서트 'Beyond LIVE - TWICE : World in A Day'(비욘드 라이브 - 트와이스 : 월드 인 어 데이'에서 멋진 공연을 선보이고 있다. / 사진 = JYP엔터테인먼트 제공 /사진=김창현 기자 chmt@트와이스 정연이 건강상의]]></content>
     </entry>
 </feed>

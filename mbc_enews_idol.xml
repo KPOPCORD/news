@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 03:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 04:29:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[효연 "내 전성기? 소녀시대 데뷔 전"(나를 불러줘)]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333857</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333857</guid>
+            <pubDate>Tue, 21 Dec 2021 04:29:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333857">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/21/de61ac49-1926-4c11-91cb-14c4a2938736.jpg" alt="효연 " 내="" 전성기?="" 소녀시대="" 데뷔="" 전"(나를="" 불러줘)"="">        <div class="text-box">            <p class="summary">효연 "내 전성기? 소녀시대 데뷔 전"(나를 불러줘)</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/21/de61ac49-1926-4c11-91cb-14c4a2938736.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['방과후 설렘', 방송 4회 만에 투표 수 200만 돌파 기염]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/333841</link>
@@ -86,14 +94,6 @@
             <pubDate>Mon, 20 Dec 2021 01:10:20 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333738">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/20/ca33e418-a9ed-458c-adc9-95a745bccb78.jpg" alt="'방과후 설렘' 최약체 4학년, 최강 3학년 꺾고 1라운드 승리">        <div class="text-box">            <p class="summary">'방과후 설렘' 최약체 4학년, 최강 3학년 꺾고 1라운드 승리</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/20/ca33e418-a9ed-458c-adc9-95a745bccb78.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 英 '브릿 어워드' 2년 연속 노미네이트...'인터내셔널 그룹' 수상 후보]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333710</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333710</guid>
-            <pubDate>Sun, 19 Dec 2021 06:25:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333710">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/19/oeTRGxjOfpWD637755219014062377.jpg" alt="방탄소년단, 英 '브릿 어워드' 2년 연속 노미네이트...'인터내셔널 그룹' 수상 후보">        <div class="text-box">            <p class="summary">방탄소년단, 英 '브릿 어워드' 2년 연속 노미네이트...'인터내셔널 그룹' 수상 후보</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/19/oeTRGxjOfpWD637755219014062377.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
