@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-12-21T16:35:06.735Z</updated>
+    <updated>2021-12-21T17:30:20.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[솔라, ‘풍류대장’ 종영소감…글래머 S라인 몸매도 자랑 “감동적”[M+★SNS]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001630006</id>
+        <link href="https://entertain.naver.com/now/read?oid=057&amp;aid=0001630006"/>
+        <updated>2021-12-21T17:30:11.018Z</updated>
+        <content type="html"><![CDATA[마마무 솔라가 ‘풍류대장’ 종영에 대한 아쉬움을 전했다. 솔라는 지난 21일 오후 자신의 인스타그램에 “‘풍류대장’ 벌써 마지막 생방송”이라는 글과 사진을 게재했다. 그는 “많이 아쉽지만 그동안 너무나 감동적이고 감]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김요한→조이현 ‘학교2021’ 카메라 밖 풋풋 비하인드컷]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000952332</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000952332"/>
+        <updated>2021-12-21T17:30:11.026Z</updated>
+        <content type="html"><![CDATA[KBS2 수목드라마 ‘학교 2021’이 청춘 배우들의 카메라 밖 모습과 촬영 현장의 유쾌한 분위기를 전했다. 치열하고 또 달달했던 전반부에 이어 흥미진진한 후반부를 예고한 KBS2 수목드라마 ‘학교 2021’(극본]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엔하이픈 “데뷔 1주년, 순식간에 지나간 시간 무서워” [화보]]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000952331</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0004897144"/>
         <updated>2021-12-21T13:29:42.817Z</updated>
         <content type="html"><![CDATA[‘나는 SOLO’에서 영수와 정숙의 2차 위기가 발발한다. 22일 오후 10시 30분 방송되는 NQQ, SBS PLUS 예능프로그램 ‘나는 SOLO’에서는 ‘허니문 커플’ 영수와 정숙이 또 한 번 갈등을 빚는 모습이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTS 진·이연복, 33세 나이차이 뛰어넘은 찐우정…"격리해제되자마자 와준 석진이"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003814668</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003814668"/>
-        <updated>2021-12-21T13:29:42.818Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 이게은기자] 그룹 방탄소년단 진과 셰프 이연복이 훈훈한 투샷을 공개했다. 21일 진과 이연복은 각자의 인스타그램에 똑같은 사진을 게재했다. 사진 속 두 사람은 케이크와 초를 앞에 두고 다정한 케미를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘화요일은 밤이 좋아’ 권인하 “김다현은 천재” 극찬 [TV체크]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000952322</id>
-        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000952322"/>
-        <updated>2021-12-21T13:29:42.819Z</updated>
-        <content type="html"><![CDATA[TV조선 ‘화요일은 밤이 좋아’에 7080년대를 주름잡은 원조 오빠들 최성수-권인하가 출연했다. 21일(오늘) ‘화요일은 밤이 좋아’ 3회는 ‘귀 호강 특집’으로, 추운 겨울을 7080 감성으로 따스하게 감싸줄 명곡]]></content>
     </entry>
 </feed>

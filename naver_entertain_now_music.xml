@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-21T16:35:06.755Z</updated>
+    <updated>2021-12-21T17:30:20.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[레인보우 지숙, 사랑의열매 나눔리더 됐다]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001388215</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001388215"/>
+        <updated>2021-12-21T17:30:03.575Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 사랑의열매 사회복지공동모금회(회장 조흥식)는 가수와 배우 등 만능엔터테이너로 활약 중인 그룹 레인보우 지숙이 사랑의열매 개인 기부자 모임인 ‘나눔리더’에 가입했다고 밝혔다. 사랑의열매 ‘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스포티파이 글로벌 ‘K팝 허브’ 2021년 연말결산…‘TrenChill K-R&B’ 이하이 For You, ‘K-HIP-HOP +82’에픽하이 Rosario 최다 스트리밍]]></title>
         <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000782410</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000524947"/>
         <updated>2021-12-21T09:23:22.241Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 원어스(ONEUS)와 원위(ONEWE)가 겨울 시즌송에서 형제 케미스트리를 뽐냈다. 원어스, 원위는 12월 21일 오후 6시 각종 음원 사이트를 통해 새 디지털 싱글 'STAY'(스테이)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[샤이니 민호, 담담해서 더 아픈 ‘Heartbreak’ [들어보고서]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000524946</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000524946"/>
-        <updated>2021-12-21T09:23:22.242Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 샤이니 민호가 솔로로 돌아왔다. 민호는 12월 21일 오후 6시 솔로곡 'Heartbreak(하트브레이크)'를 공개했다. 'Heartbreak(하트브레이크)'는 강렬하면서도 리드미컬한 퍼커션과]]></content>
     </entry>
 </feed>
