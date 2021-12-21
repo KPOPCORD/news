@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-21T07:21:01.963Z</updated>
+    <updated>2021-12-21T08:26:49.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[래퍼 미란이, 남미서도 주목하네]]></title>
+        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010901892</id>
+        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010901892"/>
+        <updated>2021-12-21T08:26:49.265Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]김예지 인턴 기자 = 래퍼 미란이가 남미에서 주목받고 있다. 21일 미란이 소속사 @AREA에 따르면, 남미 최대 규모의 미디어그룹 '그루포 글로보(Grupo Globo)'에서 발행하는 매거진 ']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중국계 피 흐르는 키아누 리브스 "아시안 핏줄, 나도 좋아" [Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004529575</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000524705"/>
         <updated>2021-12-20T23:23:03.529Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 미국 20대 래퍼가 공연장에서 살해 당했다. 12월 20일(현지시간) CNN 보도에 따르면 래퍼 드레이코 더 룰러가 지난 18일 LA 한 음악 축제 무대 뒤에서 말싸움을 벌이다 흉기에 찔려 사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노라 존스 "코로나19 팬데믹 속 캐럴 만들어…위로되길" [N인터뷰]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005795801</id>
-        <link href="https://entertain.naver.com/now/read?oid=421&amp;aid=0005795801"/>
-        <updated>2021-12-20T22:22:50.792Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 김민지 기자 = 세계적인 재즈 및 팝 보컬리스트이자 싱어송라이터 노라 존스가 첫 번째 크리스마스 앨범을 공개한다. 노라 존스는 22일 크리스마스 앨범 '아이 드림 오브 크리스마스'(I Dream of]]></content>
     </entry>
 </feed>
