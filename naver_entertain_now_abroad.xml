@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-21T11:21:39.997Z</updated>
+    <updated>2021-12-21T12:36:06.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘겨울왕국’ 안나 日 성우 칸다 사야카, 삿포로 호텔서 숨진 채 발견]]></title>
+        <id>https://entertain.naver.com/now/read?oid=396&amp;aid=0000600218</id>
+        <link href="https://entertain.naver.com/now/read?oid=396&amp;aid=0000600218"/>
+        <updated>2021-12-21T12:36:06.081Z</updated>
+        <content type="html"><![CDATA[일본 배우 겸 성우 칸다 사야카가 세상을 떠났다. NHK 등 일본 현지 매체 보도에 따르면 칸다 사야카가 지난 18일 삿포로의 한 호텔 야외공간에서 쓰러진 채 발견됐다. 당시 칸다 사야카는 의식을 잃은 상태였고 병원]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日 유명 성우 칸다 사야카, 호텔서 숨진 채 발견 [엑's 재팬]]]></title>
         <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001388102</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010900757"/>
         <updated>2021-12-21T03:23:58.046Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]김예지 인턴 기자 = 그룹 '베리베리'가 첫번째 미국 투어를 성료했다. 21일 소속사 젤리피쉬엔터테인먼트에 따르면, 베리베리는 지난 5일(현지 시간) 로스앤젤레스를 시작으로 15일 포트웨인까지 미국 주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왕리홍 사생활 논란..“도시마다 잠자리 여성 둬” 전부인 주장]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003814430</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003814430"/>
-        <updated>2021-12-21T02:43:07.503Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 박아람 기자] 중국 톱스타 왕리홍(45)이 사생활 논란에 휩싸였다. 21일 대만 중앙통신사 등 중화권 매체 보도에 따르면 왕리홍의 전 부인 리징레이(35)는 지난 17일 자신의 SNS에 결혼 생활 내]]></content>
     </entry>
 </feed>
