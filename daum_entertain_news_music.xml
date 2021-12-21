@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-21T12:36:06.645Z</updated>
+    <updated>2021-12-21T13:29:50.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['풍류대장' 서도밴드, 억스·김준수 꺾고 심사위원 점수 1위 "지구 살렸다"]]></title>
+        <id>https://entertain.v.daum.net/v/20211221220211875</id>
+        <link href="https://entertain.v.daum.net/v/20211221220211875"/>
+        <updated>2021-12-21T13:29:17.600Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 최하나 기자] '풍류대장' 서도밴드가 압도적인 기량으로 최고점을 경신했다. 21일 저녁 방송된 JTBC 예능프로그램 '풍류대장'에서는 파이널 라운드가 펼쳐졌다. 이날 서도밴드는 창작곡인 '바다'로 파이널 무대를 꾸몄다. 이에 대해 서도밴드는 "수미산관이라고 하지 않나. 서도밴드가 프로젝트 팀으로 만들을 때 '바다'로 대회에 참가했다"면서]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트와이스 'Formula of Love' 빌보드 200 84위 5주 차트인]]></title>
+        <id>https://entertain.v.daum.net/v/20211221213650499</id>
+        <link href="https://entertain.v.daum.net/v/20211221213650499"/>
+        <updated>2021-12-21T13:29:17.600Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 윤상근 기자] /사진제공=JYP엔터테인먼트 걸그룹 트와이스가 빌보드 200 차트 5주 연속 차트인을 유지했다. 빌보드가 21일(한국 시각) 공식 홈페이지를 통해 발표한 바에 따르면, 트와이스는 정규 3집 'Formula of Love: O+T=&lt;3'(포뮬러 오브 러브: O+T=&lt;3)로 2021년 12월 25일 자 빌보드 200 차트 84위를 마크]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NCT 127 'Sticker' 빌보드 200 82위 13주 차트인]]></title>
         <id>https://entertain.v.daum.net/v/20211221213423478</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211221180013907"/>
         <updated>2021-12-21T09:23:03.347Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 원어스(ONEUS)와 원위(ONEWE)가 겨울 시즌송에서 형제 케미스트리를 뽐냈다. 원어스, 원위는 12월 21일 오후 6시 각종 음원 사이트를 통해 새 디지털 싱글 'STAY'(스테이)를 발매했다. 이번 신곡은 엔터테인먼트 사 RBW에 함께 몸 담고 있는 두 팀이 데뷔 후 최초로 함께 부르고 정식 발표한 노래다. 데뷔 전 출]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원위·원어스 '스테이', 음악도 관계성도 착착 감기네]]></title>
-        <id>https://entertain.v.daum.net/v/20211221180012905</id>
-        <link href="https://entertain.v.daum.net/v/20211221180012905"/>
-        <updated>2021-12-21T09:23:03.350Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] 원위·원어스 ‘스테이’, 음악도 관계성도 착착 감기네 (종합) [DA:신곡] RBW 형제그룹 원위(ONEWE)와 원어스(ONEUS)가 겨울 시즌송으로 함께 돌아왔다. 데뷔 전 진행한 합동 프로젝트에서 선공개한 곡을 몇 년 만에 다시 선보이는 것이기에 더욱 의미가 깊다. 오늘(21일) 오후 6시 각종 음원 사이트를 통해 원위와 원어스가 함께 부]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[샤이니 민호, 담담해서 더 아픈 'Heartbreak']]></title>
-        <id>https://entertain.v.daum.net/v/20211221180009903</id>
-        <link href="https://entertain.v.daum.net/v/20211221180009903"/>
-        <updated>2021-12-21T09:23:03.351Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 샤이니 민호가 솔로로 돌아왔다. 민호는 12월 21일 오후 6시 솔로곡 'Heartbreak(하트브레이크)'를 공개했다. 'Heartbreak(하트브레이크)'는 강렬하면서도 리드미컬한 퍼커션과 거칠고 무게감 있는 신스 베이스가 성숙한 느낌을 자아내는 팝 곡이다. 나와의 관계를 가볍게 여기는 연인으로부터 받는 마음의 고통을 담담하]]></content>
     </entry>
 </feed>
