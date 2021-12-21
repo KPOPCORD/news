@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-12-21T17:30:20.219Z</updated>
+    <updated>2021-12-21T18:26:56.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이브 “동시대 대표하는 음악하고파” [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000952334</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000952334"/>
+        <updated>2021-12-21T18:26:48.620Z</updated>
+        <content type="html"><![CDATA[그룹 아이브(IVE)가 6인 6색의 매력을 발산했다. 매거진 '데이즈드'는 21일 시크한 아우라가 담긴 아이브의 화보와 인터뷰를 공개했다. 아이브는 이번 화보에서 지금껏 보여주지 않았던 새로운 모습으로 다채로운 매력]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘킹메이커’ 설경구→이선균, 카리스마 팀워크 [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000952333</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000952333"/>
+        <updated>2021-12-21T18:26:48.620Z</updated>
+        <content type="html"><![CDATA[영화 '킹메이커' 주역들이 화보를 촬영했다. '킹메이커'는 세상을 바꾸기 위해 도전하는 정치인 김운범과 존재도 이름도 숨겨진 선거 전략가 서창대가 치열한 선거판에 뛰어들며 시작되는 드라마를 그린 영화로, 오는 1월]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[솔라, ‘풍류대장’ 종영소감…글래머 S라인 몸매도 자랑 “감동적”[M+★SNS]]]></title>
         <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001630006</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000952323"/>
         <updated>2021-12-21T14:22:00.339Z</updated>
         <content type="html"><![CDATA[Mnet '스트릿댄스 걸스 파이터(이하 스걸파)' 측이 오늘(21일) 방송된 4회 관전키워드를 정리했다. 이 날 방송에서는 2차 미션 '원 팀 퍼포먼스 미션'의 최종결과가 공개된다. '원 팀 퍼포먼스 미션'은 '스걸]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['검사♥' 한지혜, "우리 커플" 6개월 된 귀요미 딸과 투샷…더 닮아가는 모녀 [TEN★]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000519565</id>
-        <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000519565"/>
-        <updated>2021-12-21T13:29:42.817Z</updated>
-        <content type="html"><![CDATA[[텐아시아=김지원 기자] 배우 한지혜가 딸과 즐거운 일상의 순간을 기록했다. 한지혜는 21일 자신의 인스타그램 스토리에 "우리 커플"이라고 글을 올렸다. 또한 "윤스리랑 커플모자. 선물 감사합니다"라며 모자를 선물해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나는 솔로' 영수x정숙, 2차 위기 발발? "내가 너무 몰랐네"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=009&amp;aid=0004897144</id>
-        <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0004897144"/>
-        <updated>2021-12-21T13:29:42.817Z</updated>
-        <content type="html"><![CDATA[‘나는 SOLO’에서 영수와 정숙의 2차 위기가 발발한다. 22일 오후 10시 30분 방송되는 NQQ, SBS PLUS 예능프로그램 ‘나는 SOLO’에서는 ‘허니문 커플’ 영수와 정숙이 또 한 번 갈등을 빚는 모습이]]></content>
     </entry>
 </feed>
