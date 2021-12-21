@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 23:23:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 01:11:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['방과후 설렘', 방송 4회 만에 투표 수 200만 돌파 기염]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333841</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333841</guid>
+            <pubDate>Tue, 21 Dec 2021 01:11:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333841">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/21/28c2539a-a721-49ab-91f3-e6f3bb2e7659.jpg" alt="'방과후 설렘', 방송 4회 만에 투표 수 200만 돌파 기염">        <div class="text-box">            <p class="summary">'방과후 설렘', 방송 4회 만에 투표 수 200만 돌파 기염</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/21/28c2539a-a721-49ab-91f3-e6f3bb2e7659.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조유리, 꽃보다 싱그러운 명품 비주얼 [인스타]]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/333830</link>
@@ -86,14 +94,6 @@
             <pubDate>Sun, 19 Dec 2021 06:25:02 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333710">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/19/oeTRGxjOfpWD637755219014062377.jpg" alt="방탄소년단, 英 '브릿 어워드' 2년 연속 노미네이트...'인터내셔널 그룹' 수상 후보">        <div class="text-box">            <p class="summary">방탄소년단, 英 '브릿 어워드' 2년 연속 노미네이트...'인터내셔널 그룹' 수상 후보</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/19/oeTRGxjOfpWD637755219014062377.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[권은비, 첫 팬미팅 성료 "루비 덕분에 많은 힘 받아"]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333708</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333708</guid>
-            <pubDate>Sun, 19 Dec 2021 04:27:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333708">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/19/f1VNNXSbSVR3637755133854868119.JPG" alt="권은비, 첫 팬미팅 성료 " 루비="" 덕분에="" 많은="" 힘="" 받아""="">        <div class="text-box">            <p class="summary">권은비, 첫 팬미팅 성료 "루비 덕분에 많은 힘 받아"</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/19/f1VNNXSbSVR3637755133854868119.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
