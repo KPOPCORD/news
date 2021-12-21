@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-21T15:24:14.082Z</updated>
+    <updated>2021-12-21T16:35:06.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스포티파이 글로벌 ‘K팝 허브’ 2021년 연말결산…‘TrenChill K-R&B’ 이하이 For You, ‘K-HIP-HOP +82’에픽하이 Rosario 최다 스트리밍]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000782410</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000782410"/>
+        <updated>2021-12-21T16:34:52.204Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 스트리밍 플랫폼 ‘스포티파이(Spotify)’가 폭넓은 한국 음악과 아티스트를 전 세계 청취자들에게 소개하는 ‘K팝 허브(K-Pop Hub)’ 내 주요 플레이리스트별 연말결산을 공개했다. 올해 1월 1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘서던 록 전설’ ZZ Top(지지탑) 저작권 매각, 600억대 추정]]></title>
+        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000782409</id>
+        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000782409"/>
+        <updated>2021-12-21T16:34:52.205Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 가장 미국적인 하드록 장르 서던 록의 대표격인 밴드 ZZ Top(지지탑)이 50여 년간 발표한 노래들 저작권을 매각했다. 월스트리트저널(WSJ)은 21일(현지시간) 사모펀드 KKR과 음반업체 BMG가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅 팬들 미혼모 자립기반 지원 후원금 564만원 기부]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003014549</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000524946"/>
         <updated>2021-12-21T09:23:22.242Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 샤이니 민호가 솔로로 돌아왔다. 민호는 12월 21일 오후 6시 솔로곡 'Heartbreak(하트브레이크)'를 공개했다. 'Heartbreak(하트브레이크)'는 강렬하면서도 리드미컬한 퍼커션과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["대답 없는 네게"…민호, 담담한 이별의 슬픔 'Heartbreak' [쥬크박스]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001388077</id>
-        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001388077"/>
-        <updated>2021-12-21T09:23:22.243Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 그룹 샤이니 민호가 사랑의 고통을 담담하게 표현한 신곡 'Heartbreak'을 발매했다. 민호는 21일 오후 6시 신곡 'Heartbreak'(하트브레이크)의 뮤직비디오를 공개했다. 지난]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['RBW 형제' 원위·원어스, 함께 부른 고백송 '스테이' 발표 [MD신곡]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=117&amp;aid=0003564023</id>
-        <link href="https://entertain.naver.com/now/read?oid=117&amp;aid=0003564023"/>
-        <updated>2021-12-21T09:23:22.244Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 박윤진 기자] '곁에 머물러줘' '언제나 네 자릴 비워둘게' RBW 형제 그룹 원위(ONEWE)와 원어스(ONEUS)가 21일 오후 6시 디지털 싱글 '스테이(STAY)'를 발매했다. '스테이'는 겨]]></content>
     </entry>
 </feed>
