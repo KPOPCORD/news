@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-12-22T15:24:17.645Z</updated>
+    <updated>2021-12-22T16:36:29.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박은빈 화보, 청초하고도 단단한 매력]]></title>
+        <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001630281</id>
+        <link href="https://entertain.naver.com/now/read?oid=057&amp;aid=0001630281"/>
+        <updated>2021-12-22T16:36:22.497Z</updated>
+        <content type="html"><![CDATA[배우 박은빈과 함께 진행한 2022년 1월호 화보가 공개됐다. ‘박은빈의 다른 얼굴들’이라는 카피로 공개된 이번 화보는 청초하면서도 단단하고, 또 한편 ‘장꾸미’까지 은근히 감도는 박은빈 배우 특유의 매력을 포착하려]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[몬스타엑스 민혁 “‘입대’ 셔누 빈자리 채우려 노력” [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000952521</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000952521"/>
+        <updated>2021-12-22T16:36:22.498Z</updated>
+        <content type="html"><![CDATA[몬스타엑스 민혁 “‘입대’ 셔누 빈자리 채우려 노력” [화보] 매거진 싱글즈가 몬스타엑스 민혁의 화보를 공개했다. 이번 화보에서 민혁은 특유의 편안한 분위기를 표현함과 동시에 대세 아티스트다운 포스를 드러냈다. 캐주]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[변요한 “연기는 운명” [화보]]]></title>
         <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000952520</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003814974"/>
         <updated>2021-12-22T12:35:31.751Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 이게은기자] 배우 서효림이 두 번째 결혼기념일을 자축했다. 22일 서효림은 자신의 인스타그램에 "2년 전 오늘이였구나 결혼기념일. 혼자 꽃 들고 예쁘게 사진 찍고 싶었는데 어느 순간 곁에 와있는 나의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['173cm' 이성경, 군살無 레깅스 몸매+신비로운 눈동자 '힙하다 힙해']]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003814971</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003814971"/>
-        <updated>2021-12-22T12:35:31.751Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 이유나 기자] 배우 이성경이 군살없는 레깅스 몸매와 신비로운 눈동자를 뽐냈다. 이성경은 22일 인스타그램에 최근 엘르 매거진과 함께한 화보를 공개했다. 173cm의 큰 키를 활용한 모델 포즈에 가만히 바]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['진태현♥' 박시은, 청순 머금은 미모...교통체증에 셀카찍기[TEN★]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000519824</id>
-        <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000519824"/>
-        <updated>2021-12-22T12:35:31.751Z</updated>
-        <content type="html"><![CDATA[[텐아시아=조준원 기자] 배우 박시은이 근황을 전했다. 박시은은 22일 자신의 인스타그램에 "차가막힐땐~#사진찍기ㅎㅎ"라는 글과 함께 여러 장의 사진을 게재했다. 공개된 사진 속 박시은이 차량 내에서 셀카를 찍고 있]]></content>
     </entry>
 </feed>
