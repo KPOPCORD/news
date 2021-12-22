@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-22T03:23:54.034Z</updated>
+    <updated>2021-12-22T04:29:49.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[효린, 오늘 시즌송 '아하' 발매]]></title>
+        <id>https://entertain.v.daum.net/v/20211222123624117</id>
+        <link href="https://entertain.v.daum.net/v/20211222123624117"/>
+        <updated>2021-12-22T04:29:16.749Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 효린이 겨울 시즌 송을 공개한다.효린은 22일(수) 오후 6시 각종 음원사이트를 통해 신곡 ‘아하(A-Ha)’를 발매한다.신곡 ‘아하(A-Ha)’는 김이나 작사가가 효린의 실제 성격을 모티브 한 곡으로 효린의 러블리한 면모를 살펴볼 수 있다. 또한 효린표 겨울 시즌송으로 리스너들에게 신선함을 예고해 중독성 있는 멜로디와 청량 보이스를 담아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원위, 내년 1월4일 미니 2집 발매 '7개월만 컴백']]></title>
         <id>https://entertain.v.daum.net/v/20211222122028849</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211222101637350"/>
         <updated>2021-12-22T02:41:43.419Z</updated>
         <content type="html"><![CDATA[[OSEN=지민경 기자]&nbsp;샤이니 민호(에스엠엔터테인먼트 소속)가 단독 팬미팅을 성황리에 마쳤다. 민호의 단독 팬미팅 ‘BEST CHOI's MINHO 2021’(베스트 초이스 민호&nbsp;2021)은 지난&nbsp;21일 서울 광운대학교 동해문화예술관 대극장에서 열렸으며,&nbsp;네이버&nbsp;V LIVE의&nbsp;Beyond LIVE&nbsp;채널을 통해 온라인 생중계되어 전 세계 팬들의 뜨거운 호응]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙핑크 팬덤 "이한열 열사기념관 항의 전화? 명백한 허위사실"]]></title>
-        <id>https://entertain.v.daum.net/v/20211222101407266</id>
-        <link href="https://entertain.v.daum.net/v/20211222101407266"/>
-        <updated>2021-12-22T02:41:43.420Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 박상후 기자] 그룹 블랙핑크 팬들이 이한열 열사 기념관 항의 전화 논란에 대한 입장을 밝혔다. 디시인사이드 블랙핑크 갤러리 측은 22일 "최근 유포된 허위사실을 바로잡기 위해 저희의 입장을 밝힌다. '이한열 열사 기념사업회에 항의 전화를 하자'는 글은 애초에 블랙핑크 갤러리가 아닌 '설강화' 미니 갤러리에 한 익명 유저가 작성한 거다"라고]]></content>
     </entry>
 </feed>
