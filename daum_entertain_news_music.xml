@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-22T20:23:26.738Z</updated>
+    <updated>2021-12-22T21:20:30.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['발연기 아이돌'의 부활..'설강화' 지수의 형편없는 연기]]></title>
+        <id>https://entertain.v.daum.net/v/20211223060107631</id>
+        <link href="https://entertain.v.daum.net/v/20211223060107631"/>
+        <updated>2021-12-22T21:19:57.024Z</updated>
+        <content type="html"><![CDATA[[텐아시아=우빈 기자]≪우빈의 리듬파워≫목요일 아침마다 우빈 텐아시아 기자가 알려주는 흥미진진한 가요계 이야기. 모두가 한 번쯤은 궁금했던, 그러나 스치듯 지나갔던 그 호기심을 해결해드립니다.지금처럼 가수와 배우의 경계선이 허물어지기 전, 아이돌 멤버를 드라마에 캐스팅 하는 건 도박과 같았다. 연기를 잘해낸다고 '대박'이 나는 건 아니지만 연기를 못하면 으]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅 팬들 한부모가정·조손가정에 405만원 상당 생필품 전달..선한 영향력 실천]]></title>
         <id>https://entertain.v.daum.net/v/20211223000001523</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211222162822166"/>
         <updated>2021-12-22T08:27:57.000Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 싱어송라이터 에이보키드(AVOKID)가 '쇼미더머니' 출신 래퍼 김승민과 싱글 ‘Cola'를 발매한다. 12월 23일 발매될 싱글 ‘Cola’는 이전 곡의 밝은 분위기에 상반되는 감각적인 힙합 비트와 강렬하게 귀에 꽂히는 김승민 피처링의 조화를 보여준다. 한요한, 기리보이 등 힙합 아티스트를 넘어서 NCT, 태민, 펜타곤등 케이팝]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이브, 데뷔 쇼케이스 비하인드 오픈..상큼·발랄 여고생 바이브 '반전 매력']]></title>
-        <id>https://entertain.v.daum.net/v/20211222155237747</id>
-        <link href="https://entertain.v.daum.net/v/20211222155237747"/>
-        <updated>2021-12-22T07:21:30.335Z</updated>
-        <content type="html"><![CDATA[[OSEN=이승훈 기자] 6인조 신예 아이브(IVE)가 데뷔 쇼케이스 비하인드 영상을 공개했다. 지난 21일 아이브(유진, 가을, 레이, 원영, 리즈, 이서) 공식 유튜브 채널을 통해 데뷔 쇼케이스 비하인드 현장이 담긴 영상이 공개됐다. 데뷔 쇼케이스를 앞둔 아이브는 각자의 방법으로 설렘과 긴장이 가득한 마음을 달랬다. 유진은 이날을 위해 아껴왔던 액세서리]]></content>
     </entry>
 </feed>
