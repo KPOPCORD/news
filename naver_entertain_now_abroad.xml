@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-22T05:23:16.913Z</updated>
+    <updated>2021-12-22T06:28:29.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[톰 홀랜드 친구 맞아?…무려 45kg 감량 후 얼굴 '급노화' [Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004530079</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004530079"/>
+        <updated>2021-12-22T06:28:28.985Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 배우 제이콥 배덜런이 다이어트에 성공해 몰라보게 달라진 비주얼을 과시했다. 제이콥 배덜런이 2년여간 고강도 운동과 식단 관리를 통해 체중 감량에 성공한 것으로 21일(현지 시간) 현지 매체를]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유역비, 촌스러운 점퍼 입은 사진 화제..”예쁜 외투 중요치 않아” [Oh! 차이나]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004530075</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004530075"/>
+        <updated>2021-12-22T06:28:28.985Z</updated>
+        <content type="html"><![CDATA[[OSEN=지민경 기자] 중국 배우 유역비가 과거 영화 촬영장에서 입은 사복이 화제를 모은 것에 대한 자신의 생각을 밝혔다. 지난 20일(현지 시간) 중국 매체 시나 연예 보도에 따르면 유역비는 최근 중국 패션 매거]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일본 '겨울왕국 안나' 성우, 공연 앞두고 호텔서 숨진 채 발견]]></title>
         <id>https://entertain.naver.com/now/read?oid=417&amp;aid=0000767110</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000839191"/>
         <updated>2021-12-22T02:42:11.951Z</updated>
         <content type="html"><![CDATA[배우 공유가 22일 오전 온라인으로 진행된 넷플릭스 시리즈 '고요의바다' 제작발표회에 참석하고 있다. 사진=넷플릭스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이수만, 미국 '버라이어티 500' 한국인 유일 5년 연속 선정]]></title>
-        <id>https://entertain.naver.com/now/read?oid=016&amp;aid=0001927865</id>
-        <link href="https://entertain.naver.com/now/read?oid=016&amp;aid=0001927865"/>
-        <updated>2021-12-22T02:42:11.952Z</updated>
-        <content type="html"><![CDATA[[헤럴드경제=이명수 기자] 이수만 SM엔터테인먼트 총괄 프로듀서가 미국 대중문화 잡지 버라이어티가 발표한 '버라이어티 500'에 한국인으로는 유일하게 5년 연속 선정됐다. 22일 SM엔터테인먼트에 따르면 이수만 총괄]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[두아 리파, 4살 연하 모델 남친과 결별설 “관계 파탄에 이른 듯”]]></title>
-        <id>https://entertain.naver.com/now/read?oid=022&amp;aid=0003650165</id>
-        <link href="https://entertain.naver.com/now/read?oid=022&amp;aid=0003650165"/>
-        <updated>2021-12-22T02:42:11.955Z</updated>
-        <content type="html"><![CDATA[두아 리파 인스타그램 캡처 가수 두아 리파(사진·26)가 연인과 결별했다는 소식이 전해졌다. 코스모폴리탄은 21일(현지시간) 두아 리파가 모델 앤워 하디드(22)와 약 2년 만에 결별했다고 전했다. 또 영국 일간지]]></content>
     </entry>
 </feed>
