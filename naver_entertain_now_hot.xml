@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-12-22T17:29:18.329Z</updated>
+    <updated>2021-12-22T18:26:12.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[양치승 분노, 대출 사기 문자에 “소상공인 힘든 점 이용하다니...”]]></title>
+        <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001630283</id>
+        <link href="https://entertain.naver.com/now/read?oid=057&amp;aid=0001630283"/>
+        <updated>2021-12-22T18:26:04.135Z</updated>
+        <content type="html"><![CDATA[양치승이 대출 사기 문자에 분노했다. 양치승은 22일 자신의 SNS에 사진으 올렸다. 공개된 사진은 양치승이 받은 문자로, 해당 문자에는 “소기업, 소상공인의 경영 부담을 완화하고 취약계층 서민들을 위한 특별금융 지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고민시 화보, 청초한 미모+순백의 여신]]></title>
         <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001630282</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0004897807"/>
         <updated>2021-12-22T13:29:34.829Z</updated>
         <content type="html"><![CDATA[래퍼 도끼(Dok2)가 미국의 귀금속 업체가 낸 귀금속 구입 대금 지급 소송 1심에서 패소했다. 22일 연합뉴스에 따르면 서울남부지법 민사6단독 안홍준 판사는 미국 로스앤잴레스(LA) 소재 보석업체 상인 A씨가 도끼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이찬원 셀카, 훈훈 비주얼…"감기 조심, 건강 잘 챙기세요"]]></title>
-        <id>https://entertain.naver.com/now/read?oid=009&amp;aid=0004897803</id>
-        <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0004897803"/>
-        <updated>2021-12-22T12:35:31.737Z</updated>
-        <content type="html"><![CDATA[가수 이찬원이 셀카를 공개했다. 이찬원은 22일 인스타그램에 “요즘 날씨가 너무 추워요! 주말에는 더 춥다고 하니 다들 감기 조심하시고 건강 잘 챙기세요~”라는 글과 사진을 게재했다. 이어 “#세상에나마상에나 #날씨]]></content>
     </entry>
 </feed>
