@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-22T11:20:44.769Z</updated>
+    <updated>2021-12-22T12:35:38.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이찬원, 오늘도 훈남 비주얼 열일 "감기 조심하세요!"[스타IN★]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003014793</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003014793"/>
+        <updated>2021-12-22T12:35:25.011Z</updated>
+        <content type="html"><![CDATA['찬또배기' 이찬원이 훈훈한 미소로 여심을 자극했다. 이찬원은 22일 자신의 인스타그램을 통해 "요즘 날씨가 너무 추워요!! 주말에는 더 춥다고 하니 다들 감기 조심하시고 건강 잘 챙기세요~!!^^ #세상에나마상에나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서리, 음악 플랫폼 섭렵…글로벌 존재감 재확인]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000839300</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=112&amp;aid=0003512593"/>
         <updated>2021-12-22T08:28:16.889Z</updated>
         <content type="html"><![CDATA[[헤럴드POP=박서연 기자]가수 양준일이 팬미팅, 포토북 등과 관련해 탈세 의혹에 휩싸였다. 양준일은 내년 1월 8일 경기 안양아트센터 관악홀에서 단독 팬미팅 '리부트(REBOOT): 우리만의 여행'을 개최한다. 앞]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온앤오프 'Beautiful Beautiful', 英 데이즈드 선정 '2021년 베스트 케이팝 트랙' 1위]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003014750</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003014750"/>
-        <updated>2021-12-22T08:28:16.890Z</updated>
-        <content type="html"><![CDATA['명곡 맛집' 온앤오프(ONF)의 'Beautiful Beautiful'이 '2021년 베스트 케이팝 트랙' 1위의 영광을 차지했다. 지난 20일(현지 시간) 영국 유명 매거진 데이즈드(DAZED)가 공식 홈페이지에]]></content>
     </entry>
 </feed>
