@@ -4,9 +4,17 @@
         <title>MBC 연예 ─ 아이돌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 04:29:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 05:23:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['주간아이돌' 우주소녀·SF9 찐텐 커버 댄스 대결 승자는?]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333929</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333929</guid>
+            <pubDate>Wed, 22 Dec 2021 05:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333929">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/22/2ec8d8e4-dd8e-4fe7-9e04-ddc84559d9ea.jpg" alt="'주간아이돌' 우주소녀·SF9 찐텐 커버 댄스 대결 승자는?">        <div class="text-box">            <p class="summary">'주간아이돌' 우주소녀·SF9 찐텐 커버 댄스 대결 승자는?</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/22/2ec8d8e4-dd8e-4fe7-9e04-ddc84559d9ea.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[포토] 조이, '아크로바틱' 하트콤보]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/333926</link>
@@ -86,14 +94,6 @@
             <pubDate>Tue, 21 Dec 2021 07:20:22 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333868">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/21/b613429c-c568-414b-8e41-d691f9bbce9a.jpg" alt="우주소녀·SF9 '주간아이돌' 출격…텐션 폭발 활약">        <div class="text-box">            <p class="summary">우주소녀·SF9 '주간아이돌' 출격…텐션 폭발 활약</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/21/b613429c-c568-414b-8e41-d691f9bbce9a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[효린→인성, 전·현직 아이돌 10人 의기투합한 '더블 트러블' [종합]]]></title>
-            <link>http://enews.imbc.com/News/RetrieveNewsInfo/333863</link>
-            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/333863</guid>
-            <pubDate>Tue, 21 Dec 2021 07:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333863">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/21/9d564ccf-3441-4644-a730-9a7f9e4ccf48.jpg" alt="효린→인성, 전·현직 아이돌 10人 의기투합한 '더블 트러블' [종합]">        <div class="text-box">            <p class="summary">효린→인성, 전·현직 아이돌 10人 의기투합한 '더블 트러블' [종합]</p>        </div>    </a>]]></content:encoded>
-            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/21/9d564ccf-3441-4644-a730-9a7f9e4ccf48.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
