@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-22T19:17:49.277Z</updated>
+    <updated>2021-12-22T20:23:26.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임영웅 제주 팬들 사랑의 저금통+후원금 "따뜻한 온기 전달되길"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003014819</id>
+        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003014819"/>
+        <updated>2021-12-22T20:23:12.912Z</updated>
+        <content type="html"><![CDATA[가수 임영웅의 제주 지역 팬들이 사랑의 저금통과 후원금으로 선한 영향력을 실천했다. 임영웅 팬클럽 영웅시대 with HERO 제주는 한국백혈병소아암협회 제주지회에 사랑의 저금통 55개와 후원금 50만원을 기부했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅 팬들 한부모가정·조손가정에 405만원 상당 생필품 전달..선한 영향력 실천]]></title>
         <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003014812</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010904289"/>
         <updated>2021-12-22T09:22:51.173Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]김예지 인턴 기자 = 그룹 '트와이스'가 미국 빌보드 메인 앨범차트 '빌보드 200'에 5주 연속 랭크인했다. 21일(현지시간) 빌보드에 따르면 트와이스가 지난달 12일 발매한 정규 3집 '포뮬러 오브]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양준일, 고가 팬미팅→포토북 탈세 의혹…무슨 일?]]></title>
-        <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010904287</id>
-        <link href="https://entertain.naver.com/now/read?oid=003&amp;aid=0010904287"/>
-        <updated>2021-12-22T09:22:51.173Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]전재경 인턴 기자 = 가수 양준일이 고가 팬미팅 티켓 논란에 휩싸인 데 이어 탈세 의혹이 제기됐다. 양준일은 내년 1월8일 오후 2시와 오후 7시 경기도 안양아트센터 관악홀에서 단독 팬미팅 '리부트(R]]></content>
     </entry>
 </feed>
