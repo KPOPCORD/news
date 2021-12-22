@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-12-22T16:36:29.325Z</updated>
+    <updated>2021-12-22T17:29:18.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['골목식당' 포항 덮죽집→하남 모녀김밥집, 마지막 점검 '눈길']]></title>
+        <id>https://entertain.v.daum.net/v/20211223022100120</id>
+        <link href="https://entertain.v.daum.net/v/20211223022100120"/>
+        <updated>2021-12-22T17:28:50.686Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 골목식당이 200회를 맞았다. 22일 방송된 SBS '골목식당'에서는 200회 특집으로 그동안 만났던 사장님들을 다시 만났다. 이날 방송에서 가장 먼저 향한 곳은 하남 석바대 골목의 모녀김밥집이었다. 좁은 공간으로 포장에만 전념하는 것으로 바뀐 모녀김밥집은 요원들의 기습 방문에도 여전히 친절한 서비스를 선보였다. 그리고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['배틀인더박스' 지상렬x윤택 외모대결→종이컵쌓기 "이 게임 누가 만들었니"]]></title>
         <id>https://entertain.v.daum.net/v/20211223010300914</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211223000013540"/>
         <updated>2021-12-22T15:23:50.248Z</updated>
         <content type="html"><![CDATA["이제서야 즐기는 법을 알게 됐죠" [더팩트｜박지윤 기자] 배우 안희연의 필모그래피는 꽤 흥미롭다. 병원에서 첫사랑과 재회하는 비뇨기과 의사부터 4년째 길거리를 헤매는 18살 비행 청소년까지, 단순하고 평범한 캐릭터가 없다. 이렇게 매 작품 자기 변주를 꾀하는 그는 하니에게서는 보지 못했던 새로운 얼굴로 대중들을 만나고 있다. 2012년 EXID 하니로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하남 닭갈빗집→고기국숫집, '골목식당' 기습 점검 합격]]></title>
-        <id>https://entertain.v.daum.net/v/20211222235707517</id>
-        <link href="https://entertain.v.daum.net/v/20211222235707517"/>
-        <updated>2021-12-22T15:23:50.248Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = '백종원의 골목식당' 하남 석바대 골목의 닭갈빗집과 고기국숫집이 기습 점검에 합격했다. 22일 오후에 방송된 SBS '백종원의 골목식당'(이하 '골목식당')에서는 '200회 특집' 첫 번째 이야기가 공개됐다. 마지막 점검 후 1년이 지난 '골목식당'은 이날 최근 1년간 만난 가게들을 기습 방문했다. 하남 석바대골목을 찾은]]></content>
     </entry>
 </feed>

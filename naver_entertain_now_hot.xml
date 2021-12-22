@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=221</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 연예가화제</title>
-    <updated>2021-12-22T16:36:29.327Z</updated>
+    <updated>2021-12-22T17:29:18.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고민시 화보, 청초한 미모+순백의 여신]]></title>
+        <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001630282</id>
+        <link href="https://entertain.naver.com/now/read?oid=057&amp;aid=0001630282"/>
+        <updated>2021-12-22T17:29:10.780Z</updated>
+        <content type="html"><![CDATA[배우 고민시의 눈부신 비주얼 화보를 공개했다. 온통 새하얗게 꾸며진 스튜디오를 뒤로 한 채 카메라 앞에 선 배우 고민시는 순백의 천사 같은 청초한 비주얼을 드러내며 모두를 놀라게 만들었다. 내추럴한 메이크업과 심플한]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신세경 청초한 분위기 [화보]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=382&amp;aid=0000952522</id>
+        <link href="https://entertain.naver.com/now/read?oid=382&amp;aid=0000952522"/>
+        <updated>2021-12-22T17:29:10.780Z</updated>
+        <content type="html"><![CDATA[신세경 청초한 분위기 [화보] 스크린과 브라운관을 넘나들며 다채로운 연기를 선보이는 배우 신세경. 그가 비건 뷰티 브랜드와 함께한 마리끌레르 1월 호 화보를 공개했다. 선공개된 화보 속에서 신세경은 탄력 있게 빛나는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박은빈 화보, 청초하고도 단단한 매력]]></title>
         <id>https://entertain.naver.com/now/read?oid=057&amp;aid=0001630281</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0004897803"/>
         <updated>2021-12-22T12:35:31.737Z</updated>
         <content type="html"><![CDATA[가수 이찬원이 셀카를 공개했다. 이찬원은 22일 인스타그램에 “요즘 날씨가 너무 추워요! 주말에는 더 춥다고 하니 다들 감기 조심하시고 건강 잘 챙기세요~”라는 글과 사진을 게재했다. 이어 “#세상에나마상에나 #날씨]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마지막회 앞둔 '내일은 국민가수', 톱10 참여 전국 투어 콘서트 확정. 2월 26일 서울 공연부터]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003814983</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003814983"/>
-        <updated>2021-12-22T12:35:31.746Z</updated>
-        <content type="html"><![CDATA['내일은 국민가수' TOP10이 전국투어 콘서트에 나선다. TV CHOSUN 글로벌 K-POP 오디션 '내일은 국민가수(이하 '국민가수')'의 TOP10 박창근, 김동현, 이솔로몬, 이병찬, 박장현, 고은성, 손진욱]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서효림, '9세 연상' ♥남편에 '초대형' 선물받고 폭풍감동…커도 너무 커]]></title>
-        <id>https://entertain.naver.com/now/read?oid=076&amp;aid=0003814974</id>
-        <link href="https://entertain.naver.com/now/read?oid=076&amp;aid=0003814974"/>
-        <updated>2021-12-22T12:35:31.751Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 이게은기자] 배우 서효림이 두 번째 결혼기념일을 자축했다. 22일 서효림은 자신의 인스타그램에 "2년 전 오늘이였구나 결혼기념일. 혼자 꽃 들고 예쁘게 사진 찍고 싶었는데 어느 순간 곁에 와있는 나의]]></content>
     </entry>
 </feed>
