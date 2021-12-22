@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-22T12:35:38.823Z</updated>
+    <updated>2021-12-22T13:29:42.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영탁 팬들 삼성서울병원 소아재활병동에 1183만원 기부..선한 영향력 실천]]></title>
+        <id>https://entertain.v.daum.net/v/20211222221831948</id>
+        <link href="https://entertain.v.daum.net/v/20211222221831948"/>
+        <updated>2021-12-22T13:29:05.861Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 문완식 기자] 가수 영탁의 팬들이 크리스마스를 맞아 재활 어린이들에게 기부로 따뜻한 사랑을 전했다. 영탁 팬클럽 영탁이 찐이야(ㅊㅇㄷㅊㄱㅌ)는 연말연시 크리스마스를 맞아 12월 22일 삼성서울병원 소아재활병동에 1183만 513원을 기부했다. 삼성서울병원의 소아재활치료대상에는 뇌성마비, 발달장애, 감각통합장애, 섭식장애, 근 골격계질환, 외상성]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZBA 2021  27일 개최]]></title>
+        <id>https://entertain.v.daum.net/v/20211222215540726</id>
+        <link href="https://entertain.v.daum.net/v/20211222215540726"/>
+        <updated>2021-12-22T13:29:05.861Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김수진 기자] 사진제공=자니브로스 어워즈 조직위원회Zanybros Awards 2021(ZBA 2021·쟈니브로스 어워즈 2021)이 오는 27일 개최된다. 올해로 20주년을 맞은 뮤직비디오 명가 쟈니 브로스(대표 김준홍·홍원기)는  지난해에 이어 두번째로 자니브로스 어워즈를 열고 K문화 콘텐츠를 창조한 기쁨을 함께  나눌 예정이다. 이날 진행될]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에이핑크, 내년 2월 신곡 컴백..'YG 이적' 손나은도 합류]]></title>
         <id>https://entertain.v.daum.net/v/20211222183430828</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211222154827602"/>
         <updated>2021-12-22T07:21:30.337Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 보이그룹 동키즈(DONGKIZ)가 겨울 시즌송의 탄생을 알렸다. 동키즈(원대, 경윤, 문익, 재찬, 종형)는 멤버 경윤과 재찬, 종형이 참여한 시즌송 ‘It’s All Right Part.2’ 발매일을 오는 30일로 확정짓고, 스포일러 티저와 스케줄러를 공개해 팬들의 기대심을 높였다. 공개된 ‘It’s All Right Part.2’ 스포일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 D-1' 자이언티, '선물을 고르며' MV 티저 공개..몽환적 분위기]]></title>
-        <id>https://entertain.v.daum.net/v/20211222154542510</id>
-        <link href="https://entertain.v.daum.net/v/20211222154542510"/>
-        <updated>2021-12-22T07:21:30.347Z</updated>
-        <content type="html"><![CDATA[[OSEN=지민경 기자]&nbsp;가수 자이언티(Zion.T)가 따뜻한 위로를 전한다. 소속사 더블랙레이블은 지난 21일 오후 7시 30분 공식 유튜브 채널을 통해 자이언티의 새 싱글 '선물을 고르며(A Gift!)'의 뮤직비디오 티저를 공개했다. 뮤직비디오 티저는 붉은 계열의 건물 위에 있던 자이언티가 떨어지는 장면으로 시작한다. 이어 흩날리는 은박지와 함께 떨어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단, 日 오리콘 새 역사..해외 그룹 최초 연간 앨범 랭킹 1위]]></title>
-        <id>https://entertain.v.daum.net/v/20211222154452476</id>
-        <link href="https://entertain.v.daum.net/v/20211222154452476"/>
-        <updated>2021-12-22T07:21:30.347Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 공미나 기자] /사진제공=빅히트 뮤직그룹 방탄소년단(BTS)이 일본 오리콘 차트에서 또 한 번 새 역사를 썼다. 해외 그룹 최초로 연간 앨범 랭킹 정상을 밟은 것. 22일 오리콘이 발표한 '연간 랭킹 2021'에 따르면, 'BTS, 더 베스트 (BTS, THE BEST)'는 '작품별 판매량' 부문의 '앨범 랭킹'에서 판매량 99만 3000장(집계]]></content>
     </entry>
 </feed>
