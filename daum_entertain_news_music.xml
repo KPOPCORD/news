@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-22T14:21:17.142Z</updated>
+    <updated>2021-12-22T15:24:17.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임영웅 팬들 한부모가정·조손가정에 405만원 상당 생필품 전달..선한 영향력 실천]]></title>
+        <id>https://entertain.v.daum.net/v/20211223000001523</id>
+        <link href="https://entertain.v.daum.net/v/20211223000001523"/>
+        <updated>2021-12-22T15:23:43.123Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 문완식 기자] 가수 임영웅의 팬들이 한부모가정과 조손가정에 405만원 상당 생필품 전달, 선한 영향력을 실천했다. 임영웅 팬클럽 'cafe 웅이나무'는 한부모가정과 조손가정 60가구, 소방서, 소흘지구대, 소흘읍 선별진료소에 250만원 상당 생필품 꾸러미를 전달했다. 'cafe 웅이나무'는 이에 더해 소방서, 지구선별대, 코로나 선별진료소에 2]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영탁 팬들 삼성서울병원 소아재활병동에 11830513원 기부..선한 영향력 실천]]></title>
         <id>https://entertain.v.daum.net/v/20211222221831948</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211222155237747"/>
         <updated>2021-12-22T07:21:30.335Z</updated>
         <content type="html"><![CDATA[[OSEN=이승훈 기자] 6인조 신예 아이브(IVE)가 데뷔 쇼케이스 비하인드 영상을 공개했다. 지난 21일 아이브(유진, 가을, 레이, 원영, 리즈, 이서) 공식 유튜브 채널을 통해 데뷔 쇼케이스 비하인드 현장이 담긴 영상이 공개됐다. 데뷔 쇼케이스를 앞둔 아이브는 각자의 방법으로 설렘과 긴장이 가득한 마음을 달랬다. 유진은 이날을 위해 아껴왔던 액세서리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동키즈, 30일 겨울 시즌송 발매]]></title>
-        <id>https://entertain.v.daum.net/v/20211222154827602</id>
-        <link href="https://entertain.v.daum.net/v/20211222154827602"/>
-        <updated>2021-12-22T07:21:30.337Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 보이그룹 동키즈(DONGKIZ)가 겨울 시즌송의 탄생을 알렸다. 동키즈(원대, 경윤, 문익, 재찬, 종형)는 멤버 경윤과 재찬, 종형이 참여한 시즌송 ‘It’s All Right Part.2’ 발매일을 오는 30일로 확정짓고, 스포일러 티저와 스케줄러를 공개해 팬들의 기대심을 높였다. 공개된 ‘It’s All Right Part.2’ 스포일]]></content>
     </entry>
 </feed>
