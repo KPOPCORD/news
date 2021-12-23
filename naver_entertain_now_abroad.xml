@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-23T05:22:18.299Z</updated>
+    <updated>2021-12-23T06:26:30.796Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제임스 프랭코 “여학생들과 잠자리 가진 것 사실. 합의된 관계라 생각해”]]></title>
+        <id>https://entertain.naver.com/now/read?oid=022&amp;aid=0003650613</id>
+        <link href="https://entertain.naver.com/now/read?oid=022&amp;aid=0003650613"/>
+        <updated>2021-12-23T06:26:30.057Z</updated>
+        <content type="html"><![CDATA[미국 라디오 채널 SiriusXM(시리우스XM) 캡처 배우 제임스 프랭코(사진)가 제자들과 성관계를 가졌다고 시인했다. 프랭코는 지난 22일(현지시간) 공개된 미국 라디오 채널 SiriusXM(시리우스XM)의 The]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“性 중독, 여학생들과 잠자리” 제임스 프랭코, 피소 2년만 고백[할리우드비하인드]]]></title>
         <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000525532</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000839203"/>
         <updated>2021-12-22T02:42:11.939Z</updated>
         <content type="html"><![CDATA[배우 정우성이 22일 오전 온라인으로 진행된 넷플릭스 시리즈 '고요의 바다' 제작발표회에 참석하고 있다. 사진=넷플릭스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배두나 '넷플릭스 고요의 바다 기대하세요' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000839202</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000839202"/>
-        <updated>2021-12-22T02:42:11.940Z</updated>
-        <content type="html"><![CDATA[배우 배두나가 22일 오전 온라인으로 진행된 넷플릭스 시리즈 '고요의 바다' 제작발표회에 참석하고 있다. 사진=넷플릭스]]></content>
     </entry>
 </feed>
