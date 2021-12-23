@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-23T13:29:32.709Z</updated>
+    <updated>2021-12-23T14:21:15.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[카디비, 남편 생일에 '23억' 수표…"남다른 플렉스"]]></title>
+        <id>https://entertain.naver.com/now/read?oid=008&amp;aid=0004687511</id>
+        <link href="https://entertain.naver.com/now/read?oid=008&amp;aid=0004687511"/>
+        <updated>2021-12-23T14:21:15.203Z</updated>
+        <content type="html"><![CDATA[래퍼 카디비(Cardi B)가 남편인 가수 오프셋(Offset)의 30번째 생일에 200만달러(한화 약 23억7000만원) 수표를 선물로 쾌척했다. 22일(현지시간) TMZ는 카디B가 남편 오프셋이 나이키와 협업한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTS→세븐틴…하이브 아티스트, 日 오리콘 점령]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010906519</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000839413"/>
         <updated>2021-12-23T07:20:57.539Z</updated>
         <content type="html"><![CDATA[탈북 방송인 강나라가 23일 오후 서울 강남구 논현동 엘리애나 호텔에서 진행된 '2021 K-Meta Forum'에 참석해 포즈를 취하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강혜연 '싱그러운 꽃미소' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000839411</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000839411"/>
-        <updated>2021-12-23T07:20:57.540Z</updated>
-        <content type="html"><![CDATA[트롯 가수 강혜연이 23일 오후 서울 강남구 논현동 엘리애나 호텔에서 진행된 '2021 K-Meta Forum'에 참석해 포즈를 취하고 있다.]]></content>
     </entry>
 </feed>

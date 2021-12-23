@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-23T13:29:32.704Z</updated>
+    <updated>2021-12-23T14:21:15.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단·세븐틴 등 하이브 레이블즈, 日 오리콘 차트 장악]]></title>
+        <id>https://entertain.v.daum.net/v/20211223230300175</id>
+        <link href="https://entertain.v.daum.net/v/20211223230300175"/>
+        <updated>2021-12-23T14:20:43.069Z</updated>
+        <content type="html"><![CDATA[하이브 레이블즈 아티스트들이 일본 오리콘 차트를 장악하며 막강한 저력을 각인시켰다. 오리콘이 지난 22일 발표한 ‘연간 랭킹 2021’(집계 기간 2020년 12월 28일~2021년 12월 20일)에 따르면, ‘앨범 랭킹’에서 방탄소년단의 ‘BTS, THE BEST’ 1위, 세븐틴의 ‘Attacca’와 ‘Your Choice’가 각각 5위와 9위를 기록했다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['국민가수' 이병찬, 긴장 없이 정준일 '첫눈' 완벽 소화..현재 1위]]></title>
+        <id>https://entertain.v.daum.net/v/20211223230007154</id>
+        <link href="https://entertain.v.daum.net/v/20211223230007154"/>
+        <updated>2021-12-23T14:20:43.078Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김한길 기자] '국민가수' 이병찬이 정준일의 '첫눈'을 완벽히 소화했다. 23일 밤 방송된 TV CHOSUN 오디션프로그램 '내일은 국민가수'(이하 '국민가수') 최종회에서는 TOP7의 대망의 파이널 결승전이 펼쳐졌다. 그 가운데 지난 결승 1라운드에서 4위를 한 이병찬은 이날 네 번째 주자로 무대에 섰다. 그는 '국민가수'가 자신에게 첫]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임영웅 안산 팬클럽, 중증장애시설에 후원금 전달..선한 영향력]]></title>
+        <id>https://entertain.v.daum.net/v/20211223223003947</id>
+        <link href="https://entertain.v.daum.net/v/20211223223003947"/>
+        <updated>2021-12-23T14:20:43.090Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이정범 기자) 임영웅 안산 팬클럽의 기부가 눈길을 끈다. 임영웅 팬클럽 ‘안산영웅시대’은 대부도에 위치한 &nbsp;중증장애시설인 어린양의집에 후원금 약 94만 9천 원을 기부했다고 밝혔다. 그들은 “임영웅의 선한 영향력에 감동을 받아 작년 8월부터 이곳과 인연이 맺어 지금까지 기부 6회, 봉사 5회를 다녀왔다”라고 전했다. 임영웅 팬클럽 측은 “이번]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅, '억대 출연료' 거절..노 개런티 단독쇼 '미담 제조기']]></title>
         <id>https://entertain.v.daum.net/v/20211223201406194</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211223171902761"/>
         <updated>2021-12-23T08:27:14.544Z</updated>
         <content type="html"><![CDATA[[스타뉴스 윤상근 기자] 에이핑크 박초롱이 24일 오후 서울 광진구 자양동 건대입구 롯데시네마에서 열린 영화 '불량한 가족' 언론시사회에 참석해 포즈를 취하고 있다.  '불량한 가족'은 음악만이 유일한 친구였던 ‘유리’가 우연히 ‘다혜’의 특별한 가족을 만나 진정한 성장을 하게 되는 이야기를 담은 휴먼 코미디 드라마. 오는 7월 9일 개봉. /사진=김창현]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤도현, '코로나 확진' 유희열 대신 '유스케' 스페셜 MC 출격]]></title>
-        <id>https://entertain.v.daum.net/v/20211223170116201</id>
-        <link href="https://entertain.v.daum.net/v/20211223170116201"/>
-        <updated>2021-12-23T08:27:14.548Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] '윤도현의 러브레터'를 진행했던 YB 윤도현이 오랜만에 음악 토크쇼 MC로 돌아온다. 24일 밤 12시 35분 방송되는 KBS2 음악프로그램 '유희열 스케치북'에는 거미, 포지션, 빅마마, 홍경민, 장혜진, 윤민수, 김범수, 디바가 출연해 '난.. ㄱr끔 눈물을 흘린ㄷr' 특집 3편을 꾸민다. 최근 진행된 '유희열의 스케치북']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송가인, 트롯스타 19주 연속 압도적 독주→1월 컴백 확정]]></title>
-        <id>https://entertain.v.daum.net/v/20211223163326247</id>
-        <link href="https://entertain.v.daum.net/v/20211223163326247"/>
-        <updated>2021-12-23T08:27:14.550Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 가수 송가인이 트롯스타 투표에서 19주 연속 1위를 기록하며 적수 없는 독주를 이어가고 있다. 송가인은 12월 16일부터 23일까지 스타랭킹 플랫폼에서 진행된 ‘트롯스타 여자 1위는?’  투표에서 7만 7,974표를 획득했다. 송가인은 19주 연속 1위라는 놀라운 기록을 달성하며 장기집권 중이다. 송가인은 그간 음원 발매와 동시에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['학폭 의혹' 에이핑크 박초롱, 무고죄 '혐의 없음' 불송치]]></title>
-        <id>https://entertain.v.daum.net/v/20211223162810064</id>
-        <link href="https://entertain.v.daum.net/v/20211223162810064"/>
-        <updated>2021-12-23T08:27:14.550Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 그룹 에이핑크 멤버 박초롱이 무고죄 혐의와 관련 혐의 없음 불송치 결정을 받았다. 소속사 IST엔터테인먼트 측 관계자는 23일 오후 티브이데일리에 "박초롱이 무고 혐의에 대해 '혐의 없음'으로 불송치 결정을 받았다. 다만 확인 서류를 요청했지만 아직 받지 못한 상태다. 서류를 받는 데로 법무법인 측이 공식입장을 밝힐 예정"이라]]></content>
     </entry>
 </feed>
