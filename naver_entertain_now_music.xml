@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=7a5</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 뮤직</title>
-    <updated>2021-12-23T12:37:00.554Z</updated>
+    <updated>2021-12-23T13:29:32.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘K팝 4세대 선두주자’ 스트레이 키즈, 글로벌 플랫폼서도 막강 영향력]]></title>
+        <id>https://entertain.naver.com/now/read?oid=415&amp;aid=0000006896</id>
+        <link href="https://entertain.naver.com/now/read?oid=415&amp;aid=0000006896"/>
+        <updated>2021-12-23T13:29:16.835Z</updated>
+        <content type="html"><![CDATA[[앳스타일 박승현 기자] 스트레이 키즈(Stray Kids)가 글로벌 플랫폼서도 막강한 영향력을 선보이며 2021년 "대세" 다운 행보를 과시하고 있다. 지난 2020년 9월 14일 발매한 정규 1집 리패키지 앨범]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방시혁 하이브 의장, 美 ‘버라이어티 500’ 2년 연속 선정]]></title>
         <id>https://entertain.naver.com/now/read?oid=415&amp;aid=0000006894</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=052&amp;aid=0001680849"/>
         <updated>2021-12-23T09:23:07.037Z</updated>
         <content type="html"><![CDATA[가수 임영웅이 데뷔 후 처음으로 진행하는 KBS 송년특집 '위아 히어로, 임영웅'에 노개런티로 참여한다. 오늘(23일) 임영웅 소속사 물고기뮤직 측은 YTN Star에 "첫 단독 쇼 '위아 히어로, 임영웅'(We'r]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케플러, 오늘 '뮤플리'서 김채현X김다연X서영은 캐럴송 공개]]></title>
-        <id>https://entertain.naver.com/now/read?oid=477&amp;aid=0000334700</id>
-        <link href="https://entertain.naver.com/now/read?oid=477&amp;aid=0000334700"/>
-        <updated>2021-12-23T08:27:32.873Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=김원겸 기자]‘4세대 아이돌 대표 루키’ 케플러(Kep1er)가 팬들을 위한 깜짝 선물을 공개한다. 23일 플레이리스트의 음악 전문 유튜브 채널 ‘뮤플리’ 측은 “오늘 오후 8시 케플러 김채현, 김다연]]></content>
     </entry>
 </feed>
