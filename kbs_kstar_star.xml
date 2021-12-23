@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 연예</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 07:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 08:27:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[화보] '불가살' 김우석 "하얀 도화지 같은 소년이 어떻게 변해가지는지 보는 즐거움"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=181851</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=181851</guid>
+            <pubDate>Thu, 23 Dec 2021 08:26:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=181851">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211223164911_83680c2cbe3f111aae7f6dde72129a4e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=181851">[화보] '불가살' 김우석 "하얀 도화지 같은 소년이 어떻게 변해가지는지 보는 즐거움"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211223164911_83680c2cbe3f111aae7f6dde72129a4e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에이스 준, 웹드라마 '물들여' 주인공 발탁!]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=181755</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=180791">[SBS연예대상]  런닝맨 "시상식의 왕, 유재석은 올해 불참!"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211218212907_ace87bb795b2135923b78b26e8139491.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SBS연예대상]  '동상이몽2 너는 내 운명' 포토타임]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=180777</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=180777</guid>
-            <pubDate>Sat, 18 Dec 2021 12:32:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=180777">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211218210519_675f91272b8b7c31a4b1b803ac333f83.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=180777">[SBS연예대상]  '동상이몽2 너는 내 운명' 포토타임</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211218210519_675f91272b8b7c31a4b1b803ac333f83.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
