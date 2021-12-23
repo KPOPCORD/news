@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/music</id>
     <title>다음 연예 ─ 뉴스 ─ 뮤직</title>
-    <updated>2021-12-23T10:26:08.387Z</updated>
+    <updated>2021-12-23T11:19:52.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임영웅, '억대 출연료' 거절..노 개런티 단독쇼 '미담 제조기']]></title>
+        <id>https://entertain.v.daum.net/v/20211223201406194</id>
+        <link href="https://entertain.v.daum.net/v/20211223201406194"/>
+        <updated>2021-12-23T11:19:20.954Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김미화 기자] 가수 임영웅이 2일 오후 방송된 2021 Asia Artist Awards(2021 아시아 아티스트 어워즈, 2021 AAA) 시상식에서 멋진 무대를 선보이고 있다.  스타뉴스가 주최하고 AAA 조직위원회가 주관하는 AAA는 어디에서도 보지 못했던 새로운 무대를 선보이며 전 세계 팬들의 눈과 귀를 사로잡아 명실상부 NO.1 글로벌]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소코도모, '천재'도 성장한다]]></title>
         <id>https://entertain.v.daum.net/v/20211223180504037</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211223162810064"/>
         <updated>2021-12-23T08:27:14.550Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김종은 기자] 그룹 에이핑크 멤버 박초롱이 무고죄 혐의와 관련 혐의 없음 불송치 결정을 받았다. 소속사 IST엔터테인먼트 측 관계자는 23일 오후 티브이데일리에 "박초롱이 무고 혐의에 대해 '혐의 없음'으로 불송치 결정을 받았다. 다만 확인 서류를 요청했지만 아직 받지 못한 상태다. 서류를 받는 데로 법무법인 측이 공식입장을 밝힐 예정"이라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빌리‧아이브→JYP 신인, '4세대 걸그룹 대전' 벌써 뜨겁다]]></title>
-        <id>https://entertain.v.daum.net/v/20211223161002374</id>
-        <link href="https://entertain.v.daum.net/v/20211223161002374"/>
-        <updated>2021-12-23T07:20:29.011Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 주요 가요 기획사들이 신인 걸그룹들을 앞다퉈 내놓으면서 '4세대 걸그룹 대전'을 향한 K팝 팬들의 관심이 쏟아지고 있다. #미스틱스토리 첫 걸그룹 빌리(Billlie) 지난달 첫 미니앨범 'the Billage of perception : chapter one (더 빌리지 오브 퍼셉션 : 챕터 원)'을 통해 비주얼, 실력, 매력]]></content>
     </entry>
 </feed>
