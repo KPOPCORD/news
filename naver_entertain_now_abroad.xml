@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-23T03:22:35.031Z</updated>
+    <updated>2021-12-23T04:29:07.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오징어게임' 노미네이트, 美크리틱스초이스 연기… 코로나 여파]]></title>
+        <id>https://entertain.naver.com/now/read?oid=417&amp;aid=0000767598</id>
+        <link href="https://entertain.naver.com/now/read?oid=417&amp;aid=0000767598"/>
+        <updated>2021-12-23T04:29:06.404Z</updated>
+        <content type="html"><![CDATA[‘오징어게임’이 3개 부문 후보에 오른 미국 크리틱스 초이스 어워즈가 신종 코로나바이러스감염증(코로나19) 변이인 오미크론 확산에 대한 우려으로 연기됐다. 미국 방송·영화 비평가들로 구성된 크리틱스초이스협회(CCA)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["학생들과 성관계 했다"..피소 2년만에 잘못 인정한 연기파 배우 [Oh!llywood]]]></title>
         <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004530520</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000839199"/>
         <updated>2021-12-22T02:42:11.943Z</updated>
         <content type="html"><![CDATA[배우 배두나가 22일 오전 온라인으로 진행된 넷플릭스 시리즈 '고요의바다' 제작발표회에 참석하고 있다. 사진=넷플릭스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전처 못 잊었나…카니예 웨스트, 22세 연하 한국계 혼혈 모델 여친과 결별]]></title>
-        <id>https://entertain.naver.com/now/read?oid=022&amp;aid=0003650181</id>
-        <link href="https://entertain.naver.com/now/read?oid=022&amp;aid=0003650181"/>
-        <updated>2021-12-22T02:42:11.944Z</updated>
-        <content type="html"><![CDATA[카니예 웨스트 공식 홈페이지 캡처 래퍼 카니예 웨스트(44·사진)가 여자친구와 헤어졌다. 이 같은 소식은 미국 연예 매체 ‘페이지식스’가 지난 21일(현지시간) 전했다. 보도에 따르면 웨스트는 22살 연하 모델 비네]]></content>
     </entry>
 </feed>
