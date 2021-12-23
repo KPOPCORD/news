@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=309</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 해외연예</title>
-    <updated>2021-12-23T01:10:01.880Z</updated>
+    <updated>2021-12-23T02:39:25.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["학생들과 성관계 했다"..피소 2년만에 잘못 인정한 연기파 배우 [Oh!llywood]]]></title>
+        <id>https://entertain.naver.com/now/read?oid=109&amp;aid=0004530520</id>
+        <link href="https://entertain.naver.com/now/read?oid=109&amp;aid=0004530520"/>
+        <updated>2021-12-23T02:39:24.763Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 영화 '127 시간', '혹성탈출: 진화의 시작', '디스 이즈 디 엔드', '스프링 브레이커스' 등에 출연하며 연기력을 인정 받은 할리우드 배우 제임스 프랭코가 자신이 가르친 학생들과 성관]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​​​​​​​마동석·정호연, 美 버라이어티 선정 '전 세계 일약 스타 11인' 선정]]></title>
+        <id>https://entertain.naver.com/now/read?oid=311&amp;aid=0001388744</id>
+        <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001388744"/>
+        <updated>2021-12-23T02:39:24.764Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 마동석과 정호연이 미국 매체 버라이어티가 선정한 '2021년 일약 스타 11인'에 선정됐다. 22일(현지시간) 버라이어티는 마동석, 정호연 등의 이름이 포함된 '2021년 일약 스타]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[벨라 하디드, 일상서도 강렬한 모델 포스…동생 결별설 속 첫 포착 [N해외연예]]]></title>
         <id>https://entertain.naver.com/now/read?oid=421&amp;aid=0005800942</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=022&amp;aid=0003650181"/>
         <updated>2021-12-22T02:42:11.944Z</updated>
         <content type="html"><![CDATA[카니예 웨스트 공식 홈페이지 캡처 래퍼 카니예 웨스트(44·사진)가 여자친구와 헤어졌다. 이 같은 소식은 미국 연예 매체 ‘페이지식스’가 지난 21일(현지시간) 전했다. 보도에 따르면 웨스트는 22살 연하 모델 비네]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배두나 '우주 생존 드라마' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000839198</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000839198"/>
-        <updated>2021-12-22T02:42:11.944Z</updated>
-        <content type="html"><![CDATA[배우 배두나가 22일 오전 온라인으로 진행된 넷플릭스 시리즈 '고요의바다' 제작발표회에 참석하고 있다. 사진=넷플릭스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배두나 '중력도 공기도 없는 우주로!' [MK포토]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000839197</id>
-        <link href="https://entertain.naver.com/now/read?oid=410&amp;aid=0000839197"/>
-        <updated>2021-12-22T02:42:11.945Z</updated>
-        <content type="html"><![CDATA[배우 배두나가 22일 오전 온라인으로 진행된 넷플릭스 시리즈 '고요의바다' 제작발표회에 참석하고 있다. 사진=넷플릭스]]></content>
     </entry>
 </feed>
